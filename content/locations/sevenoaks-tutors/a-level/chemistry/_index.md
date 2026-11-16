@@ -1,13 +1,13 @@
 ---
-title: "Sevenoaks A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Sevenoaks A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
-description: "Free energy answers out by a factor of a thousand? It's usually a missed unit. Our Sevenoaks A-Level Chemistry tutors help your child online. From £37 an hour."
+description: "Free energy answers out by a factor of a thousand? It's usually a missed unit. Our A-Level Chemistry tutors for Sevenoaks help your child online. From £37."
 layout: "level-subject"
 location: "Sevenoaks"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Sevenoaks Families Chasing an A"
+hero_h1: "A-Level Chemistry Tutors for Sevenoaks Students"
 hero_lead: "Right method, wrong answer, and miles out. If that keeps happening in your child's Chemistry mocks, our A-Level Chemistry tutors for Sevenoaks students can help, starting with free energy questions, where the units are usually to blame."
 
 angle_eyebrow: "ONE MISSED UNIT, A THOUSAND TIMES OUT"

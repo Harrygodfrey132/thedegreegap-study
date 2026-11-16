@@ -1,13 +1,13 @@
 ---
 title: "GCSE Maths Tutors Covering Reigate | The Degree Gap"
 nav_title: "Maths"
-description: "Does your child need a 6 in Maths for a science at Reigate College? Our Reigate GCSE Maths tutors find where the marks go and win them back. Online, from £37."
+description: "Does your child need a 6 in Maths for a science at Reigate College? Our GCSE Maths tutors find where the marks go and win them back. Online, from £37."
 layout: "level-subject"
 location: "Reigate"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Reigate, When the Sciences Need a 6 in Maths Too"
+hero_h1: "GCSE Maths Tutors for Reigate Students"
 hero_lead: "It catches a lot of parents out. At Reigate College, your child's Maths grade matters to the Maths course and to all three sciences. Our GCSE Maths tutors for Reigate students find the topics costing your child marks, and work on them until the 6 feels safe."
 
 angle_eyebrow: "ONE GRADE, FOUR COURSES"
@@ -28,7 +28,7 @@ schools:
   - "Reigate Grammar School"
   - "Reigate College"
 
-steps_heading: "Getting started with a Reigate GCSE Maths tutor, in three steps"
+steps_heading: "Getting started with a GCSE Maths tutor for Reigate students, in three steps"
 steps_lead: "Tell us which courses are on your child's college form, and we'll see straight away how much is resting on Maths. The tutor profiles normally reach you the day after we speak."
 steps:
   - title: "Talk to us first"

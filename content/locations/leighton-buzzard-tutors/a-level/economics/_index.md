@@ -7,7 +7,7 @@ location: "Leighton Buzzard"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Leighton Buzzard Students Short on Evaluation Marks"
+hero_h1: "A-Level Economics Tutors for Leighton Buzzard Students"
 hero_lead: "The essays keep coming back with the same comment: more evaluation. Our A-Level Economics tutors for Leighton Buzzard students show your child what that actually means, with examples close to home and a structure they can repeat under time."
 
 angle_eyebrow: "HOUSING ESTATES, TRAINS AND AN AIRPORT"

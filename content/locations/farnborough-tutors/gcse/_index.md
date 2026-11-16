@@ -1,11 +1,11 @@
 ---
-title: "Farnborough GCSE Tutors | Online One-to-One | The Degree Gap"
+title: "Farnborough GCSE Tutors | One-to-One | The Degree Gap"
 description: "GCSE tutoring in Farnborough, online and one-to-one, aimed at the grade your child's chosen A-Level asks for as well as the college's. From £37, no contract."
 layout: "subject"
 location: "Farnborough"
 level: "GCSE"
 
-hero_heading_line1: "Online Farnborough GCSE Tutors for the Course Your Child Has Their Heart Set On"
+hero_heading_line1: "GCSE Tutors for Farnborough Students"
 hero_lead: "Your Year 11 says it's all under control, and maybe it is. But it's worth checking that the grades they're aiming at match the course they want. Our GCSE tutors for Farnborough students start there, online and one-to-one."
 
 grade_from: "5"
@@ -14,14 +14,14 @@ grade_stat: "The sort of climb weekly lessons aim for. How far and how fast depe
 grade_card: "aim"
 
 first_lesson_eyebrow: "THE COLLEGE PLACE AND THE COURSE"
-first_lesson_heading: "Before Grades, a Farnborough GCSE Tutor Asks About Courses"
+first_lesson_heading: "Before Grades, a GCSE Tutor for Farnborough Students Asks About Courses"
 first_lesson_context: "There's a good reason for asking. One grade gets your child into the college and another gets them onto the A-Level they want, and in Maths and the Sciences that second one is often higher. Aim only at the college's general entry grades, and the course itself can slip out of reach on results day."
 first_lesson_quote: "I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. …"
 first_lesson_quote_name: "Philippa"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "GCSE"
 
-tutor_strip_heading: "Farnborough GCSE tutors who plan around your child's A-Level choices"
+tutor_strip_heading: "GCSE tutors for Farnborough students who plan around your child's A-Level choices"
 tutor_strip_body: "On a free call, tell us which courses your child has an eye on, at Farnborough Sixth Form College or anywhere else, and within 24 hours you'll have two or three tutor profiles. Harry or Joe, our co-founders, interviewed every one of them. You're welcome to browse first."
 
 pathways_heading: "Farnborough's Options Once Year 11 Is Over"

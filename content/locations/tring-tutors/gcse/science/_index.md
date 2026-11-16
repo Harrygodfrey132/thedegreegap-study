@@ -7,7 +7,7 @@ location: "Tring"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Tring Students on Trilogy, Synergy or Triple"
+hero_h1: "GCSE Science Tutors for Tring Students"
 hero_lead: "Plenty of parents aren't sure which Science course their child is actually taking, and it changes which papers they sit. Our GCSE Science tutors for Tring students check that first, then work on the questions those papers ask."
 
 angle_eyebrow: "THREE ROUTES THROUGH ONE SUBJECT"

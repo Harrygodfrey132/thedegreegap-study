@@ -7,7 +7,7 @@ location: "Orpington"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Orpington Students Who Freeze at the Wordy Questions"
+hero_h1: "GCSE Maths Tutors for Orpington Students"
 hero_lead: "If your child can do the methods in class but goes blank when a question is three lines about a garden or a phone contract, you're not alone. Our GCSE Maths tutors for Orpington students teach them to find the Maths hiding in the words."
 
 angle_eyebrow: "WHEN MATHS ARRIVES AS A PARAGRAPH"

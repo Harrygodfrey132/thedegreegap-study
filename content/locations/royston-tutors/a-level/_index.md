@@ -1,27 +1,27 @@
 ---
 title: "Private A-Level Tutors in Royston | The Degree Gap"
-description: "Starting A-Levels at a new sixth form in Baldock or Cambridge? Our Royston A-Level tutors help your child with the Year 12 step up, online, from £37 an hour."
+description: "Starting A-Levels at a new sixth form in Baldock or Cambridge? Our A-Level tutors for Royston help your child with the Year 12 step up, online, from £37."
 layout: "subject"
 location: "Royston"
 level: "A-Level"
 
-hero_heading_line1: "Online Royston A-Level Tutors for Teenagers Starting Sixth Form Out of Town"
+hero_heading_line1: "A-Level Tutors for Royston Students"
 hero_heading_line2: ""
-hero_lead: "A new sixth form in another town, and A-Levels moving far faster than GCSEs ever did. If your child's first Year 12 marks have come home lower than you expected, Royston A-Level tutors on our platform can work out why with them, one-to-one and online."
+hero_lead: "A new sixth form in another town, and A-Levels moving far faster than GCSEs ever did. If your child's first Year 12 marks have come home lower than you expected, A-Level tutors for Royston students on our platform can work out why with them, one-to-one and online."
 
 grade_from: "C"
 grade_to: "A"
 grade_stat: "Cs to As, Alexander wrote, and the tutors helped with university choices and the application as well."
 
 first_lesson_eyebrow: "THE FIRST TERM SOMEWHERE NEW"
-first_lesson_heading: "What a Royston A-Level Tutor Does With the First Year 12 Test"
+first_lesson_heading: "What an A-Level Tutor for Royston Students Does With the First Year 12 Test"
 first_lesson_context: "Each October, the same call comes in from Royston parents: their child did well at GCSE, started at a sixth form in Baldock or Cambridge, and has just brought home a first test that looks nothing like those results. Some of that is the jump to A-Level, and some is a longer day in a new place. An A-Level tutor's first lesson goes through that test with your child and works out which is which."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Cs to As"
 
-tutor_strip_heading: "Royston A-Level tutors for long days and heavy timetables"
+tutor_strip_heading: "A-Level tutors for Royston students, for long days and heavy timetables"
 tutor_strip_body: "Your child might be at Knights Templar, Hills Road, Long Road or Freman. The lesson still happens at home, at a time that fits round the journey back. Look through a few of the tutors here, or tell us about your child and we'll pick."
 
 pathways_heading: "Life After Sixth Form for Royston Teenagers"

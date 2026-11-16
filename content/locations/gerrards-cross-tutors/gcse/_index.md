@@ -1,11 +1,11 @@
 ---
-title: "Gerrards Cross GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "Gerrards Cross GCSE tutors matched to your child's exam board, online and one-to-one. Tutor profiles within 24 hours of a free call, and lessons from £37."
+title: "Gerrards Cross GCSE Tutors | One-to-One | The Degree Gap"
+description: "GCSE tutors for Gerrards Cross matched to your child's exam board, online and one-to-one. Tutor profiles within 24 hours of a free call, and lessons from £37."
 layout: "subject"
 location: "Gerrards Cross"
 level: "GCSE"
 
-hero_heading_line1: "Online Gerrards Cross GCSE Tutors Who Find the Topic Behind a Disappointing Mock"
+hero_heading_line1: "GCSE Tutors for Gerrards Cross Students"
 hero_heading_line2: ""
 hero_lead: "The mock comes home a grade lower than anyone expected, and your child can't really tell you why. Our GCSE tutors for Gerrards Cross students sit down with that paper, find where the marks went, and work on it one hour a week, online."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "One Year 10 parent describes her son moving from a grade 5 to a 6/7 in English after six months, and now looking forward to his lessons."
 
 first_lesson_eyebrow: "SAME PAPER, WHATEVER THE SCHOOL"
-first_lesson_heading: "What a Gerrards Cross GCSE Tutor Looks For in the First Lesson"
+first_lesson_heading: "What a GCSE Tutor for Gerrards Cross Students Looks For in the First Lesson"
 first_lesson_context: "The sentence we hear most from Gerrards Cross parents is 'she was fine until Year 10'. Usually the GCSE tutor works out why within the first lesson: one method from a couple of years back that never quite set, now sitting underneath half the paper."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to 6/7 in GCSE English"
 
-tutor_strip_heading: "Gerrards Cross GCSE tutors matched to each child's own exam board"
+tutor_strip_heading: "GCSE tutors for Gerrards Cross students matched to each child's own exam board"
 tutor_strip_body: "Brothers and sisters here are often at different schools, which can mean Maths on Edexcel for one and AQA for the other. So we'll check your child's board before we suggest anyone. Have a look at the profiles, or let us do the matching for you."
 
 pathways_heading: "Where Gerrards Cross Year 11s Head at Sixteen"

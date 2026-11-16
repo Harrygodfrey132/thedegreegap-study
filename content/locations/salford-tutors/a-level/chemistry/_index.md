@@ -7,7 +7,7 @@ location: "Salford"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "A-Level Chemistry Tutors for Salford Students Who Can't Find the Synthesis Route"
+hero_h1: "A-Level Chemistry Tutors for Salford Students"
 hero_lead: "Your child learnt every mechanism for the test, then a question asked for a three-step route between two compounds and the page stayed empty. Our A-Level Chemistry tutors for Salford students teach your child to work a route out, rather than hope to remember one."
 
 angle_eyebrow: "CURLY ARROWS AND THREE-STEP ROUTES"

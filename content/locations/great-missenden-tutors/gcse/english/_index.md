@@ -7,7 +7,7 @@ location: "Great Missenden"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Great Missenden Students Who Spot the Technique but Can't Explain It"
+hero_h1: "GCSE English Tutors for Great Missenden Students"
 hero_lead: "Your child finds the metaphor, names it, and the answer stops there. Our GCSE English tutors for Great Missenden students teach them to say what the words actually do to a reader, which is where most of the marks are."
 
 angle_eyebrow: "NAMING IT ISN'T EXPLAINING IT"

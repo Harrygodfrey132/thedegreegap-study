@@ -1,13 +1,13 @@
 ---
-title: "Farnborough GCSE Science Tutors | Online | The Degree Gap"
+title: "Farnborough GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Moving on at 16? Farnborough GCSE Science tutors help your child find which of the three sciences is costing marks before college. One-to-one online, from £37."
+description: "Moving on at 16? GCSE Science tutors for Farnborough help your child find which of the three sciences is costing marks before college. Online, from £37."
 layout: "level-subject"
 location: "Farnborough"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Covering Farnborough, With College at 16 in Mind"
+hero_h1: "GCSE Science Tutors for Farnborough Students"
 hero_lead: "In Farnborough, your child will most likely move to a sixth form college at 16, and that college will look closely at the Science grade. Our GCSE Science tutors for Farnborough students work one-to-one online and find which of the three sciences is costing the marks."
 
 angle_eyebrow: "THE GRADE THAT DECIDES THE NEXT ROUTE"
@@ -39,7 +39,7 @@ steps:
     body: "Lessons run weekly in the online classroom Lessonspace, and every one has a replay your child can watch back. Most of the hour goes on exam questions. If a whole topic's missing, the tutor teaches it from scratch first. From £37 an hour, no contract."
 
 faqs:
-  - q: "My child's thinking about an engineering apprenticeship. Can a Farnborough Science tutor help?"
+  - q: "My child's thinking about an engineering apprenticeship. Can a Science tutor for Farnborough students help?"
     a: "Yes, and it's a common reason families here get in touch. The bigger aerospace and defence employers around Farnborough run school-leaver and degree apprenticeships. Each sets its own entry requirements, which change between intakes, and Maths and Science are usually named. Most also want an application form asking why your child wants the route, which is a piece of writing, not a test. A tutor can work on the Science grade that gets the application looked at, and several tutors on our platform have helped with the written part too."
   - q: "Does it matter which exam board my child's on for Science?"
     a: "Yes. The content's much the same across AQA, Edexcel and OCR, but the questions are worded and styled differently, and that includes how they ask about the required practicals. So a child who learned a practical one way can meet it framed another way and drop marks on something they really do know. We check the board before suggesting anyone. If your child's changed schools partway through, we'll look for a tutor who's taught both courses."

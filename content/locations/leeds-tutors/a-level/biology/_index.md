@@ -1,13 +1,13 @@
 ---
-title: "Leeds A-Level Biology Tutors | Online | The Degree Gap"
+title: "Leeds A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Is your child chasing Medicine or holding on to a B? Our Leeds A-Level Biology tutors plan for either, from the 25-mark essay to respiration. Online, from £37."
+description: "Is your child chasing Medicine or holding on to a B? Our A-Level Biology tutors for Leeds plan for either, from the 25-mark essay to respiration. Online,"
 layout: "level-subject"
 location: "Leeds"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors in Leeds, Matched to Your Child's Goal"
+hero_h1: "A-Level Biology Tutors for Leeds Students"
 hero_lead: "Some Leeds parents call us about a B that needs holding steady for a firm offer. Others are after the top grades for Medicine. Our A-Level Biology tutors for Leeds students work out which one your child needs before they plan a single lesson."
 
 angle_eyebrow: "SAME SUBJECT, TWO VERY DIFFERENT JOBS"
@@ -28,7 +28,7 @@ schools:
   - "Temple Moor High School"
   - "Cockburn School"
 
-steps_heading: "Three steps from a first call to a Leeds Biology tutor"
+steps_heading: "Three steps from a first call to a Biology tutor for Leeds students"
 steps_lead: "It's best to start before the Year 12 summer mocks, which shape the prediction UCAS eventually sees."
 steps:
   - title: "Tell us what's going on"
@@ -39,7 +39,7 @@ steps:
     body: "A weekly hour on the platform Lessonspace, with your child's work on the shared screen and the tutor marking it live. Pathways get drawn, not just described, and every lesson has a replay. Before the January mocks, some Year 13 families add a second lesson. From £37 an hour, with no contract."
 
 faqs:
-  - q: "Can a Leeds A-Level Biology tutor help my child apply for a Leeds Teaching Hospitals or NHS route?"
+  - q: "Can an A-Level Biology tutor for Leeds students help my child apply for a Leeds Teaching Hospitals or NHS route?"
     a: "Yes, though the first step is usually the grades rather than the application. Medicine and Dentistry at Leeds and the nearby Russell Group universities ask for grades around A*AA or AAA. Healthcare degree apprenticeships set their own requirements, and they often name Biology. So a tutor's main job is the predicted grade that gets your child's application read at all. Beyond that, the written side helps too. A teenager who can structure a long Biology essay can usually structure a personal statement."
   - q: "How can I tell whether it's a tutor my child needs, or more revision?"
     a: "Look at the working on a recent paper, not just the mark. If the answers are tidy and well organised but still miss the last mark or two on each question, it's technique, and that's the quickest thing a tutor can fix. If there's blank space or half-finished working on the longer questions, it's confidence with the method, and that's where a tutor helps most. And if your child's already scoring in the high 70s across mocks, practising one weak area is usually better value than a full weekly plan. We'll tell you which."

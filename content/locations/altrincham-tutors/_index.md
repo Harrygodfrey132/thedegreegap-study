@@ -1,9 +1,9 @@
 ---
 title: "Altrincham Tutoring | Trafford GCSE & A-Level | The Degree Gap"
-description: "Our Altrincham tutors help with the Trafford test, and with GCSE and A-Level whichever way it went. One-to-one online, with a free call first. From £37."
+description: "Our tutors for Altrincham help with the Trafford test, and with GCSE and A-Level whichever way it went. One-to-one online, with a free call first. From £37."
 layout: "single"
 location: "Altrincham"
-banner_heading: "The 11+ didn't settle everything. Online Altrincham tutors for what comes next"
+banner_heading: "GCSE and A-Level Tutors for Altrincham Families"
 banner_description: "Whichever way the Trafford test went at ten, the grades that matter get decided later. Our tutors for Altrincham families work with your child one-to-one online, on the topic that's actually slipping, not the school they ended up at."
 content_angle: "selective borough, two directions after the 11+"
 intro_1: "Every Altrincham family has a Trafford test story, even the ones who decided not to sit it. Trafford's the only borough in Greater Manchester that still runs one, and the result at ten has a way of hanging around. We see it both ways. There's the child who passed for Altrincham Grammar School for Girls or St Ambrose, and now brings home a 6 from a set where that feels like failing. And there's the child at Wellington School or Altrincham College who missed by a mark or two, and has quietly decided they're 'not the clever one'. Neither story decides the grade. It's the same GCSE papers and the same mark schemes, and the same Year 8 algebra gap turns up in both houses."

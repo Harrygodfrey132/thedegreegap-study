@@ -7,7 +7,7 @@ location: "Lincoln"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Lincoln Students Whose Calculus Keeps Unravelling"
+hero_h1: "A-Level Maths Tutors for Lincoln Students"
 hero_lead: "Differentiation looks fine on its own, then a question ties it to trigonometry and a real-world setting and your child loses the thread. Our A-Level Maths tutors for Lincoln students practise those long, linked questions until each step follows from the last."
 
 angle_eyebrow: "WHEN ONE TOPIC LEANS ON ANOTHER"

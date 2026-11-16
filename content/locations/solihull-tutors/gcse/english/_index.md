@@ -1,5 +1,5 @@
 ---
-title: "Solihull Online GCSE English Tutors | The Degree Gap"
+title: "Solihull GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "Revised hard and only the Literature grade moved? Online GCSE English tutoring for Solihull families, matched on exam board and set texts. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Solihull"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Solihull Families Stuck on Language"
+hero_h1: "GCSE English Tutors for Solihull Students"
 hero_lead: "Plenty of Solihull parents notice the same thing: a year of proper English revision, and only the Literature grade moved. Our GCSE English tutors for Solihull students work on your child's Language paper, where revising doesn't help much and weekly practice does."
 
 angle_eyebrow: "THE ENGLISH PAPER REVISION DOESN'T FIX"

@@ -1,11 +1,11 @@
 ---
 title: "A-Level Tutors in Wigan | The Degree Gap"
-description: "The first term at college moves fast. Our Wigan A-Level tutors help your child keep up, one-to-one and online, matched to their exam board. From £37 an hour."
+description: "The first term at college moves fast. Our A-Level tutors for Wigan help your child keep up, one-to-one and online, matched to their exam board. From £37."
 layout: "subject"
 location: "Wigan"
 level: "A-Level"
 
-hero_heading_line1: "Online Wigan A-Level Tutors for When College Moves Faster Than Your Child Expected"
+hero_heading_line1: "A-Level Tutors for Wigan Students"
 hero_heading_line2: ""
 hero_lead: "A few weeks into college, and your child's notes are piling up faster than they can make sense of them. Our A-Level tutors for Wigan students close the gaps Year 12 opens up. Ideally that's before the mocks that feed UCAS predictions, while there's still time to change the number."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "One parent's review: their son ended up almost two grades higher than his Year 13 mock."
 
 first_lesson_eyebrow: "THE FIRST TERM AT COLLEGE"
-first_lesson_heading: "What a Wigan A-Level Tutor Untangles First"
+first_lesson_heading: "What an A-Level Tutor for Wigan Students Untangles First"
 first_lesson_context: "Plenty of Wigan teenagers sail through GCSE, start at college and hit Year 12 like a wall. If that's your child, an A-Level tutor doesn't begin with more content. They begin where the depth stopped showing: the evaluation marks in an essay, or the multi-step problem that falls apart halfway through."
 first_lesson_quote: "My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
 first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Grade C to Grade A at A-Level"
 
-tutor_strip_heading: "Wigan A-Level tutors who know where Year 13 marks leak"
+tutor_strip_heading: "A-Level tutors for Wigan students who know where Year 13 marks leak"
 tutor_strip_body: "Many tutors on our platform studied at Russell Group universities, and we match on your child's exam board and on how they like to learn. Winstanley or St John Rigby, we'll find someone who knows the course. Browse the profiles, or let us make the introduction."
 
 pathways_heading: "After A-Levels in Wigan: University, Apprenticeships, Work"

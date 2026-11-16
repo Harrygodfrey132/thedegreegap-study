@@ -1,13 +1,13 @@
 ---
-title: "Colchester A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Colchester A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
-description: "Topic tests fine, full papers a grade lower? Our Colchester A-Level Chemistry tutors work one-to-one online on the questions that mix topics. From £37."
+description: "Topic tests fine, full papers a grade lower? Our A-Level Chemistry tutors for Colchester work one-to-one online on the questions that mix topics. From £37."
 layout: "level-subject"
 location: "Colchester"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors Across Colchester"
+hero_h1: "A-Level Chemistry Tutors for Colchester Students"
 hero_lead: "Good topic tests all year, then a full mock paper that comes back a grade lower. Our A-Level Chemistry tutors for Colchester students look at the questions that mix organic, physical and inorganic chemistry, because that's usually where the missing marks are."
 
 angle_eyebrow: "WHERE THE THREE STRANDS OF CHEMISTRY MEET"
@@ -28,7 +28,7 @@ schools:
   - "The Gilberd School"
   - "Stanway School"
 
-steps_heading: "Finding a Colchester A-Level Chemistry Tutor, Step by Step"
+steps_heading: "Finding an A-Level Chemistry Tutor for Colchester Students, Step by Step"
 steps_lead: "Within a day of your call, you'll usually see profiles. Year 12 is the kindest time to start, before Year 13 adds a new layer of topics to connect."
 steps:
   - title: "Tell us what's been happening"

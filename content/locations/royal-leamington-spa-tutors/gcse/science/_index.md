@@ -1,13 +1,13 @@
 ---
-title: "Leamington Spa GCSE Science Tutors | Online | The Degree Gap"
+title: "Leamington Spa GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Most children sit six GCSE Science papers across May and June. Our Royal Leamington Spa tutors help yours plan revision so no science fades. From £37 an hour."
+description: "Most children sit six GCSE Science papers across May and June. Our online tutors help Royal Leamington Spa students plan revision so no science fades."
 layout: "level-subject"
 location: "Royal Leamington Spa"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors in Royal Leamington Spa for Combined and Triple"
+hero_h1: "GCSE Science Tutors for Royal Leamington Spa Students"
 hero_lead: "Combined or Triple, your child will most likely sit six Science papers spread across May and June. It's easy for one science to fade while the others get the attention. Our GCSE Science tutors for Royal Leamington Spa students help your child plan the revision order, not just the content."
 
 angle_eyebrow: "SIX PAPERS, TWO MONTHS, THREE SCIENCES TO KEEP FRESH"
@@ -28,7 +28,7 @@ schools:
   - "The Kingsley School"
   - "Arnold Lodge School"
 
-steps_heading: "Lining Up a GCSE Science Tutor in Royal Leamington Spa Before the Summer"
+steps_heading: "Lining Up a GCSE Science Tutor for Royal Leamington Spa Students Before the Summer"
 steps_lead: "Expect tutor profiles by the following day. A plan needs time to run, so the autumn of Year 11, or earlier, gives your child the most room."
 steps:
   - title: "Start with a free call"

@@ -1,13 +1,13 @@
 ---
 title: "Kingston upon Thames GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "If your child's working never reaches the page, our Kingston upon Thames GCSE Maths tutors can help them show it. One-to-one online, from £37, no contract."
+description: "If your child's working never reaches the page, our GCSE Maths tutors for Kingston upon Thames can help them show it. One-to-one online, from £37, no contract."
 layout: "level-subject"
 location: "Kingston upon Thames"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors Helping Kingston upon Thames Children Show Their Working"
+hero_h1: "GCSE Maths Tutors for Kingston upon Thames Students"
 hero_lead: "Your child does the Maths in their head, writes down the answer, and loses the method marks that sat underneath it. Our GCSE Maths tutors for Kingston upon Thames students work one-to-one in the online classroom Lessonspace, getting that working onto the page where the marks are."
 
 angle_eyebrow: "QUICK AT MATHS, SHORT ON MARKS"
@@ -30,7 +30,7 @@ schools:
   - "Surbiton High School"
   - "The Hollyfield School"
 
-steps_heading: "Your child's first weeks with a Kingston upon Thames GCSE Maths tutor"
+steps_heading: "Your child's first weeks with a GCSE Maths tutor for Kingston upon Thames students"
 steps_lead: "You'll see profiles within a day. If the last paper had right answers but lost method marks, mention it, because that'll change the whole plan."
 steps:
   - title: "A free call first"

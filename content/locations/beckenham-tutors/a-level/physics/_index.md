@@ -7,7 +7,7 @@ location: "Beckenham"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Beckenham Students Stuck on Fields and Mechanics"
+hero_h1: "A-Level Physics Tutors for Beckenham Students"
 hero_lead: "A lot of A-Level Physics marks sit in multi-step problems, where one slip with a vector or a logarithm undoes everything after it. Our A-Level Physics tutors for Beckenham students work through those problems line by line until your child can see the route."
 
 angle_eyebrow: "WHEN THE MATHS GETS IN THE WAY"

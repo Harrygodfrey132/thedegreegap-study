@@ -1,11 +1,11 @@
 ---
 title: "Winchester GCSE Tutors | Peter Symonds Entry | The Degree Gap"
-description: "Mocks a grade under what Peter Symonds asks for? Our Winchester GCSE tutors find the questions costing your child marks, one-to-one online, from £37 an hour."
+description: "Mocks a grade under what Peter Symonds asks for? Our GCSE tutors for Winchester find the questions costing your child marks, one-to-one online, from £37."
 layout: "subject"
 location: "Winchester"
 level: "GCSE"
 
-hero_heading_line1: "Online Winchester GCSE Tutors for a Predicted Grade Just Short of the Course"
+hero_heading_line1: "GCSE Tutors for Winchester Students"
 hero_heading_line2: ""
 hero_lead: "Sooner or later most Winchester parents end up reading the same college's course list, where each course spells out the grade it wants. Our GCSE tutors for Winchester students start from that number and work back to the questions your child is losing marks on."
 
@@ -14,7 +14,7 @@ grade_to: "6/7"
 grade_stat: "Omo's son went from a 5 to a 6/7 in GCSE English, six months after starting lessons."
 
 first_lesson_eyebrow: "INSIDE A WINCHESTER YEAR 10 SESSION"
-first_lesson_heading: "Why a Winchester GCSE Tutor Starts With the Number on the Course List"
+first_lesson_heading: "Why a GCSE Tutor for Winchester Students Starts With the Number on the Course List"
 first_lesson_context: "Lots of Winchester families get in touch in Year 10, when the last marks come back a grade under what the course wants. That feels worse than it is, because at least you know how far there is to go. The first lesson goes through a recent paper to find which kinds of question are costing the marks, since it's almost never spread evenly across a subject."
 
 first_lesson_quote: "I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. …"
@@ -22,7 +22,7 @@ first_lesson_quote_name: "Philippa"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "GCSE"
 
-tutor_strip_heading: "Winchester GCSE tutors who know your child's exact course"
+tutor_strip_heading: "GCSE tutors for Winchester students who know your child's exact course"
 tutor_strip_body: "Hampshire schools use AQA, Edexcel and OCR, and the boards don't phrase or mark longer answers the same way, so we'll ask which one your child is sitting. Around 3% of applicants make it onto the platform, and Harry and Joe interview each one. Browse, or let us match."
 
 pathways_heading: "Where Winchester Year 11s Go Next"

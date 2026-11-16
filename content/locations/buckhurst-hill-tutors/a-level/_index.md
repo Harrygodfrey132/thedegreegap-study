@@ -1,11 +1,11 @@
 ---
-title: "Online A-Level Tutors for Buckhurst Hill Sixth Formers | The Degree Gap"
+title: "A-Level Tutors for Buckhurst Hill Sixth Formers | The Degree Gap"
 description: "Is Year 12 squeezed into long days and late evenings? We'll match your Buckhurst Hill sixth former with an online A-Level tutor on their exam board. From £37."
 layout: "subject"
 location: "Buckhurst Hill"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Buckhurst Hill Sixth Formers With Long Days and Harder Work"
+hero_heading_line1: "A-Level Tutors for Buckhurst Hill Students"
 hero_heading_line2: ""
 hero_lead: "By the time your child is home from sixth form and fed, the evening's half gone, and the topic that lost them at nine this morning is still waiting. Our A-Level tutors for Buckhurst Hill sixth formers spend one focused hour a week on it, online, with no extra journey."
 

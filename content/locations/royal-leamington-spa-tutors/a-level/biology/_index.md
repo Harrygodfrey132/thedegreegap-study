@@ -1,5 +1,5 @@
 ---
-title: "Royal Leamington Spa A-Level Biology Tutors | Online | The Degree Gap"
+title: "Royal Leamington Spa A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
 description: "Online A-Level Biology tutors for Royal Leamington Spa families. PCR, gels and classification, where knowing the words isn't enough. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Royal Leamington Spa"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Royal Leamington Spa A-Level Biology Tutors, Online and One-to-One"
+hero_h1: "A-Level Biology Tutors for Royal Leamington Spa Students"
 hero_lead: "Every word in the gene technology chapter is familiar to your child, and still the marks don't come. Our A-Level Biology tutors for Royal Leamington Spa students work on PCR, gel electrophoresis and classification, where knowing why beats knowing what."
 
 angle_eyebrow: "EASY TO READ, HARD TO ANSWER"

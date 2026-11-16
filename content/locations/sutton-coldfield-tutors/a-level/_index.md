@@ -1,11 +1,11 @@
 ---
-title: "Sutton Coldfield A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "Sutton Coldfield A-Level tutors for the Year 13 autumn, when coursework, mocks and UCAS all land at once. Weekly online lessons, one-to-one, from £37 an hour."
+title: "Sutton Coldfield A-Level Tutors | One-to-One | The Degree Gap"
+description: "A-Level tutors for Sutton Coldfield, for the Year 13 autumn, when coursework, mocks and UCAS all land at once. Weekly online lessons, one-to-one, from £37."
 layout: "subject"
 location: "Sutton Coldfield"
 level: "A-Level"
 
-hero_heading_line1: "Online Sutton Coldfield A-Level Tutors for When Year 13 Deadlines All Land Together"
+hero_heading_line1: "A-Level Tutors for Sutton Coldfield Students"
 hero_heading_line2: ""
 hero_lead: "If your child's in Year 13, you've probably watched the autumn fill up fast: coursework deadlines, mocks and the UCAS form, all in the same few weeks. Our A-Level tutors for Sutton Coldfield students help them through that term without one thing swallowing the rest."
 
@@ -14,14 +14,14 @@ grade_to: "C"
 grade_stat: "From E and U grades to three Cs, for a son who'd left his studying very late."
 
 first_lesson_eyebrow: "EVERYTHING LANDS IN THE SAME TERM"
-first_lesson_heading: "How a Sutton Coldfield A-Level Tutor Handles the Autumn of Year 13"
+first_lesson_heading: "How an A-Level Tutor for Sutton Coldfield Students Handles the Autumn of Year 13"
 first_lesson_context: "The autumn of Year 13 is the hardest stretch of sixth form, and that's down to the calendar, not anyone's effort. Coursework, the first proper mocks and the UCAS form all land within a few weeks, so your child throws everything at whichever's closest and the mock gets what's left. But that mock can feed into the prediction, so the thing with the least time behind it can end up counting most."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to three C grades at A-Level"
 
-tutor_strip_heading: "Sutton Coldfield A-Level tutors who plan around the term, not just the subject"
+tutor_strip_heading: "A-Level tutors for Sutton Coldfield students who plan around the term, not just the subject"
 tutor_strip_body: "Plantsbrook, John Willmott, Fairfax, The Arthur Terry and the Birmingham sixth forms each have their own mix of exam boards, and we match your child's tutor to theirs. Many tutors went through this same term not long ago, and only about 3% of tutors who apply are accepted."
 
 pathways_heading: "After A-Levels: The Next Step From Sutton Coldfield"

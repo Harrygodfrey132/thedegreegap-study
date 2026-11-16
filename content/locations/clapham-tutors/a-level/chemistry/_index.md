@@ -7,7 +7,7 @@ location: "Clapham"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "A-Level Chemistry Tutors for Clapham Students Who Lose the Thread in Organic"
+hero_h1: "A-Level Chemistry Tutors for Clapham Students"
 hero_lead: "Organic Chemistry is where plenty of A-Level students first feel lost, with a page of reactions and no obvious pattern. Our A-Level Chemistry tutors for Clapham students show your child the pattern first, then the calculations, one-to-one and online."
 
 angle_eyebrow: "A PAGE OF REACTIONS, ONE PATTERN"

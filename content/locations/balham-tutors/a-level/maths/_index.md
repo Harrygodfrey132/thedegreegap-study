@@ -7,7 +7,7 @@ location: "Balham"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Balham Students Whose Trigonometry Stopped at Triangles"
+hero_h1: "A-Level Maths Tutors for Balham Students"
 hero_lead: "At GCSE, trigonometry meant SOH CAH TOA and a right-angled triangle. At A-Level it's identities, radians and equations with several answers, and plenty of sixth formers lose their footing. Our A-Level Maths tutors for Balham students rebuild it from the graphs up."
 
 angle_eyebrow: "FROM SOH CAH TOA TO RADIANS"

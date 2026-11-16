@@ -7,7 +7,7 @@ location: "Tring"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Tring Students Who Analyse Well but Never Weigh Up"
+hero_h1: "A-Level Economics Tutors for Tring Students"
 hero_lead: "Your child can draw the diagram and explain it, then the essay ends without ever saying which effect matters most. Our A-Level Economics tutors for Tring students teach the judgement part, using firms just down the road."
 
 angle_eyebrow: "FROM ICKNIELD WAY TO THE FLOUR MILL"

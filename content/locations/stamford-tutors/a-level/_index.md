@@ -1,11 +1,11 @@
 ---
-title: "Online A-Level Tutors in Stamford | The Degree Gap"
-description: "Year 12 harder than expected? Our Stamford A-Level tutors work one-to-one online with your child, whichever sixth form or exam board they're on. From £37."
+title: "A-Level Tutors in Stamford | The Degree Gap"
+description: "Year 12 harder than expected? Our A-Level tutors for Stamford work one-to-one online with your child, whichever sixth form or exam board they're on. From £37."
 layout: "subject"
 location: "Stamford"
 level: "A-Level"
 
-hero_heading_line1: "Online Stamford A-Level Tutors for a Year 12 That's Harder Than Expected"
+hero_heading_line1: "A-Level Tutors for Stamford Students"
 hero_heading_line2: ""
 hero_lead: "More hours than they ever spent on GCSEs, and still the Year 12 test marks don't show it. Our A-Level tutors for Stamford students can help your child get to grips with the new kind of question, one-to-one and online, while most of Year 12 is still ahead."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "Alexander's child went from Cs to As, with help on university choices as well."
 
 first_lesson_eyebrow: "AFTER THE FIRST SIXTH FORM TESTS"
-first_lesson_heading: "What a Stamford A-Level Tutor Looks for in That First Test"
+first_lesson_heading: "What an A-Level Tutor for Stamford Students Looks for in That First Test"
 first_lesson_context: "Stamford School, Stamford Sixth at the college, Bourne Grammar or Deepings: wherever your child's doing Year 12, the first marked test tends to show where knowing a topic stopped being enough. The A-Level tutor goes through it with them, mark by mark, and that's where the plan starts."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "From Cs to As"
 
-tutor_strip_heading: "Stamford A-Level tutors for every sixth form on your shortlist"
+tutor_strip_heading: "A-Level tutors for Stamford students, for every sixth form on your shortlist"
 tutor_strip_body: "A-Level menus differ from one sixth form to the next. Stamford Sixth at Stamford College, for instance, offers Further Maths and Environmental Science alongside the usual subjects. So we ask first which courses and boards your child's on. Have a browse below, or let us shortlist for you."
 
 pathways_heading: "Where Year 13s Around Stamford Can Head After Results Day"

@@ -1,13 +1,13 @@
 ---
-title: "Stratford-upon-Avon Online GCSE Maths Tutors | The Degree Gap"
+title: "Stratford-upon-Avon GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "A low Maths set at a Stratford grammar isn't a low grade. Our Stratford-upon-Avon GCSE Maths tutors start from a marked paper. One-to-one online, from £37."
+description: "A low Maths set at a Stratford grammar isn't a low grade. Our GCSE Maths tutors for Stratford-upon-Avon start from a marked paper. One-to-one online, from £37."
 layout: "level-subject"
 location: "Stratford-upon-Avon"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutoring for Stratford-upon-Avon Families"
+hero_h1: "GCSE Maths Tutors for Stratford-upon-Avon Students"
 hero_lead: "Being near the bottom of a Maths set at a Warwickshire grammar says very little about your child's grade, but it can say a lot to a fifteen-year-old. Our GCSE Maths tutors for Stratford-upon-Avon students work from the paper, not the set."
 
 angle_eyebrow: "A LOW SET ISN'T A LOW GRADE"
@@ -28,7 +28,7 @@ schools:
   - "Alcester Academy"
   - "Stratford-upon-Avon College"
 
-steps_heading: "Getting a Stratford-upon-Avon GCSE Maths tutor in place"
+steps_heading: "Getting a GCSE Maths tutor for Stratford-upon-Avon students in place"
 steps_lead: "First a free call, then two or three tutor profiles within a day. Autumn is when it helps most here. Sixth form predictions get written from the mocks, and a few weeks of work before them goes a long way."
 steps:
   - title: "Tell us the set, then send the paper"

@@ -1,11 +1,11 @@
 ---
-title: "Abingdon GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "Revising hard but the GCSE grades won't move? Our Abingdon GCSE tutors find the questions costing your child marks and work on them online. From £37 an hour."
+title: "Abingdon GCSE Tutors | One-to-One | The Degree Gap"
+description: "Revising hard but the GCSE grades won't move? Our GCSE tutors for Abingdon find the questions costing your child marks and work on them online. From £37."
 layout: "subject"
 location: "Abingdon"
 level: "GCSE"
 
-hero_heading_line1: "Online Abingdon GCSE Tutors for When Hard Work Isn't Showing in the Grades"
+hero_heading_line1: "GCSE Tutors for Abingdon Students"
 hero_heading_line2: ""
 hero_lead: "Your child sits down to revise most evenings, and the mock grade still won't budge. You're not the only parent wondering what to try next. Our GCSE tutors for Abingdon students go through what your child actually wrote, then work one-to-one online on the questions costing the most marks."
 
@@ -14,7 +14,7 @@ grade_to: "B"
 grade_stat: "Keira, a GCSE student, says the tutoring definitely helped her grades go from an E to a B."
 
 first_lesson_eyebrow: "STRAIGHT FROM A GCSE PUPIL"
-first_lesson_heading: "The First Thing an Abingdon GCSE Tutor Asks to See"
+first_lesson_heading: "The First Thing a GCSE Tutor for Abingdon Students Asks to See"
 first_lesson_context: "Usually it's the latest marked mock, which may need fishing out of the bottom of a school bag. The GCSE tutor reads the teacher's comments first, because they often say more than the grade at the top. Then they'll ask your child which question they'd least like to see again, and start there."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"

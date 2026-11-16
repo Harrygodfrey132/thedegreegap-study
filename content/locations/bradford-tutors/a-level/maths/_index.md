@@ -1,13 +1,13 @@
 ---
 title: "Bradford A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "A-Level Maths tutors covering Bradford for the Year 12 wall, where Pure stops rewarding GCSE habits. One-to-one online tutoring from £37 an hour."
+description: "A-Level Maths tutors for Bradford, for the Year 12 wall, where Pure stops rewarding GCSE habits. One-to-one online tutoring from £37 an hour."
 layout: "level-subject"
 location: "Bradford"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors Helping Bradford Families Keep the Subject Past Year 12"
+hero_h1: "A-Level Maths Tutors for Bradford Students"
 hero_lead: "The decision to drop Maths gets made quietly, somewhere around the spring of Year 12. Our A-Level Maths tutors for Bradford students get in before that, and the fix is usually narrower than anybody fears. One-to-one and online over Lessonspace."
 
 angle_eyebrow: "THE SUBJECT THAT GETS DROPPED FIRST"

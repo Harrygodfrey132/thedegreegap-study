@@ -1,9 +1,9 @@
 ---
-title: "Online Tutors for Your Child in New Malden | The Degree Gap"
+title: "Tutors for Your Child in New Malden | The Degree Gap"
 description: "Not sure how the grades on your child's report work, or whether they're slipping? We'll match your child in New Malden with an online tutor. From £37 an hour."
 layout: "single"
 location: "New Malden"
-banner_heading: "Online tutors for New Malden families, whichever school system you grew up with"
+banner_heading: "GCSE and A-Level Tutors for New Malden Families"
 banner_description: "We match your child with a tutor from anywhere in the UK. And before that, one of us will happily explain what the grades, the tiers and the sixth form deadlines actually mean."
 content_angle: "a school system the parents didn't grow up with: New Malden families, many with parents who went to school in Korea or elsewhere, and many who simply sat exams before grades were numbers, trying to read reports, tiers and sixth form deadlines, with a founder call that explains it and a tutor who teaches to the mark scheme"
 intro_1: "The school report comes home and it's mostly numbers. Working at a 5. Target 7. Higher tier, with a question mark next to it. If you went to school in Seoul, or in England back when GCSEs had letters, very little of it matches what you remember, and it's hard to tell whether your child is doing fine or quietly slipping. New Malden has one of the largest Korean communities in Europe, so plenty of parents here sat their own exams in another country and another language. Others just sat theirs a long time ago. Either way, you're the one signing the options form, and nobody has really explained it."

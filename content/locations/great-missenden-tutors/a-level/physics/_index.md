@@ -7,7 +7,7 @@ location: "Great Missenden"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Great Missenden Students Losing Marks on Practical Questions"
+hero_h1: "A-Level Physics Tutors for Great Missenden Students"
 hero_lead: "Your child can do the theory, then a question asks for the percentage uncertainty in a gradient and the answer's a guess. Our A-Level Physics tutors for Great Missenden students make the practical skills as solid as everything else."
 
 angle_eyebrow: "PLUS OR MINUS HOW MUCH?"

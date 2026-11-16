@@ -1,11 +1,11 @@
 ---
 title: "Solihull A-Level Tutors | Year 12 and Year 13 | The Degree Gap"
-description: "University offer or a Jaguar Land Rover apprenticeship? Solihull A-Level tutors for the grade your child's next step depends on. Online, from £37 an hour."
+description: "University offer or a Jaguar Land Rover apprenticeship? A-Level tutors for Solihull, for the grade your child's next step depends on. Online, from £37 an hour."
 layout: "subject"
 location: "Solihull"
 level: "A-Level"
 
-hero_heading_line1: "Online Solihull A-Level Tutors for the One Grade Your Child's Next Step Needs"
+hero_heading_line1: "A-Level Tutors for Solihull Students"
 hero_heading_line2: ""
 hero_lead: "You might have a child set on university, or one who'd rather start at Jaguar Land Rover as a degree apprentice. Either way, somebody's asking for grades. Our A-Level tutors for Solihull students find the grade that matters most for where your child's heading, and start there."
 
@@ -14,7 +14,7 @@ grade_to: "A"
 grade_stat: "What a year of weekly lessons is aimed at. One parent saw their child go from Cs to As."
 
 first_lesson_eyebrow: "TWO ROUTES, ONE SET OF PAPERS"
-first_lesson_heading: "Which Grade a Solihull A-Level Tutor Looks at First"
+first_lesson_heading: "Which Grade an A-Level Tutor for Solihull Students Looks at First"
 first_lesson_context: "A degree apprenticeship at a big employer can be as hard to get as a university place. And either way, one subject tends to carry the weight: Maths for engineering, the Sciences for clinical routes, whatever subject the university course asks for. So the tutor looks first at the one grade your child's plans hang on, and whether it's slipping on knowledge or on technique."
 
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
@@ -22,7 +22,7 @@ first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "A-Level"
 
-tutor_strip_heading: "Solihull A-Level tutors matched to your child's exact papers"
+tutor_strip_heading: "A-Level tutors for Solihull students matched to your child's exact papers"
 tutor_strip_body: "Two friends taking A-Level Physics can be studying different optional topics, so we'll check your child's board and options on the call before suggesting anyone. Every tutor on the platform has tutored for at least two years. Have a look through the profiles, or leave the matching to us."
 
 pathways_heading: "What Comes After A-Levels in Solihull"

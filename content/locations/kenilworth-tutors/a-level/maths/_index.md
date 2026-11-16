@@ -7,8 +7,8 @@ location: "Kenilworth"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors Covering Kenilworth and Its Villages"
-hero_lead: "The first Year 12 Maths test can come back covered in red, even for a child who found GCSE comfortable. Kenilworth A-Level Maths tutors on our platform work out which steps went wrong, in pure, mechanics or statistics, and rebuild them before the next topic lands."
+hero_h1: "A-Level Maths Tutors for Kenilworth Students"
+hero_lead: "The first Year 12 Maths test can come back covered in red, even for a child who found GCSE comfortable. A-Level Maths tutors for Kenilworth students on our platform work out which steps went wrong, in pure, mechanics or statistics, and rebuild them before the next topic lands."
 
 angle_eyebrow: "SAME CORRIDORS, FASTER MATHS"
 angle_heading: "Why Year 12 Maths Feels So Different, Even on the Same Campus"

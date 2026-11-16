@@ -1,5 +1,5 @@
 ---
-title: "Banbury A-Level Maths Tutors | Online | The Degree Gap"
+title: "Banbury A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "The A-Level Maths formula booklet doesn't hold everything your child needs. Online Banbury tutors help them learn what's missing and find lost marks. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Banbury"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutoring Across Banbury"
+hero_h1: "A-Level Maths Tutors for Banbury Students"
 hero_lead: "Lots of families assume the A-Level formula booklet has everything in it. It doesn't, and the parts it leaves out are the ones your child has to know by heart. Our A-Level Maths tutors for Banbury students sort that out early."
 
 angle_eyebrow: "WHAT'S IN THE BOOKLET, AND WHAT ISN'T"

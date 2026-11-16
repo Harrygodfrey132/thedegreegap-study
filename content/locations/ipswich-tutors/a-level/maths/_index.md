@@ -1,13 +1,13 @@
 ---
 title: "Ipswich A-Level Maths Tuition | From £37/hr"
 nav_title: "Maths"
-description: "Online A-Level Maths tutors covering Ipswich, working on proof, integration and the strand that gets neglected. Matched on specification, from £37 an hour."
+description: "Online A-Level Maths tutors for Ipswich, working on proof, integration and the strand that gets neglected. Matched on specification, from £37 an hour."
 layout: "level-subject"
 location: "Ipswich"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths tutors for Ipswich students stuck on proof and integration"
+hero_h1: "A-Level Maths Tutors for Ipswich Students"
 hero_lead: "Year 12 goes fine until a question asks your child to show something is true rather than work it out. Our A-Level Maths tutors for Ipswich students start there, one-to-one and online over Lessonspace."
 
 angle_eyebrow: "THE YEAR 12 TOPIC WITH NO METHOD TO COPY"

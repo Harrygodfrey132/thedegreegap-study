@@ -7,7 +7,7 @@ location: "Bury St Edmunds"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Bury St Edmunds Students Working Towards Two Grades at Once"
+hero_h1: "GCSE Science Tutors for Bury St Edmunds Students"
 hero_lead: "Combined Science gives your child two grades, and a 6-5 can close a door that a 6-6 would open. Our GCSE Science tutors for Bury St Edmunds students find the papers dragging the second grade down and work on those first."
 
 angle_eyebrow: "WHY 6-5 ISN'T 6-6"

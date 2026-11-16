@@ -1,13 +1,13 @@
 ---
 title: "Sutton A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Sutton A-Level Maths tutors for the child who flew through GCSE and hit a wall in Year 12. One-to-one online lessons, matched to the exam board. From £37."
+description: "A-Level Maths tutors for Sutton, for the child who flew through GCSE and hit a wall in Year 12. One-to-one online lessons, matched to the exam board. From £37."
 layout: "level-subject"
 location: "Sutton"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "A-Level Maths Tutors for Sutton Students When Year 12 Feels Like a New Subject"
+hero_h1: "A-Level Maths Tutors for Sutton Students"
 hero_lead: "A top grade in GCSE Maths, then a Year 12 test that comes back well short. It happens to lots of capable teenagers, and it's rarely about effort. Our A-Level Maths tutors for Sutton students work one-to-one and online, teaching your child to choose the method rather than just follow one."
 
 angle_eyebrow: "THE TERM THE OLD METHOD RUNS OUT"
@@ -30,7 +30,7 @@ schools:
   - "Overton Grange School"
   - "Cheam High School"
 
-steps_heading: "Getting started with a Sutton A-Level Maths tutor: 3 steps"
+steps_heading: "Getting started with an A-Level Maths tutor for Sutton students: 3 steps"
 steps_lead: "You'll usually have profiles within a day. And the autumn of Year 12 is worth more than the spring of Year 13, even if nothing feels urgent yet."
 steps:
   - title: "A chat about your child"

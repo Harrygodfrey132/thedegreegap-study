@@ -1,14 +1,14 @@
 ---
 title: "Camberley GCSE & A-Level Tutors | The Degree Gap"
-description: "Lots of Camberley teenagers change school at 16, and the next place meets them through their GCSE grades. Our Camberley tutors work online, from £37 an hour."
+description: "Lots of Camberley teenagers change school at 16, and the next place meets them through their GCSE grades. Our tutors for Camberley work online, from £37."
 layout: "single"
 location: "Camberley"
-banner_heading: "Online tutoring for Camberley families, starting well before your child changes school at 16"
+banner_heading: "GCSE and A-Level Tutors for Camberley Families"
 banner_description: "Kings International and Tomlinscote both finish at Year 11, so for lots of families the next school is somewhere new. Wherever it is, it'll meet your child through their GCSE grades first. Our tutors work on those grades with your child now, online and one-to-one."
 content_angle: "the move at 16: Kings International and Tomlinscote both stop at Year 11, so lots of Camberley children start sixth form somewhere new, often over the Hampshire border in Farnborough, and arrive known at first only by their GCSE grades"
 intro_1: "It usually starts with a leaflet. At some point in Year 10 the open evenings begin, and prospectuses pile up on the kitchen table: Collingwood's sixth form, and the two big colleges over the border in Farnborough. If your child's at Kings International or Tomlinscote, they'll be moving on at 16 whatever happens, because neither school has a sixth form. That's a lot to plan in the middle of GCSEs. And your child might not want to talk about any of it yet."
 intro_2: "What we can do is help your child take the strongest grades they can into that next place. It starts with a free call with Harry or Joe, normally around 30 minutes, about how school's going and where your child is thinking of heading after Year 11. Profiles of 2 or 3 tutors follow within 24 hours of that call. Your child then gets a free 15-minute video meeting with whichever one they like the look of, before anything's booked. Lessons run one-to-one online from £37 an hour, and you pay as you go, a lesson at a time, with no contract and no joining fee. Don't click with the tutor? We'll find someone else, free."
-about_heading: "Experienced GCSE and A-Level Tutors in Camberley"
+about_heading: "Experienced GCSE and A-Level Tutors for Camberley Students"
 about_image: "/images/group-study-discussion-with-laptop.jpg"
 schools_intro: "Camberley children go to school at Collingwood College, Kings International College and Tomlinscote School in Frimley. Some travel out to Gordon's School in West End, and others cross the border to Farnborough Hill or Salesian College in Farnborough. Each school chooses its own exam boards, so the first thing we'll ask is which ones your child sits. During the school day you'll often find Harry and Joe running revision and exam technique workshops in schools, which any pupil is welcome to join. Separately, more than 15 secondary schools across the UK work with us directly."
 schools: ["Collingwood College", "Kings International College", "Tomlinscote School", "Gordon's School", "Farnborough Hill", "Salesian College"]

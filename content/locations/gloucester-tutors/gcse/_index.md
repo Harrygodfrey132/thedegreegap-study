@@ -5,7 +5,7 @@ layout: "subject"
 location: "Gloucester"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Gloucester Students Heading for a New Sixth Form at 16"
+hero_heading_line1: "GCSE Tutors for Gloucester Students"
 hero_heading_line2: ""
 hero_lead: "If your child's school stops at Year 11, their GCSEs are what a new sixth form reads first. Our GCSE tutors for Gloucester students find where the marks are going and work on those, one-to-one and online."
 

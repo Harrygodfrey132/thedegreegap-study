@@ -1,11 +1,11 @@
 ---
 title: "Bristol A-Level Tutors | Built Around Your Child | The Degree Gap"
-description: "Bristol A-Level tutors for the predicted grade a university or Filton apprenticeship offer turns on. Online, one-to-one and matched to your child's exam board."
+description: "A-Level tutors for Bristol, for the predicted grade a university or Filton apprenticeship offer turns on. Online and matched to your child's exam board."
 layout: "subject"
 location: "Bristol"
 level: "A-Level"
 
-hero_heading_line1: "Online Bristol A-Level Tutors For the Predicted Grade an Offer Turns On"
+hero_heading_line1: "A-Level Tutors for Bristol Students"
 hero_heading_line2: ""
 hero_lead: "By the time most Bristol parents ring, the Year 12 mock has come back below the offer they'd hoped for. Nobody at home wants to mention it. Our A-Level tutors for Bristol students go through that paper with your child and work on what it shows, before predictions go to UCAS."
 
@@ -14,15 +14,15 @@ grade_to: "A"
 grade_stat: "In one parent's words, their son ended up almost two grades higher than his Year 13 mock."
 
 first_lesson_eyebrow: "ALMOST TWO GRADES PAST THE MOCK"
-first_lesson_heading: "How a Bristol A-Level Tutor Finds the Missing Marks"
-first_lesson_context: "Some Bristol families have a Year 13 who needs top grades for a Russell Group offer but can't get the evaluation marks to land. Others have a child working a shaky C up towards a Filton degree apprenticeship or a place at UWE. For both, a Bristol A-Level tutor reads a recent paper first and starts where the marks are leaking."
+first_lesson_heading: "How an A-Level Tutor for Bristol Students Finds the Missing Marks"
+first_lesson_context: "Some Bristol families have a Year 13 who needs top grades for a Russell Group offer but can't get the evaluation marks to land. Others have a child working a shaky C up towards a Filton degree apprenticeship or a place at UWE. For both, an A-Level tutor for Bristol students reads a recent paper first and starts where the marks are leaking."
 
 first_lesson_quote: "My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
 first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Almost two grades above a Year 13 mock"
 
-tutor_strip_heading: "Bristol A-Level tutors who know the university and Filton routes"
+tutor_strip_heading: "A-Level tutors for Bristol students who know the university and Filton routes"
 tutor_strip_body: "Some of these tutors went to the University of Bristol, and some are qualified examiners who know how A-Level papers get marked. If you'd rather not scroll, tell us what your child's aiming for and we'll shortlist a few."
 
 pathways_heading: "What Bristol A-Levels Can Open Up for Your Child"

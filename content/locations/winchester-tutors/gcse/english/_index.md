@@ -1,5 +1,5 @@
 ---
-title: "Winchester GCSE English Tutors | Online | The Degree Gap"
+title: "Winchester GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "Fluent writing on its own won't lift a GCSE English 6. Our online Winchester tutors show your child the analysis examiners reward, one-to-one. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Winchester"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Winchester Children Stuck on a 6"
+hero_h1: "GCSE English Tutors for Winchester Students"
 hero_lead: "Beautiful writing, and the grade still says 6. We hear that from Winchester parents more than anything else about English. Our GCSE English tutors for Winchester students close the gap by teaching your child what the examiner actually rewards, and it isn't fluency."
 
 angle_eyebrow: "WHY FLUENT WRITING STALLS AT A GRADE 6"
@@ -28,7 +28,7 @@ schools:
   - "The Westgate School"
   - "Henry Beaufort School"
 
-steps_heading: "Getting Your Child Started With a Winchester GCSE English Tutor"
+steps_heading: "Getting Your Child Started With a GCSE English Tutor for Winchester Students"
 steps_lead: "A single free call, and you'll have tutor profiles the following day. English rewards an early start more than most subjects. Quotation recall and answer shape both need steady repetition, not a last-minute push."
 steps:
   - title: "Start with a free call"

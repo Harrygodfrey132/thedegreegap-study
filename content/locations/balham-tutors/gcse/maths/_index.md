@@ -7,7 +7,7 @@ location: "Balham"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Balham Students Who Get Lost in Ratio and Proportion"
+hero_h1: "GCSE Maths Tutors for Balham Students"
 hero_lead: "If your child can share £60 in the ratio 2:3 but goes blank when a recipe needs scaling or two prices need comparing, the idea hasn't quite landed. Our GCSE Maths tutors for Balham students rebuild ratio from the bottom, then use it wherever it turns up."
 
 angle_eyebrow: "ONE IDEA, A FIFTH OF THE MARKS"

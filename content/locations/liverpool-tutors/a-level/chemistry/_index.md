@@ -1,5 +1,5 @@
 ---
-title: "Liverpool A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Liverpool A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Year 12 Chemistry went well, but the Year 13 mock didn't? Our online Liverpool A-Level Chemistry tutors teach your child to interpret, not just recall."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Liverpool"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Liverpool A-Level Chemistry Tutoring, Online and Matched to Your Child"
+hero_h1: "A-Level Chemistry Tutors for Liverpool Students"
 hero_lead: "If your child revised well in Year 12, a disappointing Year 13 Chemistry mock can come as a real shock. Our A-Level Chemistry tutors for Liverpool students work on the questions that ask your child to interpret rather than remember: transition metals, electrochemistry and reading a spectrum."
 
 angle_eyebrow: "WHEN LEARNING IT ISN'T ENOUGH ANY MORE"

@@ -7,7 +7,7 @@ location: "Ealing"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Ealing Students Who Freeze at Synthesis Questions"
+hero_h1: "A-Level Chemistry Tutors for Ealing Students"
 hero_lead: "Organic chemistry is where a lot of sixth formers stop feeling in control: curly arrows first, then synthesis routes four steps long. Our A-Level Chemistry tutors for Ealing students take your child through the mechanisms and the calculation chains, one step at a time, online."
 
 angle_eyebrow: "A SUBJECT WITH GREENFORD ROOTS"

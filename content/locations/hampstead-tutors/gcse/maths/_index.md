@@ -7,7 +7,7 @@ location: "Hampstead"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Hampstead Students Who Stall on the Unfamiliar Question"
+hero_h1: "GCSE Maths Tutors for Hampstead Students"
 hero_lead: "Your child can do every exercise in the textbook, then meets a five-mark question that mixes ratio with area, and the page stays blank. Our GCSE Maths tutors for Hampstead students teach them how to start a problem nobody has shown them before."
 
 angle_eyebrow: "WHEN THE QUESTION DOESN'T LOOK FAMILIAR"

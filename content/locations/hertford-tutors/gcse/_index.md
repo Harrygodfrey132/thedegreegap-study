@@ -1,11 +1,11 @@
 ---
-title: "GCSE Tutors for Hertford Teenagers | Online One-to-One"
+title: "GCSE Tutors for Hertford Teenagers | One-to-One"
 description: "Is one weak GCSE dragging your child's average down? We'll match your Hertford teenager with an online GCSE tutor on their exam board. From £37, no contract."
 layout: "subject"
 location: "Hertford"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Hertford Students Whose Weakest Subject Still Counts"
+hero_heading_line1: "GCSE Tutors for Hertford Students"
 hero_heading_line2: ""
 hero_lead: "Your child's report is mostly fine, apart from one subject that never seems to move. Our GCSE tutors for Hertford students work on that one, because at sixteen the weakest grade counts as much as the best."
 
@@ -14,7 +14,7 @@ grade_to: "6/7"
 grade_stat: "“…he has improved from a grade 5 to a 6/7.” Omo, parent, on Google, about GCSE English"
 
 first_lesson_eyebrow: "THE SUBJECT THAT DRAGS THE AVERAGE"
-first_lesson_heading: "Why a Hertford GCSE Tutor Starts With the Subject Your Child Likes Least"
+first_lesson_heading: "Why a GCSE Tutor for Hertford Students Starts With the Subject Your Child Likes Least"
 first_lesson_context: "Richard Hale's sixth form, for one, sorts applicants into courses by an average across all their GCSEs, with a 5 in English and Maths for its A-Level route, and Sele asks for five grade 5s. So a GCSE tutor often begins with the subject your child would rather not talk about, because lifting that grade can matter as much as polishing the rest."
 first_lesson_quote: "I honestly can’t believe I’m saying this, but he now looks forward to his lessons."
 first_lesson_quote_name: "Omo"

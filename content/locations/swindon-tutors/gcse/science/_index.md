@@ -1,5 +1,5 @@
 ---
-title: "Swindon GCSE Science Tutors | Online | The Degree Gap"
+title: "Swindon GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
 description: "Swindon GCSE Science tutoring that starts with how your child revises, swapping hours of rereading for exam questions. One-to-one, online, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Swindon"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Swindon Families"
+hero_h1: "GCSE Science Tutors for Swindon Students"
 hero_lead: "If your child spends hours on Science notes and still gets stuck on the exam questions, it's usually the way they revise, not the effort. Our GCSE Science tutors for Swindon students plan the week between lessons as carefully as the lesson itself."
 
 angle_eyebrow: "WHAT HAPPENS BETWEEN THE LESSONS"

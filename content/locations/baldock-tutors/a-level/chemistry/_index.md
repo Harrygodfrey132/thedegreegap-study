@@ -1,13 +1,13 @@
 ---
-title: "Baldock A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Baldock A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
-description: "Does your child do Chemistry sums in their head and lose the marks for working? Our Baldock A-Level Chemistry tutors can help, online, from £37 an hour."
+description: "Does your child do Chemistry sums in their head and lose the marks for working? Our A-Level Chemistry tutors for Baldock can help, online, from £37 an hour."
 layout: "level-subject"
 location: "Baldock"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Baldock, Hitchin and Letchworth Families"
+hero_h1: "A-Level Chemistry Tutors for Baldock Students"
 hero_lead: "In a Chemistry calculation, one early slip can spoil every line after it, and your child only keeps part marks if the working's on the page. Our A-Level Chemistry tutors for Baldock students work on both: fewer slips, and working an examiner can follow."
 
 angle_eyebrow: "ONE SLIP, THE WHOLE QUESTION"

@@ -7,7 +7,7 @@ location: "Tring"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Tring Students Facing AQA's 25-Mark Essay"
+hero_h1: "A-Level Biology Tutors for Tring Students"
 hero_lead: "Your child knows the cell cycle, photosynthesis and the immune response as separate topics. Then the final paper wants one essay that links them. Our A-Level Biology tutors for Tring students practise the linking, not just the learning."
 
 angle_eyebrow: "ONE ESSAY, TWO YEARS OF BIOLOGY"

@@ -1,5 +1,5 @@
 ---
-title: "GCSE Maths Tutors Covering London | Online | The Degree Gap"
+title: "GCSE Maths Tutors Covering London | The Degree Gap"
 nav_title: "Maths"
 description: "One-to-one GCSE Maths tutors across every London borough, online. For a Year 10 new to higher tier or a Year 11 chasing a sixth form place. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "London"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Every London Borough"
+hero_h1: "GCSE Maths Tutors for London Students"
 hero_lead: "We tend to hear one of two GCSE Maths worries from London parents. Your child's a few marks off the sixth form they want, or they've moved up to the higher papers without the algebra for them. Either way, our GCSE Maths tutors for London students start with a marked paper."
 
 angle_eyebrow: "TWO GCSE MATHS WORRIES WE HEAR ACROSS LONDON"

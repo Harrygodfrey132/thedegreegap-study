@@ -1,13 +1,13 @@
 ---
-title: "Chester A-Level Maths Tutors | Online | The Degree Gap"
+title: "Chester A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "A top GCSE grade doesn't always make Year 12 Maths easy. Our Chester A-Level Maths tutors help your child learn to pick the method. Online, from £37."
+description: "A top GCSE grade doesn't always make Year 12 Maths easy. Our A-Level Maths tutors for Chester help your child learn to pick the method. Online, from £37."
 layout: "level-subject"
 location: "Chester"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutoring in Chester, for When a Great GCSE Meets a Tough Year 12"
+hero_h1: "A-Level Maths Tutors for Chester Students"
 hero_lead: "At GCSE, your child could usually tell which method a question wanted. A-Level stops telling them. Our A-Level Maths tutors for Chester students work one-to-one online through the year that change lands, until choosing a method becomes a habit."
 
 angle_eyebrow: "NOTHING ANNOUNCES THE METHOD ANY MORE"

@@ -7,7 +7,7 @@ location: "Borehamwood"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Borehamwood Students Whose Essays Never Reach a Verdict"
+hero_h1: "A-Level Economics Tutors for Borehamwood Students"
 hero_lead: "Your child knows the theory and can draw the diagram, then the 25-mark essay ends just before the examiner wanted a judgement. Our A-Level Economics tutors for Borehamwood students teach the weighing-up that earns the top marks."
 
 angle_eyebrow: "TEN NEW SOUNDSTAGES DOWN THE ROAD"

@@ -7,7 +7,7 @@ location: "Newbury"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Newbury Students Whose Answers Are Close but Not Exact"
+hero_h1: "A-Level Biology Tutors for Newbury Students"
 hero_lead: "Your child writes that water moves to where there's less of it, and the mark scheme wanted water potential. Our A-Level Biology tutors for Newbury students teach the precise language examiners look for, topic by topic, until it comes out without thinking."
 
 angle_eyebrow: "CLOSE ISN'T A MARK"

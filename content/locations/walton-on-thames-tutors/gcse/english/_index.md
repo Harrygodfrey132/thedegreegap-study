@@ -7,7 +7,7 @@ location: "Walton-on-Thames"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Walton-on-Thames Students Whose Essays Run Out of Time"
+hero_h1: "GCSE English Tutors for Walton-on-Thames Students"
 hero_lead: "Your child knows exactly what they think about Macbeth, then the timed essay stops halfway with the best point still unwritten. Our GCSE English tutors for Walton-on-Thames students teach the planning and the quotations that hold up against the clock."
 
 angle_eyebrow: "FOUR SET TEXTS, ONE CLOCK"

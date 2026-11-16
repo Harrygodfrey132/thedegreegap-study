@@ -1,13 +1,13 @@
 ---
-title: "Hatfield A-Level Maths Tutors | Online | The Degree Gap"
+title: "Hatfield A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Plenty of A-Level Maths marks go on the written reasoning, not the numbers. Our Hatfield tutors help your child write it down. Online, from £37, no contract."
+description: "Plenty of A-Level Maths marks go on the written reasoning, not the numbers. Our tutors for Hatfield help your child write it down. Online, from £37."
 layout: "level-subject"
 location: "Hatfield"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Hatfield Families Losing Marks on Right Answers"
+hero_h1: "A-Level Maths Tutors for Hatfield Students"
 hero_lead: "Numerical methods look like the easiest marks on the paper, yet your child can get every number right and still lose most of them. Our A-Level Maths tutors for Hatfield students work on the written justification, which is where those marks really sit."
 
 angle_eyebrow: "THE EASIEST MARKS ON THE PAPER"

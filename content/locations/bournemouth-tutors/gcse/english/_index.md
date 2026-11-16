@@ -1,13 +1,13 @@
 ---
 title: "GCSE English Tutors Covering Bournemouth | The Degree Gap"
 nav_title: "English"
-description: "Does your child leave the last English answer half written? Our Bournemouth GCSE English tutors work online on timing and planning, one-to-one. From £37."
+description: "Does your child leave the last English answer half written? Our GCSE English tutors for Bournemouth work online on timing and planning, one-to-one. From £37."
 layout: "level-subject"
 location: "Bournemouth"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutoring for Bournemouth Teenagers Who Run Out of Time"
+hero_h1: "GCSE English Tutors for Bournemouth Students"
 hero_lead: "Lots of teenagers know their texts and still leave the last question half written. If that sounds like your child, our GCSE English tutors for Bournemouth students work on where the time's going. One-to-one and online, until the final answer gets the marks it deserves."
 
 angle_eyebrow: "THE LAST QUESTION ON EVERY PAPER"

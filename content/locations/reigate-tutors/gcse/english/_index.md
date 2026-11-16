@@ -1,13 +1,13 @@
 ---
 title: "Reigate GCSE English Tuition | From £37/hr"
 nav_title: "English"
-description: "Reigate GCSE English tutors for your child's Language papers and Literature set texts, matched to their school's exam board. Online, from £37 an hour."
+description: "GCSE English tutors for Reigate, for your child's Language papers and Literature set texts, matched to their school's exam board. Online, from £37 an hour."
 layout: "level-subject"
 location: "Reigate"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Reigate, Where a Grade 5 in Language Opens More Than English"
+hero_h1: "GCSE English Tutors for Reigate Students"
 hero_lead: "You might not expect a Biology course to care about your child's English grade, but at Reigate College it does. Our GCSE English tutors for Reigate students work one-to-one online on the Language papers and the set texts, planning and timing every answer."
 
 angle_eyebrow: "THE GRADE BIOLOGY ALSO READS"
@@ -28,7 +28,7 @@ schools:
   - "Oakwood School"
   - "Carrington School"
 
-steps_heading: "Three steps to a GCSE English tutor in Reigate"
+steps_heading: "Three steps to a GCSE English tutor for Reigate students"
 steps_lead: "We'll need your child's set texts before suggesting anyone. Then profiles follow within a day of the call."
 steps:
   - title: "A free call with one of us"

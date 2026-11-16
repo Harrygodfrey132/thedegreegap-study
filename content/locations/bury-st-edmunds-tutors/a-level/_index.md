@@ -1,11 +1,11 @@
 ---
-title: "Online A-Level Tutors for Bury St Edmunds Sixth Formers | The Degree Gap"
+title: "A-Level Tutors for Bury St Edmunds Sixth Formers | The Degree Gap"
 description: "Is sixth form freedom harder than your child expected? We'll match Bury St Edmunds students with an online A-Level tutor on their board. From £37, no contract."
 layout: "subject"
 location: "Bury St Edmunds"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Bury St Edmunds Students Learning to Work Without Being Chased"
+hero_heading_line1: "A-Level Tutors for Bury St Edmunds Students"
 hero_heading_line2: ""
 hero_lead: "At GCSE, someone checked the homework. In Year 12 the free periods start and the deadlines spread out, and your child can slip behind without anyone noticing until the first assessment. Our A-Level tutors for Bury St Edmunds students give the week a shape again."
 

@@ -7,7 +7,7 @@ location: "Ealing"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Ealing Students Whose Essays Stop at Explaining"
+hero_h1: "A-Level Economics Tutors for Ealing Students"
 hero_lead: "Your child can explain what happens when interest rates rise, then the essay ends before it ever weighs up whether it matters. Our A-Level Economics tutors for Ealing students work on the evaluation the 25-mark questions reward, and on diagrams drawn precisely."
 
 angle_eyebrow: "WHERE THE ESSAY STOPS SHORT"

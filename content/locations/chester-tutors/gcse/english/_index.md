@@ -1,5 +1,5 @@
 ---
-title: "Chester GCSE English Tutors | Online | The Degree Gap"
+title: "Chester GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "A keen reader with a disappointing English grade? Online GCSE English tutoring in Chester that turns good reading into answers that score. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Chester"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutoring in Chester for Keen Readers With Disappointing Grades"
+hero_h1: "GCSE English Tutors for Chester Students"
 hero_lead: "There's always a book on the go in your child's room, so a 5 in English doesn't add up. It puzzles plenty of parents, and our GCSE English tutors for Chester students work on exactly that gap, between reading well and answering well."
 
 angle_eyebrow: "A READER WITH A DISAPPOINTING GRADE"

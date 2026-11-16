@@ -1,5 +1,5 @@
 ---
-title: "Watford Online A-Level Maths Tutors | The Degree Gap"
+title: "Watford A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Is your child keeping up in Year 12 Maths, or truly secure? Online A-Level Maths tutors for Watford who find out early, one-to-one, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Watford"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors Helping Watford Year 12s"
+hero_h1: "A-Level Maths Tutors for Watford Students"
 hero_lead: "Keeping up and being secure look the same in Year 12 Maths, right up until a test mixes two topics together. Our A-Level Maths tutors for Watford students find out early which it is for your child, often in the first lesson."
 
 angle_eyebrow: "WHEN TWO TOPICS END UP IN ONE QUESTION"

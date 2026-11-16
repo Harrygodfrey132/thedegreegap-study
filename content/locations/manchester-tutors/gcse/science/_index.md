@@ -1,13 +1,13 @@
 ---
-title: "Manchester Online GCSE Science Tutors | The Degree Gap"
+title: "Manchester GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Chemistry and Physics slipping at once? Our Manchester GCSE Science tutors fix the idea they share, aiming at the grades Xaverian, Loreto and Connell ask for."
+description: "Chemistry and Physics slipping at once? Our online GCSE Science tutors fix the idea they share for Manchester students aiming at Xaverian, Loreto or Connell."
 layout: "level-subject"
 location: "Manchester"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutoring Across Manchester"
+hero_h1: "GCSE Science Tutors for Manchester Students"
 hero_lead: "If your child is lost on particles in Chemistry, the same wobble is often costing marks in Physics too. The sciences share more ideas than their timetables suggest. Our GCSE Science tutors for Manchester students find the shared idea that's shaky and fix it once, so it helps in both."
 
 angle_eyebrow: "ONE SHAKY IDEA, MARKS LOST IN TWO SCIENCES"

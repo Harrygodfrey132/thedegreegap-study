@@ -1,13 +1,13 @@
 ---
 title: "Henley-on-Thames GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Both main routes at The Henley College ask for a Maths grade. Our Henley-on-Thames GCSE Maths tutors find where your child drops marks, online, from £37."
+description: "Both main routes at The Henley College ask for a Maths grade. Our GCSE Maths tutors for Henley-on-Thames find where your child drops marks, online, from £37."
 layout: "level-subject"
 location: "Henley-on-Thames"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Henley-on-Thames Families"
+hero_h1: "GCSE Maths Tutors for Henley-on-Thames Students"
 hero_lead: "If your child's Maths mock keeps landing just short, the reason is often a method they half-learnt in Year 8 and have been working around ever since. Our GCSE Maths tutors for Henley-on-Thames students spot that method early and put it right, one-to-one on a shared online whiteboard."
 
 angle_eyebrow: "ONE GRADE, SEVERAL DOORS"

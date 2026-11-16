@@ -7,7 +7,7 @@ location: "Walton-on-Thames"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Walton-on-Thames Students Who Describe but Don't Evaluate"
+hero_h1: "A-Level Economics Tutors for Walton-on-Thames Students"
 hero_lead: "Your child can explain what happens to the market, then the long essay stops before saying whether any of it matters. Our A-Level Economics tutors for Walton-on-Thames students teach the weighing-up that the highest marks are given for."
 
 angle_eyebrow: "AQA AT ONE, EDEXCEL AT THE OTHER"

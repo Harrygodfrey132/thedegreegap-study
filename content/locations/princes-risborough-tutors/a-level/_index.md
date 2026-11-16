@@ -5,7 +5,7 @@ layout: "subject"
 location: "Princes Risborough"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Princes Risborough Students Finding Year 12 Harder Than Expected"
+hero_heading_line1: "A-Level Tutors for Princes Risborough Students"
 hero_heading_line2: ""
 hero_lead: "Your child did well at GCSE, and now a Year 12 test has come back with a grade nobody saw coming. Our A-Level tutors for Princes Risborough students find which GCSE habits have stopped working, and replace them before Year 13."
 

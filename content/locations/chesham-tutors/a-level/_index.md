@@ -1,11 +1,11 @@
 ---
 title: "Chesham A-Level Tutors | Year 12 and Year 13 | The Degree Gap"
-description: "Chesham A-Level tutors for when two years of content feels too big to revise. We help your child start with what matters most. Online, from £37 an hour."
+description: "A-Level tutors for Chesham, for when two years of content feels too big to revise. We help your child start with what matters most. Online, from £37 an hour."
 layout: "subject"
 location: "Chesham"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors in Chesham for When the Course Feels Too Big to Revise"
+hero_heading_line1: "A-Level Tutors for Chesham Students"
 hero_heading_line2: ""
 hero_lead: "Folders of notes, a mock on the way, and your child can't see where to start. It's hard to watch, and it happens in plenty of homes. Our A-Level tutors for Chesham students sort out which topics are costing the most marks, so revision has somewhere to begin."
 
@@ -15,7 +15,7 @@ grade_stat: "B to A is what weekly lessons aim for when your child knows the cou
 grade_card: "aim"
 
 first_lesson_eyebrow: "THE PILE ON THE DESK"
-first_lesson_heading: "A Chesham A-Level Tutor Starts by Shrinking the To-Do List"
+first_lesson_heading: "An A-Level Tutor for Chesham Students Starts by Shrinking the To-Do List"
 first_lesson_context: "Most of the course is usually fine, and it's a handful of topics that keep costing marks. The tutor works through a recent paper with your child to find them, and those get the early lessons while everything else waits its turn. That matters most before the school settles predicted grades for UCAS, which is usually in the autumn of Year 13."
 
 first_lesson_quote: "My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
@@ -23,7 +23,7 @@ first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "A-Level"
 
-tutor_strip_heading: "Chesham A-Level tutors who check which papers your child sits"
+tutor_strip_heading: "A-Level tutors for Chesham students who check which papers your child sits"
 tutor_strip_body: "The same A-Level can mean different exams, depending on the board and the options your child's sixth form chose, so we check that first. Each tutor has been tutoring for two years or more. Book a free call, and two or three profiles will follow within 24 hours."
 
 pathways_heading: "Where Chesham A-Levels Could Lead"

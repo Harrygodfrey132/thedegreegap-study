@@ -1,11 +1,11 @@
 ---
 title: "Slough GCSE Tutors | One-to-One | The Degree Gap"
-description: "Slough sixth forms often see your child's winter mock long before a real GCSE result. Our Slough GCSE tutors get them ready for that paper online, from £37."
+description: "Slough sixth forms often see your child's winter mock long before a real GCSE result. Our GCSE tutors for Slough get them ready for that paper online, from £37."
 layout: "subject"
 location: "Slough"
 level: "GCSE"
 
-hero_heading_line1: "GCSE Tutors for Slough Students Facing the Winter Mock That Sixth Forms Often Read First"
+hero_heading_line1: "GCSE Tutors for Slough Students"
 hero_heading_line2: ""
 hero_lead: "Your child's sixth-form applications go in before they've sat a single real GCSE, so the winter mock counts for more than it looks. Our GCSE tutors for Slough students work on it with them, one-to-one and online, while there's still time to change the result."
 
@@ -14,14 +14,14 @@ grade_to: "B"
 grade_stat: "Keira says the tutoring helped take her from an E to a B at GCSE."
 
 first_lesson_eyebrow: "READ IN JANUARY, SAT IN JUNE"
-first_lesson_heading: "Why a Slough GCSE Tutor Works to the Application Date, Not the Exam Date"
+first_lesson_heading: "Why a GCSE Tutor for Slough Students Works to the Application Date, Not the Exam Date"
 first_lesson_context: "It catches lots of Slough parents out. Sixth forms here, the four grammars included, take applications during Year 11, which means the first grade they see is often the winter mock. So a GCSE tutor goes through that paper before anything else, sorting the lost marks into the ones your child didn't know and the ones the clock took."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B at GCSE"
 
-tutor_strip_heading: "Slough GCSE tutors who read the mock before they plan the term"
+tutor_strip_heading: "GCSE tutors for Slough students who read the mock before they plan the term"
 tutor_strip_body: "Schools around Slough use different exam boards, so we'll find out which papers your child's entered for before we suggest anyone. Every tutor on the platform has passed our interview, and only about 3% of applicants do. Have a look below, or let us pick."
 
 pathways_heading: "What Opens After GCSEs in Slough"

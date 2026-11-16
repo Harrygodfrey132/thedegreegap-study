@@ -7,7 +7,7 @@ location: "Richmond"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Richmond Students Taking Physics or Economics Alongside"
+hero_h1: "A-Level Maths Tutors for Richmond Students"
 hero_lead: "When A-Level Maths wobbles, it rarely wobbles alone, because Physics and Economics both lean on it. Our A-Level Maths tutors for Richmond students steady the Pure first, then Mechanics and Statistics, online from home."
 
 angle_eyebrow: "MATHS UNDER EVERYTHING ELSE"

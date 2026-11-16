@@ -7,7 +7,7 @@ location: "Lowestoft"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Lowestoft Students Lost in Synthesis Routes and Spectra"
+hero_h1: "A-Level Chemistry Tutors for Lowestoft Students"
 hero_lead: "Your child can name the reactions one by one, but ask them to get from one compound to another in three steps, or to read an NMR spectrum, and the page stays blank. Our A-Level Chemistry tutors for Lowestoft students build those links until they make sense."
 
 angle_eyebrow: "SYNTHESIS AND ANALYTICAL TECHNIQUES"

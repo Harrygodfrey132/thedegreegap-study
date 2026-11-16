@@ -1,13 +1,13 @@
 ---
-title: "Southampton Online GCSE Maths Tutors | The Degree Gap"
+title: "Southampton GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Southampton GCSE Maths tutors for when a 4 in the mock puts the Richard Taunton or Itchen grade in doubt. We find the old gap first. Online, from £37 an hour."
+description: "GCSE Maths tutors for Southampton, for when a 4 in the mock puts the Richard Taunton or Itchen grade in doubt. We find the old gap first. Online, from £37."
 layout: "level-subject"
 location: "Southampton"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Southampton Families Chasing a Sixth Form Grade"
+hero_h1: "GCSE Maths Tutors for Southampton Students"
 hero_lead: "A 4 on the Year 10 Maths mock, and the grade Richard Taunton wants suddenly feels a long way off. Our GCSE Maths tutors for Southampton students usually find a Year 8 gap in fractions or algebra underneath it, and rebuild from there."
 
 angle_eyebrow: "WHAT'S UNDER A GRADE 4 IN MATHS"
@@ -28,7 +28,7 @@ schools:
   - "Oasis Academy Mayfield"
   - "Redbridge Community School"
 
-steps_heading: "How your child gets started with a Southampton Maths tutor"
+steps_heading: "How your child gets started with a Maths tutor for Southampton students"
 steps_lead: "Most families go from first call to first lesson in under a week. That leaves time to start before the Year 10 mocks, which often help decide which tier your child sits."
 steps:
   - title: "Your child's Maths, and the grade they need"

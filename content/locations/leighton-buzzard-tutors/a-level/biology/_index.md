@@ -7,7 +7,7 @@ location: "Leighton Buzzard"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Leighton Buzzard Students Struggling With the Long Answers"
+hero_h1: "A-Level Biology Tutors for Leighton Buzzard Students"
 hero_lead: "Your child has flashcards for every topic and still drops marks on questions that pull genetics and ecology into one answer. Our A-Level Biology tutors for Leighton Buzzard students teach them to connect what they know, and to show it under exam time."
 
 angle_eyebrow: "FLASHCARDS AREN'T THE PROBLEM"

@@ -5,7 +5,7 @@ layout: "subject"
 location: "Dartford"
 level: "A-Level"
 
-hero_heading_line1: "Online Dartford A-Level Tutors for Sixth Formers Fitting Study Around a Part-Time Job"
+hero_heading_line1: "A-Level Tutors for Dartford Students"
 hero_heading_line2: ""
 hero_lead: "Plenty of sixth formers take on a Saturday job in Year 12, and the study hours A-Levels expect outside lessons are the first thing to shrink. Our A-Level tutors for Dartford students help your child get more from the hours they do have, one subject at a time."
 
@@ -21,7 +21,7 @@ first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U → 3 C grades at A-Level"
 
-tutor_strip_heading: "Dartford A-Level tutors for every board, and the IB too"
+tutor_strip_heading: "A-Level tutors for Dartford students, for every board, and the IB too"
 tutor_strip_body: "WG6 teaches Edexcel A-Level Maths, while Dartford Grammar's sixth formers take IB Maths instead, so we match on the exact course, not just the subject. Look through the profiles below, or let us pick for your child."
 
 pathways_heading: "At 18 From Dartford: Degrees, Apprenticeships and Jobs Close to Home"

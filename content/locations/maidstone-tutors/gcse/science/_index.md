@@ -1,13 +1,13 @@
 ---
 title: "GCSE Science Tutors Covering Maidstone | The Degree Gap"
 nav_title: "Science"
-description: "Your child revises Biology and puts off Chemistry? Very common. Our Maidstone GCSE Science tutors check where the marks really go, online from £37 an hour."
+description: "Your child revises Biology and puts off Chemistry? Very common. Our GCSE Science tutors for Maidstone check where the marks really go, online from £37 an hour."
 layout: "level-subject"
 location: "Maidstone"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Maidstone Families With a Year 11 Juggling Three Sciences"
+hero_h1: "GCSE Science Tutors for Maidstone Students"
 hero_lead: "Science is one subject on the timetable and three on the exam paper, and your child's revision rarely gets split the way the marks do. Our GCSE Science tutors for Maidstone students find which of the three is costing the most, then work on it one-to-one online."
 
 angle_eyebrow: "THREE SCIENCES, ONE REVISION TIMETABLE"

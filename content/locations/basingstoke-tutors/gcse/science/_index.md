@@ -1,13 +1,13 @@
 ---
-title: "Basingstoke GCSE Science Tutors | Online | The Degree Gap"
+title: "Basingstoke GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "On Combined Science, one weak subject can hide behind two strong ones. Our Basingstoke GCSE Science tutors find the one costing your child marks. From £37."
+description: "On Combined Science, one weak subject can hide behind two strong ones. Our online GCSE Science tutors find it for Basingstoke students. From £37."
 layout: "level-subject"
 location: "Basingstoke"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutoring for Basingstoke Families"
+hero_h1: "GCSE Science Tutors for Basingstoke Students"
 hero_lead: "A stalled Science grade doesn't tell you much on its own. Our GCSE Science tutors for Basingstoke students pull Biology, Chemistry and Physics apart, then spend the term on whichever one is costing your child marks."
 
 angle_eyebrow: "WHAT ONE NUMBER CAN HIDE"

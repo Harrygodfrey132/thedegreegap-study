@@ -5,7 +5,7 @@ layout: "subject"
 location: "Royal Leamington Spa"
 level: "A-Level"
 
-hero_heading_line1: "Online Royal Leamington Spa A-Level Tutors for Good Grades That Have Stopped Climbing"
+hero_heading_line1: "A-Level Tutors for Royal Leamington Spa Students"
 hero_heading_line2: ""
 hero_lead: "Your child's working hard, but they've been one grade short for months. A-Level rewards a way of working GCSE never asked for, and extra revision alone rarely builds it. Our A-Level tutors for Royal Leamington Spa students teach it early, while the work still feeds the predicted grade."
 

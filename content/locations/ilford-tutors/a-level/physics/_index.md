@@ -7,7 +7,7 @@ location: "Ilford"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Ilford Students Losing Marks on Uncertainties and Graphs"
+hero_h1: "A-Level Physics Tutors for Ilford Students"
 hero_lead: "Your child can handle the theory, then a question about percentage uncertainty or a log graph from a practical knocks them off course. Our A-Level Physics tutors for Ilford students turn the practical-skills questions into marks your child can rely on."
 
 angle_eyebrow: "ERROR BARS AND WORST-FIT LINES"

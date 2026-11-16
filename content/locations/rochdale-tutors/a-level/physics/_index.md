@@ -7,7 +7,7 @@ location: "Rochdale"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Rochdale Students Tangled Up in Circuits"
+hero_h1: "A-Level Physics Tutors for Rochdale Students"
 hero_lead: "Potential dividers, internal resistance, then capacitors in Year 13: electricity is where plenty of confident Physics students start guessing. Our A-Level Physics tutors for Rochdale students untangle the circuit ideas first, so the calculations have something solid underneath."
 
 angle_eyebrow: "WHERE THE CURRENT GOES"

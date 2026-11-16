@@ -1,11 +1,11 @@
 ---
 title: "Berkhamsted GCSE Tutors | One-to-One | The Degree Gap"
-description: "When a mock puts your child's A-Level choices in doubt, our Berkhamsted GCSE tutors work on the grades that matter. One-to-one and online, from £37 an hour."
+description: "When a mock puts your child's A-Level choices in doubt, our GCSE tutors for Berkhamsted work on the grades that matter. One-to-one and online, from £37 an hour."
 layout: "subject"
 location: "Berkhamsted"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors in Berkhamsted Keeping Your Child's A-Level Choices Open"
+hero_heading_line1: "GCSE Tutors for Berkhamsted Students"
 hero_heading_line2: ""
 hero_lead: "Staying on for sixth form feels automatic, until you notice each A-Level on the list asks for its own GCSE grade. Our GCSE tutors for Berkhamsted students work one-to-one with your child on the subjects those grades hang on, online using the platform Lessonspace."
 
@@ -14,14 +14,14 @@ grade_to: "8"
 grade_stat: "Chamarika's son was predicted a 4-5 in GCSE Physics. After roughly two months of tutoring, he got an 8."
 
 first_lesson_eyebrow: "THE FORM THAT GOES IN BEFORE CHRISTMAS"
-first_lesson_heading: "How a Berkhamsted GCSE Tutor Plans Around Your Child's A-Level List"
+first_lesson_heading: "How a GCSE Tutor for Berkhamsted Students Plans Around Your Child's A-Level List"
 first_lesson_context: "Even if your child's staying on at Ashlyns, there's still a sixth form application, and it goes in around December, when predicted grades are the only numbers on it. So we ask which A-Levels they're weighing up, find the GCSE each one leans on, and read their latest paper in that subject first. Chasing one Science grade needs a very different term from steadying five."
 first_lesson_quote: "Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s. Thank you to all the 3x tutors."
 first_lesson_quote_name: "Chamarika"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Predicted 4-5 in Physics to an 8"
 
-tutor_strip_heading: "Berkhamsted GCSE tutors picked for the exam board, not the postcode"
+tutor_strip_heading: "GCSE tutors for Berkhamsted students picked for the exam board, not the postcode"
 tutor_strip_body: "Ashlyns, Berkhamsted School and Tring School aren't all on the same boards, and there are iGCSEs on the independent side. So the board gets settled first. Harry or Joe has interviewed every tutor, and about 3% of applicants make it. Have a browse, or let us choose."
 
 pathways_heading: "What Your Child Could Do After Year 11 in Berkhamsted"

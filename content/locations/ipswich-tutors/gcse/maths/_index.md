@@ -1,13 +1,13 @@
 ---
 title: "Ipswich GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Online GCSE Maths tutors covering Ipswich, for students who revise hard and still stall on worded questions. Matched on board and tier, from £37 an hour."
+description: "Online GCSE Maths tutors for Ipswich, for students who revise hard and still stall on worded questions. Matched on board and tier, from £37 an hour."
 layout: "level-subject"
 location: "Ipswich"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths tutoring for Ipswich students who revise but cannot start a question"
+hero_h1: "GCSE Maths Tutors for Ipswich Students"
 hero_lead: "The cards get made, the hours go in, and the paper still opens with something nobody knows how to begin. Our GCSE Maths tutors for Ipswich students work on that first move, one-to-one and online over Lessonspace."
 
 angle_eyebrow: "THE QUESTION THAT NEVER GETS STARTED"

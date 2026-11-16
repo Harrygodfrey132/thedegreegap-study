@@ -1,13 +1,13 @@
 ---
-title: "Stratford-upon-Avon A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Stratford-upon-Avon A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
-description: "The 'explain why' questions in chromatography cost marks. Our Stratford-upon-Avon A-Level Chemistry tutors help your child answer them, online. From £37."
+description: "The 'explain why' questions in chromatography cost marks. Our A-Level Chemistry tutors for Stratford-upon-Avon help your child answer them, online. From £37."
 layout: "level-subject"
 location: "Stratford-upon-Avon"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutoring Around Stratford-upon-Avon"
+hero_h1: "A-Level Chemistry Tutors for Stratford-upon-Avon Students"
 hero_lead: "Your child can probably do a chromatography calculation in seconds. It's the line asking why one spot travelled further that loses the marks, and our A-Level Chemistry tutors for Stratford-upon-Avon students teach your child to answer it the way examiners want."
 
 angle_eyebrow: "EASY TO DO, HARDER TO EXPLAIN"

@@ -1,13 +1,13 @@
 ---
 title: "A-Level Maths Tutors for Rickmansworth | The Degree Gap"
 nav_title: "Maths"
-description: "Pure, mechanics and statistics all count. Rickmansworth A-Level Maths tutors who find where your child's marks go. Online, one-to-one, from £37 an hour."
+description: "Pure, mechanics and statistics all count. A-Level Maths tutors for Rickmansworth who find where your child's marks go. Online, one-to-one, from £37 an hour."
 layout: "level-subject"
 location: "Rickmansworth"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Rickmansworth's Year 12s and 13s"
+hero_h1: "A-Level Maths Tutors for Rickmansworth Students"
 hero_lead: "There are three strands to A-Level Maths, and your child can be fine in pure but still drop a lot of marks in mechanics or statistics. Our A-Level Maths tutors for Rickmansworth students work out which strand it is and start there."
 
 angle_eyebrow: "PURE, MECHANICS, STATISTICS"

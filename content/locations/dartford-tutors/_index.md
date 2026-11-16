@@ -1,9 +1,9 @@
 ---
-title: "Online Tutoring for Dartford Families | The Degree Gap"
+title: "Tutoring for Dartford Families | The Degree Gap"
 description: "Weighing up the Kent Test, GCSE options or the IB for your child in Dartford? We'll match them with an online tutor who shows you where they stand. From £37."
 layout: "single"
 location: "Dartford"
-banner_heading: "Online tutoring for Dartford families who want to know where their child really stands"
+banner_heading: "GCSE and A-Level Tutors for Dartford Families"
 banner_description: "Harry or Joe gets to know your child on a free call, then we suggest two or three tutors, and the one you choose tells you plainly what the first lessons turn up."
 content_angle: "decisions that come early in Dartford: the Kent Test in Year 6, GCSE options in Year 9, then the IB at Dartford Grammar or A-Levels elsewhere at 16, and parents wanting a clear view of where their child really is before each one"
 intro_1: "Dartford asks parents to make a lot of school decisions, and it asks early. The Kent Test comes in September of Year 6, for Dartford Grammar, Dartford Grammar School for Girls and the two Wilmington grammars. GCSE options follow in Year 9. Then at 16 there's a choice plenty of towns don't offer: Dartford Grammar's mixed sixth form teaches the IB Diploma instead of A-Levels, while WG6, Dartford Grammar School for Girls and other sixth forms in town teach A-Levels, and NKC Dartford College offers something different again. Each time, you're choosing for a child whose report says 'working hard' and not much else. Five minutes per teacher at parents' evening doesn't tell you a great deal."
@@ -54,7 +54,7 @@ alevel_subjects:
   - "A-Level Physics Tuition|Particles, fields and the maths behind them, with the practical questions practised as often as the theory.|/book-a-call/"
 other_subjects:
   - "University Personal Statement|Answers to the UCAS questions planned and drafted in your child's own voice, whether they apply with A-Levels or the IB.|/book-a-call/"
-faq_1_q: "Are your tutors based in Dartford, or is there a centre we can come to?"
+faq_1_q: "Are your tutors for Dartford students, or is there a centre we can come to?"
 faq_1_a: "No to both, and it works out better for your child. Lessons are online, so we aren't choosing from the handful of tutors who happen to live near Dartford. We look across the UK for the one who suits your child, their subject and their exam board. Your child learns from home with no drive to a centre after school, and every lesson is recorded, so you can see what was covered."
 faq_2_q: "Should my child go for the IB at Dartford Grammar or A-Levels somewhere else? Can a tutor help with either?"
 faq_2_a: "Yes, we can match tutors for both, and Harry and Joe are happy to talk the choice through on the free call. Dartford Grammar's sixth form teaches only the IB Diploma: six subjects, usually three at Higher Level, plus the extended essay. Its entry criteria have asked for 52 points from your child's best eight GCSEs, a 5 or above in English and Maths, and a 7 in each Higher Level subject. WG6 has asked for 46 points and a 5 in English Language and Maths, then each A-Level's own grade. Check the current criteria, and the tutor works on whichever grade is furthest off."

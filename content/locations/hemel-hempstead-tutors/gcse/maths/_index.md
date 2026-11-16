@@ -1,13 +1,13 @@
 ---
-title: "Hemel Hempstead GCSE Maths Tutors | Online | The Degree Gap"
+title: "Hemel Hempstead GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "How long will GCSE Maths tutoring take? Our Hemel Hempstead tutors work it out in the first lesson and tell you plainly. Weekly lessons online, from £37."
+description: "How long will GCSE Maths tutoring take? Our tutors for Hemel Hempstead work it out in the first lesson and tell you plainly. Weekly lessons online, from £37."
 layout: "level-subject"
 location: "Hemel Hempstead"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors Covering Hemel Hempstead"
+hero_h1: "GCSE Maths Tutors for Hemel Hempstead Students"
 hero_lead: "Before you start, you'll want to know how long this takes. Fair question. It depends on what's really going wrong, and our GCSE Maths tutors for Hemel Hempstead students will find that in the first lesson and tell you."
 
 angle_eyebrow: "HOW LONG IT REALLY TAKES"

@@ -1,11 +1,11 @@
 ---
 title: "Kingston upon Thames GCSE Tuition | From £37/hr | The Degree Gap"
-description: "Kingston upon Thames GCSE tutors for the months before sixth-form applications go in. Online and one-to-one, a free call with us first, from £37, no contract."
+description: "GCSE tutors for Kingston upon Thames, for the months before sixth-form applications go in. Online and one-to-one, a free call with us first, from £37."
 layout: "subject"
 location: "Kingston upon Thames"
 level: "GCSE"
 
-hero_heading_line1: "Online Kingston upon Thames GCSE Tutors Who Find Missing Marks Before Sixth-Form Applications"
+hero_heading_line1: "GCSE Tutors for Kingston upon Thames Students"
 hero_heading_line2: ""
 hero_lead: "Around Kingston, some sixth-form applications close before Christmas of Year 11, so they're read on grades your child hasn't sat yet. It can feel very early. Our GCSE tutors for Kingston upon Thames students work one-to-one online on the topics losing marks in the mock, before the predicted grades are written."
 
@@ -14,14 +14,14 @@ grade_to: "B"
 grade_stat: "In a GCSE student's own words, tutoring helped take their grades from an E to a B."
 
 first_lesson_eyebrow: "AN E THAT DIDN'T STAY AN E"
-first_lesson_heading: "What a Kingston upon Thames GCSE Tutor Reads Before the Forms Go In"
+first_lesson_heading: "What a GCSE Tutor for Kingston upon Thames Students Reads Before the Forms Go In"
 first_lesson_context: "A report might say 'working hard' while the marked mock shows exactly which topic the marks went on, so that paper is the first thing a GCSE tutor asks to see. In Kingston it carries extra weight, because Tiffin, Kingston Grammar and the other sixth forms often read predicted grades long before the exams, and those grades lean on the autumn mock. Where the marks went decides what the next ten weeks are for."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B at GCSE"
 
-tutor_strip_heading: "Kingston upon Thames GCSE tutors who know which sixth forms read the autumn mock"
+tutor_strip_heading: "GCSE tutors for Kingston upon Thames students who know which sixth forms read the autumn mock"
 tutor_strip_body: "Tiffin, Coombe, Challoner, Holy Cross and Hollyfield don't all use the same exam board, so we'll check your child's before suggesting anyone. We interview every tutor ourselves, and only around 3% of applicants get through. You can browse the tutors below, or leave the choosing to us."
 
 pathways_heading: "Where Kingston upon Thames Year 11s Apply Next, and When"

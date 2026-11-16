@@ -1,9 +1,9 @@
 ---
 title: "Northampton Tutors | GCSE & A-Level | The Degree Gap"
-description: "Not sure your child's Year 11 grades will be enough for the sixth form or college they want? Our Northampton tutors can help, online and from £37 an hour."
+description: "Not sure your child's Year 11 grades will be enough for the sixth form or college they want? Our tutors for Northampton can help, online and from £37 an hour."
 layout: "single"
 location: "Northampton"
-banner_heading: "Online Northampton tutors for the Year 11 grades that decide what comes next"
+banner_heading: "GCSE and A-Level Tutors for Northampton Families"
 banner_description: "Can't tell yet whether your child's grades are a real problem? Most Northampton parents we speak to can't either. Our tutors work one-to-one online, matched to your child's exam board, and start from the grades their next step at 16 actually asks for."
 content_angle: "post-16 routes and the employer base"
 intro_1: "You've probably had the talk about effort already, more than once. The revision timetable went up on the fridge and lasted about a fortnight. And underneath it sits the question nobody at home can quite answer: are the grades a real problem yet, or just a wobble? Northampton doesn't have grammar schools, so nothing gets settled at eleven. It all lands in Year 11 instead. Northampton School for Boys and Northampton School for Girls are single-sex up to 16, then open up their sixth forms. Kingsthorpe College, Northampton Academy and Weston Favell Academy have sixth forms of their own. Each one sets its own grades for getting in."

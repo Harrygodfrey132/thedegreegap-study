@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors for Your Child in Redhill | The Degree Gap"
+title: "GCSE Tutors for Your Child in Redhill | The Degree Gap"
 description: "Worried you've left GCSE help too late? Online GCSE tutoring for Redhill Year 10s and 11s, starting with the subject nearest the line. From £37, no contract."
 layout: "subject"
 location: "Redhill"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Redhill Families Who Feel They've Left It Late"
+hero_heading_line1: "GCSE Tutors for Redhill Students"
 hero_heading_line2: ""
 hero_lead: "Lots of parents ring us in Year 11 wishing they'd started a year earlier, and the worry is usually bigger than the gap. Our GCSE tutors for Redhill students spend the months that are left on the subject sitting closest to the grade your child needs."
 
@@ -14,7 +14,7 @@ grade_to: "8"
 grade_stat: "“We were very last minute to tutoring only started two months before the exams”, Chamarika, Parent of GCSE Student, wrote on Trustpilot. Their son's Physics went from “a predicted 4-5” to “an 8”."
 
 first_lesson_eyebrow: "A LATE START IN YEAR 11"
-first_lesson_heading: "What a Redhill GCSE Tutor Leaves Out When Time Is Short"
+first_lesson_heading: "What a GCSE Tutor for Redhill Students Leaves Out When Time Is Short"
 first_lesson_context: "With a few months to go, the first lesson is about choosing, not covering everything. A GCSE tutor marks a recent mock with your child, picks out the topics worth the most marks on their papers, and lets the rest wait."
 first_lesson_quote: "My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s."
 first_lesson_quote_name: "Chamarika"

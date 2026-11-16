@@ -7,7 +7,7 @@ location: "Portsmouth"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors for Portsmouth and Southsea Students"
+hero_h1: "GCSE English Tutors for Portsmouth Students"
 hero_lead: "In the car home, your child can take a character apart for ten minutes without stopping. Then the essay on that same character comes back a band lower than you'd expect. Our GCSE English tutors for Portsmouth students work on the bit in between: getting it onto the page."
 
 angle_eyebrow: "SHARP OUT LOUD, QUIETER ON THE PAGE"
@@ -45,7 +45,7 @@ faqs:
     a: "Write, mostly. An hour or so a week is plenty, and it's better spent on one timed paragraph than on re-reading notes. For a child who talks better than they write, there's a handy trick. They say the point out loud and record it on a phone, then write it down and play the recording back. Whatever went missing between the two is usually where the marks went."
   - q: "My child's only in Year 10. Is that too early?"
     a: "Not at all. Year 10 is a good time, because the writing habits we're talking about take a while to change, and there's less mock pressure. The tutor can build the shape of a good paragraph slowly, on the texts your child is already studying, rather than cramming it into the spring of Year 11. Starting in Year 11 still works, of course. There's just less room."
-  - q: "My child has dyslexia. Can a Portsmouth English tutor still help?"
+  - q: "My child has dyslexia. Can an English tutor for Portsmouth students still help?"
     a: "Yes. We'll ask about learning differences on the call, and several tutors on our platform work regularly with neurodivergent children. Many of them know this exact gap, where the ideas come out strongly out loud and far less easily on paper. Being online helps. The writing stays on the shared whiteboard instead of being wiped away, and every lesson is recorded, so your child doesn't have to catch everything first time."
   - q: "What if my child doesn't want an English tutor?"
     a: "Very common, and with confident talkers there's often a reason. They think they're good at English, so a tutor can feel like being told they're not. It helps to say early that the lessons are about the page, not about them. The free 15-minute meeting lets your child meet the tutor with nothing committed, and it usually eases once they see it's one person on their side. If they still don't want to carry on, you stop."

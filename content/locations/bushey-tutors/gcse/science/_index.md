@@ -1,13 +1,13 @@
 ---
 title: "GCSE Science Tutors for Bushey | The Degree Gap"
 nav_title: "Science"
-description: "Has Physics become 'not my thing'? Our Bushey GCSE Science tutors start with the equations, units and practicals on your child's board. Online, from £37."
+description: "Has Physics become 'not my thing'? Our GCSE Science tutors for Bushey start with the equations, units and practicals on your child's board. Online, from £37."
 layout: "level-subject"
 location: "Bushey"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors in Bushey for the Child Who's 'Not a Physics Person'"
+hero_h1: "GCSE Science Tutors for Bushey Students"
 hero_lead: "A low predicted grade in Physics can turn into a label your child starts to believe. Our GCSE Science tutors for Bushey students start with the equations and units that cost the most marks, then the six-mark answers, one-to-one online."
 
 card_eyebrow: "TALK IT THROUGH FIRST"
@@ -19,7 +19,7 @@ card_points:
 card_cta: "Book a free Science call"
 
 angle_eyebrow: "WHEN PHYSICS BECOMES A LABEL"
-angle_heading: "What a Bushey GCSE Science Tutor Looks for When Physics Stalls"
+angle_heading: "What a GCSE Science Tutor for Bushey Students Looks for When Physics Stalls"
 angle_body_1: "By Year 10, plenty of children have quietly decided Physics isn't for them. When a tutor looks at their papers, the ideas are usually fine. The marks go on the handling. An equation with the numbers put in before it's rearranged. Kilojoules left as kilojoules when the answer wanted joules. A graph read off the wrong axis. Then there are the experiments your child's board expects them to know, called required practicals on AQA and core practicals on Edexcel, where a question asks how the method could be improved. None of these needs a different brain. They need a routine, practised until it's automatic."
 angle_body_2: "First, the tutor takes the last test your child brought home and sorts every lost mark by science and by type. If it's Physics, the first few weeks go on one routine at a time: write the equation, rearrange it, check the units, then put the numbers in. Six-mark answers get planned as a short chain of linked points. Chamarika's son went from a predicted 4-5 to an 8 in Physics. It won't go the same way for everyone, but it's a reminder that a predicted grade isn't fixed. Looking further ahead, Queens' sets its own GCSE entry grade for each A-Level subject, sciences included, so it helps to know which ones your child might want."
 angle_image: "/images/physics-mechanics-force-diagram.jpg"
@@ -51,7 +51,7 @@ faqs:
     a: "Yes, because plenty of jobs near Bushey use it. West Hertfordshire Teaching Hospitals, with hospitals in Watford, Hemel Hempstead and St Albans, offers apprenticeships from level 2 upwards, and healthcare routes lean on Science. Out at Leavesden, the Warner Bros studios' own apprenticeship scheme has included set lighting and rigging, where Physics comes in handy. Entry grades and closing dates differ from scheme to scheme and get updated each year, so look at the current advert when the time comes. In lessons, the hour goes on whichever science is costing your child the most marks."
   - q: "AQA, Edexcel or OCR: does the board change how a tutor teaches Science?"
     a: "Yes, more than you'd think. The core science is the same, but AQA, Edexcel and OCR word their questions differently and name their practical work differently: AQA has required practicals, Edexcel has core practicals and OCR uses its own practical activity groups. The mark schemes reward slightly different things in the longer answers too. So we match a tutor who knows your child's board, and the practice questions come from that board's papers. If you're unsure which board it is, the school can tell you, or we'll check together on the call."
-  - q: "What does an hour of GCSE Science with a Bushey tutor look like?"
+  - q: "What does an hour of GCSE Science with a tutor for Bushey families look like?"
     a: "Most lessons run for an hour and follow a rhythm. The first part goes over the homework, so any slip is caught early. The middle is the topic that's costing the most marks, such as rearranging Physics equations or balancing chemical equations, taught on the whiteboard with your child doing the writing. The last part is exam questions on that topic, marked against the board's mark scheme. You'll get a short note afterwards, and the lesson's recorded if your child wants to see a method again."
   - q: "Are the Science tutors qualified teachers, or still at university?"
     a: "There's a mix, and we'll suggest whichever fits your child. Many tutors on our platform are qualified teachers, some are science graduates, and some are still at university. Each has at least two years of tutoring experience, and Harry or Joe have interviewed every one. For Science, we also look at which sciences a tutor really knows well, because a strong Biology tutor isn't automatically a strong Physics one. If your child's weak spot is Physics, that's who we'll look for."

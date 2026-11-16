@@ -1,9 +1,9 @@
 ---
 title: "Bath GCSE and A-Level Tutoring | The Degree Gap"
-description: "Staying on for sixth form in Bath depends on Year 11 grades. Our Bath tutors teach your child one-to-one online, matched to their exam board. Lessons from £37."
+description: "Staying on for sixth form in Bath depends on Year 11 grades. Our tutors for Bath teach your child online, matched to their exam board. Lessons from £37."
 layout: "single"
 location: "Bath"
-banner_heading: "Staying on at a Bath sixth form isn't automatic: online tutoring for the grades it takes"
+banner_heading: "GCSE and A-Level Tutors for Bath Families"
 banner_description: "In Bath, each school's sixth form sets its own entry grades. Our tutors for Bath families work with your child one-to-one online, on the exact papers they'll sit."
 content_angle: "school-based sixth forms and the bar at sixteen"
 intro_1: "Most Bath parents who ring us have already tried the sixth-form conversation at home, and it didn't get far. If your child's at Beechen Cliff or Hayesfield, the sixth form's in the same building, so staying on feels automatic. It isn't, quite. In Bath the sixth forms sit inside the schools, and each one sets its own bar. Beechen Cliff's most recent A-Level entry asked for five GCSEs at grade 6, with at least a 4 in English Language and Maths. Ralph Allen lists its requirements subject by subject, and St Gregory's, Oldfield and Hayesfield each publish their own. So the grades your child gets in the summer of Year 11 don't just open or close a door. They decide which building they walk into in September."

@@ -7,7 +7,7 @@ location: "Princes Risborough"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Princes Risborough Students Whose Essays Stop at the Diagram"
+hero_h1: "A-Level Economics Tutors for Princes Risborough Students"
 hero_lead: "Your child draws a neat diagram and explains it well, then the 25-mark answer ends without ever weighing anything up. Our A-Level Economics tutors for Princes Risborough students teach the judgement those long questions are marked on."
 
 angle_eyebrow: "2,500 NEW HOMES AND A RELIEF ROAD"

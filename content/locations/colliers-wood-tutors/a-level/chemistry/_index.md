@@ -7,7 +7,7 @@ location: "Colliers Wood"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Colliers Wood Students Stuck on pH and Equilibrium"
+hero_h1: "A-Level Chemistry Tutors for Colliers Wood Students"
 hero_lead: "Your child can follow a pH calculation in class, then gets lost when the next one brings in a buffer or a Ka value. Our A-Level Chemistry tutors for Colliers Wood students take the physical chemistry calculations slowly, one line at a time, until they hold."
 
 angle_eyebrow: "WHERE THE NUMBERS PILE UP"

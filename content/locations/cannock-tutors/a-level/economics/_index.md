@@ -7,7 +7,7 @@ location: "Cannock"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Cannock Students Who Are Good at Half the Subject"
+hero_h1: "A-Level Economics Tutors for Cannock Students"
 hero_lead: "Some teenagers love the graphs and calculations in Economics and dread the essays. Others write fluently, then freeze at a percentage change. Our A-Level Economics tutors for Cannock students find which half is costing your child marks and build up the other."
 
 angle_eyebrow: "NUMBERS ON ONE SIDE, ESSAYS ON THE OTHER"

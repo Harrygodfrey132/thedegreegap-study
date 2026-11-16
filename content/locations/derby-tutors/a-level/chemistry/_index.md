@@ -1,5 +1,5 @@
 ---
-title: "Derby A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Derby A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "If your child draws four isomers and misses two, or mixes up E and Z, our online Derby A-Level Chemistry tutors can teach a method that catches every one."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Derby"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors Matched to Derby Families"
+hero_h1: "A-Level Chemistry Tutors for Derby Students"
 hero_lead: "Lots of teenagers get E and Z labels wrong at A-Level, usually because the labels look like a naming habit when they're really a set of priority rules. Our A-Level Chemistry tutors for Derby students teach your child those rules, plus a way of drawing isomers that doesn't miss any."
 
 angle_eyebrow: "IT'S A RANKING, NOT JUST A NAME"

@@ -1,13 +1,13 @@
 ---
-title: "Sevenoaks A-Level Biology Tutors | Online | The Degree Gap"
+title: "Sevenoaks A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Stem cell questions about a treatment your child has never met? Our Sevenoaks A-Level Biology tutors help them reason it out. Online, one-to-one, from £37."
+description: "Stem cell questions about a treatment your child has never met? Our A-Level Biology tutors for Sevenoaks help them reason it out. Online, one-to-one, from £37."
 layout: "level-subject"
 location: "Sevenoaks"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutoring for Your Child in Sevenoaks"
+hero_h1: "A-Level Biology Tutors for Sevenoaks Students"
 hero_lead: "'We weren't taught that.' If your child has said it after a Biology mock, they're half right: the treatment in the question was new, but the Biology wasn't. Our A-Level Biology tutors for Sevenoaks students help your child apply what they know to new cases, starting with stem cells."
 
 angle_eyebrow: "NEW CASE, SAME BIOLOGY"
@@ -28,7 +28,7 @@ schools:
   - "Walthamstow Hall"
   - "Trinity School"
 
-steps_heading: "Getting Your Child Started With a Sevenoaks A-Level Biology Tutor"
+steps_heading: "Getting Your Child Started With an A-Level Biology Tutor for Sevenoaks Students"
 steps_lead: "Profiles come the day after your call. If your child's aiming for an A*, starting in Year 12 gives the habit time to grow."
 steps:
   - title: "Tell us what they're aiming for"

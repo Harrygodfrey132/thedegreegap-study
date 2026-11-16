@@ -7,7 +7,7 @@ location: "Rugby"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Rugby Teenagers Eyeing A-Level Sciences"
+hero_h1: "GCSE Science Tutors for Rugby Students"
 hero_lead: "Combined Science gives your child two grades and triple gives three, and Rugby's sixth forms want particular numbers in each before A-Level Chemistry or Physics. Our GCSE Science tutors for Rugby students work on the six-mark answers and the calculations that decide them."
 
 angle_eyebrow: "SIX-SIX OR SIX-FIVE"

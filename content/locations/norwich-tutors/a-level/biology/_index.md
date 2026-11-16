@@ -1,5 +1,5 @@
 ---
-title: "Norwich A-Level Biology Tutors | Online | The Degree Gap"
+title: "Norwich A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
 description: "Online A-Level Biology tutors for Norwich families. If your child picked Biology to dodge maths, ecology's sampling and statistics can bite. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Norwich"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors Covering Norwich"
+hero_h1: "A-Level Biology Tutors for Norwich Students"
 hero_lead: "Did your child pick Biology partly to get away from maths? Ecology is where the numbers come back. Our A-Level Biology tutors for Norwich students work on the calculations most teenagers don't see coming."
 
 angle_eyebrow: "WHERE THE MATHS COMES BACK"

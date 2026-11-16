@@ -7,7 +7,7 @@ location: "Dulwich"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutors for Dulwich Students Losing Marks on Six-Mark Answers"
+hero_h1: "GCSE Science Tutors for Dulwich Students"
 hero_lead: "Your child knows the science in class, then the six-mark question or the practical write-up comes back half empty. Our GCSE Science tutors for Dulwich students practise those question types until the method holds, online and one-to-one."
 
 angle_eyebrow: "TWO GRADES FROM ONE SUBJECT"
@@ -42,7 +42,7 @@ steps:
 
 faqs:
   - q: "We live in East Dulwich. Will Science lessons really work over a laptop?"
-    a: "Yes, and Science suits it better than you'd think. The tutor sketches a circuit or a titration set-up on the shared whiteboard, your child labels it, then they work through the calculation together line by line. Because we aren't limited to tutors near Dulwich, we can find someone who knows your child's board and, for Triple Science, a tutor for the exact subject that's lagging. Every lesson is recorded, too."
+    a: "Yes, and Science suits it better than you'd think. The tutor sketches a circuit or a titration set-up on the shared whiteboard, your child labels it, then they work through the calculation together line by line. Because we aren't limited to tutors for Dulwich students, we can find someone who knows your child's board and, for Triple Science, a tutor for the exact subject that's lagging. Every lesson is recorded, too."
   - q: "My child is interested in a healthcare apprenticeship at King's College Hospital. Does GCSE Science matter?"
     a: "It usually does. King's College Hospital, at Denmark Hill just north of Dulwich, runs apprenticeships from Level 3 upwards, in areas like healthcare science and pharmacy, and science-based schemes often look for Maths and a Science at GCSE. Check the page for the exact scheme, because each sets its own requirements. A tutor can then work towards the grade it names, usually starting with whichever science costs the most marks."
   - q: "My child takes Triple Science. Can one tutor cover Biology, Chemistry and Physics?"

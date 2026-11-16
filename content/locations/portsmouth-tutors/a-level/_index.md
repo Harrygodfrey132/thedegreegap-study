@@ -1,11 +1,11 @@
 ---
 title: "Portsmouth A-Level Tutors | Expert Tutors | The Degree Gap"
-description: "Knows the answers but runs out of time? Our Portsmouth A-Level tutors work one-to-one online on your child's pace and technique, not just content. From £37."
+description: "Knows the answers but runs out of time? Our A-Level tutors for Portsmouth work one-to-one online on your child's pace and technique, not just content. From £37."
 layout: "subject"
 location: "Portsmouth"
 level: "A-Level"
 
-hero_heading_line1: "A-Level Tutors for Portsmouth Students Who Keep Running Out of Time"
+hero_heading_line1: "A-Level Tutors for Portsmouth Students"
 hero_heading_line2: ""
 hero_lead: "If your child comes out of every paper saying they ran out of time, they're not alone. Plenty of Year 13s know the answers but can't get them down fast enough. Our A-Level tutors for Portsmouth students work on pace and structure as well as content."
 
@@ -14,14 +14,14 @@ grade_to: "C"
 grade_stat: "Joanna's son turned E and U grades into three Cs at A-Level, and that's straight from her review."
 
 first_lesson_eyebrow: "FROM E AND U TO THREE Cs"
-first_lesson_heading: "What a Portsmouth A-Level Tutor Does With Two Terms Left"
+first_lesson_heading: "What an A-Level Tutor for Portsmouth Students Does With Two Terms Left"
 first_lesson_context: "The call often comes after the Year 13 mock, when the gap between what your child knows and what they scored is suddenly there in black and white. There's more time to close it than it feels like. The first lesson works out which marks can be won back and which aren't worth chasing."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Grade E to Grade C across three A-Levels"
 
-tutor_strip_heading: "Portsmouth A-Level tutors who know what the examiners reward"
+tutor_strip_heading: "A-Level tutors for Portsmouth students who know what the examiners reward"
 tutor_strip_body: "Each has tutored for at least two years, many are Russell Group graduates, and some have worked as examiners. And at A-Level that matters, because the last grade is usually down to technique rather than knowledge. Browse the tutors below, or tell us about your child and we'll choose."
 
 pathways_heading: "Portsmouth Year 13s and What Comes Next"

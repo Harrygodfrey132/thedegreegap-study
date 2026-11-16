@@ -7,7 +7,7 @@ location: "Altrincham"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Altrincham, Hale and Timperley"
+hero_h1: "GCSE Science Tutors for Altrincham Students"
 hero_lead: "Six papers, three subjects, and the marks usually slip away on one paper your child can't quite name. Our GCSE Science tutors for Altrincham students find it on a marked mock, then work on that paper one-to-one, online using the platform Lessonspace."
 
 angle_eyebrow: "WHY THE MATHS GRADE COMES INTO IT"

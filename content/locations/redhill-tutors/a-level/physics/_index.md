@@ -1,5 +1,5 @@
 ---
-title: "Online A-Level Physics Tutors for Your Child in Redhill | The Degree Gap"
+title: "A-Level Physics Tutors for Your Child in Redhill | The Degree Gap"
 nav_title: "Physics"
 description: "Are circuits and fields where your child's A-Level Physics falls apart? Online A-Level Physics tutoring for Redhill sixth formers. From £37, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Redhill"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Redhill Students Tangled Up in Circuits and Fields"
+hero_h1: "A-Level Physics Tutors for Redhill Students"
 hero_lead: "Your child can recite Ohm's law, then a potential divider with a thermistor in it stops them cold. Our A-Level Physics tutors for Redhill students work through electricity and fields until your child can explain what's happening, not just put numbers into a formula."
 
 angle_eyebrow: "WHERE PHYSICS STOPS BEING VISIBLE"

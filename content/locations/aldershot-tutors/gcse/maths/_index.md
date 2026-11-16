@@ -1,13 +1,13 @@
 ---
 title: "Aldershot GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Aldershot GCSE Maths tutors who find the topic a school move left out, then teach it properly. Online and one-to-one, matched on exam board, from £37 an hour."
+description: "GCSE Maths tutors for Aldershot who find the topic a school move left out, then teach it properly. Online and one-to-one, matched on exam board, from £37."
 layout: "level-subject"
 location: "Aldershot"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors for Aldershot Children, Including After a School Move"
+hero_h1: "GCSE Maths Tutors for Aldershot Students"
 hero_lead: "If your child has moved school, there may be a Maths topic they were simply never taught. Some topics come round every year, and some are taught once. Our GCSE Maths tutors for Aldershot students teach online, and they go looking for the taught-once ones first."
 
 angle_eyebrow: "THE TOPICS THAT ONLY COME ROUND ONCE"

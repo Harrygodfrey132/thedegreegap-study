@@ -1,9 +1,9 @@
 ---
-title: "Online Tuition and Tutors for Stourbridge Families | The Degree Gap"
+title: "Tuition and Tutors for Stourbridge Families | The Degree Gap"
 description: "Has your child gone off one subject at school in Stourbridge? We'll match them with an online tutor who explains it their way. From £37 an hour, no contract."
 layout: "single"
 location: "Stourbridge"
-banner_heading: "Online tutoring for Stourbridge children who've decided they're no good at one subject"
+banner_heading: "GCSE and A-Level Tutors for Stourbridge Families"
 banner_description: "Usually there's one method underneath that never went in, years ago, and a patient tutor working with your child at home can find it and build back up from there."
 content_angle: "the written-off subject: a Stourbridge child doing fine elsewhere who has quietly given up on one subject; most local secondaries finish at 16 and King Edward VI College adds up the best six GCSE grades, so one or two subjects moving up a grade matters; tuition happens at home, with no centre to get to"
 intro_1: "You'll probably recognise the line. \"I'm just not a Maths person.\" Or French, or Chemistry. It tends to arrive somewhere in Year 9 or 10, said over tea as if that settles it, and from then on the homework in that subject gets done last and fastest, if it gets done at all. Everything else on the report looks fine. That's what makes it so hard to know what to do. Your child isn't failing. They've just quietly stopped trying in one room of the school, and you can't tell whether to push or leave it alone."
@@ -54,7 +54,7 @@ alevel_subjects:
   - "A-Level Geography Tuition|An NEA built on a fieldwork question that actually works, and essays joining the physical and human sides up.|/book-a-call/"
 other_subjects:
   - "University Personal Statement|Support with the UCAS personal statement, from finding something real to write about to tightening the final draft.|/book-a-call/"
-faq_1_q: "We were searching for tutors in Stourbridge. Are yours actually based here?"
+faq_1_q: "We were searching for tutors for Stourbridge students. Are yours actually based here?"
 faq_1_a: "Not usually, and we don't have a centre in town either. That's deliberate. Lessons are online, so we can choose from tutors right across the UK instead of the few who live near Stourbridge, and the one who suits your child best might be in Leeds or Bristol. Your child learns at home, and every lesson is recorded, so you can see what was covered. Harry or Joe will have interviewed every tutor we suggest."
 faq_2_q: "My child is taking a BTEC as well as GCSEs. Does it count when they apply to King Edward VI College?"
 faq_2_a: "Not towards the entry requirements, at the moment. The college says BTECs, Cambridge Nationals and similar qualifications don't count, so the 32 points it asks for have to come from your child's best six GCSEs. Some courses then want a particular grade too, a 6 in English for Economics or Psychology, for example. Requirements can change from year to year, so check the course pages together. Then a tutor can work on whichever GCSE is closest to the next grade up."

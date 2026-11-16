@@ -1,9 +1,9 @@
 ---
-title: "Worried About GCSEs? Online Tutors for Wimbledon Students"
+title: "Worried About GCSEs? Tutors for Wimbledon Students"
 description: "Is your child working hard at school in Wimbledon but sure they're behind everyone? We'll match them with an online tutor. Free call first, from £37 an hour."
 layout: "single"
 location: "Wimbledon"
-banner_heading: "Online GCSE and A-Level tutors for Wimbledon children who've decided they're behind"
+banner_heading: "GCSE and A-Level Tutors for Wimbledon Families"
 banner_description: "Most tutoring piles more work onto a full week. We start by finding the one thing that's really costing your child marks, then match them with a tutor from anywhere in the UK."
 content_angle: "confidence in a high-results borough: the child in the middle of a strong class who has decided they're the slow one"
 intro_1: "It tends to come out sideways. A remark in the car about a friend who's 'basically a genius', or a test left face down on the kitchen table. Your child is working hard, harder than you'd guess from the mood, and somewhere around Year 9 they decided they're the slow one. You've probably told them they're doing fine. It doesn't land. Wimbledon makes the comparison easy, too. Merton has no grammar schools of its own, so at eleven children head off in every direction, to the Tiffin and Sutton grammars after the tests in Year 6, to KCS or Wimbledon High, to Ursuline, Rutlish or Ricards Lodge, and everyone knows someone everywhere. With GCSE results across the borough well above the national average, the middle of a strong class can feel like the bottom of it."

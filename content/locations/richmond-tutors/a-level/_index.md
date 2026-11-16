@@ -5,7 +5,7 @@ layout: "subject"
 location: "Richmond"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Richmond Students When One Subject Drags Another Down"
+hero_heading_line1: "A-Level Tutors for Richmond Students"
 hero_heading_line2: ""
 hero_lead: "Shaky Maths shows up in Physics and Economics too, and weak Chemistry holds back Biology. Our A-Level tutors for Richmond students find the subject at the root and start there, online from home."
 

@@ -7,7 +7,7 @@ location: "Richmond"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Richmond Students Who Freeze on Multi-Step Problems"
+hero_h1: "A-Level Physics Tutors for Richmond Students"
 hero_lead: "Your child follows the Physics in class, then a five-mark question needs three equations in a row and it all falls apart. Our A-Level Physics tutors for Richmond students break those problems into steps your child can repeat, online from home."
 
 angle_eyebrow: "HOME OF THE NATIONAL PHYSICAL LABORATORY"

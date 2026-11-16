@@ -7,7 +7,7 @@ location: "Hampstead"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Hampstead Students Who Freeze When Asked to Prove It"
+hero_h1: "A-Level Maths Tutors for Hampstead Students"
 hero_lead: "At GCSE your child could follow a method to an answer. A-Level Maths keeps asking them to show why it works, and that's where the marks start to go. Our A-Level Maths tutors for Hampstead students teach them to set out an argument line by line."
 
 angle_eyebrow: "WHEN THE QUESTION SAYS PROVE"

@@ -7,7 +7,7 @@ location: "Ampthill"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Ampthill Students Whose Six-Mark Answers Come Out Jumbled"
+hero_h1: "GCSE Science Tutors for Ampthill Students"
 hero_lead: "Your child knows the facts, then a six-mark question asks them to explain a process in order and the answer comes out jumbled. Our GCSE Science tutors for Ampthill students teach a quick way to plan those answers, one-to-one and online."
 
 angle_eyebrow: "SIX MARKS, ONE PLAN"

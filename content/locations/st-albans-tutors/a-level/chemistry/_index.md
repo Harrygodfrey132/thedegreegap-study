@@ -1,5 +1,5 @@
 ---
-title: "St Albans A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "St Albans A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Is inorganic Chemistry costing your child marks? Our online St Albans A-Level Chemistry tutors work on trend explanations and titration curves, from £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "St Albans"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutoring in St Albans, From Periodicity to Titration Curves"
+hero_h1: "A-Level Chemistry Tutors for St Albans Students"
 hero_lead: "Inorganic chemistry is the part of the A-Level most children revise last, and it's often where the marks go first. Our A-Level Chemistry tutors for St Albans students work on periodicity, the trend explanations and the titration curves that decide whole questions."
 
 angle_eyebrow: "THE PART THAT GETS REVISED LAST"

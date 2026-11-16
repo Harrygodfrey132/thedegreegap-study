@@ -1,11 +1,11 @@
 ---
 title: "Chesham GCSE Tutors | Grammar and Upper School | The Degree Gap"
-description: "Chesham GCSE tutors who teach at your child's pace, whether that means pushing ahead or going back over a topic. Online, one-to-one, from £37, no contract."
+description: "GCSE tutors for Chesham who teach at your child's pace, whether that means pushing ahead or going back over a topic. Online, one-to-one, from £37, no contract."
 layout: "subject"
 location: "Chesham"
 level: "GCSE"
 
-hero_heading_line1: "Online Chesham GCSE Tutors for When the Class Pace Doesn't Suit Your Child"
+hero_heading_line1: "GCSE Tutors for Chesham Students"
 hero_heading_line2: ""
 hero_lead: "One week your child flies through the homework and wants more. The next, a topic's gone over their head, and you can't quite work out how to help. Our GCSE tutors for Chesham students work at your child's pace, one-to-one and online."
 
@@ -15,15 +15,15 @@ grade_stat: "When most of the course is secure, a 6 to an 8 is what weekly lesso
 grade_card: "aim"
 
 first_lesson_eyebrow: "THIRTY CHILDREN, ONE PACE"
-first_lesson_heading: "An Hour With a Chesham GCSE Tutor That's All About Your Child"
-first_lesson_context: "With thirty in the room, a teacher has to aim each lesson at the middle. So if your child's ahead, they wait, and if they missed something in October, it can quietly follow them all the way to May. A Chesham GCSE tutor plans for one child, and the hour goes wherever yours needs it."
+first_lesson_heading: "An Hour With a GCSE Tutor for Chesham Students That's All About Your Child"
+first_lesson_context: "With thirty in the room, a teacher has to aim each lesson at the middle. So if your child's ahead, they wait, and if they missed something in October, it can quietly follow them all the way to May. A GCSE tutor for Chesham students plans for one child, and the hour goes wherever yours needs it."
 
 first_lesson_quote: "My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. …"
 first_lesson_quote_name: "Ellen"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "GCSE Maths"
 
-tutor_strip_heading: "Chesham GCSE tutors picked for stretching ahead or catching up"
+tutor_strip_heading: "GCSE tutors for Chesham students picked for stretching ahead or catching up"
 tutor_strip_body: "Some children need pushing on and some need a topic rebuilt, and those are different jobs, so we'll ask which. Buckinghamshire schools use AQA, Edexcel and OCR between them, so we'll check the board too. Look through the profiles yourself, or leave it with us."
 
 pathways_heading: "Chesham at 16: Your Child's Next Step"

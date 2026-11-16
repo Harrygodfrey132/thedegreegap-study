@@ -7,7 +7,7 @@ location: "Stockport"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online One-to-One GCSE English Tutoring for Stockport Year 11s Whose Predicted Grade Just Dropped"
+hero_h1: "GCSE English Tutors for Stockport Students"
 hero_lead: "The report's come home with English a grade lower than in the summer, and nobody can tell you which essay did it. Our GCSE English tutors for Stockport students find that essay with your child, one-to-one online, and fix the habit behind it."
 
 angle_eyebrow: "A GRADE BUILT ON FOUR ESSAYS"

@@ -1,13 +1,13 @@
 ---
-title: "Chesham A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Chesham A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
-description: "Is the ideal gas equation costing your child marks? Our Chesham A-Level Chemistry tutors work one-to-one online on units and rearranging. From £37 an hour."
+description: "Is the ideal gas equation costing your child marks? Our A-Level Chemistry tutors for Chesham work one-to-one online on units and rearranging. From £37 an hour."
 layout: "level-subject"
 location: "Chesham"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Chesham Year 12s and 13s"
+hero_h1: "A-Level Chemistry Tutors for Chesham Students"
 hero_lead: "Line by line, your child's working looks right, and the answer's still out by a factor of a thousand. Our A-Level Chemistry tutors for Chesham students see that most on the ideal gas equation, so it's often where they start."
 
 angle_eyebrow: "RIGHT METHOD, WRONG POWER OF TEN"

@@ -1,11 +1,11 @@
 ---
 title: "Weybridge GCSE Tutors | One-to-One | The Degree Gap"
-description: "Heathside or Esher? One grade in one subject can decide it. Our Weybridge GCSE tutors work on that subject with your child in online lessons from £37."
+description: "Heathside or Esher? One grade in one subject can decide it. Our GCSE tutors for Weybridge work on that subject with your child in online lessons from £37."
 layout: "subject"
 location: "Weybridge"
 level: "GCSE"
 
-hero_heading_line1: "GCSE Tutors for Weybridge Students When One Grade Decides the Sixth Form"
+hero_heading_line1: "GCSE Tutors for Weybridge Students"
 hero_heading_line2: ""
 hero_lead: "If your child's torn between two sixth forms, you've probably noticed they don't always ask for the same grade in the same subject. Our GCSE tutors for Weybridge students find the subject closest to the line and work on it in weekly online lessons, so both stay open."
 
@@ -14,14 +14,14 @@ grade_to: "8"
 grade_stat: "A predicted 4-5 in Physics became an 8 for Chamarika's son, after roughly two months of tutoring."
 
 first_lesson_eyebrow: "A 6 HERE, A 7 THERE"
-first_lesson_heading: "How a Weybridge GCSE Tutor Plans Around the Sixth Form Shortlist"
+first_lesson_heading: "How a GCSE Tutor for Weybridge Students Plans Around the Sixth Form Shortlist"
 first_lesson_context: "On the current lists, Esher asks for a 6 in Maths before A-Level Maths, while Heathside asks for a 7. That one grade can change the whole conversation at home. So the first lesson sets a recent paper beside both lists and finds the subject most at risk for the course your child really wants."
 first_lesson_quote: "Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s. Thank you to all the 3x tutors."
 first_lesson_quote_name: "Chamarika"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Predicted 4-5 to an 8 in Physics"
 
-tutor_strip_heading: "Weybridge GCSE tutors matched to the paper your child sits"
+tutor_strip_heading: "GCSE tutors for Weybridge students matched to the paper your child sits"
 tutor_strip_body: "Heathside, St George's and Sir William Perkins's don't all use the same exam boards, and iGCSE papers differ again, so we confirm your child's exact course first. Harry or Joe has met every tutor, and around 3% of those who apply get in. Browse, or let us choose."
 
 pathways_heading: "Where Weybridge Year 11s Go After Their GCSEs"

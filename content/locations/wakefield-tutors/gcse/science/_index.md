@@ -7,7 +7,7 @@ location: "Wakefield"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Wakefield Students, From Biology Recall to Physics Equations"
+hero_h1: "GCSE Science Tutors for Wakefield Students"
 hero_lead: "Science GCSEs test memory, maths and long written answers, and most children are comfortable with only some of that. Our online GCSE Science tutors for Wakefield students find the weakest part and begin there, for Combined or Triple."
 
 angle_eyebrow: "WHAT A DOUBLE GRADE MEANS"

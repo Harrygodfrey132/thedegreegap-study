@@ -1,13 +1,13 @@
 ---
-title: "Cheltenham A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Cheltenham A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
-description: "Is your child losing A-Level Chemistry marks on the written practical questions? Our Cheltenham tutors work online on methods and titrations. From £37 an hour."
+description: "Is your child losing A-Level Chemistry marks on the written practical questions? Our tutors for Cheltenham work online on methods and titrations. From £37."
 layout: "level-subject"
 location: "Cheltenham"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Cheltenham and Gloucestershire"
+hero_h1: "A-Level Chemistry Tutors for Cheltenham Students"
 hero_lead: "Your child did the experiments in the lab, and the written questions about them still cost marks. They're worth more than most people think. Our A-Level Chemistry tutors for Cheltenham students work on methods, evaluation and titrations."
 
 angle_eyebrow: "THE QUESTIONS NOBODY REVISES FOR"

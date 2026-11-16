@@ -7,7 +7,7 @@ location: "Great Missenden"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Great Missenden Students Caught Out by the Maths"
+hero_h1: "A-Level Biology Tutors for Great Missenden Students"
 hero_lead: "Your child expected to learn a lot of Biology, not to work out a chi-squared value or a standard deviation against the clock. Our A-Level Biology tutors for Great Missenden students make the maths routine, so it stops eating marks the content had earned."
 
 angle_eyebrow: "THE STATISTICS NOBODY MENTIONED"

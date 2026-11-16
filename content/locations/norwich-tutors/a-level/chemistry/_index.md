@@ -1,5 +1,5 @@
 ---
-title: "Norwich A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Norwich A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Right method, wrong sign? Online A-Level Chemistry tutors for Norwich families help your child fix the electrochemistry habits that cost marks. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Norwich"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutoring Across Norwich"
+hero_h1: "A-Level Chemistry Tutors for Norwich Students"
 hero_lead: "Your child's method was right, and one sign still made the answer wrong. That's electrochemistry. Our A-Level Chemistry tutors for Norwich students work on the conventions, the fixed ways of setting answers out, because that's where those marks go."
 
 angle_eyebrow: "THE SIGN DECIDES THE ANSWER"

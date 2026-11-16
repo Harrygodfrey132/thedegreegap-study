@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors in Letchworth | The Degree Gap"
-description: "Has your child switched off from one GCSE subject? Our Letchworth GCSE tutors find where it stopped making sense and rebuild it, online. From £37, no contract."
+title: "GCSE Tutors in Letchworth | The Degree Gap"
+description: "Has your child switched off from one GCSE subject? Our GCSE tutors for Letchworth find where it stopped making sense and rebuild it, online. From £37."
 layout: "subject"
 location: "Letchworth"
 level: "GCSE"
 
-hero_heading_line1: "Online Letchworth GCSE Tutors for the Subject Your Child Has Switched Off From"
+hero_heading_line1: "GCSE Tutors for Letchworth Students"
 hero_heading_line2: ""
 hero_lead: "Usually it's one subject. It's the homework left till last, and the one that gets a shrug when you ask about it. Our GCSE tutors for Letchworth students work one-to-one online to find where it stopped making sense, and start from there."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "Omo's son, in Year 10, was completely disengaged from English. Six months into his lessons, he'd improved from a grade 5 to a 6/7."
 
 first_lesson_eyebrow: "FROM DISENGAGED TO LOOKING FORWARD"
-first_lesson_heading: "How a Letchworth GCSE Tutor Starts on the Subject Your Child Avoids"
+first_lesson_heading: "How a GCSE Tutor for Letchworth Students Starts on the Subject Your Child Avoids"
 first_lesson_context: "When parents call us about GCSEs, it's often one subject rather than all of them: the one your child has stopped trying in. The first lesson with a GCSE tutor goes gently back through some recent marked work until it's clear where things stopped clicking. Often it's something taught a couple of years ago that never felt secure."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to a 6/7 in GCSE English"
 
-tutor_strip_heading: "Letchworth GCSE tutors for Fearnhill, Highfield and the independents"
+tutor_strip_heading: "GCSE tutors for Letchworth students, for Fearnhill, Highfield and the independents"
 tutor_strip_body: "Each school picks its own exam boards, whether that's Fearnhill, The Highfield School, St Christopher or St Francis' College, and the board decides which tutors we suggest. We'll check your child's on the call. Meanwhile, there are a few profiles below."
 
 pathways_heading: "Where Letchworth Teenagers Go After Year 11"

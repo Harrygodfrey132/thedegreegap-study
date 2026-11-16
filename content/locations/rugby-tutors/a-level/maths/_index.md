@@ -7,7 +7,7 @@ location: "Rugby"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Rugby Sixth Formers Whose GCSE Methods Have Run Out"
+hero_h1: "A-Level Maths Tutors for Rugby Students"
 hero_lead: "A strong GCSE got your child onto the course, and by half term the algebra is moving faster than they can follow. Our A-Level Maths tutors for Rugby students rebuild the algebra underneath, so the calculus has something solid to stand on."
 
 angle_eyebrow: "AFTER THE GRADE 7"

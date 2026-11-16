@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors in Cobham | The Degree Gap"
-description: "Each sixth form near Cobham wants different GCSEs. Our Cobham GCSE tutors work one-to-one online on the subject holding your child back. From £37, no contract."
+title: "GCSE Tutors in Cobham | The Degree Gap"
+description: "Each sixth form near Cobham wants different GCSEs. Our GCSE tutors for Cobham work one-to-one online on the subject holding your child back. From £37."
 layout: "subject"
 location: "Cobham"
 level: "GCSE"
 
-hero_heading_line1: "Online Cobham GCSE Tutors for the One Subject Holding Your Child Back"
+hero_heading_line1: "GCSE Tutors for Cobham Students"
 hero_heading_line2: ""
 hero_lead: "Most of your child's grades are fine. One keeps coming back lower, and it's often the one their next step depends on. Our GCSE tutors for Cobham students work on that subject one-to-one and online, starting from a paper your child has already sat."
 
@@ -14,14 +14,14 @@ grade_to: "B"
 grade_stat: "From an E to a B, in the words of Keira, a GCSE pupil who reviewed us on Google."
 
 first_lesson_eyebrow: "WHEN ONE GRADE LAGS BEHIND"
-first_lesson_heading: "Where a Cobham GCSE Tutor Starts With Your Child"
+first_lesson_heading: "Where a GCSE Tutor for Cobham Students Starts With Your Child"
 first_lesson_context: "Sixth form applications at Cobham Free School go in during the autumn of Year 11, and ND6 makes its offers on predicted grades. That's why the GCSE tutor's first job is your child's weakest recent paper, taken a question at a time until it's clear which marks slipped and why."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "From an E to a B at GCSE"
 
-tutor_strip_heading: "Cobham GCSE tutors, chosen one subject at a time"
+tutor_strip_heading: "GCSE tutors for Cobham students, chosen one subject at a time"
 tutor_strip_body: "Whether your child's at Cobham Free School, Notre Dame or the Howard of Effingham School, we find out which board each subject uses before suggesting anyone. Browse some profiles now, or tell us about your child and we'll do the picking."
 
 pathways_heading: "The Choices Cobham Year 11s Weigh Up"

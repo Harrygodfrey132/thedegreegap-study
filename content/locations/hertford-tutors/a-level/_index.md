@@ -5,7 +5,7 @@ layout: "subject"
 location: "Hertford"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Hertford Students Whose Predicted Grades Have Slipped"
+hero_heading_line1: "A-Level Tutors for Hertford Students"
 hero_heading_line2: ""
 hero_lead: "Predicted grades go off with university applications in the autumn of Year 13, and that date comes round faster than most families expect. Our A-Level tutors for Hertford students work on the papers costing your child marks, even if they've left it late."
 

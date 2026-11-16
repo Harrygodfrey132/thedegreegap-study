@@ -7,7 +7,7 @@ location: "Rochdale"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Rochdale Students Whose Essays Lack Real Examples"
+hero_h1: "A-Level Economics Tutors for Rochdale Students"
 hero_lead: "Your child knows the theory and draws the diagram, then the essay could be about anywhere, and the application marks slip away. Our A-Level Economics tutors for Rochdale students help them use real examples, starting with the town on their doorstep."
 
 angle_eyebrow: "WHERE THE CO-OP BEGAN"

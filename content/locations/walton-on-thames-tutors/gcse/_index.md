@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors for Walton-on-Thames Students | The Degree Gap"
+title: "GCSE Tutors for Walton-on-Thames Students | The Degree Gap"
 description: "Did a mock come back lower than you hoped? We'll match your child in Walton-on-Thames with an online GCSE tutor on their exam board. From £37, no contract."
 layout: "subject"
 location: "Walton-on-Thames"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Walton-on-Thames Students After a Disappointing Mock"
+hero_heading_line1: "GCSE Tutors for Walton-on-Thames Students"
 hero_heading_line2: ""
 hero_lead: "Has a mock grade come home lower than anyone expected, with nobody quite able to say why? Our GCSE tutors for Walton-on-Thames students go through that paper with your child, find where the marks went, and start there."
 

@@ -1,11 +1,11 @@
 ---
 title: "Harrogate A-Level Tutors | Year 12 and Year 13 | The Degree Gap"
-description: "Harrogate A-Level tutors for the months between the offer and the exams. Online, one-to-one lessons that work back from the grades your child needs to get."
+description: "A-Level tutors for Harrogate, for the months between the offer and the exams. Online, one-to-one lessons that work back from the grades your child needs to get."
 layout: "subject"
 location: "Harrogate"
 level: "A-Level"
 
-hero_heading_line1: "Online Harrogate A-Level Tutors for the Months Between the Offer and the Exams"
+hero_heading_line1: "A-Level Tutors for Harrogate Students"
 hero_heading_line2: ""
 hero_lead: "The offer comes through, everyone breathes out, and then the conditions sink in. Now the summer exams have to meet them. Our A-Level tutors for Harrogate students work back from the grades on the offer, starting with the subject that's furthest off."
 
@@ -15,7 +15,7 @@ grade_stat: "The weekly lessons aim to turn a B into an A, though nobody can pro
 grade_card: "aim"
 
 first_lesson_eyebrow: "OFFER IN, EXAMS TO GO"
-first_lesson_heading: "How a Harrogate A-Level Tutor Counts Back From the Exams"
+first_lesson_heading: "How an A-Level Tutor for Harrogate Students Counts Back From the Exams"
 first_lesson_context: "It starts with the latest mock, gone through line by line, to see which grades on the offer look safe and which don't yet. From there, the tutor maps out the weeks until the exams, and the weakest topics get the most lessons. Your child can see what's coming each week, which takes some of the panic out of it."
 
 first_lesson_quote: "My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"

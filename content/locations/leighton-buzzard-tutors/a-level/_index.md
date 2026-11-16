@@ -5,7 +5,7 @@ layout: "subject"
 location: "Leighton Buzzard"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Leighton Buzzard Sixth Formers Whose Year 12 Is Drifting"
+hero_heading_line1: "A-Level Tutors for Leighton Buzzard Students"
 hero_heading_line2: ""
 hero_lead: "Staying on at the same school can make Year 12 feel like more of the same, right up until the first proper A-Level test comes back. Our A-Level tutors for Leighton Buzzard students set a weekly rhythm early, so Year 13 isn't spent catching up."
 

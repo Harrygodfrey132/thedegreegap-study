@@ -7,7 +7,7 @@ location: "Orpington"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Orpington Students Still Unsure About Moles"
+hero_h1: "A-Level Chemistry Tutors for Orpington Students"
 hero_lead: "Moles turn up in almost every A-Level Chemistry calculation, so a child who never quite got them at GCSE can feel lost across half the course. Our A-Level Chemistry tutors for Orpington students go back and make them solid first."
 
 angle_eyebrow: "THE CALCULATION UNDER EVERYTHING"
@@ -48,7 +48,7 @@ faqs:
     a: "It could be either. Many tutors on our platform have studied at Russell Group universities, often Chemistry or a subject that uses it, and some are qualified teachers. A few are undergraduates who sat the same A-Level recently and remember exactly where it hurts. Every one has at least two years of tutoring behind them, and Harry or Joe has interviewed them all."
   - q: "If we got in touch this week, when could Chemistry lessons begin?"
     a: "Often within days. The free call with Harry or Joe can usually happen quickly, and two or three tutor profiles follow within 24 hours of it. Once your child has met the tutor you like on a free 15-minute video call, you choose the first lesson time yourselves. If a test is close, say so on the call and the tutor will start with what it covers."
-# FAQ picks: G03 (reworded as the parent's own search for a tutor in Orpington), A01, A13, E02, C10
+# FAQ picks: G03 (reworded as the parent's own search for a tutor for Orpington students), A01, A13, E02, C10
 
 reviews:
   - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."

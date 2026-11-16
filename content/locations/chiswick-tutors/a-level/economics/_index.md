@@ -1,5 +1,5 @@
 ---
-title: "Online A-Level Economics Tutoring for Chiswick Students | The Degree Gap"
+title: "A-Level Economics Tutoring for Chiswick Students | The Degree Gap"
 nav_title: "Economics"
 description: "Are percentage changes and index numbers costing your child marks in A-Level Economics? We match Chiswick sixth formers with an online tutor. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Chiswick"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Chiswick Students Who Lose Marks on the Numbers"
+hero_h1: "A-Level Economics Tutors for Chiswick Students"
 hero_lead: "Your child can write a decent essay on inflation, then drops easy marks working out a percentage change or reading an index. Our A-Level Economics tutors for Chiswick students make the calculations routine, so the essays aren't carrying everything."
 
 angle_eyebrow: "A FIFTH OF THE MARKS"

@@ -1,11 +1,11 @@
 ---
 title: "Bromley A-Level Tuition | From £37/hr | The Degree Gap"
-description: "New sixth form, new teachers and a UCAS prediction on the way? Bromley A-Level tutors who find what slipped in the move. One-to-one online lessons from £37/hr."
+description: "New sixth form, new teachers and a UCAS prediction on the way? A-Level tutors for Bromley who find what slipped in the move. Online lessons from £37/hr."
 layout: "subject"
 location: "Bromley"
 level: "A-Level"
 
-hero_heading_line1: "Online Bromley A-Level Tutors for When a New Sixth Form Means a Bumpy Start"
+hero_heading_line1: "A-Level Tutors for Bromley Students"
 hero_heading_line2: ""
 hero_lead: "Your child may be starting a new school as well as a new level, which is common in Bromley and a lot to take in at once. Our A-Level tutors for Bromley students work one-to-one online to find whatever slipped in the move, before the mocks that feed their UCAS prediction."
 
@@ -21,7 +21,7 @@ first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Cs to As at A-Level"
 
-tutor_strip_heading: "Bromley A-Level tutors who spot the gaps a change of school leaves"
+tutor_strip_heading: "A-Level tutors for Bromley students who spot the gaps a change of school leaves"
 tutor_strip_body: "If your child joined St Olave's or Newstead Wood at 16, a topic taught a different way can hide until a formula comes out wrong. We'll check the exam board first. Our founders, Harry and Joe, interview every tutor, and only around 3% of applicants get through."
 
 pathways_heading: "The Three Roads Out of a Bromley Sixth Form"

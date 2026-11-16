@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tuition for Rugby Students | The Degree Gap"
+title: "GCSE Tuition for Rugby Students | The Degree Gap"
 description: "Does your child's sixth form place hang on a few GCSE grades? We'll match Rugby students with an online GCSE tutor on their exam board. From £37, no contract."
 layout: "subject"
 location: "Rugby"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Rugby Year 11s Working Towards a Sixth Form Place"
+hero_heading_line1: "GCSE Tutors for Rugby Students"
 hero_heading_line2: ""
 hero_lead: "Sixth form applications usually go in during the autumn of Year 11, but the place only becomes real when the grades arrive in August. Our GCSE tutors for Rugby students use the months in between on the subjects that place depends on."
 

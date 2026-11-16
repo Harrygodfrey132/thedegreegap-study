@@ -7,7 +7,7 @@ location: "Colliers Wood"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Colliers Wood Students Who Struggle Without a Calculator"
+hero_h1: "GCSE Maths Tutors for Colliers Wood Students"
 hero_lead: "If your child's marks drop on the non-calculator paper, it's usually fractions and negative numbers they've leant on a calculator for since Year 8. Our GCSE Maths tutors for Colliers Wood students rebuild that arithmetic, so the paper stops costing marks before the algebra even starts."
 
 angle_eyebrow: "PAPER 1, NO CALCULATOR"

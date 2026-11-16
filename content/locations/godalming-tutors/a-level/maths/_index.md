@@ -1,13 +1,13 @@
 ---
 title: "A-Level Maths Tutors in Godalming | The Degree Gap"
 nav_title: "Maths"
-description: "Year 12 Maths moving fast at Godalming College or another sixth form? Our Godalming A-Level Maths tutors help your child with pure, stats and mechanics."
+description: "Year 12 Maths moving fast at Godalming College or another sixth form? Our online A-Level Maths tutors help Godalming students with pure, stats and mechanics."
 layout: "level-subject"
 location: "Godalming"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Year 12s and 13s in Godalming"
+hero_h1: "A-Level Maths Tutors for Godalming Students"
 hero_lead: "Your child used to finish Maths homework in twenty minutes, and now it takes all evening, with half the page crossed out. Our A-Level Maths tutors for Godalming students find the point in each question where your child stops being sure, and work on it one-to-one, online."
 
 card_eyebrow: "FREE A-LEVEL CONSULTATION"

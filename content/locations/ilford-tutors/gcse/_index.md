@@ -1,11 +1,11 @@
 ---
-title: "GCSE Tutors for Ilford Teenagers | Online One-to-One | The Degree Gap"
+title: "GCSE Tutors for Ilford Teenagers | One-to-One | The Degree Gap"
 description: "Does your child think everyone else in their year is ahead? We'll match Ilford teenagers with an online GCSE tutor who knows their exam board. From £37 an hour."
 layout: "subject"
 location: "Ilford"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Ilford Teenagers Who Think Everyone Else Is Ahead"
+hero_heading_line1: "GCSE Tutors for Ilford Students"
 hero_heading_line2: ""
 hero_lead: "Your child comes home sure they're the only one in the class who doesn't get it, and no amount of reassurance shifts the feeling. Our GCSE tutors for Ilford students swap that worry for a short list of topics that can actually be fixed."
 

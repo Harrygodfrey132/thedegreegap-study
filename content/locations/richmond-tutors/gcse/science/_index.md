@@ -7,7 +7,7 @@ location: "Richmond"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Richmond Students Weighing Up an A-Level Science"
+hero_h1: "GCSE Science Tutors for Richmond Students"
 hero_lead: "If your child hopes to carry a science on after sixteen, those GCSE grades will be read closely. Our GCSE Science tutors for Richmond students find which science is losing the most marks and start there, online and one-to-one."
 
 angle_eyebrow: "A BOROUGH FULL OF SCIENTISTS"

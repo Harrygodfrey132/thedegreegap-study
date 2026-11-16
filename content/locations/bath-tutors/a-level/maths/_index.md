@@ -1,13 +1,13 @@
 ---
 title: "Bath A-Level Maths Tutors | One-to-One | The Degree Gap"
 nav_title: "Maths"
-description: "Bath A-Level Maths tutors for when an offer or apprenticeship names the Maths grade. We find where your child's marks are going. Online, one-to-one, from £37."
+description: "A-Level Maths tutors for Bath, for when an offer or apprenticeship names the Maths grade. We find where your child's marks are going. Online, from £37."
 layout: "level-subject"
 location: "Bath"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Bath, When an Offer Hangs on the Maths Grade"
+hero_h1: "A-Level Maths Tutors for Bath Students"
 hero_lead: "The offer your child's hoping for names the Maths grade, and the last mock came back a grade below it. Our A-Level Maths tutors for Bath students find the part of the course that's costing your child that grade, one-to-one and online."
 
 angle_eyebrow: "THE GRADE THE OFFER SPELLS OUT"
@@ -41,7 +41,7 @@ steps:
     body: "Then it's one hour a week, one-to-one on the online platform Lessonspace, with a replay of every lesson. Your child does the working on a shared whiteboard while the tutor spots where it goes wrong. There'll be timed past-paper questions between lessons, marked before the next one. From £37 an hour, no contract."
 
 faqs:
-  - q: "Can a Bath A-Level Maths tutor help my child apply for an Airbus or DE&S degree apprenticeship?"
+  - q: "Can an A-Level Maths tutor for Bath students help my child apply for an Airbus or DE&S degree apprenticeship?"
     a: "Yes. Both are a daily commute from Bath, and both name Maths in their requirements. For its digital technology degree apprenticeship, DE&S at Abbey Wood has asked for five GCSEs at grade 4 or above, including English, Maths and Science. It has also asked for three A-Levels at C or above, including Maths and a Science. Airbus at Filton has asked for three A-Levels at A to C, or 120 UCAS points, for its degree schemes, with a B in A-Level Maths on the aerospace mechatronics route. These change between intakes, so we'll check the current ones with you on the call and aim the lessons at the grade they name. Applications usually close before UCAS does."
   - q: "Does it matter which exam board my child's school uses for A-Level Maths?"
     a: "It does, especially near the top grades. All the boards cover the same core content, so the difference is in how it's examined. Edexcel has two Pure papers, then Statistics and Mechanics together in Paper 3. AQA spreads Pure across all three papers, with Mechanics on one and Statistics on another. OCR, including its MEI version, splits things its own way. Each board also has its own large data set, the real figures behind some Statistics questions. The wording of questions, and how much a long problem is broken into steps, differ too. So a tutor used to the wrong board is practising the wrong paper. We'll check your child's board on the call and match to it."

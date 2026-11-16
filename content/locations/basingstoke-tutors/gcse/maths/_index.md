@@ -1,13 +1,13 @@
 ---
-title: "Basingstoke GCSE Maths Tutors | Online | The Degree Gap"
+title: "Basingstoke GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Basingstoke GCSE Maths tutors who read your child's working, not just the answers, to find where the marks go. Foundation or higher tier, online, from £37."
+description: "GCSE Maths tutors for Basingstoke who read your child's working, not just the answers, to find where the marks go. Foundation or higher tier, online, from £37."
 layout: "level-subject"
 location: "Basingstoke"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors in Basingstoke Who Read Your Child's Working"
+hero_h1: "GCSE Maths Tutors for Basingstoke Students"
 hero_lead: "When Maths homework comes back with ticks and crosses and not much else, it's hard to tell what's actually going wrong. Our GCSE Maths tutors for Basingstoke students read your child's working line by line, because that's where the marks are."
 
 angle_eyebrow: "THE MARKS ARE IN THE WORKING"

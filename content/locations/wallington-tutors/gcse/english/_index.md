@@ -7,7 +7,7 @@ location: "Wallington"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Wallington Students Whose Own Writing Is Losing the Marks"
+hero_h1: "GCSE English Tutors for Wallington Students"
 hero_lead: "Your child can pick apart a poem in class, then the story they write in the exam comes back with a disappointing mark. Our online GCSE English tutors for Wallington students work on that writing, the part that often gets the least practice."
 
 angle_eyebrow: "HALF THE MARKS, LITTLE OF THE PRACTICE"

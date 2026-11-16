@@ -7,7 +7,7 @@ location: "Wokingham"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Wokingham Sixth Formers Who Stop Before the Evaluation"
+hero_h1: "A-Level Economics Tutors for Wokingham Students"
 hero_lead: "Your child can draw the diagram, but the essay reads like the textbook, with no real firm, town or market anywhere in it. Our A-Level Economics tutors for Wokingham students help them use examples from right on the doorstep, and then weigh them up."
 
 angle_eyebrow: "EXAMPLES FROM THE M4 CORRIDOR"

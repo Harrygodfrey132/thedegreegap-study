@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors for Princes Risborough Students | The Degree Gap"
+title: "GCSE Tutors for Princes Risborough Students | The Degree Gap"
 description: "Mock grades worrying you ahead of sixth form applications? We'll match Princes Risborough students with an online GCSE tutor on their board. From £37 an hour."
 layout: "subject"
 location: "Princes Risborough"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Princes Risborough Students Before the Mocks Become Predictions"
+hero_heading_line1: "GCSE Tutors for Princes Risborough Students"
 hero_heading_line2: ""
 hero_lead: "By the spring of Year 11, your child's mock grades are what a sixth form looks at when it makes an offer. Our GCSE tutors for Princes Risborough students go after the subject dragging those grades down, starting with the paper that went worst."
 

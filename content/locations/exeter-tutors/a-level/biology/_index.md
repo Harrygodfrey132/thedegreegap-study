@@ -1,13 +1,13 @@
 ---
-title: "Exeter A-Level Biology Tutors | Online | The Degree Gap"
+title: "Exeter A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Has your child revised photosynthesis and still lost the marks? Our Exeter A-Level Biology tutors teach what passes between its two stages. Online, from £37."
+description: "Has your child revised photosynthesis and still lost the marks? Our A-Level Biology tutors for Exeter teach what passes between its two stages. Online,"
 layout: "level-subject"
 location: "Exeter"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Exeter Families"
+hero_h1: "A-Level Biology Tutors for Exeter Students"
 hero_lead: "Flashcards for one stage of photosynthesis, flashcards for the other, and your child's marks still don't come. Usually the exam is asking what passes between the stages. Our A-Level Biology tutors for Exeter students start right there."
 
 angle_eyebrow: "WHAT PASSES BETWEEN THE TWO STAGES"
@@ -28,7 +28,7 @@ schools:
   - "St Luke's Science & Sports College"
   - "West Exe School"
 
-steps_heading: "Getting an Exeter A-Level Biology Tutor, Step by Step"
+steps_heading: "Getting an A-Level Biology Tutor for Exeter Students, Step by Step"
 steps_lead: "Most families see profiles within a day, and a Year 12 start leaves the most time before predictions are set."
 steps:
   - title: "Where the marks are going"

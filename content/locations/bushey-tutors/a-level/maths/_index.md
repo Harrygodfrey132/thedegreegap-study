@@ -1,13 +1,13 @@
 ---
 title: "Bushey A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Mechanics or Statistics quietly costing marks? Our Bushey A-Level Maths tutors work one-to-one online on the strand your child avoids. From £37, no contract."
+description: "Mechanics or Statistics quietly costing marks? Our A-Level Maths tutors for Bushey work one-to-one online on the strand your child avoids. From £37."
 layout: "level-subject"
 location: "Bushey"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Bushey Teenagers Avoiding Mechanics or Statistics"
+hero_h1: "A-Level Maths Tutors for Bushey Students"
 hero_lead: "If your child has been skipping the Mechanics questions, or the Statistics ones, the summer papers will still ask them. Our A-Level Maths tutors for Bushey students work one-to-one online on the strand that's been avoided, and the pure maths it leans on."
 
 card_eyebrow: "NO COST TO TALK IT THROUGH"

@@ -7,7 +7,7 @@ location: "Maidstone"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Maidstone, Foundation or Higher"
+hero_h1: "GCSE Maths Tutors for Maidstone Students"
 hero_lead: "The Maths grade comes home as one number, but your child earned it across three papers, and they rarely go wrong evenly. Our GCSE Maths tutors for Maidstone students work out which paper, and which topic on it, is costing the marks. That's where the lessons start."
 
 angle_eyebrow: "ONE GRADE, THREE PAPERS, TWO TIERS"
@@ -29,7 +29,7 @@ schools:
   - "Valley Park School"
   - "St Simon Stock Catholic School"
 
-steps_heading: "Three steps to a Maidstone GCSE Maths tutor"
+steps_heading: "Three steps to a GCSE Maths tutor for Maidstone students"
 steps_lead: "Expect tutor profiles within a day of your call. Keep the last marked paper handy if you can. It tells us more than the grade does."
 steps:
   - title: "Tell us where Maths stands"
@@ -45,7 +45,7 @@ faqs:
   - q: "How many lessons does it usually take to move up a grade in Maths?"
     a: "Usually eight to twelve weekly lessons for one grade, as long as your child does a bit of practice in between. It's quicker when the problem is exam technique, say a Maidstone Year 11 who knows the method but drops the marks for showing working on the longer questions. It's slower when there's a gap underneath, like a Year 8 fractions idea that never stuck, because that has to be rebuilt before it can be practised. The first lesson, on a marked paper, shows us which one we're dealing with, so we know where to start. Nobody can promise a grade."
   - q: "How can I tell which GCSE Maths topics my child is losing marks on?"
-    a: "Look at the question numbers on the last mock, not the total. Each paper starts with short questions and builds to long ones, so where the marks vanish tells you a lot. If they're dropping marks early on, it's usually arithmetic and basic algebra. If the trouble starts around the middle, where the first multi-step questions come in, it's more often method. And if it's only the long problem-solving questions at the back, that's normally exam technique, not knowledge. A Maidstone GCSE Maths tutor sorts this out in the first twenty minutes. It shapes the whole term."
+    a: "Look at the question numbers on the last mock, not the total. Each paper starts with short questions and builds to long ones, so where the marks vanish tells you a lot. If they're dropping marks early on, it's usually arithmetic and basic algebra. If the trouble starts around the middle, where the first multi-step questions come in, it's more often method. And if it's only the long problem-solving questions at the back, that's normally exam technique, not knowledge. A GCSE Maths tutor for Maidstone students sorts this out in the first twenty minutes. It shapes the whole term."
   - q: "Are your GCSE Maths tutors qualified teachers or university students?"
     a: "The tutors we'd suggest are a mix of qualified teachers, recent graduates and university students, and every one has been tutoring for two years or more. Which suits your child depends on the problem. If Maths needs rebuilding from the Year 8 basics up, a qualified teacher who's done that many times is often the better fit. If your child knows the content but loses marks on the higher paper's problem-solving questions, a recent graduate who sat the current papers and knows the mark scheme well can suit them better. Most studied at Russell Group universities. And every tutor has a founder-led interview on how clearly they explain a method, not just whether they know it."
   - q: "Can my child have GCSE Maths lessons in the school holidays?"

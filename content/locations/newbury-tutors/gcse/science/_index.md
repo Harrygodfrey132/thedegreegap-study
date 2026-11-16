@@ -7,7 +7,7 @@ location: "Newbury"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Newbury Students Facing Six Papers in One Summer"
+hero_h1: "GCSE Science Tutors for Newbury Students"
 hero_lead: "Combined Science means six exams, two each in Biology, Chemistry and Physics, and one weak subject can drag the double grade down. Our GCSE Science tutors for Newbury students find which of the three is costing most and spend the time there."
 
 angle_eyebrow: "SIX PAPERS, ONE DOUBLE GRADE"

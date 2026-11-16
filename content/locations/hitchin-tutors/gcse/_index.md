@@ -1,11 +1,11 @@
 ---
 title: "Hitchin GCSE Tutoring | From £37/hr | The Degree Gap"
-description: "Hitchin GCSE tutors for the Year 11 choice between consortium sixth form courses, college and beyond. One-to-one online lessons from £37 an hour, no contract."
+description: "GCSE tutors for Hitchin, for the Year 11 choice between consortium sixth form courses, college and beyond. One-to-one online lessons from £37, no contract."
 layout: "subject"
 location: "Hitchin"
 level: "GCSE"
 
-hero_heading_line1: "Online Hitchin GCSE Tutors for When One Grade Decides Your Child's Sixth Form Subjects"
+hero_heading_line1: "GCSE Tutors for Hitchin Students"
 hero_heading_line2: ""
 hero_lead: "If your child has their heart set on a particular A-Level, one GCSE grade can decide whether they get it. Our GCSE tutors for Hitchin students work one-to-one online, an hour a week, on whichever grade is standing in the way."
 
@@ -14,14 +14,14 @@ grade_to: "8"
 grade_stat: "One parent's son was predicted a 4 to 5 in Physics and got an 8, with tutoring that only began two months before his exams."
 
 first_lesson_eyebrow: "A SUBJECT LIST, NOT JUST A SCHOOL"
-first_lesson_heading: "Why a Hitchin GCSE Tutor Starts With the Course Your Child Wants"
+first_lesson_heading: "Why a GCSE Tutor for Hitchin Students Starts With the Course Your Child Wants"
 first_lesson_context: "Your child isn't only choosing where to go after Year 11. They're choosing which consortium courses they can get onto, and each course can ask for a subject grade on top of the entry bar all three schools share. So in the first lesson the tutor looks at that list, picks out the GCSE furthest from what it asks for, and marks a real paper in that subject to plan from."
 first_lesson_quote: "Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s. Thank you to all the 3x tutors."
 first_lesson_quote_name: "Chamarika"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Predicted 4-5 to an 8 in Physics"
 
-tutor_strip_heading: "Hitchin GCSE tutors matched on the paper your child will actually sit"
+tutor_strip_heading: "GCSE tutors for Hitchin students matched on the paper your child will actually sit"
 tutor_strip_body: "Hitchin Boys', Hitchin Girls' and The Priory each choose their own GCSE exam boards, so that's the first thing we check. Only around 3% of the tutors who apply get onto the platform, after an interview with Harry or Joe. Take a look below, or let us choose."
 
 pathways_heading: "Hitchin After GCSEs: Consortium, College or Apprenticeship"

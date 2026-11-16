@@ -5,7 +5,7 @@ layout: "subject"
 location: "Beckenham"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Beckenham Students Thinking About Dropping a Subject"
+hero_heading_line1: "A-Level Tutors for Beckenham Students"
 hero_heading_line2: ""
 hero_lead: "When a sixth former talks about dropping a subject, it's often the one where a gap opened fastest, not the one they care about least. Our A-Level tutors for Beckenham students find out which it is before anyone decides."
 

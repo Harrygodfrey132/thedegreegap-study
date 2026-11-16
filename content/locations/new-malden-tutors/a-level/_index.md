@@ -5,7 +5,7 @@ layout: "subject"
 location: "New Malden"
 level: "A-Level"
 
-hero_heading_line1: "Online New Malden A-Level Tutors for University Offers Made Before the Exams"
+hero_heading_line1: "A-Level Tutors for New Malden Students"
 hero_heading_line2: ""
 hero_lead: "In England, universities make offers on the grades teachers predict, months before your child sits a single A-Level paper. Our A-Level tutors for New Malden students work on the marked assessments those predictions lean on, from the first term of Year 12."
 
@@ -21,7 +21,7 @@ first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades → C grades at A-Level"
 
-tutor_strip_heading: "New Malden A-Level tutors who check the specification first"
+tutor_strip_heading: "A-Level tutors for New Malden students who check the specification first"
 tutor_strip_body: "Holy Cross teaches Edexcel A-Level Chemistry and Richard Challoner teaches OCR, and their Economics courses differ too, so two friends in the same subject can sit different papers. We match on your child's specification. Have a look at the profiles, or let us pick."
 
 pathways_heading: "After A-Levels: The Routes New Malden Sixth Formers Weigh Up"

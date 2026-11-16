@@ -7,7 +7,7 @@ location: "Ealing"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Ealing Students Whose Own Writing Loses Marks"
+hero_h1: "GCSE English Tutors for Ealing Students"
 hero_lead: "On AQA's Language papers, half the marks go on your child's own writing, and it's the part children practise least. Our GCSE English tutors for Ealing students work on that writing, and on the Literature essays, one-to-one and online."
 
 angle_eyebrow: "THE WRITING HALF"

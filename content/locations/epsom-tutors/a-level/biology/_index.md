@@ -1,13 +1,13 @@
 ---
-title: "Epsom A-Level Biology Tutors | Online | The Degree Gap"
+title: "Epsom A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "When a top GCSE grade turns into a Year 12 B, our Epsom A-Level Biology tutors work on long answers, practical design and genetics. Online, from £37 an hour."
+description: "When a top GCSE grade turns into a Year 12 B, our A-Level Biology tutors for Epsom work on long answers, practical design and genetics. Online, from £37."
 layout: "level-subject"
 location: "Epsom"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "One-to-One Online A-Level Biology Tutors for Epsom Families"
+hero_h1: "A-Level Biology Tutors for Epsom Students"
 hero_lead: "If your child's strong GCSE Biology grade has quietly turned into a B in Year 12, it happens more than you'd think. Our A-Level Biology tutors for Epsom students work on the long written answers and the questions about designing experiments, which is usually where the marks have gone."
 
 angle_eyebrow: "THE JUMP FROM RECALL TO REASONING"

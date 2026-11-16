@@ -1,13 +1,13 @@
 ---
-title: "Welwyn Garden City GCSE Science Tutors | Online | The Degree Gap"
+title: "Welwyn Garden City GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Hours of Science revision and the grade still won't move? Our Welwyn Garden City GCSE Science tutors turn it into exam practice. Online, one-to-one, from £37."
+description: "Hours of Science revision and the grade still won't move? Our GCSE Science tutors for Welwyn Garden City turn it into exam practice. Online, from £37."
 layout: "level-subject"
 location: "Welwyn Garden City"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors in Welwyn Garden City, for When Revision Isn't Paying Off"
+hero_h1: "GCSE Science Tutors for Welwyn Garden City Students"
 hero_lead: "The flashcards come out every night, and the Science mock still comes back at the same grade. Lots of families tell us exactly that, and it's rarely about effort. Our GCSE Science tutors for Welwyn Garden City students change what the revision is, not how much of it there is."
 
 angle_eyebrow: "ALL THAT REVISION, AND THE SAME GRADE"

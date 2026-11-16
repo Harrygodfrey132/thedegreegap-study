@@ -1,9 +1,9 @@
 ---
-title: "Didsbury Online Tutors | One-to-One Tuition | The Degree Gap"
-description: "Sixth form open evenings, entry sheets and a mock that doesn't quite match them. Our Didsbury tutors work online on the GCSEs your child needs. From £37."
+title: "Didsbury Tutors | One-to-One Tuition | The Degree Gap"
+description: "Sixth form open evenings, entry sheets and a mock that doesn't quite match them. Our tutors for Didsbury work online on the GCSEs your child needs. From £37."
 layout: "single"
 location: "Didsbury"
-banner_heading: "Online Didsbury tutors for the year your child has to pick a sixth form"
+banner_heading: "GCSE and A-Level Tutors for Didsbury Families"
 banner_description: "Parrs Wood, Didsbury High, Xaverian, Loreto: each one asks for different GCSE grades, and it's a lot to keep track of. Book a free call and tell us which ones are on your child's list. Within 24 hours you'll have profiles of 2 or 3 tutors who know your child's exam boards."
 content_angle: "a lot of post-16 choice within one bus ride, each door asking for different GCSE grades"
 intro_1: "It usually starts at an open evening. You're standing in a sixth form hall in Didsbury or up the Wilmslow Road, reading an entry sheet, and quietly doing sums against last term's report. Plenty of Didsbury parents do that three or four times in one autumn. Parrs Wood keeps its own sixth form on the school site. Didsbury High opened its sixth form in 2023, with entry built around a set of grade 6s. The Barlow finishes at sixteen, so every Barlow Year 11 moves on somewhere. And Xaverian in Rusholme and Loreto in Hulme are both a short ride into town. Lots of choice. But each door wants something slightly different, and the child who has to hit those grades is often more worried than they're letting on at tea."

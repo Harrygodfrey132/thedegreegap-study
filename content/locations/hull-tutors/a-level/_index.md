@@ -1,11 +1,11 @@
 ---
-title: "Online A-Level Tutoring for Your Child in Hull | The Degree Gap"
+title: "A-Level Tutoring for Your Child in Hull | The Degree Gap"
 description: "Is your child's A-Level work at Wyke or a Hull sixth form coming back marked 'more depth'? We'll match them with an online A-Level tutor. From £37 an hour."
 layout: "subject"
 location: "Hull"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Hull Students Still Answering Like It's a GCSE Paper"
+hero_heading_line1: "A-Level Tutors for Hull Students"
 hero_heading_line2: ""
 hero_lead: "Your child revised, knew the topic, and still got a disappointing mark on the first assessment, with 'more depth' in the margin. Our online A-Level tutors show them what an A-Level answer has to do that a GCSE one didn't."
 

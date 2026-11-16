@@ -7,7 +7,7 @@ location: "Havering"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Havering Students Who Dread the Blank Page"
+hero_h1: "GCSE English Tutors for Havering Students"
 hero_lead: "Plenty of children read well, then stare at an empty answer booklet while the minutes go. Our GCSE English tutors for Havering students practise the writing questions with your child weekly: a plan, then the piece, then the spelling and punctuation that earn marks of their own."
 
 angle_eyebrow: "HALF THE LANGUAGE MARKS"

@@ -1,13 +1,13 @@
 ---
-title: "Hemel Hempstead GCSE Science Tutors | Online | The Degree Gap"
+title: "Hemel Hempstead GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Did your child revise hard, then freeze on a Science question they'd never seen? Our Hemel Hempstead GCSE Science tutors can help. Online, from £37 an hour."
+description: "Did your child revise hard, then freeze on a Science question they'd never seen? Our GCSE Science tutors for Hemel Hempstead can help. Online, from £37 an hour."
 layout: "level-subject"
 location: "Hemel Hempstead"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Hemel Hempstead Children Who've Revised but Still Freeze"
+hero_h1: "GCSE Science Tutors for Hemel Hempstead Students"
 hero_lead: "If your child knows their Science notes inside out but freezes when a question looks unfamiliar, what's missing is a different skill from knowing the content. Our GCSE Science tutors for Hemel Hempstead students teach it, one-to-one and online."
 
 angle_eyebrow: "A QUESTION THEY'VE NEVER SEEN"

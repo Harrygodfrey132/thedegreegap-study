@@ -7,7 +7,7 @@ location: "Luton"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "A-Level Economics Tutors for Luton, From the First Diagram to the 25-Mark Essay"
+hero_h1: "A-Level Economics Tutors for Luton Students"
 hero_lead: "Most of your child's class met Economics for the first time in September, so by spring what sets them apart is the writing: the diagram, the data, the judgement at the end. Our A-Level Economics tutors for Luton students build that part, one essay at a time."
 
 angle_eyebrow: "A VAN PLANT, AN AIRLINE AND A 25-MARK ESSAY"

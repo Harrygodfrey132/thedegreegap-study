@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors for Tooting Teenagers | The Degree Gap"
+title: "GCSE Tutors for Tooting Teenagers | The Degree Gap"
 description: "Is Year 11 under way and your child still unsure where their marks are going? We'll match Tooting students with an online GCSE tutor. From £37, no contract."
 layout: "subject"
 location: "Tooting"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Tooting Students When Year 11 Has Already Begun"
+hero_heading_line1: "GCSE Tutors for Tooting Students"
 hero_heading_line2: ""
 hero_lead: "If Year 11 has started and you're only now seeing how far one subject has slipped, you haven't left it too late. Our GCSE tutors for Tooting students cut the work down to the topics costing your child the most marks, and start there."
 

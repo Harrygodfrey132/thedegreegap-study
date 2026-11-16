@@ -1,11 +1,11 @@
 ---
 title: "Cannock GCSE Tutors | Built Around Your Child | The Degree Gap"
-description: "Is one GCSE pulling your child's grades down? Our Cannock GCSE tutors work online, one-to-one, on the subject that's furthest behind first. From £37 an hour."
+description: "Is one GCSE pulling your child's grades down? Our GCSE tutors for Cannock work online, one-to-one, on the subject that's furthest behind first. From £37."
 layout: "subject"
 location: "Cannock"
 level: "GCSE"
 
-hero_heading_line1: "Online Cannock GCSE Tutors Who Lift the Grade That's Lagging Behind the Rest"
+hero_heading_line1: "GCSE Tutors for Cannock Students"
 hero_heading_line2: ""
 hero_lead: "Most of your child's subjects are ticking along, then there's the one where every mock comes back low and every parents' evening ends up. Our GCSE tutors for Cannock students start with that subject, so it stops pulling the others down."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "“…after six months of working with Malvina, he has improved from a grade 5 to a 6/7.” Omo, parent, on Google, about their son's GCSE English"
 
 first_lesson_eyebrow: "EIGHT GCSES, ONE WEAK LINK"
-first_lesson_heading: "Why a Cannock GCSE Tutor Looks at Every Subject Before Lesson One"
+first_lesson_heading: "Why a GCSE Tutor for Cannock Students Looks at Every Subject Before Lesson One"
 first_lesson_context: "At Kingsmead, the number of GCSEs your child gets at grade 6 or above shapes which of four sixth-form pathways is suggested, from three A-Levels with an EPQ to three vocational courses. So a GCSE tutor asks for the whole set of predicted grades first, because lifting the one subject stuck at a 5 can change what's on offer at 16."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7."
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 → Grade 6/7 in GCSE English"
 
-tutor_strip_heading: "Cannock GCSE tutors for the subject that needs it most"
+tutor_strip_heading: "GCSE tutors for Cannock students, for the subject that needs it most"
 tutor_strip_body: "Cardinal Griffin sits Edexcel for GCSE Maths but AQA for English and the sciences, so we check the board for every subject before suggesting anyone. Have a look through the profiles below, or tell us about your child and we'll pick for you."
 
 pathways_heading: "Sixteen in Cannock: Which Pathway, Which Sixth Form, or Something Else"

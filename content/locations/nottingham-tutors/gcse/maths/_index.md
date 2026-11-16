@@ -1,17 +1,17 @@
 ---
-title: "Online GCSE Maths Tutors | Nottingham | The Degree Gap"
+title: "GCSE Maths Tutors | Nottingham | The Degree Gap"
 nav_title: "Maths"
-description: "Nottingham GCSE Maths tutors for children whose homework takes all evening. Online one-to-one lessons that make the basics quick and lift a shaky 4. From £37."
+description: "GCSE Maths tutors for Nottingham, for children whose homework takes all evening. Online one-to-one lessons that make the basics quick and lift a shaky 4."
 layout: "level-subject"
 location: "Nottingham"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Nottingham, Starting With the Basics"
+hero_h1: "GCSE Maths Tutors for Nottingham Students"
 hero_lead: "Six Maths questions shouldn't take all evening, but in a lot of homes they do, and it's usually because the basics underneath aren't automatic yet. Our GCSE Maths tutors for Nottingham students work online to make those basics quick, so your child's energy goes on the question itself."
 
 angle_eyebrow: "WHY SIX MATHS QUESTIONS CAN TAKE ALL EVENING"
-angle_heading: "What a Nottingham GCSE Maths Tutor Does When the Basics Are Slow"
+angle_heading: "What a GCSE Maths Tutor for Nottingham Students Does When the Basics Are Slow"
 angle_body_1: "Sit beside your child during Maths homework and you'll often see where the time goes. A ratio question stalls while they count up in sevens on their fingers. An equation grinds to a halt at a negative number. Adding two fractions takes three goes. None of that is the topic they're meant to be practising, but it eats the evening, and by question four their patience has gone as well as the time. We see this a lot with Nottingham families, and it isn't laziness. It usually means some number work from Years 7 and 8, like times tables, negatives and fractions, was learnt well enough to get by but never well enough to be quick."
 angle_body_2: "So the tutor works on two things at once. Lessons often open with a few minutes of quick practice on whichever basic slowed your child down that week, until it comes without thinking. The rest of the hour goes on the GCSE topic, which suddenly has room to make sense. Homework tends to get shorter and calmer before the grade moves, and that's usually the first thing parents mention. It matters beyond the exam, too. Bilborough College and Nottingham College publish their own entry requirements, and apprenticeships at Boots in Beeston, Games Workshop and Nottingham University Hospitals all ask for a Maths grade. A steady 5 or 6 opens far more of those than a shaky 4."
 angle_image: "/images/maths-equations-close-up.jpg"

@@ -7,7 +7,7 @@ location: "Lincoln"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Lincoln Sixth Formers Whose Algebra Lets Them Down"
+hero_h1: "A-Level Physics Tutors for Lincoln Students"
 hero_lead: "Plenty of sixth formers understand the physics and still lose marks to the algebra, or to a vector split the wrong way. Our A-Level Physics tutors for Lincoln students untangle the maths inside mechanics and fields questions, one step at a time."
 
 angle_eyebrow: "THE MATHS INSIDE THE PHYSICS"

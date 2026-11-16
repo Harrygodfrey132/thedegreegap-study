@@ -1,11 +1,11 @@
 ---
-title: "Online A-Level Tutors for Great Missenden Sixth Formers | The Degree Gap"
+title: "A-Level Tutors for Great Missenden Sixth Formers | The Degree Gap"
 description: "Is your Year 12 finding it hard to study alone in free time? We'll match your Great Missenden sixth former with an online A-Level tutor. From £37, no contract."
 layout: "subject"
 location: "Great Missenden"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Great Missenden Sixth Formers Suddenly Expected to Study Alone"
+hero_heading_line1: "A-Level Tutors for Great Missenden Students"
 hero_heading_line2: ""
 hero_lead: "At GCSE, someone told your child what to revise and when. In Year 12 there are free periods, longer reading and far more left to them. Our A-Level tutors for Great Missenden students give that time a shape, week by week."
 

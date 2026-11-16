@@ -1,13 +1,13 @@
 ---
-title: "Chelmsford GCSE English Tutors | Online | The Degree Gap"
+title: "Chelmsford GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Is all the English revision going on the poems while the Language mark stays put? Our Chelmsford GCSE English tutors help split your child's time. From £37."
+description: "Is the English revision all going on the poems while the Language mark stays put? Our online tutors help Chelmsford students split their time. From £37."
 layout: "level-subject"
 location: "Chelmsford"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutoring in Chelmsford for Language and Literature"
+hero_h1: "GCSE English Tutors for Chelmsford Students"
 hero_lead: "Hours of English revision, nearly all on the Literature texts, and it's the Language mark that won't move. Our GCSE English tutors for Chelmsford students look at your child's two English GCSEs separately and put the hours where they'll count."
 
 angle_eyebrow: "TWO GCSES, TWO DIFFERENT SKILLS"

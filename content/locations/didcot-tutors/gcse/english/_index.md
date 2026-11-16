@@ -1,13 +1,13 @@
 ---
-title: "Didcot GCSE English Tutors | One-to-One Online | The Degree Gap"
+title: "Didcot GCSE English Tutors | One-to-One | The Degree Gap"
 nav_title: "English"
-description: "Happier with a lab report than an essay? Our Didcot GCSE English tutors give your child a step-by-step way into both papers, online, from £37 an hour."
+description: "Happier with a lab report than an essay? Our GCSE English tutors for Didcot give your child a step-by-step way into both papers, online, from £37 an hour."
 layout: "level-subject"
 location: "Didcot"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutoring for Didcot Families"
+hero_h1: "GCSE English Tutors for Didcot Students"
 hero_lead: "If your child would rather write up an experiment than a Literature essay, English can feel like a locked door. Our GCSE English tutors for Didcot students break both papers into steps your child can follow, so a logical mind has something to hold on to."
 
 angle_eyebrow: "ENGLISH FOR A CHILD WHO THINKS IN STEPS"

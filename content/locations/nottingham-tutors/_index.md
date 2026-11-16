@@ -1,9 +1,9 @@
 ---
 title: "Nottingham Tutoring | GCSE & A-Level Tutors"
-description: "When the effort's there but the marks aren't, our Nottingham tutors go back to find what's missing. GCSE and A-Level, online and one-to-one, from £37."
+description: "When the effort's there but the marks aren't, our tutors for Nottingham go back to find what's missing. GCSE and A-Level, online and one-to-one, from £37."
 layout: single
 location: Nottingham
-banner_heading: "Online Nottingham tutors who go back to where it stopped making sense"
+banner_heading: "GCSE and A-Level Tutors for Nottingham Families"
 banner_description: "Homework takes all evening and the test still comes back low? There's usually an older gap underneath, and our tutors look for that first."
 content_angle: foundation gaps
 intro_1: "Your child sits at the table with their Maths homework for an hour and a half. They followed the lesson, the notes look fine, and it still won't come. Plenty of Nottingham parents describe exactly that evening. Across Nottingham City, GCSE results have sat below the national average for several years. That's the whole city, not any one school, and it says nothing about your child's ability. What it does mean is that a lot of capable children reach Year 11 with gaps nobody had time to go back for. It's a city with two universities, and lots of families here have big hopes for their children. So it's hard when the results don't match the effort."

@@ -1,13 +1,13 @@
 ---
 title: "Southend-on-Sea A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Online A-Level Maths tutors covering Southend-on-Sea across Pure, Mechanics and Statistics, with the method marks read line by line. From £37 an hour."
+description: "Online A-Level Maths tutors for Southend-on-Sea across Pure, Mechanics and Statistics, with the method marks read line by line. From £37 an hour."
 layout: "level-subject"
 location: "Southend-on-Sea"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors Who Find Where Southend-on-Sea Answers Stop Earning Method Marks"
+hero_h1: "A-Level Maths Tutors for Southend-on-Sea Students"
 hero_lead: "At A-Level the right answer is only part of the mark. Our A-Level Maths tutors for Southend-on-Sea students read the working line by line, in a one-to-one online hour on Lessonspace, because that is where the marks quietly go."
 
 angle_eyebrow: "THE ANSWER WAS RIGHT, THE MARKS WERE NOT"

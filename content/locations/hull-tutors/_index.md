@@ -1,9 +1,9 @@
 ---
-title: "Online Tutoring for Hull Families | The Degree Gap"
+title: "Tutoring for Hull Families | The Degree Gap"
 description: "Has your child stopped trying at school in Hull? We'll match them with an online tutor they get on with. A free call first, then lessons from £37 an hour."
 layout: "single"
 location: "Hull"
-banner_heading: "Online tutoring for Hull families whose teenager has quietly stopped trying"
+banner_heading: "GCSE and A-Level Tutors for Hull Families"
 banner_description: "Another talk about effort rarely shifts much. A tutor your child actually likes often does, and we'll search the whole of the UK to find them."
 content_angle: "motivation: the capable Hull teenager who's switched off, in a city where most schools end at sixteen and the next step, Wyke, Hull College or a Humber apprenticeship, reads the grades straight away"
 intro_1: "The school bag comes home and stays zipped. 'I did it in class.' Parents' evening says capable, if only they'd try, and you've had the effort conversation so many times you could both recite it. A lot of Hull parents start our first call right there, tired, and half wondering whether it's a phase. Sometimes it is. More often, somewhere around Year 9, your child hit a topic they couldn't do, and not trying started to feel safer than trying and getting it wrong."

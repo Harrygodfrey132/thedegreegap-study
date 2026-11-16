@@ -1,11 +1,11 @@
 ---
 title: "Harpenden A-Level Tutors | One-to-One | The Degree Gap"
-description: "The grade UCAS sees is mostly built in Year 12. Our Harpenden A-Level tutors help your child make that year count, one-to-one and online, from £37 an hour."
+description: "The grade UCAS sees is mostly built in Year 12. Our A-Level tutors for Harpenden help your child make that year count, one-to-one and online, from £37 an hour."
 layout: "subject"
 location: "Harpenden"
 level: "A-Level"
 
-hero_heading_line1: "A-Level Tutors for Harpenden Students, Because the Grade UCAS Sees Is Built in Year 12"
+hero_heading_line1: "A-Level Tutors for Harpenden Students"
 hero_heading_line2: ""
 hero_lead: "It catches a lot of parents out: the grade that goes to UCAS is mostly decided in Year 12, months before anyone sits a real exam. Our A-Level tutors for Harpenden students work to that calendar with your child, not just the exam one."
 
@@ -14,14 +14,14 @@ grade_to: "C"
 grade_stat: "A parent tells us their son left everything late, and still came out with three Cs instead of Es and Us."
 
 first_lesson_eyebrow: "THE GRADE THAT TRAVELS FIRST"
-first_lesson_heading: "Year 12 Counts Twice: What a Harpenden A-Level Tutor Works On First"
+first_lesson_heading: "Year 12 Counts Twice: What an A-Level Tutor for Harpenden Students Works On First"
 first_lesson_context: "Plenty of Harpenden parents plan to see how Year 13 starts before getting help, and it's a natural thing to do. But the predicted grade is built from Year 12 work and teacher judgement, and by the time a Year 13 mock disappoints, it's usually already with universities. So work that lands in Year 12 counts twice: once for the prediction, and once for your child's exam."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to three C grades at A-Level"
 
-tutor_strip_heading: "Harpenden A-Level tutors who work to the UCAS calendar"
+tutor_strip_heading: "A-Level tutors for Harpenden students who work to the UCAS calendar"
 tutor_strip_body: "First we check your child's exam board, because Sir John Lawes, St George's, Roundwood Park and the St Albans sixth forms each choose their own. Many of our tutors went through UCAS a few years ago, and only around 3% of tutor applicants join our platform."
 
 pathways_heading: "Three Routes Out of Sixth Form in Harpenden"

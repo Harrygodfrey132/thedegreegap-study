@@ -1,5 +1,5 @@
 ---
-title: "Online GCSE Maths Tutors for Your Child in Tring | The Degree Gap"
+title: "GCSE Maths Tutors for Your Child in Tring | The Degree Gap"
 nav_title: "Maths"
 description: "Is the OCR non-calculator paper costing your child marks? We'll match Tring students with an online GCSE Maths tutor who knows Papers 1 to 6. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Tring"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Tring Students Sitting OCR's Papers"
+hero_h1: "GCSE Maths Tutors for Tring Students"
 hero_lead: "If your child is at Tring School, their GCSE Maths is OCR, and the paper without a calculator comes second of the three. Our GCSE Maths tutors for Tring students know those papers and start with whichever one is losing your child the most marks."
 
 angle_eyebrow: "OCR MATHS, PAPER BY PAPER"

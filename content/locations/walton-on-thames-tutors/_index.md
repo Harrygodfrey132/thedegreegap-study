@@ -3,7 +3,7 @@ title: "Find the Right Tutor for Your Child in Walton-on-Thames | The Degree Gap
 description: "Worried one subject is slipping? For tuition in Walton-on-Thames without the drive, we'll match your child with an online tutor on their exam board. From £37."
 layout: "single"
 location: "Walton-on-Thames"
-banner_heading: "Online tutoring for Walton-on-Thames children, one-to-one and at home"
+banner_heading: "GCSE and A-Level Tutors for Walton-on-Thames Families"
 banner_description: "If you've been looking at tuition centres, here's the other option: one tutor who works with your child alone, matched to their exam board, without anyone driving anywhere."
 content_angle: "the tuition-centre search: Walton parents often start out looking for a centre to drive to after school, in a town where brothers and sisters can end up at schools on both sides of the river, on different exam boards. One tutor per child, online at home and matched to the board, fits the week better"
 intro_1: "It often starts with a late-night search on your phone: tuition centre, Walton-on-Thames. You picture a room somewhere near the High Street, a drive after school, a few children round a table. Then you look at the week. One child's at Three Rivers Academy on the Hersham side of town, another goes over Walton Bridge to school in Shepperton, there's swimming at Xcel on Thursdays, and whoever's commuting isn't home much before seven. Nobody's short of goodwill. It's the evenings that run out, and the subject that's slipping doesn't wait for a quiet week."

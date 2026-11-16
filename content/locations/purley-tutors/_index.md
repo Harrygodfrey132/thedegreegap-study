@@ -1,9 +1,9 @@
 ---
-title: "Online Tutoring for Purley Families | The Degree Gap"
+title: "Tutoring for Purley Families | The Degree Gap"
 description: "Has the homework got past what you can help with? We'll match your child in Purley with an online tutor who knows their course. From £37 an hour, no contract."
 layout: "single"
 location: "Purley"
-banner_heading: "Online tutoring for Purley families, for when the homework has gone past what you can help with"
+banner_heading: "GCSE and A-Level Tutors for Purley Families"
 banner_description: "Harry or Joe talks it through with you first, then a tutor who knows your child's course takes that hour on, online, from your home in Purley."
 content_angle: "the homework you can't help with any more: parents back late off the London trains, children travelling out to schools in every direction at eleven, and GCSE work that has moved past what parents remember"
 intro_1: "It worked for years. Spellings on the fridge, times tables in the car, a quick look over the homework before bed. Then somewhere around Year 8 or 9 the Maths started using methods nobody ever taught you, the English essays wanted a paragraph on 'the writer's methods', and every attempt to help turned into an argument. Lots of Purley parents would recognise that. Plenty are still on the train back from London Bridge when the homework comes out. And children from one Purley primary scatter widely at eleven, to Riddlesdown Collegiate, the largest school in the borough, to John Fisher or Coloma, to the Sutton grammars or over the border to Caterham. So there often isn't another parent on the same course to ask."

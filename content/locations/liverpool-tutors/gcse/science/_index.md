@@ -1,5 +1,5 @@
 ---
-title: "Liverpool Online GCSE Science Tutors | The Degree Gap"
+title: "Liverpool GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
 description: "Online GCSE Science tutors for Liverpool families, Combined or Triple. We find which of Biology, Chemistry or Physics is costing marks. From £37, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Liverpool"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Liverpool Families"
+hero_h1: "GCSE Science Tutors for Liverpool Students"
 hero_lead: "Hours of revision, and your child's Science mark still hasn't moved. It happens a lot, and our GCSE Science tutors for Liverpool students start by finding where the marks go: the facts, the six-mark answers, or the maths tucked inside Physics and Chemistry."
 
 angle_eyebrow: "WHEN REVISION DOESN'T SHOW UP IN THE MARKS"

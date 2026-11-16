@@ -5,7 +5,7 @@ layout: "subject"
 location: "Ilford"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Ilford Students Finding Their Feet in Year 12"
+hero_heading_line1: "A-Level Tutors for Ilford Students"
 hero_heading_line2: ""
 hero_lead: "Year 12 often brings new teachers, sometimes a new school, and content that moves at twice the GCSE pace. Our A-Level tutors for Ilford students find the topic where your child is losing ground and steady it before the first big assessments."
 

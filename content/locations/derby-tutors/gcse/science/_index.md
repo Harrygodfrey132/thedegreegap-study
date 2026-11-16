@@ -1,5 +1,5 @@
 ---
-title: "Derby GCSE Science Tutors | Online | The Degree Gap"
+title: "Derby GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
 description: "Online GCSE Science tutors for Derby families. We start with the required practicals your child watched rather than did, then the six-mark answers. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Derby"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Supporting Derby Families"
+hero_h1: "GCSE Science Tutors for Derby Students"
 hero_lead: "Ask your child which Science experiments they did themselves, rather than watched a teacher do, and the answer can be surprising. Those required practicals come up in the written papers and can't be caught up by reading alone, so our GCSE Science tutors for Derby students start there."
 
 angle_eyebrow: "THE PART YOU CAN'T READ YOUR WAY INTO"
@@ -28,7 +28,7 @@ schools:
   - "Landau Forte Academy"
   - "Noel-Baker Academy"
 
-steps_heading: "Your first steps to a GCSE Science tutor in Derby"
+steps_heading: "Your first steps to a GCSE Science tutor for Derby students"
 steps_lead: "Tutor profiles arrive within 24 hours. The most useful thing you can tell us is which practicals your child actually did, rather than watched."
 steps:
   - title: "Talk it through with us"

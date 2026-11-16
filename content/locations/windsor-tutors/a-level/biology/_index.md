@@ -7,7 +7,7 @@ location: "Windsor"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Windsor Students Facing a Paper That Covers Everything"
+hero_h1: "A-Level Biology Tutors for Windsor Students"
 hero_lead: "Your child has learnt every topic once, but the final papers ask them to link Year 12 cells to Year 13 genetics in a single answer. Our A-Level Biology tutors for Windsor students practise that, alongside the statistics questions that catch so many out."
 
 angle_eyebrow: "UNIFIED BIOLOGY, PAPER THREE"

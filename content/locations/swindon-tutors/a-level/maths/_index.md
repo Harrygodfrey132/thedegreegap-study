@@ -1,13 +1,13 @@
 ---
-title: "Swindon A-Level Maths Tutors | Online | The Degree Gap"
+title: "Swindon A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Does your child know the trig identities but freeze on the questions? Our Swindon A-Level Maths tutors can help, one-to-one and online, from £37 an hour."
+description: "Does your child know the trig identities but freeze on the questions? Our A-Level Maths tutors for Swindon can help, one-to-one and online, from £37 an hour."
 layout: "level-subject"
 location: "Swindon"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors in Swindon, for When Knowing the Identities Isn't Enough"
+hero_h1: "A-Level Maths Tutors for Swindon Students"
 hero_lead: "If your child knows the trig identities but can't start the questions, that's very common. Our A-Level Maths tutors for Swindon students teach what's actually tested: which one to use."
 
 angle_eyebrow: "KNOWING THEM ISN'T USING THEM"

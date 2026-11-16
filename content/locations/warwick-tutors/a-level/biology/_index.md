@@ -1,13 +1,13 @@
 ---
-title: "Warwick A-Level Biology Tutors | Online | The Degree Gap"
+title: "Warwick A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Biology notes piling up faster than your child can learn them? Our Warwick A-Level Biology tutors help them build a system for all that content. From £37."
+description: "Biology notes piling up faster than your child can learn them? Our online A-Level Biology tutors help Warwick students build a system for it all. From £37."
 layout: "level-subject"
 location: "Warwick"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors Covering Warwick"
+hero_h1: "A-Level Biology Tutors for Warwick Students"
 hero_lead: "If your child sailed through GCSE Biology and is now sinking under Year 12 notes, it's the size of the course, not their ability. Our A-Level Biology tutors for Warwick students help them build a system for it."
 
 angle_eyebrow: "IT'S THE SIZE OF THE COURSE"

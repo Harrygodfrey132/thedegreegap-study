@@ -1,13 +1,13 @@
 ---
-title: "Canterbury A-Level Biology Tutors | Online | The Degree Gap"
+title: "Canterbury A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Has your child's A-Level Biology stalled at a B? Our Canterbury tutors work on population genetics, respiration pathways and statistics. Online, from £37."
+description: "Has your child's A-Level Biology stalled at a B? Our tutors for Canterbury work on population genetics, respiration pathways and statistics. Online, from £37."
 layout: "level-subject"
 location: "Canterbury"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "One-to-One Online A-Level Biology Tutoring in Canterbury"
+hero_h1: "A-Level Biology Tutors for Canterbury Students"
 hero_lead: "In a Kent grammar year group, a B in Biology can feel like falling behind, even though it's a good grade. Our A-Level Biology tutors for Canterbury students work on the three areas that usually separate a B from an A: populations, pathways and statistics."
 
 angle_eyebrow: "WHERE THE B BECOMES AN A"

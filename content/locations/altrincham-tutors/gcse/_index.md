@@ -1,11 +1,11 @@
 ---
 title: "GCSE Tutors Covering Altrincham | The Degree Gap"
-description: "One subject a grade or two behind the rest? Our Altrincham GCSE tutors find it on a marked paper and work on it with your child online. From £37 an hour."
+description: "One subject a grade or two behind the rest? Our GCSE tutors for Altrincham find it on a marked paper and work on it with your child online. From £37 an hour."
 layout: "subject"
 location: "Altrincham"
 level: "GCSE"
 
-hero_heading_line1: "Online Altrincham GCSE Tutors for the One Subject Dragging Your Child's Average Down"
+hero_heading_line1: "GCSE Tutors for Altrincham Students"
 hero_heading_line2: ""
 hero_lead: "The report's fine, apart from one subject a grade or two behind the rest. Our GCSE tutors for Altrincham students start with a recent marked paper in that subject, and work on what it shows one-to-one with your child."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "Omo's son moved from a 5 to a 6/7 in English after six months with his tutor. He now looks forward to lessons."
 
 first_lesson_eyebrow: "EIGHT SUBJECTS, ONE NUMBER"
-first_lesson_heading: "Why an Altrincham GCSE Tutor Asks to See the Whole Report"
+first_lesson_heading: "Why a GCSE Tutor for Altrincham Students Asks to See the Whole Report"
 first_lesson_context: "Most Altrincham reports we're sent look alike: good grades, then one subject sitting two below the rest. A couple of the sixth forms your child might apply to set their bar as an average of eight GCSEs, so that one subject matters more than it seems. The first lesson works out whether it's a gap from Year 9 or a habit in how answers get written, because each needs a different plan."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 6/7 in English"
 
-tutor_strip_heading: "Altrincham GCSE tutors who check what each sixth form asks for"
+tutor_strip_heading: "GCSE tutors for Altrincham students who check what each sixth form asks for"
 tutor_strip_body: "Exam boards can differ between the two Altrincham grammars, Loreto, St Ambrose and Altrincham College, so we check your child's board first. We interview every tutor ourselves. About 3% of applicants get through. Browse a few below, or we'll send you two or three after a free call."
 
 pathways_heading: "Where Altrincham Year 11s Go at Sixteen"

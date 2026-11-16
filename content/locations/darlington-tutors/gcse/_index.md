@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutoring for Darlington Students | The Degree Gap"
+title: "GCSE Tutoring for Darlington Students | The Degree Gap"
 description: "Worried your child's GCSEs won't match the course they've applied for? We match Darlington students with an online GCSE tutor. From £37 an hour, no contract."
 layout: "subject"
 location: "Darlington"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Darlington Teenagers Whose Next Course Rests on This Summer"
+hero_heading_line1: "GCSE Tutors for Darlington Students"
 hero_heading_line2: ""
 hero_lead: "Applications for sixth form and college go in during Year 11, so the grades your child needs are known long before they sit a paper. Our GCSE tutors for Darlington students spend the months in between on the topics losing the most marks."
 

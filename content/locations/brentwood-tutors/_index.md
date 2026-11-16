@@ -1,9 +1,9 @@
 ---
-title: "Online Tutors for Your Child in Brentwood | The Degree Gap"
+title: "Tutors for Your Child in Brentwood | The Degree Gap"
 description: "Is one weak subject narrowing your child's sixth form choices in Brentwood? We'll match them with an online tutor who suits them. From £37 an hour, no contract."
 layout: "single"
 location: "Brentwood"
-banner_heading: "Online tutors for learners in Brentwood, chosen for your child rather than your postcode"
+banner_heading: "GCSE and A-Level Tutors for Brentwood Families"
 banner_description: "Most tutoring starts with who's free nearby. We start with your child, then look across the UK for the tutor who suits them."
 content_angle: "staying on at sixteen: most Brentwood secondaries run to 18, so GCSE grades decide which A-Level or IB subjects a child can pick, fitted around commuter-family evenings"
 intro_1: "Here's a conversation we have a lot with Brentwood parents. Your child isn't failing anything. Most subjects are fine. But one of them, Chemistry maybe, or Maths, keeps coming home with a lower mark, and the A-Level they'd like to take next year needs a decent grade in exactly that one. In Brentwood that's often the real worry, because Shenfield High, St Martin's, Becket Keys, the Ursuline and Brentwood County High all take children through to 18, so lots of Year 11s can stay where they are. At sixteen the question is often less about where your child goes and more about which subjects they're allowed to pick."

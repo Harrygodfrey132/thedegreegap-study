@@ -7,7 +7,7 @@ location: "Tooting"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Tooting Students Caught Out by Uncertainties and Graphs"
+hero_h1: "A-Level Physics Tutors for Tooting Students"
 hero_lead: "Your child can explain the Physics, then a question on uncertainties or the gradient of a graph costs five marks in a row. Our A-Level Physics tutors for Tooting students practise the practical side of the papers as hard as the theory."
 
 angle_eyebrow: "PERCENTAGE UNCERTAINTY, LINE OF BEST FIT"

@@ -7,7 +7,7 @@ location: "Purley"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Purley Students, Combined or Triple"
+hero_h1: "GCSE Science Tutors for Purley Students"
 hero_lead: "Science is three subjects at once, and most children are comfortable in one and lost in another. Our GCSE Science tutors for Purley students find which one is costing your child marks and start there, on their own exam board."
 
 angle_eyebrow: "ONE SCIENCE USUALLY DRAGS"

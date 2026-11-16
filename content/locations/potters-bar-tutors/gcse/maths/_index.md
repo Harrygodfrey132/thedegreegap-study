@@ -1,13 +1,13 @@
 ---
 title: "GCSE Maths Tutors for Potters Bar Families | The Degree Gap"
 nav_title: "Maths"
-description: "From the non-calculator paper to the long final questions, our Potters Bar GCSE Maths tutors find where your child's marks go. Online, from £37 an hour."
+description: "From the non-calculator paper to the long final questions, our GCSE Maths tutors for Potters Bar find where your child's marks go. Online, from £37 an hour."
 layout: "level-subject"
 location: "Potters Bar"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Teenagers in Potters Bar"
+hero_h1: "GCSE Maths Tutors for Potters Bar Students"
 hero_lead: "If your child can follow a method in class but freezes when the same idea turns up inside a wordy question, they've got plenty of company. Our GCSE Maths tutors for Potters Bar students find the step that's missing and rebuild it, one-to-one and online."
 
 angle_eyebrow: "WHERE THE MATHS MARKS GO"

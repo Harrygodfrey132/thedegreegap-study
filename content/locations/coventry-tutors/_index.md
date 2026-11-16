@@ -3,7 +3,7 @@ title: "Coventry Tutors | GCSE & A-Level from £37/hr"
 description: "Working hard but the grades won't budge? One-to-one Coventry tutoring online that finds the gap behind the grade. GCSE and A-Level, from £37, no contract."
 layout: single
 location: Coventry
-banner_heading: "Online Tutoring in Coventry That Does More Than Repeat the Syllabus"
+banner_heading: "GCSE and A-Level Tutors for Coventry Families"
 banner_description: "Our tutors for Coventry families find the point where your child's understanding first slipped, and build back up from there, one lesson a week."
 content_angle: aspiration gap / foundation gaps
 intro_1: "The effort's there. You can see it: the revision timetable on the fridge, the late nights before a test. And the grades still aren't where your child needs them to be. Coventry sits below the national average for GCSE results, but it's a city with two universities on its doorstep, and plenty of families here have big plans. A competitive sixth form, a good university, an apprenticeship at Jaguar Land Rover. That's the gap we see most in Coventry: children working hard towards something real, without the grades yet to keep it open."

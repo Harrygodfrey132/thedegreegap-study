@@ -7,7 +7,7 @@ location: "Ampthill"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Ampthill Students Who Revise Hard and Still Drop Marks"
+hero_h1: "A-Level Biology Tutors for Ampthill Students"
 hero_lead: "Your child spends hours with flashcards, then the exam asks them to apply what they know to an experiment they've never seen. Our A-Level Biology tutors for Ampthill students practise that kind of question until it stops feeling unfair."
 
 angle_eyebrow: "WHEN FLASHCARDS STOP BEING ENOUGH"

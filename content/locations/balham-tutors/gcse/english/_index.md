@@ -7,7 +7,7 @@ location: "Balham"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Balham Students Put Off by the Older Texts"
+hero_h1: "GCSE English Tutors for Balham Students"
 hero_lead: "Your child reads plenty at home, then a page of Dickens or a Victorian letter lands in the exam and the sentences won't give up their meaning. Our GCSE English tutors for Balham students make the older language readable first, so there's time left to write about it."
 
 angle_eyebrow: "SHAKESPEARE, DICKENS AND A VICTORIAN LETTER"

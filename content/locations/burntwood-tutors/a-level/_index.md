@@ -1,11 +1,11 @@
 ---
-title: "A-Level Tutors for Burntwood Sixth Formers, Online | The Degree Gap"
+title: "A-Level Tutors for Burntwood Sixth Formers | The Degree Gap"
 description: "Is Year 12 harder than expected, even at the same Burntwood school? We'll match your child with an online A-Level tutor on their exam board. From £37 an hour."
 layout: "subject"
 location: "Burntwood"
 level: "A-Level"
 
-hero_heading_line1: "Online Burntwood A-Level Tutors for Teenagers Who Stayed Put and Still Felt the Jump"
+hero_heading_line1: "A-Level Tutors for Burntwood Students"
 hero_heading_line2: ""
 hero_lead: "Your child knows the corridors, the teachers and half the year group, and A-Level still feels like starting again. Our A-Level tutors for Burntwood students work out what's carried over from GCSE and what's new, then build the study habits Year 12 quietly expects."
 
@@ -21,7 +21,7 @@ first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades → three C grades at A-Level"
 
-tutor_strip_heading: "Burntwood A-Level tutors matched to each subject's specification"
+tutor_strip_heading: "A-Level tutors for Burntwood students matched to each subject's specification"
 tutor_strip_body: "Erasmus Darwin teaches AQA Maths and Physics but OCR Biology and Chemistry, so a science-heavy timetable can mean two exam boards at once. We match each subject on its own board. The profiles are below, or we can do the choosing once we've heard about your child."
 
 pathways_heading: "From Burntwood Sixth Forms to Birmingham, Keele and Beyond"

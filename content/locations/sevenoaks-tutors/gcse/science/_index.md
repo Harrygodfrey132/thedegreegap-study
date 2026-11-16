@@ -1,5 +1,5 @@
 ---
-title: "Sevenoaks GCSE Science Tutors | Online | The Degree Gap"
+title: "Sevenoaks GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
 description: "Online GCSE Science tutors for Sevenoaks families. We find which of the three sciences is really behind before a term goes on it. Triple or combined, from £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Sevenoaks"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Sevenoaks Families"
+hero_h1: "GCSE Science Tutors for Sevenoaks Students"
 hero_lead: "You know Science is slipping, but not which of the three sciences it is, and the report won't say. Our GCSE Science tutors for Sevenoaks students work that out first, so the term's lessons go where the marks are actually being lost."
 
 angle_eyebrow: "BIOLOGY, CHEMISTRY, PHYSICS: WHICH ONE?"

@@ -1,13 +1,13 @@
 ---
-title: "Norwich A-Level Maths Tutors | Online | The Degree Gap"
+title: "Norwich A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Your child gets the right number in A-Level Maths Statistics and still loses marks? Our Norwich tutors work on the wording, online and one-to-one. From £37."
+description: "Your child gets the right number in A-Level Maths Statistics and still loses marks? Our tutors for Norwich work on the wording, online and one-to-one. From £37."
 layout: "level-subject"
 location: "Norwich"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Norwich Families, When the Statistics Marks Don't Add Up"
+hero_h1: "A-Level Maths Tutors for Norwich Students"
 hero_lead: "Your child got the sum right on a hypothesis test and still lost half the marks. It's nearly always the wording. Our A-Level Maths tutors for Norwich students work on exactly that."
 
 angle_eyebrow: "THE CONCLUSION IS THE MARK"
@@ -47,7 +47,7 @@ faqs:
     a: "It depends on the gap. If your child is a grade short of what their offer needs, the lessons usually earn their keep, because Maths turns up in most science, engineering and economics entry requirements. If it's only the wording on one type of question, that's a short block of lessons, not a year. We'll say so on the call rather than sell you a term."
   - q: "Can I sit in on my child's Maths sessions?"
     a: "You can, and a few parents do for the first one. After that most step back, because at this age your child's more likely to say where they're stuck without an audience. That's the useful part of the hour. Every lesson has a replay you can watch later, and the tutor sends a short note on what was covered and what's been set for the week."
-  - q: "How soon can a Norwich A-Level Maths tutor start with my child?"
+  - q: "How soon can an A-Level Maths tutor for Norwich students start with my child?"
     a: "Usually within a week. There's a free call with Joe or Harry first, then two or three tutor profiles within a day, then a free 15-minute video meeting with the tutor your child likes best. Nothing's paid until they've met. If mocks are coming up, tell us on the call. Work on the shape of an answer tends to show up in the marks fairly quickly."
 # FAQ picks: A09, A14, C04, E01, G06
 

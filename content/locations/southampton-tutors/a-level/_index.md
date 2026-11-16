@@ -1,11 +1,11 @@
 ---
 title: "A-Level Tutors in Southampton | The Degree Gap"
-description: "Southampton A-Level tutoring for the dip after Year 12 mocks and the predictions UCAS sees. One-to-one tutors matched to your child's subject and exam board."
+description: "Online A-Level tutoring for Southampton students, for the dip after Year 12 mocks and the predictions UCAS sees. Matched to subject and exam board."
 layout: "subject"
 location: "Southampton"
 level: "A-Level"
 
-hero_heading_line1: "Online Southampton A-Level Tutors For the Dip After Year 12 Mocks"
+hero_heading_line1: "A-Level Tutors for Southampton Students"
 hero_heading_line2: ""
 hero_lead: "The Year 12 mocks come back, and your child, who cruised through GCSE, suddenly isn't sure they belong on the course. That's when a lot of families call us. Our A-Level tutors for Southampton students start from where your child actually is, not where the syllabus says they should be."
 
@@ -14,7 +14,7 @@ grade_to: "A"
 grade_stat: "One family saw Cs turn into As, and had help picking universities too."
 
 first_lesson_eyebrow: "A SOUTHAMPTON SIXTH-FORM COMEBACK"
-first_lesson_heading: "How a Southampton A-Level Tutor Restarts a Stalled Year 12"
+first_lesson_heading: "How an A-Level Tutor for Southampton Students Restarts a Stalled Year 12"
 first_lesson_context: "Some Southampton families come to us because a subject slipped in the Year 12 mocks, others because a good grade needs to reach a first-choice offer. Both usually come down to the same thing: the weighing-up and multi-step working that earn the top marks, which a busy class rarely has time to practise. So an A-Level tutor's first job is to find which of those is costing your child marks."
 
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
@@ -22,7 +22,7 @@ first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Grade C to Grade A at A-Level"
 
-tutor_strip_heading: "Southampton A-Level tutors who know the university and maritime routes"
+tutor_strip_heading: "A-Level tutors for Southampton students who know the university and maritime routes"
 tutor_strip_body: "Some of our tutors have helped teenagers aiming for the University of Southampton, Solent, or the marine and aerospace apprenticeships. Harry or Joe interviews every one before they join. Have a look at the profiles, or tell us about your child and we'll suggest some."
 
 pathways_heading: "Where a Southampton A-Level Leads After Results Day"

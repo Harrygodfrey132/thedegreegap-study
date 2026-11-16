@@ -1,12 +1,12 @@
 ---
-title: "Canterbury Online GCSE Science Tutors | The Degree Gap"
+title: "Canterbury GCSE Science Tutors | The Degree Gap"
 description: "Online GCSE Science tutors for Canterbury families, Combined or Triple, helping your child write Chemistry formulae and equations with confidence. From £37."
 layout: "level-subject"
 location: "Canterbury"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Canterbury Year 10s and 11s"
+hero_h1: "GCSE Science Tutors for Canterbury Students"
 hero_lead: "Most children remember magnesium burning with a bright white flame, but writing it as a balanced equation with the right formulae is where Chemistry marks tend to slip. Our GCSE Science tutors for Canterbury students practise that written side of Chemistry with your child until it comes naturally."
 
 angle_eyebrow: "THE WRITTEN LANGUAGE OF GCSE CHEMISTRY"
@@ -26,7 +26,7 @@ schools:
   - "The Canterbury Academy"
   - "The King's School Canterbury"
 
-steps_heading: "Your Canterbury GCSE Science Tutor in Three Steps"
+steps_heading: "Your GCSE Science Tutor for Canterbury Students in Three Steps"
 steps_lead: "Year 10 gives the most room, since so much of Year 11 Chemistry builds on writing equations. Plenty of families start in Year 11, though, and that's fine too."
 steps:
   - title: "Start with Harry or Joe"

@@ -7,7 +7,7 @@ location: "Doncaster"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutoring for Doncaster Students, Pure and Applied"
+hero_h1: "A-Level Maths Tutors for Doncaster Students"
 hero_lead: "A third of A-Level Maths is Statistics and Mechanics, and those are the questions plenty of sixth formers leave until last. Our A-Level Maths tutors for Doncaster students give the applied third as much care as the Pure."
 
 angle_eyebrow: "THE THIRD THAT ISN'T PURE"

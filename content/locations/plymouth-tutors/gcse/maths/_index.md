@@ -1,13 +1,13 @@
 ---
 title: "Plymouth GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Online GCSE Maths tutors covering Plymouth, from the non-calculator paper to the grades Devonport apprenticeships read. One-to-one from £37 an hour."
+description: "Online GCSE Maths tutors for Plymouth, from the non-calculator paper to the grades Devonport apprenticeships read. One-to-one from £37 an hour."
 layout: "level-subject"
 location: "Plymouth"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths tutoring for Plymouth: marks lost on the non-calculator paper"
+hero_h1: "GCSE Maths Tutors for Plymouth Students"
 hero_lead: "Paper 1 comes without a calculator, and that is where most of the quiet damage gets done. Our GCSE Maths tutors for Plymouth students find the arithmetic and algebra underneath the lost marks and drill it, one-to-one online over Lessonspace."
 
 angle_eyebrow: "THE PAPER WITHOUT THE CALCULATOR"
@@ -39,7 +39,7 @@ steps:
     body: "A weekly hour on Lessonspace, our shared whiteboard, with every step of the working written out on screen instead of done in somebody's head. Sessions can go to twice a week in the run-up to mocks. From £37 an hour, paid one session at a time."
 
 faqs:
-  - q: "Can a Plymouth GCSE Maths tutor help my child apply for a Babcock apprenticeship at Devonport?"
+  - q: "Can a GCSE Maths tutor for Plymouth students help my child apply for a Babcock apprenticeship at Devonport?"
     a: "Yes, and the grade work comes first. Babcock is taking on well over two hundred apprentices at Devonport for the 2026 intake, and its engineering trades routes publish their own entry requirements, generally around five GCSEs at grade 4 including Maths, English and a science or technology subject. Those requirements move between intakes, so work from this year's rather than from what an older sibling remembers. The tutoring aims at the Maths grade the application rests on, and at the fluency the assessment stage afterwards asks for."
   - q: "Does it matter whether my child sits AQA, Edexcel or OCR Maths?"
     a: "It matters at the margins, and the margins are where grades move. The content overlaps almost entirely. What differs is the wording of the longer questions, how much of a multi-step problem comes scaffolded, and which formulae sit on the sheet rather than in your child's head. A tutor who knows the specification stops guessing in session one. We confirm the board on the consultation call before anybody is matched, because it decides which past papers the whole plan is built on."

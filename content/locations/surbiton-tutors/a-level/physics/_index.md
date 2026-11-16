@@ -7,7 +7,7 @@ location: "Surbiton"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "A-Level Physics Tutors for Surbiton Students Who Don't Also Take Maths"
+hero_h1: "A-Level Physics Tutors for Surbiton Students"
 hero_lead: "Plenty of sixth formers take Physics without A-Level Maths, then meet logarithms and vector components in a Physics lesson first. Our A-Level Physics tutors for Surbiton students teach that maths in plain steps, so the physics underneath starts to make sense."
 
 angle_eyebrow: "THE MATHS INSIDE PHYSICS"

@@ -1,13 +1,13 @@
 ---
-title: "Nottingham Online GCSE Science Tutors | The Degree Gap"
+title: "Nottingham GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Losing Science marks on the calculations? Our Nottingham GCSE Science tutors find which marks are really maths marks and fix those first. From £37 an hour."
+description: "Losing Science marks on the calculations? Our online GCSE Science tutors find which are really maths marks and fix those first for Nottingham students."
 layout: "level-subject"
 location: "Nottingham"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutors Online for Nottingham, Beeston and West Bridgford"
+hero_h1: "GCSE Science Tutors for Nottingham Students"
 hero_lead: "That groan over a Physics calculation can sound just like the one over Maths homework, and it's often the same problem turning up in a different subject. Our GCSE Science tutors for Nottingham students find which of your child's Science marks are really maths marks, and start there."
 
 angle_eyebrow: "A MATHS TUTOR, OR A SCIENCE TUTOR?"

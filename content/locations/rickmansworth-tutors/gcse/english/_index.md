@@ -1,13 +1,13 @@
 ---
 title: "Rickmansworth GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Timed writing, unseen poems and quotes from memory: Rickmansworth GCSE English tutors who work on the marks your child is missing. Online, from £37."
+description: "Timed writing, unseen poems and quotes from memory: GCSE English tutors for Rickmansworth who work on the marks your child is missing. Online, from £37."
 layout: "level-subject"
 location: "Rickmansworth"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Rickmansworth and Three Rivers"
+hero_h1: "GCSE English Tutors for Rickmansworth Students"
 hero_lead: "Your child may read happily on the train and still run out of time on the writing question, or know the set text and forget the quotes. Our GCSE English tutors for Rickmansworth students practise answering under the clock, one question type at a time."
 
 angle_eyebrow: "HALF THE MARKS ARE WRITING"

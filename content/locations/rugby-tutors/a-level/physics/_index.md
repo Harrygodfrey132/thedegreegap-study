@@ -7,7 +7,7 @@ location: "Rugby"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Rugby Students Whose Maths Is Letting Down Their Physics"
+hero_h1: "A-Level Physics Tutors for Rugby Students"
 hero_lead: "Your child follows the idea in the lesson, then the exam question needs a log graph or an equation rearranged twice and the marks disappear. Our A-Level Physics tutors for Rugby students work on the maths inside the Physics, one topic at a time."
 
 angle_eyebrow: "RUGBY RADIO STATION, 1927"

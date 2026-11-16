@@ -1,13 +1,13 @@
 ---
-title: "Harrogate A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Harrogate A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
-description: "Harrogate A-Level Chemistry tutors who help your child write answers in the words the mark scheme rewards. One-to-one online lessons from £37, no contract."
+description: "A-Level Chemistry tutors for Harrogate who help your child write answers in the words the mark scheme rewards. One-to-one online lessons from £37, no contract."
 layout: "level-subject"
 location: "Harrogate"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Your Child in Harrogate"
+hero_h1: "A-Level Chemistry Tutors for Harrogate Students"
 hero_lead: "It's a line lots of parents hear over a marked Chemistry paper: 'But that's what I meant.' Our A-Level Chemistry tutors for Harrogate students help your child say it in the words the mark scheme actually pays for."
 
 angle_eyebrow: "THE MARK IS IN THE WORDING"

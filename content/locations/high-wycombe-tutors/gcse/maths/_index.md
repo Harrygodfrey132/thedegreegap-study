@@ -1,13 +1,13 @@
 ---
-title: "High Wycombe GCSE Maths Tutors | Online | The Degree Gap"
+title: "High Wycombe GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "High Wycombe GCSE Maths tutors for the child who decided in Year 9 they're 'not a maths person'. Weekly one-to-one lessons online, from £37, no contract."
+description: "GCSE Maths tutors for High Wycombe, for the child who decided in Year 9 they're 'not a maths person'. Weekly one-to-one lessons online, from £37, no contract."
 layout: "level-subject"
 location: "High Wycombe"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for High Wycombe Children Who've Gone Off Maths"
+hero_h1: "GCSE Maths Tutors for High Wycombe Students"
 hero_lead: "If your child's started saying they're 'just not a maths person', it probably began around Year 9, and the grade has followed. Our GCSE Maths tutors for High Wycombe students work online, going back to where that belief took hold and rebuilding from there."
 
 angle_eyebrow: "WHEN 'I CAN'T DO MATHS' STARTED"

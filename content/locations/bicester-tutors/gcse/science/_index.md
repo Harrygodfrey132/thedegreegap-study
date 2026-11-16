@@ -1,13 +1,13 @@
 ---
 title: "GCSE Science Tutors Covering Bicester | The Degree Gap"
 nav_title: "Science"
-description: "Practicals missed after a change of school or a spell off ill still come up in the exam. Our Bicester GCSE Science tutors go through them online. From £37."
+description: "Practicals missed after a change of school or a spell off ill still come up in the exam. Our GCSE Science tutors for Bicester go through them online. From £37."
 layout: "level-subject"
 location: "Bicester"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Bicester"
+hero_h1: "GCSE Science Tutors for Bicester Students"
 hero_lead: "The practicals in your child's GCSE Science course happen in class, so a change of school or a week off sick can mean missing a few, with exam questions on them still to come. Our GCSE Science tutors for Bicester students talk them through, step by step, one-to-one online."
 
 angle_eyebrow: "THE PRACTICALS YOUR CHILD MISSED"

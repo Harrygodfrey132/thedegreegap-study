@@ -1,11 +1,11 @@
 ---
-title: "Banbury A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "Sailed through GCSE, and Year 12 has come as a shock? Banbury A-Level tutors help your child find a way of studying that works. Online, from £37, no contract."
+title: "Banbury A-Level Tutors | One-to-One | The Degree Gap"
+description: "Sailed through GCSE, and Year 12 has come as a shock? A-Level tutors for Banbury help your child find a way of studying that works. Online, from £37."
 layout: "subject"
 location: "Banbury"
 level: "A-Level"
 
-hero_heading_line1: "Online Banbury A-Level Tutors for When GCSE Came Easily and Year 12 Doesn't"
+hero_heading_line1: "A-Level Tutors for Banbury Students"
 hero_heading_line2: ""
 hero_lead: "A-Level doesn't ask for more of what GCSE rewarded. It asks for something different. Our A-Level tutors for Banbury students work on the part school assumes your child can already do, like knowing how to study on their own."
 
@@ -14,14 +14,14 @@ grade_to: "C"
 grade_stat: "From a real review: E and U grades turned into three Cs, even though the work was left very late."
 
 first_lesson_eyebrow: "A DIFFERENT KIND OF WORK"
-first_lesson_heading: "Why a Banbury A-Level Tutor Starts With How Your Child Studies"
+first_lesson_heading: "Why an A-Level Tutor for Banbury Students Starts With How Your Child Studies"
 first_lesson_context: "Oddly, the ones who find Year 12 hardest are often the ones GCSE came easily to. GCSE rewarded knowing the content, but A-Level wants your child to use it on problems nobody's shown them, and to study alone for hours each week. If they've never needed a method for that, the first sign is usually a Year 12 mock well below anything their GCSEs suggested."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to three C grades at A-Level"
 
-tutor_strip_heading: "Banbury A-Level tutors who teach the method, not just the content"
+tutor_strip_heading: "A-Level tutors for Banbury students who teach the method, not just the content"
 tutor_strip_body: "Around Banbury, the exam board depends on your child's sixth form, so we check it before suggesting anyone. Many of our tutors sat these same papers not long ago, and only around 3% of applicants get through Harry and Joe's interview. Browse the profiles, or let us match."
 
 pathways_heading: "Where Banbury A-Levels Can Lead Next"

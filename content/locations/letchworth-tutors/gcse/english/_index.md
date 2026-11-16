@@ -1,13 +1,13 @@
 ---
 title: "Letchworth GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Good at Maths, stuck in English? Our Letchworth GCSE English tutors give your child a routine for unseen texts and the writing task. Online, from £37."
+description: "Good at Maths, stuck in English? Our GCSE English tutors for Letchworth give your child a routine for unseen texts and the writing task. Online, from £37."
 layout: "level-subject"
 location: "Letchworth"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Letchworth Families"
+hero_h1: "GCSE English Tutors for Letchworth Students"
 hero_lead: "If your child likes questions with one right answer, English can seem to have none. Our GCSE English tutors for Letchworth students give them steps to follow instead, for reading an unseen extract and planning the writing task, practised one-to-one online."
 
 card_eyebrow: "FREE CONSULTATION"

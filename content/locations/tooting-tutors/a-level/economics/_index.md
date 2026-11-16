@@ -7,7 +7,7 @@ location: "Tooting"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Tooting Students New to the Subject"
+hero_h1: "A-Level Economics Tutors for Tooting Students"
 hero_lead: "Lots of sixth formers start A-Level Economics with no GCSE in it, so the first term is a new language of diagrams, data and definitions. Our A-Level Economics tutors for Tooting students make that language familiar early, before the essays start to count."
 
 angle_eyebrow: "A SUBJECT WITH NO GCSE BEHIND IT"

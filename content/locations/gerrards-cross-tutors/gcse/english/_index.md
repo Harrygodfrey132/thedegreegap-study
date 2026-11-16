@@ -1,13 +1,13 @@
 ---
 title: "GCSE English Tutors Covering Gerrards Cross | The Degree Gap"
 nav_title: "English"
-description: "Schools pick their own GCSE English books, so our Gerrards Cross tutors are matched to your child's set texts and exam board. One-to-one, online, from £37."
+description: "Schools pick their own GCSE English books, so our tutors for Gerrards Cross are matched to your child's set texts and exam board. One-to-one, online, from £37."
 layout: "level-subject"
 location: "Gerrards Cross"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Gerrards Cross Teenagers Who Run Out of Time Before Their Best Point"
+hero_h1: "GCSE English Tutors for Gerrards Cross Students"
 hero_lead: "If your child understands the books but the essays come back short or unfinished, that's one of the most common things we see. Our GCSE English tutors for Gerrards Cross students work on quotations, planning and timing, using the books your child's own school has chosen."
 
 card_heading: "Tell us about your child's English, and the books they're studying"
@@ -34,7 +34,7 @@ schools:
   - "Thorpe House School"
   - "Dr Challoner's High School"
 
-steps_heading: "Matching your child with a GCSE English tutor in Gerrards Cross"
+steps_heading: "Matching your child with a GCSE English tutor for Gerrards Cross students"
 steps_lead: "Have your child's novel, play and poems to hand when we talk, as they help us choose the right tutors."
 steps:
   - title: "A free consultation call"

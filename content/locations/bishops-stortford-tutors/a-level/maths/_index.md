@@ -1,13 +1,13 @@
 ---
 title: "Bishop's Stortford A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Started A-Level Maths at a new sixth form and finding it hard? Our Bishop's Stortford tutors help your child with the Year 12 step up. Online, from £37."
+description: "Started A-Level Maths at a new sixth form and finding it hard? Our tutors for Bishop's Stortford help your child with the Year 12 step up. Online, from £37."
 layout: "level-subject"
 location: "Bishop's Stortford"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Bishop's Stortford Families When Year 12 Stops Naming the Method"
+hero_h1: "A-Level Maths Tutors for Bishop's Stortford Students"
 hero_lead: "New school at sixteen, new teachers, and a first Year 12 Maths test that's gone badly: it's a lot at once. Our A-Level Maths tutors for Bishop's Stortford students take your child through the questions that no longer say which method to use, in one-to-one lessons online."
 
 angle_eyebrow: "FIRST TERM, NEW CLASSROOM"

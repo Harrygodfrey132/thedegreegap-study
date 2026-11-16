@@ -1,11 +1,11 @@
 ---
 title: "GCSE Tutors in Henley-on-Thames | The Degree Gap"
-description: "One GCSE grade can decide which course your child takes at The Henley College. Our Henley-on-Thames GCSE tutors work on it one-to-one online, from £37."
+description: "One GCSE grade can decide which course your child takes at The Henley College. Our GCSE tutors for Henley-on-Thames work on it one-to-one online, from £37."
 layout: "subject"
 location: "Henley-on-Thames"
 level: "GCSE"
 
-hero_heading_line1: "Online Henley-on-Thames GCSE Tutors for When One Grade Decides the Next Course"
+hero_heading_line1: "GCSE Tutors for Henley-on-Thames Students"
 hero_heading_line2: ""
 hero_lead: "Sometimes it comes down to a single subject, a Maths or English grade sitting right on the line, with the next course depending on it. Give our GCSE tutors for Henley-on-Thames students your child's latest mock and they'll start there, one-to-one and online."
 

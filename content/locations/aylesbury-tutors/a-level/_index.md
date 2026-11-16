@@ -1,11 +1,11 @@
 ---
-title: "Aylesbury A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "Is Year 12 going deeper than your child expected? Aylesbury A-Level tutors who find the gap behind a slipping subject early. Online and one-to-one, from £37."
+title: "Aylesbury A-Level Tutors | One-to-One | The Degree Gap"
+description: "Is Year 12 going deeper than your child expected? A-Level tutors for Aylesbury who find the gap behind a slipping subject early. Online, from £37."
 layout: "subject"
 location: "Aylesbury"
 level: "A-Level"
 
-hero_heading_line1: "Online Aylesbury A-Level Tutors for When Year 12 Suddenly Goes Much Deeper"
+hero_heading_line1: "A-Level Tutors for Aylesbury Students"
 hero_heading_line2: ""
 hero_lead: "Your child's GCSEs went well, and now Year 12 tests are coming back lower than anything they've had before. Our A-Level tutors for Aylesbury students find the gap early, while it's still a small fix and long before it turns into a UCAS worry."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "One family we worked with saw their child move from Cs to As across their A-Levels."
 
 first_lesson_eyebrow: "FROM Cs TO As IN AYLESBURY"
-first_lesson_heading: "What an Aylesbury A-Level Tutor Looks For in Year 12 Work"
+first_lesson_heading: "What an A-Level Tutor for Aylesbury Students Looks For in Year 12 Work"
 first_lesson_context: "Whether it's a Russell Group offer, an engineering apprenticeship out at Westcott or a place at Oxford Brookes, what stands in your child's way is rarely missing content. It's depth: explaining why, not just what, the way an A-Level paper rewards. A busy Year 12 class rarely has time to practise that one-to-one, and it's where an A-Level tutor starts."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Grade C to Grade A at A-Level"
 
-tutor_strip_heading: "Aylesbury A-Level tutors who show your child where the marks hide"
+tutor_strip_heading: "A-Level tutors for Aylesbury students who show your child where the marks hide"
 tutor_strip_body: "They're graduates and undergraduates, many from Russell Group universities, matched to your child's exam board and the subject that's costing them marks. A few are qualified examiners too, so they've seen the marking from the other side. Take a look, or we'll suggest two or three after a call."
 
 pathways_heading: "Where Aylesbury Sixth Formers Go After A-Levels"

@@ -1,13 +1,13 @@
 ---
-title: "Chester A-Level Biology Tutors | Online | The Degree Gap"
+title: "Chester A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Does your child know their Biology but still lose marks? Our Chester A-Level Biology tutors help them use what each question gives them. Online, from £37."
+description: "Does your child know their Biology but still lose marks? Our A-Level Biology tutors for Chester help them use what each question gives them. Online, from £37."
 layout: "level-subject"
 location: "Chester"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Chester Families on Both Sides of the Border"
+hero_h1: "A-Level Biology Tutors for Chester Students"
 hero_lead: "Biology questions often hand your child much of what they need, and it's easy to skim straight past it. Our A-Level Biology tutors for Chester students work on reading the question properly before answering it."
 
 angle_eyebrow: "THE ANSWER IS PARTLY IN THE QUESTION"

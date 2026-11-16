@@ -7,7 +7,7 @@ location: "Bedford"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Bedford Students Swamped by Year 13 Pathways"
+hero_h1: "A-Level Biology Tutors for Bedford Students"
 hero_lead: "Photosynthesis and respiration arrive as long chains of named steps, and the exam wants them linked to everything else. Our A-Level Biology tutors for Bedford students turn those pathways into something your child can explain, not just recite."
 
 angle_eyebrow: "KREBS, CALVIN AND THE LONG ANSWER"

@@ -7,7 +7,7 @@ location: "Luton"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors for Luton, Matched on the Board and the Tier"
+hero_h1: "GCSE Maths Tutors for Luton Students"
 hero_lead: "Higher or foundation is the decision nobody explains properly, and it changes which questions are even on the paper. Our GCSE Maths tutors for Luton students settle it with evidence, then rebuild whatever the paper says is missing. One-to-one and online."
 
 angle_eyebrow: "TIER FIRST, TOPICS SECOND"

@@ -7,7 +7,7 @@ location: "Borehamwood"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Borehamwood Students Stuck on Organic Routes and Moles"
+hero_h1: "A-Level Chemistry Tutors for Borehamwood Students"
 hero_lead: "A-Level Chemistry asks your child to remember dozens of reactions and do careful maths in the same paper. Our A-Level Chemistry tutors for Borehamwood students start from a recent paper and work on whichever half is costing more."
 
 angle_eyebrow: "FROM ALKENE TO ALCOHOL IN THREE STEPS"

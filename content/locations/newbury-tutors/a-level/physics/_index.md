@@ -7,7 +7,7 @@ location: "Newbury"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Newbury Students When Two Topics Meet in One Question"
+hero_h1: "A-Level Physics Tutors for Newbury Students"
 hero_lead: "Your child can do a circular motion question and a gravitational fields question, but not one that needs both at once. Our A-Level Physics tutors for Newbury students practise the mixed, multi-step problems that Year 13 papers are built around."
 
 angle_eyebrow: "WHEN GRAVITY MEETS CIRCULAR MOTION"

@@ -7,7 +7,7 @@ location: "Surbiton"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "A-Level Chemistry Tutors for Surbiton Students Who Came Through Combined Science"
+hero_h1: "A-Level Chemistry Tutors for Surbiton Students"
 hero_lead: "Your child got the Combined Science grades the course asked for, then found classmates from Triple Science had already practised half the first topic. Our A-Level Chemistry tutors for Surbiton students fill in the missing GCSE chemistry quickly, then keep pace with Year 12."
 
 angle_eyebrow: "FROM COMBINED SCIENCE TO A-LEVEL"

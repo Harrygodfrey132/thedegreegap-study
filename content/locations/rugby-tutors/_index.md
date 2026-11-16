@@ -1,9 +1,9 @@
 ---
-title: "Online Tutors for Your Child in Rugby | The Degree Gap"
+title: "Tutors for Your Child in Rugby | The Degree Gap"
 description: "New school in Rugby, or one subject quietly slipping? We'll match your child with an online tutor who knows their exam board. From £37 an hour, no contract."
 layout: "single"
 location: "Rugby"
-banner_heading: "Online tutors for Rugby children, from the first week at a new school to the final mock"
+banner_heading: "GCSE and A-Level Tutors for Rugby Families"
 banner_description: "A good tutor finds the topic that slipped between two schools, or two school years, and fixes it before a test finds it first."
 content_angle: "a growing town: families new to Rugby, children joining a school part-way through a course, and the gaps a move quietly leaves"
 intro_1: "Maybe you moved to Rugby for the space and the fast trains, and your child started at a new school halfway through Year 9. Or you've lived here for years and it's one subject, usually Maths, that's come apart without anyone quite noticing. Either way, the evenings start to look alike. Homework that takes twice as long as it should. A shrug and 'we haven't done that yet', or 'we did that ages ago'. And you at the kitchen table, trying to help with a method nothing like the one you were taught."

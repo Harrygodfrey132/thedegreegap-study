@@ -1,13 +1,13 @@
 ---
-title: "Chelmsford GCSE Maths Tutors | Online | The Degree Gap"
+title: "Chelmsford GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "More practice, or a tutor? One marked paper usually tells you. Our Chelmsford GCSE Maths tutors start there, one-to-one and online, from £37 an hour."
+description: "More practice, or a tutor? One marked paper usually tells you. Our GCSE Maths tutors for Chelmsford start there, one-to-one and online, from £37 an hour."
 layout: "level-subject"
 location: "Chelmsford"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online Chelmsford GCSE Maths Tutors for Hard Work That Isn't Showing Yet"
+hero_h1: "GCSE Maths Tutors for Chelmsford Students"
 hero_lead: "Not every child who's behind in Maths needs a tutor, and if yours doesn't, we'll say so. Our GCSE Maths tutors for Chelmsford students work online, and the first thing we'll do is look at a marked paper to see which kind of problem it is."
 
 angle_eyebrow: "TUTOR, OR JUST MORE PRACTICE"

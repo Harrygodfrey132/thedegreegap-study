@@ -1,13 +1,13 @@
 ---
-title: "Welwyn Garden City A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Welwyn Garden City A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
-description: "Welwyn Garden City A-Level Chemistry tutors, online and one-to-one, for when your child can do the methods but drops marks on the 'explain why' questions."
+description: "A-Level Chemistry tutors for Welwyn Garden City, online and one-to-one, for when your child can do the methods but drops marks on the 'explain why' questions."
 layout: "level-subject"
 location: "Welwyn Garden City"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Welwyn Garden City Families"
+hero_h1: "A-Level Chemistry Tutors for Welwyn Garden City Students"
 hero_lead: "Your child's working looks neat and the titration answer is right, yet the Chemistry mark still comes back lower than you'd expect. Often it's the questions asking why, and our A-Level Chemistry tutors for Welwyn Garden City students start with exactly those."
 
 angle_eyebrow: "DOING IT ISN'T THE SAME AS EXPLAINING IT"

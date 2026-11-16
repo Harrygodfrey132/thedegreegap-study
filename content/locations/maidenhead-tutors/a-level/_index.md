@@ -1,11 +1,11 @@
 ---
-title: "A-Level Tutors for Maidenhead Sixth Formers | Online One-to-One"
+title: "A-Level Tutors for Maidenhead Sixth Formers | One-to-One"
 description: "Is your child's Year 12 full of free periods and short on revision? We match Maidenhead sixth formers with an online A-Level tutor. From £37, no contract."
 layout: "subject"
 location: "Maidenhead"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Maidenhead Year 12s With Free Periods but No Plan"
+hero_heading_line1: "A-Level Tutors for Maidenhead Students"
 hero_heading_line2: ""
 hero_lead: "Year 12 brings free periods, and plenty of sixth formers spend the first term working out what to do with them. Our A-Level tutors for Maidenhead students give your child a weekly hour with a plan, so the study in between has something to aim at."
 

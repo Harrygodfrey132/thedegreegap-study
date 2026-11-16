@@ -1,14 +1,14 @@
 ---
-title: "Hemel Hempstead Online Tutors | The Degree Gap"
+title: "Hemel Hempstead Tutors | The Degree Gap"
 description: "When GCSE or sixth form work suddenly gets harder, a patient Hemel Hempstead tutor can help. One-to-one online lessons from £37, with a free call first."
 layout: "single"
 location: "Hemel Hempstead"
-banner_heading: "Has Schoolwork Suddenly Got Harder? Online Hemel Hempstead Tutors for the GCSE and A-Level Step Up"
+banner_heading: "GCSE and A-Level Tutors for Hemel Hempstead Families"
 banner_description: "Lots of capable children sail through until Year 10 or sixth form, then hit a wall. It's common and fixable, and a patient tutor who knows the course can help your child find their feet."
 content_angle: "the step up: coping fine until Year 10 or Year 12, then harder work and a dip in confidence"
 intro_1: "For years, school went smoothly. Then your child started their GCSE courses, or the first term of sixth form, and the work changed almost overnight. Homework that used to take twenty minutes now eats the whole evening. The Chemistry comes back covered in red pen. And at tea you hear something new, like 'I used to be good at this', from a child who's never said it before. It's one of the most common reasons Hemel Hempstead families ring us. The step up trips up plenty of bright, hard-working children."
 intro_2: "A tutor can help your child get their footing back. The first lesson or two go through recent work to find which part of the new material hasn't landed. Often it's something from the year before that the harder topics lean on. Then it's steady weekly practice, at a pace where your child feels on top of things again. One of our co-founders, Harry or Joe, speaks to every family first, so the tutor we suggest suits your child and not just the subject."
-about_heading: "The Hemel Hempstead Tutors Who Get Results"
+about_heading: "The Tutors for Hemel Hempstead Families Who Get Results"
 about_image: "/images/group-study-discussion-with-laptop.jpg"
 schools_intro: "Parents get in touch from Cavendish, Longdean and Adeyfield Academy, from The Astley Cooper School and John F Kennedy Catholic School, and from Hemel Hempstead School itself. Different schools, same step up. Our founders see it from the classroom side too, since they're in schools during the day running exam technique workshops. That keeps them close to what the harder courses ask of teenagers, and to how it feels to be fourteen or sixteen and suddenly behind."
 schools: ["Cavendish School", "Hemel Hempstead School", "The Astley Cooper School", "Adeyfield Academy", "Longdean School", "John F Kennedy Catholic School"]

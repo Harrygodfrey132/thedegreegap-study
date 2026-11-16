@@ -7,7 +7,7 @@ location: "Darlington"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutoring for Darlington Students Whose Essays Stop Short of a Judgement"
+hero_h1: "A-Level Economics Tutors for Darlington Students"
 hero_lead: "Your child knows the theory, then the long essays come back marked down for 'limited evaluation'. Our A-Level Economics tutors for Darlington students teach them to weigh an argument on paper, with the diagram doing its share of the work."
 
 angle_eyebrow: "THE TREASURY ON THE DOORSTEP"

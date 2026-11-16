@@ -1,11 +1,11 @@
 ---
-title: "Beverley A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "Year 12 feeling like a big step up at the J6th, Longcroft or Wyke? A Beverley A-Level tutor can work through it with your child online, from £37 an hour."
+title: "Beverley A-Level Tutors | One-to-One | The Degree Gap"
+description: "Year 12 feeling like a big step up at the J6th, Longcroft or Wyke? An A-Level tutor for Beverley can work through it with your child online, from £37 an hour."
 layout: "subject"
 location: "Beverley"
 level: "A-Level"
 
-hero_heading_line1: "Online Beverley A-Level Tutors Who Start Early, Before Predicted Grades Are Set"
+hero_heading_line1: "A-Level Tutors for Beverley Students"
 hero_heading_line2: ""
 hero_lead: "Did the first Year 12 test come back well below your child's GCSE grades? That's a very common start to sixth form. Our A-Level tutors for Beverley students go through the test with your child, one-to-one online, and start on the gaps long before predicted grades are written."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "Alexander's child moved from Cs to As, and the tutors helped with university choices and the application too."
 
 first_lesson_eyebrow: "AFTER THE FIRST YEAR 12 TEST"
-first_lesson_heading: "What a Beverley A-Level Tutor Does With That First Marked Test"
+first_lesson_heading: "What an A-Level Tutor for Beverley Students Does With That First Marked Test"
 first_lesson_context: "For a boy from the Grammar or a girl from the High, the J6th means lessons split between the two schools, often with a teacher from the other one. Then there are three A-Levels that ask far more than GCSE did, so a shaky first test is no surprise. An A-Level tutor begins with that test, while most of Year 12 is still ahead."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "From Cs to As"
 
-tutor_strip_heading: "Beverley A-Level tutors for each of your child's three subjects"
+tutor_strip_heading: "A-Level tutors for Beverley students, for each of your child's three subjects"
 tutor_strip_body: "Each of your child's A-Levels can follow a different exam board. At the J6th, for instance, A-Level Maths is AQA. We'll ask about every subject on the call, and these profiles show the sort of tutors we'd be choosing from."
 
 pathways_heading: "Beyond the J6th and Longcroft: Where Beverley A-Levels Can Lead"

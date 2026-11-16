@@ -1,13 +1,13 @@
 ---
-title: "Tamworth GCSE Science Tutors | Online | The Degree Gap"
+title: "Tamworth GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Combined fits three sciences into less time than triple. Our Tamworth GCSE Science tutors find the topic your child never had time to settle. Online, from £37."
+description: "Combined fits three sciences into less time than triple. Our GCSE Science tutors for Tamworth find the topic your child never had time to settle. Online,"
 layout: "level-subject"
 location: "Tamworth"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutoring for Tamworth Families"
+hero_h1: "GCSE Science Tutors for Tamworth Students"
 hero_lead: "Fine on most of Science but lost on one topic, like electricity or moles? That's common on combined, which has less time than triple for the same three subjects. Our GCSE Science tutors for Tamworth students work with your child online and go back over the part that got squeezed."
 
 angle_eyebrow: "THE TOPIC THAT GOT SQUEEZED"

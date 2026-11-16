@@ -7,7 +7,7 @@ location: "Havering"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Havering Students When the Maths Gets Heavy"
+hero_h1: "A-Level Physics Tutors for Havering Students"
 hero_lead: "A lot of A-Level Physics turns out to be algebra, graphs and long multi-step problems, which surprises children who loved the ideas at GCSE. Our A-Level Physics tutors for Havering students work through mechanics and fields questions with them, line by line."
 
 angle_eyebrow: "PHYSICS WITH A LOT OF MATHS IN IT"

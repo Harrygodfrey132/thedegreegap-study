@@ -1,5 +1,5 @@
 ---
-title: "Tamworth A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Tamworth A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Is your child mixing up percentage yield and atom economy? Our online Tamworth A-Level Chemistry tutors help them keep the two apart. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Tamworth"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors Covering Tamworth"
+hero_h1: "A-Level Chemistry Tutors for Tamworth Students"
 hero_lead: "Percentage yield and atom economy look like the same sum, and they aren't. Our A-Level Chemistry tutors for Tamworth students help your child tell them apart, because exam questions ask for both and a mix-up costs the pair of marks."
 
 angle_eyebrow: "TWO CALCULATIONS, ONE CONFUSION"
@@ -38,7 +38,7 @@ steps:
     body: "Lessons are an hour a week, one-to-one, on the platform Lessonspace, with a replay of every lesson. Both calculations get worked on one reaction, so the difference is there on the screen. From £37 an hour, no contract."
 
 faqs:
-  - q: "Can a Tamworth Chemistry tutor help my child get onto a manufacturing or process apprenticeship?"
+  - q: "Can a Chemistry tutor for Tamworth students help my child get onto a manufacturing or process apprenticeship?"
     a: "Yes, and getting the predicted grade into range is the first part of it. Manufacturing, process and engineering degree apprenticeships across Staffordshire and the West Midlands often ask for A-Levels somewhere around BBB to AAB, with a science or Maths named. Many run their own aptitude tests as well. The rest of an application doesn't get a proper read until the prediction is there. We'll also help with subject choices and applications, if that's useful."
   - q: "What do Tamworth children find hardest in A-Level Chemistry?"
     a: "Often it's yield and atom economy, because they're taught together and then behave differently. Yield is about the practical. It compares what was made with what the equation predicted, so lost product and reversible reactions explain it. Atom economy is about the equation, and you can work it out before the reaction happens. Mix them up and your child gets the sum right for the wrong thing. Then the question about why a high-yield process can still be wasteful stops making sense."

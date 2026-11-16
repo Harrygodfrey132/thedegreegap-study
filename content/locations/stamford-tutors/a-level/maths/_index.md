@@ -1,13 +1,13 @@
 ---
 title: "A-Level Maths Tutors for Stamford | The Degree Gap"
 nav_title: "Maths"
-description: "Year 12 Maths leaning hard on GCSE algebra? Our Stamford A-Level Maths tutors shore up the algebra first, then pure, stats and mechanics, online. From £37."
+description: "Year 12 Maths leaning hard on GCSE algebra? Our A-Level Maths tutors for Stamford shore up the algebra first, then pure, stats and mechanics, online. From £37."
 layout: "level-subject"
 location: "Stamford"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutoring for Stamford Teenagers in Year 12 and 13"
+hero_h1: "A-Level Maths Tutors for Stamford Students"
 hero_lead: "At A-Level, the algebra your child half-remembers from GCSE has to be quick and automatic, because every new topic sits on top of it. Our A-Level Maths tutors for Stamford students get that groundwork solid first, one-to-one and online, then move on to the questions your child's board sets."
 
 angle_eyebrow: "THE ALGEBRA UNDER EVERYTHING"

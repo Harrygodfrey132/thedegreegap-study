@@ -1,11 +1,11 @@
 ---
-title: "Cobham A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "Year 12 work feeds most predicted grades. Our Cobham A-Level tutors help your child with the subject that's slipping, one-to-one online. From £37, no contract."
+title: "Cobham A-Level Tutors | One-to-One | The Degree Gap"
+description: "Year 12 work feeds most predicted grades. Our A-Level tutors for Cobham help your child with the subject that's slipping, one-to-one online. From £37."
 layout: "subject"
 location: "Cobham"
 level: "A-Level"
 
-hero_heading_line1: "Online Cobham A-Level Tutors While Year 12 Is Shaping Predicted Grades"
+hero_heading_line1: "A-Level Tutors for Cobham Students"
 hero_heading_line2: ""
 hero_lead: "Year 12 can feel like a practice run, so it's easy to miss that most of your child's predicted grades rest on it. Our A-Level tutors for Cobham students work one-to-one online on the subject that's slipping, while there's still time to turn it round."
 
@@ -14,14 +14,14 @@ grade_to: "C"
 grade_stat: "E and U grades turned into 3 C grades for Joanna's son, who'd left studying until the final hour."
 
 first_lesson_eyebrow: "BEFORE THE PREDICTIONS ARE WRITTEN"
-first_lesson_heading: "What a Cobham A-Level Tutor Asks to See First"
+first_lesson_heading: "What an A-Level Tutor for Cobham Students Asks to See First"
 first_lesson_context: "Lots of families only find out in the summer of Year 12 how much the end-of-year exams fed into predicted grades. An A-Level tutor plans backwards from those exams, starting with the topics your child's latest marked work shows are weakest. If it's already Year 13 and time is short, as it was for Joanna's son, the plan aims at the final exams instead."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "From E and U grades to three Cs"
 
-tutor_strip_heading: "Cobham A-Level tutors for whichever sixth form your child chose"
+tutor_strip_heading: "A-Level tutors for Cobham students, for whichever sixth form your child chose"
 tutor_strip_body: "Some Cobham teenagers stay on at Cobham Free School, while others move to ND6 or Esher Sixth Form College. Lessons get booked around your child's new timetable, not the other way round. Look through a few profiles yourself, or let us choose for you."
 
 pathways_heading: "What Opens Up for Cobham Sixth Formers at 18"

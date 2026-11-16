@@ -1,17 +1,17 @@
 ---
-title: "Harrogate GCSE Maths Tutors | Online | The Degree Gap"
+title: "Harrogate GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Harrogate GCSE Maths tutors for the mock that came back a grade under. Matched on AQA, Edexcel or OCR, weekly one-to-one lessons online, from £37 an hour."
+description: "GCSE Maths tutors for Harrogate, for the mock that came back a grade under. Matched on AQA, Edexcel or OCR, weekly one-to-one lessons online, from £37 an hour."
 layout: "level-subject"
 location: "Harrogate"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutoring for Harrogate, When the Mock Comes Back Low"
+hero_h1: "GCSE Maths Tutors for Harrogate Students"
 hero_lead: "Most Harrogate parents who ring us about Maths aren't holding a bad report. They're holding a mock that came back a grade below the one everyone expected. Our GCSE Maths tutors for Harrogate students sit down with your child online each week and go after the questions losing those marks."
 
 angle_eyebrow: "WHERE THE MARKS GO ON A HARROGATE MATHS MOCK"
-angle_heading: "What a Mock Paper Tells a Harrogate Maths Tutor"
+angle_heading: "What a Mock Paper Tells a Maths Tutor for Harrogate Students"
 angle_body_1: "A Maths mock is one of the few bits of paper that tells you exactly what went wrong, and hardly anyone reads it that way. When we mark one for a Harrogate family, the lost marks bunch together. Algebraic fractions inside a question worth several marks. Circle theorems answered with the right shape and the wrong reason. Iterative methods, where the method's fine and the rounding isn't. And the wordy problems near the back of the calculator paper, where your child knows every topic but still can't see which one is being asked for."
 angle_body_2: "The tutor starts with that paper, not a new topic. It goes up on the shared whiteboard, and your child works through it with the tutor, each writing as they go. Then the lost marks get sorted into two piles: couldn't start, and started then stalled. Those need opposite fixes. Whether that means rebuilding number and algebra from Year 8, or drilling the last six questions of a higher paper, the plan is built for one child rather than a class of thirty. It matters here, because the sixth forms at Harrogate Grammar, St Aidan's and Rossett each publish their own subject entry grades. And Maths generally asks for more than the rest."
 angle_image: "/images/maths-equations-close-up.jpg"
@@ -28,7 +28,7 @@ schools:
   - "Ashville College"
   - "Harrogate Ladies' College"
 
-steps_heading: "Your Harrogate Maths Tutor in 3 Steps"
+steps_heading: "Your Maths Tutor for Harrogate Students in 3 Steps"
 steps_lead: "For a Year 11, autumn's the useful window, since the March mock is what most sixth forms end up looking at. You'll have profiles within a day."
 steps:
   - title: "A free call with us"

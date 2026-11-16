@@ -7,7 +7,7 @@ location: "Beckenham"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Beckenham Students Lost in Organic Mechanisms"
+hero_h1: "A-Level Chemistry Tutors for Beckenham Students"
 hero_lead: "Organic chemistry is where a lot of sixth formers stop feeling in control, as the mechanisms pile up and synthesis questions ask for several steps joined together. Our A-Level Chemistry tutors for Beckenham students take it apart one curly arrow at a time."
 
 angle_eyebrow: "MECHANISMS FIRST, THEN THE MATHS"

@@ -1,11 +1,11 @@
 ---
-title: "Chester A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "Chester sixth formers aren't all on the same courses, so our Chester A-Level tutors check exactly what your child is taking first. Online, from £37 an hour."
+title: "Chester A-Level Tutors | One-to-One | The Degree Gap"
+description: "Chester sixth formers aren't all on the same courses, so our A-Level tutors for Chester check exactly what your child is taking first. Online, from £37 an hour."
 layout: "subject"
 location: "Chester"
 level: "A-Level"
 
-hero_heading_line1: "Online Chester A-Level Tutors for a Worrying Mock in the Run-Up to UCAS"
+hero_heading_line1: "A-Level Tutors for Chester Students"
 hero_heading_line2: ""
 hero_lead: "The mock didn't go well, and the tips from your child's friends don't quite fit. Round Chester that's common, because they're not all on the same courses. Our A-Level tutors for Chester students start from the exact course your child's on, one-to-one and online."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "Cs to As, in the words of the parent who watched it happen."
 
 first_lesson_eyebrow: "THE SAME UCAS ROUND, DIFFERENT STARTING POINTS"
-first_lesson_heading: "Where a Chester A-Level Tutor Starts When Not Everyone Sits the Same Exams"
+first_lesson_heading: "Where an A-Level Tutor for Chester Students Starts When Not Everyone Sits the Same Exams"
 first_lesson_context: "Your child may be applying to university alongside friends on quite different courses: A-Levels taught in England or in Wales, BTECs at the college, or a mix. UCAS takes them all, but advice passed round the group can be confidently wrong for your child's course. So an A-Level tutor's first question is exactly which courses your child is on, and what the degrees they're eyeing ask for."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "C grades to A grades at A-Level"
 
-tutor_strip_heading: "Chester A-Level tutors matched to the qualification your child is taking"
+tutor_strip_heading: "A-Level tutors for Chester students matched to the qualification your child is taking"
 tutor_strip_body: "Some Chester teenagers do sixth form on the Wirral or in Wales, and exam boards vary from school to school. We check your child's course and board before suggesting anyone. Every tutor has two years' tutoring or more, and only around 3% of applicants pass Harry and Joe's interview."
 
 pathways_heading: "Where A-Levels Take Chester Sixth Formers Next"

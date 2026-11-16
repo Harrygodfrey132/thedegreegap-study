@@ -1,11 +1,11 @@
 ---
 title: "Bolton A-Level Tutors | Year 12 and 13 | The Degree Gap"
-description: "Bolton A-Level tutors for the predicted grade that university and apprenticeship applications both rest on. Online one-to-one on Lessonspace, from £37 an hour."
+description: "A-Level tutors for Bolton, for the predicted grade that university and apprenticeship applications both rest on. Online one-to-one on Lessonspace, from £37."
 layout: "subject"
 location: "Bolton"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutoring in Bolton for the Predicted Grade Two Applications Rest On"
+hero_heading_line1: "A-Level Tutors for Bolton Students"
 hero_heading_line2: ""
 hero_lead: "A Bolton Year 13 is often applying twice, once through UCAS and once to an employer, and both read the same predicted grade. Our A-Level tutors for Bolton students work online and one-to-one over Lessonspace, backwards from the date that grade gets written."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "A real A-Level move from C grades to A grades, described by the parent who watched it happen."
 
 first_lesson_eyebrow: "TWO APPLICATIONS, ONE NUMBER"
-first_lesson_heading: "What a Bolton A-Level Tutor Is Actually Working Towards"
+first_lesson_heading: "What an A-Level Tutor for Bolton Students Is Actually Working Towards"
 first_lesson_context: "Families plan around June. The grade that opens doors, though, is written in the autumn off the back of Year 12 and the first Year 13 mock, and it reaches universities and employers like MBDA on much the same timetable. So a tutor starting in Year 12 is working to a far earlier deadline than the exam one."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "C grades to A grades at A-Level"
 
-tutor_strip_heading: "Bolton A-Level tutors who know what the offer asks for"
+tutor_strip_heading: "A-Level tutors for Bolton students who know what the offer asks for"
 tutor_strip_body: "Students here sit A-Levels at Bolton School, Canon Slade, Turton and The Sixth Form Bolton, on several different boards. We confirm the specification first, then the module choices. Every session is one-to-one and online over Lessonspace, and around 3% of applicants clear the founder-led interview. Browse the profiles, or let us match your child."
 
 pathways_heading: "The Three Routes Bolton A-Level Students Weigh Up"

@@ -7,7 +7,7 @@ location: "Andover"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Andover Students Whose Essays Explain but Never Judge"
+hero_h1: "A-Level Economics Tutors for Andover Students"
 hero_lead: "Your child can explain exactly what a tax does, then runs out of things to say when the question asks whether it was a good idea. Our A-Level Economics tutors for Andover students teach the evaluation the long essays are really marked on."
 
 angle_eyebrow: "THE A303 AS AN EXAM QUESTION"

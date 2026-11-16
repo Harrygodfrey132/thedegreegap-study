@@ -7,7 +7,7 @@ location: "Hull"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Hull Students Losing Marks on Diagrams and the 25-Markers"
+hero_h1: "A-Level Economics Tutors for Hull Students"
 hero_lead: "Your child can define a negative externality perfectly, and the long answer still comes back with 'evaluate' in the margin. Our online A-Level Economics tutors show them how to weigh an argument and draw the diagram that supports it."
 
 angle_eyebrow: "A PORT CITY'S ECONOMICS"

@@ -1,5 +1,5 @@
 ---
-title: "Tunbridge Wells GCSE Science Tutors | Online | The Degree Gap"
+title: "Tunbridge Wells GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
 description: "Online GCSE Science tutors for Tunbridge Wells families. We find which of Biology, Chemistry or Physics is pulling the grade down. From £37, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Tunbridge Wells"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Covering Tunbridge Wells"
+hero_h1: "GCSE Science Tutors for Tunbridge Wells Students"
 hero_lead: "The report says your child is working hard, and the Science grade next to it doesn't seem to fit. Our GCSE Science tutors for Tunbridge Wells students split it back into Biology, Chemistry and Physics first, then spend the term on whichever one is really behind."
 
 angle_eyebrow: "ONE GRADE, THREE SUBJECTS"
@@ -28,7 +28,7 @@ schools:
   - "Tunbridge Wells High School"
   - "Kent College Pembury"
 
-steps_heading: "Finding your child a GCSE Science tutor in Tunbridge Wells, in 3 steps"
+steps_heading: "Finding your child a GCSE Science tutor for Tunbridge Wells students, in 3 steps"
 steps_lead: "You'll have tutor profiles within 24 hours of our call. With Science, the useful bit is working out which of the three needs the term."
 steps:
   - title: "A free call about your child"

@@ -7,7 +7,7 @@ location: "Stoke-on-Trent"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Stoke-on-Trent Students Who Lose Marks on the Maths"
+hero_h1: "GCSE Science Tutors for Stoke-on-Trent Students"
 hero_lead: "Your child knows what density or a mole is, then a calculation turns up and the marks go. Our online GCSE Science tutors for Stoke-on-Trent students work on the maths inside Physics and Chemistry first, then the long written answers."
 
 angle_eyebrow: "THE MATHS INSIDE SCIENCE"

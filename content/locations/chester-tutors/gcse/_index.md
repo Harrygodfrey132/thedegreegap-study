@@ -1,11 +1,11 @@
 ---
-title: "Chester GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "Chester GCSE tutors matched to the exam board your child sits, on either side of the Welsh border. One-to-one lessons online from £37, and no contract."
+title: "Chester GCSE Tutors | One-to-One | The Degree Gap"
+description: "GCSE tutors for Chester matched to the exam board your child sits, on either side of the Welsh border. One-to-one lessons online from £37, and no contract."
 layout: "subject"
 location: "Chester"
 level: "GCSE"
 
-hero_heading_line1: "Chester GCSE Tutors, Online, So Your Child Isn't Revising for the Wrong Paper"
+hero_heading_line1: "GCSE Tutors for Chester Students"
 hero_heading_line2: ""
 hero_lead: "A friend recommends a revision guide, you order it, and it turns out to be for a different exam board. Around Chester, that's easily done. Our GCSE tutors for Chester students confirm the exact exams your child is entered for, then plan every lesson around them."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "From a parent's review: after six months of lessons, Omo's son went from a 5 to a 6/7 in English."
 
 first_lesson_eyebrow: "CHECKED BEFORE ANYTHING ELSE"
-first_lesson_heading: "What a Chester GCSE Tutor Needs to Know Before Lesson One"
+first_lesson_heading: "What a GCSE Tutor for Chester Students Needs to Know Before Lesson One"
 first_lesson_context: "What another parent tells you about the exams might not apply to your child at all. Chester's schools take children from Cheshire and the Wirral, and from Flintshire and Wrexham over the Welsh border, so friends can sit different papers in the same subject. Your child's GCSE tutor pins down the exact exam first, and plans from there."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 6/7 in English"
 
-tutor_strip_heading: "Chester GCSE tutors for both sides of the border"
+tutor_strip_heading: "GCSE tutors for Chester students, for both sides of the border"
 tutor_strip_body: "Christleton, Upton-by-Chester, Bishops' Blue Coat and the Catholic High School use more than one exam board between them, and some families cross the border for school. Tell us the school and board, and you'll only see tutors who've taught that course. Or browse the profiles yourself."
 
 pathways_heading: "After GCSEs: Options in Chester and Over the Border"

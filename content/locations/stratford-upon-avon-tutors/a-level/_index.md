@@ -5,7 +5,7 @@ layout: "subject"
 location: "Stratford-upon-Avon"
 level: "A-Level"
 
-hero_heading_line1: "Online Stratford-upon-Avon A-Level Tutors, Because Knowing the Content Isn't Always Enough"
+hero_heading_line1: "A-Level Tutors for Stratford-upon-Avon Students"
 hero_heading_line2: ""
 hero_lead: "Stalled marks at A-Level usually come from one of two gaps. Below an A, it's often content. The step to an A* almost never is: that one's judgement. Our A-Level tutors for Stratford-upon-Avon students find which gap your child has and work on it, one-to-one."
 
@@ -15,7 +15,7 @@ grade_stat: "A year of weekly lessons can aim to take your child from B to A*: a
 grade_card: "aim"
 
 first_lesson_eyebrow: "THE WORK BEHIND THE TOP BAND"
-first_lesson_heading: "What a Stratford-upon-Avon A-Level Tutor Marks Line by Line"
+first_lesson_heading: "What an A-Level Tutor for Stratford-upon-Avon Students Marks Line by Line"
 first_lesson_context: "Near the top of A-Level, the marks usually slip on judgement, not knowledge: what evidence to pick, and how to order an argument so an examiner can follow it. That can be taught, but it needs line-by-line feedback on your child's own paragraphs, which a class of thirty rarely has time for. So most of the hour goes on writing and marking, not explaining."
 
 first_lesson_quote: "Malvina is a very intuitive and superb teacher. She listened acutely to my specific concerns and bolstered my confidence in answering the questions. She taught me how to think critically and helped me through this highly demanding and complex course. I will happily recomend her without a second thought!"
@@ -23,7 +23,7 @@ first_lesson_quote_name: "Serena"
 first_lesson_quote_role: "Student"
 first_lesson_quote_grade: "A-Level"
 
-tutor_strip_heading: "Stratford-upon-Avon A-Level tutors who've written top-band answers themselves"
+tutor_strip_heading: "A-Level tutors for Stratford-upon-Avon students who've written top-band answers themselves"
 tutor_strip_body: "For the last few marks, it helps if the tutor has written at that level and can show your child the difference rather than describe it. Every tutor was interviewed on how clearly they explain under pressure, and many studied at Russell Group universities. Browse profiles, or ask us."
 
 pathways_heading: "Beyond Year 13 in Stratford-upon-Avon and South Warwickshire"

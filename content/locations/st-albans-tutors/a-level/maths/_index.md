@@ -1,13 +1,13 @@
 ---
-title: "St Albans A-Level Maths Tutors | Online | The Degree Gap"
+title: "St Albans A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "St Albans A-Level Maths tutors, online and one-to-one, for the mechanics and statistics questions that so often cost the grade. From £37 an hour, no contract."
+description: "A-Level Maths tutors for St Albans, online and one-to-one, for the mechanics and statistics questions that so often cost the grade. From £37, no contract."
 layout: "level-subject"
 location: "St Albans"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for St Albans, From Pure to Mechanics"
+hero_h1: "A-Level Maths Tutors for St Albans Students"
 hero_lead: "When your child's pure maths looks fine but the mock grade keeps landing lower, it's usually the applied side: mechanics and statistics, the part that gets revised last. Our A-Level Maths tutors for St Albans students start with connected particles, moments and hypothesis testing."
 
 angle_eyebrow: "THE PART OF THE COURSE THAT GETS REVISED LAST"
@@ -39,7 +39,7 @@ steps:
     body: "Then it's a weekly hour online, using the platform Lessonspace, with a replay of every lesson. Your child draws the diagram before touching the algebra, and the tutor marks the working as it goes down. Prices start at £37 an hour, with no contract to sign. If your child and the tutor don't get on, we'll find a different tutor at no charge."
 
 faqs:
-  - q: "My child's looking at degree apprenticeships. Can a St Albans A-Level Maths tutor help?"
+  - q: "My child's looking at degree apprenticeships. Can an A-Level Maths tutor for St Albans students help?"
     a: "Yes. For most of those applications, Maths is the subject that counts most. Engineering, finance and technology employers run degree apprenticeships, many of them within commuting distance of St Albans. They typically ask for A-Levels around AAB with Maths named, and many set a numerical reasoning test when your child applies. So the first job is the predicted grade, because that's what gets the form read at all. The good news? Setting a problem out clearly before solving it is exactly what those tests reward, so the two tend to improve together."
   - q: "How many lessons will it take to move my child's Maths grade?"
     a: "Usually eight to twelve weekly lessons for one grade band. Mechanics tends to be at the quicker end, because the gains come from habits rather than new content. Once your child draws a force diagram every single time, marks can start coming back within weeks. It's slower when the Year 12 pure foundations are shaky, since those have to be rebuilt while school keeps moving on. The first lesson is a proper look at where things stand, and we'll give you an honest estimate after it."

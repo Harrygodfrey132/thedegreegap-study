@@ -7,7 +7,7 @@ location: "Doncaster"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Doncaster Students Who Dread the Writing Questions"
+hero_h1: "GCSE English Tutors for Doncaster Students"
 hero_lead: "About half the English Language marks come from your child's own writing, and a blank page in an exam hall is a lonely thing. Our GCSE English tutors for Doncaster students build a plan your child can use against the clock, then the quotations Literature needs."
 
 angle_eyebrow: "THE WRITING HALF AND THE CLOSED BOOK"

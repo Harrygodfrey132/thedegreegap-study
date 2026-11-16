@@ -1,13 +1,13 @@
 ---
 title: "A-Level Maths Tutors in Cobham | The Degree Gap"
 nav_title: "Maths"
-description: "New sixth form, maybe a new exam board, and Maths that feels harder. Our Cobham A-Level Maths tutors help your child one-to-one online. From £37, no contract."
+description: "New sixth form, maybe a new exam board, and Maths that feels harder. Our A-Level Maths tutors for Cobham help your child one-to-one online. From £37."
 layout: "level-subject"
 location: "Cobham"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutoring for Cobham Teenagers"
+hero_h1: "A-Level Maths Tutors for Cobham Students"
 hero_lead: "For lots of Cobham teenagers, the jump to A-Level Maths comes with a new sixth form, and sometimes a different exam board from GCSE. Our A-Level Maths tutors for Cobham students work with your child one-to-one online, starting with the part of the course that's losing the most marks."
 
 card_eyebrow: "A FREE CHAT ABOUT SIXTH FORM MATHS"

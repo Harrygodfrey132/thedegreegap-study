@@ -1,13 +1,13 @@
 ---
-title: "Baldock GCSE English Tutors | Online | The Degree Gap"
+title: "Baldock GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Flashcards full of quotations and a Literature grade that won't move? Baldock GCSE English tutors help your child choose evidence that works. Online, from £37."
+description: "Flashcards full of quotations and a Literature grade that won't move? GCSE English tutors for Baldock help your child choose evidence that works. Online,"
 layout: "level-subject"
 location: "Baldock"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutoring for Baldock Families"
+hero_h1: "GCSE English Tutors for Baldock Students"
 hero_lead: "Fifty quotations on flashcards, and the Literature grade still hasn't moved. Often they're the wrong fifty. Our GCSE English tutors for Baldock students work one-to-one online with your child on picking evidence that proves a point, and on using context the way examiners reward it."
 
 angle_eyebrow: "THE QUOTATIONS NOBODY NEEDED"

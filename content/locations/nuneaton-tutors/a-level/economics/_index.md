@@ -7,7 +7,7 @@ location: "Nuneaton"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Nuneaton Students Who Know the Theory but Not How to Use It"
+hero_h1: "A-Level Economics Tutors for Nuneaton Students"
 hero_lead: "Your child can define price elasticity in their sleep, then the exam hands them an extract about a real market and the answer stays general. Our A-Level Economics tutors for Nuneaton students practise using the data in front of them, which is where a lot of the marks sit."
 
 angle_eyebrow: "ECONOMICS ON THE DOORSTEP"

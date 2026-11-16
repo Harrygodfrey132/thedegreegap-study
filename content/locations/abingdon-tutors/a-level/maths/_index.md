@@ -1,13 +1,13 @@
 ---
 title: "A-Level Maths Tutors in Abingdon | The Degree Gap"
 nav_title: "Maths"
-description: "At JMF6, Larkmead or Abingdon School, Year 12 Maths moves fast. Our Abingdon A-Level Maths tutors shore up the GCSE algebra it all rests on, online. From £37."
+description: "At JMF6, Larkmead or Abingdon School, Year 12 Maths moves fast. Our A-Level Maths tutors shore up the GCSE algebra it all rests on, online. From £37."
 layout: "level-subject"
 location: "Abingdon"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutoring for Abingdon's Year 12s and 13s"
+hero_h1: "A-Level Maths Tutors for Abingdon Students"
 hero_lead: "Your child was good at GCSE Maths, and now the Year 12 homework takes all evening and still comes back covered in corrections. Our A-Level Maths tutors for Abingdon students find out where the time and the marks are going, one-to-one online, and rebuild from there."
 
 angle_eyebrow: "MATHS, FURTHER MATHS AND THE YEAR 12 STEP"

@@ -5,7 +5,7 @@ layout: "subject"
 location: "Lowestoft"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Lowestoft Students Closing Year 12 Gaps Before the Final Papers"
+hero_heading_line1: "A-Level Tutors for Lowestoft Students"
 hero_heading_line2: ""
 hero_lead: "A topic your child half understood in Year 12 doesn't stay in Year 12. It turns up again in the final papers, often inside the longest question. Our A-Level tutors for Lowestoft students find those gaps early, while there's time to fix them calmly."
 

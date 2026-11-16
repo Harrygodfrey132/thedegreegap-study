@@ -1,13 +1,13 @@
 ---
 title: "Potters Bar GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "For the child who'd rather be doing Maths: our Potters Bar GCSE English tutors build a way into unseen texts and timed writing. Online, from £37 an hour."
+description: "For the child who'd rather be doing Maths: our GCSE English tutors for Potters Bar build a way into unseen texts and timed writing. Online, from £37 an hour."
 layout: "level-subject"
 location: "Potters Bar"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Potters Bar Teenagers"
+hero_h1: "GCSE English Tutors for Potters Bar Students"
 hero_lead: "English is the GCSE where a bright child can drop marks without anyone quite knowing why: an essay that retells the plot, or a story that never reaches its ending. Our GCSE English tutors for Potters Bar students read your child's own writing and fix the habit costing marks."
 
 angle_eyebrow: "FOR THE CHILD WHO PREFERS RIGHT ANSWERS"

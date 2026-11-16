@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors for Buckhurst Hill Teenagers | The Degree Gap"
+title: "GCSE Tutors for Buckhurst Hill Teenagers | The Degree Gap"
 description: "Is one GCSE option harder than your child expected? We'll match Buckhurst Hill students with an online GCSE tutor on their exam board. From £37, no contract."
 layout: "subject"
 location: "Buckhurst Hill"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Buckhurst Hill Students Finding an Option Harder Than Expected"
+hero_heading_line1: "GCSE Tutors for Buckhurst Hill Students"
 hero_heading_line2: ""
 hero_lead: "Back in Year 9, triple Science or Computer Science looked like a sensible pick. Now it's the subject coming home with the lowest marks, and swapping isn't really on the table. Our GCSE tutors for Buckhurst Hill students find where it went wrong and make it manageable again."
 

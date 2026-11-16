@@ -1,13 +1,13 @@
 ---
 title: "Bradford GCSE Science Tuition | The Degree Gap"
 nav_title: "Science"
-description: "GCSE Science tutors covering Bradford for triple and combined award, sorting six papers into a revision plan that holds. From £37 an hour, online."
+description: "GCSE Science tutors for Bradford, for triple and combined award, sorting six papers into a revision plan that holds. From £37 an hour, online."
 layout: "level-subject"
 location: "Bradford"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Bradford When One Grade Covers Six Separate Papers"
+hero_h1: "GCSE Science Tutors for Bradford Students"
 hero_lead: "Combined Science arrives as one grade and gets revised as one subject, usually the week before. Our GCSE Science tutors for Bradford students turn it back into six papers with a plan attached. Sessions run one-to-one and online over Lessonspace."
 
 angle_eyebrow: "SIX PAPERS, ONE NUMBER ON THE SLIP"

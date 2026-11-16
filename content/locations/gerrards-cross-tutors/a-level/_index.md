@@ -5,7 +5,7 @@ layout: "subject"
 location: "Gerrards Cross"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors in Gerrards Cross for the Big Step Up From GCSE"
+hero_heading_line1: "A-Level Tutors for Gerrards Cross Students"
 hero_heading_line2: ""
 hero_lead: "Good GCSEs, then a first A-Level test that comes home with a mark your child can't explain. It's a call we get a lot. Our A-Level tutors for Gerrards Cross students help them find what changed, an hour a week online, long before predicted grades are written."
 
@@ -14,7 +14,7 @@ grade_to: "A"
 grade_stat: "In one parent's words, their child went from Cs to As, with help choosing universities along the way."
 
 first_lesson_eyebrow: "THE FIRST TEST OF YEAR 12"
-first_lesson_heading: "Why a Gerrards Cross A-Level Tutor Asks to See That First Test"
+first_lesson_heading: "Why an A-Level Tutor for Gerrards Cross Students Asks to See That First Test"
 first_lesson_context: "That first test, the one that came back well below anything your child got at GCSE, says a lot. When an A-Level tutor goes through it with them, the drop nearly always comes down to the way the questions are asked, not how able your child is. And that's very fixable."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"

@@ -1,23 +1,23 @@
 ---
 title: "Derby A-Level Tutors | Russell Group & Oxbridge"
-description: "Derby A-Level tutors, online and one-to-one, for when the Year 12 mock comes home low. A free call with Harry or Joe first, then lessons from £37, no contract."
+description: "A-Level tutors for Derby, online and one-to-one, for when the Year 12 mock comes home low. A free call with Harry or Joe first, then lessons from £37."
 layout: subject
 location: Derby
 level: A-Level
-hero_heading_line1: "Online Derby A-Level Tutors for a Mock Grade That Won't Reach the Offer"
+hero_heading_line1: "A-Level Tutors for Derby Students"
 hero_heading_line2: ""
 hero_lead: "Universities see your child's predicted grades long before any results. Right now the mocks point to a grade short of the course they want, and nobody's quite sure why. Our A-Level tutors for Derby students find where those marks went, well before school writes the predictions."
 grade_from: E
 grade_to: C
 grade_stat: "One parent's son left revision until the last minute and still turned E and U grades into three Cs."
 first_lesson_eyebrow: FROM YEAR 12 MOCKS TO YEAR 13 OFFER
-first_lesson_heading: "The First Paper a Derby A-Level Tutor Asks to See"
-first_lesson_context: "Year 12 results carry a lot of weight in your child's predicted grade. So a Derby A-Level tutor's first lesson goes through a recent marked paper, looking for the longer questions near the end where the marks quietly slipped. The plan for Year 13 starts from there."
+first_lesson_heading: "The First Paper an A-Level Tutor for Derby Students Asks to See"
+first_lesson_context: "Year 12 results carry a lot of weight in your child's predicted grade. So an A-Level tutor for Derby students's first lesson goes through a recent marked paper, looking for the longer questions near the end where the marks quietly slipped. The plan for Year 13 starts from there."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: Joanna
 first_lesson_quote_role: Parent of A-Level Student
 first_lesson_quote_grade: E and U grades to three C grades
-tutor_strip_heading: "Derby A-Level tutors who know what Nottingham and Loughborough want"
+tutor_strip_heading: "A-Level tutors for Derby students who know what Nottingham and Loughborough want"
 tutor_strip_body: "Lots of Derby families have one eye on Nottingham, Loughborough or Sheffield, and the tutors on our platform have worked with Year 12s and 13s aiming for all three. Have a look below, or let us pick two or three for your child."
 pathways_heading: "After Derby A-Levels: Where Your Child Might Head"
 pathways_lead: "Most Derby families end up weighing up one of these, and often two at once."

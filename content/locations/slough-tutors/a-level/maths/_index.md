@@ -7,7 +7,7 @@ location: "Slough"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "A-Level Maths Tutors for Slough, With University and Apprenticeship in View"
+hero_h1: "A-Level Maths Tutors for Slough Students"
 hero_lead: "Maybe your child's weighing up Reading or Brunel against an apprenticeship at Heathrow, and hasn't decided yet. That's fine. Both kinds of offer look hard at the Maths grade, and our A-Level Maths tutors for Slough students work one-to-one online on the marks that keep both open."
 
 angle_eyebrow: "TWO ROUTES, ONE MATHS GRADE"
@@ -29,7 +29,7 @@ schools:
   - "The Westgate School"
   - "Baylis Court School"
 
-steps_heading: "Finding a Slough A-Level Maths tutor, step by step"
+steps_heading: "Finding an A-Level Maths tutor for Slough students, step by step"
 steps_lead: "Profiles usually land within a day. Let us know which offer comes first, the university one or the apprenticeship one, as their calendars differ."
 steps:
   - title: "Talk to Harry or Joe"
@@ -40,7 +40,7 @@ steps:
     body: "An hour a week, one-to-one, in the online classroom Lessonspace. Your child does the working and the tutor watches the method, not just the answer, and there's a replay of every lesson. The plan runs to the prediction date first and the exam second. Lessons are from £37 an hour, paid one at a time, with no contract. And if the tutor isn't a good fit for your child, we'll suggest someone else at no extra cost."
 
 faqs:
-  - q: "Can a Slough A-Level Maths tutor help my child apply for a Heathrow degree apprenticeship?"
+  - q: "Can an A-Level Maths tutor for Slough students help my child apply for a Heathrow degree apprenticeship?"
     a: "Yes, on the grades side, which is most of it. Heathrow's degree-level schemes publish their own entry requirements, and the more technical routes look closely at Maths. Applications run to Heathrow's calendar, not the UCAS one, so your child's predicted grade gets read early. The tutor works on the Year 12 performance that prediction comes from. On the call we'll ask which route's first choice, so the plan follows the earlier deadline. The application itself stays your child's own work."
   - q: "How much homework should my child do between Maths lessons?"
     a: "Roughly an hour to 90 minutes a week, set by the tutor and marked before the next lesson. Usually that's two or three exam questions on the lesson's topic, done against the clock, plus one question from an older topic so nothing quietly slips away. Much more than that and you tend to get tired working rather than better working. The marking is what counts. A wrong answer nobody checks teaches the wrong method twice."

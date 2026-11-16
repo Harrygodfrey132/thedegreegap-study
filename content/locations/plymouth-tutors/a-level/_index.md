@@ -1,11 +1,11 @@
 ---
 title: "Plymouth A-Level Tutors | Expert Support | The Degree Gap"
-description: "Plymouth A-Level tutors for the Year 12 work that sets the predicted grade. Online one-to-one lessons matched on the specification, from £37 an hour."
+description: "A-Level tutors for Plymouth, for the Year 12 work that sets the predicted grade. Online one-to-one lessons matched on the specification, from £37 an hour."
 layout: "subject"
 location: "Plymouth"
 level: "A-Level"
 
-hero_heading_line1: "A-Level tutoring for Plymouth students that closes the Year 12 gap before predictions go out"
+hero_heading_line1: "A-Level Tutors for Plymouth Students"
 hero_heading_line2: ""
 hero_lead: "Most A-Level worry turns up in the same week: a first proper paper comes back and the mark looks nothing like GCSE. Our A-Level tutors for Plymouth students start with that script, one-to-one online over Lessonspace, and work out whether it is content, method or the clock."
 
@@ -14,7 +14,7 @@ grade_to: "C"
 grade_stat: "Three C grades at A-Level for a student whose earlier work had been sitting at E and U."
 
 first_lesson_eyebrow: "WHEN THE FIRST PAPER LANDS"
-first_lesson_heading: "How a Plymouth A-Level Tutor Reads a Bad Script"
+first_lesson_heading: "How an A-Level Tutor for Plymouth Students Reads a Bad Script"
 first_lesson_context: "A-Level marks get lost in a small number of repeatable ways, and the script says which one it was. Content that never landed is one problem, a badly chosen method is another, and running out of time is a third, and all three need a different term of work. So an A-Level tutor spends much of the first hour sorting the lost marks into those piles rather than teaching anything."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"

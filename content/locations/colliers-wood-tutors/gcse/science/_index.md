@@ -7,7 +7,7 @@ location: "Colliers Wood"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Colliers Wood Students Tripped Up by the Calculations"
+hero_h1: "GCSE Science Tutors for Colliers Wood Students"
 hero_lead: "Your child can explain photosynthesis perfectly, then drops marks the moment a question asks them to rearrange an equation or convert to kilojoules. Our GCSE Science tutors for Colliers Wood students work on the maths inside each science, alongside the content."
 
 angle_eyebrow: "THE MATHS HIDING IN SCIENCE"

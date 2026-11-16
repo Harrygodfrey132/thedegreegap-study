@@ -1,9 +1,9 @@
 ---
 title: "Gerrards Cross Tutors | One-to-One Tuition | The Degree Gap"
-description: "The 11+ settled a school place, not how far your child can go. Our Gerrards Cross tutors work online, matched to the exam board for each subject. From £37."
+description: "The 11+ settled a school place, not how far your child can go. Our tutors for Gerrards Cross work online, matched to the exam board for each subject. From £37."
 layout: "single"
 location: "Gerrards Cross"
-banner_heading: "Online Gerrards Cross tutors for whichever school your child ended up at"
+banner_heading: "GCSE and A-Level Tutors for Gerrards Cross Families"
 banner_description: "In Gerrards Cross, children from the same primary class often scatter to different schools, on different exam boards. So we match your child with a tutor who knows the papers they'll actually sit, and every lesson happens at home, online."
 content_angle: "one town, many secondaries: children from the same street spread across the upper school, the grammars and the independents, each on its own boards and timetable"
 intro_1: "Stand at a Gerrards Cross school gate at the end of Year 6 and you'll hear a whole list of different Septembers. The town doesn't have a state secondary of its own. Its upper school, The Chalfonts Community College, is up the road in Chalfont St Peter. The grammar places are spread out too: Dr Challoner's in Amersham, Beaconsfield High, and the two boys' grammars in High Wycombe. Plenty of children stay on at St Mary's or Thorpe House in the town itself. So friends who sat together for seven years go their separate ways. Brothers and sisters often do too, which is how you end up with two parents' evenings on the same night. And the 11+ result that sorted all this out can hang around for years. Some children treat it as a verdict on how clever they are. It isn't."

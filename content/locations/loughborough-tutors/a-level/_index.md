@@ -1,11 +1,11 @@
 ---
 title: "Loughborough A-Level Tutors | Year 12 and Year 13 | The Degree Gap"
-description: "Is one A-Level grade holding back the course your child wants? Loughborough A-Level tutors who put the hour where it counts. Online, from £37, no contract."
+description: "Is one A-Level grade holding back the course your child wants? A-Level tutors for Loughborough who put the hour where it counts. Online, from £37, no contract."
 layout: "subject"
 location: "Loughborough"
 level: "A-Level"
 
-hero_heading_line1: "Online Loughborough A-Level Tutors for the One Grade Your Child's Course Needs"
+hero_heading_line1: "A-Level Tutors for Loughborough Students"
 hero_heading_line2: ""
 hero_lead: "Two of your child's predictions look fine, and the third is a band short in the one subject their course cares about most. It's a really common spot, and a smaller job than it sounds. Our A-Level tutors for Loughborough students put the whole hour into that subject, not three."
 
@@ -15,7 +15,7 @@ grade_stat: "B to A: what a year of weekly lessons usually aims for when one sub
 grade_card: "aim"
 
 first_lesson_eyebrow: "ONE SUBJECT, NOT THREE"
-first_lesson_heading: "Why a Loughborough A-Level Tutor Often Starts With Just One Subject"
+first_lesson_heading: "Why an A-Level Tutor for Loughborough Students Often Starts With Just One Subject"
 first_lesson_context: "Most competitive courses ask for a set grade in a set subject: engineering won't swap Maths for a strong Geography grade. So if your child's Year 12 results show two solid grades and one lagging behind, the plan's narrower and cheaper than you'd expect. The A-Level tutor's first lesson checks whether it's the content or the method that's slipping, because they take very different amounts of time to fix."
 
 first_lesson_quote: "Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
@@ -23,7 +23,7 @@ first_lesson_quote_name: "Sureet"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "A-Level Physics"
 
-tutor_strip_heading: "Loughborough A-Level tutors picked for your child's board and options"
+tutor_strip_heading: "A-Level tutors for Loughborough students picked for your child's board and options"
 tutor_strip_body: "Two children doing A-Level Physics can be on different boards, or on different optional topics within one. So we check your child's board and options on the call, then suggest Russell Group graduates who know them. Browse the profiles, or let us pick."
 
 pathways_heading: "Where A-Levels Can Lead From Loughborough"

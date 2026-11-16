@@ -1,13 +1,13 @@
 ---
 title: "GCSE Maths Tutors in Esher | The Degree Gap"
 nav_title: "Maths"
-description: "A 4 for college, or the 6 Esher Sixth Form College asks for before A-Level Maths? Our Esher GCSE Maths tutors help your child find the marks, from £37."
+description: "A 4 for college, or the 6 Esher Sixth Form College asks for before A-Level Maths? Our online GCSE Maths tutors help Esher students find the marks."
 layout: "level-subject"
 location: "Esher"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Esher Families"
+hero_h1: "GCSE Maths Tutors for Esher Students"
 hero_lead: "In a year of college applications, Maths can slip without anyone noticing, and it's a grade that follows your child to whichever course they choose. Our GCSE Maths tutors for Esher students find where the marks start leaking, often algebra or the non-calculator paper, and work on that first, one-to-one online."
 
 card_eyebrow: "FREE CONSULTATION"
@@ -35,7 +35,7 @@ schools:
   - "Claremont Fan Court School"
   - "The Hollyfield School and Sixth Form Centre"
 
-steps_heading: "How your child gets started with an Esher GCSE Maths tutor"
+steps_heading: "How your child gets started with a GCSE Maths tutor for Esher students"
 steps_lead: "Not sure whether your child is down for Higher or Foundation? That's fine. It's one of the things we can work out together on the call."
 steps:
   - title: "Talk it through with us"

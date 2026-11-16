@@ -1,9 +1,9 @@
 ---
-title: "Online Tutoring for Fulham Families | The Degree Gap"
+title: "Tutoring for Fulham Families | The Degree Gap"
 description: "Is your child tired of tutors after years of entrance-test practice? We'll match them in Fulham with an online tutor they choose. Free call first, from £37."
 layout: "single"
 location: "Fulham"
-banner_heading: "Online tutoring for Fulham teenagers who are tired of being tutored"
+banner_heading: "GCSE and A-Level Tutors for Fulham Families"
 banner_description: "After years of practice papers, more of the same rarely helps. We find one tutor, from anywhere in the UK, who suits your child, and start with the one subject that's actually stuck."
 content_angle: "tutored out: Hammersmith and Fulham has no grammar schools, so plenty of Fulham children spent years on practice papers for 7+, 11+ or 13+ entry to independent schools, and by GCSE they're tired of tutors; parents are caught between not wanting to push and not wanting to leave a slipping subject, so lessons are one subject, at the child's pace, with a tutor the child has met and chosen, and easy to stop"
 intro_1: "If your child spent Year 5 and Year 6 doing practice papers at the kitchen table, you'll know the look they give you when anyone mentions a tutor. Hammersmith and Fulham has no grammar schools, so most of the entrance tests children here sit, at 7, 11 or 13, are for independent schools, and plenty of Fulham families paid for help to get through them. It worked, or it didn't. Either way, by Year 9 a lot of children have had enough. Then a Chemistry mark slips, or English comes back a grade lower than last year, and you're stuck between not wanting to push and not wanting to leave it."

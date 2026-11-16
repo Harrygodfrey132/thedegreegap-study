@@ -1,13 +1,13 @@
 ---
-title: "Stevenage Online GCSE Science Tutors | The Degree Gap"
+title: "Stevenage GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Did your child fall behind in Science and never quite catch up? Our Stevenage GCSE Science tutors go back to the topics that slipped. From £37, no contract."
+description: "Fell behind in Science and never quite caught up? Our online GCSE Science tutors go back to the topics that slipped for Stevenage students. From £37."
 layout: "level-subject"
 location: "Stevenage"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Stevenage, Matched on Exam Board"
+hero_h1: "GCSE Science Tutors for Stevenage Students"
 hero_lead: "If your child fell behind in November, they're often still behind in May. Combined Science covers a lot, fast, and a class can't stop long enough for one child to catch up. Our GCSE Science tutors for Stevenage students give them the time to go back over it properly."
 
 angle_eyebrow: "WHEN SCIENCE MOVES FASTER THAN YOUR CHILD"

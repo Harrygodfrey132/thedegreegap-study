@@ -1,13 +1,13 @@
 ---
-title: "Hemel Hempstead GCSE English Tutors | Online | The Degree Gap"
+title: "Hemel Hempstead GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Your child's own writing carries half the marks in GCSE English Language. Our Hemel Hempstead GCSE English tutors work on it online, one-to-one, from £37."
+description: "Your child's own writing carries half the marks in GCSE English Language. Our GCSE English tutors for Hemel Hempstead work on it online, one-to-one, from £37."
 layout: "level-subject"
 location: "Hemel Hempstead"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutoring for Hemel Hempstead Families, Starting With Your Child's Own Writing"
+hero_h1: "GCSE English Tutors for Hemel Hempstead Students"
 hero_lead: "Half the marks in English Language go on your child's own writing, judged on how it's built and how accurately it's written. Our GCSE English tutors for Hemel Hempstead students work online on that half, because it's usually the easiest part to move."
 
 angle_eyebrow: "THE HALF THAT'S THEIR OWN WRITING"

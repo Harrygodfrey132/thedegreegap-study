@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors for Beckenham Students | The Degree Gap"
+title: "GCSE Tutors for Beckenham Students | The Degree Gap"
 description: "Has your child gone quiet on one GCSE subject? We'll match Beckenham students with an online GCSE tutor on their exam board. Free call first, from £37 an hour."
 layout: "subject"
 location: "Beckenham"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Beckenham Students Who've Gone Quiet on One Subject"
+hero_heading_line1: "GCSE Tutors for Beckenham Students"
 hero_heading_line2: ""
 hero_lead: "Is there one GCSE subject your child has stopped talking about, or stopped trying in? Our GCSE tutors for Beckenham students start right there, find the topic where it went wrong, and rebuild it with them from home."
 

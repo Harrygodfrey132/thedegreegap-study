@@ -1,13 +1,13 @@
 ---
 title: "Bath GCSE Science Tuition | Triple and Combined | The Degree Gap"
 nav_title: "Science"
-description: "Has your child's Science slipped on topics taught back in Year 10? Our Bath GCSE Science tutors go back for them one-to-one online, before the Year 11 mocks."
+description: "Has your child's Science slipped on topics taught back in Year 10? Our GCSE Science tutors for Bath go back for them online, before the Year 11 mocks."
 layout: "level-subject"
 location: "Bath"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Bath, Finding the Year 10 Topics That Cost Marks"
+hero_h1: "GCSE Science Tutors for Bath Students"
 hero_lead: "A disappointing Science mock often comes down to the oldest topics. The first paper in each science usually tests what was taught earliest, back in Year 9 and 10, and revision gets to it last. Our GCSE Science tutors for Bath students go back over it with your child, one-to-one online."
 
 angle_eyebrow: "THE HALF OF THE COURSE TAUGHT A YEAR EARLY"
@@ -29,7 +29,7 @@ schools:
   - "St Gregory's Catholic College"
   - "Wellsway School"
 
-steps_heading: "Finding a GCSE Science tutor in Bath: how it works"
+steps_heading: "Finding a GCSE Science tutor for Bath students: how it works"
 steps_lead: "If your child's sat a mock, tell us which paper lost the most marks, not which science. That's the question the first lesson sets out to answer."
 steps:
   - title: "A call to get to know you"

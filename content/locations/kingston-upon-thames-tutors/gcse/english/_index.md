@@ -1,13 +1,13 @@
 ---
 title: "Kingston upon Thames GCSE English Tuition | The Degree Gap"
 nav_title: "English"
-description: "Your child knows the set texts inside out, yet the essays score a band lower? Kingston upon Thames GCSE English tutors, online and one-to-one, from £37 an hour."
+description: "Your child knows the set texts inside out, yet the essays score a band lower? GCSE English tutors for Kingston upon Thames, online and one-to-one, from £37."
 layout: "level-subject"
 location: "Kingston upon Thames"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Kingston upon Thames Teenagers Who Know More Than They Score"
+hero_h1: "GCSE English Tutors for Kingston upon Thames Students"
 hero_lead: "Your child can talk about their set text for twenty minutes, then the essay comes back a band lower than that chat deserved. Our GCSE English tutors for Kingston upon Thames students work one-to-one online on the gap between what your child knows and what the marker actually sees."
 
 angle_eyebrow: "THE ESSAY THAT ANSWERS A DIFFERENT QUESTION"

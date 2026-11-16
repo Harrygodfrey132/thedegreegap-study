@@ -7,7 +7,7 @@ location: "Bury St Edmunds"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Bury St Edmunds Students, Whatever Grade They Need"
+hero_h1: "GCSE Maths Tutors for Bury St Edmunds Students"
 hero_lead: "For some Bury families the Maths grade decides an A-Level place at Abbeygate, and for others it's the pass a college course or apprenticeship asks for. Our GCSE Maths tutors for Bury St Edmunds students work out which questions are losing your child marks, and begin with those."
 
 angle_eyebrow: "TWO KINDS OF MATHS TARGET"

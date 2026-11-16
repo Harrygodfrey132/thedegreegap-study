@@ -1,11 +1,11 @@
 ---
 title: "Amersham GCSE Tutors | Year 10 and 11 | The Degree Gap"
-description: "Amersham GCSE tutors for the year your child's sixth form place rests on their results. One-to-one and online, matched to their exam board, from £37 an hour."
+description: "GCSE tutors for Amersham, for the year your child's sixth form place rests on their results. One-to-one and online, matched to their exam board, from £37."
 layout: "subject"
 location: "Amersham"
 level: "GCSE"
 
-hero_heading_line1: "GCSE Tutors for Amersham Students, in the Year That Decides Their Sixth Form"
+hero_heading_line1: "GCSE Tutors for Amersham Students"
 hero_heading_line2: ""
 hero_lead: "The sixth form application's open on the laptop, and one subject still isn't where it needs to be. Whether your child stays put or moves at 16, it's their GCSE results that count. Our GCSE tutors for Amersham students work one-to-one and online on whichever subject is falling short."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "A Year 10 boy who'd switched off from English went from a grade 5 to a 6/7 over six months of lessons."
 
 first_lesson_eyebrow: "STAY, OR APPLY ELSEWHERE?"
-first_lesson_heading: "What an Amersham GCSE Tutor Checks Before the Sixth Form Applications Go In"
+first_lesson_heading: "What a GCSE Tutor for Amersham Students Checks Before the Sixth Form Applications Go In"
 first_lesson_context: "Your child might be applying to Dr Challoner's Grammar or Dr Challoner's High, staying on at The Amersham School or Chesham Grammar, or off to college. Each of those will be looking at the same GCSE results. So the first lesson pins down the course and which grade is missing, then goes through a marked paper to find out why."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 6/7 in English"
 
-tutor_strip_heading: "Amersham GCSE tutors picked for the one subject that's short"
+tutor_strip_heading: "GCSE tutors for Amersham students picked for the one subject that's short"
 tutor_strip_body: "Two marks short of a sixth form's entry grade is a very different job from rebuilding Year 8 Maths. So we'll ask which it is, and check your child's exam board. We interview every tutor ourselves, and only about 3% of those who apply get through."
 
 pathways_heading: "Where Your Amersham Year 11 Could Go in September"

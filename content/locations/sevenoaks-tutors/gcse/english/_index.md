@@ -1,13 +1,13 @@
 ---
-title: "Sevenoaks GCSE English Tutors | Online | The Degree Gap"
+title: "Sevenoaks GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "A keen reader whose English grade doesn't match? Sevenoaks GCSE English tutors work online on essay structure, unseen poetry and timing. From £37 an hour."
+description: "A keen reader whose English grade doesn't match? GCSE English tutors for Sevenoaks work online on essay structure, unseen poetry and timing. From £37 an hour."
 layout: "level-subject"
 location: "Sevenoaks"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Sevenoaks Families, Focused on the Writing"
+hero_h1: "GCSE English Tutors for Sevenoaks Students"
 hero_lead: "It's hard to watch. Your child reads everything, understands all of it, and still loses marks on the essay. Our GCSE English tutors for Sevenoaks students work online, one-to-one, on the kind of writing the mark scheme rewards, because the reading was never the problem."
 
 angle_eyebrow: "KNOWING THE BOOK ISN'T THE SAME AS SCORING ON IT"

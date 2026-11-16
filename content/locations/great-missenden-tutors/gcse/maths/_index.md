@@ -7,7 +7,7 @@ location: "Great Missenden"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Great Missenden Students Who Dread the Non-Calculator Paper"
+hero_h1: "GCSE Maths Tutors for Great Missenden Students"
 hero_lead: "Take the calculator away and your child's working slows right down, as fractions, negatives and long division all start to wobble. Our GCSE Maths tutors for Great Missenden students make that arithmetic quick and sure, so there's time left for the harder questions."
 
 angle_eyebrow: "THE PAPER WITH NOTHING TO CATCH A SLIP"

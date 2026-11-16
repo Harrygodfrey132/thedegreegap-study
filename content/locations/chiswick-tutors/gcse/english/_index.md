@@ -7,7 +7,7 @@ location: "Chiswick"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Chiswick Students Stuck on 'To What Extent Do You Agree?'"
+hero_h1: "GCSE English Tutors for Chiswick Students"
 hero_lead: "Your child reads the extract, agrees with the statement in a line, then spends a page listing techniques. Our GCSE English tutors for Chiswick students show them how to weigh a statement up, with evidence, in the time the paper actually allows."
 
 angle_eyebrow: "TWENTY MARKS ON ONE QUESTION"

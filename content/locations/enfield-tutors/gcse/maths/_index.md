@@ -7,7 +7,7 @@ location: "Enfield"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutoring for Your Child in Enfield, Higher or Foundation"
+hero_h1: "GCSE Maths Tutors for Enfield Students"
 hero_lead: "Some Enfield parents hear their child is on the line between Foundation and Higher; others are told a 7 is needed for A-Level Maths. Our GCSE Maths tutors for Enfield students work out where your child really is and start from there."
 
 angle_eyebrow: "THE TIER QUESTION AND THE GRADE 7 QUESTION"

@@ -7,7 +7,7 @@ location: "Walton-on-Thames"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Walton-on-Thames Students Stuck on the Algebra"
+hero_h1: "GCSE Maths Tutors for Walton-on-Thames Students"
 hero_lead: "Your child copes with the number questions, then anything with an x in it starts losing marks, and that matters well beyond Maths. Our GCSE Maths tutors for Walton-on-Thames students rebuild the algebra first, then practise it on your child's own board's papers."
 
 angle_eyebrow: "THE GRADE THE SCIENCES ASK FOR"

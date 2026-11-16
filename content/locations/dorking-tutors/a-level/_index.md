@@ -1,11 +1,11 @@
 ---
-title: "A-Level Tuition for Dorking Sixth Formers | Online One-to-One | The Degree Gap"
+title: "A-Level Tuition for Dorking Sixth Formers | One-to-One | The Degree Gap"
 description: "Has Year 12 started badly for your child? We match Dorking sixth formers with an online A-Level tutor on their exam board, well before the June exams. From £37."
 layout: "subject"
 location: "Dorking"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Dorking Sixth Formers Before the Year 12 Summer Exams"
+hero_heading_line1: "A-Level Tutors for Dorking Students"
 hero_heading_line2: ""
 hero_lead: "Year 12 can feel like a gentle start, then summer exams arrive that, at some sixth forms, decide whether a subject carries on into Year 13. Our A-Level tutors for Dorking students find the topic that's slipping in the autumn, while there's still time to put it right."
 
@@ -14,7 +14,7 @@ grade_to: "C"
 grade_stat: "“who had left studying until the final hour, managing to turn E and U grades into 3 C grades.” Joanna, Parent of A-Level Student, on Google, without naming the subjects"
 
 first_lesson_eyebrow: "WHAT JUNE OF YEAR 12 DECIDES"
-first_lesson_heading: "Why a Dorking A-Level Tutor Plans Back From the Year 12 Progression Exams"
+first_lesson_heading: "Why an A-Level Tutor for Dorking Students Plans Back From the Year 12 Progression Exams"
 first_lesson_context: "At the Ashcombe, Year 12 ends with Progression Exams in June, and the sixth form guide says students need at least two E grades to carry on into Year 13, with a U in a subject taken as a sign it isn't working unless there are exceptional circumstances. Wherever your child studies, those summer results also feed into the predicted grades that go to UCAS. So an A-Level tutor spends the autumn finding which subject is drifting, and why."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades."
 first_lesson_quote_name: "Joanna"

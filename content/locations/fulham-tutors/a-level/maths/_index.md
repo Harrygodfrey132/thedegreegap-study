@@ -7,7 +7,7 @@ location: "Fulham"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Fulham Students Lost in Logs and Exponentials"
+hero_h1: "A-Level Maths Tutors for Fulham Students"
 hero_lead: "Logarithms arrive in Year 12, look like a new language, and then turn up everywhere from modelling questions to calculus. Our A-Level Maths tutors for Fulham students make the laws of logs feel ordinary, so the questions built on them stop being guesswork."
 
 angle_eyebrow: "THE LAWS OF LOGS"

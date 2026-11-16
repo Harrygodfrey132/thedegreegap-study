@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors for Wokingham Teenagers | The Degree Gap"
+title: "GCSE Tutors for Wokingham Teenagers | The Degree Gap"
 description: "Are your child's predicted grades ready for sixth form applications? We match Wokingham teenagers with an online GCSE tutor on their exam board. From £37."
 layout: "subject"
 location: "Wokingham"
 level: "GCSE"
 
-hero_heading_line1: "Online Wokingham GCSE Tutors for the Year 11 Autumn When Sixth Form Applications Open"
+hero_heading_line1: "GCSE Tutors for Wokingham Students"
 hero_heading_line2: ""
 hero_lead: "By November of Year 11, your child is filling in sixth form forms with predicted grades nobody's quite sure about. Our GCSE tutors for Wokingham students find the subject that's furthest off and work on it every week, so there's a plan long before the summer."
 
@@ -21,7 +21,7 @@ first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 → Grade 6/7 in GCSE English"
 
-tutor_strip_heading: "Wokingham GCSE tutors who ask which board before anything else"
+tutor_strip_heading: "GCSE tutors for Wokingham students who ask which board before anything else"
 tutor_strip_body: "But boards differ even between neighbours. At The Holt, GCSE Maths has been Edexcel and the sciences OCR Gateway, while Bohunt Wokingham's options booklet listed AQA for both. So we match each subject separately. Have a look at the profiles below, or leave the choosing to us."
 
 pathways_heading: "What Wokingham Year 11s Apply For Next"

@@ -1,11 +1,11 @@
 ---
 title: "Stourbridge GCSE Tutors | Built Around Your Child | The Degree Gap"
-description: "Will a sixth form add up your child's GCSE grades? A Stourbridge GCSE tutor can work on the subjects nearest the next grade. Online, from £37, no contract."
+description: "Will a sixth form add up your child's GCSE grades? A GCSE tutor for Stourbridge can work on the subjects nearest the next grade. Online, from £37, no contract."
 layout: "subject"
 location: "Stourbridge"
 level: "GCSE"
 
-hero_heading_line1: "Online Stourbridge GCSE Tutors for the Subjects Closest to Going Up a Grade"
+hero_heading_line1: "GCSE Tutors for Stourbridge Students"
 hero_heading_line2: ""
 hero_lead: "When your child applies for sixth form, their GCSE grades can end up added together, not just checked for English and Maths. Our GCSE tutors for Stourbridge students find the subjects nearest the next grade, whatever grade your child is on now, and start there."
 
@@ -14,7 +14,7 @@ grade_to: "6/7"
 grade_stat: "“My son, who is in Year 10, really struggled with English…” and “…he has improved from a grade 5 to a 6/7.” Omo, a parent, on Google"
 
 first_lesson_eyebrow: "SIX GRADE 5s MAKE 30"
-first_lesson_heading: "Why a Stourbridge GCSE Tutor Starts With the Points Total"
+first_lesson_heading: "Why a GCSE Tutor for Stourbridge Students Starts With the Points Total"
 first_lesson_context: "King Edward VI College currently asks for 32 points from your child's best six GCSEs, where a 5 is worth 5 and a 7 is worth 7, and six 5s only come to 30. It's a strange sum to watch a 15-year-old work out at the kitchen table. So a GCSE tutor looks at the whole report first, picks out the one or two subjects nearest the next grade, and begins with those."
 first_lesson_quote: "I honestly can’t believe I’m saying this, but he now looks forward to his lessons."
 first_lesson_quote_name: "Omo"

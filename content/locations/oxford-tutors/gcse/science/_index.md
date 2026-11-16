@@ -1,13 +1,13 @@
 ---
-title: "Oxford GCSE Science Tutors | Online | The Degree Gap"
+title: "Oxford GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Can your child explain the required practicals on paper, not just remember doing them? Our Oxford GCSE Science tutors work on exactly that. From £37 an hour."
+description: "Can your child explain the required practicals on paper, not just remember doing them? Our online GCSE Science tutors work on that with Oxford students."
 layout: "level-subject"
 location: "Oxford"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutoring for Oxford Families"
+hero_h1: "GCSE Science Tutors for Oxford Students"
 hero_lead: "Your child did the required practicals in a school lab, some a year ago, and the exam will ask about them as if every step had been learned by heart. Our GCSE Science tutors for Oxford students go back over each one until your child can explain it."
 
 angle_eyebrow: "THE MARKS NOBODY REVISES FOR"
@@ -27,7 +27,7 @@ schools:
   - "Matthew Arnold School"
   - "The Swan School"
 
-steps_heading: "Finding Your Child an Oxford Science Tutor in Three Steps"
+steps_heading: "Finding Your Child a Science Tutor for Oxford Students in Three Steps"
 steps_lead: "Expect two or three tutor profiles within 24 hours of our call. We'll also help you work out which of the three sciences to focus on first."
 steps:
   - title: "A free call about your child"

@@ -1,11 +1,11 @@
 ---
 title: "Stamford GCSE Tutors | Built Around Your Child | The Degree Gap"
-description: "GCSE grades shape where your child goes at 16, whatever their school. Our Stamford GCSE tutors start from your child's own mock, online. From £37 an hour."
+description: "GCSE grades shape where your child goes at 16, whatever their school. Our GCSE tutors for Stamford start from your child's own mock, online. From £37 an hour."
 layout: "subject"
 location: "Stamford"
 level: "GCSE"
 
-hero_heading_line1: "Online Stamford GCSE Tutors for a Predicted Grade That Feels Too Low"
+hero_heading_line1: "GCSE Tutors for Stamford Students"
 hero_heading_line2: ""
 hero_lead: "Predicted grades lower than anyone hoped can make for a quiet drive home from parents' evening, whether that's across Stamford or back from Bourne or Deeping. Our GCSE tutors for Stamford students start with the mock behind those grades, one-to-one online, and work on the topics costing the most marks."
 
@@ -14,14 +14,14 @@ grade_to: "8"
 grade_stat: "Chamarika's son had a predicted 4-5 in GCSE Physics, and he made it an 8."
 
 first_lesson_eyebrow: "A PREDICTED 4-5 IN PHYSICS"
-first_lesson_heading: "Where a Stamford GCSE Tutor Starts When Time Is Short"
+first_lesson_heading: "Where a GCSE Tutor for Stamford Students Starts When Time Is Short"
 first_lesson_context: "Not every family starts in Year 10, and that's fine. Whenever your child begins, the GCSE tutor spends the first lesson on their latest marked paper, picking out the few topics where most of the marks are slipping away, and those come first."
 first_lesson_quote: "Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. …"
 first_lesson_quote_name: "Chamarika"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Predicted 4-5 to an 8 in GCSE Physics"
 
-tutor_strip_heading: "Stamford GCSE tutors for every school, whichever county it's in"
+tutor_strip_heading: "GCSE tutors for Stamford students, for every school, whichever county it's in"
 tutor_strip_body: "Stamford Welland, Stamford School, Bourne Grammar and Casterton College each choose their own GCSE courses and boards. Tell us which one, and we'll suggest tutors who know its papers. Scroll through a few below, or ask us to pick."
 
 pathways_heading: "The Choices Facing a Stamford Year 11"

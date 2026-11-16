@@ -1,13 +1,13 @@
 ---
 title: "Harrow A-Level Maths Tuition | From £37/hr"
 nav_title: "Maths"
-description: "Your child follows A-Level Maths in class, then freezes on a paper? Our Harrow tutors work on choosing the method, online and one-to-one. From £37, no contract."
+description: "Your child follows A-Level Maths in class, then freezes on a paper? Our tutors for Harrow work on choosing the method, online and one-to-one. From £37."
 layout: "level-subject"
 location: "Harrow"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutoring in Harrow, for When Lessons Make Sense but Papers Don't"
+hero_h1: "A-Level Maths Tutors for Harrow Students"
 hero_lead: "Following every method in class, then sitting in front of a past paper with no idea which one a question wants: if that's your child, they're far from alone. Our A-Level Maths tutors for Harrow students work on exactly that, one-to-one online, with mixed questions that never name the topic."
 
 angle_eyebrow: "FINE IN CLASS, STUCK ON THE PAPER"

@@ -7,7 +7,7 @@ location: "Nuneaton"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Nuneaton Students With One Grade Deciding a Lot"
+hero_h1: "GCSE Maths Tutors for Nuneaton Students"
 hero_lead: "At 16, your child's Maths grade turns up in the entry rules for far more than A-Level Maths. Our GCSE Maths tutors for Nuneaton students find the algebra and problem-solving questions losing your child marks, and work on those first."
 
 angle_eyebrow: "ONE GRADE, SEVERAL COURSES"

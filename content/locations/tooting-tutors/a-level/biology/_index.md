@@ -7,7 +7,7 @@ location: "Tooting"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Tooting Students Thrown by Questions They've Never Seen"
+hero_h1: "A-Level Biology Tutors for Tooting Students"
 hero_lead: "Your child can recite the notes, then the exam describes an experiment on an organism they've never heard of and the marks slip away. Our A-Level Biology tutors for Tooting students practise exactly that kind of question until it feels routine."
 
 angle_eyebrow: "AN EXPERIMENT THEY'VE NEVER MET"

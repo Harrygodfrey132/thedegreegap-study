@@ -1,17 +1,17 @@
 ---
-title: "Wigan A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Wigan A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
-description: "Wigan A-Level Chemistry tutors, online and one-to-one. If your child's Chemistry started slipping early in Year 12, it's often moles, so that's where we start."
+description: "A-Level Chemistry tutors for Wigan, online. If your child's Chemistry started slipping early in Year 12, it's often moles, so that's where we start."
 layout: "level-subject"
 location: "Wigan"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors Covering Wigan"
+hero_h1: "A-Level Chemistry Tutors for Wigan Students"
 hero_lead: "If A-Level Chemistry started slipping in the first half-term of Year 12, there's a good chance it's moles. Our A-Level Chemistry tutors for Wigan students go back and fix that first, because nearly everything your child meets later is built on top of it."
 
 angle_eyebrow: "USUALLY, IT'S THE MOLES"
-angle_heading: "Why a Wigan Chemistry Tutor Often Starts With Moles"
+angle_heading: "Why a Chemistry Tutor for Wigan Students Often Starts With Moles"
 angle_body_1: "Moles, or amount of substance as the course calls it, turn up in the first few weeks of Year 12. They get taught quickly, because they look like arithmetic. They aren't. Titrations, yields, atom economy, gas volumes: every calculation for the next two years leans on them. A child who only half-understood them in October can still be paying for it in Year 13 without knowing why. Two other things cost marks too. Bonding explanations, where three marks need a precise chain about the forces involved and your child writes one line about strength. And titrations, where the method's fine but significant figures, concordant results and the last step each quietly lose a mark."
 angle_body_2: "So the first few lessons often go backwards before they go forwards. That's a hard sell when your child just wants help with this week's homework, but it's still the quickest way through. Moles get rebuilt until your child can set up a calculation from a worded question without a template. Bonding answers get written out and marked, because knowing why ionic compounds have high melting points isn't the same as getting three marks for saying so. If your child is at Winstanley College or St John Rigby with Chemistry, Pharmacy or engineering in mind for later, those routes look closely at the Chemistry grade."
 angle_image: "/images/chemistry-lab-glassware.jpg"
@@ -28,7 +28,7 @@ schools:
   - "St Peter's Catholic High School Orrell"
   - "Hawkley Hall High School"
 
-steps_heading: "How to Get Your Child Started With a Wigan Chemistry Tutor"
+steps_heading: "How to Get Your Child Started With a Chemistry Tutor for Wigan Students"
 steps_lead: "Getting from the first call to the first lesson usually takes a few days. With Chemistry it pays to start early, since so much of Year 13 rests on Year 12."
 steps:
   - title: "Tell us what's happening"

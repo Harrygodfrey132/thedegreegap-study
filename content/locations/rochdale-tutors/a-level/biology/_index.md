@@ -7,7 +7,7 @@ location: "Rochdale"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Rochdale Students Thrown by the Statistics"
+hero_h1: "A-Level Biology Tutors for Rochdale Students"
 hero_lead: "Your child can explain photosynthesis in detail, then a chi-squared or t-test question appears and the marks disappear. Our A-Level Biology tutors for Rochdale students make the maths inside Biology feel routine, alongside the long answers the course rewards."
 
 angle_eyebrow: "THE MATHS NOBODY EXPECTED IN BIOLOGY"

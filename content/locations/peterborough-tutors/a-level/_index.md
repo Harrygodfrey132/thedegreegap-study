@@ -5,7 +5,7 @@ layout: "subject"
 location: "Peterborough"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors in Peterborough for a Hard Year 12 After Good GCSEs"
+hero_heading_line1: "A-Level Tutors for Peterborough Students"
 hero_heading_line2: ""
 hero_lead: "At A-Level each topic builds on the last, so a shaky first term quietly makes the next one harder. Our A-Level tutors for Peterborough students would much rather steady things in Year 12 than have your child catching up on two years at once in Year 13."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "Cs to As at A-Level, plus a hand with university choices, for one family we worked with."
 
 first_lesson_eyebrow: "FROM Cs TO As"
-first_lesson_heading: "How a Peterborough A-Level Tutor Uses the First Month"
+first_lesson_heading: "How an A-Level Tutor for Peterborough Students Uses the First Month"
 first_lesson_context: "Lots of Peterborough families call us when the Year 12 summer exams come back lower than anyone expected. That's still early enough to matter. The first month with an A-Level tutor is about finding which of your child's three subjects is really at risk, so the lessons go where they're needed rather than being spread thin."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Grade C to Grade A across A-Levels"
 
-tutor_strip_heading: "Peterborough A-Level tutors who know how the papers are marked"
+tutor_strip_heading: "A-Level tutors for Peterborough students who know how the papers are marked"
 tutor_strip_body: "Many of our tutors are Russell Group graduates, and some mark for the exam boards too. And at A-Level that matters, because the last grade often comes down to technique rather than content. Have a look at the profiles, or let us suggest someone for your child."
 
 pathways_heading: "Peterborough A-Levels, and What Comes After"

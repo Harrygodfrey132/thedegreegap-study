@@ -1,11 +1,11 @@
 ---
-title: "Online A-Level Tutors for Your Child in Egham | The Degree Gap"
+title: "A-Level Tutors for Your Child in Egham | The Degree Gap"
 description: "Did the first Year 12 marks come back lower than the GCSEs? We match Egham sixth formers with an online A-Level tutor on their exact board. From £37 an hour."
 layout: "subject"
 location: "Egham"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Egham Students Whose First Year 12 Marks Came Back Low"
+hero_heading_line1: "A-Level Tutors for Egham Students"
 hero_heading_line2: ""
 hero_lead: "Good GCSEs, a confident start in September, and then the first A-Level test comes back a D or an E. Our A-Level tutors for Egham students work out what changed and rebuild from there, long before Year 12 exams feed into predicted grades."
 

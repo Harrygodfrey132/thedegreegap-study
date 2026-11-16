@@ -7,7 +7,7 @@ location: "Gloucester"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Gloucester Students, From Fractions to Proof"
+hero_h1: "GCSE Maths Tutors for Gloucester Students"
 hero_lead: "Some Gloucester children need fractions rebuilt from Year 7. Others are stuck on the proof and iteration questions at the end of the Higher paper. Our GCSE Maths tutors for Gloucester students work out which your child needs, one-to-one and online."
 
 angle_eyebrow: "TWO BRIEFS IN ONE CITY"

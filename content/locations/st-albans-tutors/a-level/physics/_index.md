@@ -1,5 +1,5 @@
 ---
-title: "St Albans A-Level Physics Tutors | Online | The Degree Gap"
+title: "St Albans A-Level Physics Tutors | The Degree Gap"
 nav_title: "Physics"
 description: "Online A-Level Physics tutors for St Albans families. If Year 12 Physics feels nothing like GCSE to your child, we'll help them make the change. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "St Albans"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutoring for St Albans Families"
+hero_h1: "A-Level Physics Tutors for St Albans Students"
 hero_lead: "A strong GCSE grade in Physics, and now Year 12 feels like a different subject. Our A-Level Physics tutors for St Albans students help your child move from remembering equations to working out what's really going on."
 
 angle_eyebrow: "A DIFFERENT SUBJECT WITH THE SAME NAME"

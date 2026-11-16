@@ -7,7 +7,7 @@ location: "Brentwood"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Brentwood Students Whose Sixth Form Plans Depend on Maths"
+hero_h1: "GCSE Maths Tutors for Brentwood Students"
 hero_lead: "It isn't only A-Level Maths that checks the GCSE Maths grade. Our GCSE Maths tutors for Brentwood students find which questions are costing your child marks, from algebraic fractions to the long problems at the back of the paper, and work on those."
 
 angle_eyebrow: "THE GRADE THAT TURNS UP EVERYWHERE"

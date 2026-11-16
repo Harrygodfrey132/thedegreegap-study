@@ -1,11 +1,11 @@
 ---
-title: "Wilmslow GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "Quiet in class, steady on the homework, stuck on the same mock grade? Our Wilmslow GCSE tutors give your child a weekly hour that's all theirs. From £37."
+title: "Wilmslow GCSE Tutors | One-to-One | The Degree Gap"
+description: "Quiet in class, steady on homework, stuck on the same mock grade? Our online GCSE tutors give Wilmslow students a weekly hour that's all theirs. From £37."
 layout: "subject"
 location: "Wilmslow"
 level: "GCSE"
 
-hero_heading_line1: "Online Wilmslow GCSE Tutors for the Quiet Child in the Middle of the Set"
+hero_heading_line1: "GCSE Tutors for Wilmslow Students"
 hero_heading_line2: ""
 hero_lead: "The homework gets done and the reports sound fine, but the mock grade still hasn't moved. Our GCSE tutors for Wilmslow students give your child an hour a week of their own, starting with the topics that are costing them marks."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "Six months with his tutor took Omo's Year 10 son from a 5 to a 6/7 in English, and he now looks forward to the lessons."
 
 first_lesson_eyebrow: "ONE BIG YEAR GROUP, ONE CHILD"
-first_lesson_heading: "What a Wilmslow GCSE Tutor Notices in the First Lesson"
+first_lesson_heading: "What a GCSE Tutor for Wilmslow Students Notices in the First Lesson"
 first_lesson_context: "Wilmslow parents often tell us their child isn't struggling, exactly, just not getting any further. In the first lesson the GCSE tutor usually finds it's one subject, and one or two older topics inside it. That's something an hour a week can get hold of, as this parent found."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to a 6/7 in GCSE English"
 
-tutor_strip_heading: "Wilmslow GCSE tutors who check the exam board before anything else"
+tutor_strip_heading: "GCSE tutors for Wilmslow students who check the exam board before anything else"
 tutor_strip_body: "Every school picks its own exam boards and decides whether your child sits the higher or foundation papers. We check both on the call before suggesting anyone. Harry or Joe has interviewed every tutor here. Have a look, or let us pick 2 or 3 for you."
 
 pathways_heading: "The Choices Wilmslow Families Weigh Up at Sixteen"

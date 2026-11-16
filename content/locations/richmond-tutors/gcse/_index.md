@@ -5,7 +5,7 @@ layout: "subject"
 location: "Richmond"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Richmond Students With a Sixth Form Offer to Meet"
+hero_heading_line1: "GCSE Tutors for Richmond Students"
 hero_heading_line2: ""
 hero_lead: "By the spring of Year 11 your child may be holding a conditional offer, and the condition is a set of grades in August. Our GCSE tutors for Richmond students find which subjects are short and spend the lessons there, online from home."
 

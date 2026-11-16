@@ -7,7 +7,7 @@ location: "Colliers Wood"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Colliers Wood Students Lost in the Electricity Topics"
+hero_h1: "A-Level Physics Tutors for Colliers Wood Students"
 hero_lead: "Circuits looked easy at GCSE. Then A-Level adds internal resistance and potential dividers, and your child's answers start to contradict each other. Our A-Level Physics tutors for Colliers Wood students rebuild the electricity section until the rules fit together."
 
 angle_eyebrow: "WHEN THE CIRCUIT STOPS MAKING SENSE"

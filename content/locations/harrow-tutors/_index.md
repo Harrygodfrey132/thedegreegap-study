@@ -1,9 +1,9 @@
 ---
 title: "Harrow Tutors | GCSE & A-Level | The Degree Gap"
-description: "Harrow tutors who start with your child's last marked paper, not the grade on the report. One-to-one and online for GCSE and A-Level, from £37 an hour."
+description: "Tutors for Harrow who start with your child's last marked paper, not the grade on the report. One-to-one and online for GCSE and A-Level, from £37 an hour."
 layout: "single"
 location: "Harrow"
-banner_heading: "Online Harrow tutors for a borough with no grammar school and plenty of expectation"
+banner_heading: "GCSE and A-Level Tutors for Harrow Families"
 banner_description: "Comparisons are everywhere in Harrow, but your child only has to beat their own last paper. Our tutors for Harrow families start there, one-to-one and online, with a replay of every lesson."
 content_angle: "expectation, selection outside the borough, and the Collegiate gate at 16"
 intro_1: "Sit round a Harrow kitchen table for long enough and you'll hear it. Somebody's cousin is sitting the 11+ for Queen Elizabeth's over in Barnet. Somebody else has a place at John Lyon, and a third family is weighing up Nower Hill against Park High. The borough doesn't have a state grammar school of its own. Instead there's Harrow School and John Lyon up on the hill, and North London Collegiate at Canons. And results across the borough are above the national average. So the worry here is rarely that your child's school is weak. It's that the bar keeps being set somewhere else, by somebody else's child."

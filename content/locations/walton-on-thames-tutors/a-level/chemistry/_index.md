@@ -7,7 +7,7 @@ location: "Walton-on-Thames"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Walton-on-Thames Students Losing Marks on Calculations"
+hero_h1: "A-Level Chemistry Tutors for Walton-on-Thames Students"
 hero_lead: "Your child follows the lesson, then a pH or equilibrium calculation goes wrong at step two and every mark after it goes too. Our A-Level Chemistry tutors for Walton-on-Thames students make the calculations routine and the mechanisms precise."
 
 angle_eyebrow: "A FIFTH OF THE MARKS ARE MATHS"

@@ -7,7 +7,7 @@ location: "Hampstead"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Hampstead Students Who Go Quiet at the Unseen Poem"
+hero_h1: "GCSE English Tutors for Hampstead Students"
 hero_lead: "Your child reads widely and talks well about books, then the unseen poem arrives and the answer comes out as a summary. Our GCSE English tutors for Hampstead students teach a simple way into any poem, and how to write about it against the clock."
 
 angle_eyebrow: "KEATS WROTE HERE, AND IT STILL DOESN'T HELP"

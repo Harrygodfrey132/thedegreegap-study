@@ -1,5 +1,5 @@
 ---
-title: "Winchester Online GCSE Science Tutors | The Degree Gap"
+title: "Winchester GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
 description: "Online GCSE Science tutors for Winchester families, Triple or Combined, on AQA, Edexcel or OCR. Help with six-mark answers and practicals, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Winchester"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutoring for Winchester Year 10s and 11s"
+hero_h1: "GCSE Science Tutors for Winchester Students"
 hero_lead: "At the kitchen table your child can explain the whole topic to you, and the six-mark answer still comes back with 3 out of 6. It's what Winchester parents tell us most about Science, so our GCSE Science tutors for Winchester students work on the writing, not the knowing."
 
 angle_eyebrow: "KNOWING IT VERSUS WRITING IT DOWN"

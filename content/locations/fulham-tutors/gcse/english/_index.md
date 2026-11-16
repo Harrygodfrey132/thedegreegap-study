@@ -7,7 +7,7 @@ location: "Fulham"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Fulham Students Whose Essays Follow a Formula"
+hero_h1: "GCSE English Tutors for Fulham Students"
 hero_lead: "Point, evidence, explain: it's how most children learn to write about a text, and it takes them a fair way. Our GCSE English tutors for Fulham students help your child go further, to essays that argue something of their own."
 
 angle_eyebrow: "BEYOND POINT, EVIDENCE, EXPLAIN"

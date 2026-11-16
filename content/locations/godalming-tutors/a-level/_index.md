@@ -1,11 +1,11 @@
 ---
 title: "A-Level Tutors in Godalming | One-to-One Support | The Degree Gap"
-description: "Year 12 brings new subjects and far more time to manage alone. Our Godalming A-Level tutors help your child keep every subject on track, online, from £37."
+description: "Year 12 brings new subjects and far more time to manage alone. Our A-Level tutors for Godalming help your child keep every subject on track, online, from £37."
 layout: "subject"
 location: "Godalming"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors in Godalming Who Help Year 12s Find Their Feet"
+hero_heading_line1: "A-Level Tutors for Godalming Students"
 hero_heading_line2: ""
 hero_lead: "For lots of Godalming teenagers, Year 12 means a new college as well as new subjects, with far more of the week to organise alone. Our A-Level tutors for Godalming students help your child settle into a way of working, one-to-one and online, while there's plenty of Year 12 left."
 
@@ -21,7 +21,7 @@ first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Cs to As"
 
-tutor_strip_heading: "Godalming A-Level tutors chosen course by course"
+tutor_strip_heading: "A-Level tutors for Godalming students chosen course by course"
 tutor_strip_body: "At Godalming College, A-Level Biology follows AQA and A-Level Maths is Edexcel, so your child's three subjects may well come from different boards. We note the board for each course on the call. Have a browse below, or let us suggest two or three."
 
 pathways_heading: "After A-Levels: Routes Godalming Families Look At"

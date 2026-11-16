@@ -1,11 +1,11 @@
 ---
 title: "Didsbury A-Level Tutors | One-to-One Support | The Degree Gap"
-description: "Year 12 marks dipping before predicted grades are written? A Didsbury A-Level tutor can find out why, one-to-one online. From £37 an hour, and no contract."
+description: "Year 12 marks dipping before predicted grades are written? An A-Level tutor for Didsbury can find out why, one-to-one online. From £37 an hour, and no contract."
 layout: "subject"
 location: "Didsbury"
 level: "A-Level"
 
-hero_heading_line1: "Online Didsbury A-Level Tutors Who Catch the Year 12 Dip Before Predictions Are Written"
+hero_heading_line1: "A-Level Tutors for Didsbury Students"
 hero_heading_line2: ""
 hero_lead: "Good GCSEs, a happy first week of sixth form, then your child's first marked test comes back two grades lower. Our A-Level tutors for Didsbury students work out why, one-to-one online, long before the predicted grade gets written in Year 13."
 
@@ -21,7 +21,7 @@ first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to three Cs at A-Level"
 
-tutor_strip_heading: "The Didsbury A-Level tutors we'd pick for your child"
+tutor_strip_heading: "The A-Level tutors for Didsbury students we'd pick for your child"
 tutor_strip_body: "Each sixth form picks its own exam boards, so we'll ask which ones your child's on and match on that, not on the postcode. Only around 3% of the tutors who apply make it onto our platform. Browse some profiles, or talk it through with us."
 
 pathways_heading: "After Year 13: Next Steps From Didsbury"

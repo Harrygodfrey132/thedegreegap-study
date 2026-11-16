@@ -1,11 +1,11 @@
 ---
-title: "Basingstoke GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "Does your child know the work but lose marks on paper? Our Basingstoke GCSE tutors mark a written answer every week, online and one-to-one, from £37 an hour."
+title: "Basingstoke GCSE Tutors | One-to-One | The Degree Gap"
+description: "Does your child know the work but lose marks on paper? Our GCSE tutors for Basingstoke mark a written answer every week, online and one-to-one, from £37."
 layout: "subject"
 location: "Basingstoke"
 level: "GCSE"
 
-hero_heading_line1: "Online Basingstoke GCSE Tutors Who Help Your Child Get It Down on Paper"
+hero_heading_line1: "GCSE Tutors for Basingstoke Students"
 hero_lead: "Ask your child about photosynthesis over tea and they can explain the lot. Then a six-mark question on it comes back with two marks. Our GCSE tutors for Basingstoke students work on that gap online, one-to-one, with something written and marked every week."
 
 grade_from: "4"
@@ -21,7 +21,7 @@ first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "GCSE"
 
-tutor_strip_heading: "Basingstoke GCSE tutors who'll mark your child's long answers"
+tutor_strip_heading: "GCSE tutors for Basingstoke students who'll mark your child's long answers"
 tutor_strip_body: "Long answers are marked to each board's own scheme, so we'll check whether your child sits AQA, Edexcel or OCR. We interview every tutor ourselves, and only about 3% of applicants get through. Browse the profiles, or book a free call and we'll pick two or three."
 
 pathways_heading: "The Choices Open to Basingstoke Teenagers After GCSEs"

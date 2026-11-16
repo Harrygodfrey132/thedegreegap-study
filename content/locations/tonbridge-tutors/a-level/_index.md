@@ -1,11 +1,11 @@
 ---
-title: "Online A-Level Tutors in Tonbridge | The Degree Gap"
-description: "Strong GCSEs, then lower Year 12 grades? Tonbridge A-Level tutors who check your child's exam board first, one-to-one online. From £37, no contract."
+title: "A-Level Tutors in Tonbridge | The Degree Gap"
+description: "Strong GCSEs, then lower Year 12 grades? A-Level tutors for Tonbridge who check your child's exam board first, one-to-one online. From £37, no contract."
 layout: "subject"
 location: "Tonbridge"
 level: "A-Level"
 
-hero_heading_line1: "Online Tonbridge A-Level Tutors for Year 12 Marks That Dropped After Good GCSEs"
+hero_heading_line1: "A-Level Tutors for Tonbridge Students"
 hero_heading_line2: ""
 hero_lead: "Is your child saying Year 12 is just harder than they thought? Lots of parents hear exactly that in the autumn term. Our A-Level tutors for Tonbridge students work one-to-one online to find which part of the step up is costing the marks."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "From Cs to As, says Alexander, with help choosing a university along the way."
 
 first_lesson_eyebrow: "NEW SIXTH FORM, NEW PAPERS"
-first_lesson_heading: "How a Tonbridge A-Level Tutor Spends the First Hour"
+first_lesson_heading: "How an A-Level Tutor for Tonbridge Students Spends the First Hour"
 first_lesson_context: "Whichever Tonbridge sixth form your child's at, October's usually when the step up starts to show. And since September 2026, Year 12s at Tonbridge Grammar School take A-Levels too, in place of the IB Diploma. So the A-Level tutor's first hour goes on the latest marked test, well before the Year 12 exams that feed into predicted grades."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Cs to As"
 
-tutor_strip_heading: "Tonbridge A-Level tutors matched on the board, not the postcode"
+tutor_strip_heading: "A-Level tutors for Tonbridge students matched on the board, not the postcode"
 tutor_strip_body: "Judd, Weald of Kent, Hillview and Tonbridge Grammar each choose their own A-Level courses and exam boards. So we check your child's board before any profile reaches you. Browse a few, or we'll choose for you."
 
 pathways_heading: "What Tonbridge Sixth Formers Do After Year 13"

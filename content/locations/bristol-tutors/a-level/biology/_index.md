@@ -1,13 +1,13 @@
 ---
-title: "Bristol A-Level Biology Tutors | Online | The Degree Gap"
+title: "Bristol A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "DNA feels easy until the replication question in a mock. Our Bristol A-Level Biology tutors take your child through it step by step, online, from £37 an hour."
+description: "DNA feels easy until the replication question in a mock. Our A-Level Biology tutors for Bristol take your child through it step by step, online, from £37."
 layout: "level-subject"
 location: "Bristol"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors, Picked for Bristol Sixth Formers"
+hero_h1: "A-Level Biology Tutors for Bristol Students"
 hero_lead: "Your child says DNA is the easy bit. Then the replication question in the mock goes badly, and that happens a lot. Our A-Level Biology tutors for Bristol students slow it down: one enzyme at a time, then the experiment that showed how it works."
 
 angle_eyebrow: "'WE DID DNA AT GCSE'"

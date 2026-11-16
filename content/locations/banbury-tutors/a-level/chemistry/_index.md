@@ -1,13 +1,13 @@
 ---
-title: "Banbury A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Banbury A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
-description: "Year 12 Chemistry was all cramming, and now Year 13 is hard going? Our Banbury A-Level Chemistry tutors work online and fix the basics first. From £37 an hour."
+description: "Year 12 Chemistry was all cramming, and now Year 13 is hard going? Our A-Level Chemistry tutors for Banbury work online and fix the basics first. From £37."
 layout: "level-subject"
 location: "Banbury"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Banbury and North Oxfordshire"
+hero_h1: "A-Level Chemistry Tutors for Banbury Students"
 hero_lead: "The Year 12 Chemistry grades looked fine, because your child crammed hard before every test. Year 13 is where cramming stops working. Our A-Level Chemistry tutors for Banbury students go back a step before they go forward."
 
 angle_eyebrow: "WHY A GOOD YEAR 12 GRADE CAN HIDE A GAP"

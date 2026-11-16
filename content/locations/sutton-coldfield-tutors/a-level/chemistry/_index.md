@@ -1,5 +1,5 @@
 ---
-title: "Sutton Coldfield A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Sutton Coldfield A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Organic flashcards done, rates and equilibria left till last? Our online Sutton Coldfield A-Level Chemistry tutors start with the maths-heavy half. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Sutton Coldfield"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Sutton Coldfield, Starting With the Maths-Heavy Half"
+hero_h1: "A-Level Chemistry Tutors for Sutton Coldfield Students"
 hero_lead: "If your child's Chemistry revision is mostly organic flashcards, the calculation-heavy side (physical chemistry) is probably being left till last. That's where a lot of the marks are. Our A-Level Chemistry tutors for Sutton Coldfield students start with it."
 
 angle_eyebrow: "THE BIT THAT GETS LEFT TILL LAST"

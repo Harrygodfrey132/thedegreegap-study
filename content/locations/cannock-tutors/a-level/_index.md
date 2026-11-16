@@ -1,11 +1,11 @@
 ---
-title: "Cannock A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "Is a weekend job squeezing your child's A-Level work? Our Cannock A-Level tutors keep Year 12 and 13 on track with online, one-to-one lessons. From £37 an hour."
+title: "Cannock A-Level Tutors | One-to-One | The Degree Gap"
+description: "Is a weekend job squeezing your child's A-Level work? Our A-Level tutors for Cannock keep Year 12 and 13 on track with online, one-to-one lessons. From £37."
 layout: "subject"
 location: "Cannock"
 level: "A-Level"
 
-hero_heading_line1: "Online Cannock A-Level Tutors for Busy Sixth Formers Whose Grades Have Started to Slip"
+hero_heading_line1: "A-Level Tutors for Cannock Students"
 hero_heading_line2: ""
 hero_lead: "Your child gets in from a Saturday shift with an essay due Monday and a test on Tuesday, and the A-Level work happens in whatever time is left. Our A-Level tutors for Cannock students turn that into one steady hour a week, plus a plan for the rest."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "“Degree Gap helped my kid go from Cs to As.” Alexander, parent, on Google, without naming the subjects"
 
 first_lesson_eyebrow: "SATURDAY SHIFT, MONDAY DEADLINE"
-first_lesson_heading: "How a Cannock A-Level Tutor Plans Around Your Child's Real Week"
+first_lesson_heading: "How an A-Level Tutor for Cannock Students Plans Around Your Child's Real Week"
 first_lesson_context: "If your child works weekends, maybe at the Designer Outlet on Eastern Way or a shop in town, the hours can creep up quickly once Year 12 starts. An A-Level tutor begins with the week as it really is, then works out which subject's losing the most marks and the hour of practice that will help it most."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Cs → As, subjects not named"
 
-tutor_strip_heading: "Cannock A-Level tutors for evenings, weekends and exam season"
+tutor_strip_heading: "A-Level tutors for Cannock students, for evenings, weekends and exam season"
 tutor_strip_body: "Kingsmead and Cardinal Griffin both teach Edexcel A-Level Maths and AQA sciences, and we match each subject to its own board. Look through the profiles below, or let us choose once we've heard about your child."
 
 pathways_heading: "Where a Cannock A-Level Student Can Go at Eighteen"

@@ -7,7 +7,7 @@ location: "Wallington"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Wallington Students Taking On Fields and Orbits"
+hero_h1: "A-Level Physics Tutors for Wallington Students"
 hero_lead: "The Year 12 mechanics went fine, then Year 13 fields arrived and every question seemed to need three equations at once. Our online A-Level Physics tutors for Wallington students work through those multi-step problems one line at a time, until the method holds."
 
 angle_eyebrow: "GRAVITY, CHARGE AND A LOT OF ALGEBRA"

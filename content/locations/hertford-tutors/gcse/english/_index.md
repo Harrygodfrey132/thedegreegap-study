@@ -7,7 +7,7 @@ location: "Hertford"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Hertford Students Who Write Plenty and Score Less"
+hero_h1: "GCSE English Tutors for Hertford Students"
 hero_lead: "Your child fills three sides of paper and gets a mark that doesn't match the effort. Our GCSE English tutors for Hertford students show them what each question actually rewards, and how to say more in fewer words."
 
 angle_eyebrow: "MORE WORDS, FEWER MARKS"

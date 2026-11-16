@@ -1,5 +1,5 @@
 ---
-title: "Guildford GCSE Maths Tutors | Online | The Degree Gap"
+title: "Guildford GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "One-to-one online GCSE Maths tutors for Guildford children who've stopped asking questions in class, from George Abbot to Godalming College. From £37 an hour."
 layout: "level-subject"
@@ -7,11 +7,11 @@ location: "Guildford"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "One-to-One Online GCSE Maths Tutoring for Guildford"
+hero_h1: "GCSE Maths Tutors for Guildford Students"
 hero_lead: "'It's fine' might be all you hear about Maths, and sometimes that means your child has quietly stopped asking questions in class. Our GCSE Maths tutors for Guildford students give them an hour a week, online and one-to-one, to ask everything they've been sitting on."
 
 angle_eyebrow: "THE QUESTION THEY DIDN'T ASK"
-angle_heading: "How a Guildford GCSE Maths Tutor Gets a Quiet Child Asking Again"
+angle_heading: "How a GCSE Maths Tutor for Guildford Students Gets a Quiet Child Asking Again"
 angle_body_1: "In a busy Maths lesson, a child who's lost has two choices. Ask in front of the whole class, or copy the method off the board and hope it makes sense later. Most copy. It works for a while, until a topic turns up that leans on the one before. Trigonometry needs your child to know whether a question wants sine, cosine or tangent. Solving equations needs them to trust that doing the same thing to both sides is allowed. If either was never really asked about, the mock comes back a 4 and your child decides they're behind. In a town where it can feel as if everyone's on a 7, that feeling gets loud. But it's usually a few unasked questions, not the whole of Maths."
 angle_body_2: "One-to-one, there's nobody else to hear the question. The tutor asks your child to talk a problem through on a shared whiteboard, out loud, and listens for the pause. That pause usually marks something they never asked in class. The first few lessons go on finding those, answering each one properly, then practising it until your child can explain it back. Parents often notice the difference at home first, when Maths homework starts without a sigh. It matters for next steps too. The sixth forms at George Abbot, Guildford County and St Peter's each publish their Maths requirements, and so does Godalming College. A 6 keeps far more of those courses open than a 4."
 angle_image: "/images/maths-equations-close-up.jpg"

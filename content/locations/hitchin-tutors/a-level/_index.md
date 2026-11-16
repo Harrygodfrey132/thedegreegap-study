@@ -1,11 +1,11 @@
 ---
 title: "Hitchin A-Level Tutors | One-to-One | The Degree Gap"
-description: "Hitchin A-Level tutors for when the first Year 12 marks come back lower than expected. One-to-one and online, matched to your child's board, from £37 an hour."
+description: "A-Level tutors for Hitchin, for when the first Year 12 marks come back lower than expected. One-to-one and online, matched to your child's board, from £37."
 layout: "subject"
 location: "Hitchin"
 level: "A-Level"
 
-hero_heading_line1: "Online Hitchin A-Level Tutors for a Year 12 That Started Lower Than Expected"
+hero_heading_line1: "A-Level Tutors for Hitchin Students"
 hero_heading_line2: ""
 hero_lead: "Year 12 in Hitchin can mean a class drawn from three schools, a new teacher, even a different site for one subject. And it lands just as A-Level stops spelling out what each question wants. Our A-Level tutors for Hitchin students help your child through it, one-to-one, before predictions are written."
 
@@ -14,14 +14,14 @@ grade_to: "C"
 grade_stat: "One parent's son had left his revision very late. He still went from E and U grades to three Cs."
 
 first_lesson_eyebrow: "NEW ROOM, NEW RULES"
-first_lesson_heading: "Why a Hitchin A-Level Tutor Reads the Year 12 Work Before Anything Else"
+first_lesson_heading: "Why an A-Level Tutor for Hitchin Students Reads the Year 12 Work Before Anything Else"
 first_lesson_context: "Hitchin parents often ring us in November: her GCSEs were fine, she chose these subjects herself, and still the first assessments have come back low. Partly that's the new class and a teacher who doesn't know her yet, but mostly it's the subject changing shape. So the tutor starts with her marked Year 12 work, because it shows whether the gap is content, method or writing."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to three Cs"
 
-tutor_strip_heading: "Hitchin A-Level tutors matched to each subject's exam board"
+tutor_strip_heading: "A-Level tutors for Hitchin students matched to each subject's exam board"
 tutor_strip_body: "Hitchin's three schools share their sixth form teaching, so each of your child's subjects might be taught at a different school, and even on a different exam board. We match every subject to a tutor who knows that board's papers. Ask us for a couple of profiles."
 
 pathways_heading: "Where Hitchin Sixth Formers Head After A-Levels"

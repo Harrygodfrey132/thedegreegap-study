@@ -7,7 +7,7 @@ location: "Hull"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Hull Teenagers, From Required Practicals to Six-Mark Answers"
+hero_h1: "GCSE Science Tutors for Hull Students"
 hero_lead: "Your child did the practical in class, then lost the marks on the written question about it months later. Our online GCSE Science tutors work on the practical questions and the six-mark answers, on Combined or Triple."
 
 angle_eyebrow: "THE PRACTICALS NOBODY REVISES"

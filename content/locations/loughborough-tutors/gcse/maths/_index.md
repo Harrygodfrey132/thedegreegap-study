@@ -1,13 +1,13 @@
 ---
-title: "Online GCSE Maths Tutors | Loughborough | The Degree Gap"
+title: "GCSE Maths Tutors | Loughborough | The Degree Gap"
 nav_title: "Maths"
-description: "Loughborough GCSE Maths tutors for when helping at home keeps ending in a row. Online one-to-one lessons, matched to your child's exam board, from £37 an hour."
+description: "GCSE Maths tutors for Loughborough, for when helping at home keeps ending in a row. Online one-to-one lessons, matched to your child's exam board, from £37."
 layout: "level-subject"
 location: "Loughborough"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Loughborough, When Helping at Home Isn't Working"
+hero_h1: "GCSE Maths Tutors for Loughborough Students"
 hero_lead: "In a town full of engineers and researchers, plenty of parents can do their child's Maths homework and still can't help with it without a falling-out. Our GCSE Maths tutors for Loughborough students work online, on the method the mark scheme actually gives marks for."
 
 angle_eyebrow: "KNOWING THE MATHS AND TEACHING IT AREN'T THE SAME JOB"

@@ -1,11 +1,11 @@
 ---
-title: "Windsor A-Level Tutors for Your Child | Online One-to-One"
+title: "Windsor A-Level Tutors for Your Child | One-to-One"
 description: "Is Year 12 slipping by while the work piles up? We match Windsor sixth formers with an online A-Level tutor who knows their exam board. From £37, no contract."
 layout: "subject"
 location: "Windsor"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Windsor Students, Before Year 12 Slips Into Year 13"
+hero_heading_line1: "A-Level Tutors for Windsor Students"
 hero_heading_line2: ""
 hero_lead: "Almost every A-Level is examined at the end of Year 13, so a Year 12 topic that never quite made sense comes back just when it matters. Our A-Level tutors for Windsor students find those topics early, before new ones bury them."
 

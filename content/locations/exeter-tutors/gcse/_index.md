@@ -1,11 +1,11 @@
 ---
 title: "Exeter GCSE Tutors | Year 10 and Year 11 | The Degree Gap"
-description: "Wherever you are in Devon, our Exeter GCSE tutors work online with your child on the grade their Exeter College course needs. From £37, no contract."
+description: "Wherever you are in Devon, our GCSE tutors for Exeter work online with your child on the grade their Exeter College course needs. From £37, no contract."
 layout: "subject"
 location: "Exeter"
 level: "GCSE"
 
-hero_heading_line1: "Online Exeter GCSE Tutors for the Gap Between the Mock and the Entry Grade"
+hero_heading_line1: "GCSE Tutors for Exeter Students"
 hero_heading_line2: ""
 hero_lead: "You've probably looked up what your child's college course asks for, and held the mock up against it. One grade short can feel like a long way. Our GCSE tutors for Exeter students treat it as a handful of question types, worked on one at a time."
 
@@ -22,7 +22,7 @@ first_lesson_quote_name: "Philippa"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "GCSE"
 
-tutor_strip_heading: "Exeter GCSE tutors for families right across Devon"
+tutor_strip_heading: "GCSE tutors for Exeter students, for families right across Devon"
 tutor_strip_body: "Your child could be sitting AQA, Edexcel or OCR, and each board marks its longer questions differently, so we check before suggesting anyone. Our co-founders, Harry and Joe, have interviewed every tutor here, and only around 3% of applicants get in. Look through them, or let us choose."
 
 pathways_heading: "Exeter at Sixteen: College, Sixth Form or an Apprenticeship"

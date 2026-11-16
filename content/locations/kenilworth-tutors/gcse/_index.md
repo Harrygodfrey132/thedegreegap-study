@@ -1,11 +1,11 @@
 ---
-title: "Kenilworth GCSE Tuition | Online One-to-One | The Degree Gap"
+title: "Kenilworth GCSE Tuition | One-to-One | The Degree Gap"
 description: "Sixth form choices turn on GCSE grades, even when your child stays on at the same school. Our online Kenilworth GCSE tutors find the gap and work on it first."
 layout: "subject"
 location: "Kenilworth"
 level: "GCSE"
 
-hero_heading_line1: "Online Kenilworth GCSE Tutors for the Subject Your Child Has Quietly Given Up On"
+hero_heading_line1: "GCSE Tutors for Kenilworth Students"
 hero_heading_line2: ""
 hero_lead: "Maybe it's Chemistry, maybe French: the one subject your child sighs about, where the mock grade keeps sliding while the rest hold steady. Our GCSE tutors for Kenilworth students go back to where it stopped making sense and rebuild from there, one lesson a week."
 
@@ -14,7 +14,7 @@ grade_to: "8"
 grade_stat: "Chamarika's son sat GCSE Physics on a predicted 4-5 and finished with an 8."
 
 first_lesson_eyebrow: "A PREDICTED 4-5 BECOMES AN 8"
-first_lesson_heading: "Why a Kenilworth GCSE Tutor Starts With the Mock, Not the Report"
+first_lesson_heading: "Why a GCSE Tutor for Kenilworth Students Starts With the Mock, Not the Report"
 first_lesson_context: "Look closely at a Year 11's last science mock and the lost marks are rarely spread evenly: a cluster on the calculations, another on the six-mark explanations. A GCSE tutor starts with that paper, your child's own, and works backwards to the idea underneath."
 first_lesson_quote: "Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s. Thank you to all the 3x tutors."
 first_lesson_quote_name: "Chamarika"

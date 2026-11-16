@@ -1,13 +1,13 @@
 ---
 title: "Bristol GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Bristol GCSE English tutors for Language and Literature, matched to the set texts your child's school teaches and the paper losing marks. From £37 an hour."
+description: "Online GCSE English tutors for Bristol students, for Language and Literature, matched to the set texts your child's school teaches. From £37 an hour."
 layout: "level-subject"
 location: "Bristol"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors Covering Bristol"
+hero_h1: "GCSE English Tutors for Bristol Students"
 hero_lead: "With English, the feedback that comes home rarely tells you what to do next. Our GCSE English tutors for Bristol students take your child's own essay, mark it against the mark scheme and show them the exact sentence where the marks stopped."
 
 angle_eyebrow: "WHERE THE GCSE ENGLISH MARKS GO IN BRISTOL"
@@ -28,7 +28,7 @@ schools:
   - "Fairfield High School"
   - "Merchants' Academy"
 
-steps_heading: "Getting your child started with a GCSE English tutor in Bristol"
+steps_heading: "Getting your child started with a GCSE English tutor for Bristol students"
 steps_lead: "Most Bristol families have tutor profiles within 24 hours. If you've got a recent essay with the school's marking still on it, that's the most useful thing to send us first."
 steps:
   - title: "A free chat about your child"

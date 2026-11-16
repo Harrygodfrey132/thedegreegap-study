@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors for Your Child in Hull | The Degree Gap"
+title: "GCSE Tutors for Your Child in Hull | The Degree Gap"
 description: "Is Year 11 in Hull piling up, with a college application on top of the mocks? We'll match your child with an online GCSE tutor on their board. From £37 an hour."
 layout: "subject"
 location: "Hull"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Hull Students With a College Application Riding on Their Grades"
+hero_heading_line1: "GCSE Tutors for Hull Students"
 hero_heading_line2: ""
 hero_lead: "Some Hull Year 11s need a solid 4 in English and Maths for the course they've chosen. Others need 6s in the subjects they want to take further. Our online GCSE tutors work towards whichever grade your child's next step asks for."
 

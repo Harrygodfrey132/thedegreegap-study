@@ -1,5 +1,5 @@
 ---
-title: "Online GCSE Maths Tutors for Redhill Students | The Degree Gap"
+title: "GCSE Maths Tutors for Redhill Students | The Degree Gap"
 nav_title: "Maths"
 description: "Is your child stuck between Foundation and Higher Maths? Online GCSE Maths tutoring for Redhill students at St Bede's, Carrington and beyond. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Redhill"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Redhill Teenagers Teetering on the Edge of the Higher Paper"
+hero_h1: "GCSE Maths Tutors for Redhill Students"
 hero_lead: "If your child is hovering on the edge of the Higher paper, the tier they're entered for sets the best grade they can get. Our GCSE Maths tutors for Redhill students find the topics keeping them on the line and work on those first."
 
 angle_eyebrow: "ONE OF THE TWO PAPERS STOPS AT 5"

@@ -1,5 +1,5 @@
 ---
-title: "Watford A-Level Physics Tutors | Online | The Degree Gap"
+title: "Watford A-Level Physics Tutors | The Degree Gap"
 nav_title: "Physics"
 description: "Online A-Level Physics tutors for Watford families. If quantum and particle physics have knocked your child's confidence, we can help. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Watford"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors Helping Watford Families"
+hero_h1: "A-Level Physics Tutors for Watford Students"
 hero_lead: "If your child was confident in Physics until the quantum topics arrived, that's more common than you'd think. Our A-Level Physics tutors for Watford students help them get comfortable with ideas that go against everything they've been taught."
 
 angle_eyebrow: "IT'S NOT MEANT TO FEEL OBVIOUS"

@@ -1,13 +1,13 @@
 ---
-title: "Aylesbury A-Level Biology Tutors | Online | The Degree Gap"
+title: "Aylesbury A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Is your child doing well in A-Level Biology but short of the top grade? Our Aylesbury tutors work on long answers and water potential. Online, from £37 an hour."
+description: "Is your child doing well in A-Level Biology but short of the top grade? Our tutors for Aylesbury work on long answers and water potential. Online, from £37."
 layout: "level-subject"
 location: "Aylesbury"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutoring for Families in Aylesbury"
+hero_h1: "A-Level Biology Tutors for Aylesbury Students"
 hero_lead: "Most Aylesbury parents who call us about Biology have a child who's already doing well, just not quite at the top. Our A-Level Biology tutors for Aylesbury students work on water potential, cell division and the long answers, which is where that last grade usually sits."
 
 angle_eyebrow: "WHEN A LONG ANSWER IS A SHORT ONE, STRETCHED"
@@ -28,7 +28,7 @@ schools:
   - "The Aylesbury Vale Academy"
   - "Mandeville School"
 
-steps_heading: "Getting your child started with an Aylesbury Biology tutor"
+steps_heading: "Getting your child started with a Biology tutor for Aylesbury students"
 steps_lead: "Profiles usually come within 24 hours of the call. It's worth starting before the Year 12 summer exams, which feed the prediction."
 steps:
   - title: "Tell us where things stand"
@@ -43,7 +43,7 @@ faqs:
     a: "Usually it isn't a topic at all. It's the long answers, which want a line of reasoning rather than a longer list, and plenty of bright Aylesbury sixth formers write a short answer at greater length. After that, water potential can cost a whole question, because the negative values have to be handled correctly and the direction of the water worked out from them. And cell division loses marks when mitosis and meiosis are described roughly instead of exactly."
   - q: "How can I tell which Biology topics my child is losing marks on?"
     a: "Split a recent marked paper by question size before you look at topics. If the short questions score well and the long answers come back with half marks, it's how the answer is built, and that's the quickest thing to fix. If marks go evenly across every question on one topic, that's a gap in the content. If calculations like water potential go wrong wherever they turn up, it's one technique that needs work. Three different problems, and three different plans."
-  - q: "Is Year 12 too soon to get an A-Level Biology tutor in Aylesbury?"
+  - q: "Is Year 12 too soon to get an A-Level Biology tutor for Aylesbury students?"
     a: "No, Year 12 is when most families start, especially if your child's aiming for the top grades. Long-answer technique comes from months of answers being marked, not a few lessons, so starting early means more practice before it counts. The exams at the end of Year 12 also feed into the predicted grade that goes on the UCAS form. A Year 13 start still helps. But by Christmas of Year 13, the prediction is mostly settled."
   - q: "How do you know the tutors are any good?"
     a: "We interview every one ourselves, and only around 3% of the people who apply make it onto the platform. There's a written application, a subject test, an interview with Joe or Harry about how clearly they explain things under pressure, and then reference checks. Our tutors are graduates or still working on their degrees, many at top Russell Group universities, and plenty are qualified teachers. All of them have spent at least two years tutoring. For Biology we look hard at how carefully someone marks written work, because that's where most of the progress comes from."

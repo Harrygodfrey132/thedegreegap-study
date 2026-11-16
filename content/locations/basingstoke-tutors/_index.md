@@ -1,9 +1,9 @@
 ---
-title: "Basingstoke GCSE & A-Level Tutors | Online | The Degree Gap"
-description: "Long answers can't come back marked every week in a big year group. A Basingstoke tutor marks your child's writing weekly, one-to-one online. From £37."
+title: "Basingstoke GCSE & A-Level Tutors | The Degree Gap"
+description: "Long answers can't come back marked every week in a big year group. A tutor for Basingstoke marks your child's writing weekly, one-to-one online. From £37."
 layout: "single"
 location: "Basingstoke"
-banner_heading: "Online Basingstoke Tutors Who Mark Your Child's Written Work Every Week"
+banner_heading: "GCSE and A-Level Tutors for Basingstoke Families"
 banner_description: "In big year groups, essays and long answers don't come back marked as often as anyone would like. But marking, week in and week out, is most of what moves a grade, and it's exactly what a one-to-one tutor has time for."
 content_angle: "large cohorts and marked written work"
 intro_1: "You ask how the History essay went, and your child shrugs. It hasn't come back yet. Or it came back with a grade and one line in red, and nobody's quite sure what to do differently next time. We hear that a lot in Basingstoke. The town's grown fast, and its schools have grown with it. Aldworth, Brighton Hill, The Costello School, The Vyne and the rest all run big year groups, and Queen Mary's College takes a large share of the town's Year 12s. The teaching isn't the problem. It's the numbers. A teacher with thirty in a class can't mark every six-mark answer each week and write down why each mark was lost. Nobody could."

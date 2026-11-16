@@ -7,7 +7,7 @@ location: "Dulwich"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "A-Level Economics Tutors for Dulwich Students Whose Essays Stop Short of Evaluation"
+hero_h1: "A-Level Economics Tutors for Dulwich Students"
 hero_lead: "Your child can define every term and draw the diagram, yet the 25-mark essay keeps landing in the middle of the mark scheme. Our A-Level Economics tutors for Dulwich students teach the weighing-up those marks are for, one chain of reasoning at a time."
 
 angle_eyebrow: "WHERE THE ESSAY MARKS GO"
@@ -42,7 +42,7 @@ steps:
 
 faqs:
   - q: "Does my child's Economics tutor need to live in Dulwich to help with essays?"
-    a: "No. Essays get marked on the page, and online the tutor can annotate a paragraph live while your child watches. We're also not limited to Economics tutors around Dulwich or south London, so we can find someone who knows your child's board well, whether that's AQA, Edexcel or OCR, and who's good at turning description into evaluation. Every lesson is recorded, so a diagram explanation can be replayed before a test."
+    a: "No. Essays get marked on the page, and online the tutor can annotate a paragraph live while your child watches. We're also not limited to Economics tutors for Dulwich students or south London, so we can find someone who knows your child's board well, whether that's AQA, Edexcel or OCR, and who's good at turning description into evaluation. Every lesson is recorded, so a diagram explanation can be replayed before a test."
   - q: "Which bit of A-Level Economics trips Dulwich students up most?"
     a: "The long essays, more than the content. Most students can explain a policy. Fewer can weigh it, by saying how big the effect is likely to be or what it depends on. Diagrams are the other weak spot: accurate labels and a clearly marked new equilibrium earn marks a rough sketch doesn't. And in the data questions, marks slip when the figures in the extract never make it into the answer."
   - q: "How much Economics should my child do between lessons?"

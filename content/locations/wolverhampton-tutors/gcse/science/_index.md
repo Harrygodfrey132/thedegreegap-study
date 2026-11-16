@@ -1,12 +1,12 @@
 ---
-title: "Online GCSE Science Tutors | Wolverhampton | The Degree Gap"
-description: "Which of Biology, Chemistry or Physics is pulling your child's Science grade down? Our Wolverhampton GCSE Science tutors find out first. From £37 an hour."
+title: "GCSE Science Tutors | Wolverhampton | The Degree Gap"
+description: "Which of Biology, Chemistry or Physics is pulling the grade down? Our online GCSE Science tutors find out first for Wolverhampton students. From £37."
 layout: "level-subject"
 location: "Wolverhampton"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Wolverhampton GCSE Science Tutors, Online and One-to-One"
+hero_h1: "GCSE Science Tutors for Wolverhampton Students"
 hero_lead: "The Science grade on your child's report covers Biology, Chemistry and Physics at once, so it's hard to tell which one is the problem. Our GCSE Science tutors for Wolverhampton students pull the three apart first, because it's nearly always one of them, not all three."
 
 angle_eyebrow: "THREE SCIENCES, ONE LINE ON THE REPORT"
@@ -37,7 +37,7 @@ steps:
     body: "Lessons happen in the online classroom Lessonspace, where a circuit diagram or a reaction stays on screen while they work through it. Every lesson has a replay, handy when a practical from October comes back before the exams. From £37 an hour, no contract, and a new tutor free of charge if your child doesn't click."
 
 faqs:
-  - q: "My child wants a Jaguar Land Rover or NHS apprenticeship. Can a Wolverhampton Science tutor help?"
+  - q: "My child wants a Jaguar Land Rover or NHS apprenticeship. Can a Science tutor for Wolverhampton students help?"
     a: "Yes, and Science is often what decides whether they can apply for the technical and clinical routes. The employers around the i54 site and the local NHS trust set their own minimum grades. Those vary by scheme and change from year to year, so check this year's listing rather than going on what someone was told last year. If your child's sitting just under the line, that's usually a short piece of work, not a whole year. The application often includes a test too, and it's worth preparing for."
   - q: "What actually happens in a Science lesson?"
     a: "It's an hour, and it usually runs in three parts. The first fifteen minutes go on last week's work, marked and talked through, so any misunderstanding comes out into the open. The middle half hour is on whatever's costing your child the most marks. Often that's a required practical rebuilt as a method, or a calculation practised until it feels easy. The last fifteen minutes are an exam question on that topic, marked against the real mark scheme, so your child can see where each mark comes from."

@@ -7,7 +7,7 @@ location: "Didsbury"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors Covering Didsbury, for the Grade Every Sixth Form Checks First"
+hero_h1: "GCSE Maths Tutors for Didsbury Students"
 hero_lead: "A-Level choices have started coming up at home, and every conversation seems to circle back to the Maths grade. Our GCSE Maths tutors for Didsbury students work one-to-one online, starting from the first method that went wrong, often a piece of algebra from Year 8."
 
 card_eyebrow: "FREE CONSULTATION"
@@ -35,7 +35,7 @@ schools:
   - "The Manchester Grammar School"
   - "Withington Girls' School"
 
-steps_heading: "Your first steps with a Didsbury GCSE Maths tutor"
+steps_heading: "Your first steps with a GCSE Maths tutor for Didsbury students"
 steps_lead: "Sixth form applications go in during the autumn of Year 11, often before the mocks. So it helps that most families are up and running within a week."
 steps:
   - title: "A free consultation call"

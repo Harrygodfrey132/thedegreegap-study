@@ -1,12 +1,12 @@
 ---
-title: "Milton Keynes Online GCSE English Tutors | The Degree Gap"
-description: "Milton Keynes GCSE English tutors for Language and Literature, matched to your child's exam board and set texts at Denbigh, Walton High and beyond. From £37."
+title: "Milton Keynes GCSE English Tutors | The Degree Gap"
+description: "Online GCSE English tutors for Milton Keynes students, matched to the exam board and set texts at Denbigh, Walton High and beyond. From £37."
 layout: "level-subject"
 location: "Milton Keynes"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors Across Milton Keynes"
+hero_h1: "GCSE English Tutors for Milton Keynes Students"
 hero_lead: "Ask your child what their last English essay was arguing. If you get a list of quotations back, that's often why the grade's stuck at a 5. Our GCSE English tutors for Milton Keynes students help them find a point and carry it through."
 
 angle_eyebrow: "WHAT IS THE ESSAY ACTUALLY ARGUING?"

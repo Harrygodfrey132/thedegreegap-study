@@ -1,13 +1,13 @@
 ---
-title: "Cambridge Online GCSE Maths Tutors | The Degree Gap"
+title: "Cambridge GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "From a secure pass to a 7 that holds for Hills Road, our Cambridge GCSE Maths tutors start from your child's own paper. One-to-one online, from £37 an hour."
+description: "From a secure pass to a 7 that holds for Hills Road, our GCSE Maths tutors for Cambridge start from your child's own paper. One-to-one online, from £37 an hour."
 layout: "level-subject"
 location: "Cambridge"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutoring in Cambridge, for a Secure Pass or a Safe 7"
+hero_h1: "GCSE Maths Tutors for Cambridge Students"
 hero_lead: "Some Cambridge parents just want Maths to be a secure pass. Others are wondering whether a 7 will hold for Hills Road. Our GCSE Maths tutors for Cambridge students work out which it is for your child before they plan a single lesson."
 
 angle_eyebrow: "TWO DIFFERENT MATHS PROBLEMS IN ONE CITY"
@@ -28,7 +28,7 @@ schools:
   - "St Bede's Inter-Church School"
   - "Stephen Perse Foundation"
 
-steps_heading: "Three steps between you and a Cambridge GCSE Maths tutor"
+steps_heading: "Three steps between you and a GCSE Maths tutor for Cambridge students"
 steps_lead: "For most Cambridge families, tutor profiles come through within a day. If you can, start before school weighs up Higher or Foundation in Year 10, not after."
 steps:
   - title: "We get to know your child"
@@ -39,7 +39,7 @@ steps:
     body: "For an hour a week, your child works through real exam questions live with the tutor on the platform Lessonspace, not watching worked examples go by. And there's a replay of each lesson to watch the night before a test. It starts from £37 an hour, with no contract."
 
 faqs:
-  - q: "My child's interested in an apprenticeship at AstraZeneca or ARM. Can a Cambridge GCSE Maths tutor help?"
+  - q: "My child's interested in an apprenticeship at AstraZeneca or ARM. Can a GCSE Maths tutor for Cambridge students help?"
     a: "Yes. Most schemes set a minimum grade in GCSE Maths, so it's often the grade that decides whether your child can apply at all. AstraZeneca and ARM publish their own requirements scheme by scheme, and they shift from year to year, so work from this year's listing, not what a friend's older child needed. Technical and engineering routes tend to want at least a strong pass. AstraZeneca's degree apprenticeships are usually for after sixth form, but the GCSE grade still counts. If your child's just under the line, it's usually a short piece of work, eight to ten weeks on what the paper actually tests."
   - q: "Does the non-calculator paper matter as much as the calculator ones?"
     a: "Yes. There are three papers and each counts the same, so the non-calculator one is a third of the grade. But they go wrong for different reasons. Without a calculator, shaky arithmetic, powers and square roots get found out, and there's no bluffing past them. The two calculator papers test method: problems with several steps, where the Maths is buried in a paragraph, and accuracy that slips over three or four operations. Most children drop more on one kind than the other. If your child's mocks come home marked, a tutor can usually spot which within about twenty minutes."

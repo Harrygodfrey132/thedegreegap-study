@@ -7,7 +7,7 @@ location: "Gloucester"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Gloucester Students Finding Pure Harder Than Expected"
+hero_h1: "A-Level Maths Tutors for Gloucester Students"
 hero_lead: "A strong GCSE grade doesn't always carry into Year 12, and Pure is usually where it shows first. Our A-Level Maths tutors for Gloucester students rebuild the algebra underneath, then work through Statistics and Mechanics too."
 
 angle_eyebrow: "THE YEAR 12 ALGEBRA GAP"

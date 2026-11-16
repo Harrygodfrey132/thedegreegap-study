@@ -5,7 +5,7 @@ layout: "subject"
 location: "Clacton-on-Sea"
 level: "A-Level"
 
-hero_heading_line1: "Online Clacton-on-Sea A-Level Tutors for Two Years That Come Down to a Few Papers"
+hero_heading_line1: "A-Level Tutors for Clacton-on-Sea Students"
 hero_heading_line2: ""
 hero_lead: "In most A-Levels there's no coursework to fall back on: two years of work gets marked in a handful of papers in Year 13. Our A-Level tutors for Clacton-on-Sea students help your child turn what they know into answers that hold up against the clock."
 
@@ -14,14 +14,14 @@ grade_to: "C"
 grade_stat: "From Joanna's Google review, as the parent of an A-Level student: “The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades.”"
 
 first_lesson_eyebrow: "TIDY NOTES, DISAPPOINTING MOCKS"
-first_lesson_heading: "From Notes to Marks: How a Clacton-on-Sea A-Level Tutor Works"
+first_lesson_heading: "From Notes to Marks: How an A-Level Tutor for Clacton-on-Sea Students Works"
 first_lesson_context: "At Sigma Sixth Tendring, A-Level Maths follows Edexcel and Economics follows AQA, and both are marked on three papers at the end of Year 13, with nothing carried over from coursework. We often meet sixth formers with folders of careful notes and mock results that don't match them. An A-Level tutor's first job is finding where the marks go missing between the two."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades."
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Grades E and U → Three C Grades at A-Level"
 
-tutor_strip_heading: "Clacton-on-Sea A-Level tutors who know the papers your child will sit"
+tutor_strip_heading: "A-Level tutors for Clacton-on-Sea students who know the papers your child will sit"
 tutor_strip_body: "Maths at Sigma Sixth Tendring is Edexcel, Economics is AQA and the sciences follow OCR's courses, so each subject gets a tutor who knows that board. Browse the profiles below, or let us pick for you."
 
 pathways_heading: "After A-Levels: From Clacton-on-Sea Up the Line, or Further Afield"

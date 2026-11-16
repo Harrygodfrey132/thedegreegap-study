@@ -7,7 +7,7 @@ location: "Huddersfield"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Huddersfield Students Losing Marks on Evaluation"
+hero_h1: "A-Level Economics Tutors for Huddersfield Students"
 hero_lead: "Your child can explain the theory and draw the diagram, then still get a middling mark on the 25-mark essay, because the top marks go to the weighing up. Our A-Level Economics tutors for Huddersfield students teach that part step by step, online."
 
 angle_eyebrow: "WHERE THE ESSAY MARKS GO"

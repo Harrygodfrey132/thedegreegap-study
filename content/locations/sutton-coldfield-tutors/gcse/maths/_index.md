@@ -1,13 +1,13 @@
 ---
-title: "Sutton Coldfield GCSE Maths Tutors | Online | The Degree Gap"
+title: "Sutton Coldfield GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Worried the Maths set is holding your child back? Our Sutton Coldfield GCSE tutors use a real paper at each tier to see which one fits. From £37 an hour."
+description: "Worried the Maths set is holding your child back? Our online GCSE tutors use a real paper at each tier with Sutton Coldfield students to see which fits."
 layout: "level-subject"
 location: "Sutton Coldfield"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors Covering Sutton Coldfield"
+hero_h1: "GCSE Maths Tutors for Sutton Coldfield Students"
 hero_lead: "The Maths set your child was put in during Year 9 can quietly decide which paper they sit, and which grades are possible. Our GCSE Maths tutors for Sutton Coldfield students give you the evidence to check it's right."
 
 angle_eyebrow: "A DECISION MADE BY A SET LIST"

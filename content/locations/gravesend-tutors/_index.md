@@ -1,9 +1,9 @@
 ---
-title: "Online Tutors for Your Child in Gravesend | The Degree Gap"
+title: "Tutors for Your Child in Gravesend | The Degree Gap"
 description: "New school in Gravesend, or a subject slipping? We'll match your child with an online tutor who suits them and their exam board. From £37 an hour, no contract."
 layout: "single"
 location: "Gravesend"
-banner_heading: "Online tutors for learners in Gravesend, matched to the school your child is at now"
+banner_heading: "GCSE and A-Level Tutors for Gravesend Families"
 banner_description: "New school, new exam boards, or one subject that's started to slip: we find out which on a free call, then choose two or three tutors who'd suit your child."
 content_angle: "new to the Kent system: families who've moved out along the high-speed line, children joining Gravesend schools part-way through, and the topics that fall between two schools"
 intro_1: "Plenty of families in Gravesend arrived from somewhere else. A flat in south-east London swapped for a house with a garden, and a high-speed train that reaches St Pancras in about 23 minutes. Ebbsfleet Garden City alone is planned to reach 15,000 new homes by 2035. The move itself usually goes fine. School is where it gets harder. Your child starts somewhere new halfway through Year 8, and the new class finished ratio last term, while the old one hadn't got to it yet. Then a neighbour mentions the Kent Test, or the grammar sixth forms, and it dawns on you that there's a whole system here nobody explained. Most children settle. Some go quiet about one subject and won't say why."

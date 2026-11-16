@@ -1,9 +1,9 @@
 ---
-title: "Didcot Online Tutors | GCSE & A-Level | The Degree Gap"
-description: "Stay put at 14 or move to the UTC, then pick a sixth form: our Didcot tutors teach GCSEs and A-Levels online, one-to-one. From £37 an hour, no contract."
+title: "Didcot Tutors | GCSE & A-Level | The Degree Gap"
+description: "Stay put at 14 or move to the UTC, then pick a sixth form: our tutors for Didcot teach GCSEs and A-Levels online, one-to-one. From £37 an hour, no contract."
 layout: "single"
 location: "Didcot"
-banner_heading: "Online GCSE and A-Level tutors for Didcot children whose school choices start at 14"
+banner_heading: "GCSE and A-Level Tutors for Didcot Families"
 banner_description: "Some move to UTC Oxfordshire for Year 10 and some stay put, and two years later there's a sixth form or college to choose. Our tutors for Didcot families help your child online with whichever subjects that next step leans on."
 content_angle: "the school choice that can come at 14 (UTC Oxfordshire's Year 10 intake), the Harwell and Milton Park science campuses beside the town, and a Garden Town whose new estates keep bringing families to its schools"
 intro_1: "In Didcot, the first big school decision can land in Year 9 rather than Year 11. UTC Oxfordshire, on Great Western Park, takes pupils at 14 and specialises in science and engineering. So you might be weighing it up against staying at Didcot Girls', St Birinus or Aureus. A child who loves taking things apart may be desperate to go. You may be less sure their Maths is ready. Then there are the new estates. If you've only just moved in, you may still be learning how the schools fit together while your child settles into one. That's a lot to think through between tea and bedtime."

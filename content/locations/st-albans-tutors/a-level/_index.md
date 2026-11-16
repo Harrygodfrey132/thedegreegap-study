@@ -1,23 +1,23 @@
 ---
 title: "St Albans A-Level Tutors | Tuition from £37/hr"
-description: "A predicted grade below the offer is often more fixable than it feels. St Albans A-Level tutors, one-to-one and online, from £37 an hour after a free call."
+description: "A predicted grade below the offer is often more fixable than it feels. A-Level tutors for St Albans, one-to-one and online, from £37 an hour after a free call."
 layout: subject
 location: St Albans
 level: A-Level
-hero_heading_line1: "Online St Albans A-Level Tutors Who Help When the Predicted Grade Falls Short"
+hero_heading_line1: "A-Level Tutors for St Albans Students"
 hero_heading_line2: ""
 hero_lead: "The predicted grade is a notch below what your child's first-choice course asks for, and UCAS feels close. Our A-Level tutors for St Albans students mark past-paper answers with them and go after the marks that keep slipping. Plenty of families come to us at exactly this point."
 grade_from: C
 grade_to: A
 grade_stat: "One parent sums it up as Cs to As, with help on university choices along the way."
 first_lesson_eyebrow: "ONE PARENT'S A-LEVEL STORY"
-first_lesson_heading: "Where a St Albans A-Level Tutor Finds the Missing Marks"
-first_lesson_context: "One shaky mock can leave your child feeling behind everyone else, especially in Hertfordshire, where A-Level results sit above the national picture. Usually they aren't. A St Albans A-Level tutor starts with a recent essay or past paper, finds where the marks are going, and plans the next few weeks from there."
+first_lesson_heading: "Where an A-Level Tutor for St Albans Students Finds the Missing Marks"
+first_lesson_context: "One shaky mock can leave your child feeling behind everyone else, especially in Hertfordshire, where A-Level results sit above the national picture. Usually they aren't. An A-Level tutor for St Albans students starts with a recent essay or past paper, finds where the marks are going, and plans the next few weeks from there."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: Alexander
 first_lesson_quote_role: Parent
 first_lesson_quote_grade: A-Level
-tutor_strip_heading: "St Albans A-Level tutors for Russell Group and Oxbridge hopes"
+tutor_strip_heading: "A-Level tutors for St Albans students, for Russell Group and Oxbridge hopes"
 tutor_strip_body: "Cambridge, Oxford, Imperial, UCL or somewhere else in the Russell Group: if that's where your child's aiming, tell us on the call. We'll pick tutors with that goal in mind. Browse the profiles, or we'll make the introduction."
 tutors_browse_url: /book-a-call/
 pathways_heading: "Where St Albans A-Level Leavers Head Next"

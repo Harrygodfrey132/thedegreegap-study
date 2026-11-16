@@ -7,7 +7,7 @@ location: "Darlington"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Darlington Students, for Language and Literature Alike"
+hero_h1: "GCSE English Tutors for Darlington Students"
 hero_lead: "English Language and English Literature are two separate GCSEs, and plenty of children are noticeably weaker in one of them. Our GCSE English tutors for Darlington students find which one is costing your child more, then share the weeks between the two."
 
 angle_eyebrow: "TWO GCSES, ONE SUBJECT NAME"

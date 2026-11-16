@@ -1,5 +1,5 @@
 ---
-title: "Online A-Level Maths Tutors for Redhill Sixth Formers | The Degree Gap"
+title: "A-Level Maths Tutors for Redhill Sixth Formers | The Degree Gap"
 nav_title: "Maths"
 description: "Does your child follow A-Level Maths in class but stall on a question alone? Online A-Level Maths tutoring for Redhill sixth formers. From £37, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Redhill"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Redhill Students Who Can't See Where a Question Starts"
+hero_h1: "A-Level Maths Tutors for Redhill Students"
 hero_lead: "Your child follows every worked example in class, then opens a past paper and can't see where the first line should come from. Our A-Level Maths tutors for Redhill students teach them how to start a question they've never met, across Pure, Mechanics and Statistics."
 
 angle_eyebrow: "FOLLOWING ISN'T THE SAME AS STARTING"

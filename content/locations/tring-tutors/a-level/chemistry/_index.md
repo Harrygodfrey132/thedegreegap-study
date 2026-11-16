@@ -7,7 +7,7 @@ location: "Tring"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Tring Students Who Slip Up Mid-Calculation"
+hero_h1: "A-Level Chemistry Tutors for Tring Students"
 hero_lead: "Your child starts a buffer or equilibrium question confidently, then one unit slips in line three and every mark after it goes. Our A-Level Chemistry tutors for Tring students slow those calculations down, then build the organic routes the same careful way."
 
 angle_eyebrow: "OCR CHEMISTRY A, ONE LINE AT A TIME"

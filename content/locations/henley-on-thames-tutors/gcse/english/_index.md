@@ -1,13 +1,13 @@
 ---
 title: "GCSE English Tutors for Henley-on-Thames | The Degree Gap"
 nav_title: "English"
-description: "English Language is one of two GCSEs The Henley College names for A-Levels. Our Henley-on-Thames GCSE English tutors help your child online, from £37."
+description: "English Language is one of two GCSEs The Henley College names for A-Levels. Our GCSE English tutors for Henley-on-Thames help your child online, from £37."
 layout: "level-subject"
 location: "Henley-on-Thames"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors Covering Henley-on-Thames"
+hero_h1: "GCSE English Tutors for Henley-on-Thames Students"
 hero_lead: "Your child can be a keen reader and still run out of time before the writing task on the Language paper. Unseen extracts and quick planning are where our GCSE English tutors for Henley-on-Thames students usually begin, working with your child one-to-one online."
 
 angle_eyebrow: "LANGUAGE, NOT LITERATURE, ON THE FORM"

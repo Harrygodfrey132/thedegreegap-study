@@ -1,11 +1,11 @@
 ---
 title: "Brighton A-Level Tutors | One-to-One Support | The Degree Gap"
-description: "Brighton A-Level tutors for Year 12 and 13 at BHASVIC, Varndean and beyond, if a big college moves too fast. One-to-one online lessons from £37, no contract."
+description: "A-Level tutors for Brighton, for Year 12 and 13 at BHASVIC, Varndean and beyond, if a big college moves too fast. One-to-one online lessons from £37."
 layout: "subject"
 location: "Brighton"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors in Brighton Helping Your Child Keep Up at a Big College"
+hero_heading_line1: "A-Level Tutors for Brighton Students"
 hero_heading_line2: ""
 hero_lead: "Maybe your child's in Year 12 and still finding their feet after GCSE. Or it's Year 13, there's an offer to hit, and the mock came back short. Our A-Level tutors for Brighton students find what's really costing marks and start there, whichever year it is."
 
@@ -14,7 +14,7 @@ grade_to: "A"
 grade_stat: "From a parent's review: their son finished almost two grades above his Year 13 mock."
 
 first_lesson_eyebrow: "TWO GRADES ABOVE THE MOCK"
-first_lesson_heading: "What a Brighton A-Level Tutor Catches That a Big Class Misses"
+first_lesson_heading: "What an A-Level Tutor for Brighton Students Catches That a Big Class Misses"
 first_lesson_context: "In a college of a few thousand, two teenagers in the same room can have completely different problems. One's in Year 13 and her essays stall after the first counter-argument; the other did fine at GCSE and has been floored by how much A-Level throws at him. The tutor reads your child's actual paper, marks it the way the exam board would, and starts from whichever gap is real, missing content or exam-day timing."
 
 first_lesson_quote: "My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
@@ -22,7 +22,7 @@ first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Almost two grades up on a Year 13 mock, A-Level"
 
-tutor_strip_heading: "Brighton A-Level tutors who know the Sussex, Brighton and medical school routes"
+tutor_strip_heading: "A-Level tutors for Brighton students who know the Sussex, Brighton and medical school routes"
 tutor_strip_body: "Our tutors have all been through UCAS themselves, many into Russell Group universities, so the process your child faces at BHASVIC, Varndean College or elsewhere won't be new to them. Harry and Joe can steer subject and university choices too. Browse profiles, or let us introduce you."
 
 pathways_heading: "Where Your Child's Brighton A-Levels Could Lead"

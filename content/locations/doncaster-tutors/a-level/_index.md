@@ -5,7 +5,7 @@ layout: "subject"
 location: "Doncaster"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Doncaster Students Working Harder Than Their Marks Show"
+hero_heading_line1: "A-Level Tutors for Doncaster Students"
 hero_heading_line2: ""
 hero_lead: "You can hear your child working late, and the marks still come back a band below the effort. Our A-Level tutors for Doncaster students look for where those marks leak, usually in the longer answers, and start there."
 

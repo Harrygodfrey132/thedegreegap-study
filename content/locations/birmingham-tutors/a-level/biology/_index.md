@@ -1,5 +1,5 @@
 ---
-title: "Birmingham A-Level Biology Tutors | Online | The Degree Gap"
+title: "Birmingham A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
 description: "Online A-Level Biology tutoring for Birmingham families: enzyme graphs, digestion and long answers, whether it's Medicine or a steady B. One-to-one from £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Birmingham"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "One-to-One Online A-Level Biology Tutors in Birmingham"
+hero_h1: "A-Level Biology Tutors for Birmingham Students"
 hero_lead: "Plenty of Biology marks go on answers that are true but incomplete, and the enzyme graph is a classic. Your child says it levels off. The examiner wanted to know why. Our A-Level Biology tutors for Birmingham students work on that gap, starting with enzymes and digestion."
 
 angle_eyebrow: "WHY THE GRAPH FLATTENS"
@@ -28,7 +28,7 @@ schools:
   - "Lordswood Girls' School"
   - "Handsworth Wood Girls' Academy"
 
-steps_heading: "Three Steps to an A-Level Biology Tutor in Birmingham"
+steps_heading: "Three Steps to an A-Level Biology Tutor for Birmingham Students"
 steps_lead: "Tutor profiles come within a day of the call, and an autumn start leaves plenty of practice before January's mocks."
 steps:
   - title: "What's the grade for?"

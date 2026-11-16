@@ -7,7 +7,7 @@ location: "New Malden"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for New Malden Students Meeting Fields and Oscillations in Year 13"
+hero_h1: "A-Level Physics Tutors for New Malden Students"
 hero_lead: "Year 12 mechanics went fine, then Year 13 brought circular motion, oscillations and gravitational fields almost at once, and the marks dipped. Our A-Level Physics tutors for New Malden students go back to the Year 12 ideas those topics stand on, then work forward."
 
 angle_eyebrow: "THE YEAR 13 PILE-UP"

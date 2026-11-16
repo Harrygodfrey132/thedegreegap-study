@@ -1,13 +1,13 @@
 ---
-title: "Oxford GCSE Maths Tutors | Online | The Degree Gap"
+title: "Oxford GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Has your child decided they're not a Maths person? It's usually one missing method. Our Oxford GCSE Maths tutors find it, one-to-one and online, from £37."
+description: "Has your child decided they're not a Maths person? It's usually one missing method. Our GCSE Maths tutors for Oxford find it, one-to-one and online, from £37."
 layout: "level-subject"
 location: "Oxford"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutoring for Oxford Families"
+hero_h1: "GCSE Maths Tutors for Oxford Students"
 hero_lead: "If your child has started saying they're just no good at Maths, it's usually one missing method talking, not their ability. Our GCSE Maths tutors for Oxford students work online and go looking for that method."
 
 angle_eyebrow: "NOT BAD AT MATHS, MISSING A METHOD"

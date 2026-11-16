@@ -1,9 +1,9 @@
 ---
 title: "Loughborough GCSE & A-Level Tutors | The Degree Gap"
-description: "From GCSE to the big step up into Year 12, our Loughborough tutors work one-to-one with your child online. The first step is a free call with Harry or Joe."
+description: "From GCSE to the big step up into Year 12, our tutors for Loughborough work one-to-one with your child online. The first step is a free call with Harry or Joe."
 layout: "single"
 location: "Loughborough"
-banner_heading: "Loughborough Online Tutors for GCSE and A-Level, Including the Big Step Up Into Year 12"
+banner_heading: "GCSE and A-Level Tutors for Loughborough Families"
 banner_description: "Whether your child has a university course in mind or no idea yet, good GCSEs and a steady start at A-Level keep their options open. Our tutors help with both."
 content_angle: "university town: the early 'what next' talk, GCSEs that keep options open, and the big step up into Year 12"
 intro_1: "In a town with a university at its centre, the 'what next' conversation tends to start early. Some Loughborough teenagers are saying 'engineering' or 'medicine' by Year 9. Others still haven't a clue in Year 12, and that's completely normal. Either way, the grades start to carry a bit more weight at home. A-Level choices depend on GCSE results, university offers depend on A-Levels, and one wobbly mock can feel like it puts the whole plan at risk. It doesn't. But it's often the moment a parent picks up the phone to us."

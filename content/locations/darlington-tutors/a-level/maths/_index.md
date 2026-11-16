@@ -7,7 +7,7 @@ location: "Darlington"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Darlington Sixth Formers Whose Algebra Needs to Be Quicker"
+hero_h1: "A-Level Maths Tutors for Darlington Students"
 hero_lead: "QE asks for 'excellent algebra skills' before A-Level Maths even starts, and the first term shows why. Our A-Level Maths tutors for Darlington students make that algebra quick and reliable, then work through Pure, Statistics and Mechanics alongside your child's class."
 
 angle_eyebrow: "WHERE PURE LEANS ON GCSE"

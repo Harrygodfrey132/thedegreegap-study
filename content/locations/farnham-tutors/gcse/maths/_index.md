@@ -1,13 +1,13 @@
 ---
 title: "GCSE Maths Tutors for Farnham | The Degree Gap"
 nav_title: "Maths"
-description: "Farnham College's A-Level Chemistry wants a 6 in Maths as well. Our Farnham GCSE Maths tutors find where your child's marks go, online, from £37 an hour."
+description: "Farnham College's A-Level Chemistry wants a 6 in Maths as well. Our GCSE Maths tutors for Farnham find where your child's marks go, online, from £37 an hour."
 layout: "level-subject"
 location: "Farnham"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Farnham Children"
+hero_h1: "GCSE Maths Tutors for Farnham Students"
 hero_lead: "If Maths is the subject your child dreads, it can feel like it's holding up everything else, and at 16 it often is. Our GCSE Maths tutors for Farnham students go back to wherever the trouble began and rebuild from there."
 
 angle_eyebrow: "NOT JUST FOR A-LEVEL MATHS"

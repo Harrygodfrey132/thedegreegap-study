@@ -1,13 +1,13 @@
 ---
 title: "GCSE Science Tutoring for Hitchin | The Degree Gap"
 nav_title: "Science"
-description: "Is one science dragging your child's GCSE grade down? Our Hitchin GCSE Science tutors find which one and start there. Online, one-to-one, from £37 an hour."
+description: "Is one science dragging your child's GCSE grade down? Our GCSE Science tutors for Hitchin find which one and start there. Online, one-to-one, from £37 an hour."
 layout: "level-subject"
 location: "Hitchin"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Hitchin, When One Science Drags the Others Down"
+hero_h1: "GCSE Science Tutors for Hitchin Students"
 hero_lead: "If your child's Science grade came back lower than you hoped, the trouble is rarely all three sciences. Usually one of Biology, Chemistry or Physics is lagging while the other two cover for it. Our GCSE Science tutors for Hitchin students work out which one, and that's where the lessons start."
 
 angle_eyebrow: "FIND THE WEAK SCIENCE FIRST"

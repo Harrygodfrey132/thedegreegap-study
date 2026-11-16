@@ -1,13 +1,13 @@
 ---
 title: "GCSE Science Tutors in Abingdon | The Degree Gap"
 nav_title: "Science"
-description: "Combined or triple, one weak science can drag grades down. Our Abingdon GCSE Science tutors find where your child's marks go and start there, online. From £37."
+description: "Combined or triple, one weak science can drag grades down. Our GCSE Science tutors for Abingdon find where your child's marks go and start there, online."
 layout: "level-subject"
 location: "Abingdon"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Covering Abingdon, Radley and Culham"
+hero_h1: "GCSE Science Tutors for Abingdon Students"
 hero_lead: "Your child can explain how a vaccine works at the dinner table, then lose half the marks on the exam question about it. Our GCSE Science tutors for Abingdon students find out which science and which kind of question is costing marks, then work on it one-to-one online."
 
 angle_eyebrow: "SCIENCE ON ABINGDON'S DOORSTEP"

@@ -1,11 +1,11 @@
 ---
-title: "Online A-Level Tutors for Tooting Sixth Formers | The Degree Gap"
+title: "A-Level Tutors for Tooting Sixth Formers | The Degree Gap"
 description: "Is your child heading for real exams at the end of Year 12? We'll match Tooting sixth formers with an online A-Level tutor on their board. From £37 an hour."
 layout: "subject"
 location: "Tooting"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Tooting Students Facing Exams at the End of Year 12"
+hero_heading_line1: "A-Level Tutors for Tooting Students"
 hero_heading_line2: ""
 hero_lead: "Your child has barely got used to A-Level work when the end-of-year exams arrive, and teachers lean on those results when they write predicted grades. Our A-Level tutors for Tooting students find what's slipping in the autumn, while there's time to fix it."
 

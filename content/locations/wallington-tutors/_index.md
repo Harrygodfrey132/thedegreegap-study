@@ -1,9 +1,9 @@
 ---
-title: "Worried About GCSEs? Online Tutors for Wallington Students"
+title: "Worried About GCSEs? Tutors for Wallington Students"
 description: "Is your child getting the right answers but not the marks at school in Wallington? We'll match them with an online tutor. Free call first, from £37 an hour."
 layout: "single"
 location: "Wallington"
-banner_heading: "Online tutors for Wallington students who know the answer and still lose the marks"
+banner_heading: "GCSE and A-Level Tutors for Wallington Families"
 banner_description: "We choose a tutor for your child from anywhere in the UK, someone who teaches them to set out the working that earns marks, in lessons at home."
 content_angle: "marks for the working: GCSEs reward the written reasoning a multiple-choice SET never asked for"
 intro_1: "The test comes back with the right answer at the bottom and two marks out of five next to it. Your child is fed up. You're not sure what to say, because they did get it right. Wallington parents describe this to us a lot, and there's a reason it's so common here. If your child sat the Selective Eligibility Test in Year 6, the big exam they prepared for was two multiple-choice papers, one Maths and one English, where only the option they picked counted. GCSEs work the other way round. Method marks in Maths, explanations in Science, the argument in an English essay: the marks are in what gets written down."

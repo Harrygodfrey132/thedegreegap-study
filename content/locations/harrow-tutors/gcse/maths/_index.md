@@ -1,13 +1,13 @@
 ---
 title: "Harrow GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Has the November mock brought home a grade you weren't expecting? Harrow GCSE Maths tutors, one-to-one and online, matched to your child's board. From £37."
+description: "Has the November mock brought home a grade you weren't expecting? GCSE Maths tutors for Harrow, one-to-one and online, matched to your child's board. From £37."
 layout: "level-subject"
 location: "Harrow"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors Harrow Parents Call When the November Mock Comes Back"
+hero_h1: "GCSE Maths Tutors for Harrow Students"
 hero_lead: "The November mock has a way of turning a vague worry into a number. Our GCSE Maths tutors for Harrow students work one-to-one online, and they go through that paper with your child question by question before planning a thing."
 
 angle_eyebrow: "THE MARKS AREN'T SPREAD EVENLY"

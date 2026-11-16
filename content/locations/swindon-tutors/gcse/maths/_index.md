@@ -1,13 +1,13 @@
 ---
-title: "Swindon GCSE Maths Tutors | Online | The Degree Gap"
+title: "Swindon GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "One marked paper shows where your child's Maths marks are going. Our Swindon GCSE Maths tutors find that part and spend the lessons there. Online, from £37."
+description: "One marked paper shows where your child's Maths marks are going. Our GCSE Maths tutors for Swindon find that part and spend the lessons there. Online, from £37."
 layout: "level-subject"
 location: "Swindon"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Swindon, Starting Where the Marks Go"
+hero_h1: "GCSE Maths Tutors for Swindon Students"
 hero_lead: "Maths papers come in blocks, and your child almost never loses marks evenly across them. Our GCSE Maths tutors for Swindon students work online, find the block that's leaking, and spend the term there."
 
 angle_eyebrow: "MARKS AREN'T LOST EVENLY"

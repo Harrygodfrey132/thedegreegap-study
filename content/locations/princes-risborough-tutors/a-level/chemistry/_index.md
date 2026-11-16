@@ -7,7 +7,7 @@ location: "Princes Risborough"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Princes Risborough Sixth Formers Stuck on Mechanisms and Moles"
+hero_h1: "A-Level Chemistry Tutors for Princes Risborough Students"
 hero_lead: "Your child could balance any equation at GCSE, and now curly arrows, moles and Kc are blurring into one. Our A-Level Chemistry tutors for Princes Risborough students take each mechanism and calculation back to the step that went missing."
 
 angle_eyebrow: "CURLY ARROWS AND A CALCULATOR"

@@ -1,9 +1,9 @@
 ---
-title: "Online Tutors for Your Child in Leatherhead | The Degree Gap"
+title: "Tutors for Your Child in Leatherhead | The Degree Gap"
 description: "Is one subject slipping while your child's week is already full? We'll match your Leatherhead teenager with an online tutor who fits around it. From £37."
 layout: "single"
 location: "Leatherhead"
-banner_heading: "Online tutoring for Leatherhead teenagers with a full week and one subject slipping"
+banner_heading: "GCSE and A-Level Tutors for Leatherhead Families"
 banner_description: "Tell us about your child on a free call, and we'll find a tutor who knows their exam board and has an hour free when they do."
 content_angle: "the full week: Leatherhead teenagers with training, fixtures and rehearsals most evenings, school runs heading off in every direction (Therfield, St Andrew's, the Howard, Epsom, Ashtead), and one subject quietly slipping; online lessons slot into the gaps with no extra drive"
 intro_1: "Monday is swimming training. Tuesday is cricket nets, Thursday a rehearsal, and Saturday vanishes into a fixture somewhere off the M25. Somewhere in all that, Chemistry has started to slide, and you only found out because a test came home with a mark nobody had mentioned. You've thought about a tutor. Then you looked at the week and wondered when. It doesn't help that school runs here head off in every direction, to Therfield on Dilston Road, St Andrew's on Grange Road, the Howard out at Effingham or the train to Epsom, so no two families' evenings look quite the same."

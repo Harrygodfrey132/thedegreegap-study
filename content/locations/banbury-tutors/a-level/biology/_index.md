@@ -1,5 +1,5 @@
 ---
-title: "Banbury A-Level Biology Tutors | Online | The Degree Gap"
+title: "Banbury A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
 description: "Losing A-Level Biology marks in one topic, or a few on every long answer? Online Banbury tutors find out which first, for Year 12 and 13. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Banbury"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Banbury and North Oxfordshire"
+hero_h1: "A-Level Biology Tutors for Banbury Students"
 hero_lead: "Put your child's last marked Biology paper on the table and look at where the lost marks sit: bunched together, or spread thin. Our A-Level Biology tutors for Banbury students start from that pattern, so nobody spends a term working on the wrong thing."
 
 angle_eyebrow: "BUNCHED MARKS OR SCATTERED ONES?"
@@ -28,7 +28,7 @@ schools:
   - "Bloxham School"
   - "Tudor Hall School"
 
-steps_heading: "How your child gets started with a Banbury Biology tutor"
+steps_heading: "How your child gets started with a Biology tutor for Banbury students"
 steps_lead: "Profiles within a day. And one marked paper often shows the problem before lessons even start."
 steps:
   - title: "Tell us about your child"

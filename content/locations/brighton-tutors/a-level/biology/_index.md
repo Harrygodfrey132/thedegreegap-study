@@ -1,5 +1,5 @@
 ---
-title: "Brighton A-Level Biology Tutors | Online | The Degree Gap"
+title: "Brighton A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
 description: "Online A-Level Biology tutors for Brighton families. If your child writes that bacteria adapt to antibiotics, a tutor can fix the reasoning. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Brighton"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Brighton and Hove"
+hero_h1: "A-Level Biology Tutors for Brighton Students"
 hero_lead: "Ask your child why bacteria become resistant to antibiotics, and listen out for the word 'adapt', because it usually costs marks. Our A-Level Biology tutors for Brighton students work on the reasoning underneath, until the steps come out in the right order without a second thought."
 
 angle_eyebrow: "THE STORY THAT GETS TOLD BACKWARDS"

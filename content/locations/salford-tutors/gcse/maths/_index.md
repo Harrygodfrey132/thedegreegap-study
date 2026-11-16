@@ -7,7 +7,7 @@ location: "Salford"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors for Salford Students, Whatever Grade the Next Step Needs"
+hero_h1: "GCSE Maths Tutors for Salford Students"
 hero_lead: "For A-Level Maths or a science at Pendleton your child will want a 6 in Maths, while for lots of college courses a solid 4 or 5 is the goal. Our GCSE Maths tutors for Salford students find the topics costing your child marks against that target and fix those first."
 
 angle_eyebrow: "TWO TARGETS, ONE PAPER"

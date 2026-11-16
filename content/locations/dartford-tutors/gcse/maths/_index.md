@@ -7,7 +7,7 @@ location: "Dartford"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Dartford Students, for the Grade No Other Subject Can Cover"
+hero_h1: "GCSE Maths Tutors for Dartford Students"
 hero_lead: "Your child can do well everywhere else, but if Maths comes in under a 5, a big points total won't get them into Dartford's grammar sixth forms. Our GCSE Maths tutors for Dartford students find the topics keeping your child below the line and work on those first."
 
 angle_eyebrow: "THE GRADE THAT CAN'T BE AVERAGED OUT"

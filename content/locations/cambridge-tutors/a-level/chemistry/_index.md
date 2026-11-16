@@ -1,5 +1,5 @@
 ---
-title: "Cambridge A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Cambridge A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Year 13 Chemistry not making sense to your child? It's often a Year 12 gap. Online A-Level Chemistry tutors who help Cambridge families find it. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Cambridge"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Cambridge, Matched to Your Child's Exam Board"
+hero_h1: "A-Level Chemistry Tutors for Cambridge Students"
 hero_lead: "Your child got through Year 12 Chemistry fine, and now Year 13 just isn't making sense. It happens a lot. Our A-Level Chemistry tutors for Cambridge students go back to the Year 12 idea that never quite set, then build up from there."
 
 angle_eyebrow: "THE YEAR 12 WORK THAT YEAR 13 TAKES FOR GRANTED"
@@ -28,7 +28,7 @@ schools:
   - "Parkside Community College"
   - "Coleridge Community College"
 
-steps_heading: "Three steps to a Cambridge A-Level Chemistry tutor"
+steps_heading: "Three steps to an A-Level Chemistry tutor for Cambridge students"
 steps_lead: "From the first call to the first lesson usually takes under a week. If the gap goes back to Year 12, sooner really is better, because rebuilding takes weeks the spring can't spare."
 steps:
   - title: "A free call with Harry or Joe"

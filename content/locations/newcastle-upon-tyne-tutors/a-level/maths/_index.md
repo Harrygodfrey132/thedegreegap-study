@@ -1,13 +1,13 @@
 ---
 title: "A-Level Maths Tuition for Newcastle upon Tyne | The Degree Gap"
 nav_title: "Maths"
-description: "Has Mechanics knocked your child's A-Level Maths off course? Our Newcastle upon Tyne tutors are matched to their exam board and teach online, from £37 an hour."
+description: "Has Mechanics knocked your child's A-Level Maths off course? Our tutors for Newcastle upon Tyne are matched to their exam board and teach online, from £37."
 layout: "level-subject"
 location: "Newcastle upon Tyne"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors in Newcastle upon Tyne, Matched to Your Child's Exam Board"
+hero_h1: "A-Level Maths Tutors for Newcastle upon Tyne Students"
 hero_lead: "Pure was going fine, then Mechanics arrived and your child stopped knowing where to start. It happens a lot in Year 12. Our A-Level Maths tutors for Newcastle upon Tyne students are matched to the exam board your child's sixth form uses, because that decides which paper Mechanics sits on."
 
 angle_eyebrow: "WHERE THE BOARD PUTS MECHANICS"
@@ -41,7 +41,7 @@ steps:
     body: "Lessons are one-to-one in the online classroom Lessonspace, and every one has a replay to watch back. The diagram goes on the screen before anyone touches a number. Some Year 13s have ninety-minute lessons instead. From £37 an hour, with no contract."
 
 faqs:
-  - q: "Can a Newcastle upon Tyne A-Level Maths tutor help with a Nissan or Accenture apprenticeship application?"
+  - q: "Can an A-Level Maths tutor for Newcastle upon Tyne students help with a Nissan or Accenture apprenticeship application?"
     a: "Yes, with the part that comes down to Maths. Nissan in Sunderland and Accenture both take school leavers onto apprenticeship routes in the region. Each sets its own entry requirements for each scheme and can change them between intakes. The engineering and technology routes usually name Maths, and they want predicted grades. Their deadlines often come before the UCAS one, and there's a written application and an assessment on top of the grades. So the tutor works on the Maths grade they'll look at, and on the timing, so your child's prediction is where it needs to be when applications open."
   - q: "Why has my child been predicted a lower A-Level Maths grade than I expected?"
     a: "Mostly because predictions come from mock results plus the teacher's judgement. At A-Level, the gap between what your child can do in class and what they manage in a timed paper is wider than it was at GCSE. In Maths it often looks like this: they follow a method well in lessons, but can't pick one when the question doesn't say which. Mechanics is usually where that shows first. So the prediction reflects the paper, not what your child's capable of. In the first lesson the tutor goes through the marked mock itself to find where the marks went. That gives you something concrete to talk through with the sixth form, too."

@@ -7,7 +7,7 @@ location: "Bedford"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Bedford Students Losing Marks to Algebra Slips"
+hero_h1: "GCSE Maths Tutors for Bedford Students"
 hero_lead: "Your child gets the method, then a minus sign vanishes in line two and the whole answer goes with it. Our GCSE Maths tutors for Bedford students watch the working as it happens and fix the habits behind those slips."
 
 angle_eyebrow: "THE MINUS SIGN IN LINE TWO"

@@ -1,5 +1,5 @@
 ---
-title: "Loughborough A-Level Maths Tutors | Online | The Degree Gap"
+title: "Loughborough A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Your child knows the A-Level Maths methods but can't always spot which one a question wants? Online one-to-one Loughborough tutors can help, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Loughborough"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Loughborough Families, Starting From the Exam Paper"
+hero_h1: "A-Level Maths Tutors for Loughborough Students"
 hero_lead: "Your child can do partial fractions perfectly well when the worksheet asks for them. The exam doesn't always ask. Our A-Level Maths tutors for Loughborough students help them spot when a question needs them, and that's where the marks really are."
 
 angle_eyebrow: "KNOWING THE METHOD ISN'T SPOTTING THE QUESTION"
@@ -28,7 +28,7 @@ schools:
   - "De Lisle College"
   - "Limehurst Academy"
 
-steps_heading: "Three steps to a Loughborough A-Level Maths tutor your child gets on with"
+steps_heading: "Three steps to an A-Level Maths tutor for Loughborough students your child gets on with"
 steps_lead: "You'll usually have tutor profiles within 24 hours of our call. If you can, start before predicted grades are written for UCAS."
 steps:
   - title: "A free call first"
@@ -39,7 +39,7 @@ steps:
     body: "An hour a week, one-to-one on the platform Lessonspace, with a replay of every lesson. Your child names the approach before writing, and the tutor checks each line. From £37 an hour, no contract, and a new tutor free if they don't click."
 
 faqs:
-  - q: "My child wants an engineering degree apprenticeship. Could a Loughborough A-Level Maths tutor help with that?"
+  - q: "My child wants an engineering degree apprenticeship. Could an A-Level Maths tutor for Loughborough students help with that?"
     a: "Yes, and Maths is usually the grade those applications hinge on. Engineering and technology degree apprenticeships around the East Midlands often ask for something like AAB to BBB, with Maths named. Many add a numerical reasoning test when your child applies. It's the predicted grade that gets the form read in the first place. And setting a problem out clearly before solving it is just what those tests reward, so the two tend to improve together."
   - q: "How do I work out where my child's actually losing marks in Maths?"
     a: "Put their textbook exercises next to a past paper on the same topic. If the exercises are fine and the exam questions aren't, it's a spotting problem, not a knowledge one. It's the thing we see most in Year 13, and the one that's talked about least. If the working starts well and falls apart halfway, it's algebra that isn't quite fluent yet. A blank space means they didn't recognise the question at all. Three different problems, so three different plans."

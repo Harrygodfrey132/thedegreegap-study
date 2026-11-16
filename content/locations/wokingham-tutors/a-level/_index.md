@@ -1,11 +1,11 @@
 ---
-title: "Wokingham A-Level Tuition | Online One-to-One | The Degree Gap"
+title: "Wokingham A-Level Tuition | One-to-One | The Degree Gap"
 description: "Is sixth form harder for your child than you both expected? We match Wokingham students with an online A-Level tutor who knows their exam board. From £37."
 layout: "subject"
 location: "Wokingham"
 level: "A-Level"
 
-hero_heading_line1: "Online Wokingham A-Level Tutors for Sixth Formers Still Learning to Study on Their Own"
+hero_heading_line1: "A-Level Tutors for Wokingham Students"
 hero_heading_line2: ""
 hero_lead: "Sixth form brings free periods and far less checking up, and plenty of bright teenagers don't yet know what to do with either. Our A-Level tutors for Wokingham students give your child one fixed hour a week, and a plan for the hours in between."
 

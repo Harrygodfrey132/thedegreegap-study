@@ -5,7 +5,7 @@ layout: "subject"
 location: "Andover"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Andover Students Whose Free Periods Aren't Turning Into Revision"
+hero_heading_line1: "A-Level Tutors for Andover Students"
 hero_heading_line2: ""
 hero_lead: "At college, a big share of your child's week isn't lessons at all, and those hours can drift until the Year 13 mocks arrive. Our A-Level tutors for Andover students give that time a shape: one lesson a week, and a clear task before the next."
 

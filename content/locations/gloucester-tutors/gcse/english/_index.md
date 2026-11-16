@@ -7,7 +7,7 @@ location: "Gloucester"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Gloucester Students Who Run Out of Time"
+hero_h1: "GCSE English Tutors for Gloucester Students"
 hero_lead: "Your child knows the texts, then the exam ends with half an essay on the page. Our GCSE English tutors for Gloucester students work on planning and timing, for Language and Literature, one-to-one and online."
 
 angle_eyebrow: "WHERE ENGLISH MARKS RUN OUT"

@@ -1,5 +1,5 @@
 ---
-title: "Nottingham GCSE English Tutors | Online | The Degree Gap"
+title: "Nottingham GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "Is the 19th-century extract eating your child's exam time? Our online Nottingham GCSE English tutors build reading stamina and essay structure. From £37/hr."
 layout: "level-subject"
@@ -7,11 +7,11 @@ location: "Nottingham"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors Covering Nottingham and West Bridgford"
+hero_h1: "GCSE English Tutors for Nottingham Students"
 hero_lead: "Does your child run out of time on the English papers? Often the problem isn't the analysis. It's the reading: hours of dense text across Language and Literature, some of it written in the 19th century. Our GCSE English tutors for Nottingham students start there."
 
 angle_eyebrow: "THE READING BEFORE THE WRITING"
-angle_heading: "The Reading Stamina a Nottingham GCSE English Tutor Builds First"
+angle_heading: "The Reading Stamina a GCSE English Tutor for Nottingham Students Builds First"
 angle_body_1: "Before your child can analyse anything, they have to get through it, and the English papers ask for a lot of reading against the clock. The 19th-century extract on the Language paper shows it best. It isn't harder to think about than the modern one. But the sentences are longer, the words are unfamiliar and the punctuation works differently. That means a child who doesn't read much outside school can spend most of the time just working out what it says, with nothing left for the questions. On a mark sheet it looks like a comprehension problem. Usually it's stamina. And it's fixable, though not by learning more quotes."
 angle_body_2: "So the lessons start with the hard passages, read aloud together on the shared whiteboard and annotated as they go, until the old-fashioned sentences stop feeling like a wall. Then the writing. Your child builds paragraphs that get marked honestly the same week, and the tutor picks their answer apart against the real mark scheme. Both halves matter in Nottingham, too. Bilborough College and Nottingham College set their own entry requirements, often a 5 or 6 in the subjects your child wants to carry on. And the apprenticeships at Boots in Beeston, Games Workshop and Nottingham University Hospitals mostly ask for a 4 or 5 in English."
 angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"

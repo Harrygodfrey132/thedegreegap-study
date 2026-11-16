@@ -7,7 +7,7 @@ location: "Havering"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Havering Students When Helping at Home Starts a Row"
+hero_h1: "GCSE Maths Tutors for Havering Students"
 hero_lead: "You sit down to help, explain it the way you learnt it, and your child says that's not how their teacher does it. Our GCSE Maths tutors for Havering students teach the methods the mark scheme expects, from algebraic fractions to the long problem-solving questions."
 
 angle_eyebrow: "WHEN YOUR METHOD ISN’T THEIR METHOD"

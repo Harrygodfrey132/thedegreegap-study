@@ -1,5 +1,5 @@
 ---
-title: "Stratford-upon-Avon Online GCSE Science Tutors | The Degree Gap"
+title: "Stratford-upon-Avon GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
 description: "Online GCSE Science tutors for Stratford-upon-Avon, Alcester and Shipston families, including the topics only Triple Science covers. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Stratford-upon-Avon"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Around Stratford-upon-Avon"
+hero_h1: "GCSE Science Tutors for Stratford-upon-Avon Students"
 hero_lead: "If your child is taking Triple Science, part of the course covers topics their friends in Combined never sit, and it's the part most easily squeezed in revision. Our GCSE Science tutors for Stratford-upon-Avon students make sure those topics get proper time alongside everything else."
 
 angle_eyebrow: "THE TOPICS ONLY TRIPLE SCIENCE CHILDREN SIT"

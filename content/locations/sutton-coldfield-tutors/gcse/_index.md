@@ -1,27 +1,27 @@
 ---
-title: "Sutton Coldfield GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "Sutton Coldfield GCSE tutors who help your child prepare before the mocks that set the predicted grade. Online and one-to-one, from £37 an hour, no contract."
+title: "Sutton Coldfield GCSE Tutors | One-to-One | The Degree Gap"
+description: "GCSE tutors for Sutton Coldfield who help your child prepare before the mocks that set the predicted grade. Online and one-to-one, from £37, no contract."
 layout: "subject"
 location: "Sutton Coldfield"
 level: "GCSE"
 
-hero_heading_line1: "Online Sutton Coldfield GCSE Tutors, Before the Mocks Set the Predicted Grade"
+hero_heading_line1: "GCSE Tutors for Sutton Coldfield Students"
 hero_heading_line2: ""
-hero_lead: "It's natural to see the winter mocks as a practice run. But they often shape your child's predicted grade, which sixth forms see long before results day. Sutton Coldfield GCSE tutors help your child prepare for the mocks themselves."
+hero_lead: "It's natural to see the winter mocks as a practice run. But they often shape your child's predicted grade, which sixth forms see long before results day. GCSE tutors for Sutton Coldfield students help your child prepare for the mocks themselves."
 
 grade_from: "5"
 grade_to: "6/7"
 grade_stat: "Omo's son, in Year 10, moved from a 5 to a 6/7 in English over six months. Omo's words are quoted below."
 
 first_lesson_eyebrow: "WHEN THE MOCK BECOMES THE PREDICTION"
-first_lesson_heading: "Why a Sutton Coldfield GCSE Tutor Likes an Autumn Start"
+first_lesson_heading: "Why a GCSE Tutor for Sutton Coldfield Students Likes an Autumn Start"
 first_lesson_context: "Schools lean on the winter mocks when they set predicted grades, and those grades are what sixth forms and colleges look at when they make offers. So anything your child sorts out before the mocks helps twice: once in the mock, and again in the summer. That's why a GCSE tutor would rather start in the autumn than wait for the mock results."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 6/7 in English"
 
-tutor_strip_heading: "Sutton Coldfield GCSE tutors, every one interviewed by Harry or Joe"
+tutor_strip_heading: "GCSE tutors for Sutton Coldfield students, every one interviewed by Harry or Joe"
 tutor_strip_body: "Plantsbrook, John Willmott, Fairfax and The Arthur Terry don't all use one exam board, so we'll check your child's before suggesting anybody. Have a scroll through the profiles, or book a free call and let us pick."
 
 pathways_heading: "Sutton Coldfield at 16: Where Predictions Count"

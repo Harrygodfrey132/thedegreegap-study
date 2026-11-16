@@ -7,7 +7,7 @@ location: "Ilford"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Ilford Students Who Can't Tell Which Method a Question Wants"
+hero_h1: "A-Level Maths Tutors for Ilford Students"
 hero_lead: "Your child can integrate by parts when the question says so, but an unlabelled problem leaves them staring at the page. Our A-Level Maths tutors for Ilford students build the habit of spotting which method fits, across Pure, Statistics and Mechanics."
 
 angle_eyebrow: "NOBODY SAYS WHICH METHOD"

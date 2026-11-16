@@ -7,7 +7,7 @@ location: "Hull"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Hull Students Whose Algebra Lags Behind Year 12"
+hero_h1: "A-Level Maths Tutors for Hull Students"
 hero_lead: "Your child got the GCSE grade they needed for A-Level Maths, and by October they're quietly lost. Our online A-Level Maths tutors make the algebra quick and reliable, then work through calculus, proof and Mechanics at your child's pace."
 
 angle_eyebrow: "WHEN GCSE ALGEBRA ISN'T FAST ENOUGH"

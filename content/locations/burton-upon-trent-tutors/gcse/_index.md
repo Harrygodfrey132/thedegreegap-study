@@ -1,11 +1,11 @@
 ---
-title: "GCSE Tutors for Burton upon Trent Teenagers | Online One-to-One"
+title: "GCSE Tutors for Burton upon Trent Teenagers | One-to-One"
 description: "Are Year 11 predictions worrying you? We'll match your Burton upon Trent teenager with an online GCSE tutor who knows their exam board. From £37 an hour."
 layout: "subject"
 location: "Burton upon Trent"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Burton upon Trent Teenagers Before Year 11 Predictions Are Set"
+hero_heading_line1: "GCSE Tutors for Burton upon Trent Students"
 hero_heading_line2: ""
 hero_lead: "Sixth form and college applications go in during Year 11, months before the exams, so the predicted grades on your child's report travel with them. Our GCSE tutors for Burton upon Trent students work on whichever subject is pulling those predictions down."
 

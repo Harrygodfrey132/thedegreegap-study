@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors for Your Child in Purley | The Degree Gap"
+title: "GCSE Tutors for Your Child in Purley | The Degree Gap"
 description: "Has your child gone off a GCSE subject they need? We'll match Purley students with an online GCSE tutor on their exam board. Free call first, from £37 an hour."
 layout: "subject"
 location: "Purley"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Purley Students Who've Gone Off a Subject They Need"
+hero_heading_line1: "GCSE Tutors for Purley Students"
 hero_heading_line2: ""
 hero_lead: "It often starts with one subject: homework that takes all evening, and a shrug whenever you ask about it. Our GCSE tutors for Purley students find the point where it went wrong and rebuild from there, one-to-one and online."
 

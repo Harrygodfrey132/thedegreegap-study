@@ -1,9 +1,9 @@
 ---
 title: "St Albans Tutors | GCSE & A-Level from £37/hr"
-description: "Good school, but one subject slipping? Our St Albans tutors teach GCSE and A-Level online, one-to-one. Talk to Harry or Joe first, then pick a tutor. From £37."
+description: "Good school, but one subject slipping? Our tutors for St Albans teach GCSE and A-Level online. Talk to Harry or Joe first, then pick a tutor. From £37."
 layout: single
 location: St Albans
-banner_heading: "A Good School, One Stubborn Subject: Online St Albans Tutors for GCSE and A-Level"
+banner_heading: "GCSE and A-Level Tutors for St Albans Families"
 banner_description: "Even a good school teaches a whole class at once, and it can't stop for the one topic your child missed. A tutor can."
 content_angle: "a good school, one stubborn subject: families who moved for the catchment or sat the entry tests, and the topic a busy class moved past"
 intro_1: "You may have moved house for the Sandringham or Verulam catchment, or seen your child through the entry tests for St Albans School or St Albans High School for Girls. So when a subject starts slipping, it can feel as though something has gone badly wrong. Usually it hasn't. GCSE results across Hertfordshire sit well above the national average, which can make an ordinary wobble look bigger than it is. Especially if you're back from the City late, and the homework is already done, or quietly not done."

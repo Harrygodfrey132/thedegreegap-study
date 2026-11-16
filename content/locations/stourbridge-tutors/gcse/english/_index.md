@@ -7,7 +7,7 @@ location: "Stourbridge"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Stourbridge Teenagers Who Know the Story but Not the Essay"
+hero_h1: "GCSE English Tutors for Stourbridge Students"
 hero_lead: "Your child can tell you exactly what happens in the play they're studying, then the essay comes back with 'more analysis' in the margin again. Our GCSE English tutors for Stourbridge students show them how to say something about a quotation, not around it, then practise against the clock."
 
 angle_eyebrow: "A 6 FOR THE ESSAY SUBJECTS"

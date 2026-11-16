@@ -5,7 +5,7 @@ layout: "subject"
 location: "York"
 level: "A-Level"
 
-hero_heading_line1: "Online York A-Level Tutors Who Start Before the Predicted Grade Is Set"
+hero_heading_line1: "A-Level Tutors for York Students"
 hero_heading_line2: ""
 hero_lead: "It catches a lot of parents out: the predicted grades on your child's UCAS form usually come from Year 12, long before the real exams. Our A-Level tutors for York students aim at those Year 12 papers, not just the final summer."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "Almost two grades higher than his Year 13 mock, as one parent put it in their review."
 
 first_lesson_eyebrow: "TWO GRADES ON A YEAR 13 MOCK"
-first_lesson_heading: "Where a York A-Level Tutor Starts in Year 12"
+first_lesson_heading: "Where an A-Level Tutor for York Students Starts in Year 12"
 first_lesson_context: "Lots of York families first get in touch in Year 13, when Year 12 would have been the easier moment. Not because Year 13 is hopeless. It's because the prediction usually rests on your child's Year 12 work, and by September of Year 13 most of that is already done."
 first_lesson_quote: "My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
 first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Almost two grades above the Year 13 mock"
 
-tutor_strip_heading: "York A-Level tutors who mark your child's work the way examiners do"
+tutor_strip_heading: "A-Level tutors for York students who mark your child's work the way examiners do"
 tutor_strip_body: "Some of the tutors we'd suggest in York are qualified examiners, and many are from Russell Group universities. And at A-Level that counts, because the gap between a good answer and a top one is usually technique, not content. Have a browse, or ask us to match you."
 
 pathways_heading: "Beyond A-Levels in York: Three Routes to Think About"

@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors for Your Child in Huddersfield | The Degree Gap"
+title: "GCSE Tutors for Your Child in Huddersfield | The Degree Gap"
 description: "Heading into Year 11 with a college application to make? We'll match your child with an online GCSE tutor for Huddersfield students. From £37, no contract."
 layout: "subject"
 location: "Huddersfield"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Huddersfield Students With a College Application Coming Up"
+hero_heading_line1: "GCSE Tutors for Huddersfield Students"
 hero_heading_line2: ""
 hero_lead: "Almost every Huddersfield Year 11 applies somewhere new for sixth form, and the application goes in long before results day. Our GCSE tutors for Huddersfield students work on the grades your child is getting now, one-to-one and online."
 

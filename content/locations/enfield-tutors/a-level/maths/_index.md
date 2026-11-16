@@ -7,7 +7,7 @@ location: "Enfield"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Enfield Sixth Formers Who Were Fine Until Year 12"
+hero_h1: "A-Level Maths Tutors for Enfield Students"
 hero_lead: "Sixth forms want a strong GCSE grade before A-Level Maths, so it's a shock when the first Year 12 assessment comes back low. Our A-Level Maths tutors for Enfield students go back to the algebra the course takes for granted and build forward from there."
 
 angle_eyebrow: "A STRONG GCSE, A HARD FIRST TERM"

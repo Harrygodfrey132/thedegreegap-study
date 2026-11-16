@@ -1,9 +1,9 @@
 ---
-title: "Online Tutors for Your Child in Ealing | The Degree Gap"
+title: "Tutors for Your Child in Ealing | The Degree Gap"
 description: "Worried your child is quietly slipping while others in Ealing seem fine? We'll match them with an online tutor who suits them. From £37 an hour, no contract."
 layout: "single"
 location: "Ealing"
-banner_heading: "Online tutoring for Ealing children who say school's fine when it isn't quite"
+banner_heading: "GCSE and A-Level Tutors for Ealing Families"
 banner_description: "Most of what a good tutor does is find the one thing your child stopped asking about, and because lessons are online, we can choose that tutor from anywhere in the UK."
 content_angle: "confidence in a high-achieving borough: when results all around run high, a small gap feels like a big one, and 'fine' hides it"
 intro_1: "Plenty of Ealing parents start the call by half apologising for it. Nothing's really wrong, they say. The reports are decent and your child insists school is fine. But Maths homework now takes three times as long, a Science test came home folded very small, and at the gate other parents are comparing mock grades you'd rather not hear about. It's a hard sort of worry to explain to anyone. It's also very common here. The borough's GCSE results sit well above both the London and the national averages, and in a place like that, a child who's only slightly behind can feel miles off."

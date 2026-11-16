@@ -7,7 +7,7 @@ location: "Wimbledon"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Wimbledon Students Who Understand It Until the Numbers Arrive"
+hero_h1: "A-Level Physics Tutors for Wimbledon Students"
 hero_lead: "Your child can explain what's happening in a Physics question and still lose the marks once the algebra starts. We match Wimbledon sixth formers with an online A-Level Physics tutor who sorts out the maths underneath mechanics and fields."
 
 angle_eyebrow: "HALF PHYSICS, HALF MATHS"

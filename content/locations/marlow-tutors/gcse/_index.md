@@ -1,11 +1,11 @@
 ---
 title: "Marlow GCSE Tutors | One-to-One | The Degree Gap"
-description: "Marlow GCSE tutors for the choice after Year 11: staying in town, Henley or Wycombe. One-to-one lessons online, matched to your child's board, from £37."
+description: "GCSE tutors for Marlow, for the choice after Year 11: staying in town, Henley or Wycombe. One-to-one lessons online, matched to your child's board, from £37."
 layout: "subject"
 location: "Marlow"
 level: "GCSE"
 
-hero_heading_line1: "Online Marlow GCSE Tutors for the Year 11 Grades Behind Your Child's Next Step"
+hero_heading_line1: "GCSE Tutors for Marlow Students"
 hero_heading_line2: ""
 hero_lead: "After Year 11, your child might stay in Marlow, cross into Oxfordshire for Henley or head to Wycombe, and each place looks at GCSEs in its own way. Our GCSE tutors for Marlow students work one-to-one online on the grades that choice depends on."
 
@@ -14,14 +14,14 @@ grade_to: "8"
 grade_stat: "Chamarika's son was predicted a 4-5 in Physics and got an 8 after about two months of tutoring."
 
 first_lesson_eyebrow: "LATE ISN'T THE SAME AS TOO LATE"
-first_lesson_heading: "What a Marlow GCSE Tutor Does With the Months That Are Left"
+first_lesson_heading: "What a GCSE Tutor for Marlow Students Does With the Months That Are Left"
 first_lesson_context: "Sixth form applications go in during the autumn of Year 11, but the grades that settle them don't arrive until August. So if you're only starting in January, or even March, you haven't missed it. The first lesson goes through a marked paper with your child, and that shows which subject deserves the remaining weeks and which one can be left alone."
 first_lesson_quote: "Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s. Thank you to all the 3x tutors."
 first_lesson_quote_name: "Chamarika"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Predicted 4-5 to an 8 in Physics"
 
-tutor_strip_heading: "Marlow GCSE tutors matched to your child's exam board and next step"
+tutor_strip_heading: "GCSE tutors for Marlow students matched to your child's exam board and next step"
 tutor_strip_body: "Borlase and Great Marlow don't use the same exam board for every subject, so we'll check your child's on the first call. Every tutor has been interviewed by Harry or Joe, and only about 3% of applicants get through. Browse the profiles, or ask us to choose."
 
 pathways_heading: "Three Ways Forward From Year 11 in Marlow"

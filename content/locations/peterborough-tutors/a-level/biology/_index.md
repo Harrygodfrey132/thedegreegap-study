@@ -1,13 +1,13 @@
 ---
-title: "Peterborough A-Level Biology Tutors | Online | The Degree Gap"
+title: "Peterborough A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Is your child's A-Level Biology folder full but the marks still low? Our Peterborough tutors help turn long notes into ones they can revise from. From £37."
+description: "A-Level Biology folder full but the marks still low? Our online tutors help Peterborough students turn long notes into ones they can revise from. From £37."
 layout: "level-subject"
 location: "Peterborough"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Families Around Peterborough"
+hero_h1: "A-Level Biology Tutors for Peterborough Students"
 hero_lead: "Your child's Biology notes can look beautiful and still be almost impossible to revise from. Our A-Level Biology tutors for Peterborough students help them turn those pages into something they can actually use."
 
 angle_eyebrow: "PAGES OF NOTES, NOTHING TO REVISE FROM"

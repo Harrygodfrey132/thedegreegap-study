@@ -1,13 +1,13 @@
 ---
 title: "Camberley A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Year 12 Maths moves fast when most of the class got a 7 or above at GCSE. Our Camberley A-Level Maths tutors help your child keep up, online, from £37."
+description: "Year 12 Maths moves fast when most of the class got a 7 or above at GCSE. Our A-Level Maths tutors for Camberley help your child keep up, online, from £37."
 layout: "level-subject"
 location: "Camberley"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutoring for Camberley Year 12s and 13s"
+hero_h1: "A-Level Maths Tutors for Camberley Students"
 hero_lead: "Whether your child stayed on or moved at 16, chances are most of their new Maths class got a 7 or better, so the first test can land lower than any GCSE mock. Our A-Level Maths tutors for Camberley students start from that test."
 
 angle_eyebrow: "A CLASS FULL OF 7S"

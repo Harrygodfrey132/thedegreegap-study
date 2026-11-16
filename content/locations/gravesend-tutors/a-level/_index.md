@@ -1,11 +1,11 @@
 ---
-title: "Online A-Level Tutors for Gravesend Students | The Degree Gap"
+title: "A-Level Tutors for Gravesend Students | The Degree Gap"
 description: "Is Year 12 not going the way your child hoped? We'll match your Gravesend sixth former with an online A-Level tutor on their exam board. From £37, no contract."
 layout: "subject"
 location: "Gravesend"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Gravesend Students Before the Year 12 Exams That Count"
+hero_heading_line1: "A-Level Tutors for Gravesend Students"
 hero_heading_line2: ""
 hero_lead: "The exams at the end of Year 12 feed your child's predicted grades, and at some sixth forms they decide whether a subject carries on. Our A-Level tutors for Gravesend students work on the topics behind a weak first-year paper while there's still time to change it."
 
@@ -14,7 +14,7 @@ grade_to: "B"
 grade_stat: "“Has definitely helped me increase my grades from an E to a B…” From Keira's Google review, written as an A-Level student"
 
 first_lesson_eyebrow: "WHEN YEAR 12 STARTS WITH AN E"
-first_lesson_heading: "What a Gravesend A-Level Tutor Does With a Disappointing Year 12 Paper"
+first_lesson_heading: "What an A-Level Tutor for Gravesend Students Does With a Disappointing Year 12 Paper"
 first_lesson_context: "At Mayfield, a D or E in the internal exam at the end of Year 12 means resitting it before that subject can carry on, and at most sixth forms those summer results feed the predicted grades UCAS sees. That's a lot riding on one week in June, and most families feel it. So an A-Level tutor's first lesson usually goes through the last marked paper question by question, looking for where the marks started to go."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B…"
 first_lesson_quote_name: "Keira"

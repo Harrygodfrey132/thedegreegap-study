@@ -1,13 +1,13 @@
 ---
 title: "St Neots GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Does your child need a 5 in Maths, or a 7 for A-Level Maths at Longsands? Our St Neots GCSE Maths tutors find where the marks go, one-to-one online. From £37."
+description: "Does your child need a 5 in Maths, or a 7 for A-Level Maths at Longsands? Our GCSE Maths tutors for St Neots find where the marks go, online. From £37."
 layout: "level-subject"
 location: "St Neots"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for St Neots, Eaton Socon and Eynesbury"
+hero_h1: "GCSE Maths Tutors for St Neots Students"
 hero_lead: "If your child copes with a calculator but goes to pieces without one, it's something we hear about a lot. Our GCSE Maths tutors for St Neots students rebuild the fractions, ratio and algebra underneath, one-to-one and online, so the non-calculator paper stops being the one your child dreads."
 
 card_eyebrow: "FREE CONSULTATION"

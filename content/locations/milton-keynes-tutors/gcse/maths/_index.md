@@ -1,12 +1,12 @@
 ---
-title: "Online GCSE Maths Tutors | Milton Keynes | The Degree Gap"
-description: "Milton Keynes GCSE Maths tutors, matched to your child's exam board at Denbigh, Walton High, Oakgrove and beyond. Online, one-to-one, from £37 an hour."
+title: "GCSE Maths Tutors | Milton Keynes | The Degree Gap"
+description: "GCSE Maths tutors for Milton Keynes, matched to your child's exam board at Denbigh, Walton High, Oakgrove and beyond. Online, one-to-one, from £37 an hour."
 layout: "level-subject"
 location: "Milton Keynes"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors Covering Milton Keynes, When the 5 Needs to Be a 7"
+hero_h1: "GCSE Maths Tutors for Milton Keynes Students"
 hero_lead: "The call we get most often from Milton Keynes is about a Year 11 who's tracking a 5 when everyone hoped for a 7. Our GCSE Maths tutors for Milton Keynes students find which parts of the paper that gap is sitting in, because it's rarely spread across the whole subject."
 
 angle_eyebrow: "WHERE THE MARKS GO IN A MILTON KEYNES MOCK"

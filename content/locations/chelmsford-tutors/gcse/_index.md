@@ -1,11 +1,11 @@
 ---
 title: "Chelmsford GCSE Tutors | Built Around Your Child | The Degree Gap"
-description: "Mock grade stuck and neither of you can see why? Our Chelmsford GCSE tutors find the older topic costing your child marks and rebuild it, online, from £37."
+description: "Mock grade stuck and neither of you can see why? Our GCSE tutors for Chelmsford find the older topic costing your child marks and rebuild it, online, from £37."
 layout: "subject"
 location: "Chelmsford"
 level: "GCSE"
 
-hero_heading_line1: "Online Chelmsford GCSE Tutors Who Find the Topic Behind a Stalled Grade"
+hero_heading_line1: "GCSE Tutors for Chelmsford Students"
 hero_heading_line2: ""
 hero_lead: "Your child's revising, the mock still comes back a grade short, and neither of you can say why. Usually it's an older topic, a Year 8 or 9 one, that never quite settled. Our GCSE tutors for Chelmsford students go looking for it in the first lesson, then rebuild from there."
 
@@ -14,14 +14,14 @@ grade_to: "B"
 grade_stat: "In Keira's own words, tutoring helped take an E up to a B at GCSE."
 
 first_lesson_eyebrow: "WHERE THE FIRST LESSON STARTS"
-first_lesson_heading: "How a Chelmsford GCSE Tutor Turns a Mock Into a Plan"
+first_lesson_heading: "How a GCSE Tutor for Chelmsford Students Turns a Mock Into a Plan"
 first_lesson_context: "If there's a recent mock paper at home, the first lesson usually starts with it. The tutor goes through it with your child and looks for the one topic doing the most damage, often an algebra method that wobbles or an essay plan that falls apart against the clock. So that's where the rebuilding starts, well before the next round of mocks."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B in GCSE"
 
-tutor_strip_heading: "Chelmsford GCSE tutors for the grammars and the comprehensives alike"
+tutor_strip_heading: "GCSE tutors for Chelmsford students, for the grammars and the comprehensives alike"
 tutor_strip_body: "We can work with families from KEGS and County High, and from The Boswells, Great Baddow High and Moulsham High. We match on subject and exam board first, so your child's tutor knows the course their school follows. Browse a few profiles, or let us choose."
 
 pathways_heading: "The Routes Chelmsford Year 11s Weigh Up Next"

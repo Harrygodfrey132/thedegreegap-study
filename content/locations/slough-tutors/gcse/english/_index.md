@@ -7,7 +7,7 @@ location: "Slough"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English tutors for Slough families when the sixth form looks at one English grade first"
+hero_h1: "GCSE English Tutors for Slough Students"
 hero_lead: "Your child will most likely sit two English GCSEs, and Slough sixth forms don't always weigh them the same way. Our GCSE English tutors for Slough students work out which grade matters for the place your child wants, then work on that paper one-to-one online."
 
 angle_eyebrow: "WHICH ENGLISH, EXACTLY"

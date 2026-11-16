@@ -7,7 +7,7 @@ location: "Ilford"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Ilford Students Caught Out by the Statistics and Data"
+hero_h1: "A-Level Biology Tutors for Ilford Students"
 hero_lead: "Your child can explain the Krebs cycle, then a chi-squared test or an unfamiliar graph turns up and the marks slip away. Our A-Level Biology tutors for Ilford students make the maths and data questions as familiar as the content."
 
 angle_eyebrow: "BIOLOGY WITH A CALCULATOR"

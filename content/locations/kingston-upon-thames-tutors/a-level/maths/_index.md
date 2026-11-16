@@ -1,13 +1,13 @@
 ---
 title: "A-Level Maths Tutors for Kingston upon Thames | The Degree Gap"
 nav_title: "Maths"
-description: "If Mechanics or Statistics is pulling your child's A-Level Maths grade down, our Kingston upon Thames tutors start there. One-to-one and online, from £37."
+description: "If Mechanics or Statistics is pulling your child's A-Level Maths grade down, our tutors for Kingston upon Thames start there. One-to-one and online, from £37."
 layout: "level-subject"
 location: "Kingston upon Thames"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Kingston upon Thames Families, Starting Where Marks Slip"
+hero_h1: "A-Level Maths Tutors for Kingston upon Thames Students"
 hero_lead: "A child who's solid in Pure Maths can still drop a grade, because Mechanics and Statistics often get far less practice. Our A-Level Maths tutors for Kingston upon Thames students look at exactly where the marks go missing and work on that first, one-to-one and online."
 
 angle_eyebrow: "THE PART WITH THE LEAST PRACTICE BEHIND IT"
@@ -30,7 +30,7 @@ schools:
   - "Kingston College"
   - "Surbiton High School"
 
-steps_heading: "Finding your child an A-Level Maths tutor in Kingston upon Thames: 3 steps"
+steps_heading: "Finding your child an A-Level Maths tutor for Kingston upon Thames students: 3 steps"
 steps_lead: "Nothing gets booked until your child has met the tutor and you're happy with the match."
 steps:
   - title: "Start with a free call"
@@ -41,7 +41,7 @@ steps:
     body: "Then it's an hour a week, one-to-one on the online platform Lessonspace, with a replay afterwards. Your child does the working on a shared whiteboard, and the weaker part gets extra time until it catches up. From £37 an hour, with no contract."
 
 faqs:
-  - q: "Can a Kingston upon Thames A-Level Maths tutor help my child apply for a Kingston University degree apprenticeship?"
+  - q: "Can an A-Level Maths tutor for Kingston upon Thames students help my child apply for a Kingston University degree apprenticeship?"
     a: "Yes, with both the grade and the application. Kingston University has run degree apprenticeships since 2017, including Civil Engineering and Adult Nursing, where the employer pays for the degree. An engineering route will look closely at the Maths grade. Each scheme sets its own entry requirements, usually in UCAS points or named grades, so we'll work from the current page rather than guessing. The tutor aims at the Maths grade the scheme names. Alongside that, we can help with the application and the assessment stage, which take different skills from the exam and often open earlier than families expect."
   - q: "Can the same tutor help with both A-Level Maths and Physics?"
     a: "Often, yes, and with Physics it's the pairing most worth having. Mechanics comes up in both subjects. So one tutor who sees both sets of papers can spot the shared gap, usually vectors and the diagram, instead of two tutors each seeing half of it. Maths with Further Maths pairs well too. Maths with Economics or Chemistry usually needs two separate tutors, because the calculations are only a small part of those papers and the rest is a different skill. Tell us your child's subjects on the call and we'll suggest which way to go."

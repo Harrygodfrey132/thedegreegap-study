@@ -7,7 +7,7 @@ location: "Princes Risborough"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Princes Risborough Students Held Back by the Maths"
+hero_h1: "A-Level Physics Tutors for Princes Risborough Students"
 hero_lead: "Your child understands the Physics in class, then a fields question needs three equations stitched together and the answer falls apart. Our A-Level Physics tutors for Princes Risborough students teach them to plan the route before they reach for the calculator."
 
 angle_eyebrow: "THREE EQUATIONS, ONE ANSWER"

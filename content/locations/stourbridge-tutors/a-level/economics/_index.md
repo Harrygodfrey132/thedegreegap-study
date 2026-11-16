@@ -7,7 +7,7 @@ location: "Stourbridge"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Stourbridge Sixth Formers Whose Essays Stop at 'It Depends'"
+hero_h1: "A-Level Economics Tutors for Stourbridge Students"
 hero_lead: "Your child knows the theory and can draw the diagrams, but the essays keep coming back marked down for evaluation. Our A-Level Economics tutors for Stourbridge students teach them to weigh an argument and land on a judgement, with examples from just down the road."
 
 angle_eyebrow: "A SHOPPING CENTRE ON A STEELWORKS"

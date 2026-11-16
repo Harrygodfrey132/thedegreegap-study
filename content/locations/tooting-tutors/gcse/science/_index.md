@@ -7,7 +7,7 @@ location: "Tooting"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Tooting Students Facing Six Science Papers"
+hero_h1: "GCSE Science Tutors for Tooting Students"
 hero_lead: "Biology, Chemistry and Physics all land in the same few weeks of summer, and plenty of children revise the one they already like. Our GCSE Science tutors for Tooting students find which science is quietly costing your child the most, and plan the hours around it."
 
 angle_eyebrow: "THREE SCIENCES, ONE SUMMER"

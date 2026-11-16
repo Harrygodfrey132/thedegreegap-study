@@ -1,13 +1,13 @@
 ---
 title: "GCSE English Tutors in Farnham | The Degree Gap"
 nav_title: "English"
-description: "Without a 4 in English Language, college choices narrow. Our Farnham GCSE English tutors help your child with unseen extracts and the writing task. From £37."
+description: "Without a 4 in English Language, college choices narrow. Our online GCSE English tutors help Farnham students with unseen extracts and the writing task."
 layout: "level-subject"
 location: "Farnham"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Farnham Children Heading to College"
+hero_h1: "GCSE English Tutors for Farnham Students"
 hero_lead: "Plenty of teenagers freeze on the reading questions, or reach the writing task with hardly any time left. That matters, because English Language is the grade colleges round here ask about. Our GCSE English tutors for Farnham students work on both with your child, one-to-one and online."
 
 angle_eyebrow: "LANGUAGE FIRST, THEN LITERATURE"

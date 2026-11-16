@@ -5,7 +5,7 @@ layout: "subject"
 location: "Ipswich"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level tutors for the Ipswich student who is applying two ways at once"
+hero_heading_line1: "A-Level Tutors for Ipswich Students"
 hero_heading_line2: ""
 hero_lead: "Around here a Year 13 often has two applications running, one through UCAS and one to a scheme with a deadline of its own. Both get judged on the same predicted grade. Our A-Level tutors for Ipswich students work on that grade, one-to-one and online over Lessonspace."
 
@@ -21,7 +21,7 @@ first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Almost two grades above a Year 13 mock, a C into an A"
 
-tutor_strip_heading: "Ipswich A-Level tutors who have sat the same specification"
+tutor_strip_heading: "A-Level tutors for Ipswich students who have sat the same specification"
 tutor_strip_body: "Students at One Sixth Form College, Northgate, Copleston and the independents are on different boards, so the spec gets confirmed first. Many tutors are recent graduates who remember which Year 12 topic Year 13 leans on hardest. Browse the profiles, or let us match your child."
 
 pathways_heading: "Where Ipswich A-Levels Actually Lead"

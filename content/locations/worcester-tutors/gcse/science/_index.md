@@ -1,5 +1,5 @@
 ---
-title: "Worcester Online GCSE Science Tutors | The Degree Gap"
+title: "Worcester GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
 description: "A full Science folder can hide a missing topic. Our online Worcester GCSE Science tutors check your child's notes against the exam board's own list. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Worcester"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Worcester and Malvern GCSE Science Tutors, All Online"
+hero_h1: "GCSE Science Tutors for Worcester Students"
 hero_lead: "Your child's Science folder might look full, but the topic squeezed into the last week before Christmas may have left barely a page. Our GCSE Science tutors for Worcester students check what your child knows against the exam board's own list of topics, so gaps like that don't stay hidden."
 
 angle_eyebrow: "WHAT A FOLDER OF NOTES LEAVES OUT"

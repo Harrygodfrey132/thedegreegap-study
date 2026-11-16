@@ -1,11 +1,11 @@
 ---
 title: "Aldershot GCSE Tutors | One-to-One | The Degree Gap"
-description: "Aldershot GCSE tutors who find the topic a school move left behind. One-to-one lessons online, from £37 an hour with no contract. Start with a free call."
+description: "GCSE tutors for Aldershot who find the topic a school move left behind. One-to-one lessons online, from £37 an hour with no contract. Start with a free call."
 layout: "subject"
 location: "Aldershot"
 level: "GCSE"
 
-hero_heading_line1: "GCSE Tutoring for Aldershot Families That Finds the Topic Your Child Missed"
+hero_heading_line1: "GCSE Tutors for Aldershot Students"
 hero_lead: "Is Maths homework taking all evening and still coming back wrong? If your child has changed schools along the way, there's often one topic they simply never met. Our GCSE tutors for Aldershot students find it first, then build up from there."
 
 grade_from: "4"
@@ -14,14 +14,14 @@ grade_stat: "Once the missing topic's back in place, the weekly lessons aim to t
 grade_card: "aim"
 
 first_lesson_eyebrow: "TWO SCHOOLS, ONE MISSING TOPIC"
-first_lesson_heading: "An Aldershot GCSE Tutor's First Check After a School Move"
-first_lesson_context: "Every school teaches the course in its own order, so a move in Year 10 can mean your child misses a block of algebra altogether. It's nobody's fault, and it often won't show until a trigonometry question needs a formula rearranged. So an Aldershot GCSE tutor works backwards from your child's recent mistakes to find the gap."
+first_lesson_heading: "A GCSE Tutor for Aldershot Students's First Check After a School Move"
+first_lesson_context: "Every school teaches the course in its own order, so a move in Year 10 can mean your child misses a block of algebra altogether. It's nobody's fault, and it often won't show until a trigonometry question needs a formula rearranged. So a GCSE tutor for Aldershot students works backwards from your child's recent mistakes to find the gap."
 first_lesson_quote: "The Degree Gap took time to understand my child's worries. They paired me with Connor, who my daughter got on well with. Her confidence has skyrocketed since. Thanks again."
 first_lesson_quote_name: "Dawn"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "GCSE"
 
-tutor_strip_heading: "Aldershot GCSE tutors who know more than one exam board"
+tutor_strip_heading: "GCSE tutors for Aldershot students who know more than one exam board"
 tutor_strip_body: "Hampshire schools use a mix of AQA, Edexcel and OCR, so a move can mean a new board mid-course. Mention your child's old one on your free call with Harry or Joe, and we'll look for tutors who know both. Two or three profiles follow within 24 hours."
 
 pathways_heading: "Where Aldershot Teenagers Go at 16"

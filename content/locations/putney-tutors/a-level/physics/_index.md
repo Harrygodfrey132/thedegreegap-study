@@ -7,7 +7,7 @@ location: "Putney"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "A-Level Physics Tutors for Putney Students Taking Physics Without A-Level Maths"
+hero_h1: "A-Level Physics Tutors for Putney Students"
 hero_lead: "If your child chose Physics but not A-Level Maths, the maths in Year 13 can arrive as a shock, with logarithms in radioactive decay and exponentials in capacitors. Our A-Level Physics tutors for Putney students teach that maths alongside the physics, so the equations stop being the obstacle."
 
 angle_eyebrow: "THE MATHS INSIDE THE PHYSICS"

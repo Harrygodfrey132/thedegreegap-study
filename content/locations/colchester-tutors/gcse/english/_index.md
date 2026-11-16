@@ -1,5 +1,5 @@
 ---
-title: "Colchester Online GCSE English Tutors | The Degree Gap"
+title: "Colchester GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "When your child knows the texts but the essays still come back a 4, it's usually how the answer's built. Online GCSE English tutors for Colchester, from £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Colchester"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors in Colchester, for Essays That Don't Match the Revision"
+hero_h1: "GCSE English Tutors for Colchester Students"
 hero_lead: "Your child's revised the set text for weeks, and the essay still came back a 4. English is the GCSE where effort and grade drift furthest apart, so our GCSE English tutors for Colchester students work on how the answer's built, not on how much your child knows."
 
 angle_eyebrow: "WHAT ACTUALLY DECIDES A GCSE ENGLISH GRADE"

@@ -1,11 +1,11 @@
 ---
 title: "Bolton GCSE Tutors | One-to-One | The Degree Gap"
-description: "Bolton GCSE tutors who work to the grades local sixth forms publish. Online one-to-one lessons on Lessonspace, matched on exam board, from £37 an hour."
+description: "GCSE tutors for Bolton who work to the grades local sixth forms publish. Online one-to-one lessons on Lessonspace, matched on exam board, from £37 an hour."
 layout: "subject"
 location: "Bolton"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Bolton, From the November Mock to the January Application Deadline"
+hero_heading_line1: "GCSE Tutors for Bolton Students"
 hero_heading_line2: ""
 hero_lead: "Sixth-form applications in Bolton get written months before anyone sits a real paper. Our GCSE tutors for Bolton students work online and one-to-one on Lessonspace, starting from the mock the application will quote rather than from next term's topic."
 
@@ -14,14 +14,14 @@ grade_to: "B"
 grade_stat: "A real GCSE lift from an E to a B, in the words of the student who made it."
 
 first_lesson_eyebrow: "THE PAPER THE APPLICATION QUOTES"
-first_lesson_heading: "What a Bolton GCSE Tutor Does Between October and February"
+first_lesson_heading: "What a GCSE Tutor for Bolton Students Does Between October and February"
 first_lesson_context: "Autumn in Year 11 is quietly the busiest stretch of the whole course here. Open evenings, forms, a mock marked while the applications are still being typed, and a set of requirements each sixth form writes for itself. A GCSE tutor working in that window is aiming at a date in the diary, not at June."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B at GCSE"
 
-tutor_strip_heading: "Bolton GCSE tutors matched to the board and the deadline"
+tutor_strip_heading: "GCSE tutors for Bolton students matched to the board and the deadline"
 tutor_strip_body: "Students at Canon Slade, Turton, Smithills and Thornleigh are not all sitting the same board, so we confirm that before proposing anyone. Each tutor clears a founder-led interview that around 3% of applicants pass. Browse the profiles, or let us match your child."
 
 pathways_heading: "What Bolton Year 11s Are Applying To"
@@ -59,7 +59,7 @@ reviews:
   - "Etienne|Parent of GCSE Student|Great session on how to support our boy with his up & coming GCSE's exams. Very informative webinar with practical tips & techniques to use - by child & parent."
   - "Priya|Parent of GCSE Student|Thank you to Harry and Joe for a very informative webinar on a parent's guide to supporting GCSE success. Great advice and tips given and they sent useful free resources by email which my daughter will use to help with her upcoming exams."
 
-faq_1_q: "Can a Bolton GCSE tutor help with the mocks that sixth-form offers rest on?"
+faq_1_q: "Can a GCSE tutor for Bolton students help with the mocks that sixth-form offers rest on?"
 faq_1_a: "Yes, and it is the most common reason families ring us in the autumn. Mocks get marked while the forms are still being filled in, so work done in October and November counts twice over. Tutors go through the last paper question by question, sort the lost marks into topic gaps and timing habits, then drill whichever one is doing more damage. And past papers come in early rather than as a flourish at the end."
 faq_2_q: "Is Year 10 too early, or Year 11 too late?"
 faq_2_a: "Year 10 is the easier place to begin, because a gap found then stays shut for two years and there is room to rebuild method properly. Year 11 still works, and plenty of Bolton families start there. The plan just narrows. Less teaching from scratch, more exam technique and timed practice on the papers the student is actually sitting. If you are reading this in October of Year 11, that is a normal moment to get in touch rather than a late one."

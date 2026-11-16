@@ -7,7 +7,7 @@ location: "Andover"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Andover Students on Combined or Triple"
+hero_h1: "GCSE Science Tutors for Andover Students"
 hero_lead: "Your child is on Combined Science, and you've started to wonder whether that rules out Science A-Levels later. Our GCSE Science tutors for Andover students work on the practical questions and six-mark answers that decide the grade, whichever route your child is on."
 
 angle_eyebrow: "COMBINED ISN'T A DEAD END"

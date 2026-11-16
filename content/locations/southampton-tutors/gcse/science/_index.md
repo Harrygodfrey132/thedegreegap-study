@@ -1,13 +1,13 @@
 ---
-title: "Online GCSE Science Tutors | Southampton | The Degree Gap"
+title: "GCSE Science Tutors | Southampton | The Degree Gap"
 nav_title: "Science"
-description: "Right science, wrong kind of answer? Our Southampton GCSE Science tutors show your child what each question's first word is asking for. From £37 an hour."
+description: "Right science, wrong kind of answer? Our online GCSE Science tutors show Southampton students what each question's first word is asking for. From £37."
 layout: "level-subject"
 location: "Southampton"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Southampton GCSE Science Tutors, Working Online With Your Child"
+hero_h1: "GCSE Science Tutors for Southampton Students"
 hero_lead: "Asked to explain why a rate increases, lots of children describe what happens to it instead, and half the marks can go even when the science is right. Our GCSE Science tutors for Southampton students show your child how to answer the question that's actually being asked."
 
 angle_eyebrow: "THE FIRST WORD OF THE QUESTION"

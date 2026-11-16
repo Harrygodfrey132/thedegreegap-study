@@ -1,5 +1,5 @@
 ---
-title: "Oxford GCSE English Tutors | Online | The Degree Gap"
+title: "Oxford GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "English tutoring isn't only for the top of the class. Our online Oxford GCSE English tutors help your child write and rewrite essays weekly. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Oxford"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutoring for Oxford Families, Whatever the Grade"
+hero_h1: "GCSE English Tutors for Oxford Students"
 hero_lead: "Most families who call us about English aren't chasing a top grade. They've got a child who's quietly decided they're bad at the subject. Our GCSE English tutors for Oxford students work online, and helping that child is most of what they do."
 
 angle_eyebrow: "TUTORING ISN'T ONLY FOR THE TOP OF THE CLASS"

@@ -1,13 +1,13 @@
 ---
 title: "Amersham A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Year 12 calculus often trips over old algebra slips. Our Amersham A-Level Maths tutors sort those out first, one-to-one online. From £37, no contract."
+description: "Year 12 calculus often trips over old algebra slips. Our A-Level Maths tutors for Amersham sort those out first, one-to-one online. From £37, no contract."
 layout: "level-subject"
 location: "Amersham"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "A-Level Maths Tutoring for Amersham Students That Fixes the Algebra Under the Calculus"
+hero_h1: "A-Level Maths Tutors for Amersham Students"
 hero_lead: "If your child's calculus keeps going wrong, it's usually an old GCSE algebra slip turning up somewhere new. Our A-Level Maths tutors for Amersham students sort out that algebra first, one-to-one online, then build the calculus and statistics back on top."
 
 angle_eyebrow: "THE ALGEBRA HAD A GAP ALL ALONG"
@@ -28,7 +28,7 @@ schools:
   - "The Misbourne School"
   - "Chiltern Hills Academy"
 
-steps_heading: "How your child gets matched with an Amersham A-Level Maths tutor"
+steps_heading: "How your child gets matched with an A-Level Maths tutor for Amersham students"
 steps_lead: "Profiles normally land within a day of our call, so you're not left waiting. And starting early in Year 12 leaves the most room before predicted grades are written."
 steps:
   - title: "A free call with Harry or Joe"

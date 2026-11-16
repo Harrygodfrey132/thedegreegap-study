@@ -3,12 +3,12 @@ title: "High Wycombe Tutors | 11+ to A-Level | The Degree Gap"
 description: "Year 12 harder than anyone expected? Online High Wycombe tutoring for A-Level, GCSE and the 11+, with tutor profiles within 24 hours of a free call. From £37."
 layout: single
 location: High Wycombe
-banner_heading: "High Wycombe Online Tutors for the GCSE-to-A-Level Jump, and the 11+ Before It"
+banner_heading: "GCSE and A-Level Tutors for High Wycombe Families"
 banner_description: "Year 11 went fine, but Year 12 is a struggle? You're not the only family. Our tutors for High Wycombe families help with the step up, one-to-one and online."
 content_angle: "the GCSE-to-A-Level jump: the Year 12 who's working harder than ever and getting less for it, at whichever High Wycombe sixth form, with 11+ help for younger brothers and sisters as a second thread"
 intro_1: "Nobody really warns you about Year 12. Your child comes through GCSEs, starts sixth form in September, and by the first round of assessments something has gone wrong. The kind of essay that did well last year comes back with 'describe less, analyse more' in the margin. Maths homework takes three hours. They're working harder than they ever have and getting less for it, and they're not used to that feeling at all. It's not much fun to watch, either."
 intro_2: "It's the same story at the Royal Grammar School, John Hampden, Wycombe High or anywhere else. The jump is built into the subjects themselves. A tutor who knows your child's A-Level papers can show them what the extra marks are actually for. To start, you'll have a free call with Harry or Joe, our co-founders, who both had A-Level tutoring themselves. Within 24 hours you'll have two or three tutor profiles. Your child talks to the one they prefer on a free video meeting before you commit to anything."
-about_heading: "Experienced GCSE and A-Level Tutors in High Wycombe"
+about_heading: "Experienced GCSE and A-Level Tutors for High Wycombe Students"
 about_image: /images/university-lecture-hall.jpg
 schools_intro: "Some of the families we help have children at the Royal Grammar School or John Hampden Grammar School. Others are at Wycombe High School, Sir William Borlase's Grammar School, Cressex Community School or The Misbourne School. And some get in touch about a Year 5 or 6 child getting ready for the 11+. At A-Level the exam board makes a big difference, so the first thing we check is exactly which papers your child is sitting. Beyond the families we tutor, we work directly with more than 15 UK secondary schools. And Harry and Joe spend time in schools themselves, running revision workshops."
 schools:
@@ -62,7 +62,7 @@ faq_3_q: "What will it cost, and can we stop whenever we like?"
 faq_3_a: "Lessons start at £37 an hour, with the rate agreed up front. There's no contract, so your child can stop after the Year 12 mocks or carry on through Year 13."
 faq_4_q: "How quickly can we get started?"
 faq_4_a: "It can be a matter of days. Profiles come through within a day of our call, so a Year 12 who's struggling this term needn't wait until next term."
-why_heading: "The jump to A-Level, and what a High Wycombe tutor does about it"
+why_heading: "The jump to A-Level, and what a tutor for High Wycombe families does about it"
 why_para_1: "Take two High Wycombe Year 12s we might meet in the same week. One chose Biology and Chemistry because she loved them at GCSE. Now she's finding that learning the textbook no longer earns the marks, because the questions want her to apply it somewhere new. The other is doing History and English, writing the same confident essays that worked last year and being told he describes too much. Different subjects, same gap. In a full class there's rarely time to go through, one-to-one, what the extra marks at A-Level are for."
 why_para_2: "The tutor works from your child's own marked work, side by side with the mark scheme. They show exactly where a GCSE-style answer stops earning. Then they rework a question or rewrite a paragraph together on the whiteboard, until the new way of doing it starts to feel natural. It isn't quick, and there's no trick to it. The first change you'll probably notice is small: your child explaining, without being asked, what an examiner wants from a question."
 accordion_quality: "Only 3% of the people who apply get onto the platform, after an interview with Harry or Joe. Subject knowledge is just the start. What we're really checking is whether they can explain A-Level material to a sixth former who's finding it hard."

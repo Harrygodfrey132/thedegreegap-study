@@ -1,11 +1,11 @@
 ---
 title: "Watford GCSE Tutors | One-to-One Support | The Degree Gap"
-description: "Home late from Euston, and your child's GCSE grades have stalled? Our Watford GCSE tutors find the topic that slipped and rebuild it, one-to-one and online."
+description: "Home late from Euston, and your child's GCSE grades have stalled? Our GCSE tutors for Watford find the topic that slipped and rebuild it, one-to-one and online."
 layout: "subject"
 location: "Watford"
 level: "GCSE"
 
-hero_heading_line1: "Online Watford GCSE Tutors For the One-to-One Time a Busy Class Can't Give"
+hero_heading_line1: "GCSE Tutors for Watford Students"
 hero_heading_line2: ""
 hero_lead: "By the time you're back from Euston, the homework's half-done and half-avoided, and it's too late in the evening to start untangling it. Our GCSE tutors for Watford students take a quiet hour one evening a week and find the gap your child's class moved past too quickly."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "Omo's Year 10 son had gone off English completely. Six months on, he'd moved from a 5 to a 6/7."
 
 first_lesson_eyebrow: "WHEN ENGLISH STARTED TO CLICK"
-first_lesson_heading: "How a Watford GCSE Tutor Uses the First Hour"
+first_lesson_heading: "How a GCSE Tutor for Watford Students Uses the First Hour"
 first_lesson_context: "If you rang us tonight, you'd probably tell us what most Watford parents do: your child's trying, the grades won't shift, and nobody can say why. A GCSE tutor uses the first hour to find the real cause. It's usually a method from an earlier year that never quite settled, and that's where the rebuilding starts."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7. I honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset. …"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 6/7 in GCSE English"
 
-tutor_strip_heading: "Watford GCSE tutors who know the grammars and the comprehensives in town"
+tutor_strip_heading: "GCSE tutors for Watford students who know the grammars and the comprehensives in town"
 tutor_strip_body: "Watford's a mixed patch: two grammars, plenty of other secondaries, and full classes at all of them. We match on subject and exam board first, not on who lives nearest. Browse the profiles, or we can send you a few that fit."
 
 pathways_heading: "Sixth Form, College or an Apprenticeship: Watford's Main Routes"
@@ -54,7 +54,7 @@ reviews:
   - "Theresa|Parent|Harry and Joe were extremely helpful with a wealth of knowledge and contacts that helped my son to follow the right path."
   - "Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
 
-faq_1_q: "My son's only in Year 10. Is that too early for a GCSE tutor in Watford?"
+faq_1_q: "My son's only in Year 10. Is that too early for a GCSE tutor for Watford students?"
 faq_1_a: "No, Year 10's often the calmest time to start. The tutor can trace a gap back to where it began and rebuild it without any rush, rather than in a Year 11 panic. It also means your son's first mock lands on firmer ground. Plenty of families start in Year 11 too, though, and there's still lots to do in the spring term."
 faq_2_q: "My daughter can do the Maths at home but freezes in the exam. Can a Watford tutor change that?"
 faq_2_a: "Usually, yes. Freezing is rarely about what she knows. It's technique: pacing herself, and reading what the question's really asking before she starts. The tutor sets her past papers against the clock and goes through the mark scheme with her, until the exam hall stops feeling like foreign territory. Lots of children settle within a few weeks of steady lessons."

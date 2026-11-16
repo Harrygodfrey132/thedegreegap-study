@@ -1,5 +1,5 @@
 ---
-title: "Online A-Level Biology Tutors for Clacton-on-Sea Students | The Degree Gap"
+title: "A-Level Biology Tutors for Clacton-on-Sea Students | The Degree Gap"
 nav_title: "Biology"
 description: "Is the statistics in OCR Biology catching your child out? We'll match your Clacton-on-Sea sixth former with an online A-Level Biology tutor. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Clacton-on-Sea"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Clacton-on-Sea Students Thrown by the Maths in Biology"
+hero_h1: "A-Level Biology Tutors for Clacton-on-Sea Students"
 hero_lead: "Your child chose Biology to study living things, and now a chi-squared test or a Hardy-Weinberg calculation sits in the middle of the exam paper. Our A-Level Biology tutors for Clacton-on-Sea students make the numbers feel like part of the same subject."
 
 angle_eyebrow: "WHERE BIOLOGY TURNS INTO NUMBERS"

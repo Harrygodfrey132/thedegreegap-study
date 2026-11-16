@@ -7,7 +7,7 @@ location: "Balham"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Balham Students Stuck on Energetics"
+hero_h1: "A-Level Chemistry Tutors for Balham Students"
 hero_lead: "Your child can follow a worked example of Hess's law, then a new cycle appears in the test and the arrows point the wrong way. Our A-Level Chemistry tutors for Balham students build energy cycles step by step until your child can draw their own."
 
 angle_eyebrow: "WHICH WAY THE ARROWS GO"

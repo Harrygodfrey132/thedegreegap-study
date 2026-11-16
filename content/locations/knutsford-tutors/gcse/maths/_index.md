@@ -1,13 +1,13 @@
 ---
 title: "Knutsford GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Knutsford Academy's sixth form has asked for at least a 4 in Maths. Our Knutsford GCSE Maths tutors help your child get there, or further, online, from £37."
+description: "Knutsford Academy's sixth form has asked for at least a 4 in Maths. Our GCSE Maths tutors for Knutsford help your child get there, or further, online, from £37."
 layout: "level-subject"
 location: "Knutsford"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Knutsford Families"
+hero_h1: "GCSE Maths Tutors for Knutsford Students"
 hero_lead: "The homework gets done and the revision gets done, and still the Maths mock won't budge. Our GCSE Maths tutors for Knutsford students find the method that went missing, often algebra from Year 8, and rebuild it one-to-one online."
 
 card_heading: "Talk to a member of the team to start the matching process"

@@ -7,7 +7,7 @@ location: "Tonbridge"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors Covering Tonbridge"
+hero_h1: "GCSE Maths Tutors for Tonbridge Students"
 hero_lead: "Your child says it all made sense in class, and then the Maths mock comes back a grade lower. Our GCSE Maths tutors for Tonbridge students find the first step that wobbles, usually well behind this term's topic, and rebuild it one-to-one online."
 
 card_eyebrow: "FREE CONSULTATION"

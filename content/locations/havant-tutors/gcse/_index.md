@@ -1,11 +1,11 @@
 ---
 title: "Havant GCSE Tutors | One-to-One | The Degree Gap"
-description: "Havant GCSE tutors for whichever route your child takes at 16, A-Levels or a technical course. Online, one-to-one, from £37 an hour. Free call first."
+description: "GCSE tutors for Havant, for whichever route your child takes at 16, A-Levels or a technical course. Online, one-to-one, from £37 an hour. Free call first."
 layout: "subject"
 location: "Havant"
 level: "GCSE"
 
-hero_heading_line1: "GCSE Tutors for Havant Students, Whatever They Choose at 16"
+hero_heading_line1: "GCSE Tutors for Havant Students"
 hero_lead: "Some Year 11s know exactly what they want next. If your child doesn't, that's completely normal. Both the A-Level and technical routes ask for solid Maths and English, which is often where Havant GCSE tutors start."
 
 grade_from: "4"
@@ -15,13 +15,13 @@ grade_card: "aim"
 
 first_lesson_eyebrow: "HAVANT CAMPUS OR SOUTH DOWNS?"
 first_lesson_heading: "GCSE Tutoring When Your Child Hasn't Picked a Route Yet"
-first_lesson_context: "Either way, both campuses will look at Maths and English. So the work your child puts in now isn't wasted, whichever they choose. A Havant GCSE tutor can start on the one that's furthest off, and the big decision can wait a few more months."
+first_lesson_context: "Either way, both campuses will look at Maths and English. So the work your child puts in now isn't wasted, whichever they choose. A GCSE tutor for Havant students can start on the one that's furthest off, and the big decision can wait a few more months."
 first_lesson_quote: "Very good tutoring for my daughter and good communication with parents. UPDATE: My daughter passed both English and Maths GCSE (4 and 5's). …"
 first_lesson_quote_name: "Chris"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "GCSE"
 
-tutor_strip_heading: "Havant GCSE tutors from the 3% of applicants we accept"
+tutor_strip_heading: "GCSE tutors for Havant students from the 3% of applicants we accept"
 tutor_strip_body: "Hampshire schools are split between AQA, Edexcel and OCR, so we'll only suggest tutors who know your child's board. Start with a free call. If your child and their tutor don't get on, just tell us and we'll line up another at no cost."
 
 pathways_heading: "The Choices at 16 for Havant Families"

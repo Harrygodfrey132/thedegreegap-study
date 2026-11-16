@@ -7,7 +7,7 @@ location: "Egham"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Egham Students Who Lose Marks on the Six-Mark Questions"
+hero_h1: "GCSE Science Tutors for Egham Students"
 hero_lead: "Your child has learnt the facts and redrawn the diagrams, and the six-mark answers still come back with two marks. Our GCSE Science tutors for Egham students show your child how those answers are marked, and how the required practicals turn up again on the written papers."
 
 angle_eyebrow: "COMBINED SCIENCE ISN'T A DEAD END"

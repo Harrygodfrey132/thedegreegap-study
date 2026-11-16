@@ -7,7 +7,7 @@ location: "Redhill"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Redhill Students Who Lose Marks on the Practicals"
+hero_h1: "GCSE Science Tutors for Redhill Students"
 hero_lead: "Your child remembers the lesson with the Bunsen burner, but the exam wants to know which variable stayed the same and why. Our GCSE Science tutors for Redhill students work on the practical questions, and the six-mark answers that come with them."
 
 angle_eyebrow: "AT LEAST 15% OF THE MARKS"

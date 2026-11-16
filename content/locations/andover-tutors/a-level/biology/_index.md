@@ -7,7 +7,7 @@ location: "Andover"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Andover Students Who Run Out of Time Before the Essay"
+hero_h1: "A-Level Biology Tutors for Andover Students"
 hero_lead: "Your child knows the Biology, loses marks on wording in the short answers, then reaches the final essay with ten minutes left. Our A-Level Biology tutors for Andover students practise both halves: exact terms for the short questions, and a quick plan for the essay."
 
 angle_eyebrow: "SHORT ANSWERS FIRST, ONE ESSAY LAST"

@@ -1,11 +1,11 @@
 ---
 title: "Bradford A-Level Tutors | Expert Support | The Degree Gap"
-description: "Bradford A-Level tutors working to the autumn, when predicted grades and apprenticeship applications both land. One-to-one online tutoring from £37 an hour."
+description: "A-Level tutors for Bradford working to the autumn, when predicted grades and apprenticeship applications both land. One-to-one online tutoring from £37 an hour."
 layout: "subject"
 location: "Bradford"
 level: "A-Level"
 
-hero_heading_line1: "Online Bradford A-Level Tutoring for the Predicted Grade and the Apprenticeship Application Beside It"
+hero_heading_line1: "A-Level Tutors for Bradford Students"
 hero_heading_line2: ""
 hero_lead: "Year 13 feels like it ends in June. It mostly ends in the autumn, when predictions get written and applications go in. Our A-Level tutors for Bradford students work backwards from that date, one-to-one and online over Lessonspace."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "A real A-Level move from C grades to A grades, in a parent's own words."
 
 first_lesson_eyebrow: "TWO APPLICATIONS, ONE PREDICTED GRADE"
-first_lesson_heading: "Why a Bradford A-Level Tutor Starts With Year 12 Work"
+first_lesson_heading: "Why an A-Level Tutor for Bradford Students Starts With Year 12 Work"
 first_lesson_context: "A predicted grade is built out of Year 12, which means the work deciding an offer happened a year before anybody felt under pressure. Most Year 13s we meet are not short of effort in the autumn. They are short of one Year 12 topic the current chapter leans on, and the chapter after that leans on it too."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Cs to As at A-Level"
 
-tutor_strip_heading: "Bradford A-Level tutors who work to the prediction date"
+tutor_strip_heading: "A-Level tutors for Bradford students who work to the prediction date"
 tutor_strip_body: "Sixth forms around the district sit on different specifications, and at this level the spec decides more than the subject does. So we confirm it first. Many tutors are recent graduates who still remember which Year 12 topic Year 13 quietly leans on. Browse the profiles, or let us match your child."
 
 pathways_heading: "Post-18 Routes From a Bradford Sixth Form"

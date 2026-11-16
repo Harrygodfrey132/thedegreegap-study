@@ -1,11 +1,11 @@
 ---
 title: "Bradford GCSE Tutors | One-to-One | The Degree Gap"
-description: "Bradford GCSE tutors who trace a stalled grade back to the topic underneath it. One-to-one tutoring, online over Lessonspace, from £37 an hour."
+description: "GCSE tutors for Bradford who trace a stalled grade back to the topic underneath it. One-to-one tutoring, online over Lessonspace, from £37 an hour."
 layout: "subject"
 location: "Bradford"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Bradford Year 10s Still Carrying a Year 8 Gap"
+hero_heading_line1: "GCSE Tutors for Bradford Students"
 hero_heading_line2: ""
 hero_lead: "The report says work harder. A marked paper usually says something more useful than that. Our GCSE tutors for Bradford students read the script rather than the report, then rebuild from the topic the mistakes point at. Every session is one-to-one and online over Lessonspace."
 
@@ -14,14 +14,14 @@ grade_to: "B"
 grade_stat: "A real GCSE lift from an E to a B, in the student's own words."
 
 first_lesson_eyebrow: "YEAR 8 WORK, YEAR 11 PAPER"
-first_lesson_heading: "Where a Bradford GCSE Tutor Starts When the Gap Is Older Than Year 11"
+first_lesson_heading: "Where a GCSE Tutor for Bradford Students Starts When the Gap Is Older Than Year 11"
 first_lesson_context: "Results across the Bradford district sit below the national picture, and that headline says almost nothing about one student in one classroom. What it does reflect is pace. Big year groups, a lot of ground to cover, and no room in the scheme of work to go back two years for the four students who need it."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "An E to a B at GCSE"
 
-tutor_strip_heading: "Bradford GCSE tutors matched on the board and the tier"
+tutor_strip_heading: "GCSE tutors for Bradford students matched on the board and the tier"
 tutor_strip_body: "Schools across the district sit on different boards, and in Year 10 the tier entry is often still open. We confirm both before proposing anyone. Each tutor clears a founder-led interview about 3% of applicants pass. Browse the profiles, or let us match your child."
 
 pathways_heading: "Where Sixteen Takes Bradford Students Next"

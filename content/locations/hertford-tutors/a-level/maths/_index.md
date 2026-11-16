@@ -7,7 +7,7 @@ location: "Hertford"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Hertford Sixth Formers, With or Without Further Maths"
+hero_h1: "A-Level Maths Tutors for Hertford Students"
 hero_lead: "A-Level Maths moves at a pace that surprises plenty of strong GCSE students, and Further Maths on top doubles the load. Our A-Level Maths tutors for Hertford students steady the algebra first, then stop Pure, Statistics and Mechanics from piling up."
 
 angle_eyebrow: "THE PACE OF YEAR 12 MATHS"

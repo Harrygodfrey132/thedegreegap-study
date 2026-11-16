@@ -1,7 +1,7 @@
 ---
 title: "Harpenden A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Is your child strong in A-Level Biology but needing the top grade for Medicine or Vet Science? Our Harpenden tutors find the last few marks. Online, from £37."
+description: "Is your child strong in A-Level Biology but needing the top grade for Medicine or Vet Science? Our tutors for Harpenden find the last few marks. Online,"
 layout: "level-subject"
 location: "Harpenden"
 level: "A-Level"
@@ -28,7 +28,7 @@ schools:
   - "St Albans Girls' School"
   - "Beaumont School"
 
-steps_heading: "Getting started with a Harpenden A-Level Biology tutor"
+steps_heading: "Getting started with an A-Level Biology tutor for Harpenden students"
 steps_lead: "When your child's already doing well, the first look at their work has to be finer, and the marking stricter."
 steps:
   - title: "Tell us about your child"
@@ -47,7 +47,7 @@ faqs:
     a: "Sometimes, and sometimes it honestly isn't. If the last grade is a cut-off for a particular course, the missing marks can usually be found, and the lessons pay for themselves. If your child is comfortably meeting their offer already, more tutoring won't add much. And we'll tell you that on the call rather than take the booking."
   - q: "My child has dyslexia or ADHD. Can a Biology tutor still help?"
     a: "Yes, and we ask about it when matching, so you don't have to raise it. Several tutors on our platform teach children with learning differences week in, week out. In Biology the help is mostly structure: a planning frame for long answers, pathways drawn as diagrams, and one steady way of breaking a question down. Every lesson has a replay, so your child needn't take notes while listening."
-  - q: "Can a Harpenden A-Level Biology tutor help with a Medicine or Vet application?"
+  - q: "Can an A-Level Biology tutor for Harpenden students help with a Medicine or Vet application?"
     a: "Some can, and it comes up a lot in Harpenden. It's about more than the grade. These courses set their own entry requirements, which change from year to year, and they usually name Biology and Chemistry. Then there are admissions tests and interviews, which reward thinking out loud rather than reciting facts. Not every tutor on our platform covers that side, so mention it on the call and we'll be straight with you about who does."
 # FAQ picks: A13, A15, C03, E03, G04
 

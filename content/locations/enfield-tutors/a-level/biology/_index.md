@@ -7,7 +7,7 @@ location: "Enfield"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Enfield Students With Too Much to Remember"
+hero_h1: "A-Level Biology Tutors for Enfield Students"
 hero_lead: "A-Level Biology can feel like an endless list to learn, and then the exam asks your child to link topics they revised months apart. Our A-Level Biology tutors for Enfield students make the content stick and practise the long answers that join it up."
 
 angle_eyebrow: "THE ANSWERS THAT JOIN EVERYTHING UP"

@@ -1,13 +1,13 @@
 ---
 title: "GCSE English Tutors Covering Sutton | The Degree Gap"
 nav_title: "English"
-description: "Maths and Science fine, but English two grades down in the mock? Our Sutton GCSE English tutors work online on essay structure and timing. From £37 an hour."
+description: "Maths and Science fine, but English two grades down in the mock? Our GCSE English tutors for Sutton work online on essay structure and timing. From £37 an hour."
 layout: "level-subject"
 location: "Sutton"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors for Sutton When Wide Reading Isn't Reaching the Marks"
+hero_h1: "GCSE English Tutors for Sutton Students"
 hero_lead: "Your child's always had a book on the go, and still the Literature marks don't show it. Wide reading doesn't turn itself into marks, so our GCSE English tutors for Sutton students work one-to-one, online, on the structure that turns a good point into a paragraph that scores."
 
 angle_eyebrow: "THE SUBJECT EVERYONE ASSUMES IS FINE"

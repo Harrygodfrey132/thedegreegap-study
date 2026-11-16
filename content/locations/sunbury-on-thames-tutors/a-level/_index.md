@@ -1,11 +1,11 @@
 ---
-title: "Sunbury-on-Thames A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "Sixth form has scattered your child's friends across several boroughs? Sunbury-on-Thames A-Level tutors matched to their exact course. Online, from £37 an hour."
+title: "Sunbury-on-Thames A-Level Tutors | One-to-One | The Degree Gap"
+description: "Sixth form has scattered your child's friends across several boroughs? A-Level tutors for Sunbury-on-Thames matched to their exact course. Online, from £37."
 layout: "subject"
 location: "Sunbury-on-Thames"
 level: "A-Level"
 
-hero_heading_line1: "Online Sunbury-on-Thames A-Level Tutors for When You Can't Tell How Sixth Form's Going"
+hero_heading_line1: "A-Level Tutors for Sunbury-on-Thames Students"
 hero_heading_line2: ""
 hero_lead: "At GCSE there were other parents to compare notes with. Now your child's sixth form may well be in another borough, friends are scattered, and it's hard to tell how it's really going. Our A-Level tutors for Sunbury-on-Thames students are matched to your child's exact course and exam board."
 
@@ -14,7 +14,7 @@ grade_to: "A"
 grade_stat: "The parent who saw it happen describes a move from Cs to As at A-Level."
 
 first_lesson_eyebrow: "EVERYBODY TRAVELS SOMEWHERE DIFFERENT"
-first_lesson_heading: "What a Sunbury-on-Thames A-Level Tutor Asks Before Anything Else"
+first_lesson_heading: "What an A-Level Tutor for Sunbury-on-Thames Students Asks Before Anything Else"
 first_lesson_context: "There's no one sixth form that Sunbury teenagers go on to. They spread out across colleges in Surrey and the neighbouring boroughs, so your child's GCSE friendship group ends up on different courses, with different exam boards and subject mixes. That's why a tutor's first question is which papers your child will actually sit, not where you live."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"

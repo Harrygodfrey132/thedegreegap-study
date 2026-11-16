@@ -7,7 +7,7 @@ location: "Salford"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutors for Salford Students Whose Marks Slip on the Calculations"
+hero_h1: "GCSE Science Tutors for Salford Students"
 hero_lead: "Your child understands the Physics, then loses the marks converting kilojoules or rearranging the equation. Our GCSE Science tutors for Salford students work on the maths hiding inside every Science paper, so what your child knows actually shows up in the mark."
 
 angle_eyebrow: "WHERE SCIENCE MEETS MATHS"

@@ -7,7 +7,7 @@ location: "Wimbledon"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Wimbledon Students Buried Under the Content"
+hero_h1: "A-Level Biology Tutors for Wimbledon Students"
 hero_lead: "A-Level Biology hands your child a huge amount to learn, then marks them on how well they use it. We match Wimbledon sixth formers with an online Biology tutor who turns pages of notes into answers that fit the question."
 
 angle_eyebrow: "FROM NOTES TO ANSWERS"

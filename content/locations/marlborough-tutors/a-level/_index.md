@@ -1,11 +1,11 @@
 ---
-title: "Online A-Level Tutors for Marlborough Sixth Formers | The Degree Gap"
+title: "A-Level Tutors for Marlborough Sixth Formers | The Degree Gap"
 description: "Is Year 12 harder than your child expected? We match Marlborough sixth formers with an online A-Level tutor on their exam board. From £37 an hour, no contract."
 layout: "subject"
 location: "Marlborough"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Marlborough Sixth Formers Finding Year 12 Harder Than Expected"
+hero_heading_line1: "A-Level Tutors for Marlborough Students"
 hero_heading_line2: ""
 hero_lead: "Plenty of teenagers come through their GCSEs well, then find Year 12 asks for twice the work with half the hand-holding. Our A-Level tutors for Marlborough students help your child get on top of one subject at a time, starting with whichever is slipping first."
 

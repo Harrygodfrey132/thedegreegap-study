@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors for Wakefield Students | The Degree Gap"
+title: "GCSE Tutors for Wakefield Students | The Degree Gap"
 description: "Has your child switched off from one of their GCSEs in Wakefield? We'll match them with an online GCSE tutor who knows their board. From £37, no contract."
 layout: "subject"
 location: "Wakefield"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Wakefield Students Who've Switched Off From a Subject"
+hero_heading_line1: "GCSE Tutors for Wakefield Students"
 hero_heading_line2: ""
 hero_lead: "Has your child stopped mentioning one subject at all, or started dreading the lesson? Our online GCSE tutors for Wakefield students find the topic where it first went wrong and start there, one-to-one."
 

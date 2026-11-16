@@ -1,13 +1,13 @@
 ---
 title: "Sheffield GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Sheffield GCSE Science tutors online, Combined or Triple. We find where your child's marks go: practicals, six-mark answers or Physics maths. From £37."
+description: "GCSE Science tutors for Sheffield online, Combined or Triple. We find where your child's marks go: practicals, six-mark answers or Physics maths. From £37."
 layout: "level-subject"
 location: "Sheffield"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Covering Sheffield"
+hero_h1: "GCSE Science Tutors for Sheffield Students"
 hero_lead: "The Science mock came back at a 4, and your child swears Biology went fine. Our GCSE Science tutors for Sheffield students mark that paper across all three sciences to see where the marks really went, before anything else gets planned."
 
 angle_eyebrow: "WHAT ONE COMBINED SCIENCE GRADE CAN HIDE"
@@ -40,7 +40,7 @@ steps:
     body: "Each week there's an hour's lesson on the platform Lessonspace, where a practical or a diagram gets built up bit by bit. Every lesson has a replay. A few families add a second hour in the run-up to mocks. From £37 an hour, no contract."
 
 faqs:
-  - q: "Can a Sheffield GCSE Science tutor help my child get onto an AMRC engineering apprenticeship?"
+  - q: "Can a GCSE Science tutor for Sheffield students help my child get onto an AMRC engineering apprenticeship?"
     a: "It can, yes. Alongside Maths, Science grades count for a lot on those applications. The AMRC Training Centre runs apprenticeships with employers including Boeing, Rolls-Royce and McLaren, and each scheme publishes its own entry grades, which can change every year. Check the latest ones rather than going on what a friend's child needed. Usually that means at least a 4 or 5 in Maths and English, with Science weighing more on the technical routes. There's often an assessment before interview too, and practising for it overlaps a lot with the applied questions on a Physics paper."
   - q: "Combined or Triple Science: which is right for my child?"
     a: "It depends on where your child is now and what they'd like to do next. Combined Science covers all three sciences and counts as two GCSEs. Triple counts as three and goes deeper in each. Triple tends to suit a child who's comfortably on a 6 or above and fancies a Science A-Level, because the extra content overlaps with what Year 12 expects. Combined isn't second best. Most sixth forms still accept it for A-Level Sciences, though some ask for a higher Combined grade instead. It's best decided with a marked Year 10 paper in front of you, not on a hunch."

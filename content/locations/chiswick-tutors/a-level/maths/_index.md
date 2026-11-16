@@ -7,7 +7,7 @@ location: "Chiswick"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Chiswick Students Caught Out by the Statistics"
+hero_h1: "A-Level Maths Tutors for Chiswick Students"
 hero_lead: "Statistics looks like the gentle part of A-Level Maths until a hypothesis test asks your child for a conclusion in words. Our A-Level Maths tutors for Chiswick students work through the testing, the large data set and the Pure algebra underneath them."
 
 angle_eyebrow: "THE PART THAT LOOKS EASY"

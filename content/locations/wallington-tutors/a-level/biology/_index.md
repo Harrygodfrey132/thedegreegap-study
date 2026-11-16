@@ -7,7 +7,7 @@ location: "Wallington"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Wallington Students Facing the Synoptic Questions"
+hero_h1: "A-Level Biology Tutors for Wallington Students"
 hero_lead: "Your child has folders of Biology notes, and still runs out of things to say when a long answer pulls two topics together. Our online A-Level Biology tutors for Wallington students teach those links week by week, alongside the required practicals."
 
 angle_eyebrow: "WHEN TWO TOPICS MEET IN ONE QUESTION"

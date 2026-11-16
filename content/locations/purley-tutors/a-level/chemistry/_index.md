@@ -7,7 +7,7 @@ location: "Purley"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Purley Students Stuck on Mechanisms and Moles"
+hero_h1: "A-Level Chemistry Tutors for Purley Students"
 hero_lead: "A-Level Chemistry asks your child to follow a reaction through four steps or a calculation through five, and one early slip costs everything after it. Our A-Level Chemistry tutors for Purley students make each step secure, then build the chains back up."
 
 angle_eyebrow: "ONE SLIP, FIVE LOST MARKS"

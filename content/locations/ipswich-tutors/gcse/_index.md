@@ -5,7 +5,7 @@ layout: "subject"
 location: "Ipswich"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE tutoring in Ipswich for the winter mocks a college reads first"
+hero_heading_line1: "GCSE Tutors for Ipswich Students"
 hero_heading_line2: ""
 hero_lead: "Post-16 applications go in during the autumn, and the mock sat weeks later is what an offer gets checked against. Our GCSE tutors for Ipswich students work to that date, one-to-one and online over Lessonspace."
 
@@ -14,14 +14,14 @@ grade_to: "B"
 grade_stat: "A real GCSE lift from an E to a B, in the words of the student who made it."
 
 first_lesson_eyebrow: "THE NUMBER THE APPLICATION IS READ ON"
-first_lesson_heading: "What an Ipswich GCSE Tutor Reads Before Anything Else"
+first_lesson_heading: "What a GCSE Tutor for Ipswich Students Reads Before Anything Else"
 first_lesson_context: "Results across Suffolk sit close to the national picture, a little under it on some measures, and neither fact tells you much about one child on one paper. What matters more here is timing. The application goes in during the autumn, the mock comes weeks later, and an October start gives a GCSE tutor two terms to move a number that gets read twice."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B at GCSE"
 
-tutor_strip_heading: "Ipswich GCSE tutors who know which board your school teaches"
+tutor_strip_heading: "GCSE tutors for Ipswich students who know which board your school teaches"
 tutor_strip_body: "Copleston, Northgate, Kesgrave and Chantry are not all on the same specifications, so we confirm the board before proposing anybody. Each tutor clears a founder-led interview that around 3% of applicants pass. Browse the profiles. Or let us match your child."
 
 pathways_heading: "Where the Town's Year 11s Land at Sixteen"

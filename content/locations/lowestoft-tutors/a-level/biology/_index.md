@@ -7,7 +7,7 @@ location: "Lowestoft"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Lowestoft Students Who Know the Content but Not the Questions"
+hero_h1: "A-Level Biology Tutors for Lowestoft Students"
 hero_lead: "Your child has revised every page of the textbook, yet the marks still slip on questions that set the biology somewhere unfamiliar. Our A-Level Biology tutors for Lowestoft students practise applying what your child knows, which is what the papers really test."
 
 angle_eyebrow: "MARINE SCIENCE ON THE DOORSTEP"

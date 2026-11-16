@@ -5,7 +5,7 @@ layout: "subject"
 location: "Basildon"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level tutoring for Basildon students who found the jump from GCSE bigger than expected"
+hero_heading_line1: "A-Level Tutors for Basildon Students"
 hero_heading_line2: ""
 hero_lead: "A-Levels move faster and leave more of the work to your child, and that first autumn catches plenty of Basildon sixth formers out. We'll match your child with an online A-Level tutor on their exact board, with every lesson from home."
 

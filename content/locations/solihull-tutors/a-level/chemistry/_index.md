@@ -1,5 +1,5 @@
 ---
-title: "Solihull A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Solihull A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Ionic equations and state symbols quietly cost your child A-Level Chemistry marks. Our online Solihull tutors build the habits that stop it. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Solihull"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online One-to-One A-Level Chemistry Tutors for Families in Solihull"
+hero_h1: "A-Level Chemistry Tutors for Solihull Students"
 hero_lead: "A mark short here, a mark short there: if that's how your child's Chemistry papers keep coming back, ionic equations are a likely culprit. Our A-Level Chemistry tutors for Solihull students work on spectator ions, state symbols and writing the equation the mark scheme wants."
 
 angle_eyebrow: "THE MARKS NOBODY NOTICES GOING"

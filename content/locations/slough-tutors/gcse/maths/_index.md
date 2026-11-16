@@ -1,13 +1,13 @@
 ---
 title: "Slough GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Did the 11+ leave your child thinking Maths isn't for them? Our Slough GCSE Maths tutors work on the paper in front of them now. Online, from £37 an hour."
+description: "Did the 11+ leave your child thinking Maths isn't for them? Our GCSE Maths tutors for Slough work on the paper in front of them now. Online, from £37 an hour."
 layout: "level-subject"
 location: "Slough"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths tutors for Slough, built around the GCSE paper, not the 11+"
+hero_h1: "GCSE Maths Tutors for Slough Students"
 hero_lead: "If your child sat the 11+, that result might still be colouring how they feel about Maths, five years on. Our GCSE Maths tutors for Slough students work one-to-one online on the paper in front of your child now, whichever tier it is."
 
 angle_eyebrow: "A VERDICT REACHED AT TEN"

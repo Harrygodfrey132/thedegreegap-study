@@ -7,7 +7,7 @@ location: "Hertford"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Hertford Students Whose Answers Miss the Links Between Topics"
+hero_h1: "A-Level Biology Tutors for Hertford Students"
 hero_lead: "Your child knows each Biology topic on its own, then a question asks them to connect respiration with muscle contraction and the answer stalls. Our A-Level Biology tutors for Hertford students practise linking topics, the skill the longer answers reward."
 
 angle_eyebrow: "WHERE THE TOPICS MEET"

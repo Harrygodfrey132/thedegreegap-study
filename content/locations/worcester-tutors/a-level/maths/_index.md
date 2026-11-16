@@ -1,5 +1,5 @@
 ---
-title: "Worcester A-Level Maths Tutors | Online | The Degree Gap"
+title: "Worcester A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Is integration costing your child marks? Online A-Level Maths tutors for Worcester, one-to-one: limits, areas between curves and sketches. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Worcester"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online Worcester A-Level Maths Tutors for Integration"
+hero_h1: "A-Level Maths Tutors for Worcester Students"
 hero_lead: "Some children never put a hand up in Maths, and integration is where that quietly costs them. Our A-Level Maths tutors for Worcester students concentrate on the parts around the calculus: finding the limits, sketching which curve is on top, and making sense of a negative area."
 
 angle_eyebrow: "WHY DID THE AREA COME OUT NEGATIVE?"

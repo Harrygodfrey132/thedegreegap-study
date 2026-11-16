@@ -7,7 +7,7 @@ location: "Ampthill"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Ampthill Students Tripped Up by the Calculations"
+hero_h1: "A-Level Chemistry Tutors for Ampthill Students"
 hero_lead: "One wrong step early in a mole calculation, and every mark after it goes too. Our A-Level Chemistry tutors for Ampthill students slow those chains down, line by line on a shared whiteboard, until your child trusts their own working."
 
 angle_eyebrow: "ONE SLIP, FOUR MARKS"

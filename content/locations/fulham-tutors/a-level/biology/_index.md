@@ -7,7 +7,7 @@ location: "Fulham"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Fulham Students Lost in Nerve Impulses and Synapses"
+hero_h1: "A-Level Biology Tutors for Fulham Students"
 hero_lead: "Resting potentials and refractory periods: the nervous system is where plenty of A-Level Biology students start memorising words they don't really follow. Our A-Level Biology tutors for Fulham students rebuild it one ion at a time, until the graph of an action potential makes sense."
 
 angle_eyebrow: "ONE ION AT A TIME"

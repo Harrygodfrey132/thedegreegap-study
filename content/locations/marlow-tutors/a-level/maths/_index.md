@@ -1,13 +1,13 @@
 ---
 title: "Marlow A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Good GCSE, but A-Level Maths suddenly feels like a new subject? Our Marlow tutors help your child with proof, Mechanics and unfamiliar questions. From £37."
+description: "Good GCSE, but A-Level Maths suddenly feels like a new subject? Our online tutors help Marlow students with proof, Mechanics and unfamiliar questions. From £37."
 layout: "level-subject"
 location: "Marlow"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Marlow Families After the Step Up From GCSE"
+hero_h1: "A-Level Maths Tutors for Marlow Students"
 hero_lead: "Your child's strong GCSE grade is what got them onto A-Level Maths. What it doesn't do is prepare them for questions that stop saying which method to use. Our A-Level Maths tutors for Marlow students work on exactly that shift with your child, one-to-one and online."
 
 angle_eyebrow: "WHERE A GOOD GCSE STOPS BEING ENOUGH"

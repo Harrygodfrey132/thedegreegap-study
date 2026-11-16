@@ -7,7 +7,7 @@ location: "Dorking"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Dorking Students Taking the Combined Course"
+hero_h1: "GCSE Science Tutors for Dorking Students"
 hero_lead: "Combined Science is two GCSEs graded together, so one weak science, often Physics, can drag both grades down. Our GCSE Science tutors for Dorking students find which of the three is costing marks and put the time there."
 
 angle_eyebrow: "TWO GRADES, THREE SCIENCES"

@@ -1,17 +1,17 @@
 ---
-title: "Online GCSE Science Tutors | London | The Degree Gap"
+title: "GCSE Science Tutors | London | The Degree Gap"
 nav_title: "Science"
-description: "One-to-one online GCSE Science tutors across London. We find which of the three sciences is dragging your child's grade and start there. From £37, no contract."
+description: "One-to-one online GCSE Science tutors for London. We find which of the three sciences is dragging your child's grade and start there. From £37, no contract."
 layout: "level-subject"
 location: "London"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for London Families, Combined or Triple"
+hero_h1: "GCSE Science Tutors for London Students"
 hero_lead: "Two GCSEs, three sciences, and revision spread so thin that none of it feels solid. If that sounds like your child, it's very common. Our GCSE Science tutors for London students split the subject back into its three parts, then work on the practicals and six-mark answers where the marks are going."
 
 angle_eyebrow: "WHERE LONDON SCIENCE MARKS SLIP AWAY"
-angle_heading: "Where a London GCSE Science tutor finds the marks your child is losing"
+angle_heading: "Where a GCSE Science tutor for London students finds the marks your child is losing"
 angle_body_1: "Combined Science is three subjects sharing one revision timetable, and that's usually where it comes apart. Your child may well learn the required practicals as a list of steps, not as a method they could be asked to pick holes in. Six-mark questions get answered in bullet points. Chemistry calculations, moles and concentration above all, get put off until the week before. And the maths inside Physics, rearranging an equation and carrying the units through, is one of the most common places a Science grade slips without anyone noticing."
 angle_body_2: "So the first job is pulling the three apart again. The tutor works out which of Biology, Chemistry or Physics is dragging the grade down, then works on that one properly instead of revising a bit of everything. Practicals get taught as a method: what's changed, what's measured, what's kept the same. Six-mark answers get planned before they're written. If your child is at Brampton Manor Academy or Tiffin School and has A-Level Sciences in mind, it's worth sorting this out early. Triple and Combined leave children at different starting points in Year 12."
 angle_image: "/images/chemistry-lab-glassware.jpg"

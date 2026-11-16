@@ -1,11 +1,11 @@
 ---
-title: "A-Level Tutors for Your Child in Newbury | Online One-to-One"
+title: "A-Level Tutors for Your Child in Newbury | One-to-One"
 description: "Are predictions and applications landing at once in Year 13? We match Newbury sixth formers with an online A-Level tutor on their exam board. From £37 an hour."
 layout: "subject"
 location: "Newbury"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Newbury Sixth Formers Whose Predicted Grades Don't Match Their Plans"
+hero_heading_line1: "A-Level Tutors for Newbury Students"
 hero_heading_line2: ""
 hero_lead: "Predicted grades are usually settled between the end of Year 12 and the autumn of Year 13, and every application your child makes carries them. Our A-Level tutors for Newbury students work on the papers where marks are slipping, well before then."
 

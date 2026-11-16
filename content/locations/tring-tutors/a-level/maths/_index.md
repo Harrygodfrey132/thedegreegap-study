@@ -7,7 +7,7 @@ location: "Tring"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Tring Students Who Coped at GCSE and Now Feel Lost"
+hero_h1: "A-Level Maths Tutors for Tring Students"
 hero_lead: "Your child needed a strong GCSE to start A-Level Maths, and a few weeks in they're staring at a proof with no idea where to begin. Our A-Level Maths tutors for Tring students rebuild the algebra underneath and teach them how to start."
 
 angle_eyebrow: "PURE, STATISTICS AND MECHANICS ON EDEXCEL"

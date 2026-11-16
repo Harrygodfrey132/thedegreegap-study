@@ -1,11 +1,11 @@
 ---
-title: "Didsbury GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "Which sixth form, and will the grades get there? Our Didsbury GCSE tutors work online, one-to-one, on whichever subject's furthest off. Lessons from £37."
+title: "Didsbury GCSE Tutors | One-to-One | The Degree Gap"
+description: "Which sixth form, and will the grades get there? Our GCSE tutors for Didsbury work online, one-to-one, on whichever subject's furthest off. Lessons from £37."
 layout: "subject"
 location: "Didsbury"
 level: "GCSE"
 
-hero_heading_line1: "Online Didsbury GCSE Tutors For the Autumn Your Child Chooses a Sixth Form"
+hero_heading_line1: "GCSE Tutors for Didsbury Students"
 hero_heading_line2: ""
 hero_lead: "Most Didsbury parents we speak to are juggling two lists this year: the sixth forms on the fridge, and the mock grades that don't quite match them. Our GCSE tutors for Didsbury students work one-to-one online on the subject standing between the two."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "In Year 10, Omo's son had switched off from English. After six months of tutoring he'd gone from a grade 5 to a 6/7."
 
 first_lesson_eyebrow: "A YEAR 10 WHO GAVE UP ON ENGLISH"
-first_lesson_heading: "What a Didsbury GCSE Tutor Looks for in the First Hour"
+first_lesson_heading: "What a GCSE Tutor for Didsbury Students Looks for in the First Hour"
 first_lesson_context: "Bright child, fine in most subjects, and one that's gone quiet since Year 9. Plenty of Didsbury parents describe it just like that. A good GCSE tutor can usually find out why in the first lesson, from a recent paper, and it's rarely down to effort."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to a 6/7 in GCSE English"
 
-tutor_strip_heading: "Didsbury GCSE tutors picked for your child's exam board"
+tutor_strip_heading: "GCSE tutors for Didsbury students picked for your child's exam board"
 tutor_strip_body: "Parrs Wood, Didsbury High and The Barlow can pick different exam boards for the same subject, so we find out which one your child's on before suggesting anyone. Every tutor's had an interview with us, and around 3% of applicants make the cut. Browse, or leave it to us."
 
 pathways_heading: "Where Didsbury Year 11s Go at Sixteen"

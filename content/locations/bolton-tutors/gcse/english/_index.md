@@ -1,13 +1,13 @@
 ---
 title: "GCSE English Tutors Covering Bolton | The Degree Gap"
 nav_title: "English"
-description: "Online GCSE English tutors covering Bolton for Language and Literature, working the questions where the marks actually leave the paper. From £37 an hour."
+description: "Online GCSE English tutors for Bolton, for Language and Literature, working the questions where the marks actually leave the paper. From £37 an hour."
 layout: "level-subject"
 location: "Bolton"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online One-to-One GCSE English Tutoring for Bolton Year 11s and the Grade Colleges Name"
+hero_h1: "GCSE English Tutors for Bolton Students"
 hero_lead: "English Language turns up on nearly every post-16 requirement in the borough, which puts a lot of weight on a small number of papers. Our GCSE English tutors for Bolton students find where the marks leave those papers, then rebuild the answers online and one-to-one over Lessonspace."
 
 angle_eyebrow: "NAMED ON EVERY ENTRY REQUIREMENT"

@@ -1,11 +1,11 @@
 ---
 title: "A-Level Tutors in Rickmansworth | The Degree Gap"
-description: "Year 12 work shapes UCAS predicted grades. Rickmansworth A-Level tutors who start from your child's marked work, online and one-to-one, from £37 an hour."
+description: "Year 12 work shapes UCAS predicted grades. A-Level tutors for Rickmansworth who start from your child's marked work, online and one-to-one, from £37 an hour."
 layout: "subject"
 location: "Rickmansworth"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors in Rickmansworth for Year 12, When Predictions Get Made"
+hero_heading_line1: "A-Level Tutors for Rickmansworth Students"
 hero_heading_line2: ""
 hero_lead: "Predicted grades lean heavily on Year 12, so the work your child does this year goes with them onto the UCAS form next autumn. Our A-Level tutors for Rickmansworth students find what's losing marks now, while there's still time to put it right."
 
@@ -14,7 +14,7 @@ grade_to: "A"
 grade_stat: "Alexander's child went from Cs to As, with help on university choices and the application too, in Alexander's own words."
 
 first_lesson_eyebrow: "THE GRADES, THEN THE APPLICATION"
-first_lesson_heading: "In Week One, a Rickmansworth A-Level Tutor Looks at Two Things"
+first_lesson_heading: "In Week One, an A-Level Tutor for Rickmansworth Students Looks at Two Things"
 first_lesson_context: "Sixth form hands your child far more freedom than GCSE did, and free periods don't always turn into study. So the first lesson looks at a recent marked piece of work and at how your child actually revises, because at A-Level the two are usually linked."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"

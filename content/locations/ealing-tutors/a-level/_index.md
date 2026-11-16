@@ -1,11 +1,11 @@
 ---
-title: "Online A-Level Tutors for Ealing Students | The Degree Gap"
+title: "A-Level Tutors for Ealing Students | The Degree Gap"
 description: "Has Year 12 hit your child harder than expected, maybe at a new sixth form in Ealing? We'll match them with an online A-Level tutor. From £37, no contract."
 layout: "subject"
 location: "Ealing"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Ealing Students Finding the First Term of Year 12 Hard"
+hero_heading_line1: "A-Level Tutors for Ealing Students"
 hero_heading_line2: ""
 hero_lead: "A child who sailed through GCSEs can come home from the first Year 12 assessment unusually quiet. Our A-Level tutors for Ealing students look at what changed, usually the pace and all those free periods, and help your child find a way of working that copes."
 

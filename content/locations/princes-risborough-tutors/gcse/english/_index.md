@@ -7,7 +7,7 @@ location: "Princes Risborough"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Princes Risborough Students Who Run Out of Time on the Essay"
+hero_h1: "GCSE English Tutors for Princes Risborough Students"
 hero_lead: "Your child knows the quotations and has plenty to say, then the Literature essay stops halfway when the time runs out. Our GCSE English tutors for Princes Risborough students teach a quick plan first, so the writing has somewhere to go."
 
 angle_eyebrow: "A SET TEXT, A CLOCK AND AN UNSEEN POEM"

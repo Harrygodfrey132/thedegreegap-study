@@ -7,7 +7,7 @@ location: "Doncaster"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Doncaster Students Losing Marks on Graphs and Equations"
+hero_h1: "GCSE Science Tutors for Doncaster Students"
 hero_lead: "Plenty of children understand the science and then drop marks on the arithmetic around it, a rearranged equation or a mass left in grams. Our GCSE Science tutors for Doncaster students find those slips and practise them until they stop happening."
 
 angle_eyebrow: "THE MATHS HIDING IN SCIENCE"

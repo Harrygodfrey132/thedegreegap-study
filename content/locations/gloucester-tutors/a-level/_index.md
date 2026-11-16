@@ -5,7 +5,7 @@ layout: "subject"
 location: "Gloucester"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Gloucester Students Whose Predicted Grades Need Lifting"
+hero_heading_line1: "A-Level Tutors for Gloucester Students"
 hero_heading_line2: ""
 hero_lead: "Predicted grades go to universities in the autumn of Year 13, built on Year 12 work. Our A-Level tutors for Gloucester students start from your child's latest assessments and work on the marks that move those predictions."
 

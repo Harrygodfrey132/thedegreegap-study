@@ -1,11 +1,11 @@
 ---
 title: "Solihull GCSE Tutors | Year 10 and Year 11 | The Degree Gap"
-description: "Is your child aiming for a sixth form place at Tudor Grange, Arden or Solihull School? Our Solihull GCSE tutors work one-to-one online. From £37 an hour."
+description: "Is your child aiming for a sixth form place at Tudor Grange, Arden or Solihull School? Our GCSE tutors for Solihull work one-to-one online. From £37 an hour."
 layout: "subject"
 location: "Solihull"
 level: "GCSE"
 
-hero_heading_line1: "Online Solihull GCSE Tutors for the Grades That Decide the Next Step"
+hero_heading_line1: "GCSE Tutors for Solihull Students"
 hero_heading_line2: ""
 hero_lead: "For a lot of Solihull families, Year 11 is the first time grades decide where their child goes next. Our GCSE tutors for Solihull students work towards the grades your child's chosen sixth form asks for, rather than a general sense of doing well."
 
@@ -14,7 +14,7 @@ grade_to: "6/7"
 grade_stat: "A 5 to a 6/7 in English for Omo's son, after six months of lessons."
 
 first_lesson_eyebrow: "SIXTEEN, NOT ELEVEN"
-first_lesson_heading: "Year 11 Is the Big One: What a Solihull GCSE Tutor Does First"
+first_lesson_heading: "Year 11 Is the Big One: What a GCSE Tutor for Solihull Students Does First"
 first_lesson_context: "If you've got friends in grammar school areas, you'll know their nervous year is Year 5. Solihull hasn't got grammar schools, so the pressure comes later and lands on GCSEs, which is arguably kinder but makes Year 11 count for more. So the first lesson starts with a recent paper and hunts for the question types costing your child the grade their sixth form course wants."
 
 first_lesson_quote: "The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. …"
@@ -22,7 +22,7 @@ first_lesson_quote_name: "Augusta"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "GCSE"
 
-tutor_strip_heading: "Solihull GCSE tutors who already know your child's exam board"
+tutor_strip_heading: "GCSE tutors for Solihull students who already know your child's exam board"
 tutor_strip_body: "West Midlands schools use AQA, Edexcel and OCR, and the boards don't word or mark their papers the same way. So we confirm your child's board before suggesting anyone. Around 3% of tutors who apply get through our interview. Look at the profiles yourself, or let us choose."
 
 pathways_heading: "Your Child's Next Move After GCSEs in Solihull"

@@ -1,11 +1,11 @@
 ---
-title: "Farnborough A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "Farnborough A-Level tutors who can see every step of your child's working, online and one-to-one. Lessons from £37 an hour, with no contract to sign."
+title: "Farnborough A-Level Tutors | One-to-One | The Degree Gap"
+description: "A-Level tutors for Farnborough who can see every step of your child's working, online and one-to-one. Lessons from £37 an hour, with no contract to sign."
 layout: "subject"
 location: "Farnborough"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors in Farnborough Who Watch How Your Child Works It Out"
+hero_heading_line1: "A-Level Tutors for Farnborough Students"
 hero_lead: "In class, your child follows every worked example. At home, they get stuck halfway through a question and can't say where it went wrong. With our A-Level tutors for Farnborough students, each line shows up on screen as your child writes it, so the slip gets caught there and then."
 
 grade_from: "C"
@@ -21,7 +21,7 @@ first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "A-Level"
 
-tutor_strip_heading: "Farnborough A-Level tutors with one-to-one teaching behind them"
+tutor_strip_heading: "A-Level tutors for Farnborough students with one-to-one teaching behind them"
 tutor_strip_body: "Every one of them has tutored for two years or more, so the usual slips in Maths and Physics aren't new to them. Talk it through with Harry or Joe on a free call, and we'll send two or three profiles within 24 hours."
 
 pathways_heading: "Beyond Year 13 in Farnborough"

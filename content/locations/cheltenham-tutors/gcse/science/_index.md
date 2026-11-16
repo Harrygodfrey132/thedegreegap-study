@@ -1,5 +1,5 @@
 ---
-title: "Online GCSE Science Tutors | Cheltenham | The Degree Gap"
+title: "GCSE Science Tutors | Cheltenham | The Degree Gap"
 nav_title: "Science"
 description: "Online GCSE Science tutors for Cheltenham families whose child revises hard and still drops marks on practicals, six-mark answers and calculations. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Cheltenham"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutoring for Cheltenham Families"
+hero_h1: "GCSE Science Tutors for Cheltenham Students"
 hero_lead: "Your child spends hours on Science revision and the mock grade still won't move, usually because the revision is memory work and a good share of the marks need method. Our GCSE Science tutors for Cheltenham students work on exactly those parts of the paper."
 
 angle_eyebrow: "WHEN THE FLASHCARDS AREN'T THE PROBLEM"

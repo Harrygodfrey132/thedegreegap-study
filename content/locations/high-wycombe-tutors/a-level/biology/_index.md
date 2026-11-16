@@ -1,13 +1,13 @@
 ---
-title: "High Wycombe A-Level Biology Tutors | Online | The Degree Gap"
+title: "High Wycombe A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Do your child's Biology answers tail off by the end of the paper? Our High Wycombe A-Level Biology tutors build the stamina a long exam needs. From £37."
+description: "Do your child's Biology answers tail off by the end of the paper? Our online A-Level Biology tutors build High Wycombe students' exam stamina. From £37."
 layout: "level-subject"
 location: "High Wycombe"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Families in and Around High Wycombe"
+hero_h1: "A-Level Biology Tutors for High Wycombe Students"
 hero_lead: "A-Level Biology papers are long, and for lots of teenagers the answers get weaker well before the end. Our A-Level Biology tutors for High Wycombe students treat that stamina as something your child can train."
 
 angle_eyebrow: "THE LAST HALF HOUR OF THE PAPER"
@@ -28,7 +28,7 @@ schools:
   - "Cressex Community School"
   - "The Misbourne School"
 
-steps_heading: "Getting your child going with a High Wycombe Biology tutor"
+steps_heading: "Getting your child going with a Biology tutor for High Wycombe students"
 steps_lead: "Try comparing the first long answer on your child's mock with the last. Profiles come within a day."
 steps:
   - title: "A free call to talk it through"

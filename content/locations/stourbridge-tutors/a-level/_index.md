@@ -1,11 +1,11 @@
 ---
-title: "Stourbridge A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "Picked an A-Level your child never studied at GCSE? A Stourbridge A-Level tutor can lay the groundwork online, on their exam board. From £37, no contract."
+title: "Stourbridge A-Level Tutors | One-to-One | The Degree Gap"
+description: "Picked an A-Level your child never studied at GCSE? An A-Level tutor for Stourbridge can lay the groundwork online, on their exam board. From £37, no contract."
 layout: "subject"
 location: "Stourbridge"
 level: "A-Level"
 
-hero_heading_line1: "Online Stourbridge A-Level Tutors for Year 12s Starting a Subject From Scratch"
+hero_heading_line1: "A-Level Tutors for Stourbridge Students"
 hero_heading_line2: ""
 hero_lead: "Your child chose Psychology or Economics in the summer because it sounded interesting, and by October the homework is full of terms they've never met. Our A-Level tutors for Stourbridge students cover the groundwork a GCSE would have given them, then keep pace with the course."
 
@@ -14,14 +14,14 @@ grade_to: "B"
 grade_stat: "“…helped me increase my grades from an E to a B…” From Keira, an A-Level student, in a Google review that doesn't name the subject"
 
 first_lesson_eyebrow: "NEW SUBJECT, NO GCSE BEHIND IT"
-first_lesson_heading: "What a Stourbridge A-Level Tutor Does When the Subject Is Brand New"
+first_lesson_heading: "What an A-Level Tutor for Stourbridge Students Does When the Subject Is Brand New"
 first_lesson_context: "King Edward VI College lists 41 subjects, and several, Law, Philosophy and Geology among them, are ones your child won't have had a single lesson in before September. You probably didn't study them either, which makes the homework hard to help with. So an A-Level tutor spends the first few weeks on the groundwork the course assumes, then keeps step with the lessons."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B…"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "A-Level Student"
 first_lesson_quote_grade: "Grade E → Grade B at A-Level"
 
-tutor_strip_heading: "Stourbridge A-Level tutors for the subjects nobody met at GCSE"
+tutor_strip_heading: "A-Level tutors for Stourbridge students, for the subjects nobody met at GCSE"
 tutor_strip_body: "At King Edward's, Psychology is Edexcel and Economics is AQA, so we match on the exam board as well as the subject. Every tutor here passed an interview with Harry or Joe, which only about 3% of applicants get through. Browse, or ask us to choose."
 
 pathways_heading: "After Year 13: Universities and Jobs Within Reach of Stourbridge"

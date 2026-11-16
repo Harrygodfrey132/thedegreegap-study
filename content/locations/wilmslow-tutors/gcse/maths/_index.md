@@ -1,13 +1,13 @@
 ---
 title: "GCSE Maths Tutors in Wilmslow | The Degree Gap"
 nav_title: "Maths"
-description: "An old gap from Year 8 can hold your child's Maths grade back for years. Our Wilmslow GCSE Maths tutors find it and rebuild, one-to-one online, from £37."
+description: "An old gap from Year 8 can hold your child's Maths grade back for years. Our GCSE Maths tutors for Wilmslow find it and rebuild, one-to-one online, from £37."
 layout: "level-subject"
 location: "Wilmslow"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors Covering Wilmslow, Matched to Your Child"
+hero_h1: "GCSE Maths Tutors for Wilmslow Students"
 hero_lead: "Ask your child where the Maths marks went and you'll probably get a shrug. Our GCSE Maths tutors for Wilmslow students start from a real paper, find the algebra or fractions method that slipped past years ago, and rebuild from there."
 
 card_heading: "Talk to a member of the team to start the matching process"

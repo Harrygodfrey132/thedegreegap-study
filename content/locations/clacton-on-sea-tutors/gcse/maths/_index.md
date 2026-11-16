@@ -1,5 +1,5 @@
 ---
-title: "Online GCSE Maths Tutors for Clacton-on-Sea Teenagers | The Degree Gap"
+title: "GCSE Maths Tutors for Clacton-on-Sea Teenagers | The Degree Gap"
 nav_title: "Maths"
 description: "Foundation or Higher, a 4 or a 6? We'll match your child in Clacton-on-Sea with an online GCSE Maths tutor who knows their board and tier. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Clacton-on-Sea"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Clacton-on-Sea Families Weighing Up Foundation or Higher"
+hero_h1: "GCSE Maths Tutors for Clacton-on-Sea Students"
 hero_lead: "The school wants to know which tier your child should sit, and nobody at home is sure whether Higher is a stretch too far. Our GCSE Maths tutors for Clacton-on-Sea students look at the algebra and problem-solving behind the last mock, help you decide, then teach towards it."
 
 angle_eyebrow: "FOUNDATION, HIGHER, AND WHAT EACH ALLOWS"

@@ -1,11 +1,11 @@
 ---
 title: "Kingston upon Thames A-Level Tutors | One-to-One | The Degree Gap"
-description: "Kingston upon Thames A-Level tutors who mark your child's work every week, so any gap shows up before UCAS predictions. Online, from £37 an hour, no contract."
+description: "A-Level tutors for Kingston upon Thames who mark your child's work every week, so any gap shows up before UCAS predictions. Online, from £37, no contract."
 layout: "subject"
 location: "Kingston upon Thames"
 level: "A-Level"
 
-hero_heading_line1: "Online Kingston upon Thames A-Level Tutors for Effort That Isn't Showing in the Grades"
+hero_heading_line1: "A-Level Tutors for Kingston upon Thames Students"
 hero_heading_line2: ""
 hero_lead: "Your child works hard and keeps up in class, yet the timed tests keep coming back with middling results. Our A-Level tutors for Kingston upon Thames students mark some of their work every week, so you'll know which questions are costing marks before UCAS predictions are written."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "From one parent's review: Cs to As at A-Level, with help on university choices along the way."
 
 first_lesson_eyebrow: "THE Cs THAT BECAME As"
-first_lesson_heading: "Why a Kingston upon Thames A-Level Tutor Marks Before Teaching"
+first_lesson_heading: "Why an A-Level Tutor for Kingston upon Thames Students Marks Before Teaching"
 first_lesson_context: "If your child keeps up in class but drops marks in timed work, it can take a while for anyone to spot why. Kingston's sixth forms are big, and a teacher with a full class rarely has time to read every answer line by line. So the first lesson starts with a marked paper, because the working shows what the grade hides."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Cs to As at A-Level"
 
-tutor_strip_heading: "Kingston upon Thames A-Level tutors who read the working, not just the answer"
+tutor_strip_heading: "A-Level tutors for Kingston upon Thames students who read the working, not just the answer"
 tutor_strip_body: "Tiffin, Kingston Grammar, Esher and the school sixth forms don't all use the same exam board or topic order. We'll ask which board your child's on before suggesting anyone. Every tutor has passed an interview with Harry or Joe that only around 3% of applicants get through."
 
 pathways_heading: "Where Kingston upon Thames A-Levels Lead, and What Each Route Looks At"

@@ -7,7 +7,7 @@ location: "Nuneaton"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Nuneaton Students Who Lose Marks in the Maths"
+hero_h1: "A-Level Physics Tutors for Nuneaton Students"
 hero_lead: "Your child understands the Physics when it's explained, then a question needs logs, vectors or a rearranged equation and the working falls apart. Our A-Level Physics tutors for Nuneaton students fix the maths inside the Physics, one question type at a time."
 
 angle_eyebrow: "THREE PAPERS, TWELVE PRACTICALS"

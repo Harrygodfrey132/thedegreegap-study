@@ -7,7 +7,7 @@ location: "Lowestoft"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Lowestoft Students Whose Essays Never Weigh Anything Up"
+hero_h1: "A-Level Economics Tutors for Lowestoft Students"
 hero_lead: "Your child explains the theory well and draws the diagram, then the essay ends without weighing anything up. Our A-Level Economics tutors for Lowestoft students teach them to finish the argument, because that's where the top marks sit."
 
 angle_eyebrow: "FISH, FROZEN PEAS AND WIND FARMS"

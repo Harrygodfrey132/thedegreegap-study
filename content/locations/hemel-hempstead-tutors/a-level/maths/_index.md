@@ -1,5 +1,5 @@
 ---
-title: "Hemel Hempstead A-Level Maths Tutors | Online | The Degree Gap"
+title: "Hemel Hempstead A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "A-Level Maths needs hours of practice between lessons, most of it unseen. Our online Hemel Hempstead tutors help your child build that habit, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Hemel Hempstead"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Hemel Hempstead Families, When Practice Between Lessons Slips"
+hero_h1: "A-Level Maths Tutors for Hemel Hempstead Students"
 hero_lead: "A-Level Maths expects hours of practice on top of lessons and homework, and from the outside it's hard to tell whether it's happening. Our A-Level Maths tutors for Hemel Hempstead students help your child build that habit, not just the knowledge."
 
 angle_eyebrow: "THE HOURS OUTSIDE LESSONS"
@@ -28,7 +28,7 @@ schools:
   - "Longdean School"
   - "John F Kennedy Catholic School"
 
-steps_heading: "How we find your child an A-Level Maths tutor in Hemel Hempstead"
+steps_heading: "How we find your child an A-Level Maths tutor for Hemel Hempstead students"
 steps_lead: "Tutor profiles come within 24 hours of our call. And how many problems your child does in a normal week tells us most of what we need to know."
 steps:
   - title: "Tell us about a normal week"
@@ -43,7 +43,7 @@ faqs:
     a: "It's quieter than most parents expect. It opens with a quarter of an hour checking last week's practice, properly rather than at a glance. For the middle half hour your child works problems while the tutor watches where they hesitate, because a pause shows the gap far better than a wrong answer does. To finish, there are fresh questions done alone against the clock. Then the next week's practice is set, so it follows straight on."
   - q: "How much Maths practice should my child be doing between lessons?"
     a: "Probably more than they're doing now. For a child aiming near the top grades, it's somewhere between two and four hours across the week, in short sittings. Marking it properly matters just as much. Glancing at an answer and deciding it's basically right is how a method feels secure when it isn't. The tutor sets the amount and checks the marking, so you're not the one policing it."
-  - q: "Can a Hemel Hempstead A-Level Maths tutor help with an engineering or tech apprenticeship application?"
+  - q: "Can an A-Level Maths tutor for Hemel Hempstead students help with an engineering or tech apprenticeship application?"
     a: "Yes, and families around Hemel Hempstead do ask. Firms around Maylands and the other business parks take on apprentices. The bigger schemes publish their own entry requirements. They're revised between intakes and almost always name Maths. Several also set their own aptitude tests, which reward speed and accuracy against the clock rather than extra content. Tell us on the call which route your child has in mind."
   - q: "Will tutoring actually move my child's grade?"
     a: "We won't promise a grade, but we can describe the pattern. A child who understands the methods and just hasn't done the practice often moves quickly once it's organised, because it was never about ability. If the GCSE algebra was shaky, it's a longer road, and a good tutor will tell you that early rather than at the end. The reviews on this page come from real families, exactly as they wrote them."

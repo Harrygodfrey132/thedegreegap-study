@@ -7,7 +7,7 @@ location: "Hull"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Hull Students Whose Curly Arrows Keep Going Astray"
+hero_h1: "A-Level Chemistry Tutors for Hull Students"
 hero_lead: "Your child can name the reaction, but showing where every curly arrow goes, under time, is another matter. Our online A-Level Chemistry tutors work through mechanisms, synthesis routes and multi-step calculations until the method holds."
 
 angle_eyebrow: "FROM SALTEND TO THE EXAM PAPER"

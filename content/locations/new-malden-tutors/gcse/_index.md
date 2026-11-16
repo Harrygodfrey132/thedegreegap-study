@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors for New Malden Families | The Degree Gap"
+title: "GCSE Tutors for New Malden Families | The Degree Gap"
 description: "Did your child's GCSE course quietly start back in Year 9? We'll match New Malden students with an online GCSE tutor who finds the early gaps. From £37 an hour."
 layout: "subject"
 location: "New Malden"
 level: "GCSE"
 
-hero_heading_line1: "Online New Malden GCSE Tutors for Courses That Began Back in Year 9"
+hero_heading_line1: "GCSE Tutors for New Malden Students"
 hero_heading_line2: ""
 hero_lead: "Lots of parents assume GCSEs start in Year 10, then hear at a parents' evening that the course began a year earlier and an early topic never went in. Our GCSE tutors for New Malden students go back to where it began and rebuild from there."
 

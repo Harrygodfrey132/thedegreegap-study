@@ -1,11 +1,11 @@
 ---
 title: "Stevenage GCSE Tutors | Find the Gap and Rebuild It | The Degree Gap"
-description: "All that revision and your child's mark hasn't moved? Our Stevenage GCSE tutors find where it first went wrong and rebuild from there. Online, from £37 an hour."
+description: "All that revision and your child's mark hasn't moved? Our GCSE tutors for Stevenage find where it first went wrong and rebuild from there. Online, from £37."
 layout: "subject"
 location: "Stevenage"
 level: "GCSE"
 
-hero_heading_line1: "Online Stevenage GCSE Tutors Who Find Why Hard Revision Isn't Moving the Mark"
+hero_heading_line1: "GCSE Tutors for Stevenage Students"
 hero_heading_line2: ""
 hero_lead: "When your child's working hard and the grades won't move, the problem's usually older than the topic they're stuck on. Our GCSE tutors for Stevenage students trace it back, sometimes as far as Year 8, and rebuild from there. It's often quicker than you'd fear."
 
@@ -15,7 +15,7 @@ grade_stat: "A 4 to a 6 is the climb weekly lessons aim for once the older gap's
 grade_card: "aim"
 
 first_lesson_eyebrow: "INSIDE A FIRST STEVENAGE LESSON"
-first_lesson_heading: "Why Effort Stops Working, and What a Stevenage GCSE Tutor Does About It"
+first_lesson_heading: "Why Effort Stops Working, and What a GCSE Tutor for Stevenage Students Does About It"
 first_lesson_context: "Stevenage parents describe it to us almost word for word: the report says the effort's good, your child says they revised, and the mark comes back the same as last time. Usually a piece of the foundation went missing a couple of years ago, like negative numbers, fractions or rearranging a formula, and every new topic built on it now costs twice the effort. So the first lesson works backwards before it goes forwards."
 
 first_lesson_quote: "Very good tutoring for my daughter and good communication with parents. UPDATE: My daughter passed both English and Maths GCSE (4 and 5's). …"
@@ -23,7 +23,7 @@ first_lesson_quote_name: "Chris"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "GCSE"
 
-tutor_strip_heading: "Stevenage GCSE tutors patient enough to go back a step first"
+tutor_strip_heading: "GCSE tutors for Stevenage students patient enough to go back a step first"
 tutor_strip_body: "It takes a certain kind of tutor to go back two years with a teenager without making them feel silly. That's most of what we test for in the interview, and around 3% of applicants get through. Browse a few below, or tell us about your child first."
 
 pathways_heading: "After Stevenage GCSEs: Where Your Child Could Go Next"

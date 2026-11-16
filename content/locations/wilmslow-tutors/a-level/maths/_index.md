@@ -7,7 +7,7 @@ location: "Wilmslow"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors Covering Wilmslow, for the Jump From GCSE"
+hero_h1: "A-Level Maths Tutors for Wilmslow Students"
 hero_lead: "Your child was comfortable with GCSE Maths, and now Year 12 tests are coming home with marks nobody expected. Usually it's because the questions have stopped saying which method to use. Our A-Level Maths tutors for Wilmslow students work one-to-one online on choosing the method, not just carrying it out."
 
 card_heading: "Worried about Year 12 Maths? Let's talk it over"

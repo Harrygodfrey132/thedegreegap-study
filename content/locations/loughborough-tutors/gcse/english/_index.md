@@ -1,13 +1,13 @@
 ---
-title: "Loughborough GCSE English Tutors | Online | The Degree Gap"
+title: "Loughborough GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Strong at Maths and Science but lost on English essays? Our Loughborough GCSE English tutors teach the essay as clear steps, online and one-to-one. From £37."
+description: "Strong at Maths and Science but lost on English essays? Our GCSE English tutors for Loughborough teach the essay as clear steps, online. From £37."
 layout: "level-subject"
 location: "Loughborough"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online Loughborough GCSE English Tutors, One-to-One"
+hero_h1: "GCSE English Tutors for Loughborough Students"
 hero_lead: "If your child flies through Maths homework and then stares at a blank page for an English essay, you're far from alone. Our GCSE English tutors for Loughborough students teach the essay as a method with clear steps, which tends to suit a logical mind."
 
 angle_eyebrow: "WHEN ENGLISH FEELS LIKE GUESSWORK"

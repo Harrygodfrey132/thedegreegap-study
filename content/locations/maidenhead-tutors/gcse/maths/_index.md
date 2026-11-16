@@ -7,7 +7,7 @@ location: "Maidenhead"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Maidenhead Students Whose A-Level Options Hang on Maths"
+hero_h1: "GCSE Maths Tutors for Maidenhead Students"
 hero_lead: "At sixth forms around Maidenhead, the GCSE Maths grade often decides far more than A-Level Maths, from Economics to the sciences. Our GCSE Maths tutors for Maidenhead students find the method that keeps costing your child marks and rebuild it before the mocks."
 
 angle_eyebrow: "THE GRADE OTHER A-LEVELS ASK FOR"

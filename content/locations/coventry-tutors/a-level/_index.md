@@ -1,11 +1,11 @@
 ---
-title: "Coventry A-Level Tutors | One-to-One Online | The Degree Gap"
-description: "Coventry A-Level tutors for when strong GCSEs haven't carried into Year 12. One-to-one and online, matched to your child's subject and exam board, from £37."
+title: "Coventry A-Level Tutors | One-to-One | The Degree Gap"
+description: "A-Level tutors for Coventry, for when strong GCSEs haven't carried into Year 12. Online, matched to your child's subject and exam board, from £37."
 layout: "subject"
 location: "Coventry"
 level: "A-Level"
 
-hero_heading_line1: "Online Coventry A-Level Tutors for When Good GCSE Habits Stop Working"
+hero_heading_line1: "A-Level Tutors for Coventry Students"
 hero_heading_line2: ""
 hero_lead: "Your child got an 8 in GCSE Maths, and now the Year 12 tests are coming back lower than anyone expected. It happens a lot. Our A-Level tutors for Coventry students help them swap GCSE habits for the ones A-Level rewards, well before predictions are set."
 
@@ -14,15 +14,15 @@ grade_to: "A"
 grade_stat: "Daljit's son finished almost two grades above his Year 13 mock."
 
 first_lesson_eyebrow: "A COVENTRY MOCK-TO-OFFER STORY"
-first_lesson_heading: "What a Coventry A-Level Tutor Finds on the First Past Paper"
-first_lesson_context: "Your child can look fine in class and still drop the marks that turn a B into an A. It's usually the evaluation, or the long multi-step working a busy class doesn't have time to practise. That's where a Coventry A-Level tutor starts, with a recent past paper open on the screen."
+first_lesson_heading: "What an A-Level Tutor for Coventry Students Finds on the First Past Paper"
+first_lesson_context: "Your child can look fine in class and still drop the marks that turn a B into an A. It's usually the evaluation, or the long multi-step working a busy class doesn't have time to practise. That's where an A-Level tutor for Coventry students starts, with a recent past paper open on the screen."
 
 first_lesson_quote: "My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
 first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Grade C to Grade A at A-Level"
 
-tutor_strip_heading: "Coventry A-Level tutors for the Warwick degree or the WMG apprenticeship"
+tutor_strip_heading: "A-Level tutors for Coventry students, for the Warwick degree or the WMG apprenticeship"
 tutor_strip_body: "Every tutor here has been interviewed by Harry and Joe, and plenty have helped Year 12s and 13s aiming for university or a WMG apprenticeship at the University of Warwick. Browse the profiles, or tell us about your child and we'll introduce two or three."
 
 pathways_heading: "Where Coventry Sixth Formers Head After Results Day"

@@ -7,7 +7,7 @@ location: "Lincoln"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Lincoln Students Whose Essays Stop Before the Evaluation"
+hero_h1: "A-Level Economics Tutors for Lincoln Students"
 hero_lead: "Your child explains the theory well, then the 25-mark essay ends just where the judgement should start. Our A-Level Economics tutors for Lincoln students build evaluation into every paragraph and get the diagrams exactly right."
 
 angle_eyebrow: "THE LAST THIRD OF THE ESSAY"

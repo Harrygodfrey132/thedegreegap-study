@@ -1,11 +1,11 @@
 ---
 title: "York GCSE Tutors | Expert Tutors | The Degree Gap"
-description: "Fine in Year 9, struggling in Year 10? Our York GCSE tutors trace your child's grade back to where it slipped and rebuild from there. Online lessons from £37."
+description: "Fine in Year 9, struggling in Year 10? Our GCSE tutors for York trace your child's grade back to where it slipped and rebuild from there. Online"
 layout: "subject"
 location: "York"
 level: "GCSE"
 
-hero_heading_line1: "Online York GCSE Tutors for the Year 10 Term When It All Gets Harder"
+hero_heading_line1: "GCSE Tutors for York Students"
 hero_heading_line2: ""
 hero_lead: "In Year 10, GCSE work stops feeling like more of Year 9, and a child who was coping can quietly lose their footing. Our GCSE tutors for York students find where that happened for your child and rebuild from there, not from wherever the class has reached."
 
@@ -14,14 +14,14 @@ grade_to: "B"
 grade_stat: "Keira put it simply: tutoring helped her get her grades from an E to a B."
 
 first_lesson_eyebrow: "AN E TO A B, IN HER WORDS"
-first_lesson_heading: "The First Hour With a York GCSE Tutor"
+first_lesson_heading: "The First Hour With a GCSE Tutor for York Students"
 first_lesson_context: "When it's your child's grade that's slipping, it's not much comfort that York's results sit above the national picture. What we hear most is a Year 10 who was fine last year and isn't now. So the tutor's first job is finding the week that went missing."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B"
 
-tutor_strip_heading: "York GCSE tutors matched on exam board, not just subject"
+tutor_strip_heading: "GCSE tutors for York students matched on exam board, not just subject"
 tutor_strip_body: "Our tutors cover AQA, Edexcel and OCR, and we'll match your child with one who knows the course their school follows. Getting onto the platform isn't easy: roughly 3% of tutors who apply are accepted. Have a browse below, or we'll help you choose."
 
 pathways_heading: "Life After GCSEs in York: The Three Main Routes"

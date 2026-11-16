@@ -1,13 +1,13 @@
 ---
-title: "Chester GCSE Maths Tutors | Online | The Degree Gap"
+title: "Chester GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Chester GCSE Maths tutors for when the non-calculator paper keeps pulling your child's grade down. That's where we start. Online lessons from £37, no contract."
+description: "GCSE Maths tutors for Chester, for when the non-calculator paper keeps pulling your child's grade down. That's where we start. Online lessons from £37."
 layout: "level-subject"
 location: "Chester"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutoring in Chester for the Paper Without a Calculator"
+hero_h1: "GCSE Maths Tutors for Chester Students"
 hero_lead: "If your child copes with a calculator in hand and comes apart on the paper without one, that's a very common pattern. Our GCSE Maths tutors for Chester students work on the paper where a shaky method has nowhere left to hide."
 
 angle_eyebrow: "WHAT THE CALCULATOR WAS COVERING"

@@ -1,13 +1,13 @@
 ---
 title: "Cobham GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Your child's English Language grade matters at sixteen. Our Cobham GCSE English tutors help with unseen texts, essays and timing, one-to-one online. From £37."
+description: "Your child's English Language grade matters at sixteen. Our GCSE English tutors for Cobham help with unseen texts, essays and timing, online. From £37."
 layout: "level-subject"
 location: "Cobham"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutoring for Cobham Teenagers"
+hero_h1: "GCSE English Tutors for Cobham Students"
 hero_lead: "Plenty of keen readers still run out of time before the writing task, or freeze on an extract they've never seen. Our GCSE English tutors for Cobham students work with your child one-to-one online on reading an unseen text quickly, and planning so the last question gets written."
 
 card_eyebrow: "FREE CALL ABOUT ENGLISH"

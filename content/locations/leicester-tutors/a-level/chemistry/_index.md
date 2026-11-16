@@ -7,7 +7,7 @@ location: "Leicester"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "A-Level Chemistry Tuition for Leicester Families"
+hero_h1: "A-Level Chemistry Tutors for Leicester Students"
 hero_lead: "When the Chemistry grade drops, it can feel as if your child is struggling with the whole subject. Usually it's one of three quite different parts, and our A-Level Chemistry tutors for Leicester students find out which."
 
 angle_eyebrow: "THREE CHEMISTRIES, ONE GRADE"
@@ -28,7 +28,7 @@ schools:
   - "Babington Community College"
   - "City of Leicester College"
 
-steps_heading: "Your Three Steps to a Leicester Chemistry Tutor"
+steps_heading: "Your Three Steps to a Chemistry Tutor for Leicester Students"
 steps_lead: "You'll see tutor profiles a day after we talk. Got a marked paper handy? The weak area usually shows itself."
 steps:
   - title: "A free call first"
@@ -43,7 +43,7 @@ faqs:
     a: "Usually a term or so, which is eight to twelve lessons if they're weekly, and that assumes some work in between. It's quicker when the problem is how calculations are set out, because that's a habit, and habits change once your child sees a mark scheme applied to their own paper. It's slower when mechanisms were memorised rather than understood, because that needs rebuilding, not patching. You'll get an honest estimate after the first lesson."
   - q: "Can I work out myself which part my child's struggling with?"
     a: "Often, yes. Sort a marked paper into three piles: calculations, organic mechanisms and everything else. Most children are clearly weaker at one. Calculation losses usually mean a maths gap wearing a Chemistry label. Losses on unfamiliar molecules mean mechanisms were learnt as pictures. Vague inorganic answers mean recall that was never precise. Fifteen minutes of sorting beats a term of general revision."
-  - q: "Can a Leicester Chemistry tutor help if my child wants Medicine or Pharmacy?"
+  - q: "Can a Chemistry tutor for Leicester students help if my child wants Medicine or Pharmacy?"
     a: "Yes, and it comes up a lot here. It's a bigger job than the grade alone, though. Those courses publish their own requirements, which change between years, and most sit at the top of the range with Chemistry named. On top of that there are admissions tests, and interviews that reward thinking out loud rather than reciting. Tell us on the call if that's the plan, because it changes who we suggest, not just what gets taught."
   - q: "Will we get an experienced teacher or someone younger?"
     a: "Either, and we choose by the problem, not the qualification. Rebuilding physical chemistry from the ground up usually suits someone who's taught it many times and knows exactly where it goes wrong. If your child knows the content but their exam answers aren't scoring, a recent graduate who sat these papers and knows what examiners reward is often the better fit. Sometimes it simply comes down to who your child will talk to."

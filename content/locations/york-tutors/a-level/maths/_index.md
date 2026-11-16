@@ -1,5 +1,5 @@
 ---
-title: "York A-Level Maths Tutors | Online | The Degree Gap"
+title: "York A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Your child's UCAS Maths grade is predicted long before June, so that's what our online A-Level Maths tutors for York families plan around. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "York"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutoring for York Families, Planned Around UCAS"
+hero_h1: "A-Level Maths Tutors for York Students"
 hero_lead: "You're probably planning around the exams in June. But the grade that decides your child's university offers is written long before that. Our A-Level Maths tutors for York students work backwards from the predicted grade, not from the summer."
 
 angle_eyebrow: "THE PREDICTION COMES BEFORE THE EXAM"
@@ -39,7 +39,7 @@ steps:
     body: "An hour a week online, on the platform Lessonspace, with your child doing the working and a replay of every lesson. The plan runs to the prediction date, not the exam date. From £37 an hour, paid lesson by lesson, no contract, and a different tutor at no charge if they don't click."
 
 faqs:
-  - q: "Our child's only in Year 12. Is it too soon for a Maths tutor in York?"
+  - q: "Our child's only in Year 12. Is it too soon for a Maths tutor for York students?"
     a: "No, it's usually the best time, and the difference between Year 12 and Year 13 is bigger than most families expect. Predicted grades come out of Year 12 work and reach universities early in Year 13, so anything your child improves then counts for the application as well as the exam. Starting in Year 13 still lifts the final grade, and plenty of families do it. But by then the offers have usually been made against a number set earlier."
   - q: "Why has my child been predicted a lower Maths grade than I expected?"
     a: "Predictions rest on mocks and the teacher's judgement. At A-Level the usual gap is between following a method and choosing one without being told. Your child can be fluent in lessons and lost in a paper where nothing announces the topic. How do you tell which it is? Look at the marked paper itself, not just the grade. It also makes a conversation with school far more useful, and much less tense."

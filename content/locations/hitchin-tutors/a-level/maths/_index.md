@@ -1,13 +1,13 @@
 ---
 title: "Hitchin A-Level Maths Tuition | The Degree Gap"
 nav_title: "Maths"
-description: "Mechanics or Statistics getting left till last in your child's A-Level Maths? Our Hitchin tutors start there, online and one-to-one. From £37, no contract."
+description: "Mechanics or Statistics getting left till last in your child's A-Level Maths? Our tutors for Hitchin start there, online and one-to-one. From £37, no contract."
 layout: "level-subject"
 location: "Hitchin"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutoring in Hitchin, for the Mechanics and Statistics Your Child Keeps Putting Off"
+hero_h1: "A-Level Maths Tutors for Hitchin Students"
 hero_lead: "Pure Maths tends to get the revision time. But Mechanics and Statistics carry about a third of the marks, and they often decide the grade. Our A-Level Maths tutors for Hitchin students work one-to-one online on all three parts, starting with the one your child's been avoiding."
 
 angle_eyebrow: "THE STRAND NOBODY REVISES"
@@ -28,7 +28,7 @@ schools:
   - "Fearnhill School"
   - "North Hertfordshire College"
 
-steps_heading: "How your child gets started with a Hitchin A-Level Maths tutor"
+steps_heading: "How your child gets started with an A-Level Maths tutor for Hitchin students"
 steps_lead: "You'll see profiles within a day. The earlier in Year 12 the better, because this year's assessments are what the predicted grade is built from."
 steps:
   - title: "Start with a chat"

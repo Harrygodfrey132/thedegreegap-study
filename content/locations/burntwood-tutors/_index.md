@@ -1,9 +1,9 @@
 ---
-title: "Online Tutoring for Burntwood Families | The Degree Gap"
+title: "Tutoring for Burntwood Families | The Degree Gap"
 description: "Does your child's homework look nothing like the GCSEs you sat? We'll match your child in Burntwood with an online tutor who suits them. From £37, no contract."
 layout: "single"
 location: "Burntwood"
-banner_heading: "Online tutors for Burntwood families, for GCSEs that look nothing like the ones you sat"
+banner_heading: "GCSE and A-Level Tutors for Burntwood Families"
 banner_description: "We find a tutor who knows your child's exact exam board, so the help they get at home matches what turns up in the exam hall."
 content_angle: "same schools, different exams: plenty of Burntwood parents went to Chase Terrace or Chasetown High themselves, but the 9 to 1 GCSEs their children sit aren't the exams they remember, so help at the kitchen table runs out"
 intro_1: "If you grew up in Burntwood, there's a fair chance you sat your own exams at Chase Terrace, or at Chasetown High before it became Erasmus Darwin. So helping with homework should be easy. Then a Maths question about iteration comes home, or an English paper asking how a writer presents a viewpoint, and it looks nothing like what you remember. Grades are numbers now, 9 down to 1. Maths, English and Science are all exams at the end of Year 11. And after a long day, hearing 'that's not how Miss does it' at nine o'clock is the last thing either of you needs."

@@ -7,7 +7,7 @@ location: "Wallington"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Wallington Students When the Physics Equations Won't Rearrange"
+hero_h1: "GCSE Science Tutors for Wallington Students"
 hero_lead: "Plenty of children enjoy Science until a Physics question asks them to rearrange a formula and convert the units first. Our online GCSE Science tutors for Wallington students work through those calculations step by step, then the long answers in Biology and Chemistry too."
 
 angle_eyebrow: "WHERE SCIENCE TURNS INTO MATHS"

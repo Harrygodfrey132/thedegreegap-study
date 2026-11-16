@@ -7,7 +7,7 @@ location: "Beckenham"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Beckenham Students, on the Board They Actually Sit"
+hero_h1: "GCSE Maths Tutors for Beckenham Students"
 hero_lead: "The revision guide your eldest left on the shelf might be for a different exam board from the one your youngest sits. Our GCSE Maths tutors for Beckenham students work from your child's own papers and specification, starting with whatever keeps costing marks."
 
 angle_eyebrow: "THE REVISION GUIDE ON THE SHELF"

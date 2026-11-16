@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors for Your Child in Borehamwood | The Degree Gap"
+title: "GCSE Tutors for Your Child in Borehamwood | The Degree Gap"
 description: "Has one GCSE subject quietly slipped since Year 10? We'll match your child in Borehamwood with an online GCSE tutor on their exam board. From £37, no contract."
 layout: "subject"
 location: "Borehamwood"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Borehamwood Students Before Year 10's Gaps Reach the Mocks"
+hero_heading_line1: "GCSE Tutors for Borehamwood Students"
 hero_heading_line2: ""
 hero_lead: "Year 10 is when the work piles up, and it's easy to miss one subject sliding until the first mock spells it out. Our GCSE tutors for Borehamwood students find where it started to slip and fix it while there's still plenty of time."
 

@@ -7,7 +7,7 @@ location: "Brentwood"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Brentwood Students Stuck on Dickens and Shakespeare"
+hero_h1: "GCSE English Tutors for Brentwood Students"
 hero_lead: "The modern texts are often fine. It's the Victorian novel and the Shakespeare extract that slow your child down. Our GCSE English tutors for Brentwood students make older writing readable first, then work on what to say about it."
 
 angle_eyebrow: "WHEN THE LANGUAGE IS 150 YEARS OLD"

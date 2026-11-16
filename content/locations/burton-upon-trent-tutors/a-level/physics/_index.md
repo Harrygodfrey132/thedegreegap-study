@@ -7,7 +7,7 @@ location: "Burton upon Trent"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Burton upon Trent Students Who Freeze on Unfamiliar Questions"
+hero_h1: "A-Level Physics Tutors for Burton upon Trent Students"
 hero_lead: "Your child can do every question in the textbook chapter, then the exam describes something new, a crane or a satellite, and they can't see which idea it's testing. Our A-Level Physics tutors for Burton upon Trent students teach them to strip a question back to the physics underneath."
 
 angle_eyebrow: "THE FORCES ON A DIGGER ARM"

@@ -7,7 +7,7 @@ location: "Wakefield"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Wakefield Students Balancing Pure, Statistics and Mechanics"
+hero_h1: "A-Level Maths Tutors for Wakefield Students"
 hero_lead: "Pure takes up most of A-Level Maths, so Statistics and Mechanics are often the bits your child quietly leaves for later. Our online A-Level Maths tutors for Wakefield students give every part its time, starting with whatever's weakest."
 
 angle_eyebrow: "THE APPLIED TOPICS THAT GET LEFT"

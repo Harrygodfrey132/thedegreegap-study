@@ -7,7 +7,7 @@ location: "Rochdale"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Rochdale Students Who Know the Answer but Miss the Wording"
+hero_h1: "A-Level Chemistry Tutors for Rochdale Students"
 hero_lead: "Your child can tell you why ionisation energy rises across a period, then writes it down and gets one mark out of three. Our A-Level Chemistry tutors for Rochdale students teach exactly what a mark scheme is looking for, and how to fit it all in."
 
 angle_eyebrow: "ONE MARK OUT OF THREE"

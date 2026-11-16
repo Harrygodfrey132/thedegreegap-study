@@ -7,7 +7,7 @@ location: "Ealing"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Ealing Students Who Lose Marks Late in the Paper"
+hero_h1: "GCSE Maths Tutors for Ealing Students"
 hero_lead: "Your child copes with the first half of a Maths paper, then the marks thin out once questions stop saying which topic they're testing. Our GCSE Maths tutors for Ealing students work on those later questions, and any number skills hiding under them, online and one-to-one."
 
 angle_eyebrow: "THE SECOND HALF OF THE PAPER"

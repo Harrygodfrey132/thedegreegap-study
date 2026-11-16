@@ -1,11 +1,11 @@
 ---
-title: "Online A-Level Tutors for Your Child in Wakefield | The Degree Gap"
+title: "A-Level Tutors for Your Child in Wakefield | The Degree Gap"
 description: "Is your child struggling to organise A-Levels at a new college in Wakefield? We'll match them with an online A-Level tutor. From £37 an hour, no contract."
 layout: "subject"
 location: "Wakefield"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Wakefield Students Finding Year 12 Hard to Organise"
+hero_heading_line1: "A-Level Tutors for Wakefield Students"
 hero_heading_line2: ""
 hero_lead: "Year 12 brings free periods and far fewer reminders, often in a building your child has only just joined. Our online A-Level tutors for Wakefield students give that time a shape and work on the topics that are slipping."
 

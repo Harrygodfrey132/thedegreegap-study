@@ -7,7 +7,7 @@ location: "Hull"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Hull Students Whose Writing Doesn't Show What They Know"
+hero_h1: "GCSE English Tutors for Hull Students"
 hero_lead: "Your child can talk about a text for ten minutes, then the written answer comes out thin and rushed. Our online GCSE English tutors work on planning and writing under time, for Language and Literature alike."
 
 angle_eyebrow: "HALF THE MARKS ARE THEIR OWN WRITING"

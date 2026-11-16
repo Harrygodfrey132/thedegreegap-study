@@ -1,13 +1,13 @@
 ---
-title: "Tunbridge Wells A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Tunbridge Wells A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
-description: "Your child sailed through GCSE Chemistry and Year 12 feels hard? Our Tunbridge Wells A-Level Chemistry tutors help them reason it out online. From £37."
+description: "Your child sailed through GCSE Chemistry and Year 12 feels hard? Our A-Level Chemistry tutors for Tunbridge Wells help them reason it out online. From £37."
 layout: "level-subject"
 location: "Tunbridge Wells"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "One-to-One Online A-Level Chemistry Tutors for Tunbridge Wells"
+hero_h1: "A-Level Chemistry Tutors for Tunbridge Wells Students"
 hero_lead: "A 9 in GCSE Chemistry, then a first term of Year 12 that's come as a shock. It's a pattern we hear about a lot, and our A-Level Chemistry tutors for Tunbridge Wells students start with the reasoning A-Level suddenly expects."
 
 angle_eyebrow: "WHEN A GOOD MEMORY STOPS BEING ENOUGH"

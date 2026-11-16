@@ -7,7 +7,7 @@ location: "Hull"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Hull Students Stuck Halfway Through Mechanics Problems"
+hero_h1: "A-Level Physics Tutors for Hull Students"
 hero_lead: "Plenty of Year 12s understand the physics and still stall halfway through a question, because the maths underneath gives way. Our online A-Level Physics tutors break Mechanics and Fields problems into steps your child can carry out alone."
 
 angle_eyebrow: "BLADES, FORCES AND FIELDS"

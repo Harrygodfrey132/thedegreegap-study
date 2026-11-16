@@ -1,13 +1,13 @@
 ---
 title: "Harpenden A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Losing easy Statistics marks on the large data set? Our Harpenden A-Level Maths tutors go through it with your child online, one-to-one. From £37, no contract."
+description: "Losing easy Statistics marks on the large data set? Our A-Level Maths tutors for Harpenden go through it with your child online, one-to-one. From £37."
 layout: "level-subject"
 location: "Harpenden"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "A-Level Maths Tutors for Harpenden Students, One-to-One"
+hero_h1: "A-Level Maths Tutors for Harpenden Students"
 hero_lead: "Your child understands the statistics, so why do marks keep going on the large data set, the real figures their exam board publishes? Our A-Level Maths tutors for Harpenden students open it up with them, and those are some of the easiest marks to win back."
 
 angle_eyebrow: "THE DATA SET NOBODY OPENS"

@@ -7,7 +7,7 @@ location: "Cardiff"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Cardiff Students on the New Double Award"
+hero_h1: "GCSE Maths Tutors for Cardiff Students"
 hero_lead: "Maths in Wales is now one double GCSE in three units, and one of them is built around financial maths. Our GCSE Maths tutors for Cardiff students find which unit is costing your child marks and start there, one-to-one and online."
 
 angle_eyebrow: "THREE UNITS, TWO GRADES, ONE COURSE"

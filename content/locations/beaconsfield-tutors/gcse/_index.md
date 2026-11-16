@@ -1,11 +1,11 @@
 ---
-title: "Beaconsfield GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "A Beaconsfield GCSE tutor starts with your child's latest marked paper and finds the topics costing marks. One-to-one online lessons from £37, no contract."
+title: "Beaconsfield GCSE Tutors | One-to-One | The Degree Gap"
+description: "A GCSE tutor for Beaconsfield starts with your child's latest marked paper and finds the topics costing marks. One-to-one online lessons from £37, no contract."
 layout: "subject"
 location: "Beaconsfield"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Beaconsfield Families, Whichever School Your Child Ended Up At"
+hero_heading_line1: "GCSE Tutors for Beaconsfield Students"
 hero_heading_line2: ""
 hero_lead: "If your child's putting the hours in and the mock grades still aren't moving, you're far from the only family in town feeling it. An hour a week with one of our GCSE tutors for Beaconsfield students goes on the exact topics where your child's losing marks, one-to-one and online."
 
@@ -14,14 +14,14 @@ grade_to: "B"
 grade_stat: "In Keira's words, tutoring has 'definitely helped' lift the grades from an E to a B."
 
 first_lesson_eyebrow: "AFTER THE TRANSFER TEST"
-first_lesson_heading: "A Beaconsfield GCSE Tutor's First Job: Finding the Lost Marks"
+first_lesson_heading: "A GCSE Tutor for Beaconsfield Students's First Job: Finding the Lost Marks"
 first_lesson_context: "The conversation we have most with Beaconsfield parents starts at eleven and ends up at fifteen. Whatever happened with the Transfer Test, it's GCSE grades that sixth forms and colleges read. So a GCSE tutor begins with your child's latest marked paper, not a textbook, and works out which marks are going missing and why."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "From an E to a B at GCSE"
 
-tutor_strip_heading: "Different schools, different boards: Beaconsfield GCSE tutors"
+tutor_strip_heading: "Different schools, different boards: GCSE tutors for Beaconsfield students"
 tutor_strip_body: "Brothers and sisters in Beaconsfield often sit different boards for the same subject, because their schools chose differently. We check the board on a free consultation call, then send 2 or 3 tutor profiles within 24 hours."
 
 pathways_heading: "Options Around Beaconsfield at Sixteen"

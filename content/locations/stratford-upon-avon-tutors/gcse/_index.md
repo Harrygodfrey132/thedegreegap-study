@@ -1,11 +1,11 @@
 ---
 title: "Stratford-upon-Avon GCSE Tutors | The Degree Gap"
-description: "Stratford-upon-Avon GCSE tutors for when good marks suddenly feel mid-table. One-to-one and online, matched to your child's exam board and the grade they need."
+description: "GCSE tutors for Stratford-upon-Avon, for when good marks suddenly feel mid-table. Online, matched to your child's exam board and the grade they need."
 layout: "subject"
 location: "Stratford-upon-Avon"
 level: "GCSE"
 
-hero_heading_line1: "Online Stratford-upon-Avon GCSE Tutors for Good Marks That Suddenly Feel Mid-Table"
+hero_heading_line1: "GCSE Tutors for Stratford-upon-Avon Students"
 hero_heading_line2: ""
 hero_lead: "If your child passed the Warwickshire 11+, you may have thought the comparing was over. Now they're up against a whole year group who passed it too. Our GCSE tutors for Stratford-upon-Avon students help your child see where they really stand, and what's worth working on."
 

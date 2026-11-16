@@ -1,13 +1,13 @@
 ---
-title: "Reading GCSE Maths Tutors | Online | The Degree Gap"
+title: "Reading GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Maths mock came back lower than you'd hoped? Our Reading GCSE Maths tutors go through the paper with your child to find out why. Online, one-to-one, from £37."
+description: "Maths mock came back lower than you'd hoped? Our GCSE Maths tutors for Reading go through the paper with your child to find out why. Online, from £37."
 layout: "level-subject"
 location: "Reading"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Reading Families"
+hero_h1: "GCSE Maths Tutors for Reading Students"
 hero_lead: "When the Maths mock comes home, the grade is what everyone looks at. But a mock is one morning's work, not a verdict. Our GCSE Maths tutors for Reading students go through the paper itself with your child, see what it's really showing and rebuild from there."
 
 angle_eyebrow: "WHAT A MOCK ACTUALLY MEASURES"
@@ -28,7 +28,7 @@ schools:
   - "The Abbey School"
   - "Little Heath School"
 
-steps_heading: "Getting a Reading GCSE Maths tutor for your child, in 3 steps"
+steps_heading: "Getting a GCSE Maths tutor for your child in Reading, in 3 steps"
 steps_lead: "Profiles within a day of our call. Have the marked mock to hand, not just the grade, and the first lesson gets much further."
 steps:
   - title: "A free call with us"

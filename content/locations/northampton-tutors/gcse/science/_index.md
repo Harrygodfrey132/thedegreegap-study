@@ -1,13 +1,13 @@
 ---
 title: "Northampton GCSE Science Tuition | The Degree Gap"
 nav_title: "Science"
-description: "Science mock lower than you'd hoped? Northampton GCSE Science tutors help your child with practicals and six-mark answers, online and one-to-one, from £37."
+description: "Science mock lower than you'd hoped? GCSE Science tutors for Northampton help your child with practicals and six-mark answers, online and one-to-one, from £37."
 layout: "level-subject"
 location: "Northampton"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors in Northampton, for Practicals and Six-Mark Answers That Keep Costing Marks"
+hero_h1: "GCSE Science Tutors for Northampton Students"
 hero_lead: "Two evenings rereading the notes, and your child's Science mock still came back lower than you'd hoped. That's usually method, not memory. Our GCSE Science tutors for Northampton students work one-to-one online on the practical questions and six-mark answers where those marks go."
 
 angle_eyebrow: "THE PRACTICALS COME BACK IN THE PAPER"
@@ -28,7 +28,7 @@ schools:
   - "Weston Favell Academy"
   - "Kingsthorpe College"
 
-steps_heading: "Getting a Northampton GCSE Science tutor in 3 steps"
+steps_heading: "Getting a GCSE Science tutor for Northampton students in 3 steps"
 steps_lead: "Tutor profiles come through within a day of the call. The most useful thing you can tell us? Triple or combined, and which science feels worst."
 steps:
   - title: "A free call with Harry or Joe"

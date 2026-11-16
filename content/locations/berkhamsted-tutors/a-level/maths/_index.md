@@ -1,13 +1,13 @@
 ---
 title: "Berkhamsted A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Has A-Level Maths stopped feeling like GCSE for your child? Our Berkhamsted A-Level Maths tutors help with proof, calculus and Mechanics, online, from £37."
+description: "Has A-Level Maths stopped feeling like GCSE for your child? Our A-Level Maths tutors for Berkhamsted help with proof, calculus and Mechanics, online, from £37."
 layout: "level-subject"
 location: "Berkhamsted"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Berkhamsted Year 12s Taking On Proof and Mechanics"
+hero_h1: "A-Level Maths Tutors for Berkhamsted Students"
 hero_lead: "Your child sailed through GCSE Maths, and now Year 12 feels different? That's normal. GCSE rewarded spotting the question type. A-Level asks them to build the route themselves. Our A-Level Maths tutors for Berkhamsted students work on that, one-to-one online."
 
 angle_eyebrow: "NO WORKED EXAMPLE ABOVE THE QUESTION ANY MORE"

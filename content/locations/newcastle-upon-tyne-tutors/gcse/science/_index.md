@@ -1,13 +1,13 @@
 ---
 title: "GCSE Science Tutors for Newcastle upon Tyne | The Degree Gap"
 nav_title: "Science"
-description: "Newcastle upon Tyne GCSE Science tutors for when your child's fine in Maths but stuck on the sums in Physics and Chemistry. Online, one-to-one, from £37."
+description: "GCSE Science tutors for Newcastle upon Tyne, for when your child's fine in Maths but stuck on the sums in Physics and Chemistry. Online, one-to-one, from £37."
 layout: "level-subject"
 location: "Newcastle upon Tyne"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Newcastle upon Tyne, When the Maths Stops Working in Physics"
+hero_h1: "GCSE Science Tutors for Newcastle upon Tyne Students"
 hero_lead: "Your child's fine in Maths, then goes blank on the same sum in Physics, and nobody can quite say why. Our GCSE Science tutors for Newcastle upon Tyne students teach one way of doing the calculations for all three sciences, one-to-one online, until it sticks everywhere."
 
 angle_eyebrow: "ONE METHOD, THREE CLASSROOMS"

@@ -1,11 +1,11 @@
 ---
 title: "Worcester A-Level Tutors | Year 12 and Year 13 | The Degree Gap"
-description: "Most of your child's predicted grade comes from Year 12 work. Our Worcester A-Level tutors help one-to-one online while it's still being built. From £37."
+description: "Most of your child's predicted grade comes from Year 12 work. Our A-Level tutors for Worcester help one-to-one online while it's still being built. From £37."
 layout: "subject"
 location: "Worcester"
 level: "A-Level"
 
-hero_heading_line1: "Online Worcester A-Level Tutors Before Your Child's Predicted Grade Is Set"
+hero_heading_line1: "A-Level Tutors for Worcester Students"
 hero_heading_line2: ""
 hero_lead: "It's easy to assume there's time until the summer exams. But the grade that goes to UCAS is set months earlier, mostly from your child's work in Year 12. Our A-Level tutors for Worcester students work with them while that prediction is still taking shape."
 
@@ -14,7 +14,7 @@ grade_to: "A"
 grade_stat: "Cs to As is how one parent sums up their child's A-Levels with us, in a review below."
 
 first_lesson_eyebrow: "WHY YEAR 12 CATCHES PEOPLE OUT"
-first_lesson_heading: "How a Worcester A-Level Tutor Reads a Year 12 Paper"
+first_lesson_heading: "How an A-Level Tutor for Worcester Students Reads a Year 12 Paper"
 first_lesson_context: "Your child can leave Year 11 with great GCSEs and still feel lost by the spring of Year 12. It isn't effort, and it isn't the school: A-Level simply asks for longer arguments and far more practice on their own, and remembering facts only earns part of the marks now. So the first lesson looks at how a paper was tackled, not just what they knew."
 
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
@@ -22,7 +22,7 @@ first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "A-Level"
 
-tutor_strip_heading: "Worcester A-Level tutors matched to your child's board and options"
+tutor_strip_heading: "A-Level tutors for Worcester students matched to your child's board and options"
 tutor_strip_body: "Ask your child which exam board each subject is, and which options or set texts they're studying. That's what we match on, not just the subject name. Everyone on our list has at least two years of tutoring experience. Browse the profiles, or leave the matching to us."
 
 pathways_heading: "The Next Step for Worcester Year 13s After A-Levels"

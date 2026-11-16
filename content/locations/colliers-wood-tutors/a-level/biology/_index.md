@@ -7,7 +7,7 @@ location: "Colliers Wood"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Colliers Wood Students Who Dread the Chi-Squared Question"
+hero_h1: "A-Level Biology Tutors for Colliers Wood Students"
 hero_lead: "Your child chose Biology partly to get away from Maths, and now there's a chi-squared test on the paper. Our A-Level Biology tutors for Colliers Wood students make the statistics and calculations routine, so they stop costing marks on otherwise good papers."
 
 angle_eyebrow: "BIOLOGY WITH NUMBERS IN IT"

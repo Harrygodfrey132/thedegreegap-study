@@ -7,7 +7,7 @@ location: "Maidenhead"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Maidenhead Students Who Know the Theory but Not the Business"
+hero_h1: "A-Level Economics Tutors for Maidenhead Students"
 hero_lead: "Your child can draw the supply and demand diagram, then the question drops it into a real company's situation and the answer goes vague. Our A-Level Economics tutors for Maidenhead students practise applying the theory to firms and markets, the way the exam expects."
 
 angle_eyebrow: "ECONOMICS B, NOT ECONOMICS A"

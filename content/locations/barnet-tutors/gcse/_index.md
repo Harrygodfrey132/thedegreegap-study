@@ -1,11 +1,11 @@
 ---
 title: "Barnet GCSE Tutors | One-to-One | The Degree Gap"
-description: "Barnet GCSE tutors for the Year 11 sixth-form application, matched on exam board. Online one-to-one lessons for your child, from £37 an hour, with no contract."
+description: "GCSE tutors for Barnet, for the Year 11 sixth-form application, matched on exam board. Online one-to-one lessons for your child, from £37, with no contract."
 layout: "subject"
 location: "Barnet"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Barnet, From the Year 9 Slip to the Sixth-Form Offer"
+hero_heading_line1: "GCSE Tutors for Barnet Students"
 hero_heading_line2: ""
 hero_lead: "In Barnet, sixth form applications often go in while your child's mocks are still being marked, which can feel far too soon. Our GCSE tutors for Barnet students work backwards from the grade the application needs, starting with whatever a real paper shows is missing."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "A 5 to a 6/7 in English over six months, for a Year 10 boy who'd completely switched off from the subject. His parent tells it below."
 
 first_lesson_eyebrow: "BARNET APPLIES TWICE"
-first_lesson_heading: "What a Barnet GCSE Tutor Looks At Before the Application Goes In"
+first_lesson_heading: "What a GCSE Tutor for Barnet Students Looks At Before the Application Goes In"
 first_lesson_context: "Barnet's grammar schools select at eleven, and for a lot of families sixteen feels like a second round. Woodhouse College and the school sixth forms publish their own subject requirements, and your child's January mock grades are the evidence they'll read. So the tutor's first job is working out what those mocks were really measuring."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 6/7 in English"
 
-tutor_strip_heading: "Barnet GCSE tutors who know the sixth-form application season"
+tutor_strip_heading: "GCSE tutors for Barnet students who know the sixth-form application season"
 tutor_strip_body: "Barnet's sixth forms each set their own grades, and schools across the borough use different exam boards, so we pin down your child's board and target first. Every tutor was interviewed by Harry or Joe before joining. Browse the profiles, or tell us about your child first."
 
 pathways_heading: "Barnet Year 11s and the Next Round of Applications"

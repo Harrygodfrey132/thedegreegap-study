@@ -7,7 +7,7 @@ location: "Andover"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Andover Students Weighing Up Higher or Foundation"
+hero_h1: "GCSE Maths Tutors for Andover Students"
 hero_lead: "Your child is hovering between Higher and Foundation, and nobody seems sure which way it'll go. Our GCSE Maths tutors for Andover students find where the marks are slipping on Edexcel's papers, then rebuild the algebra that Higher leans on."
 
 angle_eyebrow: "THE TOP GRADE ON FOUNDATION IS A 5"

@@ -7,7 +7,7 @@ location: "Orpington"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Orpington Sixth Formers Still Slowed Down by GCSE Algebra"
+hero_h1: "A-Level Maths Tutors for Orpington Students"
 hero_lead: "A-Level Maths assumes the algebra is automatic, so a child who still has to stop and think about indices or completing the square falls behind on every topic built on top. Our A-Level Maths tutors for Orpington students make that algebra fast first."
 
 angle_eyebrow: "THE ALGEBRA UNDERNEATH"

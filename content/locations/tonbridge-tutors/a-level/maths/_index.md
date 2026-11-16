@@ -1,13 +1,13 @@
 ---
 title: "Tonbridge A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "If Year 12 Maths has been a shock after a strong GCSE, our Tonbridge A-Level Maths tutors can help your child find their feet. One-to-one, online, from £37."
+description: "If Year 12 Maths has been a shock after a strong GCSE, our A-Level Maths tutors for Tonbridge can help your child find their feet. One-to-one, online, from £37."
 layout: "level-subject"
 location: "Tonbridge"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors Covering Tonbridge"
+hero_h1: "A-Level Maths Tutors for Tonbridge Students"
 hero_lead: "Plenty of teenagers who sailed through GCSE Maths find Year 12 feels like a different subject. Our A-Level Maths tutors for Tonbridge students teach your child, one-to-one and online, the part that changed: choosing the method when the question doesn't say which one."
 
 card_eyebrow: "FREE CONSULTATION"
@@ -36,7 +36,7 @@ schools:
   - "Leigh Academy Hugh Christie"
   - "Tonbridge School"
 
-steps_heading: "How we find your child a Tonbridge A-Level Maths tutor"
+steps_heading: "How we find your child an A-Level Maths tutor for Tonbridge students"
 steps_lead: "A first lesson's usually booked within a week. October of Year 12, when the first tests come back, is a good moment to start."
 steps:
   - title: "Start with a free call"

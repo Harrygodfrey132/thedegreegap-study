@@ -1,13 +1,13 @@
 ---
-title: "Loughborough GCSE Science Tutors | Online | The Degree Gap"
+title: "Loughborough GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Is Physics the science your child keeps putting off? Our Loughborough GCSE Science tutors give it steady practice, one-to-one and online. From £37 an hour."
+description: "Is Physics the science your child keeps putting off? Our GCSE Science tutors for Loughborough give it steady practice, one-to-one and online. From £37 an hour."
 layout: "level-subject"
 location: "Loughborough"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Loughborough GCSE Science Tutors, One-to-One and Online"
+hero_h1: "GCSE Science Tutors for Loughborough Students"
 hero_lead: "If the Physics homework is always the one left until Sunday night, you're far from the only parent noticing. Our GCSE Science tutors for Loughborough students find out why Physics keeps getting put off, and give your child the steady practice it needs."
 
 angle_eyebrow: "WHEN PHYSICS KEEPS GETTING PUT OFF"

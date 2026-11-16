@@ -1,13 +1,13 @@
 ---
 title: "Bolton A-Level Maths Tuition | From £37/hr"
 nav_title: "Maths"
-description: "Online A-Level Maths tutors covering Bolton, from the Year 12 step up to the Mechanics and Statistics nobody practises. Matched on board, from £37 an hour."
+description: "Online A-Level Maths tutors for Bolton, from the Year 12 step up to the Mechanics and Statistics nobody practises. Matched on board, from £37 an hour."
 layout: "level-subject"
 location: "Bolton"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Bolton Students Who Know the Topic, Not the Question"
+hero_h1: "A-Level Maths Tutors for Bolton Students"
 hero_lead: "At this level nothing on the page tells you which method a question wants. Our A-Level Maths tutors for Bolton students teach that choice directly, one-to-one and online over Lessonspace, alongside the Mechanics and Statistics work that gets left until last."
 
 angle_eyebrow: "AN HOUR OF NOTES, NOTHING ATTEMPTED"

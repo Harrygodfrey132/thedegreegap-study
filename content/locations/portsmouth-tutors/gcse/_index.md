@@ -1,11 +1,11 @@
 ---
 title: "Portsmouth GCSE Tutors | One-to-One Support | The Degree Gap"
-description: "Portsmouth GCSE tutors who find where your child's grade first slipped and rebuild from there. One-to-one and online, matched on exam board, from £37 an hour."
+description: "GCSE tutors for Portsmouth who find where your child's grade first slipped and rebuild from there. One-to-one and online, matched on exam board, from £37."
 layout: "subject"
 location: "Portsmouth"
 level: "GCSE"
 
-hero_heading_line1: "GCSE Tutoring for Portsmouth Students That Goes Back to Where the Trouble Started"
+hero_heading_line1: "GCSE Tutors for Portsmouth Students"
 hero_heading_line2: ""
 hero_lead: "When your child's struggling in Year 11, the trouble rarely started in Year 11. Usually something slipped in Year 8 or 9, and there was never time to go back for it. Our GCSE tutors for Portsmouth students find that point in the first lesson and rebuild forward from there."
 
@@ -14,14 +14,14 @@ grade_to: "B"
 grade_stat: "An E that turned into a B. That's Keira's own account of what tutoring did for her."
 
 first_lesson_eyebrow: "WEEK ONE, IN PORTSMOUTH"
-first_lesson_heading: "The Small Things a Portsmouth GCSE Tutor Looks For First"
+first_lesson_heading: "The Small Things a GCSE Tutor for Portsmouth Students Looks For First"
 first_lesson_context: "Most of the time, what Portsmouth parents describe is something small: a fortnight of Chemistry missed, an algebra method half-learned, a set text started late. Results across the city sit below the national picture, but an average like that can't show you how specific the problem is for your child. They're small things, until Year 11 makes them large."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B"
 
-tutor_strip_heading: "Portsmouth GCSE tutors who fix the basics before the revision"
+tutor_strip_heading: "GCSE tutors for Portsmouth students who fix the basics before the revision"
 tutor_strip_body: "Whether your child's at Priory School, Admiral Lord Nelson or Mayfield, we'll match the tutor to the exam board their school uses. Joe and Harry interview every tutor, and only about 3% of applicants get through. Look through the profiles yourself, or we can pick for you."
 
 pathways_heading: "Sixth Form, College or an Apprenticeship in Portsmouth?"

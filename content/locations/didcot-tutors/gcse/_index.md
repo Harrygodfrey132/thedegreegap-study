@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors in Didcot | The Degree Gap"
-description: "Starting Year 10 at the UTC, after a move or at the same school? Our Didcot GCSE tutors work online, one-to-one, on whatever's slipping. From £37, no contract."
+title: "GCSE Tutors in Didcot | The Degree Gap"
+description: "Starting Year 10 at the UTC, after a move or at the same school? Our GCSE tutors for Didcot work online, one-to-one, on whatever's slipping. From £37."
 layout: "subject"
 location: "Didcot"
 level: "GCSE"
 
-hero_heading_line1: "Online Didcot GCSE Tutors Who Work Out Which Topic Went Missing"
+hero_heading_line1: "GCSE Tutors for Didcot Students"
 hero_heading_line2: ""
 hero_lead: "Your child might have started Year 10 somewhere new, at 14 or after a move, or stayed exactly where they were. Either way, our GCSE tutors for Didcot students begin by finding the topic that slipped through, then work on it one-to-one, online."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "Omo's son was completely disengaged from English, and he went from a grade 5 to a 6/7."
 
 first_lesson_eyebrow: "FROM DISENGAGED TO A 6/7"
-first_lesson_heading: "What a Didcot GCSE Tutor Asks to See Before Lesson One"
+first_lesson_heading: "What a GCSE Tutor for Didcot Students Asks to See Before Lesson One"
 first_lesson_context: "When a teenager has gone off a subject, nothing said at home seems to land, and that's exhausting. It makes no difference whether your child is at Didcot Girls', St Birinus or Aureus, or has just started at the UTC. So the GCSE tutor asks for their last marked piece of work and starts with the one change that would make the next one go better."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to a 6/7 in GCSE English"
 
-tutor_strip_heading: "Didcot GCSE tutors picked for your child's board and topics"
+tutor_strip_heading: "GCSE tutors for Didcot students picked for your child's board and topics"
 tutor_strip_body: "A child who's moved from another county, or joined the UTC at 14, may be sitting a different board from last year. So we check which one before suggesting anybody, and the tutors below are a starting point."
 
 pathways_heading: "What Opens Up for Your Child After GCSEs in Didcot"

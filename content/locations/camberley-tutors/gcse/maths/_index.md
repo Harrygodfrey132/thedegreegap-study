@@ -1,13 +1,13 @@
 ---
 title: "Camberley GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "A 7 for A-Level Maths, or a secure 4 or 5 for college? Whichever your child needs, our Camberley GCSE Maths tutors start from their last mock. Online, from £37."
+description: "A 7 for A-Level Maths, or a secure 4 or 5 for college? Whichever your child needs, our GCSE Maths tutors for Camberley start from their last mock. Online,"
 layout: "level-subject"
 location: "Camberley"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Camberley Families"
+hero_h1: "GCSE Maths Tutors for Camberley Students"
 hero_lead: "Your child gets most of the homework right, yet the mock still lands a grade below what the next school asks for. Our GCSE Maths tutors for Camberley students find where those marks go, often fractions or algebra on the non-calculator paper, and fix that first."
 
 angle_eyebrow: "ONE GRADE THAT TRAVELS WITH THEM"

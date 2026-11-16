@@ -1,13 +1,13 @@
 ---
-title: "Online GCSE Science Tutors | Watford | The Degree Gap"
+title: "GCSE Science Tutors | Watford | The Degree Gap"
 nav_title: "Science"
-description: "It's usually one science pulling the grade down, not all three. Our Watford GCSE Science tutors find which one and start there. Combined or Triple, from £37."
+description: "It's usually one science pulling the grade down, not all three. Our online GCSE Science tutors find which one for Watford students. From £37."
 layout: "level-subject"
 location: "Watford"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutoring for Watford Families"
+hero_h1: "GCSE Science Tutors for Watford Students"
 hero_lead: "When the Science grade slips, it's rarely all three sciences at once. Usually one of them, often the one your child enjoys least, is dragging the Combined grade down. Our GCSE Science tutors for Watford students find which it is and put the hours there, instead of revising everything a little."
 
 angle_eyebrow: "WHY ONE SCIENCE GRADE CAN HIDE THREE PROBLEMS"

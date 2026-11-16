@@ -7,7 +7,7 @@ location: "Darlington"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Darlington Students With Too Much to Remember and Connect"
+hero_h1: "A-Level Biology Tutors for Darlington Students"
 hero_lead: "A-Level Biology is a lot of content, and the hardest marks go to answers linking topics your child learnt months apart. Our A-Level Biology tutors for Darlington students build those links week by week, alongside the practical skills the papers test."
 
 angle_eyebrow: "WHERE TWO YEARS OF TOPICS MEET"

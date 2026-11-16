@@ -7,7 +7,7 @@ location: "Ilford"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Ilford Students Whose Only Essay Subject Is Economics"
+hero_h1: "A-Level Economics Tutors for Ilford Students"
 hero_lead: "Maths and the sciences come easily, then the 25-mark Economics question asks your child to argue, weigh up and decide. Our A-Level Economics tutors for Ilford students turn that into a structure they can follow every single time."
 
 angle_eyebrow: "ONE ESSAY SUBJECT IN A WEEK OF EQUATIONS"

@@ -1,5 +1,5 @@
 ---
-title: "Colchester GCSE Science Tutors | Online | The Degree Gap"
+title: "Colchester GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
 description: "Revising hard but the Science grade won't move? Online GCSE Science tutors for Colchester families, matched to the exam board. From £37, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Colchester"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Colchester GCSE Science Tutors Online, Matched to Your Child's Exam Board"
+hero_h1: "GCSE Science Tutors for Colchester Students"
 hero_lead: "Hours of flashcards, a revision guide full of highlighter, and the Science mock still comes back lower than you'd hoped. Often it's one of the three sciences quietly dragging the rest down. Our GCSE Science tutors for Colchester students find which one, and start there."
 
 angle_eyebrow: "WHAT THE SCIENCE PAPER IS REALLY ASKING"

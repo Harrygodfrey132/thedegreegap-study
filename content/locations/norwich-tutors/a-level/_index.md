@@ -1,11 +1,11 @@
 ---
 title: "Norwich A-Level Tutors | Expert Tutors | The Degree Gap"
-description: "Does your child know the subject but lose marks in the exam? Norwich A-Level tutors who start from their last marked paper. Online and one-to-one, from £37."
+description: "Does your child know the subject but lose marks in the exam? A-Level tutors for Norwich who start from their last marked paper. Online and one-to-one, from £37."
 layout: "subject"
 location: "Norwich"
 level: "A-Level"
 
-hero_heading_line1: "Online Norwich A-Level Tutors for the Child Who Knows It but Drops Marks"
+hero_heading_line1: "A-Level Tutors for Norwich Students"
 hero_heading_line2: ""
 hero_lead: "Your child can talk you through the topic at the kitchen table, then the marked paper comes back a grade lower. They're two different skills: knowing it, and scoring on it. Our A-Level tutors for Norwich students work on the second, because by Year 13 the first is rarely what's missing."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "From one parent: their son finished almost two grades above what his Year 13 mock said."
 
 first_lesson_eyebrow: "TWO GRADES ABOVE THE MOCK"
-first_lesson_heading: "What a Norwich A-Level Tutor Reads in a Marked Script"
-first_lesson_context: "Your child's last marked A-Level paper tells you more in ten minutes than a term of reports. Where the marks stop, whether the argument was made or only hinted at, how far through the paper they got. That's where a Norwich A-Level tutor starts, before choosing a single topic to teach."
+first_lesson_heading: "What an A-Level Tutor for Norwich Students Reads in a Marked Script"
+first_lesson_context: "Your child's last marked A-Level paper tells you more in ten minutes than a term of reports. Where the marks stop, whether the argument was made or only hinted at, how far through the paper they got. That's where an A-Level tutor for Norwich students starts, before choosing a single topic to teach."
 first_lesson_quote: "My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
 first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Almost two grades above the Year 13 mock"
 
-tutor_strip_heading: "Norwich A-Level tutors who can see where a paper lost its marks"
+tutor_strip_heading: "A-Level tutors for Norwich students who can see where a paper lost its marks"
 tutor_strip_body: "Many of our tutors are at or from Russell Group universities. All have tutored for at least two years, and some are qualified examiners, so they know what earns a mark and what only looks like it should. Browse the profiles, or ask us to match your child."
 
 pathways_heading: "The Routes Open to Norwich Teenagers After A-Levels"

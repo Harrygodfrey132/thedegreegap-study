@@ -1,23 +1,23 @@
 ---
 title: "Baldock A-Level Tutors | Tuition from £37/hr"
-description: "Is A-Level Maths a shock after a strong GCSE? One-to-one online lessons with a Baldock A-Level tutor, aimed at the Year 12 step up. From £37, no contract."
+description: "Is A-Level Maths a shock after a strong GCSE? One-to-one online lessons with an A-Level tutor for Baldock, aimed at the Year 12 step up. From £37, no contract."
 layout: subject
 location: Baldock
 level: A-Level
-hero_heading_line1: "Online A-Level Tutors in Baldock for the Year 12 Step Up"
+hero_heading_line1: "A-Level Tutors for Baldock Students"
 hero_heading_line2: ""
 hero_lead: "By October of Year 12, A-Level Maths can look nothing like the GCSE your child did well in last summer. It's a common shock, not a sign they chose wrong. Our A-Level tutors for Baldock students work on that gap well before the end-of-Year-12 exams that predicted grades lean on."
 grade_from: C
 grade_to: A
 grade_stat: "Cs to As for Alexander's child, plus help with university choices and applications."
 first_lesson_eyebrow: A BALDOCK A-LEVEL TURNAROUND
-first_lesson_heading: What a Baldock A-Level Tutor Reads in Year 12 Mocks
+first_lesson_heading: What an A-Level Tutor for Baldock Students Reads in Year 12 Mocks
 first_lesson_context: "Lots of Baldock Year 12s come to us with strong GCSEs and an A-Level mark well below anything they've had before. It's rarely that the work's beyond them, more that A-Level asks for a different kind of thinking. So the tutor goes through a recent mock with your child, finds the questions where the method fell apart, and rebuilds from there, week by week."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: Alexander
 first_lesson_quote_role: Parent
 first_lesson_quote_grade: A-Level
-tutor_strip_heading: "Baldock A-Level tutors who know your child's course inside out"
+tutor_strip_heading: "A-Level tutors for Baldock students who know your child's course inside out"
 tutor_strip_body: "A-Levels at Knights Templar and at the Hitchin and Letchworth sixth forms aren't always on the same exam board, so we'll check your child's first. Our tutors are graduates or university students, interviewed by Harry or Joe. The profiles are just below, or we can suggest a few."
 pathways_heading: "From Baldock to Cambridge, London or Further Afield"
 pathways_lead: "Baldock's on the commuter line into London, and Cambridge is within reach too, which widens your child's choice."

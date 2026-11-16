@@ -1,5 +1,5 @@
 ---
-title: "Tamworth A-Level Maths Tutors | Online | The Degree Gap"
+title: "Tamworth A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Log graphs, and turning a curve into a straight line: the step few children see the point of. Online A-Level Maths tutors for Tamworth families, from £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Tamworth"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Tamworth, Explaining the Why Behind Each Method"
+hero_h1: "A-Level Maths Tutors for Tamworth Students"
 hero_lead: "Taking logs to turn a curve into a straight line is one of the handiest moves on the paper, and one of the least understood. If your child can do the steps but can't say why, our A-Level Maths tutors for Tamworth students start right there."
 
 angle_eyebrow: "TURNING A CURVE INTO A STRAIGHT LINE"
@@ -27,7 +27,7 @@ schools:
   - "The Wilnecote School"
   - "South Staffordshire College"
 
-steps_heading: "Getting started with an A-Level Maths tutor in Tamworth"
+steps_heading: "Getting started with an A-Level Maths tutor for Tamworth students"
 steps_lead: "Expect two or three tutor profiles within a day of the call. And because it's all online, lessons don't add another journey to a day that might already have one."
 steps:
   - title: "A free call with us"
@@ -38,7 +38,7 @@ steps:
     body: "An hour a week in the online classroom Lessonspace. The point of a method comes first, then practice until it's automatic, then your child explains the answer out loud. There's a replay of every lesson. From £37 an hour, no contract, and a new tutor at no charge if they don't get on."
 
 faqs:
-  - q: "Can a Tamworth A-Level Maths tutor help my child apply for an engineering apprenticeship?"
+  - q: "Can an A-Level Maths tutor for Tamworth students help my child apply for an engineering apprenticeship?"
     a: "Yes, and Maths is usually the subject those applications hinge on. Engineering and technical degree apprenticeships across the West Midlands often ask for A-Levels around BBB to AAB with Maths named, and most use a numerical reasoning test when your child applies. The predicted grade is what gets the form read in the first place. And understanding why a method works is exactly what those tests reward, because they rarely say which technique they want."
   - q: "Can we have A-Level Maths lessons in Tamworth in person?"
     a: "No, it's online only, using the platform Lessonspace. That helps here, because lots of Tamworth teenagers already travel for sixth form or college, and an extra evening trip is a real cost. Online takes it away, and it opens up tutors from right across the country, not just whoever lives nearby. Families in Tamworth, Lichfield, Atherstone and the villages round about all get the same tutors."

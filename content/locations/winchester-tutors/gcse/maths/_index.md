@@ -1,5 +1,5 @@
 ---
-title: "Online GCSE Maths Tutors | Winchester | The Degree Gap"
+title: "GCSE Maths Tutors | Winchester | The Degree Gap"
 nav_title: "Maths"
 description: "Is your child stuck on a 7 in GCSE Maths? Our online Winchester tutors work on the harder end of the higher paper, with Peter Symonds in mind. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Winchester"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Winchester Children Stuck on a 7"
+hero_h1: "GCSE Maths Tutors for Winchester Students"
 hero_lead: "Plenty of children who've never found Maths hard still get stuck on a 7. That's because the last third of the higher paper isn't more of the same. Our GCSE Maths tutors for Winchester students work on exactly that part."
 
 angle_eyebrow: "WHAT THE LAST THIRD OF THE HIGHER PAPER ASKS FOR"

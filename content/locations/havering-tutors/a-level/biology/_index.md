@@ -7,7 +7,7 @@ location: "Havering"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Havering Students Facing the Long Answers"
+hero_h1: "A-Level Biology Tutors for Havering Students"
 hero_lead: "A-Level Biology looks like a memory test until the long answers ask your child to connect topics learnt months apart. Our A-Level Biology tutors for Havering students teach those connections, along with respiration and photosynthesis in an order that sticks."
 
 angle_eyebrow: "JOINING THE TOPICS UP"

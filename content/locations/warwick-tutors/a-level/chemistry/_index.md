@@ -1,13 +1,13 @@
 ---
-title: "Warwick A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Warwick A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
-description: "If your child learnt the mechanisms by heart, then froze on a molecule they'd never seen, our Warwick A-Level Chemistry tutors can help. Online, from £37."
+description: "If your child learnt the mechanisms by heart, then froze on a molecule they'd never seen, our A-Level Chemistry tutors for Warwick can help. Online, from £37."
 layout: "level-subject"
 location: "Warwick"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutoring for Families Around Warwick"
+hero_h1: "A-Level Chemistry Tutors for Warwick Students"
 hero_lead: "Chemistry mechanisms can be learnt by heart or really understood, and only one of those survives a molecule your child hasn't seen before. Our A-Level Chemistry tutors for Warwick students teach the kind that carries over to new questions."
 
 angle_eyebrow: "MEMORISED MECHANISMS DON'T TRANSFER"
@@ -47,7 +47,7 @@ faqs:
     a: "Yes, and it's familiar ground for several tutors on our platform. In Chemistry the help is practical: a fixed layout for long calculations so nothing gets lost halfway, mechanisms broken into named stages instead of learnt as one picture, and the shared whiteboard used to show structure visually. Every lesson's recorded too, so your child doesn't need to take notes during the hour. Just mention it on the call."
   - q: "Are we tied in, or can we pause?"
     a: "You're not tied in. There's no contract, and you pay for one lesson at a time. Pausing just means telling your tutor, ideally a day or two before the next slot so they aren't holding the time. Some families stop for study leave, some over the UCAS rush, some because the mechanisms are finally sorted. Picking up again later takes one message."
-  - q: "Can a Warwick Chemistry tutor help if my child's applying for an apprenticeship?"
+  - q: "Can a Chemistry tutor for Warwick students help if my child's applying for an apprenticeship?"
     a: "Yes, and it comes up here, with the engineering and car firms across south Warwickshire. The bigger schemes publish their own entry requirements, which change between intakes, and several name Chemistry or Maths. The other half is a written application, which isn't a personal statement and has its own conventions. The tutor works on the grade, and several tutors on our platform have helped with the written stage too."
 # FAQ picks: A02, A13, C09, E03, G04
 

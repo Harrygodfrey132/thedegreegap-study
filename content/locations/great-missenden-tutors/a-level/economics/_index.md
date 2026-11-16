@@ -7,7 +7,7 @@ location: "Great Missenden"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Great Missenden Students Whose Essays Need Real Examples"
+hero_h1: "A-Level Economics Tutors for Great Missenden Students"
 hero_lead: "Your child knows the theory and draws the diagram, but the essay could be about anywhere and gets marked like it. Our A-Level Economics tutors for Great Missenden students help them apply each model to a real case, and then weigh it up."
 
 angle_eyebrow: "A RAILWAY UNDER THE HILLS"

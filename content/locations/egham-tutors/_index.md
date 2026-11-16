@@ -1,9 +1,9 @@
 ---
-title: "Online Tutors for Your Child in Egham | The Degree Gap"
+title: "Tutors for Your Child in Egham | The Degree Gap"
 description: "Worried one subject is slipping before the mocks? We'll match your child in Egham with an online tutor who knows their exact course. From £37, no contract."
 layout: "single"
 location: "Egham"
-banner_heading: "Online tutors for learners in Egham, matched to the course your child is actually taking"
+banner_heading: "GCSE and A-Level Tutors for Egham Families"
 banner_description: "Plenty of tutoring starts with whoever is free nearby. We start with your child's course and exam board, then look across the UK for the tutor who knows it best."
 content_angle: "the course, not the postcode: within a couple of miles of Egham, children sit AQA and Edexcel GCSEs at Magna Carta, the IB at ACS, the IB or American AP courses at TASIS in Thorpe, then OCR, Edexcel and AQA A-Levels at Strode's, so we match the tutor to the course"
 intro_1: "When an Egham parent first rings us, it's usually about one subject and one piece of paper. A mock, or an end-of-topic test, that came home lower than anyone expected. You've probably asked about it over tea and got a shrug. Fair enough, really. Teenagers rarely know why a mark went down, only that it did, and you're left guessing whether it's effort, nerves or something they never quite understood. What makes Egham a little unusual is how many different courses sit within a couple of miles of each other. The Magna Carta School on Thorpe Road teaches AQA English and Edexcel Maths. ACS on London Road teaches the IB. TASIS, out at Thorpe, offers the IB and American AP courses. And because Magna Carta stops at 16, lots of local teenagers move on to Strode's College on the High Street, where A-Levels run on three different boards."

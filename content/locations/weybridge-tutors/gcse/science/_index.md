@@ -1,13 +1,13 @@
 ---
 title: "Weybridge GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Need a 6-6 in Combined Science, not just a pass? Our Weybridge GCSE Science tutors find which science is holding your child back. Online, from £37 an hour."
+description: "Need a 6-6 in Combined Science, not just a pass? Our GCSE Science tutors for Weybridge find which science is holding your child back. Online, from £37 an hour."
 layout: "level-subject"
 location: "Weybridge"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutors for Weybridge Students Who Need a 6-6, Not Just a Pass"
+hero_h1: "GCSE Science Tutors for Weybridge Students"
 hero_lead: "If your child's on combined Science, the grade comes as two numbers, like 5-5, and an A-Level in Biology, Chemistry or Physics usually needs both to be strong. Our GCSE Science tutors for Weybridge students look at each science separately, online and one-to-one, to find the one holding it down."
 
 angle_eyebrow: "BOTH HALVES OF THE DOUBLE GRADE"

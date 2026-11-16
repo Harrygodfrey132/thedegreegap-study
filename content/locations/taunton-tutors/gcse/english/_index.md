@@ -7,7 +7,7 @@ location: "Taunton"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors for Taunton Students Who Stall on the Writing Question"
+hero_h1: "GCSE English Tutors for Taunton Students"
 hero_lead: "Ask your child for a story or an argument in 45 minutes and the first ten can go on staring at the page. Our GCSE English tutors for Taunton students give them a way to start, and a planning habit that keeps the writing going."
 
 angle_eyebrow: "THE FIRST TEN MINUTES OF QUESTION 5"

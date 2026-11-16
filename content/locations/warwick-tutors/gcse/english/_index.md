@@ -1,13 +1,13 @@
 ---
-title: "Warwick GCSE English Tutors | Online | The Degree Gap"
+title: "Warwick GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Warwick GCSE English tutors who teach your child to plan an answer before writing it, for Language and Literature. Online and one-to-one, from £37 an hour."
+description: "GCSE English tutors for Warwick who teach your child to plan an answer before writing it, for Language and Literature. Online and one-to-one, from £37 an hour."
 layout: "level-subject"
 location: "Warwick"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors in Warwick Who Start With the Plan"
+hero_h1: "GCSE English Tutors for Warwick Students"
 hero_lead: "Watch your child start an English essay and they're often writing within seconds, with no plan at all. Our GCSE English tutors for Warwick students put that first minute right, because it settles more of the mark than the twenty that follow."
 
 angle_eyebrow: "THE MINUTE BEFORE THE WRITING"

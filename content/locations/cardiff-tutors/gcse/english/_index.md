@@ -7,7 +7,7 @@ location: "Cardiff"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Cardiff Students Taking Language and Literature as One"
+hero_h1: "GCSE English Tutors for Cardiff Students"
 hero_lead: "Since 2025, English in Wales has been one GCSE, Language and Literature together, with a good share of it assessed in class rather than in the exam hall. Our GCSE English tutors for Cardiff students work on your child's writing and their spoken tasks, one-to-one and online."
 
 angle_eyebrow: "ONE GCSE WHERE THERE USED TO BE TWO"

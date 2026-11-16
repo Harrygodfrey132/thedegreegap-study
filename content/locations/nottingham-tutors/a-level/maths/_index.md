@@ -1,13 +1,13 @@
 ---
-title: "Nottingham A-Level Maths Tutors | Online | The Degree Gap"
+title: "Nottingham A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Is your child fine on textbook series questions but stuck when the exam runs them backwards? Our Nottingham A-Level Maths tutors can help, from £37 an hour."
+description: "Fine on textbook series questions but stuck when the exam runs them backwards? Our online A-Level Maths tutors help Nottingham students, from £37 an hour."
 layout: "level-subject"
 location: "Nottingham"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Nottingham Families, Matched by Exam Board"
+hero_h1: "A-Level Maths Tutors for Nottingham Students"
 hero_lead: "Plenty of teenagers can do series questions in the textbook and then stall on a past paper. Usually that's because the exam runs them backwards. Our A-Level Maths tutors for Nottingham students work on sequences, sums to infinity and the problems built on them."
 
 angle_eyebrow: "WORKING BACKWARDS FROM THE ANSWER"

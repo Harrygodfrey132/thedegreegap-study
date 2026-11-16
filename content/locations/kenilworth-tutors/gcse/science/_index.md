@@ -7,7 +7,7 @@ location: "Kenilworth"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Helping Kenilworth Families"
+hero_h1: "GCSE Science Tutors for Kenilworth Students"
 hero_lead: "Plenty of children know more science than their mock shows. Marks go on units dropped halfway through a calculation, or answers that get the idea but don't say it. Our GCSE Science tutors for Kenilworth students work out which marks were never learned and which were known and lost."
 
 angle_eyebrow: "BIOLOGY, CHEMISTRY OR PHYSICS: WHICH ONE?"

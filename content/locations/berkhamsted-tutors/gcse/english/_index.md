@@ -7,7 +7,7 @@ location: "Berkhamsted"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Berkhamsted, When the Best Point Arrives Too Late"
+hero_h1: "GCSE English Tutors for Berkhamsted Students"
 hero_lead: "Your child has the idea. It just turns up in the final paragraph, too late to hold the essay together. Our GCSE English tutors for Berkhamsted students work one-to-one online on planning, quotations and timing, using the texts your child actually studies."
 
 angle_eyebrow: "THE ARGUMENT ARRIVES LATE"

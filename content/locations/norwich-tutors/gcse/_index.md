@@ -1,11 +1,11 @@
 ---
 title: "Norwich GCSE Tutors | Built Around Your Child | The Degree Gap"
-description: "Norwich GCSE tutors who look for the gap behind your child's grade, often from Year 8 or 9, and rebuild from there. One-to-one and online, from £37 an hour."
+description: "GCSE tutors for Norwich who look for the gap behind your child's grade, often from Year 8 or 9, and rebuild from there. One-to-one and online, from £37 an hour."
 layout: "subject"
 location: "Norwich"
 level: "GCSE"
 
-hero_heading_line1: "Online Norwich GCSE Tutors For the Gaps That Opened Long Before Year 11"
+hero_heading_line1: "GCSE Tutors for Norwich Students"
 hero_heading_line2: ""
 hero_lead: "When your child's mock grade comes home lower than you expected, the cause is often a couple of years old. Our GCSE tutors for Norwich students work back to the topic that never landed, then forward from there, rather than just revising whatever the class is on this week."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "Omo says six months of tutoring took her son from a grade 5 to a 6/7 in English."
 
 first_lesson_eyebrow: "FROM DISENGAGED TO A 6/7"
-first_lesson_heading: "Where a Norwich GCSE Tutor Starts, and Why"
+first_lesson_heading: "Where a GCSE Tutor for Norwich Students Starts, and Why"
 first_lesson_context: "In a first lesson with a Norwich Year 10, the same thing tends to come up. It's rarely a whole subject your child can't do, just one method nobody's re-explained since Year 8. Finding it takes an hour, but sorting out everything built on top of it takes a term or so."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7. I honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset. …"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 6/7 in English"
 
-tutor_strip_heading: "Norwich GCSE tutors who know your child's exam board"
+tutor_strip_heading: "GCSE tutors for Norwich students who know your child's exam board"
 tutor_strip_body: "Norfolk's a big county, and the best AQA Biology tutor for your child is rarely the nearest one. Online, that stops mattering. Every tutor has passed an interview with Harry or Joe, which only about 3% of applicants do. Look through the profiles, or we'll introduce you."
 
 pathways_heading: "Where Norwich Year 11s Go After Results Day"

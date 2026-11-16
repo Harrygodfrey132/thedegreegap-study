@@ -1,13 +1,13 @@
 ---
-title: "Exeter A-Level Maths Tutors | Online | The Degree Gap"
+title: "Exeter A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Exeter A-Level Maths tutors for the short written answers that lose easy marks, like sampling and bias in Statistics. One-to-one and online, from £37 an hour."
+description: "A-Level Maths tutors for Exeter, for the short written answers that lose easy marks, like sampling and bias in Statistics. One-to-one and online, from £37."
 layout: "level-subject"
 location: "Exeter"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutoring for Exeter Families in Year 12 and Year 13"
+hero_h1: "A-Level Maths Tutors for Exeter Students"
 hero_lead: "If your child's Maths is sound but the marks come back lower than the work deserves, look at the short written answers. Our A-Level Maths tutors for Exeter students work on those, such as sampling: naming the method, saying why it suits, spotting the bias."
 
 angle_eyebrow: "THE EASY MARKS NOBODY FINISHES"
@@ -39,7 +39,7 @@ steps:
     body: "Then it's an hour a week, one-to-one on the platform Lessonspace, with your child's answers marked against the real mark scheme and a replay of every lesson. From £37 an hour, no contract, and you can stop in any week."
 
 faqs:
-  - q: "Can an Exeter A-Level Maths tutor help my child aim for a Maths or data science degree?"
+  - q: "Can an A-Level Maths tutor for Exeter students help my child aim for a Maths or data science degree?"
     a: "Yes, and the predicted grade comes first. Maths, data science and statistics degrees at the University of Exeter and across the Russell Group usually ask for somewhere between AAB and A*AA, with Maths named. Several want Further Maths too, or strongly prefer it. Beyond the grade, Harry and Joe can help with subject choices and the application itself, as part of working with us."
   - q: "Which part of A-Level Maths trips Exeter sixth formers up most?"
     a: "Oddly, it's often sampling, because it gets skimmed as common sense. The marks need the method named exactly, a reason that fits the group actually described, and a drawback that points to a real source of bias in that scenario. Sensible-sounding sentences tend to collect about half the marks. That's why it costs more than its place on the paper suggests."

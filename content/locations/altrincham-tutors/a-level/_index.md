@@ -1,11 +1,11 @@
 ---
 title: "Altrincham A-Level Tutors | Year 12 to UCAS | The Degree Gap"
-description: "Year 12 off to a shaky start, maybe at a new sixth form? Altrincham A-Level tutors who find the GCSE topics the new course takes for granted. Online, from £37."
+description: "Year 12 off to a shaky start, maybe at a new sixth form? A-Level tutors for Altrincham who find the GCSE topics the new course takes for granted. Online,"
 layout: "subject"
 location: "Altrincham"
 level: "A-Level"
 
-hero_heading_line1: "Online Altrincham A-Level Tutors for a Wobbly First Term in Year 12"
+hero_heading_line1: "A-Level Tutors for Altrincham Students"
 hero_heading_line2: ""
 hero_lead: "Year 12 can put your child in a new sixth form, with new teachers and a subject that's quietly changed shape since GCSE. Our A-Level tutors for Altrincham students go back for whatever slipped through in the move and fix it, one-to-one and online, before the first mock."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "One parent's son ended up almost two grades above his Year 13 mock, with a tutor they called excellent."
 
 first_lesson_eyebrow: "NEW BUILDING, SAME EXAM"
-first_lesson_heading: "What an Altrincham A-Level Tutor Goes Back For in the First Term"
+first_lesson_heading: "What an A-Level Tutor for Altrincham Students Goes Back For in the First Term"
 first_lesson_context: "Plenty of Altrincham teenagers start Year 12 somewhere new, at one of the grammars, Trafford College's sixth form centre or Loreto College in the city. And the new course may assume GCSE topics came in a different order from the one your child's old school used. An A-Level tutor's first job is to find the topic that got missed in the switch, and cover it before the first mock turns it into a low mark."
 first_lesson_quote: "My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
 first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Almost two grades above the Year 13 mock"
 
-tutor_strip_heading: "Altrincham A-Level tutors matched to the board, not the building"
+tutor_strip_heading: "A-Level tutors for Altrincham students matched to the board, not the building"
 tutor_strip_body: "A move of sixth form can mean a new exam board, so we'll check your child's before suggesting anyone. Only about 3% of the tutors who apply get through Harry and Joe's interview. Have a browse, or let us do the matching."
 
 pathways_heading: "Where Altrincham Year 13s Head Once the Offers Land"

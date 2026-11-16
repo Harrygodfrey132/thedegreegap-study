@@ -5,7 +5,7 @@ layout: "subject"
 location: "Stoke-on-Trent"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Stoke-on-Trent Students Who've Switched Off in Year 10"
+hero_heading_line1: "GCSE Tutors for Stoke-on-Trent Students"
 hero_heading_line2: ""
 hero_lead: "One-word answers about school, and homework left until Sunday night. Our online GCSE tutors for Stoke-on-Trent students start with the subject your child has quietly given up on, and give them a reason to try again."
 

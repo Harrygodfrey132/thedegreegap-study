@@ -1,9 +1,9 @@
 ---
 title: "Welwyn Garden City Tutoring | The Degree Gap"
-description: "One subject stalling while your child insists school's 'fine'? Our Welwyn Garden City tutors teach GCSE and A-Level online. Free call first, then from £37."
+description: "One subject stalling while your child insists school's 'fine'? Our tutors for Welwyn Garden City teach GCSE and A-Level online. Free call first, then from £37."
 layout: "single"
 location: "Welwyn Garden City"
-banner_heading: "Is School Really 'Fine'? Online Welwyn Garden City Tutors for GCSE and A-Level"
+banner_heading: "GCSE and A-Level Tutors for Welwyn Garden City Families"
 banner_description: "Your child says school's fine. Maybe it is. But if one subject has stalled, a tutor who sees their working every week will spot where."
 content_angle: "the 'fine' plateau: coping on paper, stalled in one subject, with parents on the King's Cross commute"
 intro_1: "Maybe you're getting in from King's Cross around seven. You ask how school was and get the usual answer. Fine. The homework's done, apparently, and the last report said much the same. Still, you can't shake the feeling that one subject, often Maths, has stalled. From the outside, it's hard to tell a blip from a gap that's getting wider. Lots of families chose Welwyn Garden City for its schools and green space, so it's an uncomfortable thought. It's also a very common one."

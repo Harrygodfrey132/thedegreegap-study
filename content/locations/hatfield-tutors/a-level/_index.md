@@ -1,11 +1,11 @@
 ---
-title: "Hatfield A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "University or a degree apprenticeship? Hatfield A-Level tutors working on the grades both routes ask for, so your child keeps both open. Online, from £37."
+title: "Hatfield A-Level Tutors | One-to-One | The Degree Gap"
+description: "University or a degree apprenticeship? A-Level tutors for Hatfield working on the grades both routes ask for, so your child keeps both open. Online, from £37."
 layout: "subject"
 location: "Hatfield"
 level: "A-Level"
 
-hero_heading_line1: "Online Hatfield A-Level Tutors for Families Weighing University Against a Degree Apprenticeship"
+hero_heading_line1: "A-Level Tutors for Hatfield Students"
 hero_heading_line2: ""
 hero_lead: "Maybe your child hasn't decided between university and an apprenticeship yet, and that's fine. But the two run to different deadlines. Our A-Level tutors for Hatfield students keep both in view instead of assuming it's UCAS or nothing."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "Cs up to As, and a hand with university choices and the application too, as one parent tells it."
 
 first_lesson_eyebrow: "TWO ROUTES, TWO CALENDARS"
-first_lesson_heading: "Why a Hatfield A-Level Tutor Keeps an Eye on the Apprenticeship Calendar"
+first_lesson_heading: "Why an A-Level Tutor for Hatfield Students Keeps an Eye on the Apprenticeship Calendar"
 first_lesson_context: "Growing up in Hatfield, your child has a university down the road and big employers all around it, so both routes feel real. The catch is timing: degree apprenticeship applications can shut before UCAS does, and they want their own application form, not a personal statement. It's easy to be watching the UCAS dates and miss the other ones."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "C grades to A grades at A-Level"
 
-tutor_strip_heading: "Hatfield A-Level tutors who take both routes seriously"
+tutor_strip_heading: "A-Level tutors for Hatfield students who take both routes seriously"
 tutor_strip_body: "Whichever sixth form your child's at, from Onslow St Audrey's to Bishop's Hatfield Girls', we find out the exam board before suggesting anyone. Every tutor's been interviewed by Harry or Joe, and around 3% of applicants make it onto the platform. Look through the profiles, or we'll suggest some."
 
 pathways_heading: "Three Ways Forward From a Hatfield Sixth Form"

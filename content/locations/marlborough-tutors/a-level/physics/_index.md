@@ -7,7 +7,7 @@ location: "Marlborough"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Marlborough Students Who Get the Idea but Not the Numbers"
+hero_h1: "A-Level Physics Tutors for Marlborough Students"
 hero_lead: "Your child can explain what a capacitor does, then a discharge question needs logarithms and the answer slips away. Our A-Level Physics tutors for Marlborough students practise the maths inside the Physics until it stops getting in the way."
 
 angle_eyebrow: "ASTROPHYSICS, ENGINEERING OR TURNING POINTS"

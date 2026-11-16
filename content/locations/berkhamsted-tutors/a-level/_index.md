@@ -1,11 +1,11 @@
 ---
 title: "Berkhamsted A-Level Tuition | From £37/hr"
-description: "Berkhamsted A-Level tutors for the Year 12 work predicted grades are built on. One-to-one online lessons, each with a replay. From £37 an hour, no contract."
+description: "A-Level tutors for Berkhamsted, for the Year 12 work predicted grades are built on. One-to-one online lessons, each with a replay. From £37, no contract."
 layout: "subject"
 location: "Berkhamsted"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutoring in Berkhamsted, Before Your Child's Predicted Grades Are Written"
+hero_heading_line1: "A-Level Tutors for Berkhamsted Students"
 hero_heading_line2: ""
 hero_lead: "If your child's stayed on at the same school for sixth form, the corridors feel familiar. The subjects don't, and it shows within weeks. Our A-Level tutors for Berkhamsted students teach what A-Level asks for that GCSE never did, one-to-one and online using the platform Lessonspace."
 
@@ -14,14 +14,14 @@ grade_to: "C"
 grade_stat: "Leaving revision very late didn't stop one parent's son turning E and U grades into three Cs."
 
 first_lesson_eyebrow: "SAME SCHOOL, DIFFERENT SUBJECT"
-first_lesson_heading: "What a Berkhamsted A-Level Tutor Looks at in Year 12"
+first_lesson_heading: "What an A-Level Tutor for Berkhamsted Students Looks at in Year 12"
 first_lesson_context: "Plenty of Berkhamsted sixth formers are in the building they've known since they were eleven, so nobody's expecting a jolt until the first assessments come back. Same teachers, different subject: fewer prompts, longer answers, and marks for judgement rather than memory. The tutor reads your child's first marked piece and teaches the habit it's asking for."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to three Cs"
 
-tutor_strip_heading: "Berkhamsted A-Level tutors who know your child's exam board"
+tutor_strip_heading: "A-Level tutors for Berkhamsted students who know your child's exam board"
 tutor_strip_body: "Ashlyns, Berkhamsted School and Tring School don't all use the same exam boards, and at A-Level the board shapes nearly every lesson. Many of our tutors sat these papers recently, and some have examined them. Ask us for two or three profiles and compare."
 
 pathways_heading: "What Berkhamsted Sixth Formers Do Next"

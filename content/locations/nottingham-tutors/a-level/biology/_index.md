@@ -1,13 +1,13 @@
 ---
-title: "Nottingham A-Level Biology Tutors | Online | The Degree Gap"
+title: "Nottingham A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Knowing every immune cell isn't the same as telling the story in order. Our Nottingham A-Level Biology tutors help your child with both. Online, from £37."
+description: "Knowing every immune cell isn't the same as telling the story in order. Our A-Level Biology tutors for Nottingham help your child with both. Online, from £37."
 layout: "level-subject"
 location: "Nottingham"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutoring Across Nottingham"
+hero_h1: "A-Level Biology Tutors for Nottingham Students"
 hero_lead: "T cells, B cells, plasma cells: your child may know every name and still drop marks explaining how they work together. Our A-Level Biology tutors for Nottingham students help your child tell it as a sequence, each cell at the right moment."
 
 angle_eyebrow: "A RELAY, NOT A LIST"
@@ -28,7 +28,7 @@ schools:
   - "The Nottingham Emmanuel School"
   - "Farnborough Spencer Academy"
 
-steps_heading: "Finding your child a Nottingham A-Level Biology tutor"
+steps_heading: "Finding your child an A-Level Biology tutor for Nottingham students"
 steps_lead: "Profiles for your child come through within 24 hours of talking to us. If January mocks are on the horizon, an autumn start gives the sequences time to settle."
 steps:
   - title: "Your free call"

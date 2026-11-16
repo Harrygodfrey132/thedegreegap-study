@@ -1,9 +1,9 @@
 ---
 title: "Hatfield Private Tutors | Expert Support | The Degree Gap"
-description: "If your child's working hard and the grade won't move, a Hatfield tutor can work out what's in the way. One-to-one GCSE and A-Level lessons online, from £37."
+description: "If your child's working hard and the grade won't move, a tutor for Hatfield can work out what's in the way. One-to-one GCSE and A-Level lessons online,"
 layout: single
 location: Hatfield
-banner_heading: "Grade stuck, however hard your child works? Online Hatfield tutoring that finds out why"
+banner_heading: "GCSE and A-Level Tutors for Hatfield Families"
 banner_description: "Our tutors work one-to-one on the particular thing holding your child back, instead of dragging them through the whole syllabus again."
 content_angle: "school environment / mixed attainment: bright, hard-working children stuck on the same grade, seen from the parent's side"
 intro_1: "Most Hatfield parents who ring us have been having the same conversation at home for months. The Year 9 report was lower than expected. Then the Year 11 mocks confirmed what they'd been quietly worrying about. It isn't effort. The revision timetable's on the fridge, the laptop's shut by ten, and the grades still sit where they were. And it's hard to tell what the trouble is. The topic? The exam technique? Or just how stretched a class of 30 gets when the curriculum has to keep moving?"
@@ -53,7 +53,7 @@ alevel_subjects:
   - "A-Level Geography Tuition|Long written answers, fieldwork and the harder concepts, with a plan built around the grade your child is aiming for.|/book-a-call/"
 other_subjects:
   - "University Personal Statement|A personal statement that tells universities why your child loves the subject, with help from first ideas to final draft.|/book-a-call/"
-faq_1_q: "How do we find the right tutor in Hatfield?"
+faq_1_q: "How do we find the right tutor for Hatfield students?"
 faq_1_a: "Start with a free call. Tell us the subject, the year group and what's been worrying you, and within 24 hours of the call you'll have two or three tutor profiles we've picked for your child. No trawling through endless listings on your own."
 faq_2_q: "Is it all online, even though we're in Hatfield?"
 faq_2_a: "Yes, every lesson's online. It means we can choose from a much wider pool of tutors, lessons are easier to keep going week after week, and most children concentrate better one-to-one on a screen than in a busy classroom."

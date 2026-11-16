@@ -1,5 +1,5 @@
 ---
-title: "Online A-Level Maths Tutors for Clacton-on-Sea Sixth Formers | The Degree Gap"
+title: "A-Level Maths Tutors for Clacton-on-Sea Sixth Formers | The Degree Gap"
 nav_title: "Maths"
 description: "Is Year 12 Maths a big jump from GCSE? We'll match your Clacton-on-Sea sixth former with an online A-Level Maths tutor who knows the Edexcel papers. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Clacton-on-Sea"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Clacton-on-Sea Sixth Formers Finding Year 12 a Jump"
+hero_h1: "A-Level Maths Tutors for Clacton-on-Sea Students"
 hero_lead: "Your child did well enough at GCSE to take A-Level Maths, and now the algebra moves faster than they can keep up with. Our A-Level Maths tutors for Clacton-on-Sea students go back to the GCSE methods underneath and build up from there."
 
 angle_eyebrow: "EDEXCEL, THREE PAPERS, NO COURSEWORK"

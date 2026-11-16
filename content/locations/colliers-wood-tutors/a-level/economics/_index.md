@@ -7,7 +7,7 @@ location: "Colliers Wood"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Colliers Wood Students Who Don't Use the Extract"
+hero_h1: "A-Level Economics Tutors for Colliers Wood Students"
 hero_lead: "Your child knows the theory, yet the answer barely mentions the article and chart printed right in front of them. Our A-Level Economics tutors for Colliers Wood students practise reading the data quickly and putting it to work in every answer."
 
 angle_eyebrow: "THE ANSWER IS IN THE EXTRACT"

@@ -7,7 +7,7 @@ location: "Burton upon Trent"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Burton upon Trent Teenagers Who Run Out of Time"
+hero_h1: "GCSE English Tutors for Burton upon Trent Students"
 hero_lead: "Your child reads the extract carefully, then spends so long on it that the writing task at the end gets twenty rushed minutes. Our GCSE English tutors for Burton upon Trent students practise the timing until the last question gets the time it's worth."
 
 angle_eyebrow: "HALF THE MARKS, LAST ON THE PAPER"

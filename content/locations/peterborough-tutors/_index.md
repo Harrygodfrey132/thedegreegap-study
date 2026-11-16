@@ -1,11 +1,11 @@
 ---
 title: "Peterborough Tutoring | GCSE & A-Level Tutors"
-description: Peterborough tutors who go back to the older topic holding your child
+description: Tutors for Peterborough who go back to the older topic holding your child
   back, then build forward. Online, one-to-one, for GCSE and A-Level, from £37 an
   hour.
 layout: single
 location: Peterborough
-banner_heading: "Online Peterborough GCSE and A-Level Tutors Who Find the Gap First"
+banner_heading: "GCSE and A-Level Tutors for Peterborough Families"
 banner_description: If your child gets partway into a paper and stalls at the same
   kind of question every time, there's usually an older topic underneath. Our tutors
   find it and rebuild from there.

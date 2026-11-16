@@ -1,11 +1,11 @@
 ---
 title: "Esher A-Level Tutors | Built Around Your Child | The Degree Gap"
-description: "Starting Year 12 somewhere new? Our Esher A-Level tutors help your child settle into harder work and free periods, one-to-one online. From £37, no contract."
+description: "Starting Year 12 somewhere new? Our A-Level tutors for Esher help your child settle into harder work and free periods, one-to-one online. From £37, no contract."
 layout: "subject"
 location: "Esher"
 level: "A-Level"
 
-hero_heading_line1: "Online Esher A-Level Tutors for Year 12s Getting Used to New Teachers"
+hero_heading_line1: "A-Level Tutors for Esher Students"
 hero_heading_line2: ""
 hero_lead: "Suddenly there are gaps in the timetable, and the work moves faster than GCSE ever did. Plenty of Year 12s find that first term harder than they expected, and our A-Level tutors for Esher students help your child settle in, one-to-one online."
 
@@ -14,14 +14,14 @@ grade_to: "C"
 grade_stat: "Joanna's son turned E and U grades into three Cs, after leaving his studying until the final hour."
 
 first_lesson_eyebrow: "WEEK SIX OF YEAR 12"
-first_lesson_heading: "How an Esher A-Level Tutor Uses the First Marked Test"
+first_lesson_heading: "How an A-Level Tutor for Esher Students Uses the First Marked Test"
 first_lesson_context: "If your child has moved from Esher High to Esher Sixth Form College, or anywhere new, their teachers are still getting to know them in the first term. So the A-Level tutor starts with the first marked test and the timetable, and works out where the marks went and where the study time is going."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to 3 C grades"
 
-tutor_strip_heading: "Esher A-Level tutors chosen for your child's exact courses"
+tutor_strip_heading: "A-Level tutors for Esher students chosen for your child's exact courses"
 tutor_strip_body: "Changing school at sixteen can mean changing exam board too, even in a subject your child already knows. So before we send any profiles, we'll check the board for each of their A-Level courses. Have a look through a few tutors now, if you like."
 
 pathways_heading: "What Esher Sixth Formers Move On To"

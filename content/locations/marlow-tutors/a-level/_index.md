@@ -1,11 +1,11 @@
 ---
 title: "Marlow A-Level Tuition | From £37/hr"
-description: "Marlow A-Level tutors for Year 12 and 13, working on the grades your child's predictions are written from. Weekly online lessons from £37, and no contract."
+description: "A-Level tutors for Marlow, for Year 12 and 13, working on the grades your child's predictions are written from. Weekly online lessons from £37, and no contract."
 layout: "subject"
 location: "Marlow"
 level: "A-Level"
 
-hero_heading_line1: "Online Marlow A-Level Tutors for the Year 12 That Shapes Your Child's Predictions"
+hero_heading_line1: "A-Level Tutors for Marlow Students"
 hero_heading_line2: ""
 hero_lead: "Did your child stay on for sixth form, move school, or cross the river to Henley? Wherever they are, the grade on their UCAS form starts taking shape in Year 12. Our A-Level tutors for Marlow students work with them one-to-one online, an hour a week."
 
@@ -14,14 +14,14 @@ grade_to: "C"
 grade_stat: "E and U grades became three Cs for one parent's son, even though his revision started very late."
 
 first_lesson_eyebrow: "NEW SIXTH FORM, NEW HABITS"
-first_lesson_heading: "Why a Marlow A-Level Tutor Looks Hard at the First Term"
+first_lesson_heading: "Why an A-Level Tutor for Marlow Students Looks Hard at the First Term"
 first_lesson_context: "Quite a few Marlow teenagers start Year 12 somewhere new, and suddenly there's a lot more time that nobody's supervising. That first term is when habits get set, and the jump from GCSE usually shows in the October assessments before anyone's put a name to it. We'd much rather the tutor saw that paper with your child in November than wait for the Year 12 mocks."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to three Cs"
 
-tutor_strip_heading: "Marlow A-Level tutors who know the paper your child will sit"
+tutor_strip_heading: "A-Level tutors for Marlow students who know the paper your child will sit"
 tutor_strip_body: "Borlase, Great Marlow and The Henley College each pick their own exam boards, subject by subject, and at A-Level that choice shapes nearly every lesson. Many of our tutors sat these same exams not long ago. Ask us for two or three profiles and see who fits."
 
 pathways_heading: "Where Marlow Sixth Formers Go After Two Years of A-Levels"

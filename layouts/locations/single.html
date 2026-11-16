@@ -15,7 +15,11 @@ Location tutor page content contract:
 {{ $liveAreaLinks := slice }}
 {{ range $areaLinks }}{{ $href := index (split . "|") 1 }}{{ if or (not (hasPrefix $href "/locations/")) (site.GetPage (strings.TrimSuffix "/" $href)) }}{{ $liveAreaLinks = $liveAreaLinks | append . }}{{ end }}{{ end }}
 {{ $areaLinks = $liveAreaLinks }}
-{{ $bannerHeading := .Params.banner_heading | default "Is Your Child Working Hard but Still Stuck? Our Online Tutors Can Help" }}
+{{/* H1 follows Tutorful's rule: what the parent searched for (level,
+     subject, town) and nothing else. "Online" is said straight underneath in
+     partials/online-chips.html, never in the H1, and the H1 says "for [Town]
+     Students", never "[Town] tutors", so it can't read as local tutors. */}}
+{{ $bannerHeading := .Params.banner_heading | default (printf "GCSE and A-Level Tutors for %s Families" .Params.location) }}
 {{ $bannerLead := .Params.banner_description | default (.Params.banner_lead | default "Talk to us about your child on a free call, and within 24 hours you'll have two or three tutor profiles to choose from.") }}
 {{ $intro1 := .Params.intro_1 | default "The Degree Gap grew out of our own school years. We're Harry and Joe, and each of us had two tutors growing up: one excellent, one only okay. It taught us early that the match is what counts. So you won't just be handed a tutor. You'll see two or three profiles and choose the one who suits your child." }}
 {{ $intro2 := .Params.intro_2 | default (printf "For families in %s, the first step is a free call with one of us about your child. The tutor profiles follow within 24 hours, and before anything's booked your child can meet your first choice on a free video call. Lessons are one-to-one and online, from £37 an hour, with no contract." $loc) }}

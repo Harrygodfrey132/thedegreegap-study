@@ -1,11 +1,11 @@
 ---
-title: "GCSE Tutors for Your Child in Marlborough | Online One-to-One"
+title: "GCSE Tutors for Your Child in Marlborough | One-to-One"
 description: "Could one GCSE grade close off the A-Levels your child wants? We match Marlborough students with an online GCSE tutor on their board. From £37, no contract."
 layout: "subject"
 location: "Marlborough"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Marlborough Teenagers Whose Next Step Hangs on One Grade"
+hero_heading_line1: "GCSE Tutors for Marlborough Students"
 hero_heading_line2: ""
 hero_lead: "Sometimes it isn't the whole report that worries you, just one subject sitting a grade below where your child needs it. Our GCSE tutors for Marlborough students find what's costing the marks in that subject and give it a steady hour every week."
 

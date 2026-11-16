@@ -1,13 +1,13 @@
 ---
-title: "Basingstoke A-Level Maths Tutors | Online | The Degree Gap"
+title: "Basingstoke A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "A-Level Maths mock back and the grade's a worry? Our Basingstoke tutors go over the marked paper with your child and start there. Online, one-to-one, from £37."
+description: "A-Level Maths mock back and the grade's a worry? Our tutors for Basingstoke go over the marked paper with your child and start there. Online, from £37."
 layout: "level-subject"
 location: "Basingstoke"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Basingstoke Families, Starting From the Marked Mock"
+hero_h1: "A-Level Maths Tutors for Basingstoke Students"
 hero_lead: "The mock grade that came home tells you far less than the marked paper behind it. Our A-Level Maths tutors for Basingstoke students sit down with that paper and your child, and find out where the marks actually went."
 
 angle_eyebrow: "THE GRADE IS ONLY THE SUMMARY"
@@ -28,7 +28,7 @@ schools:
   - "Queen Mary's College"
   - "Basingstoke College of Technology"
 
-steps_heading: "Three steps from a marked mock to a weekly Maths tutor in Basingstoke"
+steps_heading: "Three steps from a marked mock to a weekly Maths tutor for Basingstoke students"
 steps_lead: "Tutor profiles are usually with you the next day. Send the marked paper rather than the grade, and the first lesson gets much further."
 steps:
   - title: "Send us the marked mock"

@@ -1,5 +1,5 @@
 ---
-title: "Basingstoke A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Basingstoke A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Chemistry explanations coming back at half marks? Online A-Level Chemistry tutors for Basingstoke families, marking a written answer every week. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Basingstoke"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Basingstoke and North Hampshire"
+hero_h1: "A-Level Chemistry Tutors for Basingstoke Students"
 hero_lead: "Your child may be surprised how much of A-Level Chemistry is written answers, and in a big year group there's rarely time to pick each one apart. Our A-Level Chemistry tutors for Basingstoke students mark one properly every week."
 
 angle_eyebrow: "THE CHEMISTRY MARKS THAT COME FROM WRITING"
@@ -47,7 +47,7 @@ faqs:
     a: "Sixty to ninety minutes a week is plenty, as long as it includes one full extended answer, written properly and sent in. That one answer's worth more than an hour of reading, because it's what gets marked in the next lesson and shapes the week after. Past ninety minutes, the benefit drops off. For this kind of gap, a little and specific beats a lot and general."
   - q: "Are your Chemistry tutors qualified teachers?"
     a: "A good number are. The rest have finished a degree or are partway through one, many of them at top Russell Group universities. Each has at least two years of tutoring experience. For marking long answers, an experienced teacher who's marked to the scheme often has the edge, because they know which statements the examiner is counting. Tutors who took this course more recently know the current wording well. Around 3% of applicants make it onto the platform, after a subject test and an interview with Joe or Harry."
-  - q: "Is it worth paying for a Chemistry tutor in Basingstoke?"
+  - q: "Is it worth paying for a Chemistry tutor for Basingstoke students?"
     a: "Often, yes, for this kind of gap. If your child understands the chemistry and loses marks on written answers nobody's had time to take apart, one-to-one marking gives them exactly what's missing. The change usually shows within a term. If they're already scoring at target across the paper, the gain is smaller, and we'll tell you that on the call."
 # FAQ picks: G05, A10, A09, E02, C03
 

@@ -1,13 +1,13 @@
 ---
-title: "Baldock GCSE Maths Tutors | Online | The Degree Gap"
+title: "Baldock GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "When your child's fine in Maths lessons but the mock comes back two grades lower, our Baldock GCSE Maths tutors find out why. One-to-one and online, from £37."
+description: "When your child's fine in Maths lessons but the mock comes back two grades lower, our GCSE Maths tutors for Baldock find out why. Online, from £37."
 layout: "level-subject"
 location: "Baldock"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Baldock Families When Classwork and Mocks Don't Match"
+hero_h1: "GCSE Maths Tutors for Baldock Students"
 hero_lead: "Lots of children understand Maths in class and lose it in the exam hall, and those are two different problems. Our GCSE Maths tutors for Baldock students find out which one your child has and start there, online."
 
 angle_eyebrow: "FINE IN CLASS, LOST IN THE HALL"

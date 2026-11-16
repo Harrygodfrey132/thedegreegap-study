@@ -7,7 +7,7 @@ location: "Burton upon Trent"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Burton upon Trent Sixth Formers Slowed Down by Algebra"
+hero_h1: "A-Level Maths Tutors for Burton upon Trent Students"
 hero_lead: "At GCSE your child had time to think about each step; in Year 12 the algebra has to be quick enough to think about something else. Our A-Level Maths tutors for Burton upon Trent students build that speed, then put it to work on calculus and proof."
 
 angle_eyebrow: "ALGEBRA AT A NEW SPEED"

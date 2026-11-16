@@ -1,13 +1,13 @@
 ---
-title: "GCSE Maths Tutors Covering Watford | Online | The Degree Gap"
+title: "GCSE Maths Tutors Covering Watford | The Degree Gap"
 nav_title: "Maths"
-description: "Watford GCSE Maths tutors for the child chasing a 9 and the child rebuilding the basics. One-to-one lessons online, matched to their exam board, from £37."
+description: "GCSE Maths tutors for Watford, for the child chasing a 9 and the child rebuilding the basics. One-to-one lessons online, matched to their exam board, from £37."
 layout: "level-subject"
 location: "Watford"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Watford Families"
+hero_h1: "GCSE Maths Tutors for Watford Students"
 hero_lead: "Some Watford parents want their child stretched towards a 9, and others just want fractions to stop being a nightly fight. Our GCSE Maths tutors for Watford students work out which your child needs, then spend the lessons on the questions that are losing marks."
 
 angle_eyebrow: "TWO KINDS OF MATHS WORRY IN ONE TOWN"
@@ -27,7 +27,7 @@ schools:
   - "St Michael's Catholic High School"
   - "Westfield Academy"
 
-steps_heading: "Three steps to a Watford GCSE Maths tutor for your child"
+steps_heading: "Three steps to a GCSE Maths tutor for your child in Watford"
 steps_lead: "Tutor profiles usually arrive within 24 hours of the call, and the first lesson inside a week. So there's time before the March mocks that feed sixth form predictions."
 steps:
   - title: "Tell us where Maths is at"

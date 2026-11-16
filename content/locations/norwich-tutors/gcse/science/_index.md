@@ -1,13 +1,13 @@
 ---
-title: "Norwich GCSE Science Tutors | Online | The Degree Gap"
+title: "Norwich GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Each required practical usually happens once in class. Our Norwich GCSE Science tutors go over it with your child while it's fresh. From £37, no contract."
+description: "Each required practical usually happens once in class. Our online GCSE Science tutors go over it with Norwich students while it's fresh. From £37."
 layout: "level-subject"
 location: "Norwich"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Norwich Families"
+hero_h1: "GCSE Science Tutors for Norwich Students"
 hero_lead: "Your child usually gets one go at each required practical, the set experiments the exam asks about, and the school decides when that happens. Our GCSE Science tutors for Norwich students time their help around that calendar, while each experiment's still fresh."
 
 angle_eyebrow: "THE CALENDAR MATTERS MORE THAN THE HOURS"

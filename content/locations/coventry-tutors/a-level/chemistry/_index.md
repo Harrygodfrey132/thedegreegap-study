@@ -1,5 +1,5 @@
 ---
-title: "Coventry A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Coventry A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Online one-to-one tutoring for Coventry families whose child finds A-Level Chemistry hard, starting with electron configuration. From £37 an hour, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Coventry"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online One-to-One A-Level Chemistry Tutoring for Coventry Families"
+hero_h1: "A-Level Chemistry Tutors for Coventry Students"
 hero_lead: "Electron configuration turns up in your child's first weeks of A-Level Chemistry, then sits under two years of questions. Our A-Level Chemistry tutors for Coventry students rebuild it properly, including the filling order that catches almost everyone out."
 
 angle_eyebrow: "THE FIRST TOPIC EVERYTHING ELSE NEEDS"

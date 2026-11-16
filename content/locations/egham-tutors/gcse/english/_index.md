@@ -7,7 +7,7 @@ location: "Egham"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutoring for Egham Students Whose A-Level Choices Depend on It"
+hero_h1: "GCSE English Tutors for Egham Students"
 hero_lead: "Your child can talk about An Inspector Calls for ten minutes at dinner, then the English mock comes back lower than anything else on the report. Our GCSE English tutors for Egham students find where the marks are going, from the unseen poem to the final writing task, and start there."
 
 angle_eyebrow: "WHY THE ENGLISH GRADE MATTERS IN EGHAM"

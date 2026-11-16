@@ -1,11 +1,11 @@
 ---
-title: "Online A-Level Tutors for Ampthill Sixth Formers | The Degree Gap"
+title: "A-Level Tutors for Ampthill Sixth Formers | The Degree Gap"
 description: "Is your child thinking of dropping an A-Level? We'll match Ampthill sixth formers with an online A-Level tutor on their exam board first. From £37 an hour."
 layout: "subject"
 location: "Ampthill"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Ampthill Students Ready to Give Up on One Subject"
+hero_heading_line1: "A-Level Tutors for Ampthill Students"
 hero_heading_line2: ""
 hero_lead: "A few weeks into Year 12, one subject starts to feel impossible and your child wonders out loud about giving it up. Our A-Level tutors for Ampthill students find out whether the gap can be closed before that decision gets made."
 

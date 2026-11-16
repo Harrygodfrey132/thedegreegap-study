@@ -7,7 +7,7 @@ location: "Balham"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Balham Students Whose Essays Stay in the Textbook"
+hero_h1: "A-Level Economics Tutors for Balham Students"
 hero_lead: "Your child can draw the supply and demand diagram perfectly, then the essay comes back with 'apply this to the case' in the margin. Our A-Level Economics tutors for Balham students show them how to use real examples, many of them a short walk from home."
 
 angle_eyebrow: "ECONOMICS ON BALHAM HIGH ROAD"

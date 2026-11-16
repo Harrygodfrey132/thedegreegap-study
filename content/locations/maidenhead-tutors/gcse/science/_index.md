@@ -7,7 +7,7 @@ location: "Maidenhead"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Maidenhead Students Whose Practical Questions Keep Costing Marks"
+hero_h1: "GCSE Science Tutors for Maidenhead Students"
 hero_lead: "Back in Year 10 your child timed the reaction and wrote it up, and a year later the exam asks what was kept the same and why. Our GCSE Science tutors for Maidenhead students go back over the required practicals and the long answers until both feel steady."
 
 angle_eyebrow: "TRILOGY OR TRIPLE"

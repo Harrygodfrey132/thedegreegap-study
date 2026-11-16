@@ -1,13 +1,13 @@
 ---
 title: "Southend-on-Sea GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Online GCSE Maths tutors covering Southend-on-Sea, matched on exam board and tier, for the paper that decides the next step. From £37 an hour."
+description: "Online GCSE Maths tutors for Southend-on-Sea, matched on exam board and tier, for the paper that decides the next step. From £37 an hour."
 layout: "level-subject"
 location: "Southend-on-Sea"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors Helping Southend-on-Sea Families Read a Paper Instead of a Grade"
+hero_h1: "GCSE Maths Tutors for Southend-on-Sea Students"
 hero_lead: "One number arrives, and a hundred decisions get made off it. Our GCSE Maths tutors for Southend-on-Sea students go through the marked paper question by question, in a one-to-one online hour on Lessonspace, because the pattern in the lost marks is what tells you what to do next."
 
 angle_eyebrow: "ONE NUMBER, SEVERAL DIFFERENT PROBLEMS"

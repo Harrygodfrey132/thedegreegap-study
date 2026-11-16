@@ -1,11 +1,11 @@
 ---
-title: "Epsom A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "Working hard in Year 12 but the marks won't follow? Epsom A-Level tutors who read your child's papers and find what's costing them. Online, from £37 an hour."
+title: "Epsom A-Level Tutors | One-to-One | The Degree Gap"
+description: "Working hard in Year 12 but the marks won't follow? A-Level tutors for Epsom who read your child's papers and find what's costing them. Online, from £37."
 layout: "subject"
 location: "Epsom"
 level: "A-Level"
 
-hero_heading_line1: "Online Epsom A-Level Tutors for When the Effort's There but the Marks Aren't"
+hero_heading_line1: "A-Level Tutors for Epsom Students"
 hero_heading_line2: ""
 hero_lead: "Hours of homework in Year 12, and the marks still aren't following, even after decent GCSEs. Our A-Level tutors for Epsom students find where the marks are slipping and fix the technique before the Year 12 mocks shape your child's prediction."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "Cs to As across their A-Levels, after one-to-one lessons, as one parent tells it."
 
 first_lesson_eyebrow: "WHAT ONE PARENT SAW CHANGE"
-first_lesson_heading: "Why an Epsom A-Level Tutor Starts With a Marked Paper"
+first_lesson_heading: "Why an A-Level Tutor for Epsom Students Starts With a Marked Paper"
 first_lesson_context: "When your child's longer answers stop picking up marks, it's little comfort that results across the borough are above the national average. The tutor finds where those marks are going on a past paper, then works with your child on the weighing-up those questions reward. From Epsom, a good A-Level grade can lead to a course at the University of Surrey, or a London degree apprenticeship a train ride away."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Cs to As across A-Levels"
 
-tutor_strip_heading: "Epsom A-Level tutors for families aiming at Surrey and London offers"
+tutor_strip_heading: "A-Level tutors for Epsom students, for families aiming at Surrey and London offers"
 tutor_strip_body: "Graduates and undergraduates, all with at least two years' tutoring. Some are qualified examiners, and each one's been interviewed by Harry or Joe, who run The Degree Gap. Only about 3% of applicants make the cut. Take a look at the profiles, or we'll match your child with someone."
 
 pathways_heading: "What an Epsom A-Level Opens Up Next"
@@ -55,7 +55,7 @@ reviews:
   - "Charlotte|Student|I cannot recommend Harry enough. He was helpful welcoming and helped me achieve a grade higher than I was expected!"
   - "Leo|Student|The time I have spent with my tutor here has  really valuable.  He has helped so much with a range of topics across economics and maths. He explains things really clearly and makes the sessions enjoyable."
 
-faq_1_q: "The step up to A-Level has caught my daughter out this year. How does an Epsom tutor help?"
+faq_1_q: "The step up to A-Level has caught my daughter out this year. How does a tutor for Epsom families help?"
 faq_1_a: "By finding where she's losing marks, and it's usually technique, not effort. A-Level wants her to go deeper and weigh things up, where GCSE mostly rewarded knowing the content, so habits that scored last year quietly stop working. The tutor spots that on one of her real papers in the first lesson, then builds the deeper technique one topic at a time."
 faq_2_q: "My son wants to study art or design at UCA. Can A-Level tutoring help him get there?"
 faq_2_a: "Yes. The University for the Creative Arts puts a lot of weight on the portfolio, but the offer usually still includes A-Level grades, so we'd keep those solid while he works on the creative side. His tutor can take on the written and analytical subjects that sit alongside the portfolio, and Harry or Joe can talk you both through how the application fits together."

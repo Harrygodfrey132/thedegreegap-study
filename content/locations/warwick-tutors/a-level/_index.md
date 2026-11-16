@@ -1,11 +1,11 @@
 ---
-title: "Warwick A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "Is your child aiming for a course that turns most people away? Warwick A-Level tutors for the grades and the rest of the application. Online, from £37 an hour."
+title: "Warwick A-Level Tutors | One-to-One | The Degree Gap"
+description: "Is your child aiming for a course that turns most people away? A-Level tutors for Warwick, for the grades and the rest of the application. Online, from £37."
 layout: "subject"
 location: "Warwick"
 level: "A-Level"
 
-hero_heading_line1: "Online Warwick A-Level Tutors for Applications Where the Grades Are Only Half of It"
+hero_heading_line1: "A-Level Tutors for Warwick Students"
 hero_heading_line2: ""
 hero_lead: "The predictions look good, and then you see how many people apply for your child's course. Grades come first, but the rest of an application takes two years, not a week in October. Our A-Level tutors for Warwick students help with both."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "From Cs to As at A-Level, in one parent's own words, with help on university choices along the way."
 
 first_lesson_eyebrow: "MORE THAN THREE GRADES"
-first_lesson_heading: "What a Warwick A-Level Tutor Adds Beyond the Grades"
+first_lesson_heading: "What an A-Level Tutor for Warwick Students Adds Beyond the Grades"
 first_lesson_context: "On the most competitive courses, applicants with the same predicted grades are told apart by what they've done beyond the syllabus: the reading, a project, a competition. None of that can be thrown together the week the form's due. So an A-Level tutor who starts with your child in Year 12 keeps half an eye on it, though most of the hour still goes on the grades."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "C grades to A grades at A-Level"
 
-tutor_strip_heading: "Warwick A-Level tutors who've made competitive applications of their own"
+tutor_strip_heading: "A-Level tutors for Warwick students who've made competitive applications of their own"
 tutor_strip_body: "Warwick School, King's High, Myton and the Leamington sixth forms don't all use the same exam boards, so we check your child's first. Plenty of our tutors applied to competitive courses themselves, and around 3% of tutors who apply pass our interviews. Browse, or ask us to pick."
 
 pathways_heading: "After Sixth Form in Warwick: The Routes Worth Knowing About"

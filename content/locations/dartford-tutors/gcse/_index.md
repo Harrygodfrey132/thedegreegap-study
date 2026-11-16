@@ -1,11 +1,11 @@
 ---
-title: "GCSE Tutors for Dartford Students | Online One-to-One"
+title: "GCSE Tutors for Dartford Students | One-to-One"
 description: "Is GCSE homework taking your child all evening? We'll match them with an online GCSE tutor for Dartford students who finds the gap behind it. From £37."
 layout: "subject"
 location: "Dartford"
 level: "GCSE"
 
-hero_heading_line1: "Online Dartford GCSE Tutors for Homework That Takes Up the Whole Evening"
+hero_heading_line1: "GCSE Tutors for Dartford Students"
 hero_heading_line2: ""
 hero_lead: "It's gone nine, the Maths homework that should have taken forty minutes is still open on the kitchen table, and you've stopped offering to help. Our GCSE tutors for Dartford students find what's making it slow, often one topic from Year 8 or 9, and fix that first."
 
@@ -21,7 +21,7 @@ first_lesson_quote_name: "Chamarika"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Predicted 4-5 → 8 in GCSE Physics"
 
-tutor_strip_heading: "Dartford GCSE tutors who start with last night's homework"
+tutor_strip_heading: "GCSE tutors for Dartford students who start with last night's homework"
 tutor_strip_body: "At Wilmington Grammar School for Boys, GCSE Maths is AQA and Science is OCR, and other Dartford schools choose differently. So we match each subject to its own board. The profiles are below, or we can pick for you."
 
 pathways_heading: "After GCSEs in Dartford: the IB, A-Levels or a College Course"

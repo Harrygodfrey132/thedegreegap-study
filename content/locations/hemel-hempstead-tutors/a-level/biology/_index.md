@@ -1,13 +1,13 @@
 ---
-title: "Hemel Hempstead A-Level Biology Tutors | Online | The Degree Gap"
+title: "Hemel Hempstead A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Does your child know the Biology but lose marks on the long answers? Our Hemel Hempstead A-Level Biology tutors teach planning first. Online, from £37 an hour."
+description: "Does your child know the Biology but lose marks on the long answers? Our A-Level Biology tutors for Hemel Hempstead teach planning first. Online, from £37."
 layout: "level-subject"
 location: "Hemel Hempstead"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Sixth Formers in Hemel Hempstead"
+hero_h1: "A-Level Biology Tutors for Hemel Hempstead Students"
 hero_lead: "If your child knows the Biology but the long questions keep coming back with half marks, it's often because they start writing straight away. Our A-Level Biology tutors for Hemel Hempstead students work on the thirty seconds before the pen moves."
 
 angle_eyebrow: "THE THIRTY SECONDS BEFORE WRITING"

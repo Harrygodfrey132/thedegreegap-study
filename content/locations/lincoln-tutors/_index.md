@@ -1,9 +1,9 @@
 ---
-title: "Worried About GCSEs? Online Tutors for Lincoln Students"
+title: "Worried About GCSEs? Tutors for Lincoln Students"
 description: "Worried your child isn't ready for their GCSEs in Lincoln? We'll match them with an online tutor who suits how they learn. Free call first, from £37 an hour."
 layout: "single"
 location: "Lincoln"
-banner_heading: "Online tutors for Lincoln students facing the first exams that really count"
+banner_heading: "GCSE and A-Level Tutors for Lincoln Families"
 banner_description: "One call with Harry or Joe, then a tutor picked from anywhere in the UK to suit your child, with every lesson at home in Lincoln."
 content_angle: "first big exams: in the one part of Lincolnshire without grammar schools, plenty of children never sit the 11+, so Year 10 and 11 mocks are the first exams that feel as if they count, and revising for one is a new skill"
 intro_1: "Usually it's the first set of mocks. Your child spent the week before them with notes spread across the bed, came home saying the papers were fine, and then the results arrived lower than anyone at home expected. Now they're rattled. And you're unsure whether to push or back off. In Lincoln that moment often lands harder than people expect, and there's a reason. The city is the one part of Lincolnshire where the council ended grammar school selection, back in 1974. Families can still opt into the county's 11+, but plenty of children here never sit it, so the GCSE mocks are often the first exams that feel as if they really count."

@@ -7,7 +7,7 @@ location: "Hertford"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Hertford Students Lost in Organic Reaction Maps"
+hero_h1: "A-Level Chemistry Tutors for Hertford Students"
 hero_lead: "Organic Chemistry can feel like memorising a phone book of reactions, and by Year 13 your child is expected to string them into routes. Our A-Level Chemistry tutors for Hertford students teach the patterns underneath, so a new molecule doesn't feel like a new subject."
 
 angle_eyebrow: "A MAP, NOT A LIST"

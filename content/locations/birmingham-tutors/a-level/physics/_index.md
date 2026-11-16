@@ -1,5 +1,5 @@
 ---
-title: "Birmingham A-Level Physics Tutors | Online | The Degree Gap"
+title: "Birmingham A-Level Physics Tutors | The Degree Gap"
 nav_title: "Physics"
 description: "Online A-Level Physics tutors for Birmingham families. We help your child with the required practicals and the exam questions about them. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Birmingham"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors Supporting Birmingham Families"
+hero_h1: "A-Level Physics Tutors for Birmingham Students"
 hero_lead: "Your child's lab work gets its own pass or fail. But the written exams still ask about those experiments, and that's where marks slip. Our A-Level Physics tutors for Birmingham students work on those questions."
 
 angle_eyebrow: "THE PRACTICALS ARE IN THE WRITTEN PAPER"

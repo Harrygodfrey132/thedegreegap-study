@@ -5,7 +5,7 @@ layout: "subject"
 location: "Rugby"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Rugby Students Who've Found Year 12 a Bigger Jump"
+hero_heading_line1: "A-Level Tutors for Rugby Students"
 hero_heading_line2: ""
 hero_lead: "October of Year 12 is often when it shows. The GCSE revision habits stop working, and homework swallows the whole evening. Our A-Level tutors for Rugby sixth formers find the topic where your child started to slide and rebuild from there."
 

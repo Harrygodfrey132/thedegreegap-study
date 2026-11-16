@@ -1,13 +1,13 @@
 ---
-title: "Chelmsford GCSE Science Tutors | Online | The Degree Gap"
+title: "Chelmsford GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Triple or combined Science, settled back in Year 9. Our Chelmsford GCSE Science tutors work with the route your child is on, online and one-to-one, from £37."
+description: "Triple or combined Science, settled back in Year 9. Our GCSE Science tutors for Chelmsford work with the route your child is on, online, from £37."
 layout: "level-subject"
 location: "Chelmsford"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Triple or Combined: Online GCSE Science Tutors in Chelmsford"
+hero_h1: "GCSE Science Tutors for Chelmsford Students"
 hero_lead: "Whether your child sits triple or combined Science was probably settled back in Year 9, long before anyone knew how they'd take to it. Our GCSE Science tutors for Chelmsford students work online with the route your child's actually on."
 
 angle_eyebrow: "DECIDED IN YEAR 9, SAT IN YEAR 11"

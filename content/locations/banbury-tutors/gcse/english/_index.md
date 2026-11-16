@@ -1,13 +1,13 @@
 ---
-title: "Banbury GCSE English Tutors | Online | The Degree Gap"
+title: "Banbury GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Plenty of ideas about the book, then half a page in the exam? Our Banbury GCSE English tutors help your child get it all written down. Online, from £37 an hour."
+description: "Plenty of ideas about the book, then half a page in the exam? Our GCSE English tutors for Banbury help your child get it all written down. Online, from £37."
 layout: "level-subject"
 location: "Banbury"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors in Banbury, for Children Who Know More Than They Write"
+hero_h1: "GCSE English Tutors for Banbury Students"
 hero_lead: "Your child isn't short of ideas. They're short of words on the page, and the mark scheme can only reward what's written down. Our GCSE English tutors for Banbury students work online on getting it there."
 
 angle_eyebrow: "THE IDEAS WERE NEVER THE PROBLEM"
@@ -28,7 +28,7 @@ schools:
   - "Bloxham School"
   - "Tudor Hall School"
 
-steps_heading: "Getting started with a Banbury GCSE English tutor"
+steps_heading: "Getting started with a GCSE English tutor for Banbury students"
 steps_lead: "Tell us if your child talks well about the texts but writes very little. It changes the plan. You'll have tutor profiles within 24 hours of our free call."
 steps:
   - title: "A call with one of us"

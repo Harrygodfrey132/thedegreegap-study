@@ -5,7 +5,7 @@ layout: "subject"
 location: "Walton-on-Thames"
 level: "A-Level"
 
-hero_heading_line1: "Online Walton-on-Thames A-Level Tutors for the Summer Exams at the End of Year 12"
+hero_heading_line1: "A-Level Tutors for Walton-on-Thames Students"
 hero_heading_line2: ""
 hero_lead: "The exams at the end of Year 12 often feed the predicted grades on the UCAS form, and some sixth forms use them to decide who carries on into Year 13. Our A-Level tutors for Walton-on-Thames students find the weak topics in the autumn, not in May."
 

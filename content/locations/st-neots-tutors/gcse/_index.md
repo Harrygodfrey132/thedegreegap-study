@@ -1,11 +1,11 @@
 ---
 title: "St Neots GCSE Tutors | Built Around Your Child | The Degree Gap"
-description: "Year 11 brings mocks and sixth form applications at once. Our St Neots GCSE tutors find the subjects costing your child marks and work on them online. From £37."
+description: "Year 11 brings mocks and sixth form applications at once. Our GCSE tutors for St Neots find the subjects costing your child marks and work on them online."
 layout: "subject"
 location: "St Neots"
 level: "GCSE"
 
-hero_heading_line1: "Online St Neots GCSE Tutors Who Find Where the Mock Marks Went"
+hero_heading_line1: "GCSE Tutors for St Neots Students"
 hero_heading_line2: ""
 hero_lead: "Did the Year 11 mock come back lower than all that revision deserved? Our GCSE tutors for St Neots students go through that paper with your child to see which topics are costing marks, then start there, one-to-one and online."
 
@@ -14,7 +14,7 @@ grade_to: "B"
 grade_stat: "Keira's Google review credits the tutoring with taking her grades from an E to a B."
 
 first_lesson_eyebrow: "BEFORE SIXTH FORM APPLICATIONS GO IN"
-first_lesson_heading: "Why a St Neots GCSE Tutor Asks to See the Last Mock First"
+first_lesson_heading: "Why a GCSE Tutor for St Neots Students Asks to See the Last Mock First"
 first_lesson_context: "A mock paper tells a GCSE tutor far more than a report can, because every lost mark sits next to the question that cost it. So before planning anything, the tutor asks to see your child's last one. Marks lost early on usually point back to a topic from Year 8 or 9, while marks lost near the end are more often about time."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"

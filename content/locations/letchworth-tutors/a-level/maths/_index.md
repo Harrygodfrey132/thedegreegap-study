@@ -1,13 +1,13 @@
 ---
 title: "Letchworth A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Strong at GCSE Maths but thrown by mechanics or statistics in Year 12? Our Letchworth A-Level Maths tutors help your child one-to-one, online. From £37 an hour."
+description: "Strong at GCSE Maths but thrown by mechanics or statistics in Year 12? Our A-Level Maths tutors for Letchworth help your child one-to-one, online. From £37."
 layout: "level-subject"
 location: "Letchworth"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online Letchworth A-Level Maths Tutors for Pure, Mechanics and Statistics"
+hero_h1: "A-Level Maths Tutors for Letchworth Students"
 hero_lead: "A strong GCSE mathematician can still come unstuck on a force diagram or a hypothesis test in Year 12. Our A-Level Maths tutors for Letchworth students help your child, one-to-one and online, with the mechanics and statistics that don't feel like the Maths they know."
 
 card_eyebrow: "FREE CONSULTATION"

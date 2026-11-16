@@ -5,7 +5,7 @@ layout: "subject"
 location: "Salford"
 level: "A-Level"
 
-hero_heading_line1: "A-Level Tutoring for Salford Students in the Hours Between College Lessons"
+hero_heading_line1: "A-Level Tutors for Salford Students"
 hero_heading_line2: ""
 hero_lead: "Your child's home by two on a Wednesday because there's nothing timetabled after lunch, and the folder stays in the bag. Our A-Level tutors for Salford students turn one of those empty afternoons into an hour of proper work, with something set for the next."
 
@@ -14,14 +14,14 @@ grade_to: "C"
 grade_stat: "“…who had left studying until the final hour, managing to turn E and U grades into 3 C grades.” Joanna, Parent of A-Level Student, writing on Google without naming the subjects."
 
 first_lesson_eyebrow: "NO LESSONS AFTER LUNCH"
-first_lesson_heading: "How a Salford A-Level Tutor Fills the Gaps in a College Timetable"
+first_lesson_heading: "How an A-Level Tutor for Salford Students Fills the Gaps in a College Timetable"
 first_lesson_context: "At a sixth form college your child will usually have more hours without a teacher than they ever had at school, and the course quietly assumes those hours go on study. Plenty of Year 12s haven't found that habit by October half-term. So an A-Level tutor's first job is often agreeing with your child what one week of independent work should actually look like, then checking it got done."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades."
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Grade E/U → Grade C at A-Level"
 
-tutor_strip_heading: "Salford A-Level tutors who leave work for the free periods"
+tutor_strip_heading: "A-Level tutors for Salford students who leave work for the free periods"
 tutor_strip_body: "Each A-Level is matched on its own exam board, so a Pendleton student taking Chemistry and Maths could have two different tutors. Harry and Joe have interviewed every one of them in person. Browse the profiles below, or let us choose."
 
 pathways_heading: "What Salford Sixth Formers Do Next"

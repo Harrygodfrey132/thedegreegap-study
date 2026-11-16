@@ -7,7 +7,7 @@ location: "Stoke-on-Trent"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Stoke-on-Trent Students, for the Writing Half of the Paper"
+hero_h1: "GCSE English Tutors for Stoke-on-Trent Students"
 hero_lead: "Your child reads the extract well enough, then the writing task comes back as a page of ideas with no shape. Our online GCSE English tutors for Stoke-on-Trent students work on planning and sentences that hold up under time, for Language and Literature."
 
 angle_eyebrow: "HALF THE LANGUAGE MARKS ARE WRITING"

@@ -1,13 +1,13 @@
 ---
 title: "Beverley GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "GCSE English marks often slip on extracts your child has never seen. A Beverley GCSE English tutor can give them a routine for those, online, from £37 an hour."
+description: "GCSE English marks often slip on extracts your child has never seen. A GCSE English tutor for Beverley can give them a routine for those, online, from £37."
 layout: "level-subject"
 location: "Beverley"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Beverley, From Unseen Extracts to Set Texts"
+hero_h1: "GCSE English Tutors for Beverley Students"
 hero_lead: "If your child freezes on an extract they've never seen, or knows the books but runs out of time, they're far from alone. Our GCSE English tutors for Beverley students show them a way into unseen passages and a plan for the clock."
 
 card_eyebrow: "A FREE CALL ABOUT ENGLISH"
@@ -53,7 +53,7 @@ faqs:
     a: "It changes week to week, but a typical hour has a shape. A quick look back at last week's writing, then the main job, maybe a new unseen extract or a Literature essay plan, then a short timed task so your child practises with a bit of pressure. Feedback comes in the moment, while your child still remembers why they wrote what they did. Homework is usually one focused piece, not a pile."
   - q: "How do I know if my child needs an English tutor or just more practice?"
     a: "Look at a recent marked essay or mock. If the ideas are good but the answer stops early or wanders, practice with a timer might be enough on its own. If your child doesn't know how to start on an unseen extract, or every Literature essay turns into a retelling of the story, that's a gap in method, and that's where a tutor helps most. If you can't tell which it is, talk it through with us on the free call."
-  - q: "My child has dyslexia. Will that change how an English tutor in Beverley works with them?"
+  - q: "My child has dyslexia. Will that change how an English tutor for Beverley students works with them?"
     a: "It should, yes. Tell us about it on the call and we'll look for a tutor who's taught children with dyslexia before. In English that might mean reading in shorter chunks, or building an essay plan visually on the whiteboard before any writing starts. With only your child and the tutor in the lesson, the pace is your child's."
   - q: "Am I allowed to watch the first English lesson?"
     a: "Yes, most tutors are happy for you to sit in on the first one. Some parents like to, just to see how it works. Most step back after that, because teenagers tend to open up more about their writing without a parent listening. You won't be in the dark, though. The tutor sends you a short note after each lesson on what they covered and what's next."

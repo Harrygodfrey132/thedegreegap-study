@@ -1,11 +1,11 @@
 ---
 title: "Croydon GCSE Tutors | One-to-One | The Degree Gap"
-description: "Croydon GCSE tutors for the one subject grade your child's sixth-form place turns on. One-to-one online lessons, matched to the exam board, from £37 an hour."
+description: "GCSE tutors for Croydon, for the one subject grade your child's sixth-form place turns on. One-to-one online lessons, matched to the exam board, from £37."
 layout: "subject"
 location: "Croydon"
 level: "GCSE"
 
-hero_heading_line1: "GCSE tutors for Croydon Year 11s whose sixth-form place turns on one subject"
+hero_heading_line1: "GCSE Tutors for Croydon Students"
 hero_heading_line2: ""
 hero_lead: "You'll probably spot it on the prospectus: an overall bar, then a higher grade in the subject your child wants to carry on. Our GCSE tutors for Croydon students work on that second number, one-to-one and online, starting from your child's last marked paper."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "A Year 10 who'd switched off from English moved from a grade 5 to a 6/7 over six months of one-to-one lessons."
 
 first_lesson_eyebrow: "THE SECOND NUMBER ON THE PROSPECTUS"
-first_lesson_heading: "Why a Croydon GCSE Tutor Starts With the Subject Grade, Not the Average"
+first_lesson_heading: "Why a GCSE Tutor for Croydon Students Starts With the Subject Grade, Not the Average"
 first_lesson_context: "A lot of Croydon parents describe the same report: fine overall, but one subject sits a grade below what the sixth form wants for A-Level. A good average doesn't help much when the sixth form is reading that one grade. So the tutor spends the first hour on that subject's last marked paper, not on a general revision plan."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 6/7 in English"
 
-tutor_strip_heading: "Croydon GCSE tutors who know which grade sixth forms read"
+tutor_strip_heading: "GCSE tutors for Croydon students who know which grade sixth forms read"
 tutor_strip_body: "Riddlesdown, Coloma, the Harris academies and Archbishop Tenison's don't all use the same exam boards, so we check your child's board and tier (higher or foundation) before suggesting anyone. Around 3% of applicants get through our interview. Have a look, or tell us about your child and we'll pick."
 
 pathways_heading: "Where Croydon Year 11s Go at Sixteen"

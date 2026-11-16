@@ -7,7 +7,7 @@ location: "Huddersfield"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Huddersfield Students Who Get the Physics but Lose the Maths"
+hero_h1: "A-Level Physics Tutors for Huddersfield Students"
 hero_lead: "Plenty of children understand the Physics and still lose marks in the algebra and logarithms that carry it. Our A-Level Physics tutors for Huddersfield students work on the multi-step Mechanics and Fields questions where that shows most, one-to-one and online."
 
 angle_eyebrow: "AQA OR OCR, DEPENDING ON THE COLLEGE"

@@ -1,13 +1,13 @@
 ---
 title: "Northampton GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Northampton GCSE Maths tutors for the child whose non-calculator paper keeps slipping. Matched on exam board and tier, one-to-one online, from £37 an hour."
+description: "GCSE Maths tutors for Northampton, for the child whose non-calculator paper keeps slipping. Matched on exam board and tier, one-to-one online, from £37 an hour."
 layout: "level-subject"
 location: "Northampton"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Northampton, When the Non-Calculator Paper Keeps Slipping"
+hero_h1: "GCSE Maths Tutors for Northampton Students"
 hero_lead: "The non-calculator paper keeps coming back lower than the other two, and nobody can quite tell you why. Our GCSE Maths tutors for Northampton students rebuild the arithmetic and algebra underneath it, one-to-one and online using the platform Lessonspace."
 
 angle_eyebrow: "WHY THE PAPER WITHOUT A CALCULATOR HURTS MOST"
@@ -28,7 +28,7 @@ schools:
   - "Weston Favell Academy"
   - "Caroline Chisholm School"
 
-steps_heading: "Getting a Northampton Maths Tutor in 3 Steps"
+steps_heading: "Getting a Maths Tutor for Northampton Students in 3 Steps"
 steps_lead: "If the higher-or-foundation question is still open, settle it before the March mocks, which often shape what sixth forms and colleges see. Profiles come within a day."
 steps:
   - title: "A chat with Harry or Joe"

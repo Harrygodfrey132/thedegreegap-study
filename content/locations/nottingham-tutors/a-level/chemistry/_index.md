@@ -1,5 +1,5 @@
 ---
-title: "Nottingham A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Nottingham A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Is pH where your child's A-Level Chemistry started to slip? Our online Nottingham A-Level Chemistry tutors teach the logs behind it. Lessons from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Nottingham"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors Covering Nottingham"
+hero_h1: "A-Level Chemistry Tutors for Nottingham Students"
 hero_lead: "If your child was coping with Chemistry until pH came along, logarithms are often why. Our A-Level Chemistry tutors for Nottingham students work through acid-base theory and the calculations that follow from it."
 
 angle_eyebrow: "WHERE THE MATHS CATCHES UP"

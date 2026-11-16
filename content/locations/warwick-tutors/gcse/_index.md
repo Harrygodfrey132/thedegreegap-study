@@ -1,11 +1,11 @@
 ---
-title: "Warwick GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "Warwick GCSE tutors for a Year 11 that feels like too much. One subject, one weekly plan, online and one-to-one, with lessons from £37 and a free call first."
+title: "Warwick GCSE Tutors | One-to-One | The Degree Gap"
+description: "GCSE tutors for Warwick, for a Year 11 that feels like too much. One subject, one weekly plan, online, with lessons from £37 and a free call first."
 layout: "subject"
 location: "Warwick"
 level: "GCSE"
 
-hero_heading_line1: "Online Warwick GCSE Tutors for a Year 11 That Feels Like Too Much"
+hero_heading_line1: "GCSE Tutors for Warwick Students"
 hero_heading_line2: ""
 hero_lead: "Year 11 lands all at once: mocks in one ear, decisions about next year in the other. If your child's shutting the bedroom door on it all, that's very common. Our GCSE tutors for Warwick students take one subject off the pile and make it a weekly plan."
 
@@ -14,14 +14,14 @@ grade_to: "B"
 grade_stat: "From an E to a B at GCSE. Keira put it in one line, and we've kept it word for word."
 
 first_lesson_eyebrow: "ONE SUBJECT AT A TIME"
-first_lesson_heading: "How a Warwick GCSE Tutor Makes Year 11 Feel Smaller"
+first_lesson_heading: "How a GCSE Tutor for Warwick Students Makes Year 11 Feel Smaller"
 first_lesson_context: "Warwick families often have more than one route in view for next year, and those choices land in the same months as the mocks. A GCSE tutor can't make those decisions go away. But they can take one subject, find where it's leaking marks, and turn it into a plan your child can see the end of."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "An E to a B at GCSE"
 
-tutor_strip_heading: "Warwick GCSE tutors who go by the actual mark scheme"
+tutor_strip_heading: "GCSE tutors for Warwick students who go by the actual mark scheme"
 tutor_strip_body: "Myton, Aylesford, Campion, Warwick School and King's High use a mix of exam boards, so your child's board comes first when we match. Harry or Joe interviewed every tutor on the platform. Have a browse, or ask us to pick two or three."
 
 pathways_heading: "Warwick After GCSEs: More Than One Way On"

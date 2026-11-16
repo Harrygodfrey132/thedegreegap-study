@@ -1,5 +1,5 @@
 ---
-title: "Bristol A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Bristol A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Group 2 trends learned, but can your child explain them in the exam? One-to-one online A-Level Chemistry tutoring for Bristol families, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Bristol"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Bristol Sixth Form Families"
+hero_h1: "A-Level Chemistry Tutors for Bristol Students"
 hero_lead: "The paper came back with 'explain' in the margin, even though your child had learned the Group 2 table. Our A-Level Chemistry tutors for Bristol students work on the trends, the two solubility patterns that run opposite ways, and the reasons behind them."
 
 angle_eyebrow: "TWO TRENDS THAT RUN OPPOSITE WAYS"
@@ -28,7 +28,7 @@ schools:
   - "Fairfield High School"
   - "Merchants' Academy"
 
-steps_heading: "Finding your child a Chemistry tutor in Bristol: 3 steps"
+steps_heading: "Finding your child a Chemistry tutor for Bristol students: 3 steps"
 steps_lead: "Expect profiles within 24 hours. Explaining well is a habit weekly marking builds, so a steady hour beats the odd long session."
 steps:
   - title: "First, a chat with Harry or Joe"

@@ -1,9 +1,9 @@
 ---
-title: "Online Tutoring for Chiswick Families | The Degree Gap"
+title: "Tutoring for Chiswick Families | The Degree Gap"
 description: "Working from home in Chiswick while homework stalls in the next room? We'll match your child with an online tutor who suits them. From £37 an hour, no contract."
 layout: "single"
 location: "Chiswick"
-banner_heading: "Online tutoring for Chiswick families working from home, for the homework you can hear going wrong"
+banner_heading: "GCSE and A-Level Tutors for Chiswick Families"
 banner_description: "You're in the house but on calls till six, and the homework is getting finished without anyone checking how. We match your child with a tutor from anywhere in the UK who takes that hour off your hands."
 content_angle: "home, but not free: plenty of Chiswick parents work from home part of the week, so help feels ten feet away but rarely arrives, homework gets finished with a video or an AI app open, and tests don't match it; a fixed online lesson upstairs, with no drive at five, puts a person back in that hour and hands the explaining back to the child"
 intro_1: "It's twenty past four on a Wednesday. You're at the kitchen table with your laptop, halfway through a call, and from upstairs comes the sigh you know means Chemistry. You mouth 'five minutes'. Then the next call starts. By the time you're free, the homework is done, with a video or an AI app open in another tab, and every answer looks right. Then a test comes home that looks nothing like it. Lots of Chiswick parents work from home some of the week now, and it brings an odd sort of guilt: you're right there, and you still can't help. That isn't neglect. You're working."

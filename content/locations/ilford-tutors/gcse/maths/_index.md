@@ -7,7 +7,7 @@ location: "Ilford"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Ilford Students Losing Marks on the Last Few Questions"
+hero_h1: "GCSE Maths Tutors for Ilford Students"
 hero_lead: "Your child gets through the first half of the paper fine, then the longer problems near the end come back half done or blank. Our GCSE Maths tutors for Ilford students work on those unfamiliar multi-step questions until your child knows how to begin one."
 
 angle_eyebrow: "THE BACK PAGES OF THE PAPER"

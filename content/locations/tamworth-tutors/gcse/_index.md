@@ -1,12 +1,12 @@
 ---
-title: "Tamworth GCSE Tutors | Online One-to-One | The Degree Gap"
+title: "Tamworth GCSE Tutors | One-to-One | The Degree Gap"
 description: "GCSE tutoring in Tamworth for the grades your child's sixth form will ask for. One-to-one lessons online from £37 an hour, with a free call to start."
 layout: "subject"
 location: "Tamworth"
 level: "GCSE"
 
-hero_heading_line1: "Online Tamworth GCSE Tutors for the Grades Sixth Form Will Ask For"
-hero_lead: "The sixth form entry grades can come as a jolt. Most parents first read them around February of Year 11, when one subject can turn out to be a grade short. Tamworth GCSE tutors on our platform help your child get going on it well before then."
+hero_heading_line1: "GCSE Tutors for Tamworth Students"
+hero_lead: "The sixth form entry grades can come as a jolt. Most parents first read them around February of Year 11, when one subject can turn out to be a grade short. GCSE tutors for Tamworth students on our platform help your child get going on it well before then."
 
 grade_from: "4"
 grade_to: "6"
@@ -15,13 +15,13 @@ grade_card: "aim"
 
 first_lesson_eyebrow: "ONE SIXTH FORM IN TOWN"
 first_lesson_heading: "Why Your GCSE Tutor Will Ask About Sixth Form First"
-first_lesson_context: "At Landau Forte Academy Tamworth Sixth Form, each subject has its own entry grade. If your child falls short in the one they care about most, sixth form could mean a daily commute to Lichfield or Birmingham. So the first thing a Tamworth GCSE tutor asks is what your child's hoping to study next."
+first_lesson_context: "At Landau Forte Academy Tamworth Sixth Form, each subject has its own entry grade. If your child falls short in the one they care about most, sixth form could mean a daily commute to Lichfield or Birmingham. So the first thing a GCSE tutor for Tamworth students asks is what your child's hoping to study next."
 first_lesson_quote: "Very good tutoring for my daughter and good communication with parents. UPDATE: My daughter passed both English and Maths GCSE (4 and 5's). …"
 first_lesson_quote_name: "Chris"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "GCSE"
 
-tutor_strip_heading: "Tamworth GCSE tutors chosen for how clearly they explain"
+tutor_strip_heading: "GCSE tutors for Tamworth students chosen for how clearly they explain"
 tutor_strip_body: "Out of every 100 tutors who apply, about 3 make it onto the platform. Schools across Staffordshire use different exam boards, and we'll match tutors to your child's. Browse the profiles, or tell us about your child on a free call and leave the choosing to us."
 
 pathways_heading: "Sixth Form in Tamworth, or Further Afield"

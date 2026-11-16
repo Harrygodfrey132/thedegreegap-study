@@ -1,5 +1,5 @@
 ---
-title: "Leeds Online GCSE Maths Tutors | The Degree Gap"
+title: "Leeds GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Maths grade slipping? Our online GCSE Maths tutors help Leeds families find the gap behind it and rebuild, from a secure 5 to a 6 or 7. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Leeds"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Leeds, from Roundhay to Lawnswood"
+hero_h1: "GCSE Maths Tutors for Leeds Students"
 hero_lead: "When your child's Maths grade starts slipping, it's hard not to think ahead. In Leeds there are no state grammar schools, so sixth form places, and later university, come down to grades. Our GCSE Maths tutors for Leeds students find where the marks are leaking and fix it before the mocks."
 
 angle_eyebrow: "NO STATE GRAMMARS, SO THE GRADE DOES THE WORK"
@@ -41,7 +41,7 @@ faqs:
   - q: "What grade does my child need for A-Level Maths at a Leeds sixth form?"
     a: "Usually at least a 6, and often a 7. Notre Dame Sixth Form College and Elliott Hudson College set their own subject requirements, and Further Maths tends to ask for more. School sixth forms like Roundhay and Allerton Grange publish their own grades too. From a 5 or 6, it often takes 12 to 16 weeks of lessons to close that gap. The tutor tends to start with algebra and the problem-solving questions, and leaves the very hardest ones till later. We'll check the exact target with you on the first call."
   - q: "Is there a way to see where my child's losing marks on a mock?"
-    a: "Yes. Skip the total and go through it question by question. Higher papers get harder as they go, so marks lost mostly in the last third, on the long problem-solving and circle theorem questions, usually point to exam technique. Marks missing from early on tend to point to something older, a gap from a previous year. A Leeds tutor spots that pattern in the first lesson, then starts with whichever one is costing your child more."
+    a: "Yes. Skip the total and go through it question by question. Higher papers get harder as they go, so marks lost mostly in the last third, on the long problem-solving and circle theorem questions, usually point to exam technique. Marks missing from early on tend to point to something older, a gap from a previous year. A tutor for Leeds families spots that pattern in the first lesson, then starts with whichever one is costing your child more."
   - q: "Does my child need more work on the calculator papers or the non-calculator one?"
     a: "Neither can be skipped, because the three papers carry equal weight and the grade comes from all of them. Without a calculator it's about fluent arithmetic and clean algebra. With one, it's about getting long, multi-step problems right. With the Leeds children we work with, the marks most often go at the back of Paper 3, when the questions turn wordy. In the first lesson the tutor compares a paper of each type, finds the weaker one, and starts there."
   - q: "Who are the tutors? Teachers, or younger graduates?"

@@ -7,7 +7,7 @@ location: "Cannock"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Cannock Teenagers Chasing a Better Double Grade"
+hero_h1: "GCSE Science Tutors for Cannock Students"
 hero_lead: "Combined Science gives your child two grades, like 6-6 or 7-6, from six papers that switch between Biology, Chemistry and Physics. Our GCSE Science tutors for Cannock students find which of the three is dragging both grades down and start there."
 
 angle_eyebrow: "ONE COURSE, TWO GRADES"

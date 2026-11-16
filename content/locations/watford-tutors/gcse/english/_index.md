@@ -1,13 +1,13 @@
 ---
 title: "Watford GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Watford GCSE English tutors who find where your child's marks go, from timed writing to the unseen poem comparison. Online, one-to-one, from £37 an hour."
+description: "GCSE English tutors for Watford who find where your child's marks go, from timed writing to the unseen poem comparison. Online, one-to-one, from £37 an hour."
 layout: "level-subject"
 location: "Watford"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors Working With Watford Families"
+hero_h1: "GCSE English Tutors for Watford Students"
 hero_lead: "Weeks of revision, a child who plainly knows the book, and still the English grade hasn't moved. Our GCSE English tutors for Watford students go after what actually shifts it: planning to time, choosing evidence, and the writing tasks that carry half the marks in English Language."
 
 angle_eyebrow: "WHAT A 5 IN ENGLISH IS USUALLY HIDING"

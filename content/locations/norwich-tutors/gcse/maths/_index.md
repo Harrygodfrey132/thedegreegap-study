@@ -1,13 +1,13 @@
 ---
-title: "Norwich GCSE Maths Tutors | Online | The Degree Gap"
+title: "Norwich GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Is your child losing Maths marks hunting for a formula, or to a gap from Year 8? Our Norwich GCSE Maths tutors find which it is. One-to-one online, from £37."
+description: "Is your child losing Maths marks hunting for a formula, or to a gap from Year 8? Our GCSE Maths tutors for Norwich find which it is. Online, from £37."
 layout: "level-subject"
 location: "Norwich"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Norwich and Norfolk Families"
+hero_h1: "GCSE Maths Tutors for Norwich Students"
 hero_lead: "In the exam, some formulae are given to your child and the rest have to be learnt by heart, and not knowing which is which costs time and marks. Our GCSE Maths tutors for Norwich students sort that out early, online and one-to-one."
 
 angle_eyebrow: "WHAT THE PAPER GIVES YOU"

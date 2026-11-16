@@ -1,9 +1,9 @@
 ---
 title: "Royston Private Tutors | GCSE & A-Level | The Degree Gap"
-description: "Royston tutors for GCSE and A-Level, one-to-one and online, for the grades your child needs at a sixth form in Baldock or Cambridge. From £37 an hour."
+description: "Tutors for Royston, for GCSE and A-Level, one-to-one and online, for the grades your child needs at a sixth form in Baldock or Cambridge. From £37 an hour."
 layout: "single"
 location: "Royston"
-banner_heading: "Online Royston tutors who see your child through GCSEs and the move at 16"
+banner_heading: "GCSE and A-Level Tutors for Royston Families"
 banner_description: "In Royston, A-Levels usually mean a new school in another town, so the GCSE years carry a lot. We'll find your child a tutor who knows their exam board, and all the lessons happen online."
 content_angle: "the move at 16: King James Academy, Royston's state secondary, runs a performing arts sixth form rather than A-Levels, and the village colleges over the border stop at 16, so teenagers here who want A-Levels apply to sixth forms in other towns, usually Baldock or Cambridge, and the GCSE years carry that application"
 intro_1: "If you've got a Year 10 or 11 at home in Royston, there's a question sitting under every parents' evening: where will they go after this? If it's A-Levels, the answer is out of town. King James Academy's sixth form teaches performing arts, with Stage Right on Lumen Road, and Bassingbourn and Melbourn Village Colleges stop at 16. So the names you'll keep hearing are Knights Templar, about eight miles away in Baldock, and Hills Road and Long Road, a short train ride away in Cambridge. Each one sets its own GCSE grades. The applications go in during Year 11, with some of the course still to be taught. And somewhere in the middle of all that, there's a Maths mock on Thursday."

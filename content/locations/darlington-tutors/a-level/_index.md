@@ -1,11 +1,11 @@
 ---
-title: "Online A-Level Tutors for Your Child in Darlington | The Degree Gap"
+title: "A-Level Tutors for Your Child in Darlington | The Degree Gap"
 description: "Did your child's first A-Level mock at QE or Carmel come back lower than hoped? We'll match them with an online A-Level tutor on their board. From £37 an hour."
 layout: "subject"
 location: "Darlington"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Darlington Students Whose First Mocks Came Back Lower"
+hero_heading_line1: "A-Level Tutors for Darlington Students"
 hero_heading_line2: ""
 hero_lead: "The first Year 12 mocks come home, and the grades are lower than your child's used to seeing. Our A-Level tutors for Darlington students go through those papers with them and find out where the marks went."
 

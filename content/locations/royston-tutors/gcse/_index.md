@@ -1,11 +1,11 @@
 ---
-title: "Royston GCSE Tuition | Online One-to-One | The Degree Gap"
-description: "Hills Road scores sixth form applications on predicted GCSE grades. Our Royston GCSE tutors help with the subjects worrying you, one-to-one online. From £37."
+title: "Royston GCSE Tuition | One-to-One | The Degree Gap"
+description: "Hills Road scores sixth form applications on predicted GCSE grades. Our GCSE tutors for Royston help with the subjects worrying you, online. From £37."
 layout: "subject"
 location: "Royston"
 level: "GCSE"
 
-hero_heading_line1: "Online Royston GCSE Tutors for the Grades Behind Your Child's Sixth Form Application"
+hero_heading_line1: "GCSE Tutors for Royston Students"
 hero_heading_line2: ""
 hero_lead: "Sixth form applications go in during Year 11, long before results day, and Hills Road in Cambridge scores them on predicted grades. Our GCSE tutors for Royston students work with your child on the subject that's dragging those predictions down, one-to-one and online."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "Omo's son was in Year 10 when he went from a grade 5 to a 6/7 in English, after six months with his tutor."
 
 first_lesson_eyebrow: "TWO YEARS BEFORE THE MOVE"
-first_lesson_heading: "The Paper a Royston GCSE Tutor Asks to See First"
+first_lesson_heading: "The Paper a GCSE Tutor for Royston Students Asks to See First"
 first_lesson_context: "For a Royston Year 11, GCSE grades decide where the next two years happen, whether that's Baldock, Cambridge or somewhere else, and plenty of teenagers feel that long before results day. So a GCSE tutor's first lesson starts with your child's latest marked paper. Together they sort the lost marks into quick fixes and the ones that need proper teaching."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to a 6/7 in GCSE English"
 
-tutor_strip_heading: "Royston GCSE tutors for King James and the village colleges"
+tutor_strip_heading: "GCSE tutors for Royston students, for King James and the village colleges"
 tutor_strip_body: "Whether it's King James, Bassingbourn or Melbourn, we start with your child's exam board in each subject. Harry or Joe have interviewed every tutor you'll see here, and only around 3% of applicants get through. Have a look through them, or we can shortlist for you."
 
 pathways_heading: "Where Royston Teenagers Head for Sixth Form and College"

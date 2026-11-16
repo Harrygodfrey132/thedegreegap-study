@@ -7,7 +7,7 @@ location: "Burton upon Trent"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Burton upon Trent Students Surprised by the Maths"
+hero_h1: "A-Level Biology Tutors for Burton upon Trent Students"
 hero_lead: "Your child picked Biology partly to get away from numbers, and now there's a chi-squared test in the middle of a genetics question. Our A-Level Biology tutors for Burton upon Trent students make the maths routine, then move on to the long answers that link topics."
 
 angle_eyebrow: "THE MATHS INSIDE BIOLOGY"

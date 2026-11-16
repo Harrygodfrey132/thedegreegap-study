@@ -5,7 +5,7 @@ layout: "subject"
 location: "Chiswick"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Chiswick Sixth Formers Whose Marks Swing From Test to Test"
+hero_heading_line1: "A-Level Tutors for Chiswick Students"
 hero_heading_line2: ""
 hero_lead: "An A on one topic test, a D on the next, and your child can't explain the difference any better than you can. Our A-Level tutors for Chiswick students look for the pattern behind the swing and start there."
 

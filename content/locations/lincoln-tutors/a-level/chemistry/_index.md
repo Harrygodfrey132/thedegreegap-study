@@ -7,7 +7,7 @@ location: "Lincoln"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Lincoln Sixth Formers Losing Marks Arrow by Arrow"
+hero_h1: "A-Level Chemistry Tutors for Lincoln Students"
 hero_lead: "Curly arrows pointing the wrong way, or a calculation that falls apart by the third line. Our A-Level Chemistry tutors for Lincoln students work through each one slowly, on a shared whiteboard, until your child can do it alone."
 
 angle_eyebrow: "WHERE THE ARROWS GO WRONG"

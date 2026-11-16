@@ -1,13 +1,13 @@
 ---
-title: "London A-Level Biology Tutors | Online | The Degree Gap"
+title: "London A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Is it the calculations or the written answers costing your child marks? Our London A-Level Biology tutors find out in the first lesson. Online, from £37."
+description: "Is it the calculations or the written answers costing your child marks? Our A-Level Biology tutors for London find out in the first lesson. Online, from £37."
 layout: "level-subject"
 location: "London"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Every London Borough"
+hero_h1: "A-Level Biology Tutors for London Students"
 hero_lead: "One cell cycle question in the mock gets full marks and the next gets almost none. That's common, because A-Level asks for a calculation one minute and an explanation the next. Our A-Level Biology tutors for London students find which is costing your child, then work on it."
 
 angle_eyebrow: "A CALCULATION, THEN AN EXPLANATION"

@@ -1,5 +1,5 @@
 ---
-title: "Online GCSE Science Tutors for Clacton-on-Sea Teenagers | The Degree Gap"
+title: "GCSE Science Tutors for Clacton-on-Sea Teenagers | The Degree Gap"
 nav_title: "Science"
 description: "Six-mark questions and practicals costing your child marks? We'll match your Clacton-on-Sea teenager with an online GCSE Science tutor. From £37, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Clacton-on-Sea"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Clacton-on-Sea Students Losing Marks on the Long Answers"
+hero_h1: "GCSE Science Tutors for Clacton-on-Sea Students"
 hero_lead: "Your child can label a cell and recite the equations, then a six-mark question about a practical comes back with two. Our GCSE Science tutors for Clacton-on-Sea students teach them to plan those answers and handle the maths hidden inside the questions."
 
 angle_eyebrow: "SIX MARKS ASKED, TWO ON THE PAGE"

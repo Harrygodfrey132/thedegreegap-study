@@ -1,5 +1,5 @@
 ---
-title: "Leeds A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Leeds A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Online A-Level Chemistry tutors for Leeds families: one-to-one help with equilibrium, kinetics, Born-Haber cycles and titration maths. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Leeds"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutoring for Leeds Families"
+hero_h1: "A-Level Chemistry Tutors for Leeds Students"
 hero_lead: "Your child may tell you organic chemistry is the hard part, then the mock comes back and tells a different story. Our A-Level Chemistry tutors for Leeds students work on the physical chemistry where the grade is usually decided: equilibrium, energetics and the calculations it's tempting to skip."
 
 angle_eyebrow: "THE SIDE OF CHEMISTRY THAT GETS SKIPPED"

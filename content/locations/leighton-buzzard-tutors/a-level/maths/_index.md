@@ -7,7 +7,7 @@ location: "Leighton Buzzard"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Leighton Buzzard Sixth Formers Whose Algebra Can't Keep Up"
+hero_h1: "A-Level Maths Tutors for Leighton Buzzard Students"
 hero_lead: "A good GCSE grade felt secure, and now every Year 12 Maths lesson assumes algebra your child can only do slowly and carefully. Our A-Level Maths tutors for Leighton Buzzard students build up that speed first, then put it to work on calculus, proof and mechanics."
 
 angle_eyebrow: "WHEN GOOD GCSE ALGEBRA ISN'T FAST ENOUGH"

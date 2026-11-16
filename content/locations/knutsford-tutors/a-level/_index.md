@@ -5,7 +5,7 @@ layout: "subject"
 location: "Knutsford"
 level: "A-Level"
 
-hero_heading_line1: "Online Knutsford A-Level Tutors Who Help Year 12s Find Their Feet Before Predictions"
+hero_heading_line1: "A-Level Tutors for Knutsford Students"
 hero_heading_line2: ""
 hero_lead: "Good GCSEs in the summer, and now your child's first A-Level test has come back two grades lower. It happens to lots of families. Our A-Level tutors for Knutsford students work one-to-one online on that step up, before it can turn into a predicted grade."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "In one parent's words, their child went from Cs to As, and had help picking universities and applying as well."
 
 first_lesson_eyebrow: "YEAR 12, FIRST TERM"
-first_lesson_heading: "Why a Knutsford A-Level Tutor Starts With the Test That Went Wrong"
+first_lesson_heading: "Why an A-Level Tutor for Knutsford Students Starts With the Test That Went Wrong"
 first_lesson_context: "By October half term, your child has probably had one marked test that looks nothing like their GCSE results. That's normal, because A-Level questions stop saying which method to use, and a tutor can usually spot what's going wrong within a lesson. Sort it now and it doesn't have to follow them into the Year 12 exams that feed their predicted grades."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Cs to As at A-Level"
 
-tutor_strip_heading: "Knutsford A-Level tutors matched to the paper, not the postcode"
+tutor_strip_heading: "A-Level tutors for Knutsford students matched to the paper, not the postcode"
 tutor_strip_body: "Your child might be staying on at Knutsford Academy or getting the bus to Sir John Deane's in Northwich. Either way, the exam board shapes almost every A-Level question they'll see, so that's what we match on first. Ask us for profiles and see who fits."
 
 pathways_heading: "After A-Levels: Where Knutsford Families Look Next"

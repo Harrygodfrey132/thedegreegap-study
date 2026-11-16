@@ -1,11 +1,11 @@
 ---
 title: "Sutton A-Level Tuition | From £37/hr | The Degree Gap"
-description: "Flew through GCSEs, and now Year 12 has come as a shock? Sutton A-Level tutors for your child's step up from GCSE. Online, one-to-one, from £37 an hour."
+description: "Flew through GCSEs, and now Year 12 has come as a shock? A-Level tutors for Sutton, for your child's step up from GCSE. Online, one-to-one, from £37 an hour."
 layout: "subject"
 location: "Sutton"
 level: "A-Level"
 
-hero_heading_line1: "A-Level Tutors for Sutton Students Who Sailed Through GCSEs, Then Stalled"
+hero_heading_line1: "A-Level Tutors for Sutton Students"
 hero_heading_line2: ""
 hero_lead: "Your child did well at GCSE without much revision, and now the Year 12 marks are coming back lower than anyone expected. That's common, and it's rarely laziness. Our A-Level tutors for Sutton students work one-to-one online, starting with the Year 12 topics Year 13 builds on."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "Cs to As, according to one parent, with help choosing universities along the way."
 
 first_lesson_eyebrow: "WHEN THEY'VE NEVER HAD TO REVISE BEFORE"
-first_lesson_heading: "The Habit a Sutton A-Level Tutor Builds First"
+first_lesson_heading: "The Habit an A-Level Tutor for Sutton Students Builds First"
 first_lesson_context: "Plenty of children in Sutton reach Year 12 without ever having revised properly, because until now they didn't need to. Then a paper asks your child to pick a method instead of following one, the mark drops, and it looks as if they've stopped trying. Usually it's technique, and technique can be learnt, which is the good news in a hard first term."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "C grades to A grades at A-Level"
 
-tutor_strip_heading: "Sutton A-Level tutors who know the course your child's on"
+tutor_strip_heading: "A-Level tutors for Sutton students who know the course your child's on"
 tutor_strip_body: "Sixth forms across Sutton, Carshalton and Wallington don't all use the same exam boards, so we'll check your child's before suggesting anyone. Graduate or undergraduate, every tutor knows which Year 12 topics come back in Year 13. Have a look at the profiles, or we'll match your child."
 
 pathways_heading: "Where Sutton A-Levels Lead After Results Day"

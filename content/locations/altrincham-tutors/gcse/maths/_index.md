@@ -1,13 +1,13 @@
 ---
 title: "Altrincham GCSE Maths Tuition | From £37/hr | The Degree Gap"
 nav_title: "Maths"
-description: "Altrincham GCSE Maths tutors for when your child's fine until the back of the higher paper: proof, circle theorems, iteration. Online, one-to-one, from £37."
+description: "GCSE Maths tutors for Altrincham, for when your child's fine until the back of the higher paper: proof, circle theorems, iteration. Online, from £37."
 layout: "level-subject"
 location: "Altrincham"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Altrincham Families, From Algebraic Proof to Circle Theorems"
+hero_h1: "GCSE Maths Tutors for Altrincham Students"
 hero_lead: "If your child flies through the first half of a Maths paper and then the marks dry up, you'll have seen it on the mock: a blank proof, a circle theorem guessed at. Our GCSE Maths tutors for Altrincham students start right there, one-to-one and online."
 
 angle_eyebrow: "THE QUESTIONS THAT START WITH 'PROVE'"
@@ -29,7 +29,7 @@ schools:
   - "Blessed Thomas Holford Catholic College"
   - "Wellington School"
 
-steps_heading: "Getting started with a Maths tutor in Altrincham"
+steps_heading: "Getting started with a Maths tutor for Altrincham students"
 steps_lead: "Tutor profiles usually land within a day of the call. It helps to have your child's latest marked paper handy, so we can see where the marks stopped."
 steps:
   - title: "A free call about your child"

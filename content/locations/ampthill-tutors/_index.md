@@ -1,9 +1,9 @@
 ---
-title: "Online Tutors for Your Child in Ampthill | The Degree Gap"
+title: "Tutors for Your Child in Ampthill | The Degree Gap"
 description: "Has the move up to upper school left your child behind in Ampthill? We'll match them with an online tutor who suits how they learn. From £37 an hour."
 layout: "single"
 location: "Ampthill"
-banner_heading: "Online tutoring for Ampthill families, for GCSE courses that start in the summer of Year 9"
+banner_heading: "GCSE and A-Level Tutors for Ampthill Families"
 banner_description: "A tutor who suits your child gets them ready for that early start, and finds anything that didn't make the trip from middle school."
 content_angle: "the early start: GCSE courses at Redborne begin in June of Year 9, nine months after children arrive from middle school"
 intro_1: "Most parents expect GCSEs to start in Year 10. In Ampthill they start sooner. If your child is heading for Redborne, they arrive in the September of Year 9, fresh from Alameda or Woodland, pick four options from January, and begin the full GCSE timetable that June. Nine months, start to finish. Some children take it in their stride. Others are still getting used to a school of more than 1,600 when the first GCSE homework lands, and you're left wondering whether the quiet at teatime is tiredness or something slipping."

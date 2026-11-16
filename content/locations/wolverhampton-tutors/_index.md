@@ -1,14 +1,14 @@
 ---
 title: "Wolverhampton Tutoring | GCSE & A-Level Tutors"
-description: "GCSEs, A-Levels and UCAS all new to your family? Our Wolverhampton tutors teach your child one-to-one online, and we'll help with the big choices. From £37."
+description: "GCSEs, A-Levels and UCAS all new to your family? Our tutors for Wolverhampton teach your child one-to-one online, and we'll help with the big choices. From £37."
 layout: single
 location: Wolverhampton
-banner_heading: "From GCSE and A-Level to University, Online Wolverhampton Tutors in Your Child's Corner"
+banner_heading: "GCSE and A-Level Tutors for Wolverhampton Families"
 banner_description: "You want every door open for your child, even if A-Levels and university applications are new ground for your family. A tutor helps with the grades. We'll help with the rest."
 content_angle: "first in the family: weekly tutoring plus plain guidance on A-Level choices, sixth form and UCAS, for parents who haven't been through it themselves"
 intro_1: "Some of the Wolverhampton parents we speak to didn't go to university themselves, and they're determined their child will have the choice. Others did, years ago, and barely recognise today's GCSE grades or the UCAS process. Either way, it's hard to help with homework you can't check, or to know what to ask at parents' evening. That's not a failing. The system has changed a lot, and nobody hands parents a guide to it."
 intro_2: "So we help with both halves. Each week, a tutor works with your child on whichever subjects need it most, whether they're aiming for a place at City of Wolverhampton College or a medicine application a few years on. Around that, Harry and Joe, who started The Degree Gap, can talk you through bigger decisions, like which A-Levels keep doors open. It starts with a free call. Within 24 hours we'll send you two or three tutors to look at, and there's a chance to meet your top choice before anything's booked."
-about_heading: Experienced GCSE and A-Level Tutors in Wolverhampton
+about_heading: Experienced GCSE and A-Level Tutors for Wolverhampton Students
 about_image: /images/graduation-ceremony-caps.jpg
 schools_intro: "One child wants a strong UCAS application. Another just wants to stop dreading Maths. Both matter. We see both in families right across the city, with children at Wolverhampton Grammar School, Our Lady & St Chad Catholic Academy, Highfields School, Heath Park Academy, Smestow Academy and St Edmund's Catholic Academy. Our 'Dragon's Den' revision workshops run in schools too, and Harry and Joe often lead them themselves."
 schools:

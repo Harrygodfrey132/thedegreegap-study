@@ -7,7 +7,7 @@ location: "Chiswick"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Chiswick Students Whose Six-Mark Answers Lose Their Way"
+hero_h1: "GCSE Science Tutors for Chiswick Students"
 hero_lead: "Your child knows plenty about the topic and writes all of it down, in whatever order it arrives, then gets a third of the marks. Our GCSE Science tutors for Chiswick students teach a quick way to plan those long answers so the marks follow the logic."
 
 angle_eyebrow: "MARKED IN LEVELS, NOT TICKS"

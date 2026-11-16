@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors for Your Child in Lincoln | The Degree Gap"
+title: "GCSE Tutors for Your Child in Lincoln | The Degree Gap"
 description: "Is Year 10 slipping by while your child insists it's fine? We'll match them with an online GCSE tutor for Lincoln students. Free call first, from £37 an hour."
 layout: "subject"
 location: "Lincoln"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Lincoln Teenagers Who Say Everything Is Fine"
+hero_heading_line1: "GCSE Tutors for Lincoln Students"
 hero_heading_line2: ""
 hero_lead: "'Fine' tends to be the answer right up until a mock paper comes home. Our GCSE tutors for Lincoln students look at what's really going on in Maths, English or Science, then work on it one-to-one and online."
 

@@ -7,7 +7,7 @@ location: "Bracknell"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Bracknell Students Who Think in Numbers, Not Paragraphs"
+hero_h1: "GCSE English Tutors for Bracknell Students"
 hero_lead: "Some children can do a page of algebra without blinking, then stare at an unseen poem for twenty minutes. Our GCSE English tutors for Bracknell students give them a method to follow, so analysis stops feeling like guesswork."
 
 angle_eyebrow: "FOR THE CHILD WHO'D RATHER DO SUMS"

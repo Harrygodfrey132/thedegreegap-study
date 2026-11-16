@@ -1,13 +1,13 @@
 ---
 title: "GCSE Maths Tutors in Godalming | The Degree Gap"
 nav_title: "Maths"
-description: "A-Level Maths at Godalming College currently asks for at least a 6 at GCSE. Our Godalming GCSE Maths tutors work on the topics costing your child marks, online."
+description: "A-Level Maths at Godalming College currently asks for at least a 6 at GCSE. Our GCSE Maths tutors work on the topics costing your child marks, online."
 layout: "level-subject"
 location: "Godalming"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Godalming, Farncombe and Milford"
+hero_h1: "GCSE Maths Tutors for Godalming Students"
 hero_lead: "Godalming College currently wants at least a 6 for A-Level Maths, and your child's last mock said 5. Our GCSE Maths tutors for Godalming students go through that paper with your child, one-to-one and online, to find which topics the missing marks belong to."
 
 card_eyebrow: "FREE CONSULTATION CALL"

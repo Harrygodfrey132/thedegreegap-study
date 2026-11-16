@@ -7,7 +7,7 @@ location: "Marlborough"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Marlborough Students Lost in Long Context Questions"
+hero_h1: "A-Level Chemistry Tutors for Marlborough Students"
 hero_lead: "Your child can balance the equation, but the exam question opens with half a page about ozone or a new medicine and they can't see what's being asked. Our A-Level Chemistry tutors for Marlborough students practise finding the chemistry inside the story."
 
 angle_eyebrow: "FROM THE OZONE STORY TO COLOUR BY DESIGN"

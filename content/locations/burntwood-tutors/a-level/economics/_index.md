@@ -7,7 +7,7 @@ location: "Burntwood"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Burntwood Teenagers Starting the Subject From Scratch"
+hero_h1: "A-Level Economics Tutors for Burntwood Students"
 hero_lead: "Most teenagers start A-Level Economics never having studied it, and for Burntwood students it often comes with a new sixth form as well. Our A-Level Economics tutors for Burntwood students make the diagrams and the essay structure feel familiar early, before the first assessments."
 
 angle_eyebrow: "A NEW SUBJECT, OFTEN A NEW SCHOOL"

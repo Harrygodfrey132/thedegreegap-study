@@ -7,7 +7,7 @@ location: "Brentwood"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Brentwood Students Losing Marks on the Maths Inside Science"
+hero_h1: "GCSE Science Tutors for Brentwood Students"
 hero_lead: "Your child might know the science and still drop marks on the sums, rearranging an equation in Physics or a moles calculation in Chemistry. Our GCSE Science tutors for Brentwood students practise the maths inside each science until it comes without thinking."
 
 angle_eyebrow: "WHERE SCIENCE TURNS INTO MATHS"

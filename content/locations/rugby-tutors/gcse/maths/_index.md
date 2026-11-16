@@ -7,7 +7,7 @@ location: "Rugby"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Rugby Teenagers Whose A-Level Choices Hang on Maths"
+hero_h1: "GCSE Maths Tutors for Rugby Students"
 hero_lead: "On Rugby sixth form entry lists, the GCSE Maths grade can turn up under Chemistry, Physics and Economics, not just under Maths. Our GCSE Maths tutors for Rugby students find where your child's marks are leaking, from algebra slips to the wordy final questions, and fix those first."
 
 angle_eyebrow: "THE GRADE UNDER OTHER A-LEVELS"

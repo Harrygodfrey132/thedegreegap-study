@@ -1,11 +1,11 @@
 ---
 title: "London A-Level Tutors | One-to-One Support | The Degree Gap"
-description: "Mock back and the offer looking a long way off? London A-Level tutors who find the marks your child can still win back. One-to-one, online, from £37 an hour."
+description: "Mock back and the offer looking a long way off? A-Level tutors for London who find the marks your child can still win back. One-to-one, online, from £37."
 layout: "subject"
 location: "London"
 level: "A-Level"
 
-hero_heading_line1: "Online London A-Level Tutors for When the Jump From GCSE Hits Hard"
+hero_heading_line1: "A-Level Tutors for London Students"
 hero_heading_line2: ""
 hero_lead: "Maybe your child coasted through GCSEs and hit a wall in the first term of Year 12. Or they're in Year 13, with a predicted grade sitting just under the offer. Our A-Level tutors for London students help with both, and the work looks quite different each time."
 
@@ -14,14 +14,14 @@ grade_to: "C"
 grade_stat: "One parent's review: their son left it late and still turned E and U grades into three Cs."
 
 first_lesson_eyebrow: "FROM E AND U TO THREE Cs"
-first_lesson_heading: "What a London A-Level Tutor Does When Time Feels Short"
+first_lesson_heading: "What an A-Level Tutor for London Students Does When Time Feels Short"
 first_lesson_context: "The call we get most often from London parents comes in February of Year 13. The mock's back, and the offer suddenly looks a long way off. There's usually more time than it feels like, and the tutor spends the first lesson working out which of your child's lost marks can still be won back."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Grade E to Grade C across three A-Levels"
 
-tutor_strip_heading: "London A-Level tutors who read answers the way examiners do"
+tutor_strip_heading: "A-Level tutors for London students who read answers the way examiners do"
 tutor_strip_body: "Every tutor has at least two years' tutoring experience, and some are qualified examiners. At A-Level, what lifts a decent answer into the top band is usually exam technique, and that's where they'll look first. Browse the profiles, or tell us about your child and we'll match them."
 
 pathways_heading: "After London A-Levels: Where Your Child Could Go Next"

@@ -1,14 +1,14 @@
 ---
 title: "Liverpool Tutoring | GCSE & A-Level Tutors"
-description: "Has a mock grade put your child's sixth form or university plans in doubt? Our Liverpool tutors find where the marks are going. Online, from £37, no contract."
+description: "Has a mock grade put your child's sixth form or university plans in doubt? Our tutors for Liverpool find where the marks are going. Online, from £37."
 layout: single
 location: Liverpool
-banner_heading: "Need an online Liverpool tutor who actually closes the gap?"
+banner_heading: "GCSE and A-Level Tutors for Liverpool Families"
 banner_description: "If your child's grades aren't matching the effort, our tutors for Liverpool families find the point where things stopped making sense and start there. Not from page one of a textbook."
 content_angle: "aspiration: your child's plans and their current grades don't line up yet"
 intro_1: "Your child has a plan. Maybe it's the sixth form at St Edward's, Liverpool College or Cardinal Heenan, maybe a university course, maybe a job they've already set their heart on. Then a mock comes home and the grade on it doesn't fit the plan at all. That gap, between where your child wants to go and what their results say right now, is why most Liverpool families ring us. It's more common than you'd think. GCSE results across the city sit below the national average. The sixth form entry grades don't drop to meet them, though."
 intro_2: "So the first thing a tutor does is look backwards. They'll go through a recent test or piece of homework with your child and work out where the marks are really going. For some children it's a gap from a year or more ago that nobody's had time to go back to. For others the knowledge is there, but it falls apart against the clock. The plan comes from whichever it is, not from a set programme. Most families tell us something shifts within the first few lessons. Not always the grade, and not straight away. But the subject stops feeling like a brick wall."
-about_heading: Experienced GCSE and A-Level Tutors in Liverpool
+about_heading: Experienced GCSE and A-Level Tutors for Liverpool Students
 about_image: /images/handwriting-study-notes-with-highlighters.jpg
 schools_intro: "Some families want weekly one-to-one lessons to close one stubborn gap. Others just want a short run of revision sessions before the mocks. Either's fine, and we hear from both at schools right across the city: Calderstones, The Alsop High School, Liverpool Blue Coat, Archbishop Beck Catholic College, St Edward's College, Gateacre and plenty more. We also run workshops on exam technique, revision planning and essay structure, and we work directly with more than 15 UK secondary schools."
 schools:
@@ -58,11 +58,11 @@ faq_1_q: "My child's miles behind. Is it too late for a tutor?"
 faq_1_a: "No, it isn't. Plenty of the Liverpool families we work with are dealing with gaps that go back a year or more. The tutor starts by finding where things first went wrong, rather than picking up wherever the class is now. Then they build from that point, one step at a time."
 faq_2_q: "How soon could lessons start?"
 faq_2_a: "Usually within a few days. Once we know the subject, the year group and what's worrying you, things move quickly. There's no waiting list."
-faq_3_q: "Which subjects can your Liverpool tutors help with?"
+faq_3_q: "Which subjects can your tutors for Liverpool families help with?"
 faq_3_a: "Pretty much all of them at GCSE and A-Level: Maths, English, the Sciences, History, Geography, Economics, Psychology, French and more. If the one you need isn't listed, just ask. We'll tell you straight whether we can help."
 faq_4_q: "It's all online. Will my child really concentrate on a screen?"
 faq_4_a: "Most do, and plenty focus better one-to-one on a screen than in a busy classroom. Being online also gives you a far bigger pool of tutors to choose from. And lessons are much easier to keep going week after week when nobody has to travel."
-why_heading: "What a Liverpool tutor finds in the first lesson"
+why_heading: "What a tutor for Liverpool families finds in the first lesson"
 why_para_1: "Most of the children we see aren't failing. They're fine in lessons and they keep up with homework, and then the exam comes and the marks just don't appear. Sit with them one-to-one for an hour and the reason usually shows itself. Often it's something from Year 9 or 10 that slipped past, because the class had to keep moving and your child looked fine. Sometimes it isn't the content at all. It's planning an answer against the clock, or knowing what to do with a question they don't recognise straight away. Those take one-to-one practice, and a busy class rarely has the time."
 why_para_2: "That's why the tutor doesn't re-teach what school has already covered. They go straight for the thing that isn't working. If your child is after a sixth form place, that might mean sharpening exam technique in two or three subjects at once. If they've had a rough Year 10 and lost their nerve, it means showing them how much they already know before anything new goes on top. You'll probably hear the change before you see it in a grade. Less \"I can't do this\". More actual chat about the subject over tea."
 accordion_quality: "Roughly 3% of the people who apply to tutor with us are taken on, and Joe or Harry has interviewed every one. A good degree only gets someone to that conversation. What we're really checking is whether they can explain something clearly when your child is stuck and the clock's ticking."

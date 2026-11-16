@@ -7,7 +7,7 @@ location: "Clapham"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutoring for Clapham Students Facing the Practical Questions on Paper"
+hero_h1: "GCSE Science Tutors for Clapham Students"
 hero_lead: "Your child did the practicals in a lab months ago, and now the exam wants one explained from memory. Our GCSE Science tutors for Clapham students work on those questions and the six-mark answers, for Combined or Triple."
 
 angle_eyebrow: "THE LAB WORK THAT COMES BACK IN JUNE"

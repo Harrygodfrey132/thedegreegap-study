@@ -1,23 +1,23 @@
 ---
 title: "Baldock GCSE Tutors | GCSE Tuition from £37/hr"
-description: "Baldock GCSE tutors for when your child's working hard but the mocks keep coming back lower. One-to-one lessons online, matched to the exam board, from £37."
+description: "GCSE tutors for Baldock, for when your child's working hard but the mocks keep coming back lower. Lessons online, matched to the exam board, from £37."
 layout: subject
 location: Baldock
 level: GCSE
-hero_heading_line1: "Online Baldock GCSE Tutors for When the Predicted Grade Doesn't Match the Effort"
+hero_heading_line1: "GCSE Tutors for Baldock Students"
 hero_heading_line2: ""
 hero_lead: "Every report says 'working hard', and then a mock comes back lower than anyone expected. Our GCSE tutors for Baldock students find the Year 8 or 9 topic that's quietly holding things up, and rebuild it before the mocks that shape the predicted grade."
 grade_from: "5"
 grade_to: "6/7"
 grade_stat: "Six months of one-to-one English lessons took Omo's son from a grade 5 to a 6/7."
 first_lesson_eyebrow: "FROM A 5 TO A 6/7 IN ENGLISH"
-first_lesson_heading: "What a Baldock GCSE Tutor Looks for in a Marked Mock"
+first_lesson_heading: "What a GCSE Tutor for Baldock Students Looks for in a Marked Mock"
 first_lesson_context: "The Baldock Year 11s who come to us are usually doing the work, and school's going fine. The marks still stall on the longer questions, whether your child's chasing a 5 or an 8. So the tutor pins down where those marks go and rebuilds from there, before the mocks feed into the predicted grade."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7. I honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset. …"
 first_lesson_quote_name: Omo
 first_lesson_quote_role: Parent of GCSE Student
 first_lesson_quote_grade: GCSE English
-tutor_strip_heading: "Baldock GCSE tutors who know what Knights Templar and Hitchin teach"
+tutor_strip_heading: "GCSE tutors for Baldock students who know what Knights Templar and Hitchin teach"
 tutor_strip_body: "Knights Templar and the Hitchin schools can be on different boards for the same subject, so we'll ask which one your child sits before we suggest a name. Every tutor's been interviewed by Harry or Joe. Have a browse, or let us suggest two or three."
 pathways_heading: "What Comes After GCSEs for Baldock Teenagers"
 pathways_lead: "The three routes Baldock families ask us about most once results day's out of the way."

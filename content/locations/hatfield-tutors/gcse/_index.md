@@ -1,11 +1,11 @@
 ---
-title: "Hatfield GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "Hatfield GCSE tutors for the child who's working hard and still stuck on the same grade. One-to-one lessons online, matched on exam board, from £37 an hour."
+title: "Hatfield GCSE Tutors | One-to-One | The Degree Gap"
+description: "GCSE tutors for Hatfield, for the child who's working hard and still stuck on the same grade. One-to-one lessons online, matched on exam board, from £37."
 layout: "subject"
 location: "Hatfield"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors in Hatfield: Plenty of Effort, but the Grade Won't Budge"
+hero_heading_line1: "GCSE Tutors for Hatfield Students"
 hero_heading_line2: ""
 hero_lead: "Your child's at the desk most evenings, and two reports running have shown the same grade. It's the conversation we have most often with parents here. Our GCSE tutors for Hatfield students start with a recent marked paper, which shows where the marks are going."
 
@@ -14,14 +14,14 @@ grade_to: "B"
 grade_stat: "Keira's words, not ours: an E that became a B at GCSE. The full quote's a little further down this page."
 
 first_lesson_eyebrow: "EFFORT IN, SAME GRADE OUT"
-first_lesson_heading: "The Marked Paper a Hatfield GCSE Tutor Reads First"
-first_lesson_context: "A school report sums up a whole term in a grade and a sentence or two. A marked paper shows which questions cost the marks, and a question left blank tells a tutor something different from one answered wrongly. So a Hatfield GCSE tutor reads one before planning a single lesson."
+first_lesson_heading: "The Marked Paper a GCSE Tutor for Hatfield Students Reads First"
+first_lesson_context: "A school report sums up a whole term in a grade and a sentence or two. A marked paper shows which questions cost the marks, and a question left blank tells a tutor something different from one answered wrongly. So a GCSE tutor for Hatfield students reads one before planning a single lesson."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "An E to a B at GCSE"
 
-tutor_strip_heading: "Hatfield GCSE tutors, chosen once we know your child's board"
+tutor_strip_heading: "GCSE tutors for Hatfield students, chosen once we know your child's board"
 tutor_strip_body: "We'll ask which exam board your child's on, since Onslow St Audrey's, Bishop's Hatfield Girls', Ridgeway Academy and Monk's Walk don't all use the same one. Harry and Joe interview every tutor, and only about 3% get through. Browse below, or we can choose for you."
 
 pathways_heading: "What's Next for Hatfield Year 11s"

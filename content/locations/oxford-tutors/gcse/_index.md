@@ -1,11 +1,11 @@
 ---
 title: "Oxford GCSE Tutors | Built Around Your Child | The Degree Gap"
-description: "No grammars in Oxford, so GCSE grades decide a lot at 16. Our Oxford GCSE tutors find what's costing your child marks and rebuild it before mocks, from £37."
+description: "No grammars in Oxford, so GCSE grades decide a lot at 16. Our online GCSE tutors find what's costing Oxford students marks and rebuild it before mocks."
 layout: "subject"
 location: "Oxford"
 level: "GCSE"
 
-hero_heading_line1: "Online Oxford GCSE Tutors For the Year 11 Who's Working Hard but Stuck"
+hero_heading_line1: "GCSE Tutors for Oxford Students"
 hero_heading_line2: ""
 hero_lead: "You ask how it's going and get a shrug, and the mock paper in their bag says more than they will. Our GCSE tutors for Oxford students sit down one-to-one with your child, work out which topics slipped by while the class moved on, and start there."
 
@@ -14,14 +14,14 @@ grade_to: "B"
 grade_stat: "In Keira's own words, tutoring took her grades from an E to a B."
 
 first_lesson_eyebrow: "INSIDE AN OXFORD FIRST SESSION"
-first_lesson_heading: "How an Oxford GCSE Tutor Finds the Real Problem"
+first_lesson_heading: "How a GCSE Tutor for Oxford Students Finds the Real Problem"
 first_lesson_context: "Something we hear a lot from Oxford parents: fine in class, fine on the homework, then blank on the mock paper. So a GCSE tutor starts with that paper, question by question, to see whether the marks went on the content or on the nerves."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B in GCSE"
 
-tutor_strip_heading: "Oxford GCSE tutors with the move to sixth form in mind"
+tutor_strip_heading: "GCSE tutors for Oxford students with the move to sixth form in mind"
 tutor_strip_body: "Oxford has no grammar schools, so GCSE grades count for a lot when sixth-form places are offered. Tutors on our platform know the courses taught across the city, from Cherwell to Cheney. Have a look at the profiles below, or we can suggest a few."
 
 pathways_heading: "Where Oxford Teenagers Go After GCSEs"

@@ -7,7 +7,7 @@ location: "Lincoln"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Lincoln Students Stuck on the Six-Mark Answers"
+hero_h1: "GCSE Science Tutors for Lincoln Students"
 hero_lead: "Your child knows the science, then a six-mark question comes back with two marks on it. Our GCSE Science tutors for Lincoln students teach how those long answers are built, in Biology, Chemistry and Physics, Combined or Triple."
 
 angle_eyebrow: "THE LONG ANSWERS IN SCIENCE"

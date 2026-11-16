@@ -1,11 +1,11 @@
 ---
-title: "Online A-Level Tutors in Farnham | The Degree Gap"
-description: "Year 12 at a new college can start with a first test that comes back low. Our Farnham A-Level tutors go through it with your child, one-to-one online. From £37."
+title: "A-Level Tutors in Farnham | The Degree Gap"
+description: "Year 12 at a new college can start with a first test that comes back low. Our A-Level tutors for Farnham go through it with your child, online. From £37."
 layout: "subject"
 location: "Farnham"
 level: "A-Level"
 
-hero_heading_line1: "Online Farnham A-Level Tutors for Your Child's First Year at College"
+hero_heading_line1: "A-Level Tutors for Farnham Students"
 hero_heading_line2: ""
 hero_lead: "Plenty of Farnham teenagers get good GCSEs and then a nasty surprise from their first test at college. Our A-Level tutors for Farnham students go through that test with your child, one-to-one and online, and start where the marks went."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "Alexander's child went from Cs to As, with help on university choices and the application as well."
 
 first_lesson_eyebrow: "WHEN THE FIRST TEST COMES BACK"
-first_lesson_heading: "How a Farnham A-Level Tutor Uses the First Marked Test"
+first_lesson_heading: "How an A-Level Tutor for Farnham Students Uses the First Marked Test"
 first_lesson_context: "Farnham College, Farnborough, Alton or Godalming: they all move faster than Year 11, and your child has free periods to manage alone for the first time. If the first marked test comes back low, that's what the A-Level tutor works through first, answer by answer. The aim of the hour is to work out whether it's the new content that's slipping or the way your child sets out answers."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "From Cs to As at A-Level"
 
-tutor_strip_heading: "Farnham A-Level tutors who know the course your child picked"
+tutor_strip_heading: "A-Level tutors for Farnham students who know the course your child picked"
 tutor_strip_body: "We match A-Level tutors course by course, so the one your child meets knows their board as well as the subject. Every tutor has at least two years of tutoring behind them and has been interviewed by Harry or Joe."
 
 pathways_heading: "What Comes After A-Levels for Farnham Teenagers"

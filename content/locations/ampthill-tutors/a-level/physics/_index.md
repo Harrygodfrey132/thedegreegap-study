@@ -7,7 +7,7 @@ location: "Ampthill"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Ampthill Students Who Can't See Where a Problem Starts"
+hero_h1: "A-Level Physics Tutors for Ampthill Students"
 hero_lead: "Your child follows the Physics in class, then meets a question about a charged particle in a field and can't find the first step. Our A-Level Physics tutors for Ampthill students teach them how to break that kind of problem open."
 
 angle_eyebrow: "FINDING THE FIRST LINE"

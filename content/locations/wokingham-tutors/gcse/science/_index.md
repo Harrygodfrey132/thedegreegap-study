@@ -7,7 +7,7 @@ location: "Wokingham"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Wokingham Students Losing Marks on the Practical Questions"
+hero_h1: "GCSE Science Tutors for Wokingham Students"
 hero_lead: "Your child did the experiment back in Year 10, and now the exam wants to know how they'd make the results more accurate. Our GCSE Science tutors for Wokingham students go back over each practical the board can ask about, along with the questions that come with it."
 
 angle_eyebrow: "THE EXPERIMENT FROM LAST YEAR"

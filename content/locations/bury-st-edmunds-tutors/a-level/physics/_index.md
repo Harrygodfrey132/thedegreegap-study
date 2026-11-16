@@ -7,7 +7,7 @@ location: "Bury St Edmunds"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Bury St Edmunds Students Stuck on Fields and Circular Motion"
+hero_h1: "A-Level Physics Tutors for Bury St Edmunds Students"
 hero_lead: "Your child follows the ideas in lessons, then a question on fields or circular motion turns into four lines of algebra and falls apart. Our A-Level Physics tutors for Bury St Edmunds students work through those steps until the method holds up under time."
 
 angle_eyebrow: "FOUR LINES OF ALGEBRA"

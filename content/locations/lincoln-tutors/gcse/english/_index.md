@@ -7,7 +7,7 @@ location: "Lincoln"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Lincoln Students Who Spot Techniques but Stall on Effects"
+hero_h1: "GCSE English Tutors for Lincoln Students"
 hero_lead: "Your child can find a metaphor in seconds, then gets stuck on what it actually does. Our GCSE English tutors for Lincoln students work on that next sentence, the one examiners reward, in Language and Literature alike."
 
 angle_eyebrow: "BEYOND NAMING THE TECHNIQUE"

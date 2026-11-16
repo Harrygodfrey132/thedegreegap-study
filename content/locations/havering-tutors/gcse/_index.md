@@ -5,7 +5,7 @@ layout: "subject"
 location: "Havering"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Havering Students Who Freeze When the Exam Clock Starts"
+hero_heading_line1: "GCSE Tutors for Havering Students"
 hero_heading_line2: ""
 hero_lead: "At the kitchen table your child can explain it. In the exam hall, with the clock on the wall, half of it disappears. Our GCSE tutors for Havering students practise under timed conditions every week, until the method comes out on the day as well."
 

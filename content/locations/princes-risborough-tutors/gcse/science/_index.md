@@ -7,7 +7,7 @@ location: "Princes Risborough"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Princes Risborough Students Stuck on Six-Mark Answers"
+hero_h1: "GCSE Science Tutors for Princes Risborough Students"
 hero_lead: "Your child can tell you how a vaccine works, then writes three lines for six marks and gets two. Our GCSE Science tutors for Princes Risborough students show them what an examiner is counting, one long answer at a time."
 
 angle_eyebrow: "SIX MARKS, THREE LINES"

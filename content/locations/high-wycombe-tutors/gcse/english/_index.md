@@ -1,13 +1,13 @@
 ---
-title: "High Wycombe GCSE English Tutors | Online | The Degree Gap"
+title: "High Wycombe GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "High Wycombe GCSE English tutors who read your child's marked essay, find the skill that's losing the marks and work on that first. Online, from £37 an hour."
+description: "GCSE English tutors for High Wycombe who read your child's marked essay, find the skill that's losing the marks and work on that first. Online, from £37."
 layout: "level-subject"
 location: "High Wycombe"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutoring for High Wycombe Families"
+hero_h1: "GCSE English Tutors for High Wycombe Students"
 hero_lead: "The grade on the front of your child's English paper doesn't tell you which skill is costing the marks. Every mark is tied to a numbered skill the exam board tests. Our GCSE English tutors for High Wycombe students find out which one first, then work on it online."
 
 angle_eyebrow: "THE NUMBERS BEHIND THE MARK"

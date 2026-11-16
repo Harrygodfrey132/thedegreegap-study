@@ -5,7 +5,7 @@ layout: "subject"
 location: "Huddersfield"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Huddersfield Students After a Disappointing First Assessment"
+hero_heading_line1: "A-Level Tutors for Huddersfield Students"
 hero_heading_line2: ""
 hero_lead: "The first A-Level assessment can come back well below your child's GCSE grades, and it knocks a lot of confidence. Our A-Level tutors for Huddersfield students work out why, then put it right before Year 12 work turns into predicted grades."
 

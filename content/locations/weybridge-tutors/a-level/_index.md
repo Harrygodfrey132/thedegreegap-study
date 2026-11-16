@@ -1,11 +1,11 @@
 ---
 title: "Weybridge A-Level Tutors | From £37/hr | The Degree Gap"
-description: "Started a new sixth form and the grades have dipped? Our Weybridge A-Level tutors work one-to-one online, matched to your child's exam board, from £37 an hour."
+description: "Started a new sixth form and the grades have dipped? Our A-Level tutors for Weybridge work one-to-one online, matched to your child's exam board, from £37."
 layout: "subject"
 location: "Weybridge"
 level: "A-Level"
 
-hero_heading_line1: "A-Level Tutors for Weybridge Students When a New Sixth Form Knocks the Grades"
+hero_heading_line1: "A-Level Tutors for Weybridge Students"
 hero_heading_line2: ""
 hero_lead: "A new sixth form, maybe a new exam board, and the first term of Year 12 has run away from your child. It happens a lot. Our A-Level tutors for Weybridge students work one-to-one online to steady the subject that slipped, before predicted grades are written."
 
@@ -14,14 +14,14 @@ grade_to: "C"
 grade_stat: "Three Cs from E and U grades, for a son who'd left revision to the very last minute."
 
 first_lesson_eyebrow: "NEW BUILDING, NEW BOARD"
-first_lesson_heading: "The Exam Board Question a Weybridge A-Level Tutor Asks First"
+first_lesson_heading: "The Exam Board Question an A-Level Tutor for Weybridge Students Asks First"
 first_lesson_context: "Move from Heathside to Esher, or from an independent school to a state sixth form, and the A-Level board may not be the one your child's GCSE teachers used. Topics come in a different order and the long questions are worded differently, none of which is their fault. So in the first lesson, the tutor checks what they know against the new course and finds the gaps the move left."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to three Cs at A-Level"
 
-tutor_strip_heading: "Weybridge A-Level tutors matched to your child's exam board"
+tutor_strip_heading: "A-Level tutors for Weybridge students matched to your child's exam board"
 tutor_strip_body: "Heathside, Esher Sixth Form College and St George's College use a mix of exam boards, and at A-Level the board shapes almost every lesson. Plenty of the tutors on our platform sat these exams only a few years ago. You'll see two or three profiles first, then choose."
 
 pathways_heading: "Where a Weybridge A-Level Can Take Your Child"

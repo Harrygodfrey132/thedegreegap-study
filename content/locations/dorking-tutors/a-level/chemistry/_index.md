@@ -7,7 +7,7 @@ location: "Dorking"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Dorking Students Memorising Reactions Instead of Understanding Them"
+hero_h1: "A-Level Chemistry Tutors for Dorking Students"
 hero_lead: "At GCSE your child could balance an equation, and now there are curly arrows, multi-step calculations and reactions by the dozen. Our A-Level Chemistry tutors for Dorking students turn those into patterns your child can work out rather than memorise."
 
 angle_eyebrow: "TWO OCR COURSES, ONE TOWN"

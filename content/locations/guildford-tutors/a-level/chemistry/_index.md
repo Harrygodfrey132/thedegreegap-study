@@ -1,13 +1,13 @@
 ---
-title: "Guildford A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Guildford A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
-description: "Is your child on a B in A-Level Chemistry and hoping for an A or A*? Our Guildford tutors work one-to-one online on the hardest questions. From £37 an hour."
+description: "Is your child on a B in A-Level Chemistry and hoping for an A or A*? Our tutors for Guildford work one-to-one online on the hardest questions. From £37 an hour."
 layout: "level-subject"
 location: "Guildford"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online Guildford A-Level Chemistry Tutors for Top Grades"
+hero_h1: "A-Level Chemistry Tutors for Guildford Students"
 hero_lead: "When your child is already doing well in Chemistry, the marks still going missing tend to sit in a handful of hard questions. Our A-Level Chemistry tutors for Guildford students work on exactly those, like identifying a mystery compound from its spectra, or drawing mirror-image molecules in 3D."
 
 angle_eyebrow: "THE LAST FEW MARKS ARE THE HARDEST TO FIND"

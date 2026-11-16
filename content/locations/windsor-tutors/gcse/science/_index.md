@@ -7,7 +7,7 @@ location: "Windsor"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Windsor Students Sitting Combined or Separate Sciences"
+hero_h1: "GCSE Science Tutors for Windsor Students"
 hero_lead: "Combined Science or the three separate sciences, the marks tend to slip in the same places: the long answers and the practical questions. Our GCSE Science tutors for Windsor students show your child how those questions are marked, then practise them until the method comes naturally."
 
 angle_eyebrow: "WHY 7-7 MATTERS"

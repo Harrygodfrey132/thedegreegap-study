@@ -1,5 +1,5 @@
 ---
-title: "Sunbury-on-Thames GCSE Science Tutors | Online | The Degree Gap"
+title: "Sunbury-on-Thames GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
 description: "If one of your child's sciences is quietly slipping, our online GCSE Science tutors for Sunbury-on-Thames families help catch it early. From £37, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Sunbury-on-Thames"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Sunbury-on-Thames Families"
+hero_h1: "GCSE Science Tutors for Sunbury-on-Thames Students"
 hero_lead: "Your child might be fine in Biology and quietly slipping in Physics, and one overall Science mark often won't show it until Year 11. Our GCSE Science tutors for Sunbury-on-Thames students look at the three sciences separately, online, and catch a gap while it's still small."
 
 angle_eyebrow: "THREE SUBJECTS DRIFTING APART"

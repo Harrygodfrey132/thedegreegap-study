@@ -7,7 +7,7 @@ location: "Richmond"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Richmond Students Who Know It but Lose the Long Answers"
+hero_h1: "A-Level Biology Tutors for Richmond Students"
 hero_lead: "A-Level Biology can feel like learning a textbook by heart, then being asked to use it in ways nobody practised. Our A-Level Biology tutors for Richmond students work on the long answers and the pathways, online and one-to-one."
 
 angle_eyebrow: "MORE THAN MEMORY"

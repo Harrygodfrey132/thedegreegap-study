@@ -1,11 +1,11 @@
 ---
 title: "Bath GCSE Tutors | One-to-One | The Degree Gap"
-description: "If a topic slipped in Year 10, the Year 11 mocks tend to find it. Our Bath GCSE tutors find it first, working one-to-one online with your child, from £37."
+description: "If a topic slipped in Year 10, the Year 11 mocks tend to find it. Our GCSE tutors for Bath find it first, working one-to-one online with your child, from £37."
 layout: "subject"
 location: "Bath"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE tutors for Bath, from a wobbly Year 10 mock to results day"
+hero_heading_line1: "GCSE Tutors for Bath Students"
 hero_heading_line2: ""
 hero_lead: "The Year 10 exams came back a grade under the report, and everyone agreed it was just the summer. Our GCSE tutors for Bath students go back for that topic with your child, one-to-one and online, before the Year 11 mocks make it official."
 
@@ -14,14 +14,14 @@ grade_to: "B"
 grade_stat: "An E up to a B, in Keira's own words."
 
 first_lesson_eyebrow: "THE GRADE THAT SLIPPED A YEAR EARLY"
-first_lesson_heading: "Why a Bath GCSE Tutor Asks for the Year 10 Paper First"
+first_lesson_heading: "Why a GCSE Tutor for Bath Students Asks for the Year 10 Paper First"
 first_lesson_context: "A dip in Year 10 is easy to let slide. Results round here are strong and the report still says on track, so nobody panics and the year moves on. A GCSE tutor asks for the Year 10 paper first, because the topic that slipped there is the one the Year 11 mock will find."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B"
 
-tutor_strip_heading: "Bath GCSE tutors who start from the Year 10 paper"
+tutor_strip_heading: "GCSE tutors for Bath students who start from the Year 10 paper"
 tutor_strip_body: "Send us a marked Year 10 paper and the tutor will have read it before they meet your child. Only about 3% of applicants get past Harry and Joe's interview, and we match on your child's exam board. Browse, or tell us the gap and we'll pick."
 
 pathways_heading: "Three Doors Out of Year 11 in Bath"

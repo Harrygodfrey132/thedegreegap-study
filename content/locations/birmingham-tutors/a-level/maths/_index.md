@@ -1,5 +1,5 @@
 ---
-title: "Birmingham A-Level Maths Tutors | Online | The Degree Gap"
+title: "Birmingham A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Your child knows each method but loses marks on the long circle questions? Online A-Level Maths tutors for Birmingham families, one-to-one, from £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Birmingham"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors Helping Birmingham Year 12s and 13s"
+hero_h1: "A-Level Maths Tutors for Birmingham Students"
 hero_lead: "Finding a gradient, completing the square, solving simultaneous equations: your child can do each one. Put all three into one circle question, though, and it falls apart. Our A-Level Maths tutors for Birmingham students work on exactly those long questions, one step at a time."
 
 angle_eyebrow: "THE TOPIC THAT LOOKS EASY ON PAPER"

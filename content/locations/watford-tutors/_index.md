@@ -4,10 +4,10 @@
 # would use it: the schools, the grammar tests, the villages nearby.
 # Reviews, links, images and the title are unchanged from before.
 title: "Watford Tutors | GCSE & A-Level from £37/hr"
-description: "Watford tutors for GCSE and A-Level, one-to-one and online. A free call with one of our founders first, then 2 or 3 tutor profiles within 24 hours. From £37."
+description: "Tutors for Watford, for GCSE and A-Level, online. A free call with one of our founders first, then 2 or 3 tutor profiles within 24 hours. From £37."
 layout: "single"
 location: "Watford"
-banner_heading: "Online Watford Tutors for GCSE and A-Level, Matched to Your Child"
+banner_heading: "GCSE and A-Level Tutors for Watford Families"
 banner_description: "If your child is working hard and the grades still aren't where you'd hoped, you're not alone, and it's usually more fixable than it feels right now. Book a free call and you'll speak to one of us, Harry or Joe, the founders of The Degree Gap. Within 24 hours you'll have profiles of two or three tutors we think will suit your child."
 content_angle: "reassurance: the same worry at every Watford school, answered warmly"
 intro_1: "We're Harry and Joe. We were both tutored growing up, and we each had two tutors, one brilliant and one who was only okay. So we learnt early that it isn't having a tutor that helps most. It's having the right one. That's the reason we started The Degree Gap, and it's why you'll choose from two or three tutors rather than being handed one."

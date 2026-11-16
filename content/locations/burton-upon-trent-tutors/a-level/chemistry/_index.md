@@ -7,7 +7,7 @@ location: "Burton upon Trent"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Burton upon Trent Students Stuck on Synthesis Routes"
+hero_h1: "A-Level Chemistry Tutors for Burton upon Trent Students"
 hero_lead: "Your child can name each reaction, but a question asking how to get from one compound to another three steps away leaves them guessing. Our A-Level Chemistry tutors for Burton upon Trent students teach organic Chemistry as a map, then practise reading it."
 
 angle_eyebrow: "ETHANOL, TWO WAYS"

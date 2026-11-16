@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutoring for Brentwood Families | The Degree Gap"
+title: "GCSE Tutoring for Brentwood Families | The Degree Gap"
 description: "Worried one GCSE grade could rule out an A-Level your child wants in Brentwood? We'll match them with an online GCSE tutor. Free call first, from £37 an hour."
 layout: "subject"
 location: "Brentwood"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Brentwood Students Who Want Their Options Open After Year 11"
+hero_heading_line1: "GCSE Tutors for Brentwood Students"
 hero_heading_line2: ""
 hero_lead: "Has a mock left you wondering whether your child will get onto the course they want after Year 11? Our GCSE tutors for Brentwood students find the topics behind the lost marks and work on those, one-to-one and online."
 

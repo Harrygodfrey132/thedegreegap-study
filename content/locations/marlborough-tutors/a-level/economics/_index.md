@@ -7,7 +7,7 @@ location: "Marlborough"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Marlborough Students Who Explain Well but Don't Evaluate"
+hero_h1: "A-Level Economics Tutors for Marlborough Students"
 hero_lead: "Your child's diagram is right and the explanation is clear, then the essay ends without ever saying how much any of it matters. Our A-Level Economics tutors for Marlborough students teach the evaluation that the long questions are really marked on."
 
 angle_eyebrow: "WHEN SWINDON'S CAR PLANT CLOSED"

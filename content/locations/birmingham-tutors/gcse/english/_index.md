@@ -1,13 +1,13 @@
 ---
-title: "Online GCSE English Tutors | Birmingham | The Degree Gap"
+title: "GCSE English Tutors | Birmingham | The Degree Gap"
 nav_title: "English"
-description: "Does your child's English mock stop mid-answer when time runs out? Our Birmingham GCSE English tutors work on structure and timing. Online, from £37 an hour."
+description: "Does your child's English mock stop mid-answer when time runs out? Our GCSE English tutors for Birmingham work on structure and timing. Online, from £37."
 layout: "level-subject"
 location: "Birmingham"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutoring Across Birmingham"
+hero_h1: "GCSE English Tutors for Birmingham Students"
 hero_lead: "The mock comes home and the last answer stops halfway through a sentence. Or it's finished, but the mark doesn't match what your child clearly knows. Our GCSE English tutors for Birmingham students work on the essay structure and timing that get that understanding onto the page."
 
 angle_eyebrow: "WHEN THE CLOCK, NOT THE BOOK, IS THE PROBLEM"
@@ -27,7 +27,7 @@ schools:
   - "Handsworth Wood Girls' Academy"
   - "Moseley School and Sixth Form"
 
-steps_heading: "Getting your child a Birmingham GCSE English tutor, step by step"
+steps_heading: "Getting your child a GCSE English tutor for Birmingham students, step by step"
 steps_lead: "Tutor profiles normally reach you the day after your call, which still leaves time to work on timing before the mocks."
 steps:
   - title: "Tell us what's going on"

@@ -1,5 +1,5 @@
 ---
-title: "Online A-Level Physics Tutor for Your Child in Egham | The Degree Gap"
+title: "A-Level Physics Tutor for Your Child in Egham | The Degree Gap"
 nav_title: "Physics"
 description: "Is A-Level Physics turning into a maths course for your child? We match Egham sixth formers with an online A-Level Physics tutor who knows OCR A. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Egham"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Egham Students Losing Marks in the Calculations"
+hero_h1: "A-Level Physics Tutors for Egham Students"
 hero_lead: "Strode's advises anyone taking A-Level Physics to take Maths alongside it, and by the second term of Year 12 most families can see why. Our A-Level Physics tutors for Egham students make the rearranging, the log graphs and the uncertainties routine, so your child can think about the physics."
 
 angle_eyebrow: "PHYSICS, WITH OR WITHOUT A-LEVEL MATHS"

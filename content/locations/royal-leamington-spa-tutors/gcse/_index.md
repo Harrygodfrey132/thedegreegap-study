@@ -1,11 +1,11 @@
 ---
 title: "Royal Leamington Spa GCSE Tutors | The Degree Gap"
-description: "Royal Leamington Spa GCSE tutors for families who'd rather start in Year 9 or 10 than scramble in Year 11. One-to-one online lessons, from £37 an hour."
+description: "GCSE tutors for Royal Leamington Spa, for families who'd rather start in Year 9 or 10 than scramble in Year 11. One-to-one online lessons, from £37 an hour."
 layout: "subject"
 location: "Royal Leamington Spa"
 level: "GCSE"
 
-hero_heading_line1: "Online Royal Leamington Spa GCSE Tutors, Starting Early So Year 11 Isn't a Scramble"
+hero_heading_line1: "GCSE Tutors for Royal Leamington Spa Students"
 hero_heading_line2: ""
 hero_lead: "Maybe nothing's gone wrong yet, but you can see Year 11 coming and you'd rather not spend it panicking. Our GCSE tutors for Royal Leamington Spa students use a Year 9 or 10 start to build the methods your child will lean on, while there's still time for them to stick."
 

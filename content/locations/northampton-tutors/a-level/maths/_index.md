@@ -1,13 +1,13 @@
 ---
 title: "Northampton A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Northampton A-Level Maths tutors, one-to-one and online. We find out whether Pure, Mechanics or Statistics is costing your child marks. From £37 an hour."
+description: "A-Level Maths tutors for Northampton, one-to-one and online. We find out whether Pure, Mechanics or Statistics is costing your child marks. From £37 an hour."
 layout: "level-subject"
 location: "Northampton"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Northampton Families"
+hero_h1: "A-Level Maths Tutors for Northampton Students"
 hero_lead: "Your child could be doing fine in Statistics and losing most of the Mechanics marks, and a single grade on the report hides that. Our A-Level Maths tutors for Northampton students find the weak part first and build the lessons around it, one-to-one and online."
 
 angle_eyebrow: "ONE SUBJECT, THREE DIFFERENT HABITS"
@@ -48,7 +48,7 @@ faqs:
     a: "Usually because there's a gap between following a method and choosing one. Predictions come from mocks and the teacher's sense of how your child is doing. In class, your child can be fluent when the topic's already on the board. In a paper that never says which topic it's testing, they can freeze. The only way to know if that's what's going on is to read the actual paper, question by question. That also turns the chat with the sixth form into a practical one, not an argument about fairness."
   - q: "How do you check the tutors are any good?"
     a: "Harry and Joe interview every one, and only around 3% of applicants get through. First there's a written application, then a check on their Maths that goes beyond what's on their CV. Then an interview where they explain something tricky under a bit of pressure. That's the stage most people fall at, because a tutor your child can't follow in the first ten minutes is no use, however good their Maths. References come last."
-  - q: "How soon could my child start with a Northampton A-Level Maths tutor?"
+  - q: "How soon could my child start with an A-Level Maths tutor for Northampton students?"
     a: "Most families are up and running inside a week. The free call with Harry or Joe usually lasts about thirty minutes, and it can normally happen within a day or two. You'll get two or three tutor profiles within 24 hours of it, then a free 15-minute meeting with whichever tutor you pick, and the first paid lesson after that. If a mock's coming up soon, tell us the date and we'll work to it."
 # FAQ picks: A05, A14, C10, E01, G04
 

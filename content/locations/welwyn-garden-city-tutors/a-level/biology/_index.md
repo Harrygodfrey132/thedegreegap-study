@@ -1,5 +1,5 @@
 ---
-title: "Welwyn Garden City A-Level Biology Tutors | Online | The Degree Gap"
+title: "Welwyn Garden City A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
 description: "Year 13 Biology feeling hard because Year 12 didn't stick? Online A-Level Biology tutors for Welwyn Garden City families. From £37 an hour, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Welwyn Garden City"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Welwyn Garden City and Hatfield"
+hero_h1: "A-Level Biology Tutors for Welwyn Garden City Students"
 hero_lead: "Year 12 went fine, so why does Year 13 Biology suddenly feel so hard? Usually because the new topics lean on last year's, and our A-Level Biology tutors for Welwyn Garden City students go back for whatever didn't stick."
 
 angle_eyebrow: "LEARNED LAST YEAR, NEEDED THIS YEAR"
@@ -42,7 +42,7 @@ faqs:
     a: "Usually eight to twelve weekly lessons for one grade, as long as some work happens in between. If Year 12 topics just need waking up rather than teaching from scratch, it can be quicker, because your child has seen them before. If the first year really didn't go in, it takes longer. We'll give you an honest estimate after the first lesson, not before it."
   - q: "Should my child start Biology tutoring in Year 12 or Year 13?"
     a: "Year 12 if you can. The second year expects the first to be at your child's fingertips, not just covered, and sorting that in Year 12 stops the problem early. Year 12 results also feed the predicted grades universities see early in Year 13, so the work counts twice. But if your child's already in Year 13, it's still well worth doing."
-  - q: "How soon could my child start with a Biology tutor in Welwyn Garden City?"
+  - q: "How soon could my child start with a Biology tutor for Welwyn Garden City students?"
     a: "Usually within a week. First a free call with Joe or Harry, then two or three tutor profiles within a day, then a free 15-minute video meeting with whoever your child prefers, then the first paid lesson. You don't pay anything until they've met. If Year 13 has started badly, tell us on the call. The sooner the gaps are found, the less there is to go back over."
   - q: "Can I sit in on my child's Biology lessons?"
     a: "Of course. Some parents join the first one. At A-Level, though, most teenagers work better without an audience. The useful part of the hour is often owning up to what they've forgotten from last year, and that's hard enough without a parent listening. Every lesson has a replay, and you'll get a short note from the tutor on what they covered."

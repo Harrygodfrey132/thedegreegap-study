@@ -1,13 +1,13 @@
 ---
 title: "GCSE Science Tutors for Esher | The Degree Gap"
 nav_title: "Science"
-description: "Combined or triple, an A-Level at Thames Ditton or a T Level at Brooklands next: our Esher GCSE Science tutors work out which science needs the time. From £37."
+description: "Combined or triple, A-Level at Thames Ditton or a T Level at Brooklands: our online GCSE Science tutors for Esher students find which science needs time."
 layout: "level-subject"
 location: "Esher"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Combined and Triple, Covering Esher"
+hero_h1: "GCSE Science Tutors for Esher Students"
 hero_lead: "A-Level Biology at Thames Ditton and a T Level in Health at Brooklands both start from the GCSE Science grade. Our GCSE Science tutors for Esher students work out which science, and which kind of question, is pulling things down, then spend the lessons there, one-to-one online."
 
 card_eyebrow: "FREE CONSULTATION"

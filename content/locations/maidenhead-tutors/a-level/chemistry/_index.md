@@ -7,7 +7,7 @@ location: "Maidenhead"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Maidenhead Students Still Unsure of the Year 12 Calculations"
+hero_h1: "A-Level Chemistry Tutors for Maidenhead Students"
 hero_lead: "Moles, concentrations and percentage yield come up early in Year 12, then turn up again inside nearly every topic after. Our A-Level Chemistry tutors for Maidenhead students make those calculations reliable for your child, so the harder chemistry has something solid to sit on."
 
 angle_eyebrow: "MODULE 2 NEVER GOES AWAY"

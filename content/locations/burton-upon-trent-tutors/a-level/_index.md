@@ -1,11 +1,11 @@
 ---
-title: "Online A-Level Tutors for Burton upon Trent Sixth Formers | The Degree Gap"
+title: "A-Level Tutors for Burton upon Trent Sixth Formers | The Degree Gap"
 description: "Has your child started sixth form somewhere new? We'll match Burton upon Trent sixth formers with an online A-Level tutor on their exam board. From £37 an hour."
 layout: "subject"
 location: "Burton upon Trent"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Burton upon Trent Sixth Formers Starting Somewhere New at 16"
+hero_heading_line1: "A-Level Tutors for Burton upon Trent Students"
 hero_heading_line2: ""
 hero_lead: "New building, new teachers, sometimes a new exam board, and the jump to A-Level on top of all that. Our A-Level tutors for Burton upon Trent students fill in whatever the move skipped, before Year 12 gaps follow your child into Year 13."
 
@@ -21,7 +21,7 @@ first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "A-Level Student"
 first_lesson_quote_grade: "Grade E → Grade B at A-Level"
 
-tutor_strip_heading: "Burton upon Trent A-Level tutors who start from your child's GCSE gaps"
+tutor_strip_heading: "A-Level tutors for Burton upon Trent students who start from your child's GCSE gaps"
 tutor_strip_body: "Each tutor below has been interviewed by Harry or Joe, and only around 3% of the people who apply are taken on. If your child has changed school, we look for someone who knows the new board well. Have a look, or let us choose."
 
 pathways_heading: "What Comes After A-Levels for a Burton upon Trent Sixth Former"

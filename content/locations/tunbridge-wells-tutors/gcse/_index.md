@@ -1,11 +1,11 @@
 ---
 title: "Tunbridge Wells GCSE Tutors | Expert Tutors | The Degree Gap"
-description: "Tunbridge Wells GCSE tutors for the topic a fast class had to leave behind. One-to-one online lessons, matched to your child's exam board. From £37 an hour."
+description: "GCSE tutors for Tunbridge Wells, for the topic a fast class had to leave behind. One-to-one online lessons, matched to your child's exam board. From £37."
 layout: "subject"
 location: "Tunbridge Wells"
 level: "GCSE"
 
-hero_heading_line1: "Online Tunbridge Wells GCSE Tutors For the Gap a Fast Class Leaves Behind"
+hero_heading_line1: "GCSE Tutors for Tunbridge Wells Students"
 hero_heading_line2: ""
 hero_lead: "When a GCSE grade starts to slip, it's usually one topic the class moved past before it clicked, and your child's worked round it since. Across Kent the pace rarely lets up after the Kent Test. Our GCSE tutors for Tunbridge Wells students find that topic and rebuild it, one-to-one."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "Omo's son went from a 5 to a 6/7 in GCSE English in six months, and now looks forward to his lessons."
 
 first_lesson_eyebrow: "ONE TUNBRIDGE WELLS TURNAROUND"
-first_lesson_heading: "What a Tunbridge Wells GCSE Tutor Fixes First"
+first_lesson_heading: "What a GCSE Tutor for Tunbridge Wells Students Fixes First"
 first_lesson_context: "If your child has started saying everyone else seems to get it, you're far from the only Tunbridge Wells parent hearing that. Kent's results sit above the England average, and that can make being a mark or two off the pace feel much bigger than it is. So the GCSE tutor starts with a recent paper, finds the topic that keeps costing marks and rebuilds it one-to-one."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7. I honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset. …"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 6/7 in GCSE English"
 
-tutor_strip_heading: "Tunbridge Wells GCSE tutors who know how fast Kent classes move"
+tutor_strip_heading: "GCSE tutors for Tunbridge Wells students who know how fast Kent classes move"
 tutor_strip_body: "Lessons move quickly at the grammars, Bennett Memorial and Tunbridge Wells High School, and each school picks its own exam boards. So we match on subject and board first, not on who lives closest. Look through the profiles, or let us pick two or three for your child."
 
 pathways_heading: "The Next Move for Tunbridge Wells Year 11s"

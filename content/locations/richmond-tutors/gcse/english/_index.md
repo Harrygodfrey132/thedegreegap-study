@@ -7,7 +7,7 @@ location: "Richmond"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Richmond Students Stuck on Structure and Evaluation"
+hero_h1: "GCSE English Tutors for Richmond Students"
 hero_lead: "Your child may have read Jekyll and Hyde twice and still lose marks when a question asks how the writer builds tension. Our GCSE English tutors for Richmond students work on the questions that trip them up, in Language and Literature, online."
 
 angle_eyebrow: "THE QUESTIONS BEHIND THE QUOTES"

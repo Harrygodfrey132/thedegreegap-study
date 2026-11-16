@@ -1,11 +1,11 @@
 ---
 title: "Henley-on-Thames A-Level Tutors | The Degree Gap"
-description: "Predicted grades are mostly built from Year 12 work. Our Henley-on-Thames A-Level tutors help your child one-to-one online before they're set. From £37."
+description: "Predicted grades are mostly built from Year 12 work. Our A-Level tutors for Henley-on-Thames help your child one-to-one online before they're set. From £37."
 layout: "subject"
 location: "Henley-on-Thames"
 level: "A-Level"
 
-hero_heading_line1: "Online Henley-on-Thames A-Level Tutors for Year 12, Before the Predictions Are Written"
+hero_heading_line1: "A-Level Tutors for Henley-on-Thames Students"
 hero_heading_line2: ""
 hero_lead: "Most of what goes into a UCAS predicted grade happens in Year 12, often while your child is still finding their feet in new subjects. If the first tests come back lower than hoped, that's where our A-Level tutors for Henley-on-Thames students start, in one-to-one lessons online."
 

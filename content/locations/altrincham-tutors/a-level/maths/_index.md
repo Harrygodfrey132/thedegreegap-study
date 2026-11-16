@@ -1,13 +1,13 @@
 ---
 title: "A-Level Maths Tutors Covering Altrincham | The Degree Gap"
 nav_title: "Maths"
-description: "Year 12 Maths looks fine, but the harder half comes in Year 13. Altrincham A-Level Maths tutors get your child ready, online and one-to-one. From £37."
+description: "Year 12 Maths looks fine, but the harder half comes in Year 13. A-Level Maths tutors for Altrincham get your child ready, online and one-to-one. From £37."
 layout: "level-subject"
 location: "Altrincham"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Altrincham, Before the Harder Half of the Course Arrives"
+hero_h1: "A-Level Maths Tutors for Altrincham Students"
 hero_lead: "Most of your child's predicted Maths grade is built on Year 12, and that's the easier half of the course. Our A-Level Maths tutors for Altrincham students get the harder half in front of them early, one-to-one online: integration, 3D vectors and the tougher Mechanics."
 
 angle_eyebrow: "GRADED ON THE EASIER HALF"
@@ -41,7 +41,7 @@ steps:
     body: "One hour a week, one-to-one, in the online classroom Lessonspace, with a replay of every lesson. Your child does the working while the tutor watches each line, and Year 13 topics come in ahead of school's timetable. From £37 an hour, no contract, and a different tutor at no charge if they don't click."
 
 faqs:
-  - q: "Can an Altrincham A-Level Maths tutor help my child apply for a Barclays degree apprenticeship?"
+  - q: "Can an A-Level Maths tutor for Altrincham students help my child apply for a Barclays degree apprenticeship?"
     a: "Yes, with the grades and with the written application. Barclays takes on technology and banking degree apprentices at Radbroke Hall in Knutsford, a short drive from Altrincham, and the technology routes lean on Maths. Each programme publishes its own minimum, usually as A-Level grades or equivalent, and the first screening tends to be on predicted grades. So lessons aim at the Year 12 assessments those predictions come from, and the tutor gives honest feedback on the application too. Manchester Metropolitan runs degree apprenticeships with hundreds of employers as well, so the list worth looking at is longer than you might think."
   - q: "Can the same tutor help with A-Level Maths and another subject?"
     a: "Sometimes, and with Maths the pairings that work best are Physics and Further Maths. A tutor who teaches Maths and Physics sees the same Mechanics weakness in both and fixes it once. One who teaches Further Maths can run the two courses in a sensible order, which matters because Further Maths leans on Pure topics before school's taught them. Most tutors stick to one subject, though. So for Maths alongside Economics or Chemistry, a separate tutor's usually the better match. Tell us all your child's subjects on the call and we'll suggest what makes sense."
@@ -49,7 +49,7 @@ faqs:
     a: "Yes, and several tutors on our platform do this often. The help's practical. Your child gets one fixed way of laying out long working, so nothing drops out between lines. Big questions get broken into small, named stages. And each method gets practised until it's automatic before a new one's added. Because everything stays on the whiteboard, and every lesson has a replay, your child can go back over it at their own speed. If exam conditions are the hard part, timed practice is added slowly. Let us know what school already has in place, such as any exam access arrangements, and we'll match with that in mind."
   - q: "My child's never needed help and doesn't want a tutor. What now?"
     a: "Don't force it, and don't treat the first no as final. The ones who push back hardest have often never needed help and don't want to be seen needing it now. In a strong Altrincham set, that's a very common feeling. So we don't start with a lesson. Your child meets the tutor on a free 15-minute video call first, and can turn that person down without turning down the whole idea. Most who carry on find, within two or three lessons, that an hour on their own paper feels nothing like class. If it still isn't wanted, stop. There's no contract."
-  - q: "How fast can an Altrincham A-Level Maths tutor get started with my child?"
+  - q: "How fast can an A-Level Maths tutor for Altrincham students get started with my child?"
     a: "Usually within a week. The free call with Harry or Joe can normally happen a day or two after you get in touch, and two or three tutor profiles follow within 24 hours of it. The free 15-minute video call with the tutor you choose fits around your child's timetable, and the first paid lesson is typically the week after. Nothing's paid until your child has met the tutor. If they're in the autumn of Year 12, it's a good time to begin, because that term feeds the predicted grade."
 # FAQ picks: A13, C07, C10, E03, G04
 

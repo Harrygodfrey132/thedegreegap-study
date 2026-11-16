@@ -7,7 +7,7 @@ location: "Richmond"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutoring for Your Child in Richmond, Whatever Grade the Next Step Needs"
+hero_h1: "GCSE Maths Tutors for Richmond Students"
 hero_lead: "One sixth form wants a 5 in Maths for entry, another a 7 before A-Level Maths, and your child may be short of either. Our GCSE Maths tutors for Richmond students find where the marks go and build up from there."
 
 angle_eyebrow: "TWO GRADES, ONE SUBJECT"

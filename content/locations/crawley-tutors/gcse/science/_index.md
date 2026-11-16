@@ -7,7 +7,7 @@ location: "Crawley"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutors for Crawley Students Who Lose Marks on the Calculations"
+hero_h1: "GCSE Science Tutors for Crawley Students"
 hero_lead: "Plenty of children who like Science come unstuck on the sums inside it, a unit to convert or a gradient to read off a graph. We match Crawley students with online GCSE Science tutors who make that maths feel routine."
 
 angle_eyebrow: "THE MATHS HIDING IN SCIENCE"

@@ -1,5 +1,5 @@
 ---
-title: "London A-Level Maths Tutors | Online | The Degree Gap"
+title: "London A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Worded modelling questions costing marks? Online A-Level Maths tutors for London families, from exponential growth to decay. From £37 an hour, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "London"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Families Across London"
+hero_h1: "A-Level Maths Tutors for London Students"
 hero_lead: "A question opens with a paragraph about a cup of tea cooling down, and your child, who's fine with calculus, doesn't know where to begin. Our A-Level Maths tutors for London students practise turning those words into an equation, and the answer back into a sentence."
 
 angle_eyebrow: "WHEN THE MATHS ARRIVES AS WORDS"

@@ -5,7 +5,7 @@ layout: "subject"
 location: "Balham"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Balham Students With All of Year 13 Arriving at Once"
+hero_heading_line1: "A-Level Tutors for Balham Students"
 hero_heading_line2: ""
 hero_lead: "In Year 13, coursework deadlines and the January mocks land in the same few weeks, while new content keeps coming. Our A-Level tutors for Balham students help your child see which subject matters most to their offer, and start there."
 

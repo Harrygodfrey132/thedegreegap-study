@@ -7,7 +7,7 @@ location: "Purley"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Purley Sixth Formers, From Year 12 Algebra to Further Maths"
+hero_h1: "A-Level Maths Tutors for Purley Students"
 hero_lead: "Two-thirds of A-Level Maths is Pure, and Pure leans on algebra being quick and sure from the first week. Our A-Level Maths tutors for Purley students make that algebra solid, then work through calculus, Mechanics and Statistics at your child's pace."
 
 angle_eyebrow: "TWO-THIRDS OF THE COURSE IS PURE"

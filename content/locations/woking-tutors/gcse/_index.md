@@ -1,11 +1,11 @@
 ---
 title: "Woking GCSE Tutors | One-to-One | The Degree Gap"
-description: "Is Year 11 your child's last year at their school? Our Woking GCSE tutors plan back from the sixth form or college course they want. Online, from £37 an hour."
+description: "Is Year 11 your child's last year at their school? Our GCSE tutors for Woking plan back from the sixth form or college course they want. Online, from £37."
 layout: "subject"
 location: "Woking"
 level: "GCSE"
 
-hero_heading_line1: "Online Woking GCSE Tutors Working on the Grade Your Child's Offer Needs"
+hero_heading_line1: "GCSE Tutors for Woking Students"
 hero_heading_line2: ""
 hero_lead: "If your child's school stops at sixteen, as three of Woking's biggest do, Year 11 decides where they go next as well as how they finish. Our GCSE tutors for Woking students put each weekly lesson into the subjects that next course will look at, one-to-one and online."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "Over six months of lessons, Omo's Year 10 son went from a grade 5 in English to a 6/7."
 
 first_lesson_eyebrow: "WHEN SCHOOL STOPS AT SIXTEEN"
-first_lesson_heading: "How a Woking GCSE Tutor Works Back From the Offer"
+first_lesson_heading: "How a GCSE Tutor for Woking Students Works Back From the Offer"
 first_lesson_context: "Start from the course your child wants and the year more or less plans itself. One subject grade for a place at Woking College is different work from five solid passes to keep every door open, and the first lesson works out which your child needs. Then it runs off a marked paper, not a hunch."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 6/7 in English"
 
-tutor_strip_heading: "Woking GCSE tutors with your child's next course in mind"
+tutor_strip_heading: "GCSE tutors for Woking students with your child's next course in mind"
 tutor_strip_body: "Woking High, Winston Churchill and St John the Baptist each choose their own exam boards, and we find out your child's first. Every tutor's been interviewed by Harry or Joe, and only about 3% of applicants make the cut. Have a look, or ask us to pick."
 
 pathways_heading: "Where Woking Year 11s Land Next September"

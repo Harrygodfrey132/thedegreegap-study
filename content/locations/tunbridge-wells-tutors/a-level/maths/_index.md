@@ -1,5 +1,5 @@
 ---
-title: "Tunbridge Wells Online A-Level Maths Tutors | The Degree Gap"
+title: "Tunbridge Wells A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Year 12 Maths tests coming back lower than GCSE did? Online A-Level Maths tutors for Tunbridge Wells families, matched to your child's exam board. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Tunbridge Wells"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors Helping Tunbridge Wells Families"
+hero_h1: "A-Level Maths Tutors for Tunbridge Wells Students"
 hero_lead: "Your child flew through GCSE Maths, and now Year 12 tests come back covered in red pen. It happens a lot to quick children, who could reach most GCSE answers without writing much down. Our A-Level Maths tutors for Tunbridge Wells students work on the method with your child, online and weekly."
 
 angle_eyebrow: "THE JUMP FROM GCSE TO YEAR 12"

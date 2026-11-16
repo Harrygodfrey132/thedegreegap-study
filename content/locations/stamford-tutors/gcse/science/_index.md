@@ -1,13 +1,13 @@
 ---
 title: "GCSE Science Tutors for Stamford | The Degree Gap"
 nav_title: "Science"
-description: "Losing Science marks on equations and graphs? Our Stamford GCSE Science tutors practise the Maths inside the questions with your child, online. From £37."
+description: "Losing Science marks on equations and graphs? Our GCSE Science tutors for Stamford practise the Maths inside the questions with your child, online. From £37."
 layout: "level-subject"
 location: "Stamford"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Stamford Families"
+hero_h1: "GCSE Science Tutors for Stamford Students"
 hero_lead: "Science can look fine on the report and still be losing marks in the questions that need Maths, from rearranging an equation to reading a graph. Our GCSE Science tutors for Stamford students go through those steps with your child one-to-one online, on whichever board they sit."
 
 angle_eyebrow: "WHERE SCIENCE MEETS MATHS"

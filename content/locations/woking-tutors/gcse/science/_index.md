@@ -1,13 +1,13 @@
 ---
 title: "Woking GCSE Science Tuition | The Degree Gap"
 nav_title: "Science"
-description: "Hours of Science revision and the grade won't budge? Our Woking GCSE Science tutors work on the exam questions themselves, triple or combined. Online, from £37."
+description: "Hours of Science revision and the grade won't budge? Our GCSE Science tutors for Woking work on the exam questions themselves, triple or combined. Online,"
 layout: "level-subject"
 location: "Woking"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Woking, Whether Your Child Sits Triple or Combined"
+hero_h1: "GCSE Science Tutors for Woking Students"
 hero_lead: "If your child's Science revision means rereading the same notes, you'll know how little it shifts. The papers don't test notes. Our GCSE Science tutors for Woking students work one-to-one online on the question types that carry the marks, in whichever science is costing them."
 
 angle_eyebrow: "THREE SUBJECTS, ONE REVISION HABIT"

@@ -1,5 +1,5 @@
 ---
-title: "Baldock GCSE Science Tutors | Online | The Degree Gap"
+title: "Baldock GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
 description: "Online GCSE Science tutors for Baldock families whose child knows the facts but drops marks on the six-mark answers. Exam board matched, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Baldock"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Baldock Families"
+hero_h1: "GCSE Science Tutors for Baldock Students"
 hero_lead: "Your child can write three correct things in a Science answer and still come away with two marks out of six. Our GCSE Science tutors for Baldock students work online on those longer answers, because that's where marks slip away without anyone noticing."
 
 angle_eyebrow: "THREE RIGHT THINGS, TWO MARKS"
@@ -28,7 +28,7 @@ schools:
   - "St Christopher School"
   - "Highfield School"
 
-steps_heading: "Getting your child started with a Baldock GCSE Science tutor"
+steps_heading: "Getting your child started with a GCSE Science tutor for Baldock students"
 steps_lead: "Tutor profiles reach you within 24 hours of the call. A marked paper helps: the six-mark answers on it tell us most of what we need."
 steps:
   - title: "Talk to Harry or Joe"

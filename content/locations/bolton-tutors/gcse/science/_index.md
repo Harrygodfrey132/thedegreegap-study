@@ -1,13 +1,13 @@
 ---
 title: "Bolton GCSE Science Tuition | The Degree Gap"
 nav_title: "Science"
-description: "Online GCSE Science tutors covering Bolton for triple and combined award, turning required practicals into answers that actually score. From £37 an hour."
+description: "Online GCSE Science tutors for Bolton, for triple and combined award, turning required practicals into answers that actually score. From £37 an hour."
 layout: "level-subject"
 location: "Bolton"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for the Bolton Year 11 Whose Practicals Never Became Answers"
+hero_h1: "GCSE Science Tutors for Bolton Students"
 hero_lead: "A required practical and the write-up of it are two different skills, and only the second one gets examined. Our GCSE Science tutors for Bolton students rebuild that second skill across all three sciences, one-to-one and online over Lessonspace."
 
 angle_eyebrow: "THE PRACTICAL WAS THE EASY PART"

@@ -1,5 +1,5 @@
 ---
-title: "Fareham GCSE Maths Tutors | Online | The Degree Gap"
+title: "Fareham GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Online GCSE Maths tutors for Fareham families whose child is sitting on a 4. One-to-one lessons aimed at a safer 5 or 6 before college. From £37, no contract."
 layout: "level-subject"
@@ -7,11 +7,11 @@ location: "Fareham"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Fareham, Aiming Past a 4"
+hero_h1: "GCSE Maths Tutors for Fareham Students"
 hero_lead: "If your child's Maths is hovering around a 4, you'll know how thin that feels: one off day could mean resitting it at college. Our GCSE Maths tutors for Fareham students work online on the topics that lift a 4 to a safer 5 or 6."
 
 angle_eyebrow: "A PASS WITH NO ROOM TO SPARE"
-angle_heading: "Why a Fareham GCSE Maths Tutor Aims Higher Than a 4"
+angle_heading: "Why a GCSE Maths Tutor for Fareham Students Aims Higher Than a 4"
 angle_body_1: "A 4 is a pass, and plenty of courses at Fareham College, or at the colleges towards Portsmouth and Southampton, will take one. But it's a pass with very little room in it. Grade boundaries shift a bit every year, and a predicted 4 can land either side of the line on the day. Below a 4, your child would normally have to keep studying Maths alongside their college course. So wanting some breathing room makes complete sense. What helps is that the gap up to a 6 is usually a handful of topics, not the whole course. It tends to be the same few: rearranging formulae, reverse percentages, ratio questions that hide the total, and right-angled trigonometry."
 angle_body_2: "So the tutor starts with a recent paper, ideally a mock. They go through it with your child to see which of those topics are costing the most. Then the lessons work through them, biggest first, often with a few quick non-calculator questions at the start to keep fractions and long division sharp. Whether your child is at Cams Hill, Henry Cort or Portchester, the aim's the same: a 5 that doesn't wobble, then a 6. That turns a bad morning into a lower pass rather than a resit. It also opens the courses that ask for more in Maths, like A-Level Maths and the Sciences."
 angle_image: "/images/maths-equations-close-up.jpg"

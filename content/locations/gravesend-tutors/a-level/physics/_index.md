@@ -7,11 +7,11 @@ location: "Gravesend"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Gravesend Students Who Hit a Wall at Fields"
+hero_h1: "A-Level Physics Tutors for Gravesend Students"
 hero_lead: "Year 12 Physics can feel manageable, then fields, capacitors and circular motion arrive in Year 13 and the maths gets harder all at once. Our A-Level Physics tutors for Gravesend students take each topic apart slowly, with your child doing the working."
 
 angle_eyebrow: "WHEN YEAR 13 PHYSICS GETS ABSTRACT"
-angle_heading: "How a Gravesend A-Level Physics Tutor Makes Fields and Circular Motion Make Sense"
+angle_heading: "How an A-Level Physics Tutor for Gravesend Students Makes Fields and Circular Motion Make Sense"
 angle_body_1: "Both grammar sixth forms in Gravesend teach AQA A-Level Physics, so plenty of local sixth formers face the same Year 13 jump. Fields and their consequences brings gravitational and electric fields, capacitors and electromagnetic induction together. Further mechanics adds circular motion and simple harmonic motion. Each one leans on maths: rearranging, logs for a discharging capacitor, the gradient or area under a graph. Add the required practicals, which come back as questions on uncertainty, and a child who coped in Year 12 can lose confidence quickly."
 angle_body_2: "So the tutor starts with a question your child got wrong and finds where it went: the physics, the maths, or reading what was asked. Then they practise that weak link on the shared whiteboard until it holds, before moving on. The optional topic in Year 13 varies by school, so we confirm which one on the call. It's worth it locally. The Lower Thames Crossing, being built just east of town, will be the UK's longest road tunnel, and its contractors, Balfour Beatty among them, run engineering apprenticeships."
 angle_image: "/images/physics-mechanics-force-diagram.jpg"

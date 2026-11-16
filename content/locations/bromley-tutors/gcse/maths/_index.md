@@ -1,13 +1,13 @@
 ---
 title: "GCSE Maths Tutors Covering Bromley | The Degree Gap"
 nav_title: "Maths"
-description: "Right answer, half the marks. Our Bromley GCSE Maths tutors help quick thinkers write down the working the mark scheme pays for. One-to-one online, from £37."
+description: "Right answer, half the marks. Our GCSE Maths tutors for Bromley help quick thinkers write down the working the mark scheme pays for. Online, from £37."
 layout: "level-subject"
 location: "Bromley"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online Bromley GCSE Maths Tutors for Quick Thinkers Who Skip the Working"
+hero_h1: "GCSE Maths Tutors for Bromley Students"
 hero_lead: "If your child gets the right answer and still loses half the marks, there's usually a reason, and it often goes back to being drilled for speed at ten. Our GCSE Maths tutors for Bromley students work online on the setting-out the mark scheme actually pays for."
 
 angle_eyebrow: "RIGHT ANSWER, HALF THE MARKS"

@@ -1,11 +1,11 @@
 ---
-title: "Tamworth A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "Mocks didn't go well? Our Tamworth A-Level tutors start with your child's paper and work out what to fix first. Online, from £37 an hour, with no contract."
+title: "Tamworth A-Level Tutors | One-to-One | The Degree Gap"
+description: "Mocks didn't go well? Our A-Level tutors for Tamworth start with your child's paper and work out what to fix first. Online, from £37 an hour, with no contract."
 layout: "subject"
 location: "Tamworth"
 level: "A-Level"
 
-hero_heading_line1: "Online Tamworth A-Level Tutors When the Mocks Don't Go to Plan"
+hero_heading_line1: "A-Level Tutors for Tamworth Students"
 hero_lead: "A disappointing mock can hang over the whole house. It happens to more families than you'd think. Our A-Level tutors for Tamworth students help your child find out where the marks went, while there's still time before the summer."
 
 grade_from: "C"
@@ -21,7 +21,7 @@ first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "A-Level"
 
-tutor_strip_heading: "Tamworth A-Level tutors who know how the mark schemes work"
+tutor_strip_heading: "A-Level tutors for Tamworth students who know how the mark schemes work"
 tutor_strip_body: "Every one has at least two years of tutoring experience. Book a free call with Harry or Joe, our co-founders, and within 24 hours you'll have profiles of two or three who'd suit your child. No contract, either."
 
 pathways_heading: "What Tamworth Year 13s Go On to Do"

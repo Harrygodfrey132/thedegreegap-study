@@ -1,13 +1,13 @@
 ---
-title: "Banbury GCSE Science Tutors | Online | The Degree Gap"
+title: "Banbury GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Not sure if your child should sit Higher or Foundation Science? Our Banbury GCSE Science tutors help you decide from a marked paper. Online, from £37 an hour."
+description: "Not sure if your child should sit Higher or Foundation Science? Our GCSE Science tutors for Banbury help you decide from a marked paper. Online, from £37."
 layout: "level-subject"
 location: "Banbury"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Banbury Families Weighing Up Higher or Foundation"
+hero_h1: "GCSE Science Tutors for Banbury Students"
 hero_lead: "Has Higher or Foundation Science come up at parents' evening, and you're not sure which is right? It's one of the biggest calls in Year 10. Our GCSE Science tutors for Banbury students help you make it from a marked paper, not a hunch."
 
 angle_eyebrow: "HIGHER OR FOUNDATION?"

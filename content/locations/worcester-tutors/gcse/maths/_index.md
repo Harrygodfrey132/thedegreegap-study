@@ -1,13 +1,13 @@
 ---
-title: "Worcester GCSE Maths Tutors | Online | The Degree Gap"
+title: "Worcester GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Worcester GCSE Maths tutors for when your child's revising hard and the mock mark won't budge. One-to-one and online, matched to their exam board, from £37."
+description: "GCSE Maths tutors for Worcester, for when your child's revising hard and the mock mark won't budge. Online, matched to their exam board, from £37."
 layout: "level-subject"
 location: "Worcester"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Worcester, When the Revision Isn't Working"
+hero_h1: "GCSE Maths Tutors for Worcester Students"
 hero_lead: "Your child's been revising for weeks, and the Maths mock still came back with the same mark. When our GCSE Maths tutors for Worcester students look closely, those hours have usually gone on the questions your child could already do."
 
 angle_eyebrow: "WHY ALL THAT REVISION ISN'T SHOWING UP"
@@ -28,7 +28,7 @@ schools:
   - "Royal Grammar School Worcester"
   - "King's School Worcester"
 
-steps_heading: "Three steps to a Worcester Maths tutor who sets the questions"
+steps_heading: "Three steps to a Maths tutor for Worcester students who sets the questions"
 steps_lead: "It starts with a free call, and tutor profiles follow within a day. If you can, start before the mock rather than after. A marked mock tells a tutor far more than a predicted grade ever will."
 steps:
   - title: "A free call about the revision"

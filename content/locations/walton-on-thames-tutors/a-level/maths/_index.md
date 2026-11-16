@@ -7,7 +7,7 @@ location: "Walton-on-Thames"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Walton-on-Thames Students Losing Ground Since September"
+hero_h1: "A-Level Maths Tutors for Walton-on-Thames Students"
 hero_lead: "A good GCSE grade felt solid, then by October the algebra in Year 12 is moving faster than your child can keep up with. Our A-Level Maths tutors for Walton-on-Thames students make that algebra automatic before the calculus gets built on top of it."
 
 angle_eyebrow: "THE SAME EDEXCEL PAPERS EITHER WAY"

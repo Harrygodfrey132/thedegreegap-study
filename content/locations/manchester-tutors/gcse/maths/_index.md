@@ -1,5 +1,5 @@
 ---
-title: "Manchester GCSE Maths Tutors | Online | The Degree Gap"
+title: "Manchester GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "GCSE Maths tutors for Manchester families, from a steady 5 for college to the higher grades the Trafford grammars and Xaverian ask for. Online, from £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Manchester"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Manchester and Trafford Families"
+hero_h1: "GCSE Maths Tutors for Manchester Students"
 hero_lead: "Your child's putting the work in, but the Maths paper keeps landing a grade short: a shaky 5, or a 6 when the A-Level course they want at Xaverian asks for more. Our GCSE Maths tutors for Manchester students find where the marks are leaking and rebuild from there."
 
 angle_eyebrow: "WHERE MANCHESTER MATHS MARKS GO MISSING"
@@ -28,7 +28,7 @@ schools:
   - "Manchester Academy"
   - "Xaverian College"
 
-steps_heading: "Getting started with a Manchester GCSE Maths tutor"
+steps_heading: "Getting started with a GCSE Maths tutor for Manchester students"
 steps_lead: "Profiles land within 24 hours of the call, and most families have a first lesson inside a week. That leaves time before the mocks that feed into sixth-form predicted grades."
 steps:
   - title: "Talk to us about your child"

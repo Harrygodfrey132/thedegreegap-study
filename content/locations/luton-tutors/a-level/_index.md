@@ -5,7 +5,7 @@ layout: "subject"
 location: "Luton"
 level: "A-Level"
 
-hero_heading_line1: "A-Level Tutors Who Give Luton Students Room to Be Wrong Out Loud"
+hero_heading_line1: "A-Level Tutors for Luton Students"
 hero_heading_line2: ""
 hero_lead: "Nobody wants to be the student asking what the method actually means in front of a large sixth form group. Our A-Level tutors for Luton students give an hour a week where asking costs nothing, online and one-to-one over Lessonspace."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "“Degree Gap helped my kid go from Cs to As.” Alexander, Parent, on Google"
 
 first_lesson_eyebrow: "THE QUESTION NOBODY ASKS"
-first_lesson_heading: "Why a Luton A-Level Tutor Asks What Year 12 Left Behind"
+first_lesson_heading: "Why an A-Level Tutor for Luton Students Asks What Year 12 Left Behind"
 first_lesson_context: "The step into Year 12 is steeper than almost anyone expects, and a college timetable moves at the pace the specification demands. So a student who did well at GCSE can spend a term nodding along and never say the one thing that would fix it. The tutor's first job is to make that admission cheap, then work out how far back the gap actually sits."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Grade C → Grade A"
 
-tutor_strip_heading: "The Luton A-Level tutors who take the basic question seriously"
+tutor_strip_heading: "The A-Level tutors for Luton students who take the basic question seriously"
 tutor_strip_body: "Most tutors on the platform are recent graduates who remember exactly where Year 13 leans on Year 12, and several are qualified examiners. Around 3% of applicants clear the founder-led interview. Lessons run one-to-one on Lessonspace, our shared whiteboard, and each one is recorded. Browse the profiles, or let us send you two."
 
 pathways_heading: "Where a Luton Sixth Former Goes Next"

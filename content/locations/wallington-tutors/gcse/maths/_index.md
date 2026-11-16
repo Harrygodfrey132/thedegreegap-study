@@ -7,7 +7,7 @@ location: "Wallington"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Wallington Students, From Foundation Basics to the Final Questions"
+hero_h1: "GCSE Maths Tutors for Wallington Students"
 hero_lead: "If Maths homework has started ending with a rubbed-out page and a long sigh, the trouble usually sits in one or two topics rather than the whole subject. Our online GCSE Maths tutors for Wallington students find those topics first, on Foundation or Higher."
 
 angle_eyebrow: "THE GRADE EVERY NEXT STEP CHECKS"

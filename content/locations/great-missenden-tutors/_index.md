@@ -1,9 +1,9 @@
 ---
-title: "Online Tutors for Your Child in Great Missenden | The Degree Gap"
+title: "Tutors for Your Child in Great Missenden | The Degree Gap"
 description: "Has your child gone quiet about one subject since starting secondary school in Great Missenden? We'll match them with an online tutor. From £37, no contract."
 layout: "single"
 location: "Great Missenden"
-banner_heading: "Online tutors for Great Missenden children finding their feet in a much bigger school"
+banner_heading: "GCSE and A-Level Tutors for Great Missenden Families"
 banner_description: "Harry or Joe gets to know your child on a free call first. Then we choose two or three tutors from across the UK who'll notice the small things a class of thirty can't stop for."
 content_angle: "the quiet child after a village primary: from a school where everyone knew them to a secondary several times the size, and one subject that slips without anyone noticing"
 intro_1: "At a village primary, somebody usually notices. Your child's teacher at Great Missenden Combined or Prestwood Junior has known them for years, and a wobble in fractions gets a quiet word at the gate. Then comes Year 7. It might be The Misbourne on Misbourne Drive, a train one stop down the line to Amersham, or a longer trip to a school in Chesham, Wendover or Aylesbury after the Transfer Test. Wherever it is, your child is suddenly one face in a school several times the size of the one they left. Most settle in fine. The quiet ones can go a whole year with one subject sliding, until a Year 9 report or a mock says so, and you're left wondering how you missed it."

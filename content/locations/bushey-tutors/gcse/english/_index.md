@@ -1,13 +1,13 @@
 ---
 title: "Bushey GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "English feels like guesswork? Our Bushey GCSE English tutors give your child a method for each question, from unseen extracts to essays. Online, from £37."
+description: "English feels like guesswork? Our GCSE English tutors for Bushey give your child a method for each question, from unseen extracts to essays. Online, from £37."
 layout: "level-subject"
 location: "Bushey"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Bushey Children Who Say English Has No Right Answers"
+hero_h1: "GCSE English Tutors for Bushey Students"
 hero_lead: "If your child is happy with an equation but freezes at 'how does the writer create tension?', English can start to feel like guesswork. Our GCSE English tutors for Bushey students give each question a method, from unseen extracts to the final piece of writing."
 
 card_eyebrow: "A FREE CHAT FIRST"
@@ -53,7 +53,7 @@ faqs:
     a: "Often because English doesn't look like it has rules, and that's unsettling for a child who likes clear answers. In fact the papers are quite predictable, and each type of question wants the same few moves every time. An essay wants an argument, not a summary of the plot. When nobody's had time to drill those moves one-to-one in a class of thirty, your child ends up guessing. A tutor teaches the moves, then practises them until they're automatic."
   - q: "Will my child have English to do between lessons, and how much?"
     a: "An hour or so a week usually does it. That might be one timed reading question, one essay plan for a set text and a handful of quotations learned properly. More than that tends to turn into copying out notes, which feels busy but rarely helps much. The tutor sets the work at the end of each lesson and goes through it at the start of the next, so your child gets feedback while it still matters."
-  - q: "My child has autism or ADHD. Can an English tutor in Bushey still help?"
+  - q: "My child has autism or ADHD. Can an English tutor for Bushey students still help?"
     a: "Yes. Tell us on the call, and we'll suggest tutors who've worked with autistic children or children with ADHD before. One-to-one, with no classroom noise, a tutor can break a reading question into small, clear steps and keep each lesson to a steady routine. Lessons are recorded, so your child can go back over a method without having to ask twice. Past-paper questions talked through together, with a little work set between lessons and marked side by side, can give the steady structure that helps."
   - q: "Could I sit in and listen to one of the English lessons?"
     a: "Of course. Plenty of parents listen in on the first one. After that, most step back, because teenagers tend to share their writing more freely without an audience. You'll still know what's going on, though. The tutor sends a short note after every lesson saying what they worked on and what comes next. And your child can rewatch any lesson whenever they want to."

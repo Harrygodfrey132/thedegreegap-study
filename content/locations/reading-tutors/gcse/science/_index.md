@@ -1,13 +1,13 @@
 ---
-title: "Reading GCSE Science Tutors | Online | The Degree Gap"
+title: "Reading GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Flashcards every night and the Science grade still stuck? Our Reading GCSE Science tutors work on real exam questions, triple or combined. Online, from £37."
+description: "Flashcards every night and the Science grade still stuck? Our GCSE Science tutors for Reading work on real exam questions, triple or combined. Online, from £37."
 layout: "level-subject"
 location: "Reading"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Reading Families"
+hero_h1: "GCSE Science Tutors for Reading Students"
 hero_lead: "Your child can recite the definitions, and the Science grade still hasn't moved. That's because most marks go on using what they know. Our GCSE Science tutors for Reading students work online on the exam questions themselves, which is where the grade gets decided."
 
 angle_eyebrow: "RECALL IS ONLY PART OF THE TEST"
@@ -28,7 +28,7 @@ schools:
   - "The Abbey School"
   - "Little Heath School"
 
-steps_heading: "Getting your child started with a GCSE Science tutor in Reading"
+steps_heading: "Getting your child started with a GCSE Science tutor for Reading students"
 steps_lead: "Tutor profiles arrive within a day. If your child's been revising hard and the grade hasn't moved, it's usually the method, not the effort."
 steps:
   - title: "A free call"

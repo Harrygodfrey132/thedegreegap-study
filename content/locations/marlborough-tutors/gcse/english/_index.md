@@ -7,7 +7,7 @@ location: "Marlborough"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Marlborough Students Who Freeze at the Unseen Poem"
+hero_h1: "GCSE English Tutors for Marlborough Students"
 hero_lead: "Your child can talk about Macbeth for ten minutes, then an unseen poem turns up in the exam and the page stays blank. Our GCSE English tutors for Marlborough students practise those first few minutes with a new text until they stop feeling frightening."
 
 angle_eyebrow: "A POEM THEY'VE NEVER SEEN"

@@ -7,7 +7,7 @@ location: "Dartford"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Dartford Students Thrown by the Chemistry in Biology"
+hero_h1: "A-Level Biology Tutors for Dartford Students"
 hero_lead: "Plenty of sixth formers pick Biology expecting more of GCSE, then meet bonds, water potential and enzyme rates in the first term. Our A-Level Biology tutors for Dartford students fill in the chemistry your child needs, without turning lessons into a Chemistry course."
 
 angle_eyebrow: "BIOLOGY WITHOUT A-LEVEL CHEMISTRY"

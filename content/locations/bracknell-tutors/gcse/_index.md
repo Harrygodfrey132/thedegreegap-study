@@ -5,7 +5,7 @@ layout: "subject"
 location: "Bracknell"
 level: "GCSE"
 
-hero_heading_line1: "Online Bracknell GCSE Tutors for Predicted Grades That Count Earlier Than You'd Think"
+hero_heading_line1: "GCSE Tutors for Bracknell Students"
 hero_heading_line2: ""
 hero_lead: "Most parents picture GCSEs being settled in the summer of Year 11, but sixth form applications here go in months before, with a predicted grade on them. Our GCSE tutors for Bracknell students help your child get the marks moving in time, whichever subject is lagging."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "“…after six months of working with Malvina, he has improved from a grade 5 to a 6/7.” Omo, parent, on Google, about their son's GCSE English in Year 10."
 
 first_lesson_eyebrow: "BEFORE THE AUTUMN DEADLINES"
-first_lesson_heading: "Why a Bracknell GCSE Tutor Starts in Year 10, Not Next Spring"
+first_lesson_heading: "Why a GCSE Tutor for Bracknell Students Starts in Year 10, Not Next Spring"
 first_lesson_context: "Ranelagh asks its own Year 11s to apply for sixth form by early December, and for September 2026 places Edgbarrow's closing date for pupils from other schools was 3 November, so the grades on those forms are predictions, not results. That's why a GCSE tutor uses the end of Year 10 and the first weeks of Year 11 on whichever subject is pulling the prediction down."
 first_lesson_quote: "I honestly can’t believe I’m saying this, but he now looks forward to his lessons."
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 → Grade 6/7 in GCSE English"
 
-tutor_strip_heading: "Bracknell GCSE tutors who check the board for every subject"
+tutor_strip_heading: "GCSE tutors for Bracknell students who check the board for every subject"
 tutor_strip_body: "At Sandhurst School, Maths and the sciences are AQA while History and Geography are Edexcel, so one child can sit several boards at once. We match each subject on its own. Have a look through the profiles, or let us pick for your child."
 
 pathways_heading: "Sixteen in Bracknell: Staying On, Moving On or Starting Work"

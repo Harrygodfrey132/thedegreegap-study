@@ -1,5 +1,5 @@
 ---
-title: "Worcester A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Worcester A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "In A-Level Chemistry, knowing the reaction isn't enough. The reagents and conditions carry marks too. Online tutoring for Worcester families, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Worcester"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors Covering Worcester and Worcestershire"
+hero_h1: "A-Level Chemistry Tutors for Worcester Students"
 hero_lead: "Your child knew the reaction and still lost the marks. In organic chemistry, the conditions count as much as the product. Our A-Level Chemistry tutors for Worcester students work on alcohol oxidation, reflux and distillation, and writing reagents out in full."
 
 angle_eyebrow: "THE SMALL WORDS THAT CARRY THE MARKS"
@@ -28,7 +28,7 @@ schools:
   - "Tudor Grange Academy Worcester"
   - "Bishop Perowne CE College"
 
-steps_heading: "Getting started with an online A-Level Chemistry tutor in Worcester"
+steps_heading: "Getting started with an online A-Level Chemistry tutor for Worcester students"
 steps_lead: "Most Worcester families are looking at profiles the day after the call. Writing conditions out properly is a habit, and it's one that tends to show in the marks within a few weeks."
 steps:
   - title: "Start with a free call"

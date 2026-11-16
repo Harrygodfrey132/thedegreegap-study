@@ -1,13 +1,13 @@
 ---
 title: "GCSE Maths Tutors for Rickmansworth Families | The Degree Gap"
 nav_title: "Maths"
-description: "Losing Maths marks on the non-calculator paper or the wordy questions at the end? Rickmansworth GCSE Maths tutors, online and one-to-one, from £37."
+description: "Losing Maths marks on the non-calculator paper or the wordy questions at the end? GCSE Maths tutors for Rickmansworth, online and one-to-one, from £37."
 layout: "level-subject"
 location: "Rickmansworth"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Rickmansworth, Croxley Green and Chorleywood"
+hero_h1: "GCSE Maths Tutors for Rickmansworth Students"
 hero_lead: "If your child copes in Maths lessons and then drops marks on the non-calculator paper, the gap is usually older than this year's topics. Our GCSE Maths tutors for Rickmansworth students track down the earlier step that slipped and rebuild from there."
 
 angle_eyebrow: "THREE PAPERS, ONE GRADE"

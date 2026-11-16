@@ -1,13 +1,13 @@
 ---
 title: "Havant A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Last questions blank on your child's A-Level Maths paper? Often it's time, not ability. Our Havant A-Level Maths tutors work on pacing, online and one-to-one."
+description: "Last questions blank on your child's A-Level Maths paper? Often it's time, not ability. Our A-Level Maths tutors for Havant work on pacing, online."
 layout: "level-subject"
 location: "Havant"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "A-Level Maths Tutors for Havant Teenagers Who Run Out of Time"
+hero_h1: "A-Level Maths Tutors for Havant Students"
 hero_lead: "A mock with the last few questions left blank often says more about time than ability. And they're often the ones worth the most marks. Our A-Level Maths tutors for Havant students work on pacing as much as method."
 
 angle_eyebrow: "THE MARKS AT THE BACK OF THE PAPER"
@@ -28,7 +28,7 @@ schools:
   - "Oaklands Catholic School"
   - "Havant and South Downs College"
 
-steps_heading: "Three simple steps to an A-Level Maths tutor in Havant"
+steps_heading: "Three simple steps to an A-Level Maths tutor for Havant students"
 steps_lead: "Profiles within a day of the call. Blank last questions on the mock are often exactly where the grade went."
 steps:
   - title: "Talk it through with us"
@@ -43,7 +43,7 @@ faqs:
     a: "Look at whether they finished the paper. If most of the work they did is right and the last questions are blank, it's pacing. More untimed revision can make that worse, because it gets your child used to working slowly. A tutor can fix that with a clear method. If the work they did is full of mistakes, it's content. And if the paper's finished and mostly right, they may not need us at all."
   - q: "How long are the lessons?"
     a: "Most are an hour. Where pacing's the problem, some families switch to ninety minutes closer to exams, so a bigger chunk of a paper can be done against the clock in one sitting. During term, a weekly hour is usually easier to protect. And for building speed, regular lessons count for more than long ones. We'll talk it through on the call, and you can change it later."
-  - q: "How soon could my child start with a Havant A-Level Maths tutor?"
+  - q: "How soon could my child start with an A-Level Maths tutor for Havant students?"
     a: "Usually within a week. First a free call with Joe or Harry, then two or three tutor profiles within a day of it. Next, a free 15-minute video meeting with the tutor your child likes best, and after that the first paid lesson. You don't pay anything until they've met. Mention it on the call if mocks are coming up. Pacing work tends to show early, so it's worth starting before them rather than after."
   - q: "Who would be teaching my child?"
     a: "Someone who's been tutoring for at least two years. Some are qualified teachers, some have graduated and some are still doing their degrees. Which one we'd suggest depends on the problem. If your child's rebuilding algebra from the ground up, a tutor who's taught that many times usually suits. If they know the methods but fall apart against a clock, a recent graduate who sat these papers and remembers the time pressure often works better. We'll suggest tutors from what we hear on the call, not a house preference."

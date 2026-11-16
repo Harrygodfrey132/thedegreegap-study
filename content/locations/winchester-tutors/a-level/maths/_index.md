@@ -1,13 +1,13 @@
 ---
-title: "Winchester A-Level Maths Tutors | Online | The Degree Gap"
+title: "Winchester A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Year 13 calculus marks slipping, though your child's good at Maths? Our Winchester A-Level Maths tutors help, at Peter Symonds or elsewhere. From £37."
+description: "Year 13 calculus marks slipping, though your child's good at Maths? Our online A-Level Maths tutors help Winchester students, at Peter Symonds or elsewhere."
 layout: "level-subject"
 location: "Winchester"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Winchester and Central Hampshire"
+hero_h1: "A-Level Maths Tutors for Winchester Students"
 hero_lead: "Good at Maths for years, then dropping marks in Year 13 calculus? Often it's one small habit, a dy/dx your child forgets to write, and our A-Level Maths tutors for Winchester students work on it line by line until it's gone."
 
 angle_eyebrow: "A NOTATION HABIT WORTH BREAKING"

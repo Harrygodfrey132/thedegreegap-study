@@ -1,13 +1,13 @@
 ---
 title: "GCSE Maths Tutors Covering Bath | The Degree Gap"
 nav_title: "Maths"
-description: "Is your child losing the proof and circle theorem marks on the higher paper? Our Bath GCSE Maths tutors teach them to write the reasons. Online, from £37."
+description: "Is your child losing the proof and circle theorem marks on the higher paper? Our GCSE Maths tutors for Bath teach them to write the reasons. Online, from £37."
 layout: "level-subject"
 location: "Bath"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors in Bath for the Proof and Reasoning Marks"
+hero_h1: "GCSE Maths Tutors for Bath Students"
 hero_lead: "Maybe your child can do every method on the higher paper but still drops the marks on proof and circle theorems. Those questions want a reason, not a number. Our GCSE Maths tutors for Bath students show your child how to write one, one-to-one and online."
 
 angle_eyebrow: "THE QUESTIONS THAT WANT A REASON, NOT AN ANSWER"

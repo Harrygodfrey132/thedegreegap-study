@@ -1,17 +1,17 @@
 ---
 title: "Fleet GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Good at Maths but stuck in English? Our Fleet GCSE English tutors give your child a method for unseen extracts, essays and timing. Online, from £37 an hour."
+description: "Good at Maths but stuck in English? Our GCSE English tutors for Fleet give your child a method for unseen extracts, essays and timing. Online, from £37 an hour."
 layout: "level-subject"
 location: "Fleet"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors Covering Fleet and Church Crookham"
+hero_h1: "GCSE English Tutors for Fleet Students"
 hero_lead: "Your child can whizz through a page of equations, then sit frozen over an English question about how a writer builds tension. Our GCSE English tutors for Fleet students give them a way into questions like that in one-to-one online lessons, so English stops feeling like guesswork."
 
 angle_eyebrow: "WHEN ENGLISH IS THE ODD ONE OUT"
-angle_heading: "Where a Fleet GCSE English Tutor Starts With a Child Who Thinks in Numbers"
+angle_heading: "Where a GCSE English Tutor for Fleet Students Starts With a Child Who Thinks in Numbers"
 angle_body_1: "We hear some version of this from parents a lot. Maths and Science are going well, sometimes very well, and English is the grade that won't budge. Usually it isn't that your child can't write. It's that English doesn't seem to have right answers, so they never know when they've said enough. On the Language papers, a question about how the writer creates an effect gets a summary of the passage instead. In Literature, the essay retells the story and forgets to make a point. And the writing task, which closes each Language paper, gets rushed because the reading questions ran long."
 angle_body_2: "So the tutor treats English a little like Maths, with a method your child can repeat. For an unseen extract, that's three moves: pick a phrase, say what it suggests, say why the writer chose it. For Literature, a few short quotations per theme, learnt like formulas. Then timed writing practice, because on AQA the writing task is worth half the marks on each Language paper. For a child aiming at a 4, that's often where to begin. The grade matters beyond English, too. At Yateley School's sixth form, the science A-Levels want a 5 in English on top of a 6 in Science, though it's worth checking this year's guide."
 angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"

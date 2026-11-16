@@ -1,13 +1,13 @@
 ---
 title: "GCSE Maths Tutors for Stamford Families | The Degree Gap"
 nav_title: "Maths"
-description: "Losing marks on the non-calculator paper? Our Stamford GCSE Maths tutors find the early method that slipped and rebuild it, one-to-one online. From £37."
+description: "Losing marks on the non-calculator paper? Our GCSE Maths tutors for Stamford find the early method that slipped and rebuild it, one-to-one online. From £37."
 layout: "level-subject"
 location: "Stamford"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Stamford, Ketton and Easton on the Hill"
+hero_h1: "GCSE Maths Tutors for Stamford Students"
 hero_lead: "Your child follows the lesson in class, then the non-calculator paper comes round and the marks fall away. Our GCSE Maths tutors for Stamford students rebuild the fractions and algebra underneath, one method at a time, in one-to-one lessons online."
 
 angle_eyebrow: "ONE PAPER WITHOUT A CALCULATOR"
@@ -44,7 +44,7 @@ faqs:
   - q: "Which matters more for GCSE Maths: the paper without a calculator, or the two with one?"
     a: "Both matter, because all three papers count equally. One is non-calculator and two allow a calculator, so the calculator papers carry two-thirds of the marks between them. The non-calculator paper rewards quick, accurate arithmetic and confident algebra, while the calculator papers reward careful problem-solving over several steps. Plenty of children drop quick marks early on the non-calculator paper, then run short of time near the end of the last one. If your child's school uses Eduqas, it's two papers rather than three. A tutor works out which paper is costing more and starts there."
   - q: "Why is my child struggling with GCSE Maths when they used to find it easy?"
-    a: "Usually because something early never quite settled, and the course has since built on it. It might be decimals and place value from Year 7, or solving simple equations from Year 8. In a class of thirty there's rarely time to go back, so your child keeps up by memorising steps they don't fully trust. That works until the questions get longer. A Stamford tutor's first job is finding which early skill it was, so the newer topics have something solid to sit on."
+    a: "Usually because something early never quite settled, and the course has since built on it. It might be decimals and place value from Year 7, or solving simple equations from Year 8. In a class of thirty there's rarely time to go back, so your child keeps up by memorising steps they don't fully trust. That works until the questions get longer. A tutor for Stamford families's first job is finding which early skill it was, so the newer topics have something solid to sit on."
   - q: "What sort of person would be tutoring my child in Maths?"
     a: "Someone Harry or Joe have interviewed, with at least two years of tutoring behind them. Many tutors on our platform are qualified teachers, and many studied at Russell Group universities, while others are still at university themselves. On the call we'll ask what your child needs most, whether that's patience with the basics or a push on the hardest questions, then suggest tutors to suit. Your child meets the one they like on a free video call before anything's booked."
   - q: "What does GCSE Maths tutoring cost, roughly?"

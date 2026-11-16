@@ -1,13 +1,13 @@
 ---
-title: "York A-Level Biology Tutors | Online | The Degree Gap"
+title: "York A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Right answer, lost marks? Our York A-Level Biology tutors help your child set out genetic crosses properly, from sex linkage to codominance. Online, from £37."
+description: "Right answer, lost marks? Our A-Level Biology tutors for York help your child set out genetic crosses properly, from sex linkage to codominance. Online,"
 layout: "level-subject"
 location: "York"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for York, Matched to Your Child"
+hero_h1: "A-Level Biology Tutors for York Students"
 hero_lead: "If your child gets the right ratio in a genetics question and still loses marks, it's usually the setting out. Our A-Level Biology tutors for York students work on sex linkage, codominance and the notation the mark scheme rewards."
 
 angle_eyebrow: "THE MARKS ARE IN THE SETTING OUT"
@@ -28,7 +28,7 @@ schools:
   - "All Saints RC School"
   - "Joseph Rowntree School"
 
-steps_heading: "Finding a York A-Level Biology tutor for your child"
+steps_heading: "Finding an A-Level Biology tutor for your child in York"
 steps_lead: "Most York families see tutor profiles within 24 hours of the call, often ahead of the tests that shape your child's UCAS prediction."
 steps:
   - title: "Tell us where the marks go"
@@ -39,7 +39,7 @@ steps:
     body: "Lessons are weekly and one-to-one, using the platform Lessonspace. Every cross is set out in full, with the notation corrected as your child writes. There's a replay of every lesson, so a good cross can be kept as a model. From £37 an hour, cancel any week."
 
 faqs:
-  - q: "Can a York A-Level Biology tutor help my child apply for Medicine or a bioscience course?"
+  - q: "Can an A-Level Biology tutor for York students help my child apply for Medicine or a bioscience course?"
     a: "Yes, and getting the predicted grade up is the first part of that. Medicine, Veterinary and Biomedical courses at York, Leeds and across the Russell Group often ask for around A*AA or AAA with Biology, and Medicine usually wants Chemistry too. If the prediction isn't in range, the rest of the application often doesn't get far. Beyond the grades, Joe and Harry also give guidance on subject choices and university applications to the families we work with."
   - q: "How do I know if my child needs a Biology tutor, or just more time revising genetics?"
     a: "Look at a marked genetics question, not the grade. If your child got the right ratio and still lost the marks, it's the setting out, and a tutor can usually fix that in a handful of lessons, because it's a habit, not understanding. If the reasoning itself went wrong, that's content, and revision can do some of the work. If it's both, start with the setting out. It's the cheaper win, and it makes the rest easier to see."

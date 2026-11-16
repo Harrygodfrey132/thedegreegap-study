@@ -1,5 +1,5 @@
 ---
-title: "Basingstoke GCSE English Tutors | Online | The Degree Gap"
+title: "Basingstoke GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "Online GCSE English tutors for Basingstoke. Your child writes a piece each week and gets it back marked, line by line, for Language and Literature. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Basingstoke"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Basingstoke, With Writing Marked Weekly"
+hero_h1: "GCSE English Tutors for Basingstoke Students"
 hero_lead: "'Develop your analysis.' Three words in the margin of your child's English essay, and neither of you is sure what they mean. Our GCSE English tutors for Basingstoke students show your child what it looks like, using a piece of their own writing each week."
 
 angle_eyebrow: "ABOUT THAT COMMENT IN THE MARGIN"

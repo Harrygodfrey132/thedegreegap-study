@@ -7,7 +7,7 @@ location: "Gloucester"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Gloucester Students Taking Combined or Triple"
+hero_h1: "GCSE Science Tutors for Gloucester Students"
 hero_lead: "Science can be three problems at once: Physics equations, Chemistry calculations and Biology's long answers. Our GCSE Science tutors for Gloucester students find which one is costing your child most and start there, one-to-one and online."
 
 angle_eyebrow: "THREE SCIENCES, ONE BIGGEST LEAK"

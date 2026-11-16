@@ -7,7 +7,7 @@ location: "Bury St Edmunds"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Bury St Edmunds Students Finding Year 12 a Shock"
+hero_h1: "A-Level Maths Tutors for Bury St Edmunds Students"
 hero_lead: "Your child got the GCSE grade A-Level Maths asked for, and now the algebra in Year 12 moves twice as fast as it used to. Our A-Level Maths tutors for Bury St Edmunds students rebuild the speed and habits the course quietly takes for granted."
 
 angle_eyebrow: "THE ALGEBRA YEAR 12 ASSUMES"

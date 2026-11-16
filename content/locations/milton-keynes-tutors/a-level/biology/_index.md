@@ -1,5 +1,5 @@
 ---
-title: "Milton Keynes A-Level Biology Tutors | Online | The Degree Gap"
+title: "Milton Keynes A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
 description: "Online A-Level Biology tutors for Milton Keynes families. Muscle contraction and the role of ATP, rebuilt one step at a time until it sticks. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Milton Keynes"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Families Across Milton Keynes"
+hero_h1: "A-Level Biology Tutors for Milton Keynes Students"
 hero_lead: "Muscle contraction makes sense when your child explains it out loud, and then the mock marks it down. Our A-Level Biology tutors for Milton Keynes students rebuild the sliding filament sequence step by step, including the two jobs ATP does inside it."
 
 angle_eyebrow: "SIX STEPS, IN ORDER, EVERY TIME"
@@ -28,7 +28,7 @@ schools:
   - "Oakgrove School"
   - "Lord Grey School"
 
-steps_heading: "Getting your child started with an A-Level Biology tutor in Milton Keynes"
+steps_heading: "Getting your child started with an A-Level Biology tutor for Milton Keynes students"
 steps_lead: "Profiles usually land within 24 hours for Milton Keynes families. Sequence work needs lots of weeks, not long lessons, so starting early beats doubling up later."
 steps:
   - title: "Tell us what you're seeing"

@@ -1,5 +1,5 @@
 ---
-title: "Basingstoke A-Level Biology Tutors | Online | The Degree Gap"
+title: "Basingstoke A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
 description: "Online A-Level Biology tutors for Basingstoke families. Your child's written answers marked line by line, starting with protein structure. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Basingstoke"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors Working With Basingstoke Families"
+hero_h1: "A-Level Biology Tutors for Basingstoke Students"
 hero_lead: "Your child writes the long answer, gets a mark back, and still can't tell you what was missing. Our A-Level Biology tutors for Basingstoke students mark every answer against the exam board's mark scheme, starting with protein structure, where the bonds decide the marks."
 
 angle_eyebrow: "THE MARK, BUT NOT THE MISSING WORDS"

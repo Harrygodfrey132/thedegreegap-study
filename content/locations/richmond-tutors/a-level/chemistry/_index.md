@@ -7,7 +7,7 @@ location: "Richmond"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Richmond Students Lost in the Organic Mechanisms"
+hero_h1: "A-Level Chemistry Tutors for Richmond Students"
 hero_lead: "Organic Chemistry is where plenty of capable Year 12s first feel out of their depth, and the calculations don't wait for them. Our A-Level Chemistry tutors for Richmond students take mechanisms and multi-step sums one arrow and one line at a time."
 
 angle_eyebrow: "THE GOVERNMENT CHEMIST’S BOROUGH"

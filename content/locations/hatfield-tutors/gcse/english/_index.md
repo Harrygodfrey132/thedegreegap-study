@@ -1,13 +1,13 @@
 ---
-title: "Hatfield GCSE English Tutors | Online | The Degree Gap"
+title: "Hatfield GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Does your child talk well about books but write thin essays? Our Hatfield GCSE English tutors help get those ideas onto paper. One-to-one online, from £37."
+description: "Does your child talk well about books but write thin essays? Our GCSE English tutors for Hatfield help get those ideas onto paper. One-to-one online, from £37."
 layout: "level-subject"
 location: "Hatfield"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors Covering Hatfield"
+hero_h1: "GCSE English Tutors for Hatfield Students"
 hero_lead: "Over tea, your child can make a sharp point about a book. On paper, the same point shrinks to a line or two. Our GCSE English tutors for Hatfield students work one-to-one online on getting the spoken version onto the page."
 
 angle_eyebrow: "ARTICULATE OUT LOUD, THIN ON PAPER"

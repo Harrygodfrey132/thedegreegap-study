@@ -7,7 +7,7 @@ location: "Ampthill"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Ampthill Students Who Stall on the Wordy Questions"
+hero_h1: "GCSE Maths Tutors for Ampthill Students"
 hero_lead: "Give your child a straight equation and they're fine. Wrap it in a paragraph about a garden or a phone contract and the page stays blank. Our GCSE Maths tutors for Ampthill students teach them to find the Maths inside the words."
 
 angle_eyebrow: "THE MATHS INSIDE THE WORDS"

@@ -1,13 +1,13 @@
 ---
-title: "Solihull A-Level Maths Tutors | Online | The Degree Gap"
+title: "Solihull A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Predicted a B in A-Level Maths and losing marks on Statistics? Our Solihull tutors work on the written side of hypothesis tests with your child. From £37."
+description: "Predicted a B in A-Level Maths and losing marks on Statistics? Our online tutors work with Solihull students on the written side of hypothesis tests."
 layout: "level-subject"
 location: "Solihull"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online Solihull A-Level Maths Tutors for Every Statistics Mark"
+hero_h1: "A-Level Maths Tutors for Solihull Students"
 hero_lead: "The Statistics questions often feel easy, and then the marks come back lower. Our A-Level Maths tutors for Solihull students show your child where those marks went: the assumptions around a hypothesis test, and a conclusion that earns its marks."
 
 angle_eyebrow: "THE ARITHMETIC IS THE EASY BIT"

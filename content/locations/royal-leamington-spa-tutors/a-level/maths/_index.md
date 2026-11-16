@@ -1,5 +1,5 @@
 ---
-title: "Royal Leamington Spa A-Level Maths Tutors | Online | The Degree Gap"
+title: "Royal Leamington Spa A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Online A-Level Maths tutors for Royal Leamington Spa, for when your child knows the content but runs out of time before the long final questions. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Royal Leamington Spa"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutoring Around Royal Leamington Spa"
+hero_h1: "A-Level Maths Tutors for Royal Leamington Spa Students"
 hero_lead: "We often speak to parents whose child is on an A in Maths but keeps running out of time. Our A-Level Maths tutors for Royal Leamington Spa students work on pace and on the long final questions, where plenty of the top-grade marks sit."
 
 angle_eyebrow: "WHEN THE CLOCK RUNS OUT FIRST"

@@ -7,7 +7,7 @@ location: "Dulwich"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors for Dulwich Students on Every Board and Tier"
+hero_h1: "GCSE Maths Tutors for Dulwich Students"
 hero_lead: "In Dulwich the GCSE Maths grade gets read for more than A-Level Maths, because sixth forms often name it for A-Level Physics and Chemistry too. Our GCSE Maths tutors for Dulwich students find which questions cost your child marks and start there."
 
 angle_eyebrow: "THE GRADE OTHER SUBJECTS ASK FOR"

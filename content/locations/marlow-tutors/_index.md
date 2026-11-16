@@ -1,9 +1,9 @@
 ---
 title: "Marlow Tutors | GCSE & A-Level | The Degree Gap"
-description: "Sixth form from Marlow could mean Bucks, Berkshire or Oxfordshire, each with its own entry rules. Our Marlow tutors work online on the subject that decides it."
+description: "Sixth form from Marlow could mean Bucks, Berkshire or Oxfordshire, each with its own entry rules. Our tutors work online on the subject that decides it."
 layout: "single"
 location: "Marlow"
-banner_heading: "Online one-to-one tutors for Marlow families weighing up sixth forms on both sides of the Thames"
+banner_heading: "GCSE and A-Level Tutors for Marlow Families"
 banner_description: "From Marlow, your child's options at sixteen sit in Bucks, Berkshire and Oxfordshire, and each one sets its own GCSE entry grades. Tutors on our platform work with your child one-to-one and online, on whichever subject matters most for getting in."
 content_angle: "post-16 choice across a county border, pieced together one website at a time"
 intro_1: "Stand on Marlow bridge and you're looking at three counties' worth of choices. The town's in Buckinghamshire, Bisham on the far bank is in Berkshire, and Henley, a few miles upstream, is in Oxfordshire. By Year 11, all three are genuinely on the table for your child. Some Marlow teenagers stay put at Sir William Borlase's or Great Marlow School. Some catch the bus to The Henley College. Others look up the hill to Wycombe or down the line to Maidenhead. Each place decides entry its own way. And most parents find that out one website at a time, usually in the October of Year 11, with the forms already open."

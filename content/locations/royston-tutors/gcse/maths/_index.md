@@ -1,14 +1,14 @@
 ---
 title: "GCSE Maths Tutors for Royston Families | The Degree Gap"
 nav_title: "Maths"
-description: "Your child's Maths grade can decide a resit or a place on A-Level Maths in Baldock or Cambridge. Our Royston GCSE Maths tutors help online, from £37 an hour."
+description: "Your child's Maths grade can decide a resit or a place on A-Level Maths in Baldock or Cambridge. Our GCSE Maths tutors for Royston help online, from £37."
 layout: "level-subject"
 location: "Royston"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutoring for Royston Teenagers"
-hero_lead: "Whether your child needs a 4 to keep a Maths resit off their sixth form timetable, or the 6 or 7 needed for A-Level Maths, a lot rides on this grade. Royston GCSE Maths tutors on our platform trace dropped marks to their source, online."
+hero_h1: "GCSE Maths Tutors for Royston Students"
+hero_lead: "Whether your child needs a 4 to keep a Maths resit off their sixth form timetable, or the 6 or 7 needed for A-Level Maths, a lot rides on this grade. GCSE Maths tutors for Royston students on our platform trace dropped marks to their source, online."
 
 card_eyebrow: "FREE CONSULTATION CALL"
 card_heading: "Tell us where Maths is going wrong"

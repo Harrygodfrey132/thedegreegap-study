@@ -7,7 +7,7 @@ location: "Tooting"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Tooting Students Who'd Rather Be Doing Maths"
+hero_h1: "GCSE English Tutors for Tooting Students"
 hero_lead: "Some children love a question with one right answer, and GCSE English seems to have none. Our GCSE English tutors for Tooting students give your child a method for each question, so essays stop feeling like guesswork."
 
 angle_eyebrow: "FOR CHILDREN WHO LIKE A RIGHT ANSWER"

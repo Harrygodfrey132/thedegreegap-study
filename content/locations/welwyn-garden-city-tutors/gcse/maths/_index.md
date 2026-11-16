@@ -1,13 +1,13 @@
 ---
-title: "Welwyn Garden City GCSE Maths Tutors | Online | The Degree Gap"
+title: "Welwyn Garden City GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "A shaky Maths skill can cost your child marks in Science and Geography too. Our Welwyn Garden City GCSE Maths tutors find it, online and one-to-one, from £37."
+description: "A shaky Maths skill can cost your child marks in Science and Geography too. Our GCSE Maths tutors for Welwyn Garden City find it, online, from £37."
 layout: "level-subject"
 location: "Welwyn Garden City"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Welwyn Garden City Families"
+hero_h1: "GCSE Maths Tutors for Welwyn Garden City Students"
 hero_lead: "A Maths gap rarely stays inside Maths. If your child's Physics or Geography marks are slipping too, our GCSE Maths tutors for Welwyn Garden City students look for the one skill sitting underneath all of it."
 
 angle_eyebrow: "IT'S NOT ONLY THE MATHS GRADE"
@@ -27,7 +27,7 @@ schools:
   - "Onslow St Audrey's School"
   - "Bishop's Hatfield Girls' School"
 
-steps_heading: "Three steps to a GCSE Maths tutor in Welwyn Garden City"
+steps_heading: "Three steps to a GCSE Maths tutor for Welwyn Garden City students"
 steps_lead: "Expect tutor profiles within a day of the call, and nothing's paid for until your child has met the tutor and you're happy to go ahead."
 steps:
   - title: "A free call with us"

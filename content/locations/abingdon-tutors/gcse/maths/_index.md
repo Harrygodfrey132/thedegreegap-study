@@ -1,13 +1,13 @@
 ---
 title: "GCSE Maths Tutors in Abingdon | The Degree Gap"
 nav_title: "Maths"
-description: "GCSE or iGCSE, Maths matters at sixteen. Our Abingdon GCSE Maths tutors find the step where your child's marks start going and rebuild it online. From £37."
+description: "GCSE or iGCSE, Maths matters at sixteen. Our GCSE Maths tutors for Abingdon find the step where your child's marks start going and rebuild it online. From £37."
 layout: "level-subject"
 location: "Abingdon"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Abingdon, One Topic at a Time"
+hero_h1: "GCSE Maths Tutors for Abingdon Students"
 hero_lead: "You sit down to help with the Maths homework, find it's nothing like the way you learnt it, and ten minutes later you're both frustrated. Our GCSE Maths tutors for Abingdon students take over that hour, one-to-one and online, and start with the skill that's actually stuck."
 
 angle_eyebrow: "TWO SETS OF PAPERS, ONE TOWN"

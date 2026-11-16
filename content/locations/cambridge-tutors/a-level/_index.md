@@ -1,11 +1,11 @@
 ---
-title: "A-Level Tutors in Cambridge | Online One-to-One | The Degree Gap"
-description: "Cambridge A-Level tutors for a Year 12 or 13 whose predicted grade sits just short of the offer they want. One-to-one lessons online, from £37, no contract."
+title: "A-Level Tutors in Cambridge | One-to-One | The Degree Gap"
+description: "A-Level tutors for Cambridge, for a Year 12 or 13 whose predicted grade sits just short of the offer they want. One-to-one lessons online, from £37."
 layout: "subject"
 location: "Cambridge"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors in Cambridge for a Borderline Grade Before UCAS"
+hero_heading_line1: "A-Level Tutors for Cambridge Students"
 hero_heading_line2: ""
 hero_lead: "Your child's hovering between two grades, and the prediction that goes to UCAS in the autumn of Year 13 could land either side. Our A-Level tutors for Cambridge students work one-to-one online on the questions that decide which way it falls."
 
@@ -14,7 +14,7 @@ grade_to: "A"
 grade_stat: "Cs turned into As for Alexander's child, who also had help with university choices and applications."
 
 first_lesson_eyebrow: "THE GAP BEHIND A BORDERLINE GRADE"
-first_lesson_heading: "Where a Cambridge A-Level Tutor Finds the Lost Marks"
+first_lesson_heading: "Where an A-Level Tutor for Cambridge Students Finds the Lost Marks"
 first_lesson_context: "A Year 12 mock that comes back lower than expected is rarely down to effort. What usually costs your child marks is the longer questions, where A-Level wants a tighter kind of reasoning than GCSE ever did, and in a full class there's rarely time to go through that one-to-one. So an A-Level tutor starts there, with a marked paper and the questions that lost the most marks."
 
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
@@ -22,7 +22,7 @@ first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "A-Level"
 
-tutor_strip_heading: "Cambridge A-Level tutors who sat the same papers not long ago"
+tutor_strip_heading: "A-Level tutors for Cambridge students who sat the same papers not long ago"
 tutor_strip_body: "Many of the tutors we'd suggest took these A-Levels a few years ago, and some went through Oxbridge applications themselves. We'll match on the exact course, whether your child's at Hills Road, Long Road or another sixth form. Browse the profiles, or leave the choosing to us."
 
 pathways_heading: "What Comes After A-Levels in Cambridge"

@@ -5,7 +5,7 @@ layout: "subject"
 location: "Beaconsfield"
 level: "A-Level"
 
-hero_heading_line1: "Online Beaconsfield A-Level Tutors for the Year 12 Wobble Nobody Warned You About"
+hero_heading_line1: "A-Level Tutors for Beaconsfield Students"
 hero_heading_line2: ""
 hero_lead: "Your child sailed through GCSEs. Then the first Year 12 test came home with a mark that shocked everyone, them included. Our A-Level tutors for Beaconsfield students work one-to-one online to find where the marks went, and it's early enough to do something about it."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "Alexander's child went from Cs to As, with help from tutors on our platform."
 
 first_lesson_eyebrow: "AN OCTOBER PHONE CALL"
-first_lesson_heading: "Two Grades Down in Year 12: What a Beaconsfield A-Level Tutor Does"
+first_lesson_heading: "Two Grades Down in Year 12: What an A-Level Tutor for Beaconsfield Students Does"
 first_lesson_context: "It's often October when a parent rings us, holding a Year 12 test two grades below anything their child got at GCSE. That's normal, and it's fixable. An A-Level tutor reads the test with your child, works out whether the marks went on method, written explanation or time, and starts there, well before universities see a predicted grade."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "From Cs to As at A-Level"
 
-tutor_strip_heading: "Beaconsfield A-Level tutors matched to the board your child sits"
+tutor_strip_heading: "A-Level tutors for Beaconsfield students matched to the board your child sits"
 tutor_strip_body: "Beaconsfield High, The Beaconsfield School and the Wycombe grammars each pick their own A-Level boards, and at this level the board shapes almost every question. So we check it first. Book a free consultation call and we'll send 2 or 3 tutor profiles within 24 hours."
 
 pathways_heading: "Where Beaconsfield Teenagers Head After Year 13"

@@ -7,7 +7,7 @@ location: "Orpington"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Orpington Students Who Know the Facts but Drop the Marks"
+hero_h1: "A-Level Biology Tutors for Orpington Students"
 hero_lead: "Your child can recite the stages of respiration, then a question sets it in an organism they've never heard of and the marks slip away. Our A-Level Biology tutors for Orpington students teach them to use what they know, not just repeat it."
 
 angle_eyebrow: "WHEN RECALL ISN'T ENOUGH"

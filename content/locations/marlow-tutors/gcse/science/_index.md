@@ -1,13 +1,13 @@
 ---
 title: "Marlow GCSE Science Tuition | The Degree Gap"
 nav_title: "Science"
-description: "Is one science quietly pulling your child's grade down? Our Marlow GCSE Science tutors find out which, then work on it online. Triple or combined, from £37."
+description: "Is one science quietly pulling your child's grade down? Our GCSE Science tutors for Marlow find out which, then work on it online. Triple or combined, from £37."
 layout: "level-subject"
 location: "Marlow"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Marlow GCSE Science Tutors Online, Taking Biology, Chemistry and Physics One at a Time"
+hero_h1: "GCSE Science Tutors for Marlow Students"
 hero_lead: "Science rarely slips evenly across Biology, Chemistry and Physics, and the weak one isn't always the one your child talks about. Our GCSE Science tutors for Marlow students find it, one-to-one and online, and put the hours there."
 
 angle_eyebrow: "ONE RESULT, THREE SCIENCES"
@@ -28,7 +28,7 @@ schools:
   - "The Henley College"
   - "Buckinghamshire College Group"
 
-steps_heading: "Three steps from first call to a Marlow GCSE Science tutor"
+steps_heading: "Three steps from first call to a GCSE Science tutor for Marlow students"
 steps_lead: "Profiles to look at arrive within a day. Then the big question is where the hour goes, and your child's last marked paper usually answers it."
 steps:
   - title: "Tell us where things are"

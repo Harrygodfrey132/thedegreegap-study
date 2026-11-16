@@ -1,13 +1,13 @@
 ---
 title: "GCSE English Tutors Covering Maidstone | The Degree Gap"
 nav_title: "English"
-description: "Are your child's English essays accurate but stuck on middling marks? Our Maidstone GCSE English tutors teach the step from retelling to arguing. From £37."
+description: "English essays accurate but stuck on middling marks? Our online GCSE English tutors teach Maidstone students the step from retelling to arguing. From £37."
 layout: "level-subject"
 location: "Maidstone"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutoring in Maidstone, for Essays That Retell Instead of Argue"
+hero_h1: "GCSE English Tutors for Maidstone Students"
 hero_lead: "If your child's English answers come back accurate, tidy and stuck around half marks, they're probably saying what happens, not why the writer did it. We see it all the time. Our GCSE English tutors for Maidstone students teach the difference, then practise it until it holds."
 
 angle_eyebrow: "WHAT HAPPENS, VERSUS WHY THE WRITER DID IT"

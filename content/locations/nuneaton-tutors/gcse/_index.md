@@ -1,11 +1,11 @@
 ---
-title: "Nuneaton GCSE Tutors, Online and One-to-One | The Degree Gap"
+title: "Nuneaton GCSE Tutors, One-to-One | The Degree Gap"
 description: "Predicted GCSE grades going on a college form by January? We'll match your Nuneaton teenager with an online GCSE tutor on their board. From £37, no contract."
 layout: "subject"
 location: "Nuneaton"
 level: "GCSE"
 
-hero_heading_line1: "Online Nuneaton GCSE Tutors Who Start Before the Predicted Grades Go Out"
+hero_heading_line1: "GCSE Tutors for Nuneaton Students"
 hero_heading_line2: ""
 hero_lead: "By January of Year 11, lots of sixth form and college applications have already gone in, with your child's predicted grades on them. Our GCSE tutors for Nuneaton students find the topics costing the most marks and start on them while those grades can still move."
 
@@ -14,7 +14,7 @@ grade_to: "6/7"
 grade_stat: "“…after six months of working with Malvina, he has improved from a grade 5 to a 6/7.” From Omo, a parent, on Google"
 
 first_lesson_eyebrow: "BEFORE THE JANUARY FORM"
-first_lesson_heading: "Why a Nuneaton GCSE Tutor Asks Where Your Child Is Applying at 16"
+first_lesson_heading: "Why a GCSE Tutor for Nuneaton Students Asks Where Your Child Is Applying at 16"
 first_lesson_context: "King Edward VI College asks for predicted GCSE grades when your child applies, and the full choice of courses goes to applications made by 31 January, which puts a deadline right in the middle of Year 11. It's a lot for a 15-year-old to carry alongside the mocks. So a GCSE tutor starts with the courses your child has in mind and the grades each one asks for, then looks at which subject is furthest off."
 first_lesson_quote: "Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset."
 first_lesson_quote_name: "Omo"

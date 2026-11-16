@@ -3,12 +3,12 @@ title: "Brighton Tutoring | GCSE & A-Level Tutors"
 description: "Is your child aiming for BHASVIC or Varndean? Our online Brighton tutors help with GCSE and A-Level, one-to-one. A free call first, then lessons from £37."
 layout: single
 location: Brighton
-banner_heading: "Need an online Brighton tutor to help your child reach the grades for college?"
+banner_heading: "GCSE and A-Level Tutors for Brighton Families"
 banner_description: "In Brighton, Year 11 often comes down to the grades for the college your child has set their heart on. Our tutors help them get there."
 content_angle: "exam pressure: the college grades Year 11 is working towards, seen from the parent's side"
 intro_1: "Parents' evening in Year 10 is often when it lands. A teacher mentions sixth form, you look up the BHASVIC entry requirements that night, and there's a gap between where your child is and where they'd need to be. Brighton has no state grammar schools, but that doesn't take the pressure away. It just moves it to sixteen. BHASVIC and Varndean College both publish their grade requirements, and both are oversubscribed."
 intro_2: "The families who call us from Brighton and Hove aren't all in the same spot. Some have a child with one subject dragging the rest down. Some have a child who seems fine in lessons and then loses marks in the exam. And some have a Year 12 who wants to push hard at A-Level. A one-to-one tutor works on your child's actual sticking points, at their pace and on their exam board, which a class of thirty can't stop to do. They'll start with a recent mock, find where the marks went, and plan from there."
-about_heading: Find the Right Tutor in Brighton
+about_heading: Find the Right Tutor for Brighton Students
 about_image: /images/graduation-ceremony-caps.jpg
 schools_intro: "We can work with families from schools all over Brighton and Hove, including Dorothy Stringer, Varndean School, Hove Park, Cardinal Newman, Longhill High and PACA. Each school has its own mix of exam boards, so on the first call we'll find out which ones your child is sitting and match the tutor to those. We also work directly with more than 15 UK secondary schools. And during the school day, Harry and Joe are often in schools running revision workshops."
 schools:

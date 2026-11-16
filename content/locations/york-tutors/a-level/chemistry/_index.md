@@ -1,5 +1,5 @@
 ---
-title: "York A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "York A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Does your child know Le Chatelier's principle but drop marks on the 'why' questions? Online A-Level Chemistry tutors for York families, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "York"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for York Families, Matched on Exam Board"
+hero_h1: "A-Level Chemistry Tutors for York Students"
 hero_lead: "Your child can recite Le Chatelier's principle, yet the equilibrium questions keep coming back at half marks. Those questions want a compromise argued, not a rule repeated. Our A-Level Chemistry tutors for York students work on that, and on why industry rarely uses the textbook's best conditions."
 
 angle_eyebrow: "WHY THE BEST CONDITIONS AREN'T THE ONES USED"

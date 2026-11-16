@@ -7,7 +7,7 @@ location: "Windsor"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Windsor Sixth Formers Whose Paragraphs Stop Before the Judgement"
+hero_h1: "A-Level Economics Tutors for Windsor Students"
 hero_lead: "Your child can define a negative externality, then writes an essay about one that could be set anywhere. Our A-Level Economics tutors for Windsor students teach the evaluation AQA rewards, using examples your child can see from home, like the planes over Heathrow."
 
 angle_eyebrow: "ECONOMICS UNDER THE FLIGHT PATH"

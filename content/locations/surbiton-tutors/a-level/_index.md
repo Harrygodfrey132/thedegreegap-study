@@ -1,11 +1,11 @@
 ---
 title: "Surbiton A-Level Tutors | One-to-One | The Degree Gap"
-description: "Did the first Year 12 test come back lower than the GCSEs suggested? Our Surbiton A-Level tutors rebuild what the course assumes, online. From £37, no contract."
+description: "Did the first Year 12 test come back lower than the GCSEs suggested? Our A-Level tutors for Surbiton rebuild what the course assumes, online. From £37."
 layout: "subject"
 location: "Surbiton"
 level: "A-Level"
 
-hero_heading_line1: "A-Level Tutors for Surbiton Year 12s Finding the Step Up Steeper Than Expected"
+hero_heading_line1: "A-Level Tutors for Surbiton Students"
 hero_heading_line2: ""
 hero_lead: "Your child met the entry grades, started Year 12 full of plans, and the first marked test has knocked them. Our A-Level tutors for Surbiton students go back to the GCSE topics the new course takes for granted, then catch up with the class."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "Alexander, a parent, on Google: “Degree Gap helped my kid go from Cs to As.” The review doesn't name the subjects."
 
 first_lesson_eyebrow: "FROM THE ENTRY GRADE TO YEAR 12"
-first_lesson_heading: "Why a Surbiton A-Level Tutor Looks Back at GCSE Before Moving On"
+first_lesson_heading: "Why an A-Level Tutor for Surbiton Students Looks Back at GCSE Before Moving On"
 first_lesson_context: "Esher Sixth Form College asks for a 6 in GCSE Maths before A-Level Maths, and Southborough for a high 6 or a 7. That's a fair bar, but it doesn't mean the algebra is quick yet. So an A-Level tutor often starts one step behind the course, on the GCSE methods Year 12 assumes, and speeds up once they hold."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Cs → As"
 
-tutor_strip_heading: "Surbiton A-Level tutors chosen subject by subject, board by board"
+tutor_strip_heading: "A-Level tutors for Surbiton students chosen subject by subject, board by board"
 tutor_strip_body: "At Esher Sixth Form College, Maths and Biology are Edexcel, Chemistry is OCR and Physics is AQA, so one sixth former can sit three boards. We match every subject separately. Have a look below, or leave it to us."
 
 pathways_heading: "What Surbiton Sixth Formers Can Reach From Home After A-Levels"

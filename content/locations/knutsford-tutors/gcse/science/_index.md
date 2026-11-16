@@ -1,13 +1,13 @@
 ---
 title: "Knutsford GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Chemistry holding back your child's Science grade? Our Knutsford GCSE Science tutors find the weak spot, from practicals to six-mark answers. Online, from £37."
+description: "Chemistry holding back your child's Science grade? Our GCSE Science tutors for Knutsford find the weak spot, from practicals to six-mark answers. Online,"
 layout: "level-subject"
 location: "Knutsford"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Your Child in Knutsford"
+hero_h1: "GCSE Science Tutors for Knutsford Students"
 hero_lead: "Biology's fine, Physics is holding up, and Chemistry keeps dragging your child's whole Science grade down. Our GCSE Science tutors for Knutsford students work out which of the three is costing marks and start there, one-to-one and online."
 
 card_heading: "Talk your child's Science through with us"
@@ -45,7 +45,7 @@ steps:
     body: "An hour a week, one-to-one, in the online classroom Lessonspace. There's a replay of every lesson, so a worked calculation can be watched again before a test. Topics that never quite stuck get as long as they need. From £37 an hour, no contract, and if your child and the tutor don't click, we'll swap at no cost."
 
 faqs:
-  - q: "Can a Knutsford GCSE Science tutor help my child towards an AstraZeneca apprenticeship?"
+  - q: "Can a GCSE Science tutor for Knutsford students help my child towards an AstraZeneca apprenticeship?"
     a: "Yes, with the grades. AstraZeneca's Macclesfield site has asked for five grade 4s or above, with Maths, English and Science among them, for most of its apprenticeships. Its science-based roles have later asked for Chemistry or something similar at A-Level. The requirements can change from one intake to the next, so it's worth starting from this year's advert. Chemistry and the Maths inside Physics usually matter most, and that's everyday work for a tutor. We can talk about timing on the call too, because some applications open before results day."
   - q: "Will my child need a different tutor for each science?"
     a: "Not usually. For combined Science one tutor often works well, because they can see how the three papers fit together, and lots of the tutors on our platform teach all three at GCSE. For triple, or when one science is miles behind the others, a tutor who focuses on that subject tends to be the better pick. If it's Physics and your child's Maths is wobbling too, a Maths and Physics tutor can take on both. We'll suggest one or two on the call."

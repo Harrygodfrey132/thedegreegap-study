@@ -7,11 +7,11 @@ location: "Gravesend"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Gravesend Students Whose Language Grade Lags Behind"
+hero_h1: "GCSE English Tutors for Gravesend Students"
 hero_lead: "Plenty of children do fine in Literature and keep losing marks in Language, or the other way round, and the report doesn't always make clear which. Our GCSE English tutors for Gravesend students find which paper is costing the grade and practise exactly that."
 
 angle_eyebrow: "TWO ENGLISH GRADES, NOT ONE"
-angle_heading: "Why a Gravesend GCSE English Tutor Treats Language and Literature Separately"
+angle_heading: "Why a GCSE English Tutor for Gravesend Students Treats Language and Literature Separately"
 angle_body_1: "English is two GCSEs, and in Gravesend that matters more than it might. Gravesend Grammar's sixth form wants a 5 in one of them and at least a 4 in English Language whatever the Literature grade, while Mayfield asks for a 5 in English. In Language, marks usually go on the writing task at the end of each paper, where a rushed start leaves an answer with no shape, and on questions about how a writer uses structure. In Literature, it's quotations. A child can know their Shakespeare play inside out and still have nothing exact to quote."
 angle_body_2: "So the tutor reads a recent mock from each paper before deciding where to begin. For the writing tasks, your child plans in five minutes and writes to that plan against the clock, then the two of you mark it against the levels. For Literature, the tutor helps build a short bank of quotations for each text, ones your child can bend to fit whatever the question asks. It matters beyond results day. Mayfield, for one, asks for a 6 in both English GCSEs before A-Level English Literature, and plenty of college courses look for English Language at 4 or above."
 angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"

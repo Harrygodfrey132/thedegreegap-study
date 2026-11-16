@@ -1,5 +1,5 @@
 ---
-title: "Online A-Level Chemistry Tutoring for Redhill Students | The Degree Gap"
+title: "A-Level Chemistry Tutoring for Redhill Students | The Degree Gap"
 nav_title: "Chemistry"
 description: "Did the jump from GCSE to A-Level moles catch your child out? Online A-Level Chemistry tutoring for Redhill sixth formers, one-to-one. From £37, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Redhill"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Redhill Students Caught Out by Year 12 Moles"
+hero_h1: "A-Level Chemistry Tutors for Redhill Students"
 hero_lead: "The mole calculations that felt easy at GCSE come back in Year 12 with titrations, gas volumes and three steps instead of one. Our A-Level Chemistry tutors for Redhill students put the calculations right first, because so much of the course leans on them."
 
 angle_eyebrow: "A CALCULATION INSIDE EVERY TOPIC"

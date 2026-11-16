@@ -7,7 +7,7 @@ location: "Ampthill"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Ampthill Students Who Know the Theory but Not the Extract"
+hero_h1: "A-Level Economics Tutors for Ampthill Students"
 hero_lead: "Your child understands supply and demand, then the exam hands them an extract about a market they've never heard of. Our A-Level Economics tutors for Ampthill students practise that step, with real examples from a few miles down the road."
 
 angle_eyebrow: "THE CASE STUDY YOU DRIVE PAST"

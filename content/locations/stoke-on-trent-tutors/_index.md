@@ -1,9 +1,9 @@
 ---
-title: "Worried About GCSEs? Online Tutors for Stoke-on-Trent Students"
+title: "Worried About GCSEs? Tutors for Stoke-on-Trent Students"
 description: "Is GCSE Maths or English worrying you for your child in Stoke-on-Trent? We'll match them with an online tutor who suits them. Free call first, from £37 an hour."
 layout: "single"
 location: "Stoke-on-Trent"
-banner_heading: "Online GCSE and A-Level tutors for Stoke-on-Trent children, from Tunstall down to Longton"
+banner_heading: "GCSE and A-Level Tutors for Stoke-on-Trent Families"
 banner_description: "Tell us what's going wrong at school and we'll suggest two or three tutors who've helped children through the same thing, with every lesson from home."
 content_angle: "the grade 4 in Maths and English that decides what a Stoke child's first year at college looks like"
 intro_1: "Plenty of Stoke-on-Trent parents mention Maths before anything else when they ring us. Homework that took twenty minutes in Year 8 now swallows the whole evening. You've sat down to help, found the method isn't the one you learnt, and watched it end with both of you fed up. And the worry has a Stoke twist. At sixteen lots of the city's children move on, to the City of Stoke-on-Trent Sixth Form College on Leek Road, to Stoke-on-Trent College or to a school sixth form, and the sixth form college keeps anyone without a grade 4 in Maths and English studying towards it while they're there."

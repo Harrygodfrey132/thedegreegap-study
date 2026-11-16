@@ -1,5 +1,5 @@
 ---
-title: "Wigan A-Level Biology Tutors | Online | The Degree Gap"
+title: "Wigan A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
 description: "Did your child get a 7 in GCSE Biology, then a D in Year 12? Our online Wigan A-Level Biology tutors help with data and long answers, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Wigan"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Wigan, Standish and Leigh"
+hero_h1: "A-Level Biology Tutors for Wigan Students"
 hero_lead: "A 7 in GCSE Biology, then a D on the first Year 12 test. It's one of the calls we hear most from Wigan parents, and it's hardly ever about effort. Our A-Level Biology tutors for Wigan students work out what changed, and start there."
 
 angle_eyebrow: "WHEN A GOOD GCSE STOPS BEING ENOUGH"

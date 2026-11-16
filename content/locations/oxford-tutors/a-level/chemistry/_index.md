@@ -1,5 +1,5 @@
 ---
-title: "Oxford A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Oxford A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Is catalysis costing your child the A*? Online A-Level Chemistry tutors for Oxford families, with every answer marked as strictly as the exam. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Oxford"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online One-to-One A-Level Chemistry Tutors for Oxford Families"
+hero_h1: "A-Level Chemistry Tutors for Oxford Students"
 hero_lead: "If your child's Chemistry is solid but the A* keeps slipping out of reach, catalysis is often where it goes. Our A-Level Chemistry tutors for Oxford students work on the two kinds of catalyst, on autocatalysis and on what a catalyst doesn't change."
 
 angle_eyebrow: "WHAT A CATALYST DOESN'T CHANGE"

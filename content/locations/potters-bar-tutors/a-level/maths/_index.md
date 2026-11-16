@@ -1,13 +1,13 @@
 ---
 title: "Potters Bar A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Pure, mechanics and statistics all count. Our Potters Bar A-Level Maths tutors find the strand your child is losing marks on. One-to-one online, from £37."
+description: "Pure, mechanics and statistics all count. Our A-Level Maths tutors for Potters Bar find the strand your child is losing marks on. One-to-one online, from £37."
 layout: "level-subject"
 location: "Potters Bar"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Sixth Formers in and Around Potters Bar"
+hero_h1: "A-Level Maths Tutors for Potters Bar Students"
 hero_lead: "Everyone taking A-Level Maths sits pure, mechanics and statistics, so a child who's fine with calculus can still be lost on forces or hypothesis tests. Our A-Level Maths tutors for Potters Bar students find the strand that's slipping and work on it one-to-one, online."
 
 angle_eyebrow: "ALL THREE STRANDS COUNT"
@@ -28,7 +28,7 @@ schools:
   - "Queen Elizabeth's School, Barnet"
   - "Queenswood School"
 
-steps_heading: "From one marked test to a Potters Bar A-Level Maths tutor"
+steps_heading: "From one marked test to an A-Level Maths tutor for Potters Bar students"
 steps_lead: "The autumn of Year 12, once the first tests are marked, is a good moment to get in touch."
 steps:
   - title: "Start with a conversation"

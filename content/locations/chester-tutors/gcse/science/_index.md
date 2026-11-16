@@ -1,5 +1,5 @@
 ---
-title: "Chester GCSE Science Tutors | Online | The Degree Gap"
+title: "Chester GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
 description: "Online GCSE Science tutors for Chester families, on both sides of the border. We find which science is costing your child marks first. From £37, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Chester"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Supporting Chester Families"
+hero_h1: "GCSE Science Tutors for Chester Students"
 hero_lead: "A Science grade that looks low overall can hide one science that's fine, one that's wobbling and one that's fallen behind. Our GCSE Science tutors for Chester students pull the three apart before a single term goes on any of them."
 
 angle_eyebrow: "WHAT THE OVERALL GRADE HIDES"
@@ -28,7 +28,7 @@ schools:
   - "Christleton High School"
   - "Upton-by-Chester High School"
 
-steps_heading: "Finding Your Child a Chester GCSE Science Tutor in 3 Steps"
+steps_heading: "Finding Your Child a GCSE Science Tutor for Chester Students in 3 Steps"
 steps_lead: "Once you know which science needs the hours, most of the hard part's done. Finding that out starts with a chat."
 steps:
   - title: "Talk it through with Harry or Joe"

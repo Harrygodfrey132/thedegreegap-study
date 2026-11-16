@@ -1,9 +1,9 @@
 ---
 title: "Norwich Tutors | GCSE & A-Level from £37/hr"
-description: "Is your child stuck on something that started years ago? A Norwich tutor finds that old gap first, one-to-one online, and works forward from it. From £37."
+description: "Is your child stuck on something that started years ago? A tutor for Norwich finds that old gap first, one-to-one online, and works forward from it. From £37."
 layout: single
 location: Norwich
-banner_heading: "Need an online Norwich tutor who goes back to where it stopped making sense?"
+banner_heading: "GCSE and A-Level Tutors for Norwich Families"
 banner_description: "Often it's a topic from a year or two back. A tutor finds that first, and your child builds up from there."
 content_angle: foundation gaps
 intro_1: "Your child did the homework, kept their head down and never caused a fuss in class. Then Year 10 arrives, the revision starts, and it turns out the ground underneath is shakier than anyone knew. It's one of the things Norwich parents tell us most. Norfolk's GCSE results have sat below the national average for years, and that isn't about schools letting children down. It's that plenty of capable teenagers reach GCSE carrying gaps from earlier years that nobody had the time to go back to."

@@ -7,7 +7,7 @@ location: "Balham"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Balham Students Tangled Up in Genetics"
+hero_h1: "A-Level Biology Tutors for Balham Students"
 hero_lead: "Your child can define an allele, then a dihybrid cross with linked genes comes up and the ratio matches nothing they've learnt. Our A-Level Biology tutors for Balham students work through genetics problems step by step until the method holds."
 
 angle_eyebrow: "WHEN THE RATIO ISN'T 9:3:3:1"

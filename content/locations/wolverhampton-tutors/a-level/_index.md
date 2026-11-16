@@ -1,11 +1,11 @@
 ---
 title: "Wolverhampton A-Level Tutors | One-to-One | The Degree Gap"
-description: "Wolverhampton A-Level tutors, one-to-one and online, for when your child's predicted grade sits a band under the offer. Matched to their exam board, from £37."
+description: "A-Level tutors for Wolverhampton, online, for when your child's predicted grade sits a band under the offer. Matched to their exam board, from £37."
 layout: "subject"
 location: "Wolverhampton"
 level: "A-Level"
 
-hero_heading_line1: "Online Wolverhampton A-Level Tutors for a Prediction Sitting Just Under the Offer"
+hero_heading_line1: "A-Level Tutors for Wolverhampton Students"
 hero_heading_line2: ""
 hero_lead: "Your child's predicted grade is one band under the offer, and they're already working hard. Our A-Level tutors for Wolverhampton students work on the marks that decide it. Usually that's exam technique, not more content."
 
@@ -21,7 +21,7 @@ first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Grade C to Grade A across A-Levels"
 
-tutor_strip_heading: "Wolverhampton A-Level tutors chosen by exam board, not postcode"
+tutor_strip_heading: "A-Level tutors for Wolverhampton students chosen by exam board, not postcode"
 tutor_strip_body: "The best tutor for your child's OCR Chemistry or Edexcel Economics might not live in the West Midlands, and online, that doesn't matter. Many tutors here studied at Russell Group universities, and some are qualified examiners. Scroll through, or book a free call and we'll do the choosing."
 
 pathways_heading: "Beyond A-Levels in Wolverhampton"

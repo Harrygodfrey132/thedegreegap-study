@@ -1,11 +1,11 @@
 ---
-title: "Harrogate GCSE Tutors | One-to-One Online | The Degree Gap"
-description: "School's going fine, but the mock came back lower than you'd hoped? Our Harrogate GCSE tutors build the hour around your child, matched on exam board, from £37."
+title: "Harrogate GCSE Tutors | One-to-One | The Degree Gap"
+description: "School's going fine, but the mock came back lower than you'd hoped? Our online GCSE tutors build the hour around Harrogate students, matched on exam board."
 layout: "subject"
 location: "Harrogate"
 level: "GCSE"
 
-hero_heading_line1: "Online Harrogate GCSE Tutors for When the Report's Fine but the Mock Isn't"
+hero_heading_line1: "GCSE Tutors for Harrogate Students"
 hero_heading_line2: ""
 hero_lead: "Most Harrogate parents who call us are happy with the school. The report's fine, the teaching's good, and still the mock came back lower than you'd hoped. Our GCSE tutors for Harrogate students add what a class of thirty can't: a plan built for one child, yours."
 
@@ -15,7 +15,7 @@ grade_stat: "It's the kind of move weekly lessons are aimed at when your child a
 grade_card: "aim"
 
 first_lesson_eyebrow: "WHY A GOOD SCHOOL ISN'T THE WHOLE ANSWER"
-first_lesson_heading: "Why a Harrogate GCSE Tutor Can Aim the Hour at Your Child Alone"
+first_lesson_heading: "Why a GCSE Tutor for Harrogate Students Can Aim the Hour at Your Child Alone"
 first_lesson_context: "A teacher with thirty in the room and a syllabus to finish has to teach to the middle, and the schools here do that well. But a child who's a little ahead gets practice they don't need, and one who missed an idea in October can carry it to May, because there's rarely a spare minute to go back for it. An hour a week with a GCSE tutor isn't better teaching, just teaching pointed at one person."
 
 first_lesson_quote: "Emir, is simply amazing with our daughter. He 'gets' her totally, her sessions are helping her with her school work so much. We can't thank him enough ! …"
@@ -23,7 +23,7 @@ first_lesson_quote_name: "Heidi"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "GCSE"
 
-tutor_strip_heading: "Harrogate GCSE tutors who start with your child's exam board"
+tutor_strip_heading: "GCSE tutors for Harrogate students who start with your child's exam board"
 tutor_strip_body: "Schools across North Yorkshire use AQA, Edexcel and OCR, and each board phrases and marks its questions in its own way. About 3% of applicants get onto the platform, and the interview's mostly about explaining things clearly to a teenager who's stuck. Browse, or let us match."
 
 pathways_heading: "Where Harrogate Year 11s Go Next"

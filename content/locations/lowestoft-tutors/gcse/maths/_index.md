@@ -7,7 +7,7 @@ location: "Lowestoft"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Lowestoft Teenagers Torn Between Foundation and Higher"
+hero_h1: "GCSE Maths Tutors for Lowestoft Students"
 hero_lead: "If your child's teachers are weighing up Foundation or Higher tier, that choice decides the top grade on offer. Our GCSE Maths tutors for Lowestoft families work out which marks your child can reliably win now, and build out from there."
 
 angle_eyebrow: "A CEILING OF 5, OR A FLOOR OF 4"

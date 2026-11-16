@@ -7,7 +7,7 @@ location: "Lowestoft"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Lowestoft Teenagers Who Run Out of Time on the Writing"
+hero_h1: "GCSE English Tutors for Lowestoft Students"
 hero_lead: "Your child can talk about the book for ages, but the timed writing question at the end of the paper gets ten rushed minutes. Our GCSE English tutors for Lowestoft students teach a plan that fits the time, so the marks sitting there actually get picked up."
 
 angle_eyebrow: "HALF THE MARKS, LAST IN THE PAPER"

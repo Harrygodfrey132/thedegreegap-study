@@ -1,13 +1,13 @@
 ---
 title: "Maidstone A-Level Maths Tutors | One-to-One | The Degree Gap"
 nav_title: "Maths"
-description: "Year 12 Maths suddenly asking your child to prove things? Our Maidstone A-Level Maths tutors help build the argument, one-to-one online. From £37, no contract."
+description: "Year 12 Maths suddenly asking your child to prove things? Our A-Level Maths tutors for Maidstone help build the argument, one-to-one online. From £37."
 layout: "level-subject"
 location: "Maidstone"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutoring in Maidstone, for Year 12s Thrown by Proof"
+hero_h1: "A-Level Maths Tutors for Maidstone Students"
 hero_lead: "Quick and accurate all through GCSE, and now your child's stuck on the first question that says prove rather than calculate? Our A-Level Maths tutors for Maidstone students work on that change directly, one-to-one online, until writing the argument down feels normal."
 
 angle_eyebrow: "CALCULATE, THEN JUSTIFY"

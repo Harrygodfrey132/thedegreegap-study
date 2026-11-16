@@ -1,5 +1,5 @@
 ---
-title: "Online GCSE Science Tutors | Solihull | The Degree Gap"
+title: "GCSE Science Tutors | Solihull | The Degree Gap"
 nav_title: "Science"
 description: "GCSE Science help for Solihull families, online and one-to-one. Our tutors start with the practicals: marks your child can bank early. From £37, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Solihull"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutoring for Solihull, Starting With the Practicals"
+hero_h1: "GCSE Science Tutors for Solihull Students"
 hero_lead: "Part of every Science paper asks about experiments your child has already done in a school lab, and it's nearly always the last thing anyone revises. Our GCSE Science tutors for Solihull students start there, because those are some of the easiest marks on the paper to win back."
 
 angle_eyebrow: "THE EASIEST SCIENCE MARKS TO WIN BACK"

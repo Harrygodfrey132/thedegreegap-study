@@ -1,13 +1,13 @@
 ---
-title: "Harrogate A-Level Biology Tutors | Online | The Degree Gap"
+title: "Harrogate A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Top grade at GCSE, then a C in Year 12? Our Harrogate A-Level Biology tutors help your child move from description to explanation. Online, one-to-one, from £37."
+description: "Top grade at GCSE, then a C in Year 12? Our A-Level Biology tutors for Harrogate help your child move from description to explanation. Online, from £37."
 layout: "level-subject"
 location: "Harrogate"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Harrogate and Knaresborough"
+hero_h1: "A-Level Biology Tutors for Harrogate Students"
 hero_lead: "If your child flew through GCSE Biology and their first Year 12 test came back a C, it's a very common story. Our A-Level Biology tutors for Harrogate students show your child what A-Level answers need that GCSE ones didn't: the reason behind each step."
 
 angle_eyebrow: "WHY 'IT DENATURES' ISN'T ENOUGH"

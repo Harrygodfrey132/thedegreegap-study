@@ -1,11 +1,11 @@
 ---
-title: "Manchester A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "If the predicted grade is short of the offer your child wants, our Manchester A-Level tutors can help. One-to-one lessons online, from £37 an hour, no contract."
+title: "Manchester A-Level Tutors | One-to-One | The Degree Gap"
+description: "If the predicted grade is short of the offer your child wants, our A-Level tutors for Manchester can help. One-to-one lessons online, from £37, no contract."
 layout: "subject"
 location: "Manchester"
 level: "A-Level"
 
-hero_heading_line1: "Online Manchester A-Level Tutors to Close the Gap Between the Prediction and the Offer"
+hero_heading_line1: "A-Level Tutors for Manchester Students"
 hero_heading_line2: ""
 hero_lead: "The predicted grades are in, and they're below the offer your child had in mind. Our A-Level tutors for Manchester students find where the marks are slipping and work on them, whether the aim's a university place or a degree apprenticeship."
 
@@ -14,7 +14,7 @@ grade_to: "A"
 grade_stat: "One parent's son beat his Year 13 mock by almost two grades. It's the kind of move weekly lessons aim for, though nobody can promise it."
 
 first_lesson_eyebrow: "BEFORE THE UCAS BUTTON GOES IN"
-first_lesson_heading: "The Year 12 Exam Paper Is Where a Manchester A-Level Tutor Begins"
+first_lesson_heading: "The Year 12 Exam Paper Is Where an A-Level Tutor for Manchester Students Begins"
 first_lesson_context: "The call we get most from Manchester parents comes after the Year 12 end-of-year exams: 8s and 9s at GCSE, and now a C. The tutor goes through that paper with your child in the first week to see exactly what cost the grade. From the second lesson, they work on weighing up an argument and on multi-step working, which is what Year 13 papers reward."
 
 first_lesson_quote: "My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
@@ -22,7 +22,7 @@ first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Two grades above Year 13 mock"
 
-tutor_strip_heading: "Manchester A-Level tutors, many of whom know the Russell Group route first-hand"
+tutor_strip_heading: "A-Level tutors for Manchester students, many of whom know the Russell Group route first-hand"
 tutor_strip_body: "The tutors on our platform are graduates and undergraduates, many from Russell Group universities including Manchester, Oxford and Cambridge. We match on your child's exam board, not just the subject. Have a look at their profiles, or we'll send you two or three after a free call."
 
 pathways_heading: "Manchester After A-Levels: The Routes Your Child Might Take"

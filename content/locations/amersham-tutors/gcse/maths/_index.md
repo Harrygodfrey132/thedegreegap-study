@@ -1,13 +1,13 @@
 ---
 title: "Amersham GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Maths marks going missing even when the answer's in the question? Our Amersham GCSE Maths tutors help your child set out every step. Online, from £37 an hour."
+description: "Maths marks going missing even when the answer's in the question? Our GCSE Maths tutors for Amersham help your child set out every step. Online, from £37."
 layout: "level-subject"
 location: "Amersham"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors for Amersham Students Losing Marks on Show-That Questions"
+hero_h1: "GCSE Maths Tutors for Amersham Students"
 hero_lead: "The answer's printed right there in the question, and your child still loses the marks. Our GCSE Maths tutors for Amersham students help them set out the reasoning examiners want to see, one-to-one and online, starting from a marked mock."
 
 angle_eyebrow: "THE ANSWER IS ALREADY ON THE PAGE"

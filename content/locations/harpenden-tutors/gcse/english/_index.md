@@ -7,7 +7,7 @@ location: "Harpenden"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutoring in Harpenden When the Essays Stay Vague"
+hero_h1: "GCSE English Tutors for Harpenden Students"
 hero_lead: "The teacher's comment says 'explain the effect', and your child honestly thought they had. Our GCSE English tutors for Harpenden students work online on the missing step: saying exactly what one word is doing, the way the mark scheme rewards."
 
 angle_eyebrow: "SAYING WHAT IT ACTUALLY DOES"
@@ -28,7 +28,7 @@ schools:
   - "St Albans Girls' School"
   - "Beaumont School"
 
-steps_heading: "How we get your child started with a Harpenden GCSE English tutor"
+steps_heading: "How we get your child started with a GCSE English tutor for Harpenden students"
 steps_lead: "You'll see tutor profiles within a day. Send us a marked essay and we can usually spot the habit that's costing the marks."
 steps:
   - title: "A free call with Harry or Joe"

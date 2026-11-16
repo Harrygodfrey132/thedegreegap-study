@@ -7,7 +7,7 @@ location: "Windsor"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Windsor Teenagers Who Need Maths for More Than Maths"
+hero_h1: "GCSE Maths Tutors for Windsor Students"
 hero_lead: "If your child is hoping to take Physics, Economics or a science at A-Level, the sixth form will ask about their Maths grade too. Our GCSE Maths tutors for Windsor students find where the marks are slipping, often in algebra, and work on that first."
 
 angle_eyebrow: "A 7 FOR PHYSICS, A 6 FOR ECONOMICS"

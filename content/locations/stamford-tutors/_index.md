@@ -1,9 +1,9 @@
 ---
 title: "Stamford Private Tutors | GCSE & A-Level | The Degree Gap"
-description: "Four counties meet just west of Stamford, so classmates can end up at very different schools. We find tutors who know your child's own school and exam board."
+description: "Four counties meet just west of Stamford, so classmates end up at very different schools. We find online tutors who know your child's school and exam board."
 layout: "single"
 location: "Stamford"
-banner_heading: "Online Stamford tutors for families whose school run crosses a county line"
+banner_heading: "GCSE and A-Level Tutors for Stamford Families"
 banner_description: "Your child might live in Rutland and go to school in Lincolnshire, or the other way round, so we'll match them with a tutor who knows their own school's exam board, and every lesson happens at home, online."
 content_angle: "a corner of Lincolnshire where four counties meet, so families choose schools across county lines and school types (an 11 to 16 academy, an independent school, a grammar school in Bourne, schools over the Rutland and Peterborough borders) and children reach their GCSEs by quite different routes"
 intro_1: "Draw a four-mile circle round Stamford and it takes in four counties. Easton on the Hill, just south of town, is in Northamptonshire. Ketton, three miles west, is in Rutland. Barnack is Cambridgeshire, with Peterborough as its council, and Uffington, just east, is in Lincolnshire like the town itself. School choices cross those lines too. Lincolnshire still has grammar schools. Stamford doesn't have one of its own, but Bourne Grammar School is a short drive north. So one Stamford primary class might scatter between Stamford Welland Academy, the independent Stamford School, Bourne Grammar and Casterton College over the Rutland border. Each picks its own exam boards and sets its own pace. By Year 10 it can feel as if nobody else's child is doing quite what yours is. And the friend you'd usually ask has a child on a different paper altogether."

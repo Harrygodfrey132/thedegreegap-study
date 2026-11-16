@@ -1,13 +1,13 @@
 ---
-title: "Sutton Coldfield A-Level Maths Tutors | Online | The Degree Gap"
+title: "Sutton Coldfield A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Are your child's Physics or Chemistry calculations going wrong too? Our Sutton Coldfield A-Level Maths tutors fix the Maths underneath, online, from £37."
+description: "Are your child's Physics or Chemistry calculations going wrong too? Our A-Level Maths tutors for Sutton Coldfield fix the Maths underneath, online, from £37."
 layout: "level-subject"
 location: "Sutton Coldfield"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors Supporting Sutton Coldfield Families"
+hero_h1: "A-Level Maths Tutors for Sutton Coldfield Students"
 hero_lead: "When your child's Physics or Chemistry marks slip on the calculations, the real problem often sits in their Maths. Our A-Level Maths tutors for Sutton Coldfield students find that shared gap and work on it across Maths and the sciences together."
 
 angle_eyebrow: "IT SHOWS UP IN THE OTHER SUBJECTS FIRST"

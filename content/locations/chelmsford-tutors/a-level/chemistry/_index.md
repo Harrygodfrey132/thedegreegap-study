@@ -1,5 +1,5 @@
 ---
-title: "Chelmsford A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Chelmsford A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Synthesis questions coming back blank, even though your child knows every reaction? Online A-Level Chemistry tutors for Chelmsford families. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Chelmsford"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Chelmsford, From Reactions to Routes"
+hero_h1: "A-Level Chemistry Tutors for Chelmsford Students"
 hero_lead: "There's a flashcard for every reaction on your child's desk. Then a synthesis question asks them to get from one molecule to another by a route no flashcard covers. Our A-Level Chemistry tutors for Chelmsford students teach them how to find it."
 
 angle_eyebrow: "GETTING FROM HERE TO THERE"
@@ -28,7 +28,7 @@ schools:
   - "St John Payne Catholic School"
   - "Moulsham High School"
 
-steps_heading: "How to get going with a Chelmsford Chemistry tutor"
+steps_heading: "How to get going with a Chemistry tutor for Chelmsford students"
 steps_lead: "You'll have profiles within a day. Meanwhile, ask your child to plan a two-step synthesis and see where it stalls."
 steps:
   - title: "Tell us where it stalls"

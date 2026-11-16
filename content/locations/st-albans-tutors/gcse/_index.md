@@ -1,23 +1,23 @@
 ---
 title: "St Albans GCSE Tutors | Maths, English & Science"
-description: "St Albans GCSE tutors, one-to-one and online, to lift the one predicted grade sitting below what the sixth form wants. Matched to your child, from £37."
+description: "GCSE tutors for St Albans, one-to-one and online, to lift the one predicted grade sitting below what the sixth form wants. Matched to your child, from £37."
 layout: subject
 location: St Albans
 level: GCSE
-hero_heading_line1: "Online St Albans GCSE Tutors for the One Subject That Keeps Slipping"
+hero_heading_line1: "GCSE Tutors for St Albans Students"
 hero_heading_line2: ""
 hero_lead: "Most subjects are fine. It's one predicted grade that's sitting below what your child's sixth form will ask for. Our GCSE tutors for St Albans students work one-to-one to lift it, wherever your child is starting from."
 grade_from: "5"
 grade_to: "6/7"
 grade_stat: "Omo's son is in Year 10. Six months of tutoring took his English from a 5 to a 6/7, with ways into the subject that finally suit him."
 first_lesson_eyebrow: "WHEN ONE SUBJECT LAGS BEHIND"
-first_lesson_heading: "What a St Albans GCSE Tutor Looks for in Your Child's Last Mock"
+first_lesson_heading: "What a GCSE Tutor for St Albans Students Looks for in Your Child's Last Mock"
 first_lesson_context: "If your child's hoping for a sixth form place at St Albans School, Loreto or Sandringham, the grade that matters most is usually the one in the subject they want to carry on. So a GCSE tutor starts by going through a recent paper with them, finds where the marks are slipping, and builds the plan back from there."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7. I honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset. …"
 first_lesson_quote_name: Omo
 first_lesson_quote_role: Parent of GCSE Student
 first_lesson_quote_grade: GCSE English
-tutor_strip_heading: St Albans GCSE tutors who know the Sandringham and Verulam standard
+tutor_strip_heading: GCSE tutors for St Albans students who know the Sandringham and Verulam standard
 tutor_strip_body: "We hear from Year 10 and 11 families at St Albans School, St Albans High School for Girls, Sandringham, Verulam and Beaumont, and exam boards can differ from one school to the next. We'll check your child's first. The profiles are below if you'd like a look."
 tutors_browse_url: /book-a-call/
 pathways_heading: "Where St Albans Year 11s Head at 16"

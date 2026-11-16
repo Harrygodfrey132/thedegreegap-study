@@ -7,7 +7,7 @@ location: "Colliers Wood"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Colliers Wood Students Stuck on 'Show That' Questions"
+hero_h1: "A-Level Maths Tutors for Colliers Wood Students"
 hero_lead: "When the answer's printed in the question, your child has to prove how they got there, and that's where a lot of marks quietly go. Our A-Level Maths tutors for Colliers Wood students teach the written reasoning the mark scheme wants, one line at a time."
 
 angle_eyebrow: "WHEN THE ANSWER IS ALREADY ON THE PAGE"

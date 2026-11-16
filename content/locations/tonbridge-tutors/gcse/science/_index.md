@@ -1,13 +1,13 @@
 ---
 title: "Tonbridge GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Which science is pulling your child's grades down? Our Tonbridge GCSE Science tutors find out from a marked paper, then work on it online. From £37 an hour."
+description: "Which science is pulling your child's grades down? Our GCSE Science tutors for Tonbridge find out from a marked paper, then work on it online. From £37 an hour."
 layout: "level-subject"
 location: "Tonbridge"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Covering Tonbridge"
+hero_h1: "GCSE Science Tutors for Tonbridge Students"
 hero_lead: "Science can be two or three of your child's GCSEs, so a weak spot in one science costs more than you'd think. Our GCSE Science tutors for Tonbridge students find where the marks are going, which is often the Chemistry calculations, and start there."
 
 card_eyebrow: "FREE CONSULTATION"

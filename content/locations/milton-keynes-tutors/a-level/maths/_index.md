@@ -1,5 +1,5 @@
 ---
-title: "Milton Keynes A-Level Maths Tutors | Online | The Degree Gap"
+title: "Milton Keynes A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "One-to-one online A-Level Maths tutors for Milton Keynes: moments, pulleys and slopes, for Year 12s eyeing Santander, Red Bull Racing or university. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Milton Keynes"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Ambitious Milton Keynes Teenagers"
+hero_h1: "A-Level Maths Tutors for Milton Keynes Students"
 hero_lead: "Your child's getting by in Maths, but the prediction's lower than you'd hoped, and here that grade sits under almost every route they might take. Our A-Level Maths tutors for Milton Keynes students look for where the marks are going and work on that, weekly and online."
 
 angle_eyebrow: "FORCES, DIAGRAMS AND THE MARKS IN BETWEEN"

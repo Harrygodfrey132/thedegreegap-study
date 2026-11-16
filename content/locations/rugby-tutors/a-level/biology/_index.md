@@ -7,7 +7,7 @@ location: "Rugby"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Rugby Sixth Formers With Flashcards for Everything"
+hero_h1: "A-Level Biology Tutors for Rugby Students"
 hero_lead: "Your child has a flashcard for every process and still drops marks on the long questions that join two topics together. Our A-Level Biology tutors for Rugby students teach them to explain how things work, so the facts stop living in separate boxes."
 
 angle_eyebrow: "WHY BIOLOGY ASKS FOR ENGLISH"

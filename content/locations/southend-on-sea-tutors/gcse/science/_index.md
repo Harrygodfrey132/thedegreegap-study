@@ -1,13 +1,13 @@
 ---
 title: "Southend-on-Sea GCSE Science Tuition | The Degree Gap"
 nav_title: "Science"
-description: "Online GCSE Science tutors covering Southend-on-Sea, triple or combined, treating Biology, Chemistry and Physics as three separate jobs. From £37 an hour."
+description: "Online GCSE Science tutors for Southend-on-Sea, triple or combined, treating Biology, Chemistry and Physics as three separate jobs. From £37 an hour."
 layout: "level-subject"
 location: "Southend-on-Sea"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online Southend-on-Sea GCSE Science Tutors Who Take the Combined Grade Apart First"
+hero_h1: "GCSE Science Tutors for Southend-on-Sea Students"
 hero_lead: "Combined Science hands you one grade for three subjects taught by three teachers in three rooms. Our GCSE Science tutors for Southend-on-Sea students work out which of the three is doing the damage, one-to-one and online on Lessonspace, before any term gets committed."
 
 angle_eyebrow: "THREE SUBJECTS, ONE NUMBER ON THE REPORT"
@@ -39,7 +39,7 @@ steps:
     body: "A weekly hour on Lessonspace, our shared interactive whiteboard, working real exam questions with the method written out on screen. Required practicals get rebuilt as answers rather than revised as memories. From £37 an hour, paid one session at a time."
 
 faqs:
-  - q: "Can a Southend-on-Sea GCSE Science tutor help my child apply for an apprenticeship at Ipeco or the NHS?"
+  - q: "Can a GCSE Science tutor for Southend-on-Sea students help my child apply for an apprenticeship at Ipeco or the NHS?"
     a: "Yes, and the help is narrower than parents expect. Ipeco runs Level 2 and Level 3 apprenticeships from its Southend site, and Mid and South Essex NHS Foundation Trust takes apprentices across its Southend and Basildon hospitals, each publishing its own entry requirements and revising them between intakes. Most technical routes name Maths and English first, then look at Science. So the work splits: the grade itself, and the written application, where a student who can explain a required practical clearly has something worth writing about."
   - q: "How do I know if my child needs a Science tutor or just more revision?"
     a: "Look at a marked paper rather than a grade. If the working is clean and the marks are going at the back of the paper, that is exam technique, and a tutor shifts it quickly. If multi-step questions come back blank or crossed out, the method confidence is not there and a tutor is the realistic fix. And if your child is already scoring well across mocks and simply wants stretch, a short block of targeted practice beats a full programme. We will tell you which one we think it is."

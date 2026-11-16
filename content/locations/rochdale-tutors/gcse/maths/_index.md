@@ -7,7 +7,7 @@ location: "Rochdale"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Rochdale Students, So Maths Is Sorted Before College"
+hero_h1: "GCSE Maths Tutors for Rochdale Students"
 hero_lead: "Nobody wants Maths following them into Year 12 as a resit, or a grade one short of the A-Level they'd set their heart on. Our GCSE Maths tutors for Rochdale students find the topics leaking marks on your child's papers and fix those first."
 
 angle_eyebrow: "THE GRADE THAT FOLLOWS THEM TO COLLEGE"

@@ -1,13 +1,13 @@
 ---
-title: "Harrogate GCSE Science Tutors | Online | The Degree Gap"
+title: "Harrogate GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Genetics questions, family trees and Punnett squares catch out lots of capable children. Our Harrogate GCSE Science tutors make them clear, online. From £37."
+description: "Genetics questions, family trees and Punnett squares catch out lots of capable children. Our GCSE Science tutors for Harrogate make them clear, online."
 layout: "level-subject"
 location: "Harrogate"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Covering Harrogate and Knaresborough"
+hero_h1: "GCSE Science Tutors for Harrogate Students"
 hero_lead: "Genetics questions often hand your child an inherited condition they've never heard of and a family tree to work backwards through, and that's where the marks start to go. Our GCSE Science tutors for Harrogate students find the step that goes wrong and practise it properly."
 
 angle_eyebrow: "WHERE GCSE BIOLOGY TURNS INTO A PUZZLE"
@@ -28,7 +28,7 @@ schools:
   - "Ashville College"
   - "Harrogate Ladies' College"
 
-steps_heading: "Three Steps to a GCSE Science Tutor in Harrogate"
+steps_heading: "Three Steps to a GCSE Science Tutor for Harrogate Students"
 steps_lead: "Topics like genetics build step by step, so it's worth starting a few weeks before the mocks rather than the week before."
 steps:
   - title: "First, a chat"

@@ -1,11 +1,11 @@
 ---
-title: "Knutsford GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "Effort going in, mock grades not showing it? Our Knutsford GCSE tutors work with your child one-to-one online. Profiles within 24 hours, from £37, no contract."
+title: "Knutsford GCSE Tutors | One-to-One | The Degree Gap"
+description: "Effort going in, mock grades not showing it? Our GCSE tutors for Knutsford work with your child one-to-one online. Profiles within 24 hours, from £37."
 layout: "subject"
 location: "Knutsford"
 level: "GCSE"
 
-hero_heading_line1: "Online Knutsford GCSE Tutors for When the Mocks Have Rattled the Sixth Form Plan"
+hero_heading_line1: "GCSE Tutors for Knutsford Students"
 hero_heading_line2: ""
 hero_lead: "Mock grades that come home lower than all that effort deserved are hard to make sense of. Lots of families hit this point. Our GCSE tutors for Knutsford students track down the topic costing the most marks, then work through it with your child, one-to-one online."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "Six months after starting, Omo's Year 10 son had moved up from a 5 in English to a 6/7."
 
 first_lesson_eyebrow: "BEFORE THE SIXTEEN DECISION"
-first_lesson_heading: "What Your Child's Mock Tells a Knutsford GCSE Tutor"
+first_lesson_heading: "What Your Child's Mock Tells a GCSE Tutor for Knutsford Students"
 first_lesson_context: "The report says fine, the mock says otherwise, and nobody can quite say why: that's how a lot of Knutsford calls begin. So the GCSE tutor's first lesson is a real paper, marked properly, to see where the marks actually go. And the grade can move, even in a subject your child had given up on."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to a 6/7 in GCSE English"
 
-tutor_strip_heading: "Knutsford GCSE tutors for both Foundation and Higher papers"
+tutor_strip_heading: "GCSE tutors for Knutsford students, for both Foundation and Higher papers"
 tutor_strip_body: "Knutsford Academy or a school down the road in Wilmslow, it makes no difference: we'll check your child's exam board and which papers they're down for, Foundation or Higher. AQA and Edexcel don't ask things the same way. Browse a few tutors, or let us pick."
 
 pathways_heading: "Staying at Knutsford Academy, or Moving On at Sixteen"

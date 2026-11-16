@@ -7,7 +7,7 @@ location: "Stoke-on-Trent"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Stoke-on-Trent Students, From Paper 1 Number Work Up"
+hero_h1: "GCSE Maths Tutors for Stoke-on-Trent Students"
 hero_lead: "Your child tries, and the Maths mark still won't move, often because of a Year 7 or 8 skill that never got solid. Our private online GCSE Maths tutors for Stoke-on-Trent students find it on the non-calculator paper first, then build up to the algebra Higher questions need."
 
 angle_eyebrow: "WHAT THE MATHS GRADE DECIDES AT 16"

@@ -7,7 +7,7 @@ location: "Stockport"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths tutoring for Stockport families when Year 12 stops making sense"
+hero_h1: "A-Level Maths Tutors for Stockport Students"
 hero_lead: "Your child got a strong GCSE grade, maybe the 7 Aquinas asks for, and started A-Level Maths feeling fine. Then Pure, the main part of the course, asked for a proof instead of a method, and the marks slipped. Our A-Level Maths tutors for Stockport students work on that first term."
 
 angle_eyebrow: "THE ENTRY GRADE AND THE FIRST TERM"
@@ -28,7 +28,7 @@ schools:
   - "Cheadle College"
   - "Stockport College"
 
-steps_heading: "Three Steps to a Stockport A-Level Maths Tutor"
+steps_heading: "Three Steps to an A-Level Maths Tutor for Stockport Students"
 steps_lead: "You'll usually have profiles within a day. If the first Year 12 test has just come back lower than the GCSE grade, now's a good time to talk, rather than waiting for spring."
 steps:
   - title: "Tell us about your child"

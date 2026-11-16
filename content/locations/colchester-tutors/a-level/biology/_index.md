@@ -1,13 +1,13 @@
 ---
-title: "Colchester A-Level Biology Tutors | Online | The Degree Gap"
+title: "Colchester A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Has your child put Year 12 Biology away? The final papers still ask about it. Our Colchester A-Level Biology tutors keep both years fresh, online, from £37."
+description: "Has your child put Year 12 Biology away? The final papers still ask about it. Our A-Level Biology tutors for Colchester keep both years fresh, online, from £37."
 layout: "level-subject"
 location: "Colchester"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Colchester and Wivenhoe"
+hero_h1: "A-Level Biology Tutors for Colchester Students"
 hero_lead: "When Year 12 ends, it's easy for your child to feel that half of Biology is done. It isn't. The Year 13 papers reach back into it, so our A-Level Biology tutors for Colchester students keep both years going at once."
 
 angle_eyebrow: "BOTH YEARS, ONE SET OF PAPERS"
@@ -28,7 +28,7 @@ schools:
   - "The Gilberd School"
   - "Stanway School"
 
-steps_heading: "Three Steps to a Colchester A-Level Biology Tutor"
+steps_heading: "Three Steps to an A-Level Biology Tutor for Colchester Students"
 steps_lead: "The sooner your child starts, the less time Year 12 has to fade before the final papers. Profiles usually arrive within a day."
 steps:
   - title: "A free call to start"

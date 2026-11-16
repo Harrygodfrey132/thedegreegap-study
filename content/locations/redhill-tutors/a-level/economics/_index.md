@@ -1,5 +1,5 @@
 ---
-title: "Online A-Level Economics Tutoring for Redhill Sixth Formers | The Degree Gap"
+title: "A-Level Economics Tutoring for Redhill Sixth Formers | The Degree Gap"
 nav_title: "Economics"
 description: "Do your child's Economics essays have the right diagram and the wrong argument? Online A-Level Economics tutoring for Redhill sixth formers. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Redhill"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Redhill Students Whose Diagrams Don't Back Up the Essay"
+hero_h1: "A-Level Economics Tutors for Redhill Students"
 hero_lead: "Your child can draw a supply and demand diagram from memory, but the essay beside it never uses it. Our A-Level Economics tutors for Redhill students teach them to build the argument around the diagram, then weigh it up properly."
 
 angle_eyebrow: "THE DIAGRAM IS PART OF THE ANSWER"

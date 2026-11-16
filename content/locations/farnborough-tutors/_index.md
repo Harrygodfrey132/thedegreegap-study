@@ -1,9 +1,9 @@
 ---
-title: "Farnborough GCSE & A-Level Tutors | Online | The Degree Gap"
+title: "Farnborough GCSE & A-Level Tutors | The Degree Gap"
 description: "Set on a particular A-Level or apprenticeship? We'll aim your child's weekly lessons at the grade it needs. Online Farnborough tutoring, from £37 an hour."
 layout: "single"
 location: "Farnborough"
-banner_heading: "Farnborough GCSE and A-Level Tutors Online, Aimed at the Course Your Child Wants"
+banner_heading: "GCSE and A-Level Tutors for Farnborough Families"
 banner_description: "If your child has a course in mind, the grade that counts is the one that course asks for. It's often above the college's general bar, and it's what our tutors aim at."
 content_angle: "a child with a plan: the subject grade their chosen course needs"
 intro_1: "Your child might already have it worked out. A-Level Physics at Farnborough Sixth Form College, say, or an engineering apprenticeship with one of the aerospace firms around the airport. It's lovely to see at 15. The catch is the number that comes with it. Most Year 11s here, and plenty from Aldershot, carry on at one of the town's two colleges. But the general entry standard is only half the story. Each A-Level has its own requirement in the subject itself, and for Maths and the Sciences it's usually the higher of the two."

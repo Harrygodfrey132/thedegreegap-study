@@ -1,13 +1,13 @@
 ---
 title: "GCSE Maths Tutors for Bicester Families | The Degree Gap"
 nav_title: "Maths"
-description: "One missed GCSE Maths topic can trip up the rest. Our Bicester GCSE Maths tutors find it, after a school move or time off, and rebuild online. From £37 an hour."
+description: "One missed GCSE Maths topic can trip up the rest. Our GCSE Maths tutors for Bicester find it, after a school move or time off, and rebuild online. From £37."
 layout: "level-subject"
 location: "Bicester"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors Serving Bicester"
+hero_h1: "GCSE Maths Tutors for Bicester Students"
 hero_lead: "Maths builds on itself, so one topic your child missed, through a school move or a few weeks off, can trip up everything stacked on top. Our GCSE Maths tutors for Bicester students trace the trouble back to that topic and rebuild from there, one-to-one online."
 
 angle_eyebrow: "ONE MISSED TOPIC, MANY LOST MARKS"

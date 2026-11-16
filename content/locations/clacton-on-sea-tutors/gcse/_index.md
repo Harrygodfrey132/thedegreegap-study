@@ -5,7 +5,7 @@ layout: "subject"
 location: "Clacton-on-Sea"
 level: "GCSE"
 
-hero_heading_line1: "Online Clacton-on-Sea GCSE Tutors for the Subject Your Child Wants to Take Further"
+hero_heading_line1: "GCSE Tutors for Clacton-on-Sea Students"
 hero_heading_line2: ""
 hero_lead: "Your child has a course in mind for after Year 11, and the subject it hangs on is the one that keeps slipping. Our GCSE tutors for Clacton-on-Sea students find where it went wrong and rebuild it, one lesson a week."
 
@@ -14,7 +14,7 @@ grade_to: "8"
 grade_stat: "Chamarika, a parent, on Trustpilot, about GCSE Physics: “My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8…”"
 
 first_lesson_eyebrow: "ONE SUBJECT, ONE GRADE HIGHER"
-first_lesson_heading: "Where a Clacton-on-Sea GCSE Tutor Starts When One Subject Holds Up the Plan"
+first_lesson_heading: "Where a GCSE Tutor for Clacton-on-Sea Students Starts When One Subject Holds Up the Plan"
 first_lesson_context: "For A-Levels at Sigma Sixth Tendring, your child needs at least a 6 in each subject they choose, on top of six grade 5s, and offers go out on predicted grades. So one subject can end up carrying more weight than the rest, and it's often the one your child least wants to talk about. A GCSE tutor starts with the last marked test in it and finds the point where it stopped making sense."
 first_lesson_quote: "My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring."
 first_lesson_quote_name: "Chamarika"

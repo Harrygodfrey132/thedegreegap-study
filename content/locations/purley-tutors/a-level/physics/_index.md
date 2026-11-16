@@ -7,7 +7,7 @@ location: "Purley"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Purley Students Whose Maths Lets the Physics Down"
+hero_h1: "A-Level Physics Tutors for Purley Students"
 hero_lead: "Plenty of A-Level physicists understand the ideas and still lose marks on the algebra and the logs in between. Our A-Level Physics tutors for Purley students work on the maths and the method together, so a long problem has a clear first line."
 
 angle_eyebrow: "THE MATHS INSIDE THE PHYSICS"

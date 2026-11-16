@@ -7,7 +7,7 @@ location: "Cardiff"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Cardiff Students, Whichever Science Course They're On"
+hero_h1: "GCSE Science Tutors for Cardiff Students"
 hero_lead: "This year, Year 11s across Wales are finishing WJEC's current science GCSEs while Year 10s have started a reshaped set. Our GCSE Science tutors for Cardiff students check which your child is on, then start with the science costing the most marks."
 
 angle_eyebrow: "TWO YEAR GROUPS, TWO SCIENCE COURSES"

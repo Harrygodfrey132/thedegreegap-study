@@ -1,13 +1,13 @@
 ---
-title: "Derby GCSE Maths Tutors | Online | The Degree Gap"
+title: "Derby GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Does your child know the Maths but freeze at the wordy questions? Our Derby GCSE Maths tutors work on exactly those, one-to-one and online, from £37 an hour."
+description: "Does your child know the Maths but freeze at the wordy questions? Our GCSE Maths tutors for Derby work on exactly those, one-to-one and online, from £37."
 layout: "level-subject"
 location: "Derby"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutoring Across Derby"
+hero_h1: "GCSE Maths Tutors for Derby Students"
 hero_lead: "Your child can do the sums, then reaches a question that's mostly words and stops dead. Our GCSE Maths tutors for Derby students work online on those wordy questions near the back of the paper, which is where a lot of the marks quietly sit."
 
 angle_eyebrow: "WHERE THE PAPER STOPS LOOKING LIKE MATHS"
@@ -28,7 +28,7 @@ schools:
   - "Landau Forte Academy"
   - "Noel-Baker Academy"
 
-steps_heading: "How your child gets started with a Derby GCSE Maths tutor"
+steps_heading: "How your child gets started with a GCSE Maths tutor for Derby students"
 steps_lead: "If you can, dig out a marked paper before the call, because where the marks went decides what the term's for. Tutor profiles usually land within a day."
 steps:
   - title: "A free call, and a marked paper if you have one"

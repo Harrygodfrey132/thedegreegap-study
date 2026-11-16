@@ -7,7 +7,7 @@ location: "Fulham"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Fulham Students Losing Marks on Definitions and Explanations"
+hero_h1: "A-Level Physics Tutors for Fulham Students"
 hero_lead: "Your child gets the number right, then drops the marks for 'explain why' and 'state what is meant by'. Our A-Level Physics tutors for Fulham students work on the words as carefully as the maths, so the written questions stop leaking marks."
 
 angle_eyebrow: "THE MARKS IN THE WORDS"

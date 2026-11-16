@@ -5,7 +5,7 @@ layout: "subject"
 location: "Wimbledon"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Wimbledon Students Who Go Blank in Mocks"
+hero_heading_line1: "GCSE Tutors for Wimbledon Students"
 hero_heading_line2: ""
 hero_lead: "Did your child revise properly, then come out of the mock saying their mind went blank? We match Wimbledon students with an online GCSE tutor who practises timed questions with them until the exam hall feels ordinary."
 

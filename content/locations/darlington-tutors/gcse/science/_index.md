@@ -7,7 +7,7 @@ location: "Darlington"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutoring for Your Child in Darlington, One Science at a Time"
+hero_h1: "GCSE Science Tutors for Darlington Students"
 hero_lead: "Most children have one science that drags, and it isn't always the one they'd guess. Our GCSE Science tutors for Darlington students check a recent paper first, then put the hours into whichever of Biology, Chemistry or Physics is costing your child most."
 
 angle_eyebrow: "COMBINED OR TRIPLE, BOTH COUNT AT QE"

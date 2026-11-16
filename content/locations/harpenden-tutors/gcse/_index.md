@@ -1,11 +1,11 @@
 ---
 title: "Harpenden GCSE Tutors | One-to-One | The Degree Gap"
-description: "Is one subject's homework always going last? Our Harpenden GCSE tutors help your child reopen a subject they've quietly avoided. Online, one-to-one, from £37."
+description: "Is one subject's homework always going last? Our GCSE tutors for Harpenden help your child reopen a subject they've quietly avoided. Online, from £37."
 layout: "subject"
 location: "Harpenden"
 level: "GCSE"
 
-hero_heading_line1: "GCSE Tutors for Harpenden Students and the Subject They Keep Putting Off"
+hero_heading_line1: "GCSE Tutors for Harpenden Students"
 hero_heading_line2: ""
 hero_lead: "A subject rarely falls apart overnight. Your child starts avoiding it, a little at a time, until its homework is always last and the questions dry up. Our GCSE tutors for Harpenden students work on the avoidance as much as the content."
 
@@ -14,14 +14,14 @@ grade_to: "B"
 grade_stat: "An E to a B at GCSE, and Keira says tutoring definitely helped."
 
 first_lesson_eyebrow: "AVOIDED, NOT FAILED"
-first_lesson_heading: "How a Harpenden GCSE Tutor Reopens a Subject That's Been Quietly Dropped"
+first_lesson_heading: "How a GCSE Tutor for Harpenden Students Reopens a Subject That's Been Quietly Dropped"
 first_lesson_context: "Harpenden parents often describe the same slow pattern, not one bad result. The homework for one subject goes last, then doesn't get done, and nothing looks like a crisis until a mock shows the gap is months wide. The tutor's first job is to find where your child lost the thread and build forward from there."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "An E to a B at GCSE"
 
-tutor_strip_heading: "Harpenden GCSE tutors matched on the paper your child sits"
+tutor_strip_heading: "GCSE tutors for Harpenden students matched on the paper your child sits"
 tutor_strip_body: "Whether your child's at Sir John Lawes, St George's, Roundwood Park or a school towards St Albans, the tutor we suggest will know their exam board. We interview every tutor ourselves, and roughly 3% of those who apply make it. Look through the profiles, or we'll do the matching."
 
 pathways_heading: "The Step After GCSEs in Harpenden"

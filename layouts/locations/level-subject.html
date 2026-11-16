@@ -7,7 +7,11 @@
 {{ $isAlevel := eq $level "A-Level" }}
 
 {{/* ── Hero ── */}}
-{{ $heroH1   := .Params.hero_h1   | default (printf "Online %s %s Tutors in %s" $level $subject $loc) }}
+{{/* H1 follows Tutorful's rule: what the parent searched for (level,
+     subject, town) and nothing else. "Online" is said straight underneath in
+     partials/online-chips.html, never in the H1, and the H1 says "for [Town]
+     Students", never "[Town] tutors", so it can't read as local tutors. */}}
+{{ $heroH1   := .Params.hero_h1   | default (printf "%s %s Tutors for %s Students" $level $subject $loc) }}
 {{ $heroLead := .Params.hero_lead | default (printf "If %s is the worry at home, our one-to-one %s tutors can help. They work online with your child, find the marks that keep slipping away and start there. Lessons from £37 an hour, no contract." (lower $subject) $level) }}
 
 {{/* ── Consultation card (per-page overridable) ── */}}
@@ -539,10 +543,16 @@
     {{ end }}
   {{ end }}
 {{ end }}
+{{/* Too few neighbours: fill up from the same level and subject in other
+     towns, starting with the town after this one alphabetically and wrapping
+     round (as the level pages do). This used to take .Site.Pages in its
+     default order, which sorts by title, so every title edit reshuffled the
+     links and the first few towns alphabetically got most of them. */}}
 {{ if lt (len $nearby) 3 }}
-  {{ range where .Site.Pages "Params.layout" "level-subject" }}
-    {{ if and (eq .Params.level $level) (eq .Params.subject $subject) (ne .RelPermalink $.RelPermalink) (not (in $nearby .)) }}{{ $nearby = $nearby | append . }}{{ end }}
-  {{ end }}
+  {{ $same := where (where (where .Site.Pages "Params.layout" "level-subject") "Params.level" $level) "Params.subject" $subject }}
+  {{ $rotation := (where $same "Params.location" "gt" $loc).ByParam "location" }}
+  {{ $rotation = $rotation | append ((where $same "Params.location" "lt" $loc).ByParam "location") }}
+  {{ range $rotation }}{{ if not (in $nearby .) }}{{ $nearby = $nearby | append . }}{{ end }}{{ end }}
 {{ end }}
 {{ if or $hubPage $boardPages }}
 <style>

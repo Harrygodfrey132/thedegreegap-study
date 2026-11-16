@@ -7,7 +7,7 @@ location: "Great Missenden"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Great Missenden Students Whose Answers Are Nearly Right"
+hero_h1: "GCSE Science Tutors for Great Missenden Students"
 hero_lead: "Your child knows roughly what happens, writes 'the particles get excited', and the mark scheme wanted something more exact. Our GCSE Science tutors for Great Missenden students teach the precise words and steps that turn a nearly-right answer into marks."
 
 angle_eyebrow: "THE WORD THE MARK SCHEME WANTS"

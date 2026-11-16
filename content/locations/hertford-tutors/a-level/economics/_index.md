@@ -7,7 +7,7 @@ location: "Hertford"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Hertford Students Whose Diagrams Don't Earn the Marks"
+hero_h1: "A-Level Economics Tutors for Hertford Students"
 hero_lead: "Your child can draw a supply and demand diagram in their sleep, then the essay never mentions it. Our A-Level Economics tutors for Hertford students teach them to make every diagram do part of the arguing, using examples from close to home."
 
 angle_eyebrow: "A DIAGRAM THAT ARGUES"

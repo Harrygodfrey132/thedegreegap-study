@@ -7,7 +7,7 @@ location: "Bury St Edmunds"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Bury St Edmunds Students Dreading the Paper 3 Essay"
+hero_h1: "A-Level Biology Tutors for Bury St Edmunds Students"
 hero_lead: "Your child has learned the content, then Paper 3 asks for an essay that pulls five or six topics together under one title. Our A-Level Biology tutors for Bury St Edmunds students show them how to plan it, and practise until it feels manageable."
 
 angle_eyebrow: "ONE ESSAY, SIX TOPICS"

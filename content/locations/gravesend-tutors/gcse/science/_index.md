@@ -7,7 +7,7 @@ location: "Gravesend"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Gravesend Students With One Science Dragging the Rest Down"
+hero_h1: "GCSE Science Tutors for Gravesend Students"
 hero_lead: "Your child might be solid in Biology and lost in Physics, and in Combined Science the weaker one pulls both grades down together. Our GCSE Science tutors for Gravesend students find the science that's slipping and rebuild it, topic by topic."
 
 angle_eyebrow: "ONE WEAK SCIENCE, TWO GRADES"

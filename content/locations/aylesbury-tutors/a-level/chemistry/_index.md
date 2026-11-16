@@ -1,5 +1,5 @@
 ---
-title: "Aylesbury A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Aylesbury A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Year 13 organic chemistry catching your child out? Online A-Level Chemistry tutors for Aylesbury families: amines, amino acids and polymers. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Aylesbury"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors Covering Aylesbury and the Vale"
+hero_h1: "A-Level Chemistry Tutors for Aylesbury Students"
 hero_lead: "Year 13 Chemistry brings a new batch of organic content, and it tends to land just as your child's juggling UCAS and mocks. Our A-Level Chemistry tutors for Aylesbury students work on amines, polymers and the written reasoning questions built on top of them."
 
 angle_eyebrow: "THE CONTENT THAT ARRIVES LAST AND COUNTS MOST"

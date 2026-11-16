@@ -1,5 +1,5 @@
 ---
-title: "St Albans A-Level Biology Tutors | Online | The Degree Gap"
+title: "St Albans A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
 description: "Online A-Level Biology tutors for St Albans families, from Sandringham to Loreto. Weekly practice on the unfamiliar questions that decide top grades. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "St Albans"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors Serving St Albans"
+hero_h1: "A-Level Biology Tutors for St Albans Students"
 hero_lead: "When the exam swaps the fish your child studied for a creature they've never met, the marks can slip even though the Biology is the same. Our A-Level Biology tutors for St Albans students practise exactly those questions with your child, until something unfamiliar stops feeling unfair."
 
 angle_eyebrow: "A NEW ANIMAL, THE SAME BIOLOGY"

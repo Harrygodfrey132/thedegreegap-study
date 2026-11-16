@@ -1,9 +1,9 @@
 ---
 title: "Oxford Tutors | GCSE & A-Level from £37/hr"
-description: "Oxford has no grammar schools, so GCSE results decide the sixth form. Our Oxford tutors help your child with GCSE and A-Level online, from £37, no contract."
+description: "Oxford has no grammar schools, so GCSE results decide the sixth form. Our tutors for Oxford help your child with GCSE and A-Level online, from £37, no contract."
 layout: single
 location: Oxford
-banner_heading: "Want an online Oxford tutor who knows what the city's sixth forms ask for?"
+banner_heading: "GCSE and A-Level Tutors for Oxford Families"
 banner_description: "Our tutors for Oxford families find the questions where your child's marks are slipping away, and work on those with them before the next mock."
 content_angle: ambition / competitive sixth form entry / university shadow pressure
 intro_1: "Maybe it's the talk over dinner about which sixth form, or a mock that came back a grade lower than your child hoped. In Oxford, that grade carries more weight than you'd think. There are no grammar schools here, and every state secondary is a comprehensive. So the sorting other counties do at 11 happens at 16, through GCSE results alone. And with the university sitting in the middle of the city, it's easy for \"good\" to feel like a moving target."

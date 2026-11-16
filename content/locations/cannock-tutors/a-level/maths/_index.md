@@ -7,7 +7,7 @@ location: "Cannock"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Cannock Students Whose Marks Slip on the Applied Paper"
+hero_h1: "A-Level Maths Tutors for Cannock Students"
 hero_lead: "Your child copes with the pure maths, then the last paper asks about a hypothesis test and a particle on a slope in one sitting, and the marks drain away. Our A-Level Maths tutors for Cannock students give Statistics and Mechanics proper time, alongside the algebra."
 
 angle_eyebrow: "HALF STATISTICS, HALF MECHANICS"

@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors for Ealing Students | The Degree Gap"
+title: "GCSE Tutors for Ealing Students | The Degree Gap"
 description: "Is Year 11 piling up for your child, with sixth form forms due before mocks? We'll match Ealing students with an online GCSE tutor. From £37, no contract."
 layout: "subject"
 location: "Ealing"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Ealing Students With Sixth Form Applications Due in Year 11"
+hero_heading_line1: "GCSE Tutors for Ealing Students"
 hero_heading_line2: ""
 hero_lead: "Lots of sixth form applications close in the autumn of Year 11, sometimes before a single mock, and that's a lot to carry at fifteen. Our GCSE tutors for Ealing students start on whichever subject is lagging, so results day can back the application up."
 

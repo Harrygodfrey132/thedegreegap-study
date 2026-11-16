@@ -7,7 +7,7 @@ location: "Newbury"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Newbury Students Losing Marks Without a Calculator"
+hero_h1: "GCSE Maths Tutors for Newbury Students"
 hero_lead: "Your child copes fine with a calculator in hand, then Paper 1 asks for fractions, surds and percentages without one and the marks drain away. Our GCSE Maths tutors for Newbury students rebuild the number work underneath, one method at a time."
 
 angle_eyebrow: "A 6 AT ONE SIXTH FORM, A 7 AT ANOTHER"

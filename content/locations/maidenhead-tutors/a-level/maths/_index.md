@@ -7,7 +7,7 @@ location: "Maidenhead"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Maidenhead Sixth Formers Slowed Down by the Algebra"
+hero_h1: "A-Level Maths Tutors for Maidenhead Students"
 hero_lead: "Whether your child started A-Level Maths with a 6 or a 9, Year 12 moves at a pace that assumes the algebra is automatic. Our A-Level Maths tutors for Maidenhead students make it quick first, then work through Pure, Statistics and Mechanics with them."
 
 angle_eyebrow: "PURE IS TWO-THIRDS OF IT"

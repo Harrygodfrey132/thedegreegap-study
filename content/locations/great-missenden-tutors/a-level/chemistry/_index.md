@@ -7,7 +7,7 @@ location: "Great Missenden"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Great Missenden Students Who Lose Marks on Explanations"
+hero_h1: "A-Level Chemistry Tutors for Great Missenden Students"
 hero_lead: "The calculation's right, and then a question asks why boiling points rise down the group and the answer goes vague. Our A-Level Chemistry tutors for Great Missenden students teach your child to explain Chemistry in the steps examiners actually mark."
 
 angle_eyebrow: "THE CHEMISTRY THAT NEEDS SENTENCES"

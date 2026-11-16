@@ -7,7 +7,7 @@ location: "Hampstead"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Hampstead Students Who Leave the Real World Out"
+hero_h1: "A-Level Economics Tutors for Hampstead Students"
 hero_lead: "Your child knows the diagrams and the definitions, but the essays read like a textbook, with nothing from the real world to test them on. Our A-Level Economics tutors for Hampstead students show them how a real example sharpens a judgement, rather than just decorating it."
 
 angle_eyebrow: "A PUBLIC GOOD ON THE DOORSTEP"

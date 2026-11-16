@@ -7,7 +7,7 @@ location: "Dorking"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Dorking Sixth Formers Stuck on the Applied Paper"
+hero_h1: "A-Level Maths Tutors for Dorking Students"
 hero_lead: "Your child sailed through GCSE Maths, and now a third of the A-Level is mechanics and statistics they've barely met. Our A-Level Maths tutors for Dorking students shore up the algebra underneath and practise the applied questions until they feel routine."
 
 angle_eyebrow: "ONE PAPER IN THREE IS APPLIED"

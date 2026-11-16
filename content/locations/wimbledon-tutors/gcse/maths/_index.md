@@ -7,7 +7,7 @@ location: "Wimbledon"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Wimbledon Students Stuck at the Back of the Paper"
+hero_h1: "GCSE Maths Tutors for Wimbledon Students"
 hero_lead: "If your child can do the first page of a Maths paper and dreads the last, they've got plenty of company. We match Wimbledon students with an online GCSE Maths tutor who takes the long problem-solving questions apart, one line at a time."
 
 angle_eyebrow: "THE LAST TEN QUESTIONS"

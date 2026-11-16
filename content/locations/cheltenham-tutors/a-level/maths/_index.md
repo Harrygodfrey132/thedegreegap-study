@@ -1,13 +1,13 @@
 ---
-title: "Cheltenham A-Level Maths Tutors | Online | The Degree Gap"
+title: "Cheltenham A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Cheltenham A-Level Maths tutors for the dip between a strong GCSE grade and the first Year 12 report. One-to-one online lessons, matched to the exam board."
+description: "A-Level Maths tutors for Cheltenham, for the dip between a strong GCSE grade and the first Year 12 report. One-to-one online lessons, matched to the exam board."
 layout: "level-subject"
 location: "Cheltenham"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Cheltenham, After a Shaky First Term of Year 12"
+hero_h1: "A-Level Maths Tutors for Cheltenham Students"
 hero_lead: "Lots of Cheltenham parents see it every autumn: a strong GCSE Maths grade, then a first Year 12 report that reads worse. It doesn't mean Maths was the wrong choice. Our A-Level Maths tutors for Cheltenham students close that gap while your child's predicted grade can still move."
 
 angle_eyebrow: "THE YEAR 12 DROP IN A-LEVEL MATHS"

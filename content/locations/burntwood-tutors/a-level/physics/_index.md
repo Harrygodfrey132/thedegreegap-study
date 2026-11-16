@@ -7,7 +7,7 @@ location: "Burntwood"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Burntwood Students Facing Paper 3 and the Option Topic"
+hero_h1: "A-Level Physics Tutors for Burntwood Students"
 hero_lead: "Your child copes with mechanics and electricity, then Paper 3 asks them to judge an experiment's uncertainties and answer on an option topic that may only just have been taught. Our A-Level Physics tutors for Burntwood students prepare both, along with the maths underneath."
 
 angle_eyebrow: "THE THIRD PAPER"

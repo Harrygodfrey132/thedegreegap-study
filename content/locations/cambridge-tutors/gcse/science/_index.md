@@ -7,7 +7,7 @@ location: "Cambridge"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors in Cambridge, for Triple or Combined"
+hero_h1: "GCSE Science Tutors for Cambridge Students"
 hero_lead: "If your child's Science grade has slipped, it can feel like a bigger deal in a city built on labs. Our GCSE Science tutors for Cambridge students start with one question: which science would your child drop tomorrow if they could? That's usually where the grade is going."
 
 angle_eyebrow: "TRIPLE, COMBINED AND THE GAP BETWEEN THEM"
@@ -28,7 +28,7 @@ schools:
   - "St Bede's Inter-Church School"
   - "Stephen Perse Foundation"
 
-steps_heading: "Your 3 steps to a Cambridge GCSE Science tutor"
+steps_heading: "Your 3 steps to a GCSE Science tutor for Cambridge students"
 steps_lead: "Science rewards an early start more than most subjects. Year 10 sits right underneath Year 11, and all of it comes back in the exams."
 steps:
   - title: "Start with a free call"

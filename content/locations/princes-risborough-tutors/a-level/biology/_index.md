@@ -7,7 +7,7 @@ location: "Princes Risborough"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Princes Risborough Students Who Know It but Can't Apply It"
+hero_h1: "A-Level Biology Tutors for Princes Risborough Students"
 hero_lead: "Your child has revised the Krebs cycle three times, then a question about an animal they've never heard of asks them to use it and they freeze. Our A-Level Biology tutors for Princes Risborough students practise exactly that, on questions your child hasn't seen."
 
 angle_eyebrow: "THE QUESTION ABOUT AN ANIMAL THEY'VE NEVER MET"

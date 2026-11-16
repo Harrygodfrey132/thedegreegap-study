@@ -1,13 +1,13 @@
 ---
-title: "Farnborough A-Level Maths Tutors | Online | The Degree Gap"
+title: "Farnborough A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Statistics answers that are right but only half written? Our Farnborough A-Level Maths tutors help your child finish them, online and one-to-one. From £37."
+description: "Statistics answers that are right but only half written? Our A-Level Maths tutors for Farnborough help your child finish them, online and one-to-one. From £37."
 layout: "level-subject"
 location: "Farnborough"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tuition for Farnborough Families"
+hero_h1: "A-Level Maths Tutors for Farnborough Students"
 hero_lead: "Right numbers, half the marks: that's how a lot of A-Level statistics answers come back. Our A-Level Maths tutors for Farnborough students help your child finish the job, comparing the average and the spread and saying what each one means in real terms."
 
 angle_eyebrow: "THE SENTENCE AFTER THE CALCULATION"

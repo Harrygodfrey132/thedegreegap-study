@@ -1,11 +1,11 @@
 ---
 title: "Worcester GCSE Tutors | Find the Gap, Rebuild It | The Degree Gap"
-description: "When the school report says your child's understanding is 'patchy', our Worcester GCSE tutors find where it broke and rebuild it. One-to-one, online, from £37."
+description: "When the school report says your child's understanding is 'patchy', our GCSE tutors for Worcester find where it broke and rebuild it. One-to-one, online,"
 layout: "subject"
 location: "Worcester"
 level: "GCSE"
 
-hero_heading_line1: "Online Worcester GCSE Tutors for a Child Who's Trying Hard and Still Stuck"
+hero_heading_line1: "GCSE Tutors for Worcester Students"
 hero_heading_line2: ""
 hero_lead: "You've had the meeting with the teacher, drawn up the revision timetable, bought the highlighters. And your child's report still says effort's fine but understanding is patchy. Our GCSE tutors for Worcester students work on the second half of that sentence, the bit nobody's had time to look at properly."
 
@@ -15,7 +15,7 @@ grade_stat: "A 4 to a 6 is what the weekly work aims for once the older gap's fo
 grade_card: "aim"
 
 first_lesson_eyebrow: "INSIDE A WORCESTER FIRST SESSION"
-first_lesson_heading: "What a Worcester GCSE Tutor Looks for Behind 'Patchy Understanding'"
+first_lesson_heading: "What a GCSE Tutor for Worcester Students Looks for Behind 'Patchy Understanding'"
 first_lesson_context: "When a report says understanding is patchy, there's nearly always something specific and older underneath: negatives that never bedded in, or a formula your child rearranges by guesswork. It makes every new topic cost twice the effort, so time or confidence runs out before the marks arrive. That's why the first lesson goes backwards through a recent paper, not forwards through the syllabus."
 
 first_lesson_quote: "Very good tutoring for my daughter and good communication with parents. UPDATE: My daughter passed both English and Maths GCSE (4 and 5's). …"
@@ -23,7 +23,7 @@ first_lesson_quote_name: "Chris"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "GCSE"
 
-tutor_strip_heading: "Worcester GCSE tutors who'll go back two years without making it awkward"
+tutor_strip_heading: "GCSE tutors for Worcester students who'll go back two years without making it awkward"
 tutor_strip_body: "Rebuilding the basics needs a tutor who can go over Year 8 work with a sixteen-year-old and never make them feel small. That's most of what our interview tests, and only about 3% of applicants pass it. Have a look at the profiles, or we'll pick for your child."
 
 pathways_heading: "What Comes After Year 11 in Worcester"
@@ -59,7 +59,7 @@ faq_2_q: "Will the tutor really go back to Year 7 or 8 work?"
 faq_2_a: "If that's where the gap is, yes. In Maths it's often Year 7 or 8, and in the Sciences it's usually the maths inside them rather than the science itself. It sounds worrying, but it's generally quicker than families expect, because the tutor's fixing one specific thing, not reteaching three years. Working around a gap for eighteen months costs far more time in the end."
 faq_3_q: "Is Year 11 too late to start?"
 faq_3_a: "No, and Year 11 is when a lot of families first get in touch. It does change what's realistic, though. A gap found in Year 10 can be rebuilt before the Year 11 content piles on top. Found at Easter of Year 11, the same gap has to be worked around, which means a narrower target and more time on exam technique. We'd rather tell you that on the call than have you find out in June."
-faq_4_q: "How much does a Worcester GCSE tutor cost?"
+faq_4_q: "How much does a GCSE tutor for Worcester students cost?"
 faq_4_a: "From £37 an hour, and we'll agree the rate before anything's booked. That covers the lesson, the tutor's preparation, any practice papers they set and the feedback afterwards. There's no joining fee, nothing extra for resources and no tie-in. We're an agency and keep a margin on the rate, which pays for the matching, the vetting and the support around lessons."
 
 sitemap:

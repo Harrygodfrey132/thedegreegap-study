@@ -1,11 +1,11 @@
 ---
-title: "Rickmansworth GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "One GCSE subject pulling the rest down? Rickmansworth GCSE tutors who start from your child's marked papers. Online and one-to-one, from £37 an hour."
+title: "Rickmansworth GCSE Tutors | One-to-One | The Degree Gap"
+description: "One GCSE subject pulling the rest down? GCSE tutors for Rickmansworth who start from your child's marked papers. Online and one-to-one, from £37 an hour."
 layout: "subject"
 location: "Rickmansworth"
 level: "GCSE"
 
-hero_heading_line1: "Online Rickmansworth GCSE Tutors for the One Subject Holding the Rest Back"
+hero_heading_line1: "GCSE Tutors for Rickmansworth Students"
 hero_heading_line2: ""
 hero_lead: "Often there's one line on the report that doesn't match the others, the subject where the grade keeps slipping however hard your child tries. Our GCSE tutors for Rickmansworth students go through that subject's papers mark by mark and work on whatever's costing the most."
 
@@ -14,14 +14,14 @@ grade_to: "8"
 grade_stat: "Chamarika's son had a predicted 4-5 in GCSE Physics and made it an 8, according to Chamarika's Trustpilot review."
 
 first_lesson_eyebrow: "ONE PHYSICS GRADE, TURNED ROUND"
-first_lesson_heading: "Before Any Teaching: What a Rickmansworth GCSE Tutor Checks First"
+first_lesson_heading: "Before Any Teaching: What a GCSE Tutor for Rickmansworth Students Checks First"
 first_lesson_context: "It's hard watching one subject drag down a set of GCSEs that are otherwise fine, especially when your child insists they revised. So the tutor opens a recent mock with them and goes through it a mark at a time. That usually shows which topics need teaching again and which just need more practice against the clock."
 first_lesson_quote: "Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. …"
 first_lesson_quote_name: "Chamarika"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Predicted 4-5 to an 8 in GCSE Physics"
 
-tutor_strip_heading: "Rickmansworth GCSE tutors picked for your child's exact course"
+tutor_strip_heading: "GCSE tutors for Rickmansworth students picked for your child's exact course"
 tutor_strip_body: "If Saturday mornings already go on sailing at Bury Lake, lessons can sit on a weekday evening instead, at a time you agree with the tutor. Browse the profiles, or let us pick two or three for your child."
 
 pathways_heading: "Where a Rickmansworth Year 11 Can Head Once the Results Are In"

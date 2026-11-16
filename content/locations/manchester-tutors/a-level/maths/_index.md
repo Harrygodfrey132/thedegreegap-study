@@ -1,13 +1,13 @@
 ---
-title: "Manchester A-Level Maths Tutors | Online | The Degree Gap"
+title: "Manchester A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Year 12 lost on functions, or Year 13 stuck on a B? Our Manchester A-Level Maths tutors find out which, then work with your child one-to-one online. From £37."
+description: "Year 12 lost on functions, or Year 13 stuck on a B? Our A-Level Maths tutors for Manchester find out which, then work with your child online. From £37."
 layout: "level-subject"
 location: "Manchester"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online One-to-One A-Level Maths Tutors for Manchester Families"
+hero_h1: "A-Level Maths Tutors for Manchester Students"
 hero_lead: "When Manchester parents call us about A-Level Maths, it's usually one of two things. A Year 12 who's stopped following the lessons, or a Year 13 stuck on a B. Our A-Level Maths tutors for Manchester students work out which first, because they need opposite things."
 
 angle_eyebrow: "TWO CALLS, TWO PLANS"
@@ -28,7 +28,7 @@ schools:
   - "Whalley Range 11-18 High School"
   - "Manchester Academy"
 
-steps_heading: "Getting started with a Manchester A-Level Maths tutor, in 3 steps"
+steps_heading: "Getting started with an A-Level Maths tutor for Manchester students, in 3 steps"
 steps_lead: "Most Manchester families have profiles to look at within a day of the call. Maths topics lean on each other, so a term of drifting soon shows."
 steps:
   - title: "A free call with Harry or Joe"

@@ -1,11 +1,11 @@
 ---
-title: "Chelmsford A-Level Tutors | One-to-One Online | The Degree Gap"
-description: "Essays that describe when they should argue? A Year 13 who started late? Chelmsford A-Level tutors, matched on subject and exam board. Online, from £37."
+title: "Chelmsford A-Level Tutors | One-to-One | The Degree Gap"
+description: "Essays that describe when they should argue? A Year 13 who started late? A-Level tutors for Chelmsford, matched on subject and exam board. Online, from £37."
 layout: "subject"
 location: "Chelmsford"
 level: "A-Level"
 
-hero_heading_line1: "Online Chelmsford A-Level Tutors for Essays That Describe When They Should Evaluate"
+hero_heading_line1: "A-Level Tutors for Chelmsford Students"
 hero_heading_line2: ""
 hero_lead: "Your child knows the topics, yet the essays keep coming back a grade short. Our A-Level tutors for Chelmsford students show them how to argue a point, not just explain it. Ideally from Year 12, before the summer exams feed the predicted grade."
 
@@ -14,14 +14,14 @@ grade_to: "C"
 grade_stat: "A son who'd left it all until the last minute, and still turned E and U grades into three Cs."
 
 first_lesson_eyebrow: "LEFT UNTIL THE LAST MINUTE"
-first_lesson_heading: "How a Chelmsford A-Level Tutor Picks Up a Late Start"
+first_lesson_heading: "How an A-Level Tutor for Chelmsford Students Picks Up a Late Start"
 first_lesson_context: "Some Chelmsford parents come to us because the real work got left until Year 13. Others have a steady worker who's been stuck a grade below the offer for months. Either way, the A-Level tutor starts by marking your child's latest paper the way the exam board would, to see whether it's content, evaluation or simply running out of time."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to three C grades"
 
-tutor_strip_heading: "Chelmsford A-Level tutors who mark like the examiner will"
+tutor_strip_heading: "A-Level tutors for Chelmsford students who mark like the examiner will"
 tutor_strip_body: "Whether your child's at KEGS, New Hall or another sixth form, we match to their exam board. Every tutor has two years' tutoring or more. Essays come back marked against the real mark scheme, so you'll both see where the marks went. Browse, or leave the choice to us."
 
 pathways_heading: "After Results Day: Where Chelmsford Teenagers Head Next"

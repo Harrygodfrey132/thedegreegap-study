@@ -7,7 +7,7 @@ location: "Huddersfield"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Huddersfield Students, for the Grade Other Subjects Depend On"
+hero_h1: "GCSE Maths Tutors for Huddersfield Students"
 hero_lead: "GCSE Maths turns up in the entry requirements for far more sixth form courses than A-Level Maths, so one grade can change what your child is allowed to study. Our GCSE Maths tutors for Huddersfield students find where the marks go and rebuild from there."
 
 angle_eyebrow: "THE GRADE OTHER COURSES ASK FOR"

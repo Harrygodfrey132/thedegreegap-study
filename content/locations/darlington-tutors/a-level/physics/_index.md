@@ -7,7 +7,7 @@ location: "Darlington"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Darlington Students Stuck Halfway Through Long Problems"
+hero_h1: "A-Level Physics Tutors for Darlington Students"
 hero_lead: "Your child can start a Physics question, then loses the thread three lines in. Our A-Level Physics tutors for Darlington students break the long Mechanics and Fields problems into steps, and make the maths underneath quick enough to keep up."
 
 angle_eyebrow: "WHERE THE MATHS MEETS THE PHYSICS"

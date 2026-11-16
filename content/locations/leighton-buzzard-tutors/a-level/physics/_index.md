@@ -7,7 +7,7 @@ location: "Leighton Buzzard"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Leighton Buzzard Sixth Formers Stuck Halfway Through Questions"
+hero_h1: "A-Level Physics Tutors for Leighton Buzzard Students"
 hero_lead: "Your child follows the Physics in class, then a multi-step question on circular motion or electric fields stalls halfway, with no obvious next line. Our A-Level Physics tutors for Leighton Buzzard students teach a way through those questions that holds up under exam time."
 
 angle_eyebrow: "THE SECOND HALF OF THE QUESTION"

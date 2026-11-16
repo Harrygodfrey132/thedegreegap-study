@@ -1,13 +1,13 @@
 ---
 title: "Esher GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "English Language counts at Esher Sixth Form College and beyond. Our Esher GCSE English tutors help your child with both papers and the set texts, from £37."
+description: "English Language counts at Esher Sixth Form College and beyond. Our online GCSE English tutors help Esher students with both papers and the set texts."
 layout: "level-subject"
 location: "Esher"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors Covering Esher"
+hero_h1: "GCSE English Tutors for Esher Students"
 hero_lead: "Your child might write well in class, then run out of time on the Language paper or blank on a quotation in the Literature exam. Our GCSE English tutors for Esher students build the weekly habits that help with both, one-to-one online, in a Year 11 that's already crowded."
 
 card_eyebrow: "FREE CONSULTATION"

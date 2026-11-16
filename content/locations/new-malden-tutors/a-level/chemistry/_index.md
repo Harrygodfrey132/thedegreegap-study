@@ -7,7 +7,7 @@ location: "New Malden"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for New Malden Students, Matched to Edexcel or OCR"
+hero_h1: "A-Level Chemistry Tutors for New Malden Students"
 hero_lead: "A friend at the next sixth form has different past papers, the revision videos don't match the course, and nobody's sure which questions to practise. Our A-Level Chemistry tutors for New Malden students work from your child's own board's papers and mark schemes, every week."
 
 angle_eyebrow: "SAME SUBJECT, DIFFERENT PAPERS"

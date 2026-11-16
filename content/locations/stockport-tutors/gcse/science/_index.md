@@ -1,13 +1,13 @@
 ---
 title: "Stockport GCSE Science Tuition | From £37/hr | The Degree Gap"
 nav_title: "Science"
-description: "Two Combined Science grades, both lower than hoped? Our Stockport GCSE Science tutors find the paper pulling your child's pair down. Online, from £37 an hour."
+description: "Two Combined Science grades, both lower than hoped? Our GCSE Science tutors for Stockport find the paper pulling your child's pair down. Online, from £37."
 layout: "level-subject"
 location: "Stockport"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Stockport, When the Mock Comes Back as Two Grades"
+hero_h1: "GCSE Science Tutors for Stockport Students"
 hero_lead: "Combined Science shows up on your child's results as two GCSEs, but both come from one total across all the papers, so one weak paper pulls down the pair. Our GCSE Science tutors for Stockport students find that paper first, in one-to-one lessons online, before it costs both grades."
 
 angle_eyebrow: "TWO GRADES, ONE TOTAL"

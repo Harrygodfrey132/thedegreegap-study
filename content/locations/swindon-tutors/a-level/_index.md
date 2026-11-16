@@ -1,11 +1,11 @@
 ---
 title: "Swindon A-Level Tutors | Expert Tutors | The Degree Gap"
-description: "If your child knows the work but drops marks on paper, our Swindon A-Level tutors can help. One-to-one lessons online, matched to the exam board, from £37."
+description: "If your child knows the work but drops marks on paper, our A-Level tutors for Swindon can help. One-to-one lessons online, matched to the exam board, from £37."
 layout: "subject"
 location: "Swindon"
 level: "A-Level"
 
-hero_heading_line1: "Online Swindon A-Level Tutors for Teens Who Know It but Drop Marks on Paper"
+hero_heading_line1: "A-Level Tutors for Swindon Students"
 hero_heading_line2: ""
 hero_lead: "By Year 13 your child has been taught most of the course. Turning it into marks in a timed paper is a separate skill, and there's rarely class time to drill it. Our A-Level tutors for Swindon students spend the hour on exactly that."
 
@@ -14,14 +14,14 @@ grade_to: "C"
 grade_stat: "E and U grades turned into three Cs: that's how one parent put it in the review below."
 
 first_lesson_eyebrow: "E AND U GRADES TO THREE Cs"
-first_lesson_heading: "The First Thing a Swindon A-Level Tutor Fixes"
+first_lesson_heading: "The First Thing an A-Level Tutor for Swindon Students Fixes"
 first_lesson_context: "Your child can talk through a topic perfectly well, then loses half the marks writing it down. We see it all the time with Swindon Year 13s, and it isn't a knowledge problem, so more revision won't touch it. The first lesson with an A-Level tutor is a marked answer and the mark scheme, side by side."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Grade E to Grade C across three A-Levels"
 
-tutor_strip_heading: "Swindon A-Level tutors chosen by subject and exam board"
+tutor_strip_heading: "A-Level tutors for Swindon students chosen by subject and exam board"
 tutor_strip_body: "The best tutor for OCR Physics or Edexcel Economics is rarely the one who lives nearest, and being online means that doesn't matter. Our tutors, many from Russell Group universities, have all tutored for two years or more. Have a browse, or leave the choosing to us."
 
 pathways_heading: "Life After A-Levels in Swindon"

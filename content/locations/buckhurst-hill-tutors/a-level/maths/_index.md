@@ -7,7 +7,7 @@ location: "Buckhurst Hill"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Buckhurst Hill Sixth Formers Slowed Down by Their Algebra"
+hero_h1: "A-Level Maths Tutors for Buckhurst Hill Students"
 hero_lead: "Your child did well enough at GCSE to take Maths on, and now every Year 12 calculus question hides three lines of algebra that take too long and go wrong in the middle. Our A-Level Maths tutors for Buckhurst Hill students make that algebra quick and reliable."
 
 angle_eyebrow: "THREE LINES OF ALGEBRA IN EVERY QUESTION"

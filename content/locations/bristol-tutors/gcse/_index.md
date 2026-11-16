@@ -1,11 +1,11 @@
 ---
-title: "GCSE Tutors in Bristol | Online One-to-One | The Degree Gap"
-description: "Bristol GCSE tutors for when a grade's slipping and nobody can say why. Online, one-to-one lessons that rebuild the topic that stopped clicking. From £37."
+title: "GCSE Tutors in Bristol | One-to-One | The Degree Gap"
+description: "GCSE tutors for Bristol, for when a grade's slipping and nobody can say why. Online, one-to-one lessons that rebuild the topic that stopped clicking. From £37."
 layout: "subject"
 location: "Bristol"
 level: "GCSE"
 
-hero_heading_line1: "Online Bristol GCSE Tutors for the Grade That's Slipping and Nobody Knows Why"
+hero_heading_line1: "GCSE Tutors for Bristol Students"
 hero_heading_line2: ""
 hero_lead: "Your child revised for hours, and the mocks still came back lower than anyone hoped. That's usually when Bristol families find us. Our GCSE tutors for Bristol students look for the exact topic that stopped making sense, then rebuild from there, one-to-one and online."
 
@@ -14,7 +14,7 @@ grade_to: "B"
 grade_stat: "Keira's own review says tutoring took her GCSE grades from an E up to a B."
 
 first_lesson_eyebrow: "IN KEIRA'S OWN WORDS"
-first_lesson_heading: "Where a Bristol GCSE Tutor Starts When a Grade Has Slipped"
+first_lesson_heading: "Where a GCSE Tutor for Bristol Students Starts When a Grade Has Slipped"
 first_lesson_context: "A 4 or 5 in Maths and English is the first thing most Filton apprenticeships at Airbus or GKN look for, and most Bristol sixth forms and colleges ask for it too. Results across the city sit a little below the national picture, but that tells you nothing about your child. So the GCSE tutor starts with their latest paper and finds the topics quietly leaking marks."
 
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
@@ -22,7 +22,7 @@ first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B in GCSE"
 
-tutor_strip_heading: "Bristol GCSE tutors for families from Cotham to Bradley Stoke"
+tutor_strip_heading: "GCSE tutors for Bristol students, for families from Cotham to Bradley Stoke"
 tutor_strip_body: "Every tutor here has passed an interview with Harry or Joe, and only around 3% of applicants do. Our tutors are graduates or undergraduates who've tutored for two years or more. We'll check your child's exam board before suggesting anyone. Browse the profiles, or ask us to pick."
 
 pathways_heading: "What Bristol Year 11s Do After Their GCSEs"
@@ -89,7 +89,7 @@ tutors:
 
 faq_1_q: "My son wants an aerospace apprenticeship at Filton. Which GCSE grades actually matter?"
 faq_1_a: "Maths and English first, then Science. Airbus, GKN and Rolls-Royce usually look for at least a 4 or 5 in Maths and English before anything else, and the technical engineering routes look hardest at Science. Each scheme sets its own grades, so it's worth checking the one your son's aiming for. A tutor works out which of those subjects is short of the mark, then spends the lessons on the question types that'll move it."
-faq_2_q: "My daughter's fallen a long way behind in Maths. Where does a Bristol GCSE tutor start?"
+faq_2_q: "My daughter's fallen a long way behind in Maths. Where does a GCSE tutor for Bristol students start?"
 faq_2_a: "Not with whatever her class is doing this week. In the first lesson the tutor works backwards through her mistakes to find where things stopped making sense. Often it's a Year 8 or 9 method, like fractions or rearranging equations, that never quite went in. And once that's solid, the newer topics start to hold, so the plan moves forward from firm ground instead of racing to catch the class."
 faq_3_q: "Can a tutor get my son ready for his Year 11 mocks?"
 faq_3_a: "Yes. Mocks are one of the main reasons Bristol parents call us in the first place. Lessons happen online in Lessonspace, a shared whiteboard with a replay of every lesson, where your son and the tutor work through past papers together. The tutor marks them the way an examiner would, then spends time on whatever's losing him marks. The idea is that nothing in the mock feels new when he sits down to it."

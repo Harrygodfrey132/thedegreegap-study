@@ -7,7 +7,7 @@ location: "Havering"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Havering Students Tangled Up in Curly Arrows"
+hero_h1: "A-Level Chemistry Tutors for Havering Students"
 hero_lead: "The curly arrows looked simple in class, and now there are a dozen mechanisms and a synthesis question asking how to get from one molecule to another. Our A-Level Chemistry tutors for Havering students untangle the organic side and the long calculations, a step at a time."
 
 angle_eyebrow: "ARROWS, ROUTES AND LONG SUMS"

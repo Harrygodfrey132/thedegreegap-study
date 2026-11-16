@@ -5,7 +5,7 @@ layout: "subject"
 location: "Taunton"
 level: "GCSE"
 
-hero_heading_line1: "GCSE Tutors for Taunton Year 11s Picking Courses Before the Grades Arrive"
+hero_heading_line1: "GCSE Tutors for Taunton Students"
 hero_heading_line2: ""
 hero_lead: "By the autumn of Year 11, your child may be choosing next year's courses with only predictions to go on, while the course pages spell out the grades they'll need in August. Our GCSE tutors for Taunton students find the subject furthest from its grade and start there."
 

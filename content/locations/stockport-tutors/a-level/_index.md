@@ -1,11 +1,11 @@
 ---
 title: "Stockport A-Level Tutors | Year 12 to UCAS | The Degree Gap"
-description: "Year 12 at a Stockport college, where nobody knows your child yet. Our Stockport A-Level tutors find the gaps early, one-to-one online, from £37 an hour."
+description: "Year 12 at a Stockport college, where nobody knows your child yet. Our A-Level tutors for Stockport find the gaps early, one-to-one online, from £37 an hour."
 layout: "subject"
 location: "Stockport"
 level: "A-Level"
 
-hero_heading_line1: "Online Stockport A-Level Tutors for a New College Where Nobody Knows Your Child Yet"
+hero_heading_line1: "A-Level Tutors for Stockport Students"
 hero_heading_line2: ""
 hero_lead: "In Stockport, Year 12 usually means a new college, where your child's teachers have a GCSE grade and not much else. They can't yet see which topics really stuck. Our A-Level tutors for Stockport students find the gaps one-to-one online, while the predicted grade is still being decided."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "The parent quoted below says their child went from Cs to As, with help picking universities too."
 
 first_lesson_eyebrow: "WHAT A GCSE GRADE DOESN'T SHOW"
-first_lesson_heading: "Why a Stockport A-Level Tutor Starts With the GCSE Paper, Not the Year 12 Notes"
+first_lesson_heading: "Why an A-Level Tutor for Stockport Students Starts With the GCSE Paper, Not the Year 12 Notes"
 first_lesson_context: "At Aquinas, Cheadle College or Stockport College, a Year 12 teacher starts September with a room of new faces and a grade for each one. That grade can't tell them whether your child skimmed trigonometry in Year 10, or got through GCSE Chemistry on memory. A tutor can usually spot it in the first hour, from your child's own working, and the term gets a clear plan from there."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Cs to As at A-Level, plus help with university choices"
 
-tutor_strip_heading: "Stockport A-Level tutors who know what a fresh start hides"
+tutor_strip_heading: "A-Level tutors for Stockport students who know what a fresh start hides"
 tutor_strip_body: "The tutors we suggest know which Year 12 topics lean on a GCSE method, and each one has sat an interview with Harry or Joe. Only around 3% of applicants make it onto the platform. See the profiles, or ask us to pick for you."
 
 pathways_heading: "After A-Levels in Stockport: The Routes at Eighteen"

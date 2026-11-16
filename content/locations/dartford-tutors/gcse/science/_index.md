@@ -7,7 +7,7 @@ location: "Dartford"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Dartford Students Thrown by Unfamiliar Questions"
+hero_h1: "GCSE Science Tutors for Dartford Students"
 hero_lead: "Your child has learned the facts, then the exam asks about a frog they've never heard of or a gadget they've never seen, and the page stays blank. Our GCSE Science tutors for Dartford students teach them to spot the familiar science inside the unfamiliar question."
 
 angle_eyebrow: "THE SCIENCE BEHIND THE STORY"

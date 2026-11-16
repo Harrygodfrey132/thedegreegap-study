@@ -1,13 +1,13 @@
 ---
 title: "GCSE Maths Tutors for Bushey Families | The Degree Gap"
 nav_title: "Maths"
-description: "Maths homework moved past what you remember? Our Bushey GCSE Maths tutors start from your child's own papers and exam board, one-to-one online. From £37."
+description: "Maths homework moved past what you remember? Our GCSE Maths tutors for Bushey start from your child's own papers and exam board, one-to-one online. From £37."
 layout: "level-subject"
 location: "Bushey"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors Covering Bushey and Bushey Heath"
+hero_h1: "GCSE Maths Tutors for Bushey Students"
 hero_lead: "If the Maths homework has moved past anything you remember from school, you're far from alone. Our GCSE Maths tutors for Bushey students start from your child's own papers, often the non-calculator one, and rebuild the methods one-to-one online."
 
 card_eyebrow: "FREE BUSHEY CONSULTATION"
@@ -19,7 +19,7 @@ card_points:
 card_cta: "Book a free Maths call"
 
 angle_eyebrow: "THE PAPER WITHOUT A CALCULATOR"
-angle_heading: "What a Bushey GCSE Maths Tutor Works on First"
+angle_heading: "What a GCSE Maths Tutor for Bushey Students Works on First"
 angle_body_1: "It often starts with homework you can't help with any more. Your child asks about algebraic fractions or a 'show that' question, and the method on the sheet looks nothing like the one you learned. That's normal. Whichever Bushey school your child's at, the non-calculator paper is where a lot of marks go missing. One arithmetic slip early on can cost the accuracy marks on everything that follows, even when the method was fine. Fractions and negative numbers are the usual culprits, and they're Year 7 and 8 topics there's rarely time to go back over in class."
 angle_body_2: "In the first lesson, the tutor sits down with a recent paper and finds the earliest point where your child's working goes wrong. That step gets rebuilt on the shared whiteboard, then tried on real questions from your child's board, with and without a calculator. If your child might stay on at Queens', its sixth form asks for at least a 4 in Maths, and A-Level Maths has its own entry grade on top, so check this year's course table. Whether the aim is a solid pass or the grade that opens up A-Level Maths, the tutor plans the weeks around it."
 angle_image: "/images/maths-equations-close-up.jpg"

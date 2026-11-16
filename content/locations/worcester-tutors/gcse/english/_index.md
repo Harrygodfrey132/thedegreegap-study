@@ -1,5 +1,5 @@
 ---
-title: "Online GCSE English Tutors | Worcester | The Degree Gap"
+title: "GCSE English Tutors | Worcester | The Degree Gap"
 nav_title: "English"
 description: "Online GCSE English tutors for Worcester families. If your child knows the play but goes blank with the book shut, we'll work on quotes, structure and timing."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Worcester"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Worcester Families"
+hero_h1: "GCSE English Tutors for Worcester Students"
 hero_lead: "Plenty of teenagers can talk about the play for ages, then write something thin in forty-five minutes with the book shut. Only the second part gets marked. Our GCSE English tutors for Worcester students work on it with your child, online, every week."
 
 angle_eyebrow: "KNOWS THE BOOK, CAN'T REACH IT IN THE EXAM"

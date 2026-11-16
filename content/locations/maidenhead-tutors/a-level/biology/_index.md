@@ -7,7 +7,7 @@ location: "Maidenhead"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Maidenhead Students Who Dread the Statistics"
+hero_h1: "A-Level Biology Tutors for Maidenhead Students"
 hero_lead: "Your child chose Biology to study living things, and now the fieldwork comes back as chi-squared tests and standard deviations. Our A-Level Biology tutors for Maidenhead students make the maths routine, so it stops costing marks on questions your child otherwise understands."
 
 angle_eyebrow: "FROM WOOLLEY FIRS TO PAPER 3"

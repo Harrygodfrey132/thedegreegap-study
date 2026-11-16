@@ -1,17 +1,17 @@
 ---
 title: "Bicester GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "New school, new set texts? Our Bicester GCSE English tutors help your child learn the new play, novel and poems, and practise the Language papers. From £37."
+description: "New school, new set texts? Our online GCSE English tutors help Bicester students learn the new play, novel and poems, and practise the Language papers."
 layout: "level-subject"
 location: "Bicester"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors Covering Bicester"
+hero_h1: "GCSE English Tutors for Bicester Students"
 hero_lead: "Change schools in Year 10 and your child might walk into a class halfway through a Shakespeare play they've never read. Our GCSE English tutors for Bicester students get them up to speed on the new set texts, and keep the Language papers ticking over too."
 
 angle_eyebrow: "DIFFERENT SCHOOL, DIFFERENT BOOKS"
-angle_heading: "Why Set Texts Are the First Thing a Bicester English Tutor Asks About"
+angle_heading: "Why Set Texts Are the First Thing an English Tutor for Bicester Students Asks About"
 angle_body_1: "English Literature is the GCSE that changes most with a move. Each school picks its own Shakespeare play, 19th-century novel, modern text and poetry from its exam board's list, so a child who arrives in Bicester from elsewhere can find every book is new. And the exam expects quotations from memory. English Language is kinder, because its papers use extracts nobody has seen before, so the skills travel with your child. They still have sticking points, though: the question about a writer's choice of words, and the timed writing task at the end, which often gets squeezed."
 angle_body_2: "So on the call we'll ask which texts your child's new school is teaching, and look for a tutor who knows them well. Early lessons go on the books, starting with what happens in them and a handful of quotations your child can build a paragraph around. A 4 in English is on the entry list for both The Bicester School's and The Cooper School's sixth forms, so the Language papers get regular timed practice too, a section at a time. Entry rules can change, so check this year's guides."
 angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"

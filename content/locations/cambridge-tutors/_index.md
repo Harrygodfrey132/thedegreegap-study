@@ -1,9 +1,9 @@
 ---
 title: "Cambridge Tutors | GCSE & A-Level from £37/hr"
-description: "A grade short of what Hills Road asks for? Our Cambridge tutors work one-to-one online with your child on GCSE and A-Level. A free call first, then from £37."
+description: "A grade short of what Hills Road asks for? Our tutors for Cambridge work online with your child on GCSE and A-Level. A free call first, then from £37."
 layout: single
 location: Cambridge
-banner_heading: "Cambridge tutors online, for the grade your child is aiming for"
+banner_heading: "GCSE and A-Level Tutors for Cambridge Families"
 banner_description: "Maybe it's a 7 for Hills Road, or a pass in Maths that still feels a long way off. Maybe it's an A-Level prediction that won't budge. Whatever it is, we'll talk it through and suggest tutors who know that exam."
 content_angle: "ambition and sixth form entry (Hills Road, Long Road), told from the parent's side"
 intro_1: "The mock comes home one grade short of what your child's chosen sixth form asks for. It doesn't sound like much. In Cambridge it can be the difference between one sixth form and another. Hills Road Sixth Form College publishes its entry requirements, and for the most popular A-Level combinations they've usually asked for grade 7s at GCSE, sometimes higher. Parents here tell us the comparing starts early, and it's hard not to get drawn in. That's a lot for a 15-year-old to carry. But a one-grade gap is very rarely about effort. More often it's a handful of question types your child keeps dropping marks on, and those can be found and worked on."

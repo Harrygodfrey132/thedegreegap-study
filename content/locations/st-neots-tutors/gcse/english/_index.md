@@ -1,13 +1,13 @@
 ---
 title: "GCSE English Tutors for St Neots | The Degree Gap"
 nav_title: "English"
-description: "Quick at Maths but stuck on English? Our St Neots GCSE English tutors give your child a clear method for every question, one-to-one and online. From £37."
+description: "Quick at Maths but stuck on English? Our GCSE English tutors for St Neots give your child a clear method for every question, one-to-one and online. From £37."
 layout: "level-subject"
 location: "St Neots"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutoring for St Neots Children"
+hero_h1: "GCSE English Tutors for St Neots Students"
 hero_lead: "Your child might get through a page of algebra without blinking, then freeze at the question asking how a writer uses language. Our GCSE English tutors for St Neots students give them a clear method for each Language question, and a way of learning Literature quotations that sticks."
 
 card_eyebrow: "FREE CONSULTATION"
@@ -36,7 +36,7 @@ schools:
   - "Sandy Secondary School"
   - "Kimbolton School"
 
-steps_heading: "How to get started with a St Neots GCSE English tutor"
+steps_heading: "How to get started with a GCSE English tutor for St Neots students"
 steps_lead: "Three steps, and nothing to sign. Before the call, it's worth finding out which novel, play and poems your child is studying, because we match tutors on the set texts as well as the board."
 steps:
   - title: "Start with a chat"

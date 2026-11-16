@@ -1,13 +1,13 @@
 ---
-title: "Reading A-Level Biology Tutors | Online | The Degree Gap"
+title: "Reading A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Did Year 12 Biology go well, only for Year 13 to feel much harder? Our Reading A-Level Biology tutors help your child link the topics up. Online, from £37."
+description: "Did Year 12 Biology go well, only for Year 13 to feel much harder? Our A-Level Biology tutors for Reading help your child link the topics up. Online, from £37."
 layout: "level-subject"
 location: "Reading"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Your Child in Reading"
+hero_h1: "A-Level Biology Tutors for Reading Students"
 hero_lead: "If Year 12 Biology went fine and Year 13 suddenly doesn't, it's often because the questions now join topics together. Our A-Level Biology tutors for Reading students work on those joins, not just the units."
 
 angle_eyebrow: "WHEN YEAR 13 JOINS THE TOPICS UP"
@@ -28,7 +28,7 @@ schools:
   - "The Abbey School"
   - "Little Heath School"
 
-steps_heading: "Finding your child a Biology tutor in Reading, in 3 steps"
+steps_heading: "Finding your child a Biology tutor for Reading students, in 3 steps"
 steps_lead: "If Year 12 went well and Year 13 hasn't, the free call is where we start working out why."
 steps:
   - title: "A chat about Year 12 and Year 13"

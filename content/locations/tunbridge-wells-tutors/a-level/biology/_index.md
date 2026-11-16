@@ -1,13 +1,13 @@
 ---
-title: "Tunbridge Wells Online A-Level Biology Tutors | The Degree Gap"
+title: "Tunbridge Wells A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Always did well, now a C in A-Level Biology? Our Tunbridge Wells tutors help your child use what they know on questions they haven't seen. Online, from £37."
+description: "Always did well, now a C in A-Level Biology? Our tutors for Tunbridge Wells help your child use what they know on questions they haven't seen. Online, from £37."
 layout: "level-subject"
 location: "Tunbridge Wells"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Tunbridge Wells and Tonbridge"
+hero_h1: "A-Level Biology Tutors for Tunbridge Wells Students"
 hero_lead: "It's unsettling when a child who's always done well brings home a C in Biology. Usually the knowledge is there, and the marks are going on questions that ask your child to use it somewhere new. Our A-Level Biology tutors for Tunbridge Wells students work on exactly that."
 
 angle_eyebrow: "THE CURVE THEY CAN DRAW FROM MEMORY"
@@ -28,7 +28,7 @@ schools:
   - "Kent College Pembury"
   - "Tunbridge Wells High School"
 
-steps_heading: "Finding a Tunbridge Wells A-Level Biology Tutor Your Child Gets On With"
+steps_heading: "Finding an A-Level Biology Tutor for Tunbridge Wells Students Your Child Gets On With"
 steps_lead: "Tutor profiles come within a day, and every week after that adds another marked answer before your child's predicted grade is set."
 steps:
   - title: "Start with a conversation"

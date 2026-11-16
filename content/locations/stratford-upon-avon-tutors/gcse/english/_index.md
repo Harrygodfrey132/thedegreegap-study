@@ -1,13 +1,13 @@
 ---
-title: "Stratford-upon-Avon Online GCSE English Tutors | The Degree Gap"
+title: "Stratford-upon-Avon GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Your child knows the play, so why is the Shakespeare essay stuck? Stratford-upon-Avon GCSE English tutors who teach it the way examiners read it. From £37."
+description: "Your child knows the play, so why is the Shakespeare essay stuck? Online GCSE English tutors for Stratford-upon-Avon students teach it the examiner's way."
 layout: "level-subject"
 location: "Stratford-upon-Avon"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online One-to-One GCSE English Tutoring for Stratford-upon-Avon Teenagers"
+hero_h1: "GCSE English Tutors for Stratford-upon-Avon Students"
 hero_lead: "Your child might have grown up near the theatre and still find the Shakespeare question the hardest in the mock. It's more common than you'd think. Our GCSE English tutors for Stratford-upon-Avon students teach the play the way an examiner reads it, line by line."
 
 angle_eyebrow: "THE SHAKESPEARE PAPER, IN SHAKESPEARE'S TOWN"

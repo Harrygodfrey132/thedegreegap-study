@@ -1,13 +1,13 @@
 ---
-title: "Fareham A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Fareham A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
-description: "Was your child sure the pH question went well, then it scored lowest? Our Fareham A-Level Chemistry tutors work one-to-one online on acids and bases. From £37."
+description: "Was your child sure the pH question went well, then it scored lowest? Our A-Level Chemistry tutors for Fareham work online on acids and bases. From £37."
 layout: "level-subject"
 location: "Fareham"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Fareham A-Level Chemistry Tutors, Working One-to-One Online"
+hero_h1: "A-Level Chemistry Tutors for Fareham Students"
 hero_lead: "If your child left a mock sure the acids question went well and it scored lowest, that's common. Our A-Level Chemistry tutors for Fareham students teach the question to ask before any numbers: what's actually in the flask?"
 
 angle_eyebrow: "WHEN A CONFIDENT ANSWER COMES BACK WRONG"

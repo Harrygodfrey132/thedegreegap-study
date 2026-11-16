@@ -7,7 +7,7 @@ location: "Bury St Edmunds"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Bury St Edmunds Teenagers Who Retell the Story"
+hero_h1: "GCSE English Tutors for Bury St Edmunds Students"
 hero_lead: "Your child knows the book, but the essay retells the plot and the analysis marks never come. Our GCSE English tutors for Bury St Edmunds students teach them to pick one quotation and say what the writer is doing with it."
 
 angle_eyebrow: "THE GCSE EVERY COURSE NAMES"

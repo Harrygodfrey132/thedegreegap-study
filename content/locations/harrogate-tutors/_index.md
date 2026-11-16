@@ -1,9 +1,9 @@
 ---
 title: "Harrogate Tutors | Expert Support | The Degree Gap"
-description: "Your child's set themselves a goal. Our Harrogate tutors turn it into steady weekly work, from GCSE to A-Level. Talk to Harry or Joe first. From £37."
+description: "Your child's set themselves a goal. Our online tutors turn it into steady weekly work for Harrogate students, from GCSE to A-Level. Talk to Harry or Joe first."
 layout: "single"
 location: "Harrogate"
-banner_heading: "Online Harrogate Tutors for GCSE and A-Level, Backing the Goal Your Child Has Set"
+banner_heading: "GCSE and A-Level Tutors for Harrogate Families"
 banner_description: "You can back your child's big goal without becoming the nag. A tutor breaks it into steady weekly work, one lesson at a time."
 content_angle: "a goal of their own: backing a teenager's ambition without nagging, with help on A-Level choices and university"
 intro_1: "There might be a note stuck above the desk. A grade, or a university course your child looked up late one night. It's a good sign. But it's also slightly nerve-racking, because every reminder about revision seems to land as nagging. The goal might be the grades for a sixth form course, or going as far as they can in a subject they love. Whether your child is at Harrogate Grammar, St Aidan's or elsewhere in town, effort usually isn't the worry. Making the next two years count is."

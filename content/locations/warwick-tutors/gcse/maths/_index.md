@@ -1,13 +1,13 @@
 ---
-title: "Warwick GCSE Maths Tutors | Online | The Degree Gap"
+title: "Warwick GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Warwick GCSE Maths tutors who make the most of the autumn term, before the winter mocks. Online one-to-one lessons matched to your child's exam board, from £37."
+description: "GCSE Maths tutors for Warwick who make the most of the autumn term, before the winter mocks. Online one-to-one lessons matched to your child's exam board,"
 layout: "level-subject"
 location: "Warwick"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Warwick Families, Starting Before the Mocks"
+hero_h1: "GCSE Maths Tutors for Warwick Students"
 hero_lead: "If Maths is the worry this year, the autumn term will do more for it than the spring. A grade takes about twelve weeks of steady work to move, and our GCSE Maths tutors for Warwick students plan those weeks back from your child's mocks."
 
 angle_eyebrow: "TWELVE WEEKS, NOT SIX"

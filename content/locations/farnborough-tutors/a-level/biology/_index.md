@@ -1,13 +1,13 @@
 ---
-title: "Farnborough A-Level Biology Tutors | Online | The Degree Gap"
+title: "Farnborough A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Your child knows the four membrane transport processes but can't pick the right one? Our Farnborough A-Level Biology tutors work online, from £37 an hour."
+description: "Your child knows the four membrane transport processes but can't pick the right one? Our A-Level Biology tutors for Farnborough work online, from £37 an hour."
 layout: "level-subject"
 location: "Farnborough"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors Covering Farnborough and Cove"
+hero_h1: "A-Level Biology Tutors for Farnborough Students"
 hero_lead: "Your child can probably recite the four main ways substances cross a cell membrane, but the exam asks which one is happening, and why. That choice, and the co-transport question that uses three at once, is where our A-Level Biology tutors for Farnborough students start."
 
 angle_eyebrow: "KNOWING THE LIST ISN'T THE SAME AS CHOOSING"
@@ -28,7 +28,7 @@ schools:
   - "The Wavell School"
   - "Farnborough College of Technology"
 
-steps_heading: "Finding your child a Farnborough Biology tutor, step by step"
+steps_heading: "Finding your child a Biology tutor for Farnborough students, step by step"
 steps_lead: "Tutor profiles tend to land within a day of your call. If a college deadline or a mock is close, just say."
 steps:
   - title: "Start with a free call"

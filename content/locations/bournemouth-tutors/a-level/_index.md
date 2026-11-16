@@ -1,11 +1,11 @@
 ---
 title: "Bournemouth A-Level Tuition | From £37/hr | The Degree Gap"
-description: "Has your child started at a new sixth form and found Year 12 hard? Our Bournemouth A-Level tutors work one-to-one online, from £37 an hour, with no contract."
+description: "Has your child started at a new sixth form and found Year 12 hard? Our A-Level tutors for Bournemouth work one-to-one online, from £37, with no contract."
 layout: "subject"
 location: "Bournemouth"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Bournemouth Year 12s Who Changed School at 16"
+hero_heading_line1: "A-Level Tutors for Bournemouth Students"
 hero_heading_line2: ""
 hero_lead: "First term at a new sixth form, and the A-Level marks coming home are lower than you'd hoped. That's common when the teachers have never seen your child's GCSE work. Our A-Level tutors for Bournemouth students find what their old course covered and which bits are still shaky, one-to-one online."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "For Daljit's son, the A-Level result came in almost two grades above his Year 13 mock."
 
 first_lesson_eyebrow: "THE MOCK WASN'T THE VERDICT"
-first_lesson_heading: "What a Bournemouth A-Level Tutor Checks When the Sixth Form Is New"
+first_lesson_heading: "What an A-Level Tutor for Bournemouth Students Checks When the Sixth Form Is New"
 first_lesson_context: "Chances are the class your child's just joined did its GCSEs all over town. Glenmoor and Winton finish at 16, and the grammars, the academies and the college at Lansdowne all take in newcomers. Lessons can't stop to check everyone's old course, but an A-Level tutor can, starting with whichever Year 12 topic didn't land and working back to the GCSE idea underneath it."
 first_lesson_quote: "My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
 first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Almost two grades above the Year 13 mock"
 
-tutor_strip_heading: "Bournemouth A-Level tutors who look back before moving on"
+tutor_strip_heading: "A-Level tutors for Bournemouth students who look back before moving on"
 tutor_strip_body: "Tell us on the call where your child did their GCSEs and where they're doing A-Levels now, since the exam boards can be different. We'll only suggest tutors who know the course your child's actually sitting. Browse the profiles yourself, or let us do the choosing."
 
 pathways_heading: "The Choices Ahead for Bournemouth Sixth Formers"

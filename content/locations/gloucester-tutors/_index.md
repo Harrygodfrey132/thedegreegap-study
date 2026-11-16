@@ -1,9 +1,9 @@
 ---
-title: "Online Tutors for Your Child in Gloucester | The Degree Gap"
+title: "Tutors for Your Child in Gloucester | The Degree Gap"
 description: "Did the 11+ not go your child's way in Gloucester, or is grammar school proving hard? We'll match them with an online tutor. Free call first, from £37 an hour."
 layout: "single"
 location: "Gloucester"
-banner_heading: "Online tutors for your child in Gloucester, for the GCSEs that decide where they go at 16"
+banner_heading: "GCSE and A-Level Tutors for Gloucester Families"
 banner_description: "We match your child with a tutor who fits how they learn, chosen from across the UK, and every lesson happens at home in Gloucester."
 content_angle: "the second door at sixteen: GCSEs decide the next school, whichever way the 11+ went"
 intro_1: "If your child didn't sit the 11+, or sat it and didn't get the result you'd hoped for, it can feel as if Gloucester made a decision about them at ten years old. It didn't. Plenty of the city's schools stop at Year 11, Severn Vale among them, so lots of Gloucester children apply somewhere new at sixteen anyway. And the grammar schools' sixth forms, Sir Thomas Rich's and Denmark Road included, take students from other schools. What gets read at that point is the GCSEs."

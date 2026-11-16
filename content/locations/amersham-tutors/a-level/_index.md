@@ -1,11 +1,11 @@
 ---
 title: "Amersham A-Level Tutors | Year 12 and 13 | The Degree Gap"
-description: "Amersham A-Level tutors for a child settling into a new sixth form, or worried about the Year 13 prediction. One-to-one lessons online, from £37, no contract."
+description: "A-Level tutors for Amersham, for a child settling into a new sixth form, or worried about the Year 13 prediction. One-to-one lessons online, from £37."
 layout: "subject"
 location: "Amersham"
 level: "A-Level"
 
-hero_heading_line1: "A-Level Tutors for Amersham Students Settling Into a New Sixth Form"
+hero_heading_line1: "A-Level Tutors for Amersham Students"
 hero_heading_line2: ""
 hero_lead: "New teachers, new faces, maybe a whole new building, and Year 12 doesn't wait for anyone to settle. Our A-Level tutors for Amersham students work with your child one-to-one online, and start on any gap from the step up before a predicted grade gets written."
 
@@ -14,14 +14,14 @@ grade_to: "C"
 grade_stat: "One parent's son had left studying to the final hour. He still turned E and U grades into three Cs."
 
 first_lesson_eyebrow: "A FRESH START THAT MOVES QUICKLY"
-first_lesson_heading: "Why an Amersham A-Level Tutor Starts in the First Term of Year 12"
+first_lesson_heading: "Why an A-Level Tutor for Amersham Students Starts in the First Term of Year 12"
 first_lesson_context: "If your child's moved sixth form this September, they've got company: sixth forms round here take in lots of new faces each year. It's a lot to get used to, and the work goes up a gear in those same weeks. A gap often doesn't show until the November assessments come back, so an A-Level tutor looks for it early, while it's still small."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to three Cs at A-Level"
 
-tutor_strip_heading: "Amersham A-Level tutors who know the exam board your child's switched to"
+tutor_strip_heading: "A-Level tutors for Amersham students who know the exam board your child's switched to"
 tutor_strip_body: "Your child might have sat Edexcel GCSE Maths and now be on OCR MEI at A-Level, and the questions look different. We match on the exact course and board, and check the tutor knows its papers. Lessons run on the platform Lessonspace, with a replay of each one."
 
 pathways_heading: "Life After A-Levels for Amersham Sixth Formers"

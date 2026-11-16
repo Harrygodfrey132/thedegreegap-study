@@ -5,7 +5,7 @@ layout: "subject"
 location: "Hounslow"
 level: "A-Level"
 
-hero_heading_line1: "A-Level Tutors for Hounslow Students When Year 12 Grades Start to Slip"
+hero_heading_line1: "A-Level Tutors for Hounslow Students"
 hero_heading_line2: ""
 hero_lead: "Year 12 marks feed the predicted grades universities see, whether your child wants to stay at home or move away. Our A-Level tutors for Hounslow students work on the topics costing marks this term, before those predictions are written."
 
@@ -14,7 +14,7 @@ grade_to: "A"
 grade_stat: "“…helped my kid go from Cs to As.” Alexander, parent, on Google"
 
 first_lesson_eyebrow: "WHEN THE UNIVERSITY SHORTLIST GETS REAL"
-first_lesson_heading: "Why a Hounslow A-Level Tutor Asks About University in Week One"
+first_lesson_heading: "Why an A-Level Tutor for Hounslow Students Asks About University in Week One"
 first_lesson_context: "Brunel, Kingston, St Mary's and the University of West London's Brentford site are all within reach of Hounslow, and central London is a Piccadilly line ride away, so lots of families are weighing up whether their child studies from home. It's a big conversation, and it often starts before anyone knows the grades. Whichever way your child leans, each course sets its own offer, and the A-Level tutor starts by working out how far today's marks are from it."
 first_lesson_quote: "They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"

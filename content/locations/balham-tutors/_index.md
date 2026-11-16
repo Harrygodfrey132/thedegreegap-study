@@ -1,9 +1,9 @@
 ---
-title: "Online Tuition for Your Child in Balham | The Degree Gap"
+title: "Tuition for Your Child in Balham | The Degree Gap"
 description: "Has helping with homework in your Balham home started to end in a row? We'll match your child with an online tutor instead. From £37 an hour, no contract."
 layout: "single"
 location: "Balham"
-banner_heading: "Online tutoring for Balham families, when your help with homework keeps ending in a row"
+banner_heading: "GCSE and A-Level Tutors for Balham Families"
 banner_description: "Sometimes the most useful help comes from someone who isn't Mum or Dad. We match your child with a tutor from anywhere in the UK who takes that subject on, so you can step back."
 content_angle: "handing it over: hands-on Balham parents whose help with homework has started to end in rows, so a tutor takes the subject on and the parent steps back from teaching while still seeing how it's going"
 intro_1: "It usually starts with 'can you just check this?' Twenty minutes later the method you showed them isn't the one their teacher uses, voices are raised, and the bedroom door is shut. Plenty of Balham parents have been closely involved for years, from the reading book every night in primary school to sitting beside their child through practice papers in Year 6. So it stings when, somewhere around Year 9, your help stops landing. You haven't done anything wrong. Most teenagers find it hard to be taught by a parent, and harder still as exams get closer. That's awkward timing here, because Year 11s around Balham apply for sixth form early: Chestnut Grove wants applications for 2027 by 1 December, and Burntwood by the end of the same month."

@@ -5,7 +5,7 @@ layout: "subject"
 location: "Kenilworth"
 level: "A-Level"
 
-hero_heading_line1: "Online Kenilworth A-Level Tutors Who Start With Your Child's First Year 12 Test"
+hero_heading_line1: "A-Level Tutors for Kenilworth Students"
 hero_heading_line2: ""
 hero_lead: "When your child stays on for sixth form, nothing around them changes, so a harder Year 12 can go unnoticed for a term. Our A-Level tutors for Kenilworth students read the first marked tests, find where the marks are slipping and work on that."
 
@@ -14,7 +14,7 @@ grade_to: "C"
 grade_stat: "Joanna's son turned E and U grades into 3 C grades at A-Level."
 
 first_lesson_eyebrow: "LEFT IT LATE, STILL WORTH STARTING"
-first_lesson_heading: "What a Kenilworth A-Level Tutor Can Still Do in Year 13"
+first_lesson_heading: "What an A-Level Tutor for Kenilworth Students Can Still Do in Year 13"
 first_lesson_context: "Joanna's son left his studying until the final hour and still turned E and U grades into three Cs. Nobody would plan it that way, but it's worth remembering if your child's in Year 13 and it feels too late to bother."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"

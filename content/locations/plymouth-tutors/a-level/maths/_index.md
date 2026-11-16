@@ -1,13 +1,13 @@
 ---
 title: "Plymouth A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Online A-Level Maths tutors covering Plymouth, matched on the board and on whichever of Pure, Mechanics or Statistics is costing the marks. From £37 an hour."
+description: "Online A-Level Maths tutors for Plymouth, matched on the board and on whichever of Pure, Mechanics or Statistics is costing the marks. From £37 an hour."
 layout: "level-subject"
 location: "Plymouth"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "A-Level Maths tutors for Plymouth, matched on the board and the Mechanics paper"
+hero_h1: "A-Level Maths Tutors for Plymouth Students"
 hero_lead: "Pure is the part students expect. Mechanics and Statistics are where the marks quietly go, and the boards divide them differently. Our A-Level Maths tutors for Plymouth students are matched on the specification and then on the strand doing the damage, one-to-one online over Lessonspace."
 
 angle_eyebrow: "PURE IS NOT THE WHOLE COURSE"

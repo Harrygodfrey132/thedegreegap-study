@@ -5,7 +5,7 @@ layout: "subject"
 location: "Croydon"
 level: "A-Level"
 
-hero_heading_line1: "A-Level Tutoring for Croydon Students Before the Predicted Grades Go Out"
+hero_heading_line1: "A-Level Tutors for Croydon Students"
 hero_heading_line2: ""
 hero_lead: "University, or one of the apprenticeship schemes in Croydon town centre? Both will read your child's Year 12 grades, and the apprenticeship deadlines often come first. Our A-Level tutors for Croydon students work one-to-one online towards whichever date matters most."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "Their child's Cs became As, one parent writes, with help on university choices and the application as well."
 
 first_lesson_eyebrow: "TWO READERS, ONE PREDICTED GRADE"
-first_lesson_heading: "How a Croydon A-Level Tutor Plans Around Two Deadlines"
+first_lesson_heading: "How an A-Level Tutor for Croydon Students Plans Around Two Deadlines"
 first_lesson_context: "Maybe your child's eyeing a scheme at Croydon University Hospital, or at HMRC or the Home Office, which both have big offices in the town centre. All three run apprenticeships whose deadlines don't always wait for UCAS, while the universities fifteen minutes up the line in central London read the same predicted grades a few months later. So the first lesson works out which date matters most for your child, and plans back from there rather than from the exam."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Cs to As at A-Level"
 
-tutor_strip_heading: "Croydon A-Level tutors who work to the earlier deadline"
+tutor_strip_heading: "A-Level tutors for Croydon students who work to the earlier deadline"
 tutor_strip_body: "If your child's moving at sixteen, to Coulsdon, a Harris sixth form or St Joseph's, we match on what the new sixth form teaches. Harry or Joe has interviewed every tutor, and only about 3% of applicants make it. Browse, or leave the match to us."
 
 pathways_heading: "After a Croydon Sixth Form: The Three Main Routes"

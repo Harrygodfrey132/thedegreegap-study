@@ -1,11 +1,11 @@
 ---
-title: "Hemel Hempstead GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "Hemel Hempstead GCSE tutors for the child who's fine in lessons but loses marks in the exam. One-to-one and online, matched to their exam board, from £37."
+title: "Hemel Hempstead GCSE Tutors | One-to-One | The Degree Gap"
+description: "GCSE tutors for Hemel Hempstead, for the child who's fine in lessons but loses marks in the exam. One-to-one and online, matched to their exam board, from £37."
 layout: "subject"
 location: "Hemel Hempstead"
 level: "GCSE"
 
-hero_heading_line1: "Online Hemel Hempstead GCSE Tutors for Mocks That Don't Match the Classwork"
+hero_heading_line1: "GCSE Tutors for Hemel Hempstead Students"
 hero_heading_line2: ""
 hero_lead: "In lessons, your child understands it. Then the mock comes back and the marks aren't there. That gap between classroom and exam hall is where a lot of GCSE marks go, and our GCSE tutors for Hemel Hempstead students work on the exam half of it."
 
@@ -14,14 +14,14 @@ grade_to: "B"
 grade_stat: "An E to a B at GCSE, in the words of the person who sat the exams."
 
 first_lesson_eyebrow: "FINE IN CLASS, DIFFERENT IN THE HALL"
-first_lesson_heading: "Where a Hemel Hempstead GCSE Tutor Fits Between Classroom and Exam Hall"
+first_lesson_heading: "Where a GCSE Tutor for Hemel Hempstead Students Fits Between Classroom and Exam Hall"
 first_lesson_context: "Lots of Hemel Hempstead parents hear that their child is fine in lessons, and the teacher means it. In class the topic's named at the top of the page and there's someone to ask, but a mock takes all that away and adds a clock. So your child can understand every method and still lose a grade or two by not knowing which one a question wants, and that's something to practise rather than explain again."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "An E to a B at GCSE"
 
-tutor_strip_heading: "Hemel Hempstead GCSE tutors who check the exam board first"
+tutor_strip_heading: "GCSE tutors for Hemel Hempstead students who check the exam board first"
 tutor_strip_body: "Which exam board your child's on depends on their school, and it isn't always the same at Cavendish, Hemel Hempstead School, Longdean and Adeyfield. Only around 3% of the tutors who apply make it through our interviews. Pick from the profiles, or let us choose for you."
 
 pathways_heading: "Your Child's Options After GCSEs in Hemel Hempstead"

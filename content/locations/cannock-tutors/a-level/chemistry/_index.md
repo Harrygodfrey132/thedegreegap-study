@@ -7,7 +7,7 @@ location: "Cannock"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Cannock Students Who Lose Easy Marks on Paper 3"
+hero_h1: "A-Level Chemistry Tutors for Cannock Students"
 hero_lead: "Your child can draw a mechanism with confidence, then drops marks on thirty multiple-choice questions and a practical they did back in Year 12. Our A-Level Chemistry tutors for Cannock students give that third paper the same care as the big topics."
 
 angle_eyebrow: "THIRTY QUICK QUESTIONS"

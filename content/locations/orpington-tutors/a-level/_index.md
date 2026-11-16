@@ -1,11 +1,11 @@
 ---
-title: "Orpington A-Level Tuition | Online One-to-One | The Degree Gap"
+title: "Orpington A-Level Tuition | One-to-One | The Degree Gap"
 description: "Is your child taking an A-Level their plans depend on, and struggling? We match Orpington sixth formers with an online A-Level tutor. From £37, no contract."
 layout: "subject"
 location: "Orpington"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Orpington Students Taking a Subject Their Plans Depend On"
+hero_heading_line1: "A-Level Tutors for Orpington Students"
 hero_heading_line2: ""
 hero_lead: "Plenty of sixth formers choose one A-Level for where it leads rather than the love of it, Chemistry for Medicine, say, or Maths for Engineering. That's often the one that wobbles first, and it's where our A-Level tutors for Orpington students start with your child."
 

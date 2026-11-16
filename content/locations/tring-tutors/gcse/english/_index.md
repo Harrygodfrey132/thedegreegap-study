@@ -7,7 +7,7 @@ location: "Tring"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Tring Students Who Think in Numbers, Not Essays"
+hero_h1: "GCSE English Tutors for Tring Students"
 hero_lead: "Your child might be flying in Maths and Physics, then stuck on what a writer is 'doing' in an extract. Our GCSE English tutors for Tring students give them a method for those questions, step by step, the way they like to work."
 
 angle_eyebrow: "ENGLISH FOR THE SCIENCE-MINDED"

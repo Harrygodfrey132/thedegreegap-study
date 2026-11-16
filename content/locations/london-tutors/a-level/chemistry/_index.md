@@ -1,13 +1,13 @@
 ---
-title: "London A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "London A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
-description: "London A-Level Chemistry tutors, online and one-to-one, for mass spectrometry, isotope maths and reading a spectrum in Year 13. From £37 an hour, no contract."
+description: "A-Level Chemistry tutors for London, online and one-to-one, for mass spectrometry, isotope maths and reading a spectrum in Year 13. From £37, no contract."
 layout: "level-subject"
 location: "London"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutoring Across Every London Borough"
+hero_h1: "A-Level Chemistry Tutors for London Students"
 hero_lead: "Mass spectrometry, the way chemists weigh atoms and molecules, feels like a topic your child finished in the first term, but it keeps costing marks right into Year 13. Our A-Level Chemistry tutors for London students work on reading a spectrum, isotope calculations and where each peak comes from."
 
 angle_eyebrow: "A FIRST-TERM TOPIC THAT NEVER GOES AWAY"

@@ -1,9 +1,9 @@
 ---
-title: "Online Tutors for Your Child in Buckhurst Hill | The Degree Gap"
+title: "Tutors for Your Child in Buckhurst Hill | The Degree Gap"
 description: "Hearing 'fine' about school since your child left primary? We'll match your Buckhurst Hill teenager with an online tutor who suits them. From £37, no contract."
 layout: "single"
 location: "Buckhurst Hill"
-banner_heading: "Online tutoring for Buckhurst Hill families once school moves out of town"
+banner_heading: "GCSE and A-Level Tutors for Buckhurst Hill Families"
 banner_description: "You'll see exactly how it's going: we look across the UK for the tutor who suits your child, and every lesson is recorded for you to watch."
 content_angle: "the school you can't see from the kitchen: Buckhurst Hill has no state secondary of its own, so at eleven children travel to schools in Loughton, Chigwell, Woodford and beyond, and parents who heard everything at the primary school gate start hearing 'fine'; a tutor and a recorded lesson give them a clear view again"
 intro_1: "At primary school, you heard about everything. Buckhurst Hill Community Primary or St John's was a short walk away, you knew the teacher by name, and if a spelling test went badly you'd know by the gate at half past three. Then your child turned eleven. Buckhurst Hill has no state secondary school of its own, so the day now starts with a bus or a Central line ride to Loughton, Chigwell or Woodford, and the news comes home as one word. Fine. Often it's a report or a parents' evening that tells you a subject has been slipping since the autumn, and you wonder how you missed it. You didn't, really. You just can't see the school from the kitchen any more."
@@ -24,7 +24,7 @@ online_1: "Lessons happen from your home in Buckhurst Hill, on Lessonspace, an o
 online_2: "And because nobody travels, we're not limited to whoever lives closest to Queen's Road. We look across the UK for the tutor who suits your child, whether that's someone who knows the AQA Chemistry papers inside out or someone patient enough to go back to Year 8 algebra without a sigh. After a day that already began with a bus or a train, there's no second journey to fit in."
 online_image: "/images/child-using-online-learning-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Buckhurst+Hill,UK&output=embed"
-areas_intro: "Looking for a private tutor in Buckhurst Hill, Loughton or Chigwell? Lessons are online, so every corner of Buckhurst Hill gets the same tutors, and we can help families in the towns below as well."
+areas_intro: "Looking for a private tutor for Buckhurst Hill students, Loughton or Chigwell? Lessons are online, so every corner of Buckhurst Hill gets the same tutors, and we can help families in the towns below as well."
 area_links:
   - "Enfield Tutors|/locations/enfield-tutors/"
   - "Havering Tutors|/locations/havering-tutors/"

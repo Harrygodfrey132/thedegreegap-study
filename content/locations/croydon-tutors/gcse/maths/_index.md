@@ -1,13 +1,13 @@
 ---
 title: "GCSE Maths Tutors Covering Croydon | The Degree Gap"
 nav_title: "Maths"
-description: "One shaky algebra method from Year 8 can cost your child marks on foundation or higher. Our Croydon GCSE Maths tutors find it and rebuild it online. From £37."
+description: "One shaky algebra method from Year 8 can cost your child marks on foundation or higher. Our GCSE Maths tutors for Croydon find it and rebuild it online."
 layout: "level-subject"
 location: "Croydon"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors for Croydon Families, Starting With the Algebra Underneath"
+hero_h1: "GCSE Maths Tutors for Croydon Students"
 hero_lead: "Whether your child sits foundation or higher, the same thing tends to go wrong. It's an algebra method from Year 8 that never quite stuck, so every algebra question costs three marks instead of none. Our GCSE Maths tutors for Croydon students find it in the first hour, one-to-one and online."
 
 angle_eyebrow: "ONE THREAD, TWO TIERS"

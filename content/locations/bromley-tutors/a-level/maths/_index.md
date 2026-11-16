@@ -7,7 +7,7 @@ location: "Bromley"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutoring for Bromley, When the London Offer Hangs on Maths"
+hero_h1: "A-Level Maths Tutors for Bromley Students"
 hero_lead: "If your child's hoping for a London offer in Economics, Engineering or Computer Science, the offer will usually name a grade in Maths itself. With Victoria a quarter of an hour away, lots of Bromley families are in the same spot. Our A-Level Maths tutors for Bromley students work on that grade, one-to-one and online."
 
 angle_eyebrow: "WHAT THE SMALL PRINT SAYS"
@@ -29,7 +29,7 @@ schools:
   - "Hayes School"
   - "Darrick Wood School"
 
-steps_heading: "Getting going with a Bromley A-Level Maths tutor"
+steps_heading: "Getting going with an A-Level Maths tutor for Bromley students"
 steps_lead: "You'll have a shortlist within a day. If there's already an offer, tell us, because a condition that names Maths changes what the term's for."
 steps:
   - title: "A free call first"
@@ -40,7 +40,7 @@ steps:
     body: "One hour a week in the online classroom Lessonspace, with a replay of every lesson. Your child does the writing, and the tutor watches each line instead of just checking the answer at the end. Timed papers come in once the method holds. From £37 an hour, paid a lesson at a time with no contract, and a new tutor at no cost if the first one isn't right."
 
 faqs:
-  - q: "Can a Bromley A-Level Maths tutor help my son apply for a Direct Line Group apprenticeship?"
+  - q: "Can an A-Level Maths tutor for Bromley students help my son apply for a Direct Line Group apprenticeship?"
     a: "Yes, with the part Maths decides. Direct Line Group runs apprenticeship and graduate programmes from its Bromley head office, with routes in pricing, underwriting, claims and analytics. Each sets its own entry requirements, and they change between intakes. For the number-heavy routes, the Maths grade is the one to protect. Most schemes also want a written application and an assessment, often with deadlines before the UCAS one. The tutor works on the predicted grade and the mock behind it. On the call we can talk through what the scheme's looking for this year, so both halves get done together."
   - q: "When's the best time to bring in a Maths tutor, Year 12 or Year 13?"
     a: "The spring of Year 12 is the sweet spot, and that's about the calendar more than the content. The jump from GCSE shows by Christmas of Year 12. The mocks after that are what the sixth form writes the prediction from, and the prediction goes to UCAS in the autumn of Year 13. So an hour a week in Year 12 counts towards the offer as well as the exam. Starting in Year 13 still works, and plenty of Bromley families do. The lessons just zero in on the question types costing most marks, since offers were made on an earlier number."

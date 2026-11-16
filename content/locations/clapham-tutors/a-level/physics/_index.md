@@ -7,7 +7,7 @@ location: "Clapham"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "A-Level Physics Tutors for Clapham Students Tripped Up by the Maths Inside Each Question"
+hero_h1: "A-Level Physics Tutors for Clapham Students"
 hero_lead: "Your child can explain what a gravitational field is, then stalls when the question needs an equation rearranged and a log taken. Our A-Level Physics tutors for Clapham students work on the maths inside the Physics, one-to-one and online."
 
 angle_eyebrow: "THE ALGEBRA HIDING IN THE PHYSICS"

@@ -1,13 +1,13 @@
 ---
-title: "Manchester A-Level Biology Tutors | Online | The Degree Gap"
+title: "Manchester A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Protecting a B for an offer needs different Biology help from chasing an A*. Our Manchester A-Level Biology tutors plan for your child's goal. Online, from £37."
+description: "Protecting a B for an offer needs different Biology help from chasing an A*. Our A-Level Biology tutors for Manchester plan for your child's goal. Online,"
 layout: "level-subject"
 location: "Manchester"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors Across Manchester"
+hero_h1: "A-Level Biology Tutors for Manchester Students"
 hero_lead: "Is your child holding on to a grade, or reaching for a higher one? In Biology they need different help: graphs and long answers for one, precise ecology and evaluation for the other. Our A-Level Biology tutors for Manchester students work out which first."
 
 angle_eyebrow: "TWO GOALS, TWO PLANS"
@@ -28,7 +28,7 @@ schools:
   - "Whalley Range 11-18 High School"
   - "Manchester Academy"
 
-steps_heading: "How We Match Your Child With a Manchester A-Level Biology Tutor"
+steps_heading: "How We Match Your Child With an A-Level Biology Tutor for Manchester Students"
 steps_lead: "Expect profiles within a day of speaking to us, so lessons can begin well before the next round of mocks."
 steps:
   - title: "What's the grade for?"

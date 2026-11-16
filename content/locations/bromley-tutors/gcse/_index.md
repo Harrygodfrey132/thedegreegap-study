@@ -5,7 +5,7 @@ layout: "subject"
 location: "Bromley"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutoring in Bromley for the Grades Your Child's Own Sixth Form Wants"
+hero_heading_line1: "GCSE Tutors for Bromley Students"
 hero_heading_line2: ""
 hero_lead: "Lots of parents assume staying on for sixth form is a given. Then the requirements list comes home, with subject grades on it. Our GCSE tutors for Bromley students focus, online and one-to-one, on the two or three subjects where your child's predicted grade and the required one don't match yet."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "A grade 5 in GCSE English that became a 6/7 after six months with one tutor, in a parent's own words below."
 
 first_lesson_eyebrow: "SIXTH FORM IS AN APPLICATION TOO"
-first_lesson_heading: "How a Bromley GCSE Tutor Works Back From a Requirements List"
+first_lesson_heading: "How a GCSE Tutor for Bromley Students Works Back From a Requirements List"
 first_lesson_context: "If your child's staying on at their Bromley secondary for sixth form, its entry list applies to them just as much as to someone from another school. So by January the question usually isn't whether to stay on. It's whether two or three predicted grades reach the school's line, and a GCSE tutor can often spot the topic behind each one in the first lesson."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "GCSE English, grade 5 to 6/7"
 
-tutor_strip_heading: "Bromley GCSE tutors who start from the sixth-form requirements list"
+tutor_strip_heading: "GCSE tutors for Bromley students who start from the sixth-form requirements list"
 tutor_strip_body: "Hayes, Langley Park, Ravens Wood and the two grammars each publish their own list. We check your child's target and exam board first, and only around 3% of tutors who apply get through our interview. Browse the profiles, or we'll suggest some for your child."
 
 pathways_heading: "The Three Doors Open to Bromley Year 11s"

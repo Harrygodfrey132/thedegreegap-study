@@ -3,12 +3,12 @@ title: "Swindon Tutors | GCSE & A-Level from £37/hr"
 description: "No 11+ in Swindon, so GCSEs are often the first exams that count. Our tutors find older gaps early, online and one-to-one. From £37 an hour, no contract."
 layout: single
 location: Swindon
-banner_heading: "Online Swindon tutors for the GCSE years, A-Level and beyond"
+banner_heading: "GCSE and A-Level Tutors for Swindon Families"
 banner_description: "No 11+ here, so GCSEs are often the first exams in Swindon that decide anything. Our tutors find the older gaps early, so Year 11 isn't a scramble."
 content_angle: "no 11+ or grammar schools, so GCSEs are the first exams that decide anything; finding Year 7 to 9 gaps early, before New College and sixth form entry grades matter"
 intro_1: "It tends to creep up. Year 9 feels like more of the same, then Year 10 arrives, the questions get harder, and gaps from Years 7 and 8 start showing on reports. In Swindon that matters more than people expect. There's no 11+ and no grammar school, so for most families GCSEs are the first exams that decide anything. By Year 11, the grades shape where your child goes next, whether that's New College Swindon or a school sixth form like The Ridgeway's. And the reports rarely make clear which subject is the one at risk. It's a lot to hold in your head at parents' evening."
 intro_2: "Those two years are where a tutor is most useful, and starting early helps. The first lesson looks past this week's topic to whatever is holding it up, often a Year 8 or 9 method that never quite stuck. The tutor fixes that first, one-to-one, with your child doing the working, and only then moves forward. It's slower at the start. But by the time mocks come round, the aim is that your child is revising on firm ground instead of guessing."
-about_heading: Find the Right Tutor in Swindon
+about_heading: Find the Right Tutor for Swindon Students
 about_image: /images/students-in-classroom-taking-notes.jpg
 schools_intro: "Families get in touch from The Ridgeway, Commonweal, Nova Hreod, St Joseph's Catholic College, Isambard, Swindon Academy and plenty of other Swindon schools. Some children are rebuilding Year 8 work. Others are in Year 11 with an eye on the grades New College Swindon asks for, and it's worth checking those entry requirements early with your child. Our founders spend their days running exam technique workshops in schools and their evenings on the tutoring side. We work directly with more than 15 UK secondary schools."
 schools:
@@ -62,7 +62,7 @@ faq_3_q: "Can online lessons help a child who's behind?"
 faq_3_a: "It often works better than families expect. With nobody else watching, your child is more likely to admit what they don't get, and the tutor can watch their working line by line."
 faq_4_q: "How do you decide which tutors to suggest?"
 faq_4_a: "We listen first. Harry or Joe asks about your child's subjects, school and what sort of person gets the best out of them, then picks two or three tutors who fit. Their profiles arrive within 24 hours, and the choice is yours."
-why_heading: "How a Swindon tutor finds the real gap"
+why_heading: "How a tutor for Swindon families finds the real gap"
 why_para_1: "There's often good news in the first lesson. Your child can recall facts and define terms. What trips them up is using them on a question they haven't seen before. Underneath that sits one older gap, often the fractions work from Year 8, pulling answers down. Nothing on the report points to it. Your child just gets stuck at the same point and can't say why."
 why_para_2: "That gap is what the tutor hunts for first. They'll set a few short questions that walk backwards through a topic until the mistake appears, then go over that step again and check it a week later. Only then does the lesson move on to this term's work. For a Year 11 with New College in mind, the order matters, because one old gap can cost marks in several subjects at once. Parents usually hear the difference before they see it in a mark: 'I just don't get it' starts coming up less."
 accordion_quality: "Tutors only join the platform after an interview with Harry or Joe. They're checked on how they explain things and how they get on with teenagers, not just on what they know. With a Swindon child who's filling gaps, that shows in small ways, like going back to basics without a hint of 'you should know this by now'."

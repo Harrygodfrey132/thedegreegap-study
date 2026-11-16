@@ -1,11 +1,11 @@
 ---
 title: "Reading A-Level Tutors | Expert Tutors | The Degree Gap"
-description: "Predicted grade short of the offer your child wants? Reading A-Level tutors, one-to-one online, for Russell Group offers and Thames Valley apprenticeships."
+description: "Predicted grade short of the offer your child wants? A-Level tutors for Reading, one-to-one online, for Russell Group offers and Thames Valley apprenticeships."
 layout: "subject"
 location: "Reading"
 level: "A-Level"
 
-hero_heading_line1: "Online Reading A-Level Tutors for the Year 12 Mocks Behind UCAS Predictions"
+hero_heading_line1: "A-Level Tutors for Reading Students"
 hero_heading_line2: ""
 hero_lead: "A grade short of the offer, again. If that's what keeps coming home in Year 12, it's worth knowing the summer mocks feed the predicted grade your child's sixth form sends to UCAS. Our A-Level tutors for Reading students start there, on the marks behind that prediction."
 
@@ -22,7 +22,7 @@ first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades → three C grades at A-Level"
 
-tutor_strip_heading: "Reading A-Level tutors who know the offers and apprenticeships ahead"
+tutor_strip_heading: "A-Level tutors for Reading students who know the offers and apprenticeships ahead"
 tutor_strip_body: "We've interviewed every tutor on our platform ourselves, and every one's been tutoring for two years or more. We'll match on the exam board your child's Reading sixth form uses, not just the subject. Browse the profiles, or we can shortlist two or three for you."
 
 pathways_heading: "Where Reading A-Levels Lead in the Thames Valley and Beyond"
@@ -91,7 +91,7 @@ tutors:
 
 faq_1_q: "My son wants a degree apprenticeship with Microsoft or PepsiCo in Reading. Can A-Level tutoring help with that?"
 faq_1_a: "Yes, and more Reading families are asking about it. Microsoft and Oracle at Thames Valley Park, PepsiCo in Reading itself and PwC across the region all run competitive degree apprenticeships. Each one publishes its own grade and UCAS points requirements, and they shift from year to year. A tutor works on the A-Level marks behind the predicted grade those schemes look at. They can help with the aptitude tests and timed written tasks some of them set, too. For the current numbers, we'd send you to each scheme's own page rather than guess."
-faq_2_q: "The predicted grade going to UCAS isn't where it needs to be. What can a Reading A-Level tutor actually change?"
+faq_2_q: "The predicted grade going to UCAS isn't where it needs to be. What can an A-Level tutor for Reading students actually change?"
 faq_2_a: "The work behind it. Predicted grades come from your child's teachers, based on mocks and class work, so what a tutor can change is how your child performs. The tutor goes through recent papers with them, works out whether marks are going on content or on exam technique, and practises that until it sticks. Year 12's the time to start if you can, because the summer mocks are a big part of what the prediction's built on. Year 13 still moves things. The window's just tighter."
 faq_3_q: "She sailed through GCSE and now A-Level feels like a different subject. Is that normal?"
 faq_3_a: "Completely normal, and it's rarely about effort. A-Level wants a different kind of thinking: more study on her own, and essays that argue a case instead of describing one. Bright teenagers often hit that wall in the first term of Year 12 and take it as failure. It isn't. It's a change of method, and a busy sixth-form class can't always stop to spell it out. A tutor pins down what's changed in her subject and helps her build new habits around it."

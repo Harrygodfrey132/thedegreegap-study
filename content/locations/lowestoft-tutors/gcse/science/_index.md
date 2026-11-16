@@ -7,7 +7,7 @@ location: "Lowestoft"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Lowestoft Students Losing Marks on the Physics Equations"
+hero_h1: "GCSE Science Tutors for Lowestoft Students"
 hero_lead: "Biology goes in, Chemistry is fine, then a Physics question asks your child to recall an equation, rearrange it and convert the units, and it all comes apart. Our GCSE Science tutors for Lowestoft families make those steps automatic, one equation at a time."
 
 angle_eyebrow: "RECALL IT, REARRANGE IT, CONVERT IT"

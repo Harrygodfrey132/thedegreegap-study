@@ -5,7 +5,7 @@ layout: "subject"
 location: "Orpington"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Orpington Children Who Decided Too Early What They're Good At"
+hero_heading_line1: "GCSE Tutors for Orpington Students"
 hero_heading_line2: ""
 hero_lead: "Somewhere between Year 6 and Year 9, plenty of children decide which subjects they're 'good at' and quietly stop trying in the rest. Our GCSE tutors for Orpington students go back to where that started, and show your child the grade can still move."
 

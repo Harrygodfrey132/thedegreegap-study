@@ -1,13 +1,13 @@
 ---
-title: "Sheffield GCSE Maths Tutors | Online | The Degree Gap"
+title: "Sheffield GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Sheffield GCSE Maths tutors for when a mock lands a grade under what the sixth form asks. One-to-one lessons online, on your child's exam board, from £37."
+description: "GCSE Maths tutors for Sheffield, for when a mock lands a grade under what the sixth form asks. One-to-one lessons online, on your child's exam board, from £37."
 layout: "level-subject"
 location: "Sheffield"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Sheffield Families"
+hero_h1: "GCSE Maths Tutors for Sheffield Students"
 hero_lead: "The sixth form your child wants has published its Maths grade, and the last mock came back one short. Our GCSE Maths tutors for Sheffield students start from that number and work back to the questions where your child's marks are actually going."
 
 angle_eyebrow: "THE GAP BETWEEN A SHEFFIELD MOCK AND A SIXTH FORM PLACE"
@@ -29,7 +29,7 @@ schools:
   - "Notre Dame High School"
   - "Meadowhead School"
 
-steps_heading: "Getting started with a Sheffield GCSE Maths tutor, in 3 steps"
+steps_heading: "Getting started with a GCSE Maths tutor for Sheffield students, in 3 steps"
 steps_lead: "Most Sheffield families have tutor profiles within a day of the call. That helps most in the autumn term, before the mocks that feed into sixth form predicted grades."
 steps:
   - title: "A free call about the grade that matters"

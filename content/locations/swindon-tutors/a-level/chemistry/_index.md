@@ -1,13 +1,13 @@
 ---
-title: "Swindon A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Swindon A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
-description: "Swindon A-Level Chemistry tutors for when your child's inorganic answers sound right but score little. Online lessons on explaining trends, from £37 an hour."
+description: "A-Level Chemistry tutors for Swindon, for when your child's inorganic answers sound right but score little. Online lessons on explaining trends, from £37."
 layout: "level-subject"
 location: "Swindon"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutoring Across Swindon"
+hero_h1: "A-Level Chemistry Tutors for Swindon Students"
 hero_lead: "Inorganic chemistry can look like the easy marks, so it's a shock when your child's answers come back scoring so little. Our A-Level Chemistry tutors for Swindon students work on explaining a trend precisely, because that's what the mark scheme rewards."
 
 angle_eyebrow: "THE EASY MARKS THAT AREN'T"
@@ -28,7 +28,7 @@ schools:
   - "Isambard Community School"
   - "Swindon Academy"
 
-steps_heading: "Three steps to an online A-Level Chemistry tutor in Swindon"
+steps_heading: "Three steps to an online A-Level Chemistry tutor for Swindon students"
 steps_lead: "Profiles within a day. Try asking your child to explain a trend out loud. You'll hear the vague bits straight away."
 steps:
   - title: "Tell us what's happening"
@@ -47,7 +47,7 @@ faqs:
     a: "Carefully, and only around 3% of applicants get through. There's a written application, a check that the subject knowledge is really there, then an interview built around explaining something clearly under a bit of pressure. That interview decides it. If your child can't follow a tutor in the first ten minutes, it doesn't matter how much Chemistry the tutor knows. We check references at the end, and Harry and Joe do the interviews themselves."
   - q: "Can we pause the lessons, or stop altogether?"
     a: "Yes, whenever you like. There's no contract and nothing to get out of, because you pay one lesson at a time. Let the tutor know a day or two ahead so they're not holding the slot for nobody. Families pause for study leave, for the busy UCAS weeks, or because the thing they came to us about is sorted. Starting again later is just a message."
-  - q: "My child's thinking about a degree apprenticeship. Can a Swindon Chemistry tutor help?"
+  - q: "My child's thinking about a degree apprenticeship. Can a Chemistry tutor for Swindon students help?"
     a: "Yes. The bigger employers around Swindon set their own entry requirements for their schemes, and they change between intakes. Several name Chemistry or Maths, so the grade matters. The application's a written form with its own rules rather than a personal statement, and the deadlines often come before the UCAS one. Mention it on the call if that's the route your child is weighing up."
 # FAQ picks: A09, A10, C07, E03, G04
 

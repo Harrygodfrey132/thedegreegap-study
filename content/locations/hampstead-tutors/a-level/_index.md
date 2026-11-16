@@ -1,11 +1,11 @@
 ---
-title: "A-Level Tutors for Hampstead Sixth Formers, Online | The Degree Gap"
+title: "A-Level Tutors for Hampstead Sixth Formers | The Degree Gap"
 description: "Is Year 12 moving faster than your child expected? We match Hampstead sixth formers with an online A-Level tutor who knows their course. From £37, no contract."
 layout: "subject"
 location: "Hampstead"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Hampstead Students Settling Into a New Sixth Form"
+hero_heading_line1: "A-Level Tutors for Hampstead Students"
 hero_heading_line2: ""
 hero_lead: "Year 12 moves faster than GCSE did, and if your child changed school at sixteen they're getting used to new teachers and a new exam board as well. Our A-Level tutors for Hampstead students find the GCSE topic the course now takes for granted, and fill it in early."
 

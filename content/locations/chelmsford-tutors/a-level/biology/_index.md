@@ -1,13 +1,13 @@
 ---
-title: "Chelmsford A-Level Biology Tutors | Online | The Degree Gap"
+title: "Chelmsford A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Signed-off practicals still come up in the written Biology papers. Our Chelmsford A-Level Biology tutors help your child with those questions online, from £37."
+description: "Signed-off practicals still come up in the written Biology papers. Our A-Level Biology tutors for Chelmsford help your child with those questions online,"
 layout: "level-subject"
 location: "Chelmsford"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors Helping Chelmsford Families"
+hero_h1: "A-Level Biology Tutors for Chelmsford Students"
 hero_lead: "Every Biology practical signed off? Good, but that pass sits apart from your child's grade, and the written papers still ask about the practicals in detail. Our A-Level Biology tutors for Chelmsford students help your child answer those questions properly."
 
 angle_eyebrow: "A PASS ISN'T THE WHOLE STORY"

@@ -7,7 +7,7 @@ location: "Enfield"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Enfield Students Who Know More Than They Write"
+hero_h1: "GCSE English Tutors for Enfield Students"
 hero_lead: "Your child can talk about the book for ten minutes, then the essay comes back marked 'needs more analysis'. Our GCSE English tutors for Enfield students close the gap between what your child thinks and what reaches the page, in Language and Literature."
 
 angle_eyebrow: "WHEN THE IDEAS ARE THERE BUT THE MARKS AREN'T"
@@ -41,7 +41,7 @@ steps:
 
 faqs:
   - q: "My child's English tutor won't be in Enfield. Will online lessons still work for essays?"
-    a: "Yes, and essays suit online lessons well. Your child writes into a shared document or onto the whiteboard while the tutor watches, so feedback lands on the sentence as it's being written, not a week later. Because we're not limited to tutors near Enfield, we can find one who teaches your child's exact board and set texts. Every lesson is recorded, too, which helps when a quotation set needs going over before a mock."
+    a: "Yes, and essays suit online lessons well. Your child writes into a shared document or onto the whiteboard while the tutor watches, so feedback lands on the sentence as it's being written, not a week later. Because we're not limited to tutors for Enfield students, we can find one who teaches your child's exact board and set texts. Every lesson is recorded, too, which helps when a quotation set needs going over before a mock."
   - q: "Which part of GCSE English trips Enfield students up most?"
     a: "The questions about how a writer creates an effect, more than any single text. Children often spot the effect, tension or sympathy, then can't name the method behind it in the time allowed. Unseen poetry runs it close, because there's nothing to revise in advance except the habit of reading closely. A tutor practises both with short timed tasks, so your child learns to find a method, a quotation and a line of comment within a few minutes."
   - q: "Why is my child struggling with GCSE English when they read all the time?"

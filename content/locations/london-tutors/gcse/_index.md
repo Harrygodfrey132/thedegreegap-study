@@ -1,11 +1,11 @@
 ---
 title: "London GCSE Tutors | Built Around Your Child | The Degree Gap"
-description: "London GCSE tutors matched to your child's subject, exam board and way of learning. One-to-one and online, wherever you are in London, from £37 an hour."
+description: "GCSE tutors for London matched to your child's subject, exam board and way of learning. One-to-one and online, wherever you are in London, from £37 an hour."
 layout: "subject"
 location: "London"
 level: "GCSE"
 
-hero_heading_line1: "Online London GCSE Tutors Who Turn Revision Hours Into Real Marks"
+hero_heading_line1: "GCSE Tutors for London Students"
 hero_heading_line2: ""
 hero_lead: "Hours of revision, and the mock grade still isn't what the sixth forms on your child's list will want. Our GCSE tutors for London students work out where the marks are actually going, then rebuild from there."
 
@@ -14,14 +14,14 @@ grade_to: "B"
 grade_stat: "Keira told us tutoring helped take her grades from an E to a B."
 
 first_lesson_eyebrow: "FROM AN E TO A B"
-first_lesson_heading: "Where a London GCSE Tutor Starts When Nothing Is Sticking"
+first_lesson_heading: "Where a GCSE Tutor for London Students Starts When Nothing Is Sticking"
 first_lesson_context: "Maybe your child missed three weeks of algebra in Year 9 and never quite got it back. London's results sit above the national picture and vary a lot between boroughs, but no average will show you that. A GCSE tutor goes looking for those missing weeks in the first lesson."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B"
 
-tutor_strip_heading: "London GCSE tutors matched on exam board, not postcode"
+tutor_strip_heading: "GCSE tutors for London students matched on exam board, not postcode"
 tutor_strip_body: "From Mossbourne to Tiffin, London schools use AQA, Edexcel and OCR between them, and we'll find a tutor who knows your child's. Harry and Joe interview every one, and only about 3% of people who apply are accepted. Have a browse, or leave the picking to us."
 
 pathways_heading: "The Step After GCSEs Across London"

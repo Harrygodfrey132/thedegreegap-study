@@ -1,13 +1,13 @@
 ---
-title: "Harrogate Online GCSE English Tutors | The Degree Gap"
+title: "Harrogate GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Harrogate GCSE English tutors, matched on exam board, for hard-working teenagers whose grade won't budge. Unseen poetry, comparison, timed writing. From £37."
+description: "Online GCSE English tutors for Harrogate teenagers whose grade won't budge, matched on exam board. Unseen poetry, comparison, timed writing. From £37."
 layout: "level-subject"
 location: "Harrogate"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Hard-Working Harrogate Teenagers"
+hero_h1: "GCSE English Tutors for Harrogate Students"
 hero_lead: "There's a stack of quotation flashcards by your child's bed, and the English grade still won't move. The effort isn't wasted. It's only pointed at part of what's marked. Our GCSE English tutors for Harrogate students work on the rest, starting with the writing."
 
 angle_eyebrow: "ALL THAT REVISION, AND THE SAME GRADE"

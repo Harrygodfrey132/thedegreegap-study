@@ -7,7 +7,7 @@ location: "Hull"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Hull Students Whose Next Step Starts With Maths"
+hero_h1: "GCSE Maths Tutors for Hull Students"
 hero_lead: "For a lot of Hull teenagers the Maths grade decides more than Maths, because college courses and apprenticeships ask for it too. Our online GCSE Maths tutors rebuild the number skills underneath, then move up to the questions your child leaves blank."
 
 angle_eyebrow: "ONE GRADE, A LOT OF DOORS"

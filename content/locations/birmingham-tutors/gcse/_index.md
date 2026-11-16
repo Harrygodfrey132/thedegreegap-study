@@ -5,7 +5,7 @@ layout: "subject"
 location: "Birmingham"
 level: "GCSE"
 
-hero_heading_line1: "Online Birmingham GCSE Tutors for the Grades Your Child's Sixth Form Wants"
+hero_heading_line1: "GCSE Tutors for Birmingham Students"
 hero_heading_line2: ""
 hero_lead: "If Year 11 feels like an uphill slog, the trouble often started with a Year 8 or 9 topic nobody had time to go back over. Our GCSE tutors for Birmingham students find it in week one and rebuild from there. Ideally well before the mock that sets the predicted grade."
 
@@ -14,15 +14,15 @@ grade_to: "B"
 grade_stat: "An E became a B for Keira, a GCSE student we matched with a tutor."
 
 first_lesson_eyebrow: "STARTING WITH THE LAST PAPER"
-first_lesson_heading: "How a Birmingham GCSE Tutor Reads a Year 10 Paper"
-first_lesson_context: "Whether your child's at King Edward VI Camp Hill or a city comprehensive with an eye on Joseph Chamberlain, the first week looks much the same. A Birmingham GCSE tutor reads their latest paper and works out where the marks went. Birmingham's results sit close to the national average, but that says little about one child, so the plan comes from the paper."
+first_lesson_heading: "How a GCSE Tutor for Birmingham Students Reads a Year 10 Paper"
+first_lesson_context: "Whether your child's at King Edward VI Camp Hill or a city comprehensive with an eye on Joseph Chamberlain, the first week looks much the same. A GCSE tutor for Birmingham students reads their latest paper and works out where the marks went. Birmingham's results sit close to the national average, but that says little about one child, so the plan comes from the paper."
 
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B"
 
-tutor_strip_heading: "Birmingham GCSE tutors who know King Edward VI and the city's comprehensives"
+tutor_strip_heading: "GCSE tutors for Birmingham students who know King Edward VI and the city's comprehensives"
 tutor_strip_body: "Tutors on our platform have worked with Year 10s and 11s from the King Edward VI schools, the Catholic and CofE secondaries and the big comprehensives. Have a look at their profiles, or tell us about your child and we'll narrow it down."
 
 pathways_heading: "What Comes After GCSEs in Birmingham"
@@ -62,7 +62,7 @@ faq_2_q: "My son needs a 5 in English and Maths to get onto a college course. Ho
 faq_2_a: "By going after the questions that pick up marks quickest. Most Birmingham colleges and apprenticeship schemes look for a 4 or 5 in those two subjects, so falling half a grade short can close a door. The tutor starts with those high-value question types rather than rewriting your son's whole revision plan. It's not glamorous. But it counts."
 faq_3_q: "Will the tutor be working to the same exam board as my child's school?"
 faq_3_a: "Yes, it's the first thing we ask. AQA and Edexcel GCSE Maths cover the same content, but the questions are worded and set out differently. So we match on the exam board, not just the subject, and the past papers your child works through from the second lesson are the ones the school's preparing them for."
-faq_4_q: "How soon could my child have a Birmingham GCSE tutor?"
+faq_4_q: "How soon could my child have a GCSE tutor for Birmingham students?"
 faq_4_a: "Usually within a few days. After a free call where we get to know you and your child, you'll have two or three tutor profiles within 24 hours. Your child meets the one you like best on a free video call, and the first lesson can often be that same week. There's no waiting list."
 
 sitemap:

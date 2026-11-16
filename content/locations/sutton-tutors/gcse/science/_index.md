@@ -1,13 +1,13 @@
 ---
 title: "Sutton GCSE Science Tuition | The Degree Gap"
 nav_title: "Science"
-description: "A calculation problem or a writing problem? Our Sutton GCSE Science tutors find which science is slipping for your child, online, and start there. From £37."
+description: "A calculation problem or a writing problem? Our GCSE Science tutors for Sutton find which science is slipping for your child, online, and start there. From £37."
 layout: "level-subject"
 location: "Sutton"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutoring for Sutton Students That Finds Which Science Is Costing Marks"
+hero_h1: "GCSE Science Tutors for Sutton Students"
 hero_lead: "Three sciences go into your child's Combined Science result, and out come two grades that don't say which one is slipping. Our GCSE Science tutors for Sutton students pull the three apart online, one-to-one, before anyone spends a term on the wrong science."
 
 angle_eyebrow: "THREE SCIENCES, OFTEN THREE TEACHERS"

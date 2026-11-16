@@ -7,7 +7,7 @@ location: "Leighton Buzzard"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Leighton Buzzard Students Who've Stopped Reading for Fun"
+hero_h1: "GCSE English Tutors for Leighton Buzzard Students"
 hero_lead: "Somewhere around Year 7 or 8 the bedtime reading stopped, and now the English papers want close analysis of an extract your child has never seen. Our GCSE English tutors for Leighton Buzzard students build that reading back up and turn it into answers that score."
 
 angle_eyebrow: "WHEN THE BEDTIME READING STOPPED"

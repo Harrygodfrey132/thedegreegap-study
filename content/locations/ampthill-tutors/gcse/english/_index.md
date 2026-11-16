@@ -7,7 +7,7 @@ location: "Ampthill"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Ampthill Students Who Know the Story but Not the Quotes"
+hero_h1: "GCSE English Tutors for Ampthill Students"
 hero_lead: "English Literature is a closed-book exam, so the play and the novel have to be in your child's head, not on the shelf. Our GCSE English tutors for Ampthill students build quotations that stick and essay plans that hold up against the clock."
 
 angle_eyebrow: "A CLOSED-BOOK EXAM"

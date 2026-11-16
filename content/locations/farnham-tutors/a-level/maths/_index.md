@@ -1,13 +1,13 @@
 ---
 title: "Farnham A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Strong GCSE, shaky first Year 12 test? Our Farnham A-Level Maths tutors rebuild the algebra under pure, mechanics and statistics, online, from £37 an hour."
+description: "Strong GCSE, shaky first Year 12 test? Our A-Level Maths tutors for Farnham rebuild the algebra under pure, mechanics and statistics, online, from £37 an hour."
 layout: "level-subject"
 location: "Farnham"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Farnham Teenagers in Year 12 and 13"
+hero_h1: "A-Level Maths Tutors for Farnham Students"
 hero_lead: "A good GCSE grade can still leave your child lost by October of Year 12, because A-Level Maths moves fast and leans on algebra in every topic. Our A-Level Maths tutors for Farnham students find the step that's slipping and rebuild from there, one-to-one and online."
 
 angle_eyebrow: "PURE, MECHANICS AND STATISTICS"

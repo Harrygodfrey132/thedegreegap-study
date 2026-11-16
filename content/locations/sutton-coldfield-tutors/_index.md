@@ -1,9 +1,9 @@
 ---
 title: "Sutton Coldfield Tutoring | The Degree Gap"
-description: "Sutton Coldfield tutors online for GCSE, A-Level and the 11+. We find the gap behind the grade, then build back up. A free call first, then lessons from £37."
+description: "Tutors for Sutton Coldfield online for GCSE, A-Level and the 11+. We find the gap behind the grade, then build back up. A free call first, then"
 layout: "single"
 location: "Sutton Coldfield"
-banner_heading: "Online Sutton Coldfield Tutors Who Find the Gap Behind a GCSE or A-Level Grade"
+banner_heading: "GCSE and A-Level Tutors for Sutton Coldfield Families"
 banner_description: "Once the 11+ is over, it's natural to relax. Then a report a few years on shows a grade drifting. A tutor starts by finding where it began."
 content_angle: "after the 11+: gaps from Years 8 and 9 surface in the GCSE mocks, so find the gap behind the grade and rebuild"
 intro_1: "The 11+ can take over a Sutton Coldfield household for a year or more. Some families start practice papers in Year 4, all for a place at Bishop Vesey's or Sutton Coldfield Grammar School for Girls through the Birmingham consortium test. Then the results arrive and, whichever way they go, the whole family breathes out. It's the next bit that catches parents off guard. Around Year 8 or 9, a topic doesn't quite go in. By Year 10 something else is sitting on top of it, and by the mocks your child is working harder than ever for the same grade."

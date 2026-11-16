@@ -1,5 +1,5 @@
 ---
-title: "Canterbury A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Canterbury A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Is your child stuck on a B in A-Level Chemistry? Our online Canterbury tutors work on the buffers, entropy and mechanisms where single marks go. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Canterbury"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors Serving Canterbury Families"
+hero_h1: "A-Level Chemistry Tutors for Canterbury Students"
 hero_lead: "When your child's working hard at A-Level Chemistry and still sitting a grade below where you'd expect, it's usually accuracy, not effort. Our A-Level Chemistry tutors for Canterbury students work on buffer calculations, entropy and the aromatic mechanisms where even careful students drop marks."
 
 angle_eyebrow: "ONE MARK HERE, ONE MARK THERE"

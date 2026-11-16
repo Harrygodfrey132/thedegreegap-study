@@ -1,5 +1,5 @@
 ---
-title: "Online A-Level Maths Tutor for Your Child in Egham | The Degree Gap"
+title: "A-Level Maths Tutor for Your Child in Egham | The Degree Gap"
 nav_title: "Maths"
 description: "Did A-Level Maths start faster than your child expected? We match Egham sixth formers with an online A-Level Maths tutor who knows Edexcel. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Egham"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Egham Sixth Formers Whose GCSE Algebra Isn't Keeping Up"
+hero_h1: "A-Level Maths Tutors for Egham Students"
 hero_lead: "A 6 at GCSE gets your child onto A-Level Maths at Strode's, and then the first pure test arrives full of surds, indices and algebraic fractions. Our A-Level Maths tutors for Egham students rebuild that algebra quickly, so calculus and proof have something solid underneath them."
 
 angle_eyebrow: "FROM A GCSE 6 TO EDEXCEL PURE"

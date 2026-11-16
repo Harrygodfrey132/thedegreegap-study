@@ -5,7 +5,7 @@ layout: "subject"
 location: "Wallington"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Wallington Students Whose First Full Mock Didn't Match Their Classwork"
+hero_heading_line1: "GCSE Tutors for Wallington Students"
 hero_heading_line2: ""
 hero_lead: "End-of-topic tests tell your child what's coming, so the marks look fine all year. Then the first full mock mixes everything together. Our online GCSE tutors for Wallington students teach your child to see what each question wants, whichever topic it's from."
 

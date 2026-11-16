@@ -1,13 +1,13 @@
 ---
 title: "GCSE English Tutors for Didsbury | The Degree Gap"
 nav_title: "English"
-description: "Didsbury sixth forms can look at both English grades, not just one. Our Didsbury GCSE English tutors work online on essays, unseen poems and timing. From £37."
+description: "Didsbury sixth forms can look at both English grades, not just one. Our GCSE English tutors work online on essays, unseen poems and timing. From £37."
 layout: "level-subject"
 location: "Didsbury"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Didsbury Families, Where Both English Grades Count"
+hero_h1: "GCSE English Tutors for Didsbury Students"
 hero_lead: "Two English grades come home after the mocks, and sometimes one's fine while the other isn't. Our GCSE English tutors for Didsbury students work one-to-one online on whatever's costing the marks, whether that's unseen poetry, quotations or simply finishing the essay in time."
 
 card_eyebrow: "FREE CONSULTATION"

@@ -7,7 +7,7 @@ location: "Huddersfield"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Huddersfield Students When Organic Stops Making Sense"
+hero_h1: "A-Level Chemistry Tutors for Huddersfield Students"
 hero_lead: "Organic Chemistry is where a lot of sixth formers stop feeling sure of themselves, with curly arrows and multi-step routes arriving all at once. Our A-Level Chemistry tutors for Huddersfield students take each mechanism apart, then rebuild the calculations that run alongside."
 
 angle_eyebrow: "CURLY ARROWS FIRST"

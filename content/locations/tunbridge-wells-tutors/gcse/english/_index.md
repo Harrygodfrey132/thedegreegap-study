@@ -1,13 +1,13 @@
 ---
-title: "Tunbridge Wells Online GCSE English Tutors | The Degree Gap"
+title: "Tunbridge Wells GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Reading well and scoring well in GCSE English aren't the same skill. Our Tunbridge Wells tutors teach your child the method behind the marks. From £37."
+description: "Reading well and scoring well in GCSE English aren't the same skill. Our online tutors teach Tunbridge Wells students the method behind the marks."
 layout: "level-subject"
 location: "Tunbridge Wells"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Keen Readers in Tunbridge Wells"
+hero_h1: "GCSE English Tutors for Tunbridge Wells Students"
 hero_lead: "Your child has always been the reader in the family, so a Literature mock that comes back a band lower can really sting. Our GCSE English tutors for Tunbridge Wells students teach the method behind the top marks, one marked piece of writing at a time."
 
 angle_eyebrow: "ALWAYS GOOD AT ENGLISH, UNTIL THE MOCK"
@@ -28,7 +28,7 @@ schools:
   - "Tunbridge Wells High School"
   - "Kent College Pembury"
 
-steps_heading: "Finding Your Child a GCSE English Tutor in Tunbridge Wells"
+steps_heading: "Finding Your Child a GCSE English Tutor for Tunbridge Wells Students"
 steps_lead: "A shortlist usually lands within a day. For a keen reader, Year 10 is a good time to start, before one quick draft becomes a habit."
 steps:
   - title: "Start with a conversation"

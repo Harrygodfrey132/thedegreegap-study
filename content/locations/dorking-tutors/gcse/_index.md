@@ -1,11 +1,11 @@
 ---
-title: "GCSE Tutors for Dorking Students, Online and One-to-One | The Degree Gap"
+title: "GCSE Tutors for Dorking Students, One-to-One | The Degree Gap"
 description: "Worried your child's GCSE grades won't keep their sixth form options open? We match Dorking teenagers with an online GCSE tutor on their exam board. From £37."
 layout: "subject"
 location: "Dorking"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Dorking Students Before Year 11 Decides What Comes Next"
+hero_heading_line1: "GCSE Tutors for Dorking Students"
 hero_heading_line2: ""
 hero_lead: "The mocks come back, the predicted grades follow, and suddenly every conversation at tea is about sixth form courses your child has hardly thought about. Our GCSE tutors for Dorking families find the subject that's furthest behind and start there, well before the summer."
 
@@ -14,7 +14,7 @@ grade_to: "6/7"
 grade_stat: "“…he has improved from a grade 5 to a 6/7.” Omo, Parent of GCSE Student, on Google, about English"
 
 first_lesson_eyebrow: "STAYING ON, OR MOVING AT SIXTEEN"
-first_lesson_heading: "Why a Dorking GCSE Tutor Keeps Year 12 in Mind From the First Lesson"
+first_lesson_heading: "Why a GCSE Tutor for Dorking Students Keeps Year 12 in Mind From the First Lesson"
 first_lesson_context: "Getting a sixth form place isn't usually the hard part here. The Ashcombe calls its entry rules some of the most inclusive in Surrey, and Priory pupils have a guaranteed route to Reigate College or East Surrey College if they meet the entry requirements and have an excellent report. Arriving ready is harder: the Ashcombe's own guide says a grade 5 in a science means extra clinics and gaps to fill at A-Level, so a GCSE tutor works on the subject your child wants to carry on, not only the one with the lowest mark."
 first_lesson_quote: "I honestly can’t believe I’m saying this, but he now looks forward to his lessons."
 first_lesson_quote_name: "Omo"

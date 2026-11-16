@@ -1,5 +1,5 @@
 ---
-title: "Southampton Online A-Level Biology Tutors | The Degree Gap"
+title: "Southampton A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
 description: "Online Southampton A-Level Biology tutors for the child who revises hard but loses marks on unseen questions. One-to-one, matched on exam board, from £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Southampton"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Southampton Families, Matched on Exam Board"
+hero_h1: "A-Level Biology Tutors for Southampton Students"
 hero_lead: "Hours of Biology revision, and the marks still don't match the effort? You're not alone. The papers test whether your child can use what they know on something they've never seen, and our A-Level Biology tutors for Southampton students work on that gap."
 
 angle_eyebrow: "WHY REVISION AND RESULTS COME APART IN A-LEVEL BIOLOGY"
@@ -28,7 +28,7 @@ schools:
   - "Redbridge Community School"
   - "Oasis Academy Mayfield"
 
-steps_heading: "How we find your child a Southampton A-Level Biology tutor"
+steps_heading: "How we find your child an A-Level Biology tutor for Southampton students"
 steps_lead: "Within 24 hours of the call you'll have tutor profiles to look through. For a competitive course, start in Year 12: the predicted grade is set long before the final papers."
 steps:
   - title: "Tell us about your child"

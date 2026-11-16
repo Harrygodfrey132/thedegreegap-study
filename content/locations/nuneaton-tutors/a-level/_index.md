@@ -5,7 +5,7 @@ layout: "subject"
 location: "Nuneaton"
 level: "A-Level"
 
-hero_heading_line1: "Online Nuneaton A-Level Tutors for When Free Periods Turn Into Lost Weeks"
+hero_heading_line1: "A-Level Tutors for Nuneaton Students"
 hero_heading_line2: ""
 hero_lead: "Your child gets home early on a Wednesday, says nothing's due, and you honestly can't tell whether that's true. Our A-Level tutors for Nuneaton students give each week a shape, with one lesson that sets the work for the six days after it."
 
@@ -21,7 +21,7 @@ first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Grade E/U → Grade C at A-Level"
 
-tutor_strip_heading: "Nuneaton A-Level tutors matched board by board, Eduqas Physics included"
+tutor_strip_heading: "A-Level tutors for Nuneaton students matched board by board, Eduqas Physics included"
 tutor_strip_body: "At King Edward's alone, Maths is Pearson Edexcel, Biology is OCR and Physics is Eduqas, so we choose a tutor for each subject separately. Every tutor below got through an interview with Harry or Joe, which only around 3% of applicants pass. Browse, or let us choose for your child."
 
 pathways_heading: "After A-Levels in Nuneaton: Universities, Apprenticeships and Work"

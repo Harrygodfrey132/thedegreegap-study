@@ -1,11 +1,11 @@
 ---
-title: "Online A-Level Tutors in St Neots | The Degree Gap"
-description: "Year 12 work is what predicted grades mostly rest on. Our St Neots A-Level tutors work online with your child, fitting around the trip to sixth form. From £37."
+title: "A-Level Tutors in St Neots | The Degree Gap"
+description: "Year 12 work is what predicted grades mostly rest on. Our A-Level tutors for St Neots work online with your child, fitting around the trip to sixth form."
 layout: "subject"
 location: "St Neots"
 level: "A-Level"
 
-hero_heading_line1: "Online St Neots A-Level Tutors for Year 12, Before Predicted Grades Are Set"
+hero_heading_line1: "A-Level Tutors for St Neots Students"
 hero_heading_line2: ""
 hero_lead: "Sixth form brings harder subjects and, for plenty of St Neots teenagers, a train or bus every morning. Our A-Level tutors for St Neots students work online with your child on whatever's slipping, well before predicted grades are written."
 
@@ -14,7 +14,7 @@ grade_to: "A"
 grade_stat: "Alexander says the tutoring took his child from Cs to As, and helped with choosing a university too."
 
 first_lesson_eyebrow: "FIRST TERM OF YEAR 12"
-first_lesson_heading: "What a St Neots A-Level Tutor Looks at Before Anything Else"
+first_lesson_heading: "What an A-Level Tutor for St Neots Students Looks at Before Anything Else"
 first_lesson_context: "The first marked essay or test of Year 12 is the thing to have to hand, whether it's from Longsands or a sixth form a train ride away. The A-Level tutor reads it for one thing. Is the trouble the new content, or the way questions now expect your child to find their own route in?"
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"

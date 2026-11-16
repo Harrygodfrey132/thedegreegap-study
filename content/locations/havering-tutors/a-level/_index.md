@@ -1,11 +1,11 @@
 ---
-title: "Online A-Level Tutors for Your Child in Havering | The Degree Gap"
+title: "A-Level Tutors for Your Child in Havering | The Degree Gap"
 description: "New to A-Levels, predicted grades and UCAS? We'll match your Havering teenager with an online A-Level tutor, and help with the application. From £37 an hour."
 layout: "subject"
 location: "Havering"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Havering Families New to UCAS and Predicted Grades"
+hero_heading_line1: "A-Level Tutors for Havering Students"
 hero_heading_line2: ""
 hero_lead: "If nobody at home has been through A-Levels and UCAS, the whole thing can feel like a test you weren't told about. Our A-Level tutors for Havering students work on the grades, and Harry and Joe help with the course choices and the application around them."
 

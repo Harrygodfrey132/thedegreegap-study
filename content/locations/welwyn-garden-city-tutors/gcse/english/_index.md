@@ -1,13 +1,13 @@
 ---
-title: "Welwyn Garden City GCSE English Tutors | Online | The Degree Gap"
+title: "Welwyn Garden City GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Welwyn Garden City GCSE English tutors for when your child knows the book but the essays keep retelling it. One-to-one lessons online, from £37 an hour."
+description: "GCSE English tutors for Welwyn Garden City, for when your child knows the book but the essays keep retelling it. One-to-one lessons online, from £37 an hour."
 layout: "level-subject"
 location: "Welwyn Garden City"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutoring for Welwyn Garden City Families"
+hero_h1: "GCSE English Tutors for Welwyn Garden City Students"
 hero_lead: "Your child knows the book inside out, and the essay still comes back with a low mark. Usually that's because the answer tells the story instead of saying how it's written. Our GCSE English tutors for Welwyn Garden City students work on that switch, a paragraph at a time."
 
 angle_eyebrow: "THE QUESTION BEHIND THE QUESTION"

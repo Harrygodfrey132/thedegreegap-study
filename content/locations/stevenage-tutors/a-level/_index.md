@@ -1,11 +1,11 @@
 ---
 title: "Stevenage A-Level Tutors | Year 12 and Year 13 | The Degree Gap"
-description: "Whether it's UCAS or an apprenticeship at GSK, Airbus or MBDA, Stevenage A-Level tutors help your child reach the grades that route needs. Online, from £37."
+description: "Whether it's UCAS or an apprenticeship at GSK, Airbus or MBDA, A-Level tutors for Stevenage help your child reach the grades that route needs. Online, from £37."
 layout: "subject"
 location: "Stevenage"
 level: "A-Level"
 
-hero_heading_line1: "Online Stevenage A-Level Tutors for the Grades a University or Apprenticeship Asks For"
+hero_heading_line1: "A-Level Tutors for Stevenage Students"
 hero_heading_line2: ""
 hero_lead: "Your child might be set on university, or on a degree apprenticeship with one of the big employers in town. Either way it comes down to A-Level grades, and our A-Level tutors for Stevenage students work towards whichever one they're aiming at."
 
@@ -15,7 +15,7 @@ grade_stat: "The kind of climb two years of weekly lessons is aimed at, from a D
 grade_card: "aim"
 
 first_lesson_eyebrow: "WHERE YEAR 12 GOES WRONG"
-first_lesson_heading: "The Step Up From GCSE, and How a Stevenage A-Level Tutor Helps"
+first_lesson_heading: "The Step Up From GCSE, and How an A-Level Tutor for Stevenage Students Helps"
 first_lesson_context: "Your child can leave Year 11 with a good set of grades and be lost by the second half of Year 12. That's not about effort, or the school: A-Level wants an argument held together over a whole essay, and far more practice done alone. So an A-Level tutor's first lesson looks at how your child tackled a recent paper, not just what they knew."
 
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
@@ -23,7 +23,7 @@ first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "A-Level"
 
-tutor_strip_heading: "Stevenage A-Level tutors matched to your child's exam board and modules"
+tutor_strip_heading: "A-Level tutors for Stevenage students matched to your child's exam board and modules"
 tutor_strip_body: "At A-Level, the options on your child's course matter as much as the subject. Physics at one sixth form can mean a different option paper from the next, so we check the board and modules first. Browse the profiles, or we'll suggest someone after the call."
 
 pathways_heading: "Stevenage A-Levels, Then What?"

@@ -7,7 +7,7 @@ location: "Wallington"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Wallington Students Building Synthesis Routes Step by Step"
+hero_h1: "A-Level Chemistry Tutors for Wallington Students"
 hero_lead: "Your child can name the reactions, then a question asks for a three-step route from one molecule to another and the page stays blank. Our online A-Level Chemistry tutors for Wallington students teach organic as a map to work from, along with the calculations."
 
 angle_eyebrow: "FROM ONE MOLECULE TO ANOTHER"

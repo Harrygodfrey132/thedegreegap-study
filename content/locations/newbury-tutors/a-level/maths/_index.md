@@ -7,7 +7,7 @@ location: "Newbury"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Newbury Students Short on Statistics and Mechanics Practice"
+hero_h1: "A-Level Maths Tutors for Newbury Students"
 hero_lead: "Pure takes up most of the lessons, so Statistics and Mechanics often get less practice, and then they share a whole paper. Our A-Level Maths tutors for Newbury students give that third paper the time it needs, alongside the Pure your child is already doing."
 
 angle_eyebrow: "HALF A PAPER EACH"

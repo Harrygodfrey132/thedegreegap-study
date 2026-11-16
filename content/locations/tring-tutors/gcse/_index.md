@@ -5,7 +5,7 @@ layout: "subject"
 location: "Tring"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Tring Students When Sixth Form Adds Up Eight Grades"
+hero_heading_line1: "GCSE Tutors for Tring Students"
 hero_heading_line2: ""
 hero_lead: "Most parents keep an eye on English and Maths. But the sixth form your child applies to may add up their best eight GCSEs, so a shaky Geography or French grade counts as well. Our GCSE tutors for Tring students find the subject dragging the total down and start there."
 

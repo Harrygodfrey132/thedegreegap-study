@@ -1,5 +1,5 @@
 ---
-title: "Online GCSE Science Tutors for Basildon Students"
+title: "GCSE Science Tutors for Basildon Students"
 nav_title: "Science"
 description: "Is GCSE Science harder than your child expected? We'll match Basildon students with an online Science tutor on their board. From £37 an hour, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Basildon"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science tutoring for Basildon students, for the calculations and the six-mark answers"
+hero_h1: "GCSE Science Tutors for Basildon Students"
 hero_lead: "Science GCSEs mix Maths, memory and long written answers, and most children are stronger at one than the others. We match your child with an online Science tutor on their board, for Combined or Triple."
 
 angle_eyebrow: "THREE SCIENCES, THREE KINDS OF GAP"

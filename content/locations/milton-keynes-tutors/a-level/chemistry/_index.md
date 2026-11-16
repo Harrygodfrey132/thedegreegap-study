@@ -1,13 +1,13 @@
 ---
-title: "Milton Keynes A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Milton Keynes A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
-description: "Practicals count in the Chemistry papers and in a separate pass result. Our Milton Keynes A-Level Chemistry tutors help with both, one-to-one online. From £37."
+description: "Practicals count in the Chemistry papers and in a separate pass result. Our A-Level Chemistry tutors for Milton Keynes help with both, online. From £37."
 layout: "level-subject"
 location: "Milton Keynes"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Milton Keynes Teenagers"
+hero_h1: "A-Level Chemistry Tutors for Milton Keynes Students"
 hero_lead: "There's a part of A-Level Chemistry that never shows up in a mock grade, and lots of parents first hear about it in Year 13. Our A-Level Chemistry tutors for Milton Keynes students help with the practical side as well as the papers."
 
 angle_eyebrow: "WHAT SITS ALONGSIDE THE GRADE"
@@ -28,7 +28,7 @@ schools:
   - "The Hazeley Academy"
   - "Lord Grey School"
 
-steps_heading: "Papers and Practicals: Starting With a Milton Keynes Tutor"
+steps_heading: "Papers and Practicals: Starting With a Tutor for Milton Keynes Families"
 steps_lead: "The practicals run through both years, so Year 12 is the best time to start, and the first lesson can usually happen within a week."
 steps:
   - title: "Start with a phone call"

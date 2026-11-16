@@ -1,13 +1,13 @@
 ---
-title: "Online A-Level Maths Tutors | Stevenage | The Degree Gap"
+title: "A-Level Maths Tutors | Stevenage | The Degree Gap"
 nav_title: "Maths"
-description: "Year 12 Maths homework eating the evening? It's often shaky GCSE algebra. Our Stevenage A-Level Maths tutors sort it out, with UCAS or Airbus in mind. From £37."
+description: "Year 12 Maths homework eating the evening? It's often shaky GCSE algebra. Our online A-Level Maths tutors sort it out for Stevenage students. From £37."
 layout: "level-subject"
 location: "Stevenage"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online One-to-One A-Level Maths Tutoring for Stevenage"
+hero_h1: "A-Level Maths Tutors for Stevenage Students"
 hero_lead: "What looks like a Year 12 Maths problem very often started at GCSE. Our A-Level Maths tutors for Stevenage students trace it back, usually to algebra that was never quite secure, and rebuild it one-to-one online, while your child keeps up with this term's topics."
 
 angle_eyebrow: "WHEN GCSE ALGEBRA COMES BACK"

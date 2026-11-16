@@ -1,13 +1,13 @@
 ---
-title: "Coventry GCSE English Tutors | Online | The Degree Gap"
+title: "Coventry GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Coventry GCSE English tutors, matched on exam board and set texts, who keep every text fresh for the Year 11 mocks. Online, one-to-one, from £37 an hour."
+description: "GCSE English tutors for Coventry, matched on exam board and set texts, who keep every text fresh for the Year 11 mocks. Online, one-to-one, from £37 an hour."
 layout: "level-subject"
 location: "Coventry"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutoring for Coventry Year 10s and 11s"
+hero_h1: "GCSE English Tutors for Coventry Students"
 hero_lead: "Year 10 English went fine, one text at a time. Then the Year 11 mock asked for all of them at once. Our GCSE English tutors for Coventry students keep every text fresh, so none has gone cold by the exams."
 
 angle_eyebrow: "ONE TEXT AT A TIME, THEN ALL AT ONCE"

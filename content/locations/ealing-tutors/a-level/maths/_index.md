@@ -7,7 +7,7 @@ location: "Ealing"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Ealing Students When Year 13 Calculus Arrives"
+hero_h1: "A-Level Maths Tutors for Ealing Students"
 hero_lead: "Year 12 can go well, then integration, parametric equations and proof all land in the same Year 13 term. Our A-Level Maths tutors for Ealing students work through the calculus with your child, plus the Statistics and Mechanics alongside it."
 
 angle_eyebrow: "WHEN YEAR 13 TURNS UP THE CALCULUS"

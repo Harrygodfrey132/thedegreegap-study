@@ -1,14 +1,14 @@
 ---
-title: "Solihull Online Tutors | The Degree Gap"
+title: "Solihull Tutors | The Degree Gap"
 description: "One-to-one Solihull tutoring online, for the Birmingham 11+, GCSEs and A-Levels. Talk to Harry or Joe first, then meet the tutor who suits your child. From £37."
 layout: "single"
 location: "Solihull"
-banner_heading: "Not Sure About the 11+? Online Solihull Tutors for Every Path Through GCSE and A-Level"
-banner_description: "With no grammar school in the borough, it's a real decision. Talk it over with us first, and we'll find a Solihull tutor who suits your child."
+banner_heading: "GCSE and A-Level Tutors for Solihull Families"
+banner_description: "With no grammar school in the borough, it's a real decision. Talk it over with us first, and we'll find a tutor for Solihull families who suits your child."
 content_angle: "the choice: no grammar school in the borough, so help either way, whether the focus is the 11+ or the GCSE years"
 intro_1: "Should your child sit the 11+ at all? In Solihull that's a harder question than it sounds, because there's no grammar school in the borough. A selective place means looking further afield, to the King Edward VI Foundation schools in Birmingham or to Bishop Vesey's and Sutton Coldfield Grammar School for Girls. Some families go for it. Plenty decide it isn't right for their child and look ahead to secondary school closer to home, at Tudor Grange, Arden, Alderbrook or elsewhere. Both are good decisions. The important thing is that it's yours, and not the school gate's."
 intro_2: "Whichever way you're leaning, the first step is the same: a free call about your child with Harry or Joe, our co-founders. We'll ask what they enjoy, what's worrying you and, if it's still open, the 11+ question. Within 24 hours you'll get profiles of the two or three tutors we'd pick. Your child then has a free video meeting with whichever tutor you prefer, and lessons start when you're happy. If the fit isn't right, we'll swap tutors at no cost."
-about_heading: "Find the Right Tutor in Solihull"
+about_heading: "Find the Right Tutor for Solihull Students"
 about_image: "/images/group-study-discussion-with-laptop.jpg"
 schools_intro: "We can help families from every part of the borough, with children at Tudor Grange Academy Solihull, Arden Academy, Alderbrook School, Light Hall School, Park Hall Academy and Solihull School. Older children are often thinking ahead to Solihull Sixth Form College and the A-Level subjects they'd like to take there. During the day, Harry and Joe are often in schools themselves, running revision workshops, and more than 15 secondary schools across the country work with us directly."
 schools: ["Tudor Grange Academy Solihull", "Arden Academy", "Alderbrook School", "Light Hall School", "Park Hall Academy", "Solihull School"]

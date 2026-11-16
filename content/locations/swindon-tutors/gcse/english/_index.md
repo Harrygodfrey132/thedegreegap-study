@@ -1,13 +1,13 @@
 ---
-title: "Swindon GCSE English Tutors | Online | The Degree Gap"
+title: "Swindon GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Last answer on the English mock thin or missing? Our Swindon GCSE English tutors help your child pace the paper and finish it. One-to-one and online, from £37."
+description: "Last answer on the English mock thin or missing? Our GCSE English tutors for Swindon help your child pace the paper and finish it. Online, from £37."
 layout: "level-subject"
 location: "Swindon"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutoring Across Swindon"
+hero_h1: "GCSE English Tutors for Swindon Students"
 hero_lead: "Turn to the last answer on your child's English mock. If it's two lines long, or not there at all, the ideas weren't the problem. Time was. Our GCSE English tutors for Swindon students work online, one-to-one, on finishing the paper, which is often worth more marks than anything else."
 
 angle_eyebrow: "THE CLOCK TAKES MORE THAN ANYTHING ELSE"

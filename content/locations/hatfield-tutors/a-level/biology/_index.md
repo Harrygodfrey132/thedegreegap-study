@@ -1,13 +1,13 @@
 ---
-title: "Hatfield A-Level Biology Tutors | Online | The Degree Gap"
+title: "Hatfield A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Has your child read the immunology chapter twice and still can't write it out? Our Hatfield A-Level Biology tutors build recall that lasts. Online, from £37."
+description: "Has your child read the immunology chapter twice and still can't write it out? Our A-Level Biology tutors for Hatfield build recall that lasts. Online,"
 layout: "level-subject"
 location: "Hatfield"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors Covering Hatfield"
+hero_h1: "A-Level Biology Tutors for Hatfield Students"
 hero_lead: "Plenty of children read the immunology notes, nod along, and still get half marks on the test. Our A-Level Biology tutors for Hatfield students work on getting the detail out of your child's head and onto paper, against the clock."
 
 angle_eyebrow: "FAMILIAR ISN'T THE SAME AS LEARNED"

@@ -1,5 +1,5 @@
 ---
-title: "High Wycombe A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "High Wycombe A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "When your child's transition metal answers sound right but score low, it's the detail. Online A-Level Chemistry tutors for High Wycombe families, from £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "High Wycombe"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for High Wycombe and the Chilterns"
+hero_h1: "A-Level Chemistry Tutors for High Wycombe Students"
 hero_lead: "Your child's transition metal answers sound right and still come back with low marks. Our A-Level Chemistry tutors for High Wycombe students help them get every colour and every detail exactly right."
 
 angle_eyebrow: "WHEN NEARLY RIGHT ISN'T ENOUGH"

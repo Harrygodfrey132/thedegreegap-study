@@ -1,13 +1,13 @@
 ---
 title: "A-Level Maths Tuition for Reigate | The Degree Gap"
 nav_title: "Maths"
-description: "Is Year 12 Maths moving too fast for your child? Reigate A-Level Maths tutors cover proof, calculus, Mechanics and Statistics, online and one-to-one, from £37."
+description: "Is Year 12 Maths moving too fast for your child? A-Level Maths tutors for Reigate cover proof, calculus, Mechanics and Statistics, online, from £37."
 layout: "level-subject"
 location: "Reigate"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Reigate Families, When Year 12 Moves Too Fast"
+hero_h1: "A-Level Maths Tutors for Reigate Students"
 hero_lead: "Year 12 Maths moves quickly, and a topic your child half-missed in October is back by February. Our A-Level Maths tutors for Reigate students work one-to-one online to keep Pure, Mechanics and Statistics moving together."
 
 angle_eyebrow: "FROM A 6 TO A-LEVEL IN ONE SUMMER"
@@ -46,7 +46,7 @@ faqs:
     a: "Most are an hour, and that's right for most Year 12s and 13s. Some families go for 90 minutes, usually in Year 13 or when Further Maths is involved, because one long Mechanics or Pure question plus proper feedback can fill an hour by itself. Shorter lessons don't often work at this level. We'll talk it through on the first call, and it can change later, say by stepping up before the summer exams."
   - q: "What sort of results have other families had?"
     a: "We'd rather quote families than promise anything. One parent's son ended up almost two grades above his Year 13 mock. Another says their child went from Cs to As, with help on university choices along the way. A student says he reached a predicted A* in Economics. For Maths, the usual pattern is about a grade over a term when it's technique, and longer when Year 12 content needs rebuilding first."
-  - q: "How soon can my child start with a Reigate A-Level Maths tutor?"
+  - q: "How soon can my child start with an A-Level Maths tutor for Reigate students?"
     a: "Normally within a week. The free call with Harry or Joe can usually happen in a day or two, tutor profiles follow within 24 hours, and your child meets the tutor they like on a free 15-minute video call. The first paid lesson's usually the week after, in a slot that then stays the same each week. Families who start in September often have a tutor in place before the first Year 12 assessment."
 # FAQ picks: G04, A01, A15, E05, C10
 

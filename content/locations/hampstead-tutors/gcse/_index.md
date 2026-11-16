@@ -1,11 +1,11 @@
 ---
-title: "Private GCSE Tutors for Hampstead Students, Online | The Degree Gap"
+title: "Private GCSE Tutors for Hampstead Students | The Degree Gap"
 description: "Mocks, sixth form forms and 16+ papers in one autumn? We'll match your child with an online GCSE tutor for Hampstead students on their exact course. From £37."
 layout: "subject"
 location: "Hampstead"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Hampstead Students Facing a Crowded Year 11 Autumn"
+hero_heading_line1: "GCSE Tutors for Hampstead Students"
 hero_heading_line2: ""
 hero_lead: "By half-term of Year 11 your child may have mocks to revise for, a sixth form application to finish and, for some, an entrance paper in November. Our GCSE tutors for Hampstead students help you decide which subject needs the time first. Then they get on with it."
 

@@ -1,11 +1,11 @@
 ---
 title: "High Wycombe GCSE Tutors | Expert Tutors | The Degree Gap"
-description: "High Wycombe GCSE tutors for when the predicted grade is short of what the sixth form wants. Online, one-to-one, from £37, whatever your child's school."
+description: "GCSE tutors for High Wycombe, for when the predicted grade is short of what the sixth form wants. Online, one-to-one, from £37, whatever your child's school."
 layout: "subject"
 location: "High Wycombe"
 level: "GCSE"
 
-hero_heading_line1: "Online High Wycombe GCSE Tutors for When the Predicted Grade Falls Short"
+hero_heading_line1: "GCSE Tutors for High Wycombe Students"
 hero_heading_line2: ""
 hero_lead: "By Year 11, you might be watching the gap between your child's predicted grade and what their sixth form wants, and wondering if it'll close in time. Our GCSE tutors for High Wycombe students start from wherever your child is today and work one-to-one on the marks in between."
 
@@ -14,7 +14,7 @@ grade_to: "6/7"
 grade_stat: "Omo's son went from a grade 5 in GCSE English to a 6/7 in six months, and now looks forward to his lessons."
 
 first_lesson_eyebrow: "A YEAR 10 ENGLISH STORY"
-first_lesson_heading: "What a High Wycombe GCSE Tutor Spots in the First Mock"
+first_lesson_heading: "What a GCSE Tutor for High Wycombe Students Spots in the First Mock"
 first_lesson_context: "The gap between where your child is now and where they could be is rarely about not knowing the content. It's usually one kind of question at a time, like the longer Biology answers, the Maths problem-solving questions or the marks for context in an English Literature essay. So the GCSE tutor marks a recent mock the way the exam board would, then works on the question types where the marks are going."
 
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7. I honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset. …"
@@ -22,7 +22,7 @@ first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "GCSE English"
 
-tutor_strip_heading: "High Wycombe GCSE tutors who start with your child's latest mock"
+tutor_strip_heading: "GCSE tutors for High Wycombe students who start with your child's latest mock"
 tutor_strip_body: "Before we suggest anyone, we'll ask which exam board your child's school uses. It can differ between the Royal Grammar, John Hampden, Wycombe High and the other schools in town, and the tutor should know that course well. The profiles are below if you'd like a look first."
 
 pathways_heading: "What Comes After High Wycombe GCSEs"

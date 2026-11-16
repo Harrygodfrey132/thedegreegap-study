@@ -1,13 +1,13 @@
 ---
 title: "Woking GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "If your child needs a 6 in Maths for A-Level Maths or Physics at Woking College, our Woking GCSE Maths tutors can help. One-to-one online lessons from £37."
+description: "If your child needs a 6 in Maths for A-Level Maths or Physics at Woking College, our GCSE Maths tutors for Woking can help. One-to-one online lessons from £37."
 layout: "level-subject"
 location: "Woking"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors Woking Parents Call When the Year 10 Report Lands"
+hero_h1: "GCSE Maths Tutors for Woking Students"
 hero_lead: "The report says 'working hard', and the mock says something else. Our GCSE Maths tutors for Woking students go through that paper with your child question by question, online and one-to-one, and find which topics are really costing the marks."
 
 angle_eyebrow: "THE MATHS GRADE OTHER COURSES ASK FOR"
@@ -47,7 +47,7 @@ faqs:
     a: "Because predictions come from mocks and teacher judgement, not from how your child seems in lessons. The usual gap is between doing Maths calmly at the kitchen table and doing it in an hour and a half, with a clock at the front of the hall. A page of working abandoned halfway down. Questions left blank because the first line didn't come quickly enough. Read the actual script and the pattern tends to show up within ten minutes. That's where a tutor starts, rather than with the topic list."
   - q: "How are the Maths tutors checked before they teach my child?"
     a: "Four checks, and most people don't get past the third. Only about 3% of the people who apply end up on the platform. There's a written application, then a test that the subject knowledge really holds up, then an interview built around explaining something clearly under a bit of pressure, and finally references. In Maths, a tutor who can't make a method land in the first ten minutes won't help your child, however good their degree. Everything else rests on the explanation."
-  - q: "How quickly could my child start with a Woking Maths tutor?"
+  - q: "How quickly could my child start with a Maths tutor for Woking students?"
     a: "Usually within a week. The free call with Harry or Joe tends to happen within a day or two of you getting in touch. Two or three tutor profiles follow within 24 hours of that call, and your child meets the tutor you like on a free 15-minute video meeting before you pay anything. Most Woking families have picked a tutor by the next day, and the first paid lesson normally comes the week after, in a slot that then stays the same each week."
 # FAQ picks: A03, A14, C10, E01, G06
 

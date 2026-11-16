@@ -1,9 +1,9 @@
 ---
 title: "Kingston upon Thames Tutors | GCSE & A-Level | The Degree Gap"
-description: "Is your child doing 'fine' at school but quietly slipping? Kingston upon Thames tutors, one-to-one and online, matched to their exam board. From £37 an hour."
+description: "Is your child doing 'fine' at school but quietly slipping? Tutors for Kingston upon Thames, one-to-one and online, matched to their exam board. From £37."
 layout: "single"
 location: "Kingston upon Thames"
-banner_heading: "Online Kingston upon Thames tutors who spot a quiet slide before the report does"
+banner_heading: "GCSE and A-Level Tutors for Kingston upon Thames Families"
 banner_description: "We'll find a tutor who knows your child's exam board and the exact topic that's slipped, whichever school they're at. Lessons are one-to-one, once a week, and online."
 content_angle: "a high-results borough with two selection points"
 intro_1: "Most Kingston families we speak to have been through one round of this already. The Tiffin test at ten. The practice papers spread over the kitchen table, then the letter in March. Tiffin School and The Tiffin Girls' School each take around 180 Year 7s and turn away several applicants for every place, so however it went, your family remembers it. The second round is quieter. Sixth forms across the borough publish their own entry grades, some applications close before Christmas of Year 11, and the predicted grades behind them get written in the autumn. And with results across the borough well above the national picture, a child who's 'fine' can be sliding without anyone quite saying so."

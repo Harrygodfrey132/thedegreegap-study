@@ -7,7 +7,7 @@ location: "Ampthill"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Ampthill Students Who Can't See Which Method to Use"
+hero_h1: "A-Level Maths Tutors for Ampthill Students"
 hero_lead: "At GCSE, the question usually told your child what to do. In A-Level Maths it doesn't, and a blank first line costs more time than any hard step. Our A-Level Maths tutors for Ampthill students teach them to pick a route through Pure, Statistics and Mechanics."
 
 angle_eyebrow: "NO WORKED EXAMPLE TO FOLLOW"

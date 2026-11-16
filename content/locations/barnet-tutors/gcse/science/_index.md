@@ -1,13 +1,13 @@
 ---
 title: "Barnet GCSE Science Tuition | The Degree Gap"
 nav_title: "Science"
-description: "Is your child revising hard for GCSE Science and still stuck? Our Barnet tutors find which science and which questions cost the marks. Online, from £37 an hour."
+description: "Is your child revising hard for GCSE Science and still stuck? Our tutors for Barnet find which science and which questions cost the marks. Online, from £37."
 layout: "level-subject"
 location: "Barnet"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Barnet, When the Revision Isn't Showing in the Grade"
+hero_h1: "GCSE Science Tutors for Barnet Students"
 hero_lead: "If your child revises Science harder than anything else and the grade barely moves, the marks are usually leaking from one science and one kind of question. Our GCSE Science tutors for Barnet students find that leak, with an eye on the science your child hopes to take on to A-Level."
 
 angle_eyebrow: "REVISING HARD, MOVING SLOWLY"
@@ -40,7 +40,7 @@ steps:
     body: "Your child and the tutor meet for an hour a week in the online classroom Lessonspace, and there's a replay of every lesson. Most of the time goes on six-mark answers and practical questions, written out and checked against the mark scheme. From £37 an hour, no contract."
 
 faqs:
-  - q: "My child's interested in an NHS apprenticeship. Can a Barnet GCSE Science tutor help?"
+  - q: "My child's interested in an NHS apprenticeship. Can a GCSE Science tutor for Barnet students help?"
     a: "Yes, and it's the grades that need the most time. The Royal Free London NHS Foundation Trust takes apprentices at Barnet Hospital. Health routes usually ask for a standard pass (grade 4) in Maths, English and Science, and the degree-level schemes run with Middlesex University ask for more. Each one publishes its own requirements and changes them between intakes, so check this year's page. The tutor works towards the Science grade your child's route names. Most applications have a written part too."
   - q: "When's the best time to start Science tutoring in Year 11?"
     a: "Any time from September to February works, and sooner is better. The winter mocks feed the grades a sixth form looks at when it decides on an offer, so work done before them counts twice. Science has another reason too. It's three sciences' worth of content, and that much needs weeks, not a fortnight. Starting in April still helps, but by then it's about the topics worth the most marks, not teaching anything from scratch."

@@ -7,7 +7,7 @@ location: "Taunton"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "A-Level Maths Tutors for Taunton Sixth Formers Finding Pure Maths a Big Step Up"
+hero_h1: "A-Level Maths Tutors for Taunton Students"
 hero_lead: "Two-thirds of A-Level Maths is Pure, and by October of Year 12 the algebra is moving faster than anything your child met at GCSE. Our A-Level Maths tutors for Taunton students find the shaky step and rebuild it before the first mocks."
 
 angle_eyebrow: "TWO-THIRDS OF THE COURSE IS PURE"

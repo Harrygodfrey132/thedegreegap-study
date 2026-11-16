@@ -1,11 +1,11 @@
 ---
 title: "Cheltenham GCSE Tutors | One-to-One from £37/hr | The Degree Gap"
-description: "A safe pass in English and Maths, or the grades for a Pate's sixth form place? Our Cheltenham GCSE tutors start with the marks your child is losing. From £37."
+description: "A safe pass in English and Maths, or the grades for Pate's sixth form? Our online GCSE tutors for Cheltenham students start with the marks being lost. From £37."
 layout: "subject"
 location: "Cheltenham"
 level: "GCSE"
 
-hero_heading_line1: "Online Cheltenham GCSE Tutors for the Marks Your Child Loses Without Knowing Why"
+hero_heading_line1: "GCSE Tutors for Cheltenham Students"
 hero_heading_line2: ""
 hero_lead: "Maybe your child just needs English and Maths made safe. Or maybe they're after the grades a competitive sixth form asks for. Our GCSE tutors for Cheltenham students work out which it is first, then go after the questions losing marks, not the whole subject again."
 
@@ -14,7 +14,7 @@ grade_to: "6/7"
 grade_stat: "Omo's son wanted nothing to do with English. Six months of lessons on, his 5 had become a 6/7."
 
 first_lesson_eyebrow: "ONE REQUEST, TWO VERY DIFFERENT NEEDS"
-first_lesson_heading: "What a Cheltenham GCSE Tutor Finds in the First Hour"
+first_lesson_heading: "What a GCSE Tutor for Cheltenham Students Finds in the First Hour"
 first_lesson_context: "Parents from Pate's, Balcarras, Bournside and the independents often start the call the same way: their child needs some help. But one child needs a secure pass in English and Maths, while another's doing well and still feels behind after all the talk at the school gate. So the first hour goes on a recent paper, question by question, to see whether the marks are slipping on method or on content."
 
 first_lesson_quote: "The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. …"
@@ -22,7 +22,7 @@ first_lesson_quote_name: "Augusta"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "GCSE"
 
-tutor_strip_heading: "Cheltenham GCSE tutors who know how your child's paper is marked"
+tutor_strip_heading: "GCSE tutors for Cheltenham students who know how your child's paper is marked"
 tutor_strip_body: "Schools around Cheltenham use AQA, Edexcel and OCR, and each board words and marks its longer questions differently, so we match the tutor to your child's board. Harry or Joe interview every tutor, and only about 3% of applicants make it. Have a browse, or let us pick."
 
 pathways_heading: "Next Steps After Year 11 in Cheltenham"

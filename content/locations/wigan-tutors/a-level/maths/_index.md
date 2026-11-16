@@ -1,5 +1,5 @@
 ---
-title: "Wigan A-Level Maths Tutors | Online | The Degree Gap"
+title: "Wigan A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "If Year 12 Maths has suddenly got hard for your child, it's usually the algebra underneath. Online A-Level Maths tutors for Wigan families, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Wigan"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutoring for Wigan, Starting With the Algebra"
+hero_h1: "A-Level Maths Tutors for Wigan Students"
 hero_lead: "A-Level Maths doesn't get harder gradually. For a lot of teenagers it happens over about three weeks of Year 12, and suddenly your child feels lost. Our A-Level Maths tutors for Wigan students rebuild the algebra underneath before touching whatever the class is doing now."
 
 angle_eyebrow: "THE ALGEBRA UNDER EVERYTHING"
@@ -28,7 +28,7 @@ schools:
   - "St Peter's Catholic High School Orrell"
   - "Hawkley Hall High School"
 
-steps_heading: "Getting Your Child Started With an A-Level Maths Tutor in Wigan"
+steps_heading: "Getting Your Child Started With an A-Level Maths Tutor for Wigan Students"
 steps_lead: "Expect two or three tutor profiles within a day of your call. Maths builds on itself, so a term of drift tends to show up fast."
 steps:
   - title: "A free call first"
@@ -39,7 +39,7 @@ steps:
     body: "Each week there's an hour online, using the platform Lessonspace, with a replay afterwards. Your child writes the working and the tutor marks it line by line, pointing out method marks as they're earned or lost. From £37 an hour, no contract, and someone new at no charge if your child doesn't click."
 
 faqs:
-  - q: "Can a Wigan A-Level Maths tutor help my child apply for an engineering or finance apprenticeship?"
+  - q: "Can an A-Level Maths tutor for Wigan students help my child apply for an engineering or finance apprenticeship?"
     a: "Yes. Maths is normally the A-Level those schemes look at hardest. Engineering and finance employers across Greater Manchester run degree apprenticeships that often ask for A-Levels around AAB to BBB with Maths named. Many also set their own numbers test when your child applies. The predicted grade comes first, since without it the application doesn't get a proper look. And a teenager who lays out their working clearly tends to do better in those tests as well, so one helps the other."
   - q: "Does it matter whether my child's on Edexcel, AQA or OCR MEI?"
     a: "It does, though less than parents fear at the borderline and more than they expect at the top. The pure content is almost identical across the three, so calculus is calculus. The differences are in the style of question, and in how mechanics and statistics are split across the papers and ordered through the course. OCR MEI is set out differently enough that a tutor who's only taught Edexcel takes longer to get up to speed. We check the board on the call and match on it, not just on the subject."

@@ -1,11 +1,11 @@
 ---
 title: "Woking A-Level Tuition | From £37/hr"
-description: "When Year 12 feels nothing like GCSE, our Woking A-Level tutors help your child get to grips with it, one-to-one and online. From £37 an hour, no contract."
+description: "When Year 12 feels nothing like GCSE, our A-Level tutors for Woking help your child get to grips with it, one-to-one and online. From £37 an hour, no contract."
 layout: "subject"
 location: "Woking"
 level: "A-Level"
 
-hero_heading_line1: "Online Woking A-Level Tutors for When Year 12 Feels Nothing Like GCSE"
+hero_heading_line1: "A-Level Tutors for Woking Students"
 hero_heading_line2: ""
 hero_lead: "The first Year 12 marks are coming back lower than anything your child got at GCSE, and it's hard to see why. Our A-Level tutors for Woking students work one-to-one online on what's changed, so it's in hand before the assessments that shape predicted grades."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "Alexander's child went from Cs to As, with help choosing universities and applying to them too."
 
 first_lesson_eyebrow: "WHEN THE GCSE METHOD RUNS OUT"
-first_lesson_heading: "Why a Woking A-Level Tutor Goes Back to Year 12 First"
+first_lesson_heading: "Why an A-Level Tutor for Woking Students Goes Back to Year 12 First"
 first_lesson_context: "One call we get again and again from Woking parents: he worked so hard for his GCSEs, and now something's changed. Usually the only thing that's changed is the question, because A-Level wants your child to pick the method themselves, with nothing on the page pointing the way. And that can be learnt."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Cs to As, with university applications alongside"
 
-tutor_strip_heading: "Woking A-Level tutors who remember which Year 12 topics bite"
+tutor_strip_heading: "A-Level tutors for Woking students who remember which Year 12 topics bite"
 tutor_strip_body: "Many of our tutors sat these papers not long ago. We'll check your child's exam board first, at Woking College, St John the Baptist, Gordon's or anywhere else, because the board decides how each paper's worded and marked. Then pick from two or three profiles."
 
 pathways_heading: "What's Next for Woking Sixth Formers"

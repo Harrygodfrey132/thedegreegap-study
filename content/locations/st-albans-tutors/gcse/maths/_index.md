@@ -1,17 +1,17 @@
 ---
-title: "St Albans GCSE Maths Tutors | Online | The Degree Gap"
+title: "St Albans GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Your child's on a 6 in GCSE Maths and it's 'just silly mistakes'? St Albans tutors work online, one-to-one, on the slips and the hardest questions. From £37."
+description: "Your child's on a 6 in GCSE Maths and it's 'just silly mistakes'? Tutors for St Albans work online, on the slips and the hardest questions. From £37."
 layout: "level-subject"
 location: "St Albans"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for St Albans Families"
+hero_h1: "GCSE Maths Tutors for St Albans Students"
 hero_lead: "A 6 on the Maths mock, and a shrug: 'just silly mistakes'. Our GCSE Maths tutors for St Albans students work online with your child on the slips that keep coming back, and on the hardest higher-paper questions an 8 depends on."
 
 angle_eyebrow: "THE SLIPS, THEN THE HARDEST QUESTIONS"
-angle_heading: "How a St Albans GCSE Maths Tutor Deals With 'Silly Mistakes'"
+angle_heading: "How a GCSE Maths Tutor for St Albans Students Deals With 'Silly Mistakes'"
 angle_body_1: "'Silly mistakes' is what a child who's good at Maths calls the marks they know they should have had. St Albans parents hear it a lot, and it's worth taking seriously. If your child's on a 6 or 7, they might drop a minus sign while expanding brackets. Or round too early in a long calculator question. Or answer the question they expected, not the one on the page. Each slip costs a mark or two, and they add up fast. Then there are the hardest questions, near the back of each paper. Algebraic proof, circle theorems where every step needs a reason, and iteration (feeding answers back into a formula). An 8 needs both sorted."
 angle_body_2: "Slips look random, but they rarely are. In the first lesson, the tutor goes through a recent higher paper with your child. Every lost mark gets sorted into slips and things they haven't learnt yet. Most children turn out to have a few favourite slips, and once they're named, a simple checking habit catches most of them. Then the lessons move on to the hardest questions. If your child's hoping to take A-Level Maths at Sandringham, Verulam, St Albans School or Loreto, look up this year's entry grades. The bar for Maths is usually higher than for most subjects, so that's the number to aim at."
 angle_image: "/images/students-in-classroom-taking-notes.jpg"

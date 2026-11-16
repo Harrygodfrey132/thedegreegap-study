@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors for Lowestoft Teenagers | The Degree Gap"
+title: "GCSE Tutors for Lowestoft Teenagers | The Degree Gap"
 description: "Is English or Maths the GCSE your child's next step depends on? Our online GCSE tutoring for Lowestoft families starts from the grade they need. From £37."
 layout: "subject"
 location: "Lowestoft"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Lowestoft Teenagers Who Need English and Maths to Hold Up"
+hero_heading_line1: "GCSE Tutors for Lowestoft Students"
 hero_heading_line2: ""
 hero_lead: "Whatever your child does at sixteen, a college course or A-Levels, the first thing anyone asks about is English and Maths. Our GCSE tutors for Lowestoft students find what's holding those two grades back and work on it, week by week."
 

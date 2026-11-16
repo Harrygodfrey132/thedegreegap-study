@@ -7,7 +7,7 @@ location: "Stoke-on-Trent"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Stoke-on-Trent Students Catching Up in Year 13"
+hero_h1: "A-Level Maths Tutors for Stoke-on-Trent Students"
 hero_lead: "If Year 12 slipped by and Year 13 Maths now feels like Pure and Statistics arriving at once, your child isn't the first. Our online A-Level Maths tutors for Stoke-on-Trent students decide what to fix first, then work through the papers from there."
 
 angle_eyebrow: "WHEN YEAR 13 COMES ROUND FAST"

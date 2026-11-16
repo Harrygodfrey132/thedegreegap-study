@@ -1,13 +1,13 @@
 ---
 title: "Barnet A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Is your child revising Pure while Mechanics and Statistics marks slip away? Our Barnet A-Level Maths tutors find the part being avoided. Online, from £37."
+description: "Is your child revising Pure while Mechanics and Statistics marks slip away? Our A-Level Maths tutors for Barnet find the part being avoided. Online, from £37."
 layout: "level-subject"
 location: "Barnet"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors in Barnet, Starting With the Part Your Child Avoids"
+hero_h1: "A-Level Maths Tutors for Barnet Students"
 hero_lead: "Most A-Level Maths revision goes on Pure, the algebra and calculus, but the grade often turns on Mechanics or Statistics. Our A-Level Maths tutors for Barnet students find the part your child's been quietly avoiding since September, and build the term around it. All one-to-one and online, using the platform Lessonspace."
 
 angle_eyebrow: "PURE ISN'T THE WHOLE PAPER"
@@ -29,7 +29,7 @@ schools:
   - "Finchley Catholic High School"
   - "Ashmole Academy"
 
-steps_heading: "Getting your child an A-Level Maths tutor in Barnet: the three steps"
+steps_heading: "Getting your child an A-Level Maths tutor for Barnet students: the three steps"
 steps_lead: "A recent marked paper helps, if you've got one to send over. The part of the course doing the damage usually shows up within ten minutes, and profiles follow inside a day."
 steps:
   - title: "Talk to Harry or Joe"

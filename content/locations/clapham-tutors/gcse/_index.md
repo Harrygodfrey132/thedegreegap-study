@@ -5,7 +5,7 @@ layout: "subject"
 location: "Clapham"
 level: "GCSE"
 
-hero_heading_line1: "GCSE Tutors for Clapham Students Whose Revision Isn't Sticking"
+hero_heading_line1: "GCSE Tutors for Clapham Students"
 hero_heading_line2: ""
 hero_lead: "Your child spends the evening with the notes open, then the test comes back as though they'd never seen them. Our GCSE tutors for Clapham students swap rereading for practice that makes things stay, one-to-one and online."
 

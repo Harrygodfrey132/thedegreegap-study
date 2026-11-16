@@ -7,7 +7,7 @@ location: "Maidenhead"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Maidenhead Students Who Run Out of Time on the Writing"
+hero_h1: "GCSE English Tutors for Maidenhead Students"
 hero_lead: "Your child reads the extract carefully, writes a decent answer, then finds twenty minutes left for the writing task and panics. Our GCSE English tutors for Maidenhead students practise the timing as much as the content, so the last question actually gets finished."
 
 angle_eyebrow: "EDUQAS, NOT AQA"

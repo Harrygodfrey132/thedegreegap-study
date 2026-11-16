@@ -1,13 +1,13 @@
 ---
 title: "Stockport GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Stockport GCSE Maths tutors who find which of the three papers is losing your child marks, then work on that one. Online one-to-one lessons from £37 an hour."
+description: "GCSE Maths tutors for Stockport who find which of the three papers is losing your child marks, then work on that one. Online one-to-one lessons from £37."
 layout: "level-subject"
 location: "Stockport"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online Stockport GCSE Maths Tutors Who Find Which Paper Is Costing the Marks"
+hero_h1: "GCSE Maths Tutors for Stockport Students"
 hero_lead: "Your child sits three Maths papers for one grade, and the marks rarely go evenly across them. Our GCSE Maths tutors for Stockport students go through a marked paper with your child, online, and find out whether it's the non-calculator paper, the wordy questions at the back, or the choice between higher and foundation."
 
 angle_eyebrow: "THREE PAPERS, AND ONE OF THEM IS THE PROBLEM"

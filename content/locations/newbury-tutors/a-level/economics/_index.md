@@ -7,7 +7,7 @@ location: "Newbury"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Newbury Students Who Lose Marks on the Data"
+hero_h1: "A-Level Economics Tutors for Newbury Students"
 hero_lead: "Your child can explain inflation perfectly well, then a table of figures and two extracts turn up and the answer ignores both. Our A-Level Economics tutors for Newbury students practise using the data, so every point is backed by something on the page."
 
 angle_eyebrow: "FOUR MOBILE NETWORKS BECOME THREE"

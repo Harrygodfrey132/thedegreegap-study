@@ -1,5 +1,5 @@
 ---
-title: "Online A-Level Maths Tutors | Cambridge | The Degree Gap"
+title: "A-Level Maths Tutors | Cambridge | The Degree Gap"
 nav_title: "Maths"
 description: "Is a middle place in a strong Maths set a worry? A marked paper will tell you. Online A-Level Maths tutors for Cambridge families, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Cambridge"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutoring for Cambridge Sixth Formers"
+hero_h1: "A-Level Maths Tutors for Cambridge Students"
 hero_lead: "Hard work, a middle place in a strong Maths set at Hills Road or Long Road, and no real way for you or your child to tell whether that's a problem. Our A-Level Maths tutors for Cambridge students teach online, and the first thing they'll do is answer that question properly."
 
 angle_eyebrow: "WHAT A MID-TABLE POSITION MEANS IN A STRONG SET"

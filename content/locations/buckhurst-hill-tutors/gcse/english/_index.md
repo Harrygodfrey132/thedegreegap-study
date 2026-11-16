@@ -7,7 +7,7 @@ location: "Buckhurst Hill"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Buckhurst Hill Students Whose Descriptions Go Nowhere"
+hero_h1: "GCSE English Tutors for Buckhurst Hill Students"
 hero_lead: "Ask your child to describe a picture and you get a page of adjectives, a 'suddenly' and no ending. Our GCSE English tutors for Buckhurst Hill students teach a simple shape for that writing, so it reads like a finished piece and is marked like one."
 
 angle_eyebrow: "A WALK THROUGH KNIGHTON WOOD"

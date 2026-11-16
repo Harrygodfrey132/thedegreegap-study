@@ -1,13 +1,13 @@
 ---
 title: "Cirencester GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Cirencester GCSE English tutors for the Language papers, set texts and timed essays, matched to your child's exam board. A free call first, then from £37."
+description: "Online GCSE English tutors for Cirencester students: the Language papers, set texts and timed essays, matched to your child's exam board. From £37."
 layout: "level-subject"
 location: "Cirencester"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutoring for Cirencester Families"
+hero_h1: "GCSE English Tutors for Cirencester Students"
 hero_lead: "Your child might read on the bus most mornings and still go blank when a Language paper asks how a writer builds tension. Our GCSE English tutors for Cirencester students help them turn what they notice into answers that earn marks."
 
 angle_eyebrow: "READING IT ISN'T WRITING ABOUT IT"

@@ -1,13 +1,13 @@
 ---
 title: "GCSE English Tutors Covering Southend-on-Sea | The Degree Gap"
 nav_title: "English"
-description: "Online GCSE English tutors covering Southend-on-Sea, matched on exam board and set texts, across Language and Literature. One-to-one, from £37 an hour."
+description: "Online GCSE English tutors for Southend-on-Sea, matched on exam board and set texts, across Language and Literature. One-to-one, from £37 an hour."
 layout: "level-subject"
 location: "Southend-on-Sea"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Southend-on-Sea When the Ideas Outrun the Writing"
+hero_h1: "GCSE English Tutors for Southend-on-Sea Students"
 hero_lead: "Plenty of students can talk about a text far better than they can write about one. Our GCSE English tutors for Southend-on-Sea students close that distance in one-to-one online hours on Lessonspace, one marked and rewritten essay at a time."
 
 angle_eyebrow: "THE IDEA LANDS, THE ESSAY DOES NOT"

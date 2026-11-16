@@ -1,13 +1,13 @@
 ---
-title: "Farnborough GCSE Maths Tutors | Online | The Degree Gap"
+title: "Farnborough GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "A-Level Physics, Chemistry, even Psychology can ask for a GCSE Maths grade. Our Farnborough tutors aim for it, online and one-to-one. From £37, no contract."
+description: "A-Level Physics, Chemistry, even Psychology can ask for a GCSE Maths grade. Our tutors for Farnborough aim for it, online and one-to-one. From £37, no contract."
 layout: "level-subject"
 location: "Farnborough"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online Farnborough GCSE Maths Tutors, With A-Levels in Mind"
+hero_h1: "GCSE Maths Tutors for Farnborough Students"
 hero_lead: "Your child's A-Level list might not include Maths at all. But the Maths grade can still decide what stays on it. Our GCSE Maths tutors for Farnborough students aim at the grade those courses ask for, online and one-to-one."
 
 angle_eyebrow: "THE A-LEVELS THAT QUIETLY NEED MATHS"
@@ -28,7 +28,7 @@ schools:
   - "Farnborough Sixth Form College"
   - "Farnborough College of Technology"
 
-steps_heading: "Finding your child a GCSE Maths tutor in Farnborough"
+steps_heading: "Finding your child a GCSE Maths tutor for Farnborough students"
 steps_lead: "Starting in Year 10, or early in Year 11, leaves time to rebuild rather than rush. We'll send tutor profiles within 24 hours of talking to you."
 steps:
   - title: "Tell us the A-Level plan"

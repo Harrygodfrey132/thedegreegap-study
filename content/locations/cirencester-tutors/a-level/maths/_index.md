@@ -1,13 +1,13 @@
 ---
 title: "A-Level Maths Tutors in Cirencester | The Degree Gap"
 nav_title: "Maths"
-description: "A-Level Maths tutors for Cirencester families: pure, mechanics and statistics on your child's board, and help with the jump from GCSE in Year 12. From £37."
+description: "Online A-Level Maths tutors for Cirencester families: pure, mechanics and statistics on your child's board, and the jump from GCSE in Year 12. From £37."
 layout: "level-subject"
 location: "Cirencester"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Year 12s and 13s Around Cirencester"
+hero_h1: "A-Level Maths Tutors for Cirencester Students"
 hero_lead: "A good GCSE Maths grade doesn't stop Year 12 feeling like a different subject, especially once the algebra has to be quick and right every time. Our A-Level Maths tutors for Cirencester students steady that algebra, then work through pure, mechanics and statistics with your child."
 
 angle_eyebrow: "WHERE YEAR 12 MATHS GETS HARDER"

@@ -5,7 +5,7 @@ layout: "subject"
 location: "Harrow"
 level: "GCSE"
 
-hero_heading_line1: "Online Harrow GCSE Tutors for the Hour a Class of Thirty Can't Give"
+hero_heading_line1: "GCSE Tutors for Harrow Students"
 hero_heading_line2: ""
 hero_lead: "Your child's report says they're working hard, and the mock says something else. Our GCSE tutors for Harrow students work one-to-one, an hour a week, on the online platform Lessonspace. And they start with the marked paper, not the grade at the top of it."
 
@@ -14,14 +14,14 @@ grade_to: "B"
 grade_stat: "Keira's grades climbed from an E to a B, and she says the tutoring definitely helped."
 
 first_lesson_eyebrow: "ONE FORM, MOST HARROW SIXTH FORMS"
-first_lesson_heading: "What a Harrow GCSE Tutor Reads in a Marked Mock"
+first_lesson_heading: "What a GCSE Tutor for Harrow Students Reads in a Marked Mock"
 first_lesson_context: "It comes round quickly: your child's Collegiate form is due in the autumn of Year 11, and that one form covers most of the borough's school sixth forms. The schools read mock results and predicted grades. So the tutor's first job is to see whether your child's marks go on content, on technique or on the clock, because each one needs different work."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B at GCSE"
 
-tutor_strip_heading: "Harrow GCSE tutors who work to the Collegiate calendar"
+tutor_strip_heading: "GCSE tutors for Harrow students who work to the Collegiate calendar"
 tutor_strip_body: "Children at Nower Hill, Whitmore, Park High and Hatch End aren't all sitting the same exam boards, so we check your child's before suggesting anyone. Only around 3% of applicants get past an interview with Harry or Joe. Browse the profiles, or let us match your child."
 
 pathways_heading: "After Year 11: Harrow's Collegiate and Beyond"

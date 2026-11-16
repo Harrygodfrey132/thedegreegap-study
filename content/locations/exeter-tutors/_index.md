@@ -3,7 +3,7 @@ title: "Exeter Tutors | GCSE & A-Level from £37/hr"
 description: "The GCSE grades for Exeter College, then a steady start at A-Level: our online Exeter tutors help with both. Free call first, lessons from £37, no contract."
 layout: single
 location: Exeter
-banner_heading: "Exeter College Next? Online Exeter Tutors From GCSE Through to A-Level"
+banner_heading: "GCSE and A-Level Tutors for Exeter Families"
 banner_description: "If your child's heading to Exeter College, their GCSE grades decide which courses they can take. Our tutors help with those grades, then with settling into A-Level."
 content_angle: "the step up: GCSE grades for Exeter College, then studying independently"
 intro_1: "Somewhere in Year 11, the talk at home turns to what's next. Which A-Levels. Whether the grades will be there. In Exeter, the answer is usually Exeter College. Most Year 11s in the city head there after GCSEs. The college sets minimum grades for its A-Level courses, so the GCSEs suddenly matter in a very practical way. Then there's the step itself: one of the largest sixth form providers in the country, and far more of the work left to your child to organise."

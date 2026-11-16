@@ -7,7 +7,7 @@ location: "Tooting"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Tooting Students Whose Algebra Isn't Quick Enough Yet"
+hero_h1: "A-Level Maths Tutors for Tooting Students"
 hero_lead: "A-Level Maths assumes your child can expand, factorise and rearrange without stopping to think, and plenty can't yet. Our A-Level Maths tutors for Tooting students make that algebra quick and reliable, so the calculus has something solid underneath it."
 
 angle_eyebrow: "BEFORE THE CALCULUS ARRIVES"

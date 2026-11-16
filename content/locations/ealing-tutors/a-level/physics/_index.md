@@ -7,7 +7,7 @@ location: "Ealing"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Ealing Students Stuck Halfway Through a Problem"
+hero_h1: "A-Level Physics Tutors for Ealing Students"
 hero_lead: "Your child starts a fields or circular motion question confidently, then the algebra takes over and the answer never arrives. Our A-Level Physics tutors for Ealing students work on the multi-step problems and the maths underneath them, online and one-to-one."
 
 angle_eyebrow: "THE MATHS UNDER THE PHYSICS"

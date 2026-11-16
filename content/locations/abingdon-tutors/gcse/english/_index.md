@@ -1,13 +1,13 @@
 ---
 title: "GCSE English Tutors in Abingdon | The Degree Gap"
 nav_title: "English"
-description: "Without a 4, English follows your child into Year 12 at Larkmead or the college. Our Abingdon GCSE English tutors help with both English GCSEs online. From £37."
+description: "Without a 4, English follows your child into Year 12 at Larkmead or the college. Our GCSE English tutors for Abingdon help with both English GCSEs online."
 layout: "level-subject"
 location: "Abingdon"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Abingdon, Language and Literature Alike"
+hero_h1: "GCSE English Tutors for Abingdon Students"
 hero_lead: "Your child's English book keeps coming back with 'develop this further' scribbled beside their paragraphs, and nobody at home can explain what it means. Our GCSE English tutors for Abingdon students show them, one-to-one online, on real exam extracts and against the clock."
 
 angle_eyebrow: "WHAT 'DEVELOP THIS FURTHER' ACTUALLY MEANS"

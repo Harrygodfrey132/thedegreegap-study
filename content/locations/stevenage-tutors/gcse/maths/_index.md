@@ -1,13 +1,13 @@
 ---
-title: "Stevenage Online GCSE Maths Tutors | The Degree Gap"
+title: "Stevenage GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "When your child works hard at GCSE Maths and the mark won't move, there's often a Year 8 gap underneath. Our Stevenage tutors find it and rebuild it. From £37."
+description: "Hard work at GCSE Maths and the mark won't move? There's often a Year 8 gap underneath. Our online tutors find it and rebuild it for Stevenage students."
 layout: "level-subject"
 location: "Stevenage"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online One-to-One GCSE Maths Tutors for Stevenage Families"
+hero_h1: "GCSE Maths Tutors for Stevenage Students"
 hero_lead: "Your child does all the homework, and the Maths mark still won't shift. Usually it's an old gap that's grown, since most topics lean on earlier ones. Our GCSE Maths tutors for Stevenage students find it and rebuild from there, and it's rarely as big a job as it feels."
 
 angle_eyebrow: "WHY ONE MATHS GAP TURNS INTO SEVERAL"

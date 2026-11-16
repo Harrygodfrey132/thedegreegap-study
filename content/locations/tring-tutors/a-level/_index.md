@@ -1,11 +1,11 @@
 ---
-title: "A-Level Tutors for Tring Sixth Formers | Online One-to-One | The Degree Gap"
+title: "A-Level Tutors for Tring Sixth Formers | One-to-One | The Degree Gap"
 description: "Two years of A-Level work, all examined in one summer. We'll match Tring sixth formers with an online A-Level tutor who keeps Year 12 fresh. From £37 an hour."
 layout: "subject"
 location: "Tring"
 level: "A-Level"
 
-hero_heading_line1: "Online Tring A-Level Tutors for Two Years of Work Tested in One Summer"
+hero_heading_line1: "A-Level Tutors for Tring Students"
 hero_heading_line2: ""
 hero_lead: "By the summer of Year 13, your child sits papers on everything from both years, and the topics from that first autumn are often the ones that have faded. Our A-Level tutors for Tring students keep the older work alive while the new content keeps coming."
 
@@ -14,7 +14,7 @@ grade_to: "C"
 grade_stat: "“…managing to turn E and U grades into 3 C grades.” From a Google review by Joanna, whose son had A-Level tutoring"
 
 first_lesson_eyebrow: "TWO YEARS, ONE SUMMER"
-first_lesson_heading: "How a Tring A-Level Tutor Keeps Year 12 Topics From Fading"
+first_lesson_heading: "How an A-Level Tutor for Tring Students Keeps Year 12 Topics From Fading"
 first_lesson_context: "A-Levels are linear, so at Tring School, as at any sixth form, the written papers all come in the summer of Year 13. An A-Level tutor builds short, regular returns to Year 12 work into each week, and that's also why a late start can still help, as long as nobody pretends there's time to waste."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades."
 first_lesson_quote_name: "Joanna"

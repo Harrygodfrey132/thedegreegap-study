@@ -1,11 +1,11 @@
 ---
-title: "Online A-Level Tutors for Redhill Sixth Formers | The Degree Gap"
+title: "A-Level Tutors for Redhill Sixth Formers | The Degree Gap"
 description: "Is your child's predicted grade sitting below the offer they want? Online A-Level tutoring for Redhill sixth formers, one-to-one. From £37 an hour, no contract."
 layout: "subject"
 location: "Redhill"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Redhill Sixth Formers Whose Predictions Fall Short of the Offer"
+hero_heading_line1: "A-Level Tutors for Redhill Students"
 hero_heading_line2: ""
 hero_lead: "Universities see your child's predicted grades long before a real one exists, and those predictions are built on Year 12 work. Our A-Level tutors for Redhill students go after the subject holding the prediction down, while there's still time to move it."
 
@@ -14,7 +14,7 @@ grade_to: "A"
 grade_stat: "“Degree Gap helped my kid go from Cs to As”, Alexander wrote in a Google review (Parent), adding that the tutors “also helped with university choices and application.” The subjects aren't named."
 
 first_lesson_eyebrow: "BEFORE THE UCAS FORM GOES IN"
-first_lesson_heading: "What a Redhill A-Level Tutor Reads Before the Predictions Are Set"
+first_lesson_heading: "What an A-Level Tutor for Redhill Students Reads Before the Predictions Are Set"
 first_lesson_context: "Predictions usually draw on Year 12 tests, the end-of-year exams and the first weeks of Year 13, so a weak subject in the autumn of Year 12 can still be turned round in time. An A-Level tutor's first lesson takes your child's latest marked assessment and works out where each lost mark went, and why."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"

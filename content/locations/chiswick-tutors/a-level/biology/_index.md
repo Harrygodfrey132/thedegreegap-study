@@ -7,7 +7,7 @@ location: "Chiswick"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Chiswick Students With the 25-Mark Essay Ahead"
+hero_h1: "A-Level Biology Tutors for Chiswick Students"
 hero_lead: "Your child can answer a question on one topic, but an essay that asks them to pull five together is another matter. Our A-Level Biology tutors for Chiswick students teach a way to plan those long answers, then practise them against the clock."
 
 angle_eyebrow: "ONE TITLE, FIVE TOPICS"

@@ -7,7 +7,7 @@ location: "Andover"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Andover Students Whose Maths Trips Up the Physics"
+hero_h1: "A-Level Physics Tutors for Andover Students"
 hero_lead: "Your child follows the Physics in class, then a question turns into logs, exponentials and three rearrangements, and the marks slip away. Our A-Level Physics tutors for Andover students practise the maths inside each topic until it stops getting in the way."
 
 angle_eyebrow: "WHEN THE PHYSICS IS FINE AND THE ALGEBRA ISN'T"

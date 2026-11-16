@@ -1,13 +1,13 @@
 ---
-title: "Warwick GCSE Science Tutors | Online | The Degree Gap"
+title: "Warwick GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Does your child know the Science but lose marks on graphs and data? Our Warwick GCSE Science tutors practise those questions with them online, from £37 an hour."
+description: "Does your child know the Science but lose marks on graphs and data? Our GCSE Science tutors for Warwick practise those questions with them online, from £37."
 layout: "level-subject"
 location: "Warwick"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Supporting Warwick Families"
+hero_h1: "GCSE Science Tutors for Warwick Students"
 hero_lead: "Plenty of Science marks sit in graphs, tables and data questions, and they're the part hardly anyone revises. If your child knows the content but the grade won't budge, our GCSE Science tutors for Warwick students start there."
 
 angle_eyebrow: "THE MARKS HIDING IN THE GRAPHS"

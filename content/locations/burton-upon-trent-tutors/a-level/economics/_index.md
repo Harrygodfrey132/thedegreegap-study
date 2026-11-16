@@ -7,7 +7,7 @@ location: "Burton upon Trent"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Burton upon Trent Students Short of Real Examples"
+hero_h1: "A-Level Economics Tutors for Burton upon Trent Students"
 hero_lead: "Your child knows the theory, but the essay asks them to apply it to a real firm or market, and the examples they reach for stay vague. Our A-Level Economics tutors for Burton upon Trent students use the town's own businesses to make the evaluation concrete."
 
 angle_eyebrow: "WHEN MARSTON'S JOINED CARLSBERG"

@@ -1,11 +1,11 @@
 ---
-title: "Guildford GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "Guildford GCSE tutors who find out why your child's grade is stuck, then work on it one-to-one, online. Matched on subject and exam board, from £37 an hour."
+title: "Guildford GCSE Tutors | One-to-One | The Degree Gap"
+description: "GCSE tutors for Guildford who find out why your child's grade is stuck, then work on it one-to-one, online. Matched on subject and exam board, from £37 an hour."
 layout: "subject"
 location: "Guildford"
 level: "GCSE"
 
-hero_heading_line1: "Online Guildford GCSE Tutors Who Find Out Why Your Child's Grade Is Stuck"
+hero_heading_line1: "GCSE Tutors for Guildford Students"
 hero_heading_line2: ""
 hero_lead: "By the time many Guildford parents ring us, the effort at home has gone up, the grade hasn't, and nobody can quite say which topic is to blame. Our GCSE tutors for Guildford students find it in the first lesson, then work on it with your child until the marks move."
 
@@ -14,14 +14,14 @@ grade_to: "B"
 grade_stat: "Keira says tutoring took her from an E to a B at GCSE."
 
 first_lesson_eyebrow: "FROM AN E TO A B"
-first_lesson_heading: "How a Guildford GCSE Tutor Finds the Topic That's Stuck"
+first_lesson_heading: "How a GCSE Tutor for Guildford Students Finds the Topic That's Stuck"
 first_lesson_context: "Year 10 in Guildford often looks like this: your child follows the lessons, but the answers aren't scoring. Results around here are above the England average, so a stuck grade can feel like it's only happening to you. It usually traces back to a method from a year or two ago that never quite set, and that's what a GCSE tutor looks for first."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B"
 
-tutor_strip_heading: "Guildford GCSE tutors who know what RGS and George Abbot expect"
+tutor_strip_heading: "GCSE tutors for Guildford students who know what RGS and George Abbot expect"
 tutor_strip_body: "Whether your child is at RGS, Guildford High, George Abbot or another school nearby, we match the tutor on subject and exam board, not postcode. We've interviewed every one of them ourselves. Have a look below, or tell us about your child and we'll send two or three profiles."
 
 pathways_heading: "Sixth Form, College or an Apprenticeship After Guildford GCSEs"
@@ -54,7 +54,7 @@ reviews:
   - "Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
   - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
 
-faq_1_q: "My daughter's marks in GCSE Maths keep sliding. Where does a Guildford tutor start?"
+faq_1_q: "My daughter's marks in GCSE Maths keep sliding. Where does a tutor for Guildford families start?"
 faq_1_a: "With a recent paper, not page one of the textbook. The tutor works through it with her to see which questions are costing her marks. Usually it's a topic like algebra or ratio that never quite bedded in, and that's where the rebuilding starts. Then it's past-paper questions on that topic, week after week, until it stops being the weak spot."
 faq_2_q: "How can a tutor help my son get the grades a Guildford sixth form wants?"
 faq_2_a: "By turning the target into specific marks he can win back. The tutor marks his work the way the exam board would, shows him where a stronger answer picks up more, and practises that with him. Places at the popular sixth forms can be competitive, so most of the effort goes on the subjects he wants to carry on with."

@@ -3,7 +3,7 @@ title: Derby Tutoring | Trusted GCSE & A-Level Tutors
 description: "Derby tutoring for a child with big plans and a few shaky basics. We find the gaps first and build from there, online and one-to-one. From £37 an hour."
 layout: single
 location: Derby
-banner_heading: "Your Child's Ambition Needs Solid Ground: Online Derby Tutors Who Build It"
+banner_heading: "GCSE and A-Level Tutors for Derby Families"
 banner_description: "Big plans, but Maths or Physics isn't keeping up? Our tutors for Derby families find what's missing and build from there."
 content_angle: ambition meets foundation gaps
 intro_1: "If your child comes home talking about becoming an engineer, you're in the right city for it. Rolls-Royce is out at Sinfin, Toyota builds the Corolla at Burnaston, and Alstom makes trains at Litchurch Lane. Serious technical careers are right on the doorstep. But every one of them starts with GCSE Maths and Physics, and across Derby as a whole, GCSE results have sat below the national average for years. So plenty of capable children reach Year 10 or 11 with gaps from earlier years that school hasn't had time to go back for. The ambition's there. Sometimes the foundations aren't there yet."

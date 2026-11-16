@@ -1,13 +1,13 @@
 ---
-title: "Sunbury-on-Thames A-Level Biology Tutors | Online | The Degree Gap"
+title: "Sunbury-on-Thames A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Does your child freeze on Biology questions about experiments they've never seen? Our Sunbury-on-Thames A-Level Biology tutors help them spot the idea inside."
+description: "Does your child freeze on Biology questions about unfamiliar experiments? Our online A-Level Biology tutors help Sunbury-on-Thames students spot the idea."
 layout: "level-subject"
 location: "Sunbury-on-Thames"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors Covering Sunbury-on-Thames"
+hero_h1: "A-Level Biology Tutors for Sunbury-on-Thames Students"
 hero_lead: "A-Level Biology papers often describe an experiment your child has never seen and ask them to explain the result. Our A-Level Biology tutors for Sunbury-on-Thames students work with your child on spotting the familiar idea hiding inside it."
 
 angle_eyebrow: "AN EXPERIMENT THEY'VE NEVER SEEN BEFORE"
@@ -28,7 +28,7 @@ schools:
   - "Hampton School"
   - "Lady Eleanor Holles School"
 
-steps_heading: "Getting started with an A-Level Biology tutor in Sunbury-on-Thames"
+steps_heading: "Getting started with an A-Level Biology tutor for Sunbury-on-Thames students"
 steps_lead: "Tutor profiles usually arrive within a day. If your child revises hard and then freezes on odd-looking questions, this is often why."
 steps:
   - title: "A free chat with Harry or Joe"

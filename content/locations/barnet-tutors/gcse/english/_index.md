@@ -1,13 +1,13 @@
 ---
 title: "GCSE English Tutors Covering Barnet | The Degree Gap"
 nav_title: "English"
-description: "Families often get help with English last, yet sixth forms look at it first. Barnet GCSE English tutors work online, one-to-one, with your child. From £37."
+description: "Families often get help with English last, yet sixth forms look at it first. GCSE English tutors for Barnet work online, one-to-one, with your child. From £37."
 layout: "level-subject"
 location: "Barnet"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutoring for Barnet Families: The Grade Sixth Forms Read First"
+hero_h1: "GCSE English Tutors for Barnet Students"
 hero_lead: "English is often the last subject families get help with, and the first one sixth forms look at. Our GCSE English tutors for Barnet students start with an essay of your child's that scored below what it deserved, and find the part of the mark scheme it missed."
 
 angle_eyebrow: "THE SUBJECT BOOKED LAST"
@@ -29,7 +29,7 @@ schools:
   - "Queen Elizabeth's Girls' School"
   - "The Compton School"
 
-steps_heading: "How your child gets started with a GCSE English tutor in Barnet"
+steps_heading: "How your child gets started with a GCSE English tutor for Barnet students"
 steps_lead: "Tutor profiles reach you inside a day. Have the set texts to hand when you call, since a Literature tutor is only useful if they know the books."
 steps:
   - title: "Talk to Harry or Joe"

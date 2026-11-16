@@ -1,13 +1,13 @@
 ---
-title: "Birmingham Online GCSE Science Tutors | The Degree Gap"
+title: "Birmingham GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Lab practicals are often done in pairs or threes, but the exam asks your child about every step. Our Birmingham GCSE Science tutors go over each one. From £37."
+description: "Lab practicals are often done in pairs, but the exam asks about every step. Our online GCSE Science tutors go over each one with Birmingham students. From £37."
 layout: "level-subject"
 location: "Birmingham"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Birmingham Families"
+hero_h1: "GCSE Science Tutors for Birmingham Students"
 hero_lead: "Ask your child about their last Science practical and you may hear a friend did the measuring. Normal in a busy lab. But the exam still asks about it, so our GCSE Science tutors for Birmingham students go over each practical with your child until they could run it alone."
 
 angle_eyebrow: "WHEN A LAB PARTNER HELD THE THERMOMETER"

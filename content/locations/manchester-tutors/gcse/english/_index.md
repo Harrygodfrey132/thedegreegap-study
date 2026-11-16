@@ -1,5 +1,5 @@
 ---
-title: "Online GCSE English Tutors | Manchester | The Degree Gap"
+title: "GCSE English Tutors | Manchester | The Degree Gap"
 nav_title: "English"
 description: "Online GCSE English tutors for Manchester. Xaverian and Loreto humanities A-Levels can ask for a 6 or 7. If your child is on a 5, we'll work on the writing."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Manchester"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Manchester Teenagers, One-to-One"
+hero_h1: "GCSE English Tutors for Manchester Students"
 hero_lead: "If your child needs English to go from a 6 to a 7 for a Xaverian or Loreto humanities place, the gap is usually in the writing, not the reading. Our GCSE English tutors for Manchester students work on the comparison essay and on paragraphs written against the clock."
 
 angle_eyebrow: "THEY UNDERSTAND IT. THE MARKS ARE IN THE WRITING"

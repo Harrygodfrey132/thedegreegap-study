@@ -1,17 +1,17 @@
 ---
-title: "Brighton GCSE Maths Tutors | Online | The Degree Gap"
+title: "Brighton GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Weekly online lessons with a Brighton GCSE Maths tutor, for families with one eye on BHASVIC or Varndean College entry grades. From £37 an hour, no contract."
+description: "Weekly online lessons with a GCSE Maths tutor for Brighton, for families with one eye on BHASVIC or Varndean College entry grades. From £37, no contract."
 layout: "level-subject"
 location: "Brighton"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors Covering Brighton and Hove"
+hero_h1: "GCSE Maths Tutors for Brighton Students"
 hero_lead: "You'd think Year 11 would feel calmer in a city with no grammar schools, but the colleges publish their entry grades and your child gets one go at them. Our GCSE Maths tutors for Brighton students work online, weekly, on whichever questions are costing the most marks."
 
 angle_eyebrow: "WHEN THE YEAR 11 MOCK STARTS TO COUNT"
-angle_heading: "Where a Brighton GCSE Maths Tutor Looks for Your Child's Missing Marks"
+angle_heading: "Where a GCSE Maths Tutor for Brighton Students Looks for Your Child's Missing Marks"
 angle_body_1: "After GCSEs, the choice in Brighton is fairly clear-cut, and that puts the pressure squarely on Year 11. BHASVIC and Varndean College are both standalone colleges, both are usually oversubscribed, and under the local Accord your child applies to one or the other, not both. Each publishes its entry grades. So the Year 11 Maths mock stops being a quick check and starts being evidence. The marks that decide it tend to go in four places. Simultaneous equations where one has to be rearranged first. Probability trees where the second branch depends on the first. Graph transformations, which means sliding or flipping a curve. And non-calculator arithmetic, which leaks a mark at a time from the middle of the paper on."
 angle_body_2: "The first online lesson is a check-up on the shared whiteboard. The tutor marks a recent paper the way an examiner would and splits the lost marks into two kinds: topics your child hasn't got yet, and ones they know but work through too slowly. Those need different kinds of help, and a grade on its own won't show which. After that it's a weekly hour on the real losses, whether that means rebuilding number work from earlier years or practising the last few questions on the higher paper. The grade matters beyond the two colleges, too. It counts at Greater Brighton Metropolitan College and on the American Express and Octopus Energy school-leaver routes, which publish their own Maths and English minimums."
 angle_image: "/images/maths-equations-close-up.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "Online GCSE Maths Tutoring for Chiswick Families | The Degree Gap"
+title: "GCSE Maths Tutoring for Chiswick Families | The Degree Gap"
 nav_title: "Maths"
 description: "Is your child losing marks on angle reasons, vectors and circle theorems? We match Chiswick teenagers with an online GCSE Maths tutor on their board. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Chiswick"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Chiswick Students Who Lose Marks on the Diagram Questions"
+hero_h1: "GCSE Maths Tutors for Chiswick Students"
 hero_lead: "Your child finds the missing angle, writes 'because of the rules' and gets one mark out of three. Our GCSE Maths tutors for Chiswick students work on geometry reasons, vectors and the proofs near the end of the paper, a step at a time."
 
 angle_eyebrow: "THE QUESTIONS WITH A DIAGRAM"

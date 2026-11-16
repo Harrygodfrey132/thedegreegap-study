@@ -1,13 +1,13 @@
 ---
-title: "Guildford GCSE English Tutors | Online | The Degree Gap"
+title: "Guildford GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Guildford GCSE English tutors who mark your child's essays line by line, then help them rewrite. Online, matched on exam board and set texts. From £37 an hour."
+description: "GCSE English tutors for Guildford who mark your child's essays line by line, then help them rewrite. Online, matched on exam board and set texts. From £37."
 layout: "level-subject"
 location: "Guildford"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors in Guildford, With Every Essay Properly Marked"
+hero_h1: "GCSE English Tutors for Guildford Students"
 hero_lead: "If your child's English essays come back with a grade and one line of comment, it's hard to know what to do next. Our GCSE English tutors for Guildford students mark every piece properly, sentence by sentence, so your child can see exactly what to change."
 
 angle_eyebrow: "ENGLISH NEEDS MARKING MORE THAN LESSONS"

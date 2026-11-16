@@ -7,7 +7,7 @@ location: "Havering"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Havering Students Whose Analysis Never Reaches a Verdict"
+hero_h1: "A-Level Economics Tutors for Havering Students"
 hero_lead: "Your child knows the theory, draws the diagram and explains it well, then runs out of road just where the top marks begin. Our A-Level Economics tutors for Havering students teach them to weigh an argument, so the 25-mark essays finish with a judgement."
 
 angle_eyebrow: "WHERE THE 25-MARK ESSAYS ARE WON"

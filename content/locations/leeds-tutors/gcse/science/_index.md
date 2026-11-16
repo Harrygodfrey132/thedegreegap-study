@@ -1,13 +1,13 @@
 ---
 title: "Leeds GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Heading for Science A-Level at Notre Dame or Elliott Hudson? Our Leeds GCSE Science tutors work on the grade and the topics Year 12 builds on. From £37."
+description: "Heading for Science A-Level at Notre Dame or Elliott Hudson? Our online GCSE Science tutors help Leeds students with the grade and the topics Year 12 builds on."
 layout: "level-subject"
 location: "Leeds"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors in Leeds"
+hero_h1: "GCSE Science Tutors for Leeds Students"
 hero_lead: "If your child has started talking about A-Level Chemistry or Biology, you'll know there's a grade to hit. What's easier to miss is which GCSE topics Year 12 will lean on. Our GCSE Science tutors for Leeds students work on both, so the grade arrives with the foundations behind it."
 
 angle_eyebrow: "READY FOR A-LEVEL, NOT JUST THROUGH GCSE"

@@ -1,5 +1,5 @@
 ---
-title: "Online A-Level Economics Tutor for Your Child in Egham | The Degree Gap"
+title: "A-Level Economics Tutor for Your Child in Egham | The Degree Gap"
 nav_title: "Economics"
 description: "Are your child's Economics essays describing rather than judging? We match Egham sixth formers with an online A-Level Economics tutor for Edexcel. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Egham"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Egham Students Juggling Essays and Numbers"
+hero_h1: "A-Level Economics Tutors for Egham Students"
 hero_lead: "Economics asks your child to write like a historian and calculate like a scientist, sometimes inside a single answer. Our A-Level Economics tutors for Egham students work on both halves, using examples your child already knows, from Thorpe Park's queue-jump tickets to the M25 at rush hour."
 
 angle_eyebrow: "A 5 IN ENGLISH AND A 6 IN MATHS"

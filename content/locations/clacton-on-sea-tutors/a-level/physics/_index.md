@@ -1,5 +1,5 @@
 ---
-title: "Online A-Level Physics Tutors for Clacton-on-Sea Students | The Degree Gap"
+title: "A-Level Physics Tutors for Clacton-on-Sea Students | The Degree Gap"
 nav_title: "Physics"
 description: "Fields, circular motion or capacitors not adding up? We'll match your Clacton-on-Sea sixth former with an online A-Level Physics tutor. From £37, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Clacton-on-Sea"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Clacton-on-Sea Sixth Formers Losing Marks in the Working"
+hero_h1: "A-Level Physics Tutors for Clacton-on-Sea Students"
 hero_lead: "Your child understands the physics in class, then a question on circular motion or capacitors turns into three lines of algebra and they lose the thread. Our A-Level Physics tutors for Clacton-on-Sea students take the maths a line at a time until each step is clear."
 
 angle_eyebrow: "NEWTONIAN WORLD, FIELDS AND THE NUMBERS"

@@ -7,7 +7,7 @@ location: "Putney"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "A-Level Maths Tutors for Putney Students Whose Classmates Met Calculus at IGCSE"
+hero_h1: "A-Level Maths Tutors for Putney Students"
 hero_lead: "Some of your child's Year 12 classmates may have met differentiation already, at IGCSE, and the class can move at their pace. Our A-Level Maths tutors for Putney students take your child through the calculus properly, from the algebra up, so the rest of the course has something to stand on."
 
 angle_eyebrow: "WHEN OTHERS HAVE SEEN IT BEFORE"

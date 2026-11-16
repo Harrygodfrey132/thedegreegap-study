@@ -7,7 +7,7 @@ location: "Tooting"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Tooting Students Caught Between Foundation and Higher"
+hero_h1: "GCSE Maths Tutors for Tooting Students"
 hero_lead: "School has mentioned tiers, and you're not sure what Higher or Foundation would mean for your child after sixteen. Our GCSE Maths tutors for Tooting students work out which paper suits them, then build the algebra that paper asks for."
 
 angle_eyebrow: "THE TIER DECISION IN YEAR 10"

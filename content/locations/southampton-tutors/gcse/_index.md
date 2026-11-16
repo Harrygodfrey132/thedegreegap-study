@@ -1,11 +1,11 @@
 ---
 title: "GCSE Tutors in Southampton | The Degree Gap"
-description: "When a place at Richard Taunton or Itchen comes down to one or two subjects, our Southampton GCSE tutors work on those grades. One-to-one and online, from £37."
+description: "When a place at Richard Taunton or Itchen comes down to one or two subjects, our GCSE tutors for Southampton work on those grades. Online, from £37."
 layout: "subject"
 location: "Southampton"
 level: "GCSE"
 
-hero_heading_line1: "Online Southampton GCSE Tutors for When a College Place Hangs on One Subject"
+hero_heading_line1: "GCSE Tutors for Southampton Students"
 hero_heading_line2: ""
 hero_lead: "The March mocks have a way of becoming the predicted grade a sixth-form college sees, and your child's place can come down to a single subject. Our GCSE tutors for Southampton students find where the marks are slipping away and sort out the method before March."
 
@@ -14,7 +14,7 @@ grade_to: "B"
 grade_stat: "By Keira's own account, tutoring definitely helped turn an E into a B."
 
 first_lesson_eyebrow: "FINDING THE MARKS THAT GO MISSING"
-first_lesson_heading: "How a Southampton GCSE Tutor Turns Effort Into Marks"
+first_lesson_heading: "How a GCSE Tutor for Southampton Students Turns Effort Into Marks"
 first_lesson_context: "For a lot of Southampton families, the worry is one grade: the one Richard Taunton or Itchen College wants in the subject their child hopes to carry on with. Results across the city sit a little below the national average, but the college will only ever look at your child's. So a GCSE tutor spends the time on the topics that decide that grade, rather than racing through everything."
 
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
@@ -22,7 +22,7 @@ first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B in GCSE"
 
-tutor_strip_heading: "Southampton GCSE tutors who know the Richard Taunton and Itchen entry grades"
+tutor_strip_heading: "GCSE tutors for Southampton students who know the Richard Taunton and Itchen entry grades"
 tutor_strip_body: "Parents get in touch from Cantell, Bitterne Park and St Anne's, and the tutors know the AQA, Edexcel and OCR courses those schools teach. We also work directly with over 15 UK secondary schools. Have a browse, or ask us to shortlist a few for you."
 
 pathways_heading: "Where Southampton Year 11s Go Next"

@@ -1,9 +1,9 @@
 ---
-title: "Fareham GCSE & A-Level Tutors | Online | The Degree Gap"
-description: "After a disappointing mock, a Fareham tutor finds the questions costing your child marks and works on those first. Online, GCSE and A-Level, from £37."
+title: "Fareham GCSE & A-Level Tutors | The Degree Gap"
+description: "After a disappointing mock, a tutor for Fareham finds the questions costing your child marks and works on those first. Online, GCSE and A-Level, from £37."
 layout: "single"
 location: "Fareham"
-banner_heading: "After a Disappointing Mock: Online GCSE and A-Level Tutors for Fareham Families"
+banner_heading: "GCSE and A-Level Tutors for Fareham Families"
 banner_description: "A low mock is worrying, but it's also useful. A tutor goes through the paper with your child, finds the few kinds of question losing marks and starts there."
 content_angle: "after the mock: finding the few question types costing marks, with colleges in two directions in view"
 intro_1: "The mock result comes home, and within a minute you're doing sums in your head. Is that enough for Fareham College? What about Barton Peveril, or the colleges in Portsmouth? With Southampton one way and Portsmouth the other, Year 11s here apply in both directions. Some look at St Vincent in Gosport or Havant and South Downs College as well. Each one sets its own requirements, course by course, and they don't all agree. So one bad mock can feel as if it's closing doors everywhere at once. It usually isn't. A mock is a practice run, and it's full of clues."

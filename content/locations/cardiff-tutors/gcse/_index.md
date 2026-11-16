@@ -5,7 +5,7 @@ layout: "subject"
 location: "Cardiff"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Cardiff Students Taking the New Made-for-Wales Exams"
+hero_heading_line1: "GCSE Tutors for Cardiff Students"
 hero_heading_line2: ""
 hero_lead: "Your child's year is among the first through Wales's new GCSEs, and there's barely a shelf of past papers to practise from. Our GCSE tutors for Cardiff students work from WJEC's own specifications and sample papers, one-to-one and online."
 

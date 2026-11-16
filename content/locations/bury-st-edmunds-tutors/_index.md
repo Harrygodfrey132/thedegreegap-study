@@ -1,9 +1,9 @@
 ---
-title: "Online Tutoring for Bury St Edmunds Families | The Degree Gap"
+title: "Tutoring for Bury St Edmunds Families | The Degree Gap"
 description: "Worried your child is slipping in one subject, and a tutor means a drive into Bury St Edmunds? We'll match them with an online tutor. From £37, no contract."
 layout: "single"
 location: "Bury St Edmunds"
-banner_heading: "Online tutoring for Bury St Edmunds families, wherever the school bus drops your child off"
+banner_heading: "GCSE and A-Level Tutors for Bury St Edmunds Families"
 banner_description: "Most tutoring starts with who lives nearby. Ours starts with your child, on a free call with Harry or Joe, and then we look across the UK for a tutor who suits them."
 content_angle: "village and estate families around Bury: long school days, a tutor that would mean an evening drive into town, and one subject slipping before the move at sixteen"
 intro_1: "If you live out in Thurston, Ixworth or Great Barton, you'll know how the evening goes. The bus gets in, the school bag lands by the door, and the homework that was 'fine' at breakfast has turned into a sigh by teatime. Thurston Community College alone takes children from villages up to 13 miles away, so plenty of Bury teenagers start and end the day on a bus. You'd happily find a tutor. But that means a drive into town in the dark, an hour in a car park, and the same again next week. So it gets put off, until a mock comes home and you wish it hadn't been."

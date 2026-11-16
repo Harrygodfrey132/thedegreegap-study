@@ -7,7 +7,7 @@ location: "Lincoln"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Lincoln Students Who Know the Facts but Miss the Links"
+hero_h1: "A-Level Biology Tutors for Lincoln Students"
 hero_lead: "Your child can recite the stages of respiration, then a long answer asks them to link it to muscle fatigue and the marks drift away. Our A-Level Biology tutors for Lincoln students practise those synoptic answers, and the practical questions too."
 
 angle_eyebrow: "FROM FLASHCARDS TO LONG ANSWERS"

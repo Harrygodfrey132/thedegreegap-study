@@ -1,13 +1,13 @@
 ---
 title: "Woking A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Strong at GCSE Maths, then lost when Year 12 papers stop signposting? Woking A-Level Maths tutors help your child online, one-to-one. From £37, no contract."
+description: "Strong at GCSE Maths, then lost when Year 12 papers stop signposting? A-Level Maths tutors for Woking help your child online, one-to-one. From £37, no contract."
 layout: "level-subject"
 location: "Woking"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutoring for Woking Families, When the Methods Are There but the Marks Aren't"
+hero_h1: "A-Level Maths Tutors for Woking Students"
 hero_lead: "At GCSE, a question more or less tells your child what to do. At A-Level it stops, and that's when the marks start to go. Our A-Level Maths tutors for Woking students work one-to-one online on picking the method, not just running it."
 
 angle_eyebrow: "THE QUESTION STOPS TELLING THEM"
@@ -28,7 +28,7 @@ schools:
   - "Salesian School"
   - "George Abbot School"
 
-steps_heading: "Getting your child going with a Woking A-Level Maths tutor"
+steps_heading: "Getting your child going with an A-Level Maths tutor for Woking students"
 steps_lead: "Tutor profiles come within a day of the call. And earlier in Year 12 is better, since that year's work is what the predicted grade comes from."
 steps:
   - title: "A free call with one of us"
@@ -39,7 +39,7 @@ steps:
     body: "Lessons run on the online platform Lessonspace, where your child and the tutor share a whiteboard. They tackle unfamiliar questions, not ones already solved. Every lesson has a replay, so a method can be watched again at eleven at night before a test. From £37 an hour, no contract."
 
 faqs:
-  - q: "Can a Woking A-Level Maths tutor help my child apply for a McLaren apprenticeship?"
+  - q: "Can an A-Level Maths tutor for Woking students help my child apply for a McLaren apprenticeship?"
     a: "Yes, with the grades and with the application. McLaren runs apprenticeships from its Technology Centre in Woking and publishes entry requirements for each route. Those can change between intakes, so start with this year's page, not last year's. On the engineering routes, Maths is the grade under most pressure, and that's everyday tutoring work. There are written answers in the application too. Harry or Joe will talk you through those on the call, and how to keep a university application going alongside it."
   - q: "How many lessons will it take to move my child's A-Level Maths grade?"
     a: "Around eight to twelve weekly lessons for one grade, as long as some practice happens in between. It's faster when the problem is exam technique. If your child knows the content but keeps reaching for the wrong method, a few weeks of unfamiliar questions can change that. It's slower when a Year 12 topic never landed, because that has to be rebuilt before it can be practised. The first lesson shows which it is, and we'll tell you if the timing looks tight."

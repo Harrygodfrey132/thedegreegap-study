@@ -1,13 +1,13 @@
 ---
 title: "GCSE English Tutors for Beaconsfield | The Degree Gap"
 nav_title: "English"
-description: "Your child sits two English GCSEs, Language and Literature. Our Beaconsfield GCSE English tutors help with both, one-to-one and online, from £37 an hour."
+description: "Your child sits two English GCSEs, Language and Literature. Our GCSE English tutors for Beaconsfield help with both, one-to-one and online, from £37 an hour."
 layout: "level-subject"
 location: "Beaconsfield"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Beaconsfield Children Who Know the Books but Lose Marks on the Essays"
+hero_h1: "GCSE English Tutors for Beaconsfield Students"
 hero_lead: "Lots of Beaconsfield parents describe the same kind of essay coming home: good ideas, 'needs more depth' in the margin, and sometimes no ending at all. Our GCSE English tutors for Beaconsfield students help one-to-one, online, with planning, quotations and getting essays finished inside the time."
 
 card_heading: "Talk your child's GCSE English through with Harry or Joe"

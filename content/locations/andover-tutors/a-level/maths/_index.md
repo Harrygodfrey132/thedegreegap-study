@@ -7,7 +7,7 @@ location: "Andover"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Andover Students Who Got a 7 and Now Feel Lost"
+hero_h1: "A-Level Maths Tutors for Andover Students"
 hero_lead: "Andover College and Peter Symonds both ask for a 7 in GCSE Maths, so your child arrived good at it, and Year 12 still feels like a different subject. Our A-Level Maths tutors for Andover students rebuild the algebra and proof that every new topic leans on."
 
 angle_eyebrow: "A 7 TO GET IN, THEN PROOF"

@@ -1,5 +1,5 @@
 ---
-title: "Derby GCSE English Tutors | Online | The Degree Gap"
+title: "Derby GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "Capable teenagers often freeze on the unseen extract or run out of time. Our online Derby GCSE English tutors give your child a routine for both. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Derby"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors Covering Derby"
+hero_h1: "GCSE English Tutors for Derby Students"
 hero_lead: "On the English Language paper, your child gets an extract they've never seen and has to write well about it, against the clock. Our GCSE English tutors for Derby students work online on the part nobody can revise for."
 
 angle_eyebrow: "THE PAPER YOU CAN'T REVISE FOR"

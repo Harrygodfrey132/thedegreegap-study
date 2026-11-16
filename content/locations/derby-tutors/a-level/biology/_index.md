@@ -1,13 +1,13 @@
 ---
-title: "Derby A-Level Biology Tutors | Online | The Degree Gap"
+title: "Derby A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "A tidy table of rods and cones won't explain why they differ. Our Derby A-Level Biology tutors help your child build the reasoning, online, from £37 an hour."
+description: "A tidy table of rods and cones won't explain why they differ. Our A-Level Biology tutors for Derby help your child build the reasoning, online, from £37."
 layout: "level-subject"
 location: "Derby"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Families in Derby"
+hero_h1: "A-Level Biology Tutors for Derby Students"
 hero_lead: "There's probably a neat table somewhere in your child's Biology folder: rods on one side, cones on the other. It's a good start. Our A-Level Biology tutors for Derby students help your child explain why the two differ, because that's what the exam asks."
 
 angle_eyebrow: "THE TABLE ONLY GETS YOU SO FAR"

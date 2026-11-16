@@ -1,5 +1,5 @@
 ---
-title: "Online A-Level Chemistry Tutor for Your Child in Egham | The Degree Gap"
+title: "A-Level Chemistry Tutor for Your Child in Egham | The Degree Gap"
 nav_title: "Chemistry"
 description: "Did your child start A-Level Chemistry from Combined Science? We match Egham sixth formers with an online A-Level Chemistry tutor who knows OCR A. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Egham"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Egham Students Who Came Up Through Combined Science"
+hero_h1: "A-Level Chemistry Tutors for Egham Students"
 hero_lead: "Combined Science gets your child onto A-Level Chemistry, but it covers less chemistry than the separate GCSE, and Year 12 quietly assumes the rest. Our A-Level Chemistry tutors for Egham students fill those gaps early, then keep pace with OCR A all the way to the final papers."
 
 angle_eyebrow: "6-6 IN COMBINED, THEN OCR A"

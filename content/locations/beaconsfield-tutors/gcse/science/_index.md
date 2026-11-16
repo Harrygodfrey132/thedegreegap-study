@@ -1,13 +1,13 @@
 ---
 title: "Beaconsfield GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Triple or combined, one weak science can hold your child's marks back. Beaconsfield GCSE Science tutors who find it, matched to their exam board. From £37."
+description: "Triple or combined, one weak science can hold marks back. Online GCSE Science tutors for Beaconsfield students find it, matched to the exam board. From £37."
 layout: "level-subject"
 location: "Beaconsfield"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Beaconsfield, Finding the One Science That's Costing Marks"
+hero_h1: "GCSE Science Tutors for Beaconsfield Students"
 hero_lead: "When a Science grade won't budge, there's usually one weak spot underneath, and it's rarely the one your child complains about. Our GCSE Science tutors for Beaconsfield students track it down on a marked paper, then spend the online lessons on the practicals, six-mark answers or calculations losing the marks."
 
 card_heading: "Not sure which science is the problem?"

@@ -1,5 +1,5 @@
 ---
-title: "Online A-Level Biology Tutor for Your Child in Egham | The Degree Gap"
+title: "A-Level Biology Tutor for Your Child in Egham | The Degree Gap"
 nav_title: "Biology"
 description: "Revising Biology hard and still dropping marks on the long answers? We match Egham sixth formers with an online A-Level Biology tutor who knows OCR A. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Egham"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Egham Students Whose Notes Aren't Turning Into Marks"
+hero_h1: "A-Level Biology Tutors for Egham Students"
 hero_lead: "Your child has colour-coded notes for every topic, and the long answers still come back half-marked. Our A-Level Biology tutors for Egham students teach the step GCSE rarely asked for: using what they know on an experiment or an organism they've never met."
 
 angle_eyebrow: "OCR A, THREE PAPERS, ONE SUMMER"

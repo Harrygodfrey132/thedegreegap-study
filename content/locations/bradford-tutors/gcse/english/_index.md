@@ -1,13 +1,13 @@
 ---
 title: "GCSE English Tutors Covering Bradford | The Degree Gap"
 nav_title: "English"
-description: "GCSE English tutors covering Bradford, working Language and Literature separately because they lose marks for different reasons. From £37 an hour."
+description: "Online GCSE English tutors for Bradford students, working on Language and Literature separately because they lose marks for different reasons. From £37."
 layout: "level-subject"
 location: "Bradford"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online Bradford GCSE English Tutors Who Turn Close Reading Into Marks on Paper 1"
+hero_h1: "GCSE English Tutors for Bradford Students"
 hero_lead: "Two subjects, one word on the timetable, and they go wrong for completely different reasons. Our GCSE English tutors for Bradford students take Language and Literature apart first, then work whichever one is costing the grade. Every session is one-to-one and online over Lessonspace."
 
 angle_eyebrow: "TWO SUBJECTS WEARING ONE NAME"

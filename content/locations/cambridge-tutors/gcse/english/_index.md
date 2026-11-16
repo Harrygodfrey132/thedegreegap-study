@@ -1,13 +1,13 @@
 ---
 title: "Cambridge GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Cambridge GCSE English tutors, all online, matched to your child's exam board and set texts, from Chesterton to The Perse. One-to-one lessons from £37 an hour."
+description: "GCSE English tutors for Cambridge, all online, matched to your child's exam board and set texts, from Chesterton to The Perse. One-to-one lessons from £37."
 layout: "level-subject"
 location: "Cambridge"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors Covering Cambridge, Matched on Set Texts"
+hero_h1: "GCSE English Tutors for Cambridge Students"
 hero_lead: "If your child's English essays read well but keep coming back a band lower than you'd expect, it's nearly always the structure, not the ideas. Our GCSE English tutors for Cambridge students show your child how to build an argument and back it with the right quote, in the time they've got."
 
 angle_eyebrow: "WHERE CAMBRIDGE ENGLISH MARKS GO MISSING"
@@ -28,7 +28,7 @@ schools:
   - "Netherhall School"
   - "Stephen Perse Foundation"
 
-steps_heading: "Three Steps to a Cambridge GCSE English Tutor"
+steps_heading: "Three Steps to a GCSE English Tutor for Cambridge Students"
 steps_lead: "Send the set texts when you first get in touch, if you can. It saves a lesson, and in English that's a whole essay."
 steps:
   - title: "Start with a free call"

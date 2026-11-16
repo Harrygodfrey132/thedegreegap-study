@@ -1,11 +1,11 @@
 ---
 title: "Fleet GCSE Tuition | Built Around Your Child | The Degree Gap"
-description: "Year 11 in Fleet means GCSEs and a college application at once. Our Fleet GCSE tutors work one-to-one online on the grades that count. From £37 an hour."
+description: "Year 11 in Fleet means GCSEs and a college application at once. Our GCSE tutors for Fleet work one-to-one online on the grades that count. From £37 an hour."
 layout: "subject"
 location: "Fleet"
 level: "GCSE"
 
-hero_heading_line1: "Online Fleet GCSE Tutors for the Year Your Child Also Picks a College"
+hero_heading_line1: "GCSE Tutors for Fleet Students"
 hero_heading_line2: ""
 hero_lead: "Mock revision on one side of the desk, a college application on the other, and a fifteen-year-old who insists it's all fine. Our GCSE tutors for Fleet students can take the GCSE side of that, with one-to-one lessons online aimed at whatever's costing the most marks."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "Omo's son, in Year 10, went from a grade 5 to a 6/7 in English after six months with his tutor."
 
 first_lesson_eyebrow: "YEAR 10, BEFORE THE RUSH"
-first_lesson_heading: "What a Fleet GCSE Tutor Does Before Year 11 Fills Up"
+first_lesson_heading: "What a GCSE Tutor for Fleet Students Does Before Year 11 Fills Up"
 first_lesson_context: "Year 10 is often the best time to start in Fleet, before Year 11 fills up with mocks, college open evenings and the application itself. The first lesson goes on finding the older topic that keeps tripping your child up. That way there's time to rebuild it before Year 11 gets busy."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to a 6/7 in GCSE English"
 
-tutor_strip_heading: "Fleet GCSE tutors matched to the papers your child will sit"
+tutor_strip_heading: "GCSE tutors for Fleet students matched to the papers your child will sit"
 tutor_strip_body: "Calthorpe Park and Court Moor choose an exam board for each subject, so your child might sit AQA for one GCSE and Edexcel for another. We check which papers before suggesting anyone. A few profiles are below, or we can pick once we've heard about your child."
 
 pathways_heading: "Where Fleet Year 11s Head After Their GCSEs"

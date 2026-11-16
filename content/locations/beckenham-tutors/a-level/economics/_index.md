@@ -7,7 +7,7 @@ location: "Beckenham"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Beckenham Students Whose Essays Describe but Don't Evaluate"
+hero_h1: "A-Level Economics Tutors for Beckenham Students"
 hero_lead: "Your child knows the theory and can draw the diagram, and the long essay still comes back marked 'needs more evaluation'. Our A-Level Economics tutors for Beckenham students teach how to weigh an argument, step by step, until it becomes a habit."
 
 angle_eyebrow: "WHERE THE 25 MARKS GO"

@@ -7,7 +7,7 @@ location: "Reigate"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Reigate Families, Triple and Combined"
+hero_h1: "GCSE Science Tutors for Reigate Students"
 hero_lead: "If your child does Combined Science, a college course asking for 6-6 needs both grades at 6, and a 6-5 doesn't count. Our GCSE Science tutors for Reigate students work one-to-one online to find which of Biology, Chemistry and Physics is pulling the pair down."
 
 angle_eyebrow: "6-6 IS TWO GRADES, NOT ONE"
@@ -28,7 +28,7 @@ schools:
   - "Dunottar School"
   - "Reigate Grammar School"
 
-steps_heading: "Getting a GCSE Science tutor in Reigate, step by step"
+steps_heading: "Getting a GCSE Science tutor for Reigate students, step by step"
 steps_lead: "One marked paper usually shows us which science to start with, and you'll have tutor profiles within 24 hours of the call."
 steps:
   - title: "Tell us about the courses"

@@ -1,13 +1,13 @@
 ---
 title: "A-Level Maths Tutors for Henley-on-Thames | The Degree Gap"
 nav_title: "Maths"
-description: "A-Level Maths means pure, mechanics and statistics from Year 12. Our Henley-on-Thames A-Level Maths tutors help your child keep pace, online, from £37."
+description: "A-Level Maths means pure, mechanics and statistics from Year 12. Our A-Level Maths tutors for Henley-on-Thames help your child keep pace, online, from £37."
 layout: "level-subject"
 location: "Henley-on-Thames"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors Covering Henley-on-Thames"
+hero_h1: "A-Level Maths Tutors for Henley-on-Thames Students"
 hero_lead: "A good GCSE in Maths doesn't always prepare your child for how quickly Year 12 moves into calculus and mechanics. Our A-Level Maths tutors for Henley-on-Thames students go back to the algebra underneath, then work forward from your child's first marked tests, with a weekly one-to-one lesson online."
 
 angle_eyebrow: "ALL THREE STRANDS, FROM SEPTEMBER"

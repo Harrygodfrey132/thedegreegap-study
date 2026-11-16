@@ -7,7 +7,7 @@ location: "Bury St Edmunds"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Bury St Edmunds Students Who Struggle to Apply the Theory"
+hero_h1: "A-Level Economics Tutors for Bury St Edmunds Students"
 hero_lead: "Your child can define every term and draw the diagram, but the essay never connects it to the case in front of them. Our A-Level Economics tutors for Bury St Edmunds students practise using the theory on real examples, from the extract to the 25-marker."
 
 angle_eyebrow: "SUGAR BEET AS A CASE STUDY"

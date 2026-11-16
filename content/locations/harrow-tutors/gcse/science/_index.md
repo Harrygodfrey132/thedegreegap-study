@@ -1,13 +1,13 @@
 ---
 title: "GCSE Science Tuition Covering Harrow | The Degree Gap"
 nav_title: "Science"
-description: "Harrow GCSE Science tutors who find which of Biology, Chemistry and Physics is costing your child marks before planning a term. Online, one-to-one, from £37."
+description: "GCSE Science tutors for Harrow who find which of Biology, Chemistry and Physics is costing your child marks before planning a term. Online, from £37."
 layout: "level-subject"
 location: "Harrow"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Harrow, When One Grade Hides Three Subjects"
+hero_h1: "GCSE Science Tutors for Harrow Students"
 hero_lead: "If your child's report shows one Science grade, it's covering three subjects, and it rarely tells you which one's slipping. Our GCSE Science tutors for Harrow students work one-to-one online, triple or combined, and find the weakest of the three before spending a term on anything."
 
 angle_eyebrow: "THREE SUBJECTS, ONE NUMBER"
@@ -41,7 +41,7 @@ steps:
 faqs:
   - q: "What grade will my child need for A-Level Science at a Harrow sixth form?"
     a: "It varies, so check this year's page rather than trusting a rule of thumb. The Harrow Sixth Form Collegiate schools, Nower Hill, Park High, Whitmore and Canons among them, publish subject requirements alongside a general one, and St Dominic's Sixth Form College runs its own admissions. The Sciences are usually among the subjects asking for more, and several word it differently for triple and combined. If your child's short of the number, twelve to sixteen weeks of steady weekly lessons is a realistic stretch to plan for, ideally before school sets predicted grades in the autumn of Year 11."
-  - q: "What actually happens in a GCSE Science lesson with a Harrow tutor?"
+  - q: "What actually happens in a GCSE Science lesson with a tutor for Harrow families?"
     a: "An hour, in three rough parts. First the tutor goes through last week's work out loud with your child, so any muddles get spotted and named. Then comes the topic costing the most marks, with equations rearranged and practicals rebuilt step by step on the shared whiteboard. The last part is exam questions on that same topic, marked against the mark scheme while your child watches where the marks really sit. Every lesson has a replay, so a quick explanation can be watched again before a test."
   - q: "How much Science should my child be doing between lessons?"
     a: "About an hour to an hour and a half across the week, and it should be exam questions, not rereading notes. Two or three sets of questions on that week's topic is the usual shape. Science rewards practice at writing answers far more than it rewards highlighting. Past ninety minutes, the extra time does less and less, and in Year 11 school's already setting plenty. What matters most is that the tutor marks it in the next lesson."

@@ -5,7 +5,7 @@ layout: "subject"
 location: "Purley"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Purley Students Whose Year 12 Marks Don't Match the Effort"
+hero_heading_line1: "A-Level Tutors for Purley Students"
 hero_heading_line2: ""
 hero_lead: "Your child is doing more work than ever, and the marks coming back from Year 12 still don't show it. Our A-Level tutors for Purley students find out why, often in how they revise as much as what, and start there, one-to-one and online."
 

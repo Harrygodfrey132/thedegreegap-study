@@ -7,7 +7,7 @@ location: "Taunton"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors for Taunton Students Who Lose Marks on the Wordy Questions"
+hero_h1: "GCSE Maths Tutors for Taunton Students"
 hero_lead: "Your child can do the method when it's set out as a sum, then a question about bus timetables or a phone contract leaves them stuck on what to work out. Our GCSE Maths tutors for Taunton students teach them to find the Maths hidden in the words."
 
 angle_eyebrow: "WHEN THE SUM IS HIDDEN IN A PARAGRAPH"

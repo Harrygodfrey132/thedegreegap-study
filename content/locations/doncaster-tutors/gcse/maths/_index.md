@@ -7,7 +7,7 @@ location: "Doncaster"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online Private GCSE Maths Tutoring for Your Child in Doncaster"
+hero_h1: "GCSE Maths Tutors for Doncaster Students"
 hero_lead: "A 4, a 6 or a 7 in Maths can each open a different door after Year 11, and your child may not know yet which one they'll want. Our GCSE Maths tutors for Doncaster students find where the marks are going and build from there."
 
 angle_eyebrow: "THE NUMBER BEHIND EACH DOOR"

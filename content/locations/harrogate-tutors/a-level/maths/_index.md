@@ -1,5 +1,5 @@
 ---
-title: "Online A-Level Maths Tutors | Harrogate | The Degree Gap"
+title: "A-Level Maths Tutors | Harrogate | The Degree Gap"
 nav_title: "Maths"
 description: "When GCSE Maths came easily and Year 12 doesn't, it's usually method, not ability. Online A-Level Maths tutors for Harrogate families, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Harrogate"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Harrogate Families, Year 12 and 13"
+hero_h1: "A-Level Maths Tutors for Harrogate Students"
 hero_lead: "If your child sailed through GCSE Maths and now Year 12 has them stuck for the first time, it's more common than you'd think. It's usually about method, not ability, and our A-Level Maths tutors for Harrogate students work online, once a week, on the algebra underneath each topic."
 
 angle_eyebrow: "THE YEAR 12 DIP THAT CATCHES FAMILIES OUT"

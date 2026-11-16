@@ -3,7 +3,7 @@ title: Baldock Tutoring | Trusted GCSE & A-Level Tutors
 description: "Online Baldock tutors who find the GCSE or A-Level topic that never quite clicked, then work forward from it. A free call first, then lessons from £37 an hour."
 layout: single
 location: Baldock
-banner_heading: "Online Baldock Tutoring for GCSE and A-Level That Starts Where the Gap Began"
+banner_heading: "GCSE and A-Level Tutors for Baldock Families"
 banner_description: "The topic that's tripping your child up this term may go back a year or two. Our tutors for Baldock families find where it began and build back up from there."
 content_angle: "the old gap: a Baldock child stuck on something that began in Year 8 or 9, with schools spread across Baldock, Hitchin and Letchworth"
 intro_1: "You ask how Maths is going, and the answer's always 'fine'. Even when the homework takes all evening and the last test came back with a mark nobody expected. If you're hearing it a lot, you're not the only Baldock parent who is. Children here head off to Knights Templar, to Hitchin or to Letchworth, and plenty of parents spend part of the day on a train. With busy days all round, a small gap can sit quietly for a year before anyone spots it."
@@ -62,7 +62,7 @@ faq_3_q: "How much does a lesson cost us?"
 faq_3_a: "From £37 an hour, and the rate depends on which tutor you choose. You'll know it before a single lesson is booked. There's no contract and nothing hidden, so you're free to stop whenever you like."
 faq_4_q: "How soon will we actually notice a difference?"
 faq_4_a: "Most parents notice a change in mood before a change in marks, often within the first few lessons: less avoiding, more 'I get this bit now'. Grades take longer to follow, and we'd never promise one."
-why_heading: "Why our Baldock tutoring starts with the topics that slipped past"
+why_heading: "Why our tutoring for Baldock families starts with the topics that slipped past"
 why_para_1: "Some Baldock teenagers arrive at their first lesson already behind, and they know it. Often they've quietly given up on Maths. Others look fine on paper but have been getting by on memory, which shows the moment a question is worded differently. They seem like opposite problems. Underneath, it's usually the same one: an idea from a couple of years back that never fully landed, and nobody had time to go back for."
 why_para_2: "The first lesson is part detective work. The tutor mixes a few questions from earlier years in with this term's, watches how your child works through them, and notes exactly where the method falls apart. The plan comes from that list. Some weeks go on old ground, some on current topics, and closer to mocks it's timed questions from past papers. Often the first thing parents notice is homework no longer being a nightly battle."
 accordion_quality: "Every tutor, whether they've graduated or are still at university, has been interviewed by Harry or Joe, and only around 3% of applicants make the cut. What we look for most is patience: someone who can go back to a Year 8 topic without making a 15-year-old feel small, and find a second explanation when the first one doesn't land."

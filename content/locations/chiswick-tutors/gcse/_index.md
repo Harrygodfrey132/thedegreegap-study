@@ -1,11 +1,11 @@
 ---
-title: "Chiswick GCSE Tutors | Online One-to-One | The Degree Gap"
+title: "Chiswick GCSE Tutors | One-to-One | The Degree Gap"
 description: "Has your child just dropped a set in Maths or Science? Our online GCSE tutoring for Chiswick families starts with the topics behind it. From £37, no contract."
 layout: "subject"
 location: "Chiswick"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for the Chiswick Teenager Who's Just Dropped a Set"
+hero_heading_line1: "GCSE Tutors for Chiswick Students"
 hero_heading_line2: ""
 hero_lead: "A letter home saying your child is moving down a set can feel like a verdict, especially in Year 10. Our GCSE tutors for Chiswick teenagers find the few topics behind it and work on those, so the next set review has something new to go on."
 

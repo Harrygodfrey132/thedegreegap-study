@@ -1,9 +1,9 @@
 ---
-title: "Online Tutoring for Marlborough Families | The Degree Gap"
+title: "Tutoring for Marlborough Families | The Degree Gap"
 description: "Worried your child is slipping, and the nearest tutor is a drive from Marlborough? We'll match them with an online tutor who suits them. From £37, no contract."
 layout: "single"
 location: "Marlborough"
-banner_heading: "Online tutoring for Marlborough families, with no school-night drive to Swindon and back"
+banner_heading: "GCSE and A-Level Tutors for Marlborough Families"
 banner_description: "Harry or Joe gets to know your child on a free call, then we look right across the UK for two or three tutors who'd suit them, wherever you live."
 content_angle: "distance: a wide rural catchment where finding a tutor used to mean a drive, and a sixth form your child applies to like everyone else"
 intro_1: "In and around Marlborough, a lot of evenings run to the same timetable. The school coach drops your child back, there's tea to sort, and the subject that's slipping gets mentioned in the car on the way to something else, if it comes up at all. You've probably thought about a tutor. Then you've thought about where you'd find one, and whether anyone could face the drive to Swindon or Newbury every week. So it waits. Usually until a report comes home and says what you'd half guessed."

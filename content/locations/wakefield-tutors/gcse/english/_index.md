@@ -7,7 +7,7 @@ location: "Wakefield"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Language and Literature Tutors for Wakefield Students"
+hero_h1: "GCSE English Tutors for Wakefield Students"
 hero_lead: "Plenty of children enjoy the Literature texts and still come unstuck on the unseen extracts in the Language papers. Our online GCSE English tutors for Wakefield students work on both, starting with whichever is costing your child more."
 
 angle_eyebrow: "THE GRADE EVERY COURSE CHECKS"

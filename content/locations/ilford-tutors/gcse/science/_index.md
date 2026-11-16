@@ -7,7 +7,7 @@ location: "Ilford"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Ilford Students Tripped Up by the Maths in Science"
+hero_h1: "GCSE Science Tutors for Ilford Students"
 hero_lead: "Your child understands the science until a question asks them to rearrange a formula or convert the units, and then the marks drain away. Our GCSE Science tutors for Ilford students fix the maths step that's costing them, one calculation at a time."
 
 angle_eyebrow: "NEARLY A THIRD OF PHYSICS IS MATHS"

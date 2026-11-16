@@ -1,17 +1,17 @@
 ---
 title: "Sheffield GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Sheffield GCSE English tutors, online. If your child works hard and the English grade hasn't moved in a year, we'll find where the marks stop. From £37 an hour."
+description: "GCSE English tutors for Sheffield, online. If your child works hard and the English grade hasn't moved in a year, we'll find where the marks stop. From £37."
 layout: "level-subject"
 location: "Sheffield"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors Helping Sheffield Families"
+hero_h1: "GCSE English Tutors for Sheffield Students"
 hero_lead: "The essays come home with comments you can't do much with, and the grade hasn't shifted in a year. Our GCSE English tutors for Sheffield students mark your child's own writing the way the examiners do and show them exactly where the marks stopped."
 
 angle_eyebrow: "A YEAR OF EFFORT, THE SAME ENGLISH GRADE"
-angle_heading: "When Your Child's English Grade Won't Move: What a Sheffield Tutor Does"
+angle_heading: "When Your Child's English Grade Won't Move: What a Tutor for Sheffield Families Does"
 angle_body_1: "Your child has worked hard at English all year, and the grade still hasn't budged. It's one of the things Sheffield parents ring us about most, and it's not laziness. The effort's just gone into the half that doesn't pay: rereading the book, learning more quotes, another revision guide. Meanwhile the marks leak out elsewhere. The comparison essay that treats each text separately, so there's never really one argument. The poem they've never seen before, summarised line by line. A quote chosen because it's easy to remember, when a plainer one would have made the point. And the Language writing question, which carries a big chunk of the marks, squeezed into the last few minutes."
 angle_body_2: "It starts with your child's own writing, not the book. The tutor marks a real answer against the mark scheme while your child watches, and talks through why one paragraph scored and the one after it didn't. In a busy classroom there's rarely time to go through it that slowly. Then comes practice on the patterns that pick up marks. A plan that takes four minutes. Paragraphs that weave both texts together. And timed pieces, until the final question isn't rushed any more. If your child's hoping for English A-Level at King Edward VII or Notre Dame, it's the GCSE English grade itself that gets looked at. That's the grade this work is for."
 angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"

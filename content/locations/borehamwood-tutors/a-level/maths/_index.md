@@ -7,7 +7,7 @@ location: "Borehamwood"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Borehamwood Students Whose Algebra Can't Keep Up"
+hero_h1: "A-Level Maths Tutors for Borehamwood Students"
 hero_lead: "At GCSE your child could take the algebra slowly and still finish. A-Level Maths needs those steps to be automatic, and when they aren't, calculus and mechanics start to wobble. Our A-Level Maths tutors for Borehamwood students make the algebra quick first."
 
 angle_eyebrow: "WHERE THE ALGEBRA RUNS OUT"

@@ -1,13 +1,13 @@
 ---
-title: "Online GCSE Science Tutors in Didcot | The Degree Gap"
+title: "GCSE Science Tutors in Didcot | The Degree Gap"
 nav_title: "Science"
-description: "Biology, Chemistry or Physics: our Didcot GCSE Science tutors find the weak spot and work on it online, from the practicals to the long answers. From £37."
+description: "Biology, Chemistry or Physics: our GCSE Science tutors for Didcot find the weak spot and work on it online, from the practicals to the long answers. From £37."
 layout: "level-subject"
 location: "Didcot"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Didcot Children"
+hero_h1: "GCSE Science Tutors for Didcot Students"
 hero_lead: "Your child might be fascinated by what goes on at Harwell and still come unstuck on a six-mark answer. Our GCSE Science tutors for Didcot students find which science is costing your child marks, then work on its long answers and practicals, one-to-one and online."
 
 angle_eyebrow: "SCIENCE ON THE DOORSTEP"

@@ -7,7 +7,7 @@ location: "Dulwich"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "A-Level Maths Tutors for Dulwich Students Losing Marks on Statistics and Mechanics"
+hero_h1: "A-Level Maths Tutors for Dulwich Students"
 hero_lead: "Pure tends to get the class time, while the Statistics and Mechanics questions quietly cost your child marks. Our A-Level Maths tutors for Dulwich students give the applied topics proper attention, alongside the algebra they lean on."
 
 angle_eyebrow: "THE THIRD THAT GETS SQUEEZED"

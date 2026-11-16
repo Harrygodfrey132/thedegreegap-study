@@ -1,5 +1,5 @@
 ---
-title: "Manchester A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Manchester A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Two children can drop the same A-Level Chemistry marks for different reasons. Our online Manchester tutors find your child's reason and start there. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Manchester"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Manchester, Matched on Exam Board"
+hero_h1: "A-Level Chemistry Tutors for Manchester Students"
 hero_lead: "Two children in the same class can lose the same twenty Chemistry marks for completely different reasons. Our A-Level Chemistry tutors for Manchester students work out which it is for your child, then start on the enthalpy cycles and the rate data."
 
 angle_eyebrow: "SAME GRADE, DIFFERENT PROBLEM"

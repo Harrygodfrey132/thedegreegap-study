@@ -7,7 +7,7 @@ location: "Buckhurst Hill"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Buckhurst Hill Students Tripped Up by the Maths Inside It"
+hero_h1: "A-Level Physics Tutors for Buckhurst Hill Students"
 hero_lead: "Your child follows the Physics in the lesson, then a capacitor question needs a natural log or a force has to be split into components, and the answer stalls. Our A-Level Physics tutors for Buckhurst Hill students make that maths routine, whether or not your child also takes A-Level Maths."
 
 angle_eyebrow: "THE CENTRAL LINE AS A MECHANICS QUESTION"

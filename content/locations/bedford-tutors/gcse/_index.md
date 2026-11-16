@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors for Bedford Students | The Degree Gap"
+title: "GCSE Tutors for Bedford Students | The Degree Gap"
 description: "Has your child gone quiet about school since GCSEs began? We'll match Bedford students with an online GCSE tutor on their board. From £37 an hour, no contract."
 layout: "subject"
 location: "Bedford"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Bedford Students Who've Gone Quiet About School"
+hero_heading_line1: "GCSE Tutors for Bedford Students"
 hero_heading_line2: ""
 hero_lead: "When a child who used to chat about school starts answering 'fine', there's often one GCSE subject quietly going wrong. Our GCSE tutors for Bedford students find which one, and give your child an hour a week where asking costs nothing."
 

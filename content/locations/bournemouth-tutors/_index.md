@@ -1,9 +1,9 @@
 ---
 title: "Bournemouth Tutors | GCSE & A-Level | The Degree Gap"
-description: "The 11-plus is behind you, but Bournemouth sixth forms choose again on GCSE grades. Our Bournemouth tutors help your child one-to-one online, from £37 an hour."
+description: "The 11-plus is behind you, but Bournemouth sixth forms choose again on GCSE grades. Our tutors for Bournemouth help your child one-to-one online, from £37."
 layout: "single"
 location: "Bournemouth"
-banner_heading: "Online Bournemouth tutors for the second selection at 16, the one made on GCSE grades"
+banner_heading: "GCSE and A-Level Tutors for Bournemouth Families"
 banner_description: "Bournemouth sorts children once at 11 with a test, then again at 16 on GCSE grades, and every sixth form and college publishes its own number. Our tutors work with your child one-to-one online, aiming at the number they actually need."
 content_angle: "the second selection at 16"
 intro_1: "The 11-plus letter is long gone by the time most Bournemouth parents call us, and it's stopped mattering which way it went. What's on your mind now is a Year 11 report with one subject a grade short. And a sixth-form open evening that printed a number. Four grammar schools across Bournemouth and Poole fill Year 7 through one shared test. Then at 16 they open again, this time on GCSE grades. Bournemouth School, Bournemouth School for Girls, Poole Grammar and Parkstone all take in Year 12s from other schools. The academies, The Bourne, The Bishop of Winchester, St Peter's and Twynham, run sixth forms with their own entry grades. So does the college at Lansdowne. Nobody calls it a second selection. But it is one."

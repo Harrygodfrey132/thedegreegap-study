@@ -1,11 +1,11 @@
 ---
-title: "Online A-Level Tutors in Bushey | The Degree Gap"
-description: "Knows the A-Level content but keeps losing marks? Our Bushey A-Level tutors work one-to-one online on evaluation, method and timing. From £37, no contract."
+title: "A-Level Tutors in Bushey | The Degree Gap"
+description: "Knows the A-Level content but keeps losing marks? Our A-Level tutors for Bushey work one-to-one online on evaluation, method and timing. From £37, no contract."
 layout: "subject"
 location: "Bushey"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors in Bushey for Knowing the Content but Losing the Marks"
+hero_heading_line1: "A-Level Tutors for Bushey Students"
 hero_heading_line2: ""
 hero_lead: "Your child can explain the topic perfectly well over dinner, then the marked essay or paper comes back a grade lower than either of you expected. Our A-Level tutors for Bushey students track down where those marks are going, then practise the fix with your child in one-to-one online lessons."
 
@@ -14,14 +14,14 @@ grade_to: "B"
 grade_stat: "Keira's A-Level grades went from an E to a B."
 
 first_lesson_eyebrow: "WHERE THE A-LEVEL MARKS GO"
-first_lesson_heading: "How a Bushey A-Level Tutor Reads a Marked Paper"
+first_lesson_heading: "How an A-Level Tutor for Bushey Students Reads a Marked Paper"
 first_lesson_context: "At A-Level, knowing the content only earns some of the marks. The rest go on how an answer's built: the evaluation that weighs a point up, or the line of working that shows the method. So your child's first hour with an A-Level tutor goes through a recent marked paper, sorting each lost mark into 'didn't know it' or 'knew it, didn't show it'."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "A-Level Student"
 first_lesson_quote_grade: "E to a B at A-Level"
 
-tutor_strip_heading: "Bushey A-Level tutors who know what each mark scheme rewards"
+tutor_strip_heading: "A-Level tutors for Bushey students who know what each mark scheme rewards"
 tutor_strip_body: "Whether your child's at Queens', Immanuel College or St Dominic's over the border, A-Level boards can change from one subject to the next. Each subject gets a tutor who knows that board. Have a browse below, or let us choose for you."
 
 pathways_heading: "After Bushey A-Levels: London Universities, Apprenticeships and the Studios"

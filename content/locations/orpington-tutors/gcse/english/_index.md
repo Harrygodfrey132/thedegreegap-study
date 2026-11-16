@@ -7,7 +7,7 @@ location: "Orpington"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Orpington Students Who Say They're Not an English Person"
+hero_h1: "GCSE English Tutors for Orpington Students"
 hero_lead: "If your child is happy with numbers but goes quiet at the words 'how does the writer', it's very common and very fixable. Our GCSE English tutors for Orpington students give them a method for analysis that feels almost like Maths."
 
 angle_eyebrow: "FOR CHILDREN WHO PREFER NUMBERS"

@@ -1,13 +1,13 @@
 ---
 title: "A-Level Maths Tutors for Bicester | The Degree Gap"
 nav_title: "Maths"
-description: "Shaky algebra makes A-Level Maths harder. Our Bicester A-Level Maths tutors steady it first, then build up through pure, mechanics and statistics. From £37."
+description: "Shaky algebra makes A-Level Maths harder. Our online tutors steady it first for Bicester students, then build up through pure, mechanics and statistics."
 layout: "level-subject"
 location: "Bicester"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Sixth Formers Across Bicester"
+hero_h1: "A-Level Maths Tutors for Bicester Students"
 hero_lead: "A-Level Maths takes GCSE algebra for granted, so if factorising or rearranging still wobbles, calculus and mechanics wobble with it. Our A-Level Maths tutors for Bicester students steady the algebra first, then build your child up from there, one-to-one online."
 
 angle_eyebrow: "WHERE YEAR 12 MATHS GETS HARD"

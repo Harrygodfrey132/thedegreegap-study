@@ -1,23 +1,23 @@
 ---
 title: "Derby GCSE Tutors | GCSE Tuition from £37/hr"
-description: "Derby GCSE tutors for Maths, English, Science and more, who find out what's behind a disappointing mock. One-to-one and online, from £37 an hour, no contract."
+description: "GCSE tutors for Derby, for Maths, English, Science and more, who find out what's behind a disappointing mock. One-to-one and online, from £37, no contract."
 layout: subject
 location: Derby
 level: GCSE
-hero_heading_line1: "Online Derby GCSE Tutors Who Catch the Gaps a Busy Classroom Can Miss"
+hero_heading_line1: "GCSE Tutors for Derby Students"
 hero_heading_line2: ""
 hero_lead: "The Year 11 mocks came back well below what school predicted, and your child can't really say why. Our GCSE tutors for Derby students trace the gap back to where it started, then work on exam technique before the next round."
 grade_from: E
 grade_to: B
 grade_stat: "Keira says tutoring 'definitely helped' her climb from an E to a B."
 first_lesson_eyebrow: "FINDING WHERE THE MARKS WENT"
-first_lesson_heading: "What a Derby GCSE Tutor Spots in Year 10 Mocks"
+first_lesson_heading: "What a GCSE Tutor for Derby Students Spots in Year 10 Mocks"
 first_lesson_context: "A bad mock can feel like it came out of nowhere. But by Year 11 the gaps usually go back to a few topics from Year 8 and 9 that quietly got harder to fix. A tutor looks for those in the first week, and that's where your child's lessons begin."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: Keira
 first_lesson_quote_role: GCSE Student
 first_lesson_quote_grade: Grade E to Grade B
-tutor_strip_heading: "Derby GCSE tutors who know what Year 10 mocks hide"
+tutor_strip_heading: "GCSE tutors for Derby students who know what Year 10 mocks hide"
 tutor_strip_body: "We've matched Year 10s and 11s from Chellaston, Ecclesbourne, Bemrose and Allestree with tutors on our platform. Have a look through the profiles below. Or leave it to us: after a free call, we'll send two or three tutor profiles we think will suit your child."
 pathways_heading: "Three Ways Forward for Derby Year 11s"
 pathways_lead: "It helps to know early which of these your child wants."

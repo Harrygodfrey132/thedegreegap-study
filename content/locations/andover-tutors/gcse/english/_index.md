@@ -1,17 +1,17 @@
 ---
 title: "GCSE English Tutor for Your Child in Andover | The Degree Gap"
 nav_title: "English"
-description: "Looking for a GCSE English tutor in Andover? We'll match your child with an online tutor who knows their board, AQA or Eduqas, and their set texts. From £37."
+description: "Looking for a GCSE English tutor for Andover? We'll match your child with an online tutor who knows their board, AQA or Eduqas, and their set texts. From £37."
 layout: "level-subject"
 location: "Andover"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Andover Students, Matched to AQA or Eduqas"
-hero_lead: "Looking for a GCSE English tutor in Andover? Lessons are online, and the first thing we'll ask about is your child's school, because Harrow Way and John Hanson don't sit the same English GCSE. Our GCSE English tutors for Andover students then teach from your child's own set texts."
+hero_h1: "GCSE English Tutors for Andover Students"
+hero_lead: "Looking for a GCSE English tutor for Andover students? Lessons are online, and the first thing we'll ask about is your child's school, because Harrow Way and John Hanson don't sit the same English GCSE. Our GCSE English tutors for Andover students then teach from your child's own set texts."
 
 angle_eyebrow: "ONE TOWN, TWO ENGLISH GCSES"
-angle_heading: "Why an Andover GCSE English Tutor Asks Which School Before Anything Else"
+angle_heading: "Why a GCSE English Tutor for Andover Students Asks Which School Before Anything Else"
 angle_body_1: "At Harrow Way, GCSE English is Eduqas. The Literature texts are Othello, Willy Russell's Blood Brothers and A Christmas Carol, which comes last, in Year 11, alongside the Eduqas poetry anthology and poems your child has never seen before. At John Hanson it's AQA, with the Power and Conflict poems brought in partway through Year 10, Literature exams in May and Language in June. The skills overlap. The questions don't. Each board words its tasks and spreads its marks in its own way, so a method drilled for one paper can quietly cost marks on the other."
 angle_body_2: "So the first lesson starts with your child's own board and a text they're studying now: a short timed answer, perhaps on one of Iago's speeches or a Power and Conflict poem, then a look at where the marks went. After that it's one skill a week, with a plan written before every essay. English counts after results day too. Andover College asks for a 4 in English Literature before A-Level English Literature, and a 5 in English Language for A-Level Biology. Peter Symonds wants at least a 4 in English Language for its A-Level courses, and Othello is one of the Shakespeare plays on its A-Level Literature course."
 angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"

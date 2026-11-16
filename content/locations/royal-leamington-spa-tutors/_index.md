@@ -3,12 +3,12 @@ title: "Royal Leamington Spa Tutors | GCSE & A-Level"
 description: "Starting before Year 11 takes the rush out of GCSEs. Online Royal Leamington Spa tutors, with a free call first, then lessons from £37 and no contract."
 layout: single
 location: Royal Leamington Spa
-banner_heading: "Online Tutors for Royal Leamington Spa Families Who'd Rather Start Early on GCSE and A-Level"
+banner_heading: "GCSE and A-Level Tutors for Royal Leamington Spa Families"
 banner_description: "Maybe nothing's gone wrong yet, and you'd like to keep it that way. Plenty of Leamington parents feel exactly that in Year 9 or 10. Book a free call and we'll talk it through."
 content_angle: "starting early: Leamington parents who get in touch in Year 9 or 10 before anything has gone wrong, often busy commuting families who moved here partly for the schools"
 intro_1: "It often starts with something small. A Maths test that came back lower than the last one, or a comment at parents' evening that your child has gone quiet in French. Nothing to panic about. But you can see Year 11 coming, and you'd rather sort it now than halfway through it. Lots of the families we talk to moved to Leamington from London or Birmingham partly for the schools, so keeping a close eye comes naturally. And whether your child is at North Leamington, Trinity, Campion or one of the independents, the worry sounds much the same."
 intro_2: "An early start means nobody has to rush. First there's a free call with Harry or Joe, our co-founders, so we can get to know you and your child. Within 24 hours of it you'll have profiles of 2 or 3 tutors. Then there's a free video meeting, so your child can meet the one you like best. After that it's one lesson a week, online, from £37 an hour with no contract. If they don't click, we'll find someone else at no charge."
-about_heading: Experienced GCSE and A-Level Tutors in Royal Leamington Spa
+about_heading: Experienced GCSE and A-Level Tutors for Royal Leamington Spa Students
 about_image: /images/university-lecture-hall.jpg
 schools_intro: "Our Leamington families have children at North Leamington School, Trinity Catholic School and Campion School. Others are at Arnold Lodge, The Kingsley School, or Myton just over the border in Warwick. Options are chosen at different points in different schools, and we're happy to talk those choices through with you on the call. Quite apart from tutoring, we work directly with more than 15 UK secondary schools. And Harry and Joe run revision workshops in schools during the day."
 schools:

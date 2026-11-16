@@ -1,5 +1,5 @@
 ---
-title: "Swindon A-Level Biology Tutors | Online | The Degree Gap"
+title: "Swindon A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
 description: "Genetics questions left blank on your child's Biology paper? Online A-Level Biology tutors for Swindon families teach a step-by-step method. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Swindon"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Swindon Teenagers Stuck on Genetics"
+hero_h1: "A-Level Biology Tutors for Swindon Students"
 hero_lead: "Your child can revise genetics for hours and still lose the marks, because the questions are puzzles, not recall. Our A-Level Biology tutors for Swindon students teach a method your child can use on any genetics problem, one step at a time."
 
 angle_eyebrow: "A PUZZLE, NOT A FACT TO LEARN"

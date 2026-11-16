@@ -1,5 +1,5 @@
 ---
-title: "Online A-Level Chemistry Tutors for Clacton-on-Sea Students | The Degree Gap"
+title: "A-Level Chemistry Tutors for Clacton-on-Sea Students | The Degree Gap"
 nav_title: "Chemistry"
 description: "Organic routes and pH calculations slipping away? We'll match your Clacton-on-Sea sixth former with an online A-Level Chemistry tutor on their board. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Clacton-on-Sea"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Clacton-on-Sea Sixth Formers Lost in the Organic Routes"
+hero_h1: "A-Level Chemistry Tutors for Clacton-on-Sea Students"
 hero_lead: "Your child can learn each reaction on its own, then a synthesis question asks for three steps from one compound to another and the page stays blank. Our A-Level Chemistry tutors for Clacton-on-Sea students teach the reactions as a map your child can find a route through."
 
 angle_eyebrow: "OCR CHEMISTRY, MODULES 4 TO 6"

@@ -7,7 +7,7 @@ location: "Gerrards Cross"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Gerrards Cross Sixth Formers Who Were Good at GCSE Maths"
+hero_h1: "A-Level Maths Tutors for Gerrards Cross Students"
 hero_lead: "If your child breezed through GCSE Maths and now stares at Year 12 questions, it doesn't mean they've lost their touch. A-Level questions don't spell out the method. Our A-Level Maths tutors for Gerrards Cross students help them work out what to do, not just how to do it."
 
 card_heading: "Have a free chat about the step up to A-Level Maths"

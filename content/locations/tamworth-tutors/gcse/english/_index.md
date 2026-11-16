@@ -1,5 +1,5 @@
 ---
-title: "Tamworth GCSE English Tutors | Online | The Degree Gap"
+title: "Tamworth GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "Online GCSE English tutors for Tamworth families, matched to your child's exam board and set texts. One-to-one lessons from £37 an hour, and no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Tamworth"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutoring for Your Child in Tamworth"
+hero_h1: "GCSE English Tutors for Tamworth Students"
 hero_lead: "At parents' evening English looks like one grade, but your child's really sitting two GCSEs that reward different things. Our GCSE English tutors for Tamworth students work online, and their first job is finding which one's costing the marks."
 
 angle_eyebrow: "THE MARKS AFTER THE QUOTE"

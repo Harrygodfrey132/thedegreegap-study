@@ -1,13 +1,13 @@
 ---
 title: "Sutton GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Sutton GCSE Maths tutors who start with the non-calculator paper, where shaky algebra shows up first. Matched to your child's board and tier, online, from £37."
+description: "GCSE Maths tutors for Sutton who start with the non-calculator paper, where shaky algebra shows up first. Matched to your child's board and tier, online,"
 layout: "level-subject"
 location: "Sutton"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors for Sutton Families, Starting With the Non-Calculator Paper"
+hero_h1: "GCSE Maths Tutors for Sutton Students"
 hero_lead: "When your child's algebra is a bit shaky, the non-calculator paper is usually where it shows first. Our GCSE Maths tutors for Sutton students start there, one-to-one and online, and fix the method before it costs marks on the harder calculator questions too."
 
 angle_eyebrow: "NO CALCULATOR, NOWHERE TO HIDE"
@@ -48,7 +48,7 @@ faqs:
     a: "It depends on where your child is now, not where anyone hopes they'll land. Higher tier is the only route to the top grades, but if your child slips below a 4 on it, there's not much to fall back on. Foundation stops lower, at a 5, but far more of its marks are within reach, and for some children that's the difference between a grade and nothing at all. Schools usually review entries during Year 10. A first lesson in that window turns it into a decision rather than a guess, and your child's Maths teacher should be part of it."
   - q: "My child has dyslexia or ADHD. Can a Maths tutor still help?"
     a: "Yes, and we'll ask about it on the call rather than wait for it to come up. A lot of the help is about keeping the load down. One layout for multi-step working, so nothing goes missing. Long questions broken into small, named stages. One method practised until it's automatic, instead of three offered at once. Lessonspace helps too, because the working stays on screen and there's a replay afterwards. Tell us what school already has in place, including any exam access arrangements."
-  - q: "Is paying for a Maths tutor in Sutton really worth it?"
+  - q: "Is paying for a Maths tutor for Sutton students really worth it?"
     a: "It depends on the gap, and we'd rather tell you that on the free call than after six lessons. If your child's a grade or two below what they need, closing it tends to open something real, like a sixth form course here or a college route, and the cost starts to make sense. If they're already on track, a short block on one topic is the honest suggestion. And sometimes the honest answer is that a tutor isn't what your child needs right now. We'll say so."
 # FAQ picks: A11, A12, C03, E03, G01
 

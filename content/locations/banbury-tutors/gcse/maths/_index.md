@@ -1,13 +1,13 @@
 ---
-title: "Banbury GCSE Maths Tutors | Online | The Degree Gap"
+title: "Banbury GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "If your child dreads the non-calculator paper, our online GCSE Maths tutors in Banbury rebuild the arithmetic underneath it. One-to-one, from £37 an hour."
+description: "If your child dreads the non-calculator paper, our online GCSE Maths tutors for Banbury rebuild the arithmetic underneath it. One-to-one, from £37 an hour."
 layout: "level-subject"
 location: "Banbury"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Banbury, Starting with the Non-Calculator Paper"
+hero_h1: "GCSE Maths Tutors for Banbury Students"
 hero_lead: "Does your child go quiet at the words 'non-calculator paper'? There's usually a good reason, and that paper counts for just as much as the other two. Our GCSE Maths tutors for Banbury students work online on the paper most teenagers are quietly weakest at."
 
 angle_eyebrow: "NOWHERE TO HIDE"

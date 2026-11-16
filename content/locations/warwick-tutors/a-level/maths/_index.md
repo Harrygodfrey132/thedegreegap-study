@@ -1,5 +1,5 @@
 ---
-title: "Warwick A-Level Maths Tutors | Online | The Degree Gap"
+title: "Warwick A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Online A-Level Maths tutors for Warwick families. We find which of Pure, Mechanics or Statistics is holding your child back. From £37 an hour, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Warwick"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Warwick A-Level Maths Tutors Online, for Pure, Mechanics and Statistics"
+hero_h1: "A-Level Maths Tutors for Warwick Students"
 hero_lead: "A-Level Maths is really three courses sharing one grade, and hardly anyone is equally strong in all three. Our A-Level Maths tutors for Warwick students work out which one is pulling your child's grade down, and start there."
 
 angle_eyebrow: "THREE COURSES, ONE GRADE"

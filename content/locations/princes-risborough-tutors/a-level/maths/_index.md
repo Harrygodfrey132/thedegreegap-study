@@ -7,7 +7,7 @@ location: "Princes Risborough"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Princes Risborough Sixth Formers Who Found the Step Up Steep"
+hero_h1: "A-Level Maths Tutors for Princes Risborough Students"
 hero_lead: "Your child got a strong GCSE, and now Year 12 Maths is algebra that won't simplify and proofs nobody showed them how to start. Our A-Level Maths tutors for Princes Risborough students rebuild the algebra first, and the rest gets easier."
 
 angle_eyebrow: "WHERE THE GCSE ALGEBRA RUNS OUT"

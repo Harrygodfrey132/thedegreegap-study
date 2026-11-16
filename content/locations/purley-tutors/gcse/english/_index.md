@@ -7,7 +7,7 @@ location: "Purley"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Purley Students Who Know the Text but Not the Essay"
+hero_h1: "GCSE English Tutors for Purley Students"
 hero_lead: "Your child has read An Inspector Calls, can tell you the whole plot, and still gets 'more analysis needed' on every essay. Our GCSE English tutors for Purley students show them what an examiner wants from a paragraph, then practise it until it comes naturally."
 
 angle_eyebrow: "THERE'S NO ANSWER AT THE BACK"

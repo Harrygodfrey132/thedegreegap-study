@@ -7,7 +7,7 @@ location: "Orpington"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Orpington Students Who Lose Marks on Uncertainties and Graphs"
+hero_h1: "A-Level Physics Tutors for Orpington Students"
 hero_lead: "Your child can do the calculations, then a question about uncertainties, a graph's gradient or improving an experiment comes up and the marks drain away. Our A-Level Physics tutors for Orpington students make those questions routine."
 
 angle_eyebrow: "THE EXPERIMENT ON PAPER"

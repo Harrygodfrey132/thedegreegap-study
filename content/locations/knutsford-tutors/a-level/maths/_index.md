@@ -1,13 +1,13 @@
 ---
 title: "Knutsford A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "A shaky Year 12 Maths test after a strong GCSE is common. Knutsford A-Level Maths tutors show your child how to pick a method and lay out each step. From £37."
+description: "A shaky Year 12 Maths test after a strong GCSE is common. Online A-Level Maths tutors show Knutsford students how to pick a method and lay out each step."
 layout: "level-subject"
 location: "Knutsford"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Knutsford Sixth Formers"
+hero_h1: "A-Level Maths Tutors for Knutsford Students"
 hero_lead: "When the first Year 12 Maths test comes back covered in red ink after a strong GCSE, it's usually the questions that have changed, not your child. Online and one-to-one, our A-Level Maths tutors for Knutsford students help them choose the method and set out every step."
 
 card_heading: "Talk through your child's Year 12 Maths with us"
@@ -34,7 +34,7 @@ schools:
   - "The King's School, Macclesfield"
   - "Cheadle Hulme School"
 
-steps_heading: "Getting your child set up with a Knutsford A-Level Maths tutor"
+steps_heading: "Getting your child set up with an A-Level Maths tutor for Knutsford students"
 steps_lead: "Expect a first lesson within a week of calling. An autumn start in Year 12 leaves the most time before predicted grades are written."
 steps:
   - title: "Talk to us first"

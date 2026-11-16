@@ -1,9 +1,9 @@
 ---
 title: "York Tutoring | One-to-One Tuition | The Degree Gap"
-description: "Thinking about university before your child is? Our York tutors help with the GCSE and A-Level grades that keep options open, one-to-one online. From £37."
+description: "Thinking about university before your child is? Our tutors for York help with the GCSE and A-Level grades that keep options open, one-to-one online. From £37."
 layout: "single"
 location: "York"
-banner_heading: "Looking for an Online York Tutor Who'll Keep Your Child's GCSE and A-Level Options Open?"
+banner_heading: "GCSE and A-Level Tutors for York Families"
 banner_description: "It's normal in York to start wondering about university early, sometimes before your child does. Our tutors help with the GCSEs and A-Levels that keep those options open, online and one-to-one."
 content_angle: "a university city: parents thinking about university early, GCSE and A-Level grades as what keeps options open, without piling pressure on; help with A-Level choices and UCAS from founders who've been through it"
 intro_1: "Has your child started talking about university yet, or is that still just you? In York it tends to come up early. There are two universities in the city, so it's hard for it not to. Meanwhile your child is somewhere in Year 10 or 11, working steadily, with grades that are fine in some subjects and patchy in others. And you're wondering whether that's enough to keep their options open. It's a fair thing to wonder, and you're far from the only York parent asking."

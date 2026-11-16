@@ -1,11 +1,11 @@
 ---
 title: "Private A-Level Tutors in Abingdon | The Degree Gap"
-description: "Year 12 is a big step up, and predicted grades lean on it. Our Abingdon A-Level tutors work one-to-one online on whatever's costing your child marks. From £37."
+description: "Year 12 is a big step up, and predicted grades lean on it. Our A-Level tutors for Abingdon work online on whatever's costing your child marks. From £37."
 layout: "subject"
 location: "Abingdon"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors in Abingdon for Year 12, Before Predicted Grades Are Set"
+hero_heading_line1: "A-Level Tutors for Abingdon Students"
 hero_heading_line2: ""
 hero_lead: "If your child's first Year 12 test came back lower than any grade they got at GCSE, they're not alone. Our A-Level tutors for Abingdon students work out whether it's the content or the way the answers are written, one-to-one online, while most of Year 12 is still ahead."
 
@@ -14,14 +14,14 @@ grade_to: "C"
 grade_stat: "Joanna's son had left studying until 'the final hour', in her words, and still turned E and U grades into three Cs."
 
 first_lesson_eyebrow: "WHEN THE WORK STARTS LATE"
-first_lesson_heading: "What an Abingdon A-Level Tutor Does Before Teaching Anything New"
+first_lesson_heading: "What an A-Level Tutor for Abingdon Students Does Before Teaching Anything New"
 first_lesson_context: "Year 12 brings free periods, and with them the expectation that your child will use them well. Before teaching anything new, the A-Level tutor asks to see your child's notes and hear how they revised for the last test, as well as the marked paper itself. Quite often the knowledge is there and it's the way of working that needs to change."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to three Cs at A-Level"
 
-tutor_strip_heading: "Abingdon A-Level tutors who know the course your child chose"
+tutor_strip_heading: "A-Level tutors for Abingdon students who know the course your child chose"
 tutor_strip_body: "JMF6 alone offers around 30 subjects, and sixth forms can teach the same A-Level on different boards, so we'll ask about your child's exact course. Every tutor is interviewed by Harry or Joe, and only around 3% of applicants make the cut. A few profiles are below."
 
 pathways_heading: "After Year 13: Where Abingdon Sixth Formers Head Next"

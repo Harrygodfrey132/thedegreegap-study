@@ -7,7 +7,7 @@ location: "Nuneaton"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Nuneaton Students Lost in Organic Chemistry"
+hero_h1: "A-Level Chemistry Tutors for Nuneaton Students"
 hero_lead: "Your child learnt each reaction on its own, and now a question asks them to plan a three-step synthesis and nothing joins up. Our A-Level Chemistry tutors for Nuneaton students teach the patterns underneath, so the mechanisms make sense instead of being memorised one by one."
 
 angle_eyebrow: "FROM ALKANES TO AMINES"

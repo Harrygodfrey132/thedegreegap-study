@@ -1,13 +1,13 @@
 ---
 title: "Leicester A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Leicester A-Level Maths tutors, online and one-to-one, teaching your child to write the working that earns the marks, from proof to 'show that'. From £37."
+description: "A-Level Maths tutors for Leicester, online and one-to-one, teaching your child to write the working that earns the marks, from proof to 'show that'. From £37."
 layout: "level-subject"
 location: "Leicester"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "A-Level Maths Tutors for Leicester Students, One-to-One"
+hero_h1: "A-Level Maths Tutors for Leicester Students"
 hero_lead: "If you never sat A-Level Maths yourself, it's hard to tell from the kitchen table why a right answer scored two out of six. Our A-Level Maths tutors for Leicester students can, and they teach your child to write the working that earns the other four."
 
 angle_eyebrow: "RIGHT ANSWER, TWO MARKS OUT OF SIX"

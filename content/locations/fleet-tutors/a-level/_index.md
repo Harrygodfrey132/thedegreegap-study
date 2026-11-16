@@ -1,11 +1,11 @@
 ---
 title: "Fleet A-Level Tutors | The Degree Gap"
-description: "A new college, new teachers and a big step up from GCSE, all at once. Our Fleet A-Level tutors take it one subject at a time, online, from £37 an hour."
+description: "A new college, new teachers and a big step up from GCSE, all at once. Our A-Level tutors for Fleet take it one subject at a time, online, from £37 an hour."
 layout: "subject"
 location: "Fleet"
 level: "A-Level"
 
-hero_heading_line1: "Online Fleet A-Level Tutors for the First Term at a New College"
+hero_heading_line1: "A-Level Tutors for Fleet Students"
 hero_heading_line2: ""
 hero_lead: "Your child has swapped a school they knew for a college where they hardly know anyone, and the work has jumped a level at the same time. Our A-Level tutors for Fleet students start with the subject that's slipping, one-to-one and online, before it drags the others down."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "Alexander's child went from Cs to As, and the tutors helped with picking universities and the application too."
 
 first_lesson_eyebrow: "AFTER THE MOVE AT SIXTEEN"
-first_lesson_heading: "Where a Fleet A-Level Tutor Starts When Year 12 Feels Too Fast"
+first_lesson_heading: "Where an A-Level Tutor for Fleet Students Starts When Year 12 Feels Too Fast"
 first_lesson_context: "At college your child probably has classmates from lots of different schools, new teachers and free periods to organise for themselves. The first marked essays and tests usually show where it's pinching. An A-Level tutor's first lesson starts there, with your child explaining how they went about each answer, so the plan fits the way they actually work."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Cs to As at A-Level"
 
-tutor_strip_heading: "Fleet A-Level tutors for the subjects your child picked"
+tutor_strip_heading: "A-Level tutors for Fleet students, for the subjects your child picked"
 tutor_strip_body: "Some A-Levels may be brand new to your child, like Psychology or Economics, and others, like Maths, are a big step up from GCSE. For each one, we'll find a tutor who knows the board your child's college uses. Some profiles are below if you'd like a look first."
 
 pathways_heading: "Where Your Child Could Go After Year 13"

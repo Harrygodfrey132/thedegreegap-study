@@ -7,7 +7,7 @@ location: "Bury St Edmunds"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Bury St Edmunds Students Tangled Up in Mechanisms"
+hero_h1: "A-Level Chemistry Tutors for Bury St Edmunds Students"
 hero_lead: "Curly arrows that looked clear in class stop making sense in a test, and a long calculation goes wrong in its second line. Our A-Level Chemistry tutors for Bury St Edmunds students take both slowly, then build up speed with exam questions from your child's board."
 
 angle_eyebrow: "WHAT GIVES A FLAVOUR ITS SMELL"

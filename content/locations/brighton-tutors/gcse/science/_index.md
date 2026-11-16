@@ -1,13 +1,13 @@
 ---
-title: "Brighton GCSE Science Tutors | Online | The Degree Gap"
+title: "Brighton GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Questions about someone else's experiment cost lots of children Science marks. Our Brighton GCSE Science tutors practise them with your child online. From £37."
+description: "Questions about someone else's experiment cost lots of children Science marks. Our GCSE Science tutors for Brighton practise them with your child online."
 layout: "level-subject"
 location: "Brighton"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Brighton and Hove"
+hero_h1: "GCSE Science Tutors for Brighton Students"
 hero_lead: "Your child can explain photosynthesis perfectly, then goes blank when a question hands them someone else's experiment and asks what went wrong. Our GCSE Science tutors for Brighton students work on exactly those questions, one-to-one and online, alongside the content your child already knows."
 
 angle_eyebrow: "THE MARKS HIDING IN SOMEONE ELSE'S EXPERIMENT"
@@ -28,7 +28,7 @@ schools:
   - "Longhill High School"
   - "PACA"
 
-steps_heading: "How Your Child Gets Started With a Brighton Science Tutor"
+steps_heading: "How Your Child Gets Started With a Science Tutor for Brighton Students"
 steps_lead: "Most families see tutor profiles the day after their call. In Year 11 the college applications and the mocks land close together, so an earlier start takes the pressure off."
 steps:
   - title: "A chat with Harry or Joe"

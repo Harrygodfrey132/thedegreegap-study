@@ -1,13 +1,13 @@
 ---
 title: "A-Level Maths Tutors for Royston | The Degree Gap"
 nav_title: "Maths"
-description: "Year 12 Maths in Baldock or Cambridge, and the first tests came back low? Our Royston A-Level Maths tutors work one-to-one with your child online. From £37."
+description: "Year 12 Maths in Baldock or Cambridge, and the first tests came back low? Our A-Level Maths tutors for Royston work one-to-one with your child online. From £37."
 layout: "level-subject"
 location: "Royston"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Royston, Wherever Your Child's Sixth Form Is"
+hero_h1: "A-Level Maths Tutors for Royston Students"
 hero_lead: "A first Year 12 Maths test that comes back with a D or an E can shake a teenager who's always been good at Maths. Our A-Level Maths tutors for Royston students go through that test with your child, one-to-one online, and start from the first step that went wrong."
 
 card_eyebrow: "FREE A-LEVEL MATHS CALL"

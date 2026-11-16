@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors for Windsor Students | The Degree Gap"
+title: "GCSE Tutors for Windsor Students | The Degree Gap"
 description: "Is Year 11 arriving faster than your child is ready for? We match Windsor students with an online GCSE tutor who knows their exam board. From £37, no contract."
 layout: "subject"
 location: "Windsor"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Windsor Teenagers Before Year 11 Decides What Comes Next"
+hero_heading_line1: "GCSE Tutors for Windsor Students"
 hero_heading_line2: ""
 hero_lead: "Year 11 tends to arrive faster than anyone at home expects, with mocks in the winter and sixth form choices straight after. Our GCSE tutors for Windsor students find the subject that's costing your child marks and work on it while there's still time."
 

@@ -1,13 +1,13 @@
 ---
 title: "GCSE English Tutors Covering Ipswich | The Degree Gap"
 nav_title: "English"
-description: "Online GCSE English tutors covering Ipswich for Language and Literature, built around unseen poetry and the comparison question. From £37 an hour."
+description: "Online GCSE English tutors for Ipswich, for Language and Literature, built around unseen poetry and the comparison question. From £37 an hour."
 layout: "level-subject"
 location: "Ipswich"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English tutors for the Ipswich Year 11 whose unseen poetry stalls"
+hero_h1: "GCSE English Tutors for Ipswich Students"
 hero_lead: "Set texts get learned. Then a poem nobody has ever seen turns up on the paper and the plan runs out. Our GCSE English tutors for Ipswich students teach the bit that cannot be revised, one-to-one and online over Lessonspace."
 
 angle_eyebrow: "WHAT THE UNSEEN POEM EXPOSES"

@@ -7,7 +7,7 @@ location: "Salford"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "A-Level Economics Tutors for Salford Students Who Explain but Don't Evaluate"
+hero_h1: "A-Level Economics Tutors for Salford Students"
 hero_lead: "Your child's essay explains the theory, draws the diagram, and then just stops, so the marks for judging it never arrive. Our A-Level Economics tutors for Salford students teach your child to weigh each point up, with real examples from right around MediaCityUK."
 
 angle_eyebrow: "WHEN THE BBC MOVED NORTH"

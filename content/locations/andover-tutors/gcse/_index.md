@@ -1,11 +1,11 @@
 ---
-title: "GCSE Tutors for Andover Students | Online One-to-One"
+title: "GCSE Tutors for Andover Students | One-to-One"
 description: "Your child moves on at 16 from every Andover state school. We match them with an online GCSE tutor on their exam board, for the grades their course needs."
 layout: "subject"
 location: "Andover"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Andover Teenagers With a College Course in Mind"
+hero_heading_line1: "GCSE Tutors for Andover Students"
 hero_heading_line2: ""
 hero_lead: "At 16 your child moves on somewhere new, and the course they want will ask for its own grades, subject by subject. Our GCSE tutors for Andover students find which subjects are furthest from those grades and start there."
 

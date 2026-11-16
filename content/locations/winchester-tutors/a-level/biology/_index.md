@@ -1,13 +1,13 @@
 ---
-title: "Winchester A-Level Biology Tutors | Online | The Degree Gap"
+title: "Winchester A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Our Winchester A-Level Biology tutors help when plant responses, IAA and the classic shoot experiments keep costing your child marks. Online, from £37 an hour."
+description: "Our A-Level Biology tutors for Winchester help when plant responses, IAA and the classic shoot experiments keep costing your child marks. Online, from £37."
 layout: "level-subject"
 location: "Winchester"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors, Matched for Winchester Families"
+hero_h1: "A-Level Biology Tutors for Winchester Students"
 hero_lead: "Your child's Biology folder usually ends with how plants respond to light and gravity. It's revised last, and that's where marks slip. Our A-Level Biology tutors for Winchester students work through IAA, the hormone behind it, and the classic experiments the questions use."
 
 angle_eyebrow: "THE TOPIC AT THE BACK OF THE FOLDER"

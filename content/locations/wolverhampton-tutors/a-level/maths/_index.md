@@ -1,5 +1,5 @@
 ---
-title: "Wolverhampton A-Level Maths Tutors | Online | The Degree Gap"
+title: "Wolverhampton A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Is Year 12 Maths suddenly a struggle? Our online Wolverhampton A-Level Maths tutors go back to the surds, indices and algebra underneath. From £37, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Wolverhampton"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Wolverhampton, Back to the Algebra First"
+hero_h1: "A-Level Maths Tutors for Wolverhampton Students"
 hero_lead: "If your child has stalled in Year 12 Maths, this week's topic is rarely the real problem. Our A-Level Maths tutors for Wolverhampton students go back to surds, indices and the algebra everything else rests on, then build forward from there."
 
 angle_eyebrow: "IT'S RARELY THIS WEEK'S LESSON"
@@ -28,7 +28,7 @@ schools:
   - "Heath Park Academy"
   - "Smestow Academy"
 
-steps_heading: "Three Steps to an A-Level Maths Tutor in Wolverhampton"
+steps_heading: "Three Steps to an A-Level Maths Tutor for Wolverhampton Students"
 steps_lead: "Most Wolverhampton families see tutor profiles within a day of the call. In Maths, one shaky topic makes the next harder, so starting early beats extra lessons later."
 steps:
   - title: "Tell us when it started to slip"

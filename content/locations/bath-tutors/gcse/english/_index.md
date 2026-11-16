@@ -1,13 +1,13 @@
 ---
 title: "Bath GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Bath GCSE English tutors for when your child spots every technique but the essay never builds an argument. Online and one-to-one, from £37 an hour."
+description: "GCSE English tutors for Bath, for when your child spots every technique but the essay never builds an argument. Online and one-to-one, from £37 an hour."
 layout: "level-subject"
 location: "Bath"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors in Bath for Essays Full of Techniques but No Argument"
+hero_h1: "GCSE English Tutors for Bath Students"
 hero_lead: "Your child's essay names a metaphor, a simile and a semicolon, and the mark scheme is still waiting for a point about what the writer wants. Our GCSE English tutors for Bath students build that argument with your child, one-to-one and online, before the next timed essay."
 
 angle_eyebrow: "A TECHNIQUE SPOTTED ISN'T AN ARGUMENT"
@@ -29,7 +29,7 @@ schools:
   - "King Edward's School Bath"
   - "St Mark's CE School"
 
-steps_heading: "Your first steps to a Bath GCSE English tutor"
+steps_heading: "Your first steps to a GCSE English tutor for Bath students"
 steps_lead: "You'll get two or three tutor profiles within a day. If there's an essay at home with 'more analysis' written on it, dig it out. That's where the first lesson starts."
 steps:
   - title: "Talk to Harry or Joe"

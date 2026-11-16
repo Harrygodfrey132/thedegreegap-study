@@ -7,7 +7,7 @@ location: "Hampstead"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Hampstead Students Who Lose Their Way in Organic Routes"
+hero_h1: "A-Level Chemistry Tutors for Hampstead Students"
 hero_lead: "Your child can draw each mechanism on its own, then a question asks for a three-step synthesis and they can't see how to get from start to finish. Our A-Level Chemistry tutors for Hampstead students teach them to work a route backwards from the product."
 
 angle_eyebrow: "WORKING BACKWARDS FROM THE PRODUCT"

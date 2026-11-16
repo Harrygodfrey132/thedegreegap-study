@@ -1,13 +1,13 @@
 ---
-title: "Leamington Spa GCSE English Tutors | Online | The Degree Gap"
+title: "Leamington Spa GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Starting in Year 9 or 10 gives your child's creative writing time to grow. Our Royal Leamington Spa GCSE English tutors work online, from £37 an hour."
+description: "Starting in Year 9 or 10 gives your child's creative writing time to grow. Our GCSE English tutors for Royal Leamington Spa work online, from £37 an hour."
 layout: "level-subject"
 location: "Royal Leamington Spa"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutoring in Royal Leamington Spa"
+hero_h1: "GCSE English Tutors for Royal Leamington Spa Students"
 hero_lead: "With your child in Year 9 or 10 and English going fine, you might wonder what a tutor would even work on. Often it's the creative writing, which grows slowly, and our GCSE English tutors for Royal Leamington Spa students build it one short piece at a time."
 
 angle_eyebrow: "WHY CREATIVE WRITING NEEDS A HEAD START"

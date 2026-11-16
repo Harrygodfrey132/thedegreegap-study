@@ -1,11 +1,11 @@
 ---
-title: "Colchester A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "Year 12 shapes the predicted grade. Colchester A-Level tutors mark your child's essays and answers one-to-one online, matched to their exam board. From £37."
+title: "Colchester A-Level Tutors | One-to-One | The Degree Gap"
+description: "Year 12 shapes the predicted grade. A-Level tutors for Colchester mark your child's essays and answers one-to-one online, matched to their exam board. From £37."
 layout: "subject"
 location: "Colchester"
 level: "A-Level"
 
-hero_heading_line1: "Online Colchester A-Level Tutors for the Year That Sets the Prediction"
+hero_heading_line1: "A-Level Tutors for Colchester Students"
 hero_heading_line2: ""
 hero_lead: "For a lot of Colchester families, Year 12 means a college of a few thousand. It's also the year the predicted grade quietly takes shape. Our A-Level tutors for Colchester students work one-to-one online with your child, going through the essays and answers they've actually written."
 
@@ -14,7 +14,7 @@ grade_to: "A"
 grade_stat: "A parent's review: their son ended up almost two grades above his Year 13 mock. That's the sort of climb weekly lessons work towards."
 
 first_lesson_eyebrow: "THE SIXTH FORM COLLEGE STEP"
-first_lesson_heading: "Where a Colchester A-Level Tutor Fits When the Class Gets Bigger"
+first_lesson_heading: "Where an A-Level Tutor for Colchester Students Fits When the Class Gets Bigger"
 first_lesson_context: "An essay comes back with a grade and a line of comment, and your child isn't sure what to change next time. Colchester Sixth Form College is one of the bigger ones in the country, and at that size there's rarely time to sit with one teenager over one essay each week. A tutor does just that, marking your child's answer against the real mark scheme and having them write it again, since that's usually where a C turns into an A."
 
 first_lesson_quote: "My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
@@ -22,7 +22,7 @@ first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "A-Level"
 
-tutor_strip_heading: "Colchester A-Level tutors who start with your child's exam board"
+tutor_strip_heading: "A-Level tutors for Colchester students who start with your child's exam board"
 tutor_strip_body: "Knowing the subject isn't enough at A-Level, because boards set different papers and schools often pick different topics. We'll pin down your child's exact papers on the consultation call. Each tutor has at least two years of tutoring behind them. Browse a few, or let us match your child."
 
 pathways_heading: "What Comes After A-Levels in Colchester"

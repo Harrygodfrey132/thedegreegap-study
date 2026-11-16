@@ -7,7 +7,7 @@ location: "Rugby"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Rugby Teenagers Who Know the Book but Lose the Marks"
+hero_h1: "GCSE English Tutors for Rugby Students"
 hero_lead: "Your child has read An Inspector Calls twice and can tell you exactly what happens, yet the essay comes back with 'more analysis needed' in the margin. Our GCSE English tutors for Rugby students teach them to write about how a writer works, not just what the story does."
 
 angle_eyebrow: "WHERE THE ENGLISH GRADE TURNS UP"

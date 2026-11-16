@@ -1,5 +1,5 @@
 ---
-title: "Sunbury-on-Thames A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Sunbury-on-Thames A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Online A-Level Chemistry tutors for Sunbury-on-Thames families. If spectra questions leave your child guessing, our tutors teach a method. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Sunbury-on-Thames"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Families in Sunbury-on-Thames"
+hero_h1: "A-Level Chemistry Tutors for Sunbury-on-Thames Students"
 hero_lead: "Your child gets a few spectra, the read-outs from lab instruments, and one question: what's the compound? Plenty of teenagers freeze, because there's no answer to revise. Our A-Level Chemistry tutors for Sunbury-on-Thames students teach the method instead."
 
 angle_eyebrow: "WORK OUT WHAT THE COMPOUND IS"

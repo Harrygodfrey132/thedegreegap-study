@@ -7,7 +7,7 @@ location: "Huddersfield"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Huddersfield Students, Where Two Grades Rise or Fall Together"
+hero_h1: "GCSE Science Tutors for Huddersfield Students"
 hero_lead: "Combined Science gives your child two grades from one total, so marks dropped in Physics come off the same pile as the Biology they worked hard for. Our GCSE Science tutors for Huddersfield students find the paper dragging the total down and work there first."
 
 angle_eyebrow: "ONE TOTAL, TWO GRADES"

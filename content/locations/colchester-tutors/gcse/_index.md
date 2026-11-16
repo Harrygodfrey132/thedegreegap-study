@@ -1,11 +1,11 @@
 ---
 title: "Colchester GCSE Tutors | Year 10 and Year 11 | The Degree Gap"
-description: "Colchester GCSE tutors who work back from the grade your child's sixth form or college asks for. One-to-one online lessons, matched to the exam board. From £37."
+description: "GCSE tutors for Colchester who work back from the grade your child's sixth form or college asks for. Online lessons, matched to the exam board. From £37."
 layout: "subject"
 location: "Colchester"
 level: "GCSE"
 
-hero_heading_line1: "Online Colchester GCSE Tutors for the Questions Where Your Child Loses Marks"
+hero_heading_line1: "GCSE Tutors for Colchester Students"
 hero_heading_line2: ""
 hero_lead: "By Year 11 most Colchester families have a sixth form or college course in mind, and each one publishes the grades it asks for. Our GCSE tutors for Colchester students aim for the grade your child needs, spending lessons on the questions where they drop the most marks."
 
@@ -23,7 +23,7 @@ first_lesson_quote_name: "Augusta"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "GCSE"
 
-tutor_strip_heading: "Colchester GCSE tutors picked for your child's board and subject"
+tutor_strip_heading: "GCSE tutors for Colchester students picked for your child's board and subject"
 tutor_strip_body: "Harry or Joe interviews every tutor, listening for how clearly they explain to a child who's stuck, and around 3% of applicants get through. We also check which exam board your child's school uses, since it varies across Essex. Browse the profiles, or we can pick for you."
 
 pathways_heading: "What Comes After GCSEs for Colchester Teenagers"

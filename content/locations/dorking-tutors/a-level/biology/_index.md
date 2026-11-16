@@ -7,7 +7,7 @@ location: "Dorking"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Dorking Students Whose Long Answers Lose Marks"
+hero_h1: "A-Level Biology Tutors for Dorking Students"
 hero_lead: "Your child knows the biology, then a long question asks them to link two topics and the answer wanders off. Our A-Level Biology tutors for Dorking students practise those linked answers until they're tight and in the right order."
 
 angle_eyebrow: "A FIELD COURSE ON THE DOORSTEP"

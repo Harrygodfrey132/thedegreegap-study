@@ -1,5 +1,5 @@
 ---
-title: "Sheffield A-Level Physics Tutors | Online | The Degree Gap"
+title: "Sheffield A-Level Physics Tutors | The Degree Gap"
 nav_title: "Physics"
 description: "Online A-Level Physics tutors for Sheffield families. If Year 13 fields have your child stuck with nothing to picture, there's another way in. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Sheffield"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutoring Across Sheffield"
+hero_h1: "A-Level Physics Tutors for Sheffield Students"
 hero_lead: "Physics was going fine until fields turned up in Year 13, and now your child can't see how any of it fits. Our A-Level Physics tutors for Sheffield students help them swap picturing things for working from definitions."
 
 angle_eyebrow: "WHEN THERE'S NOTHING LEFT TO PICTURE"

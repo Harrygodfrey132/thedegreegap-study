@@ -1,11 +1,11 @@
 ---
 title: "Godalming GCSE Tutors | The Degree Gap"
-description: "Our Godalming GCSE tutors give one-to-one online lessons in the subject your child needs most, because each Godalming College course asks for its own grades."
+description: "Our GCSE tutors for Godalming give online lessons in the subject your child needs most, because each Godalming College course asks for its own grades."
 layout: "subject"
 location: "Godalming"
 level: "GCSE"
 
-hero_heading_line1: "Online Godalming GCSE Tutors for the Subject That's Lagging Behind the Rest"
+hero_heading_line1: "GCSE Tutors for Godalming Students"
 hero_heading_line2: ""
 hero_lead: "It's rarely every subject. More often one lags behind the rest, and it can be the one your child's next course depends on. Our GCSE tutors for Godalming students give that subject proper time, one-to-one and online, whether the aim is a safe pass or a higher grade."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "Omo's son was disengaged from English in Year 10. After six months of lessons, she says, he improved from a grade 5 to a 6/7."
 
 first_lesson_eyebrow: "WHEN ENGLISH IS THE WEAK ONE"
-first_lesson_heading: "What a Godalming GCSE Tutor Wants to See First"
+first_lesson_heading: "What a GCSE Tutor for Godalming Students Wants to See First"
 first_lesson_context: "If one subject keeps dragging down an otherwise decent report, lots of parents tell us the same. A GCSE tutor asks for the latest marked work in that subject before anything else, because the marks your child dropped say far more than the grade written at the top."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to a 6/7 in GCSE English"
 
-tutor_strip_heading: "Godalming GCSE tutors chosen to fit your child's board and college plans"
+tutor_strip_heading: "GCSE tutors for Godalming students chosen to fit your child's board and college plans"
 tutor_strip_body: "Broadwater, Rodborough, Charterhouse and the rest each choose their own exam boards, so two friends can be sitting different papers. We ask about your child's board on the call, and every profile we send matches it. Browse a few, or let us draw up the shortlist."
 
 pathways_heading: "Sixteen in Godalming: Where Your Child Could Go Next"

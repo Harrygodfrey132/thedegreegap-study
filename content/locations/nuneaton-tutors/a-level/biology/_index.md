@@ -7,7 +7,7 @@ location: "Nuneaton"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Nuneaton Students With the Notes but Not the Marks"
+hero_h1: "A-Level Biology Tutors for Nuneaton Students"
 hero_lead: "Your child has pages of Biology notes, and the long questions still seem to want something the notes don't quite say. Our A-Level Biology tutors for Nuneaton students show them how to link topics together and write answers in the terms the mark scheme rewards."
 
 angle_eyebrow: "THE PAPER THAT LINKS IT ALL"
@@ -38,7 +38,7 @@ steps:
     body: "A lesson each week on Lessonspace, with diagrams of pathways and cells drawn on a shared whiteboard and a replay of every lesson. From £37 an hour, with no contract, and a different tutor free of charge if your child doesn't get on with the first."
 
 faqs:
-  - q: "My daughter wants to study Medicine. Can an A-Level Biology tutor in Nuneaton help?"
+  - q: "My daughter wants to study Medicine. Can an A-Level Biology tutor for Nuneaton students help?"
     a: "Yes, with the Biology itself and with the wider application. Medical schools ask for top A-Level grades, usually with Chemistry and often Biology, and most also use the UCAT admissions test and interviews. A tutor works on the long-answer and synoptic questions that separate the top grades. Help with the personal statement is available too. Leicester and Aston both teach undergraduate Medicine within an hour of Nuneaton, so open days are easy to get to."
   - q: "What does a typical A-Level Biology lesson with a tutor look like?"
     a: "Usually three parts. It opens with last week's questions, which the tutor has marked, and a quick chat about anything that went wrong. Then the tutor teaches or revisits one topic, often by drawing it out on the shared whiteboard, a cycle or a pathway built up step by step. The rest is exam practice on that topic, with the mark scheme alongside so your child sees exactly which words earn the marks. There's a short set of questions to try before next time."

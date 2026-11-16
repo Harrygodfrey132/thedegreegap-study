@@ -1,9 +1,9 @@
 ---
 title: "Bicester Tutors | One-to-One Tuition | The Degree Gap"
-description: "New to Bicester, or new to a school here? Our Bicester tutors pick up wherever your child's course has got to, one-to-one and online. From £37, no contract."
+description: "New to Bicester, or new to a school here? Our tutors for Bicester pick up wherever your child's course has got to, one-to-one and online. From £37, no contract."
 layout: "single"
 location: "Bicester"
-banner_heading: "Online Bicester tutoring for the year your child starts somewhere new"
+banner_heading: "GCSE and A-Level Tutors for Bicester Families"
 banner_description: "Moving house can mean a new school halfway through Year 10, sometimes with a different exam board. We'll match your child with a tutor who finds what got lost in the move, all online."
 content_angle: "a fast-growing garden town where plenty of families are new to the area, its schools and its sixth form choices, so children often join a course partway through"
 intro_1: "The boxes are mostly unpacked. Your child has a new form group, and the timetable is finally starting to make sense. Then the homework arrives. It's on a topic their old school hadn't reached yet, or one they already did last spring. Bicester has grown fast, with whole neighbourhoods like Kingsmere and Elmsbrook built from scratch, and since 2014 it's been a garden town with thousands more homes planned. So plenty of families here are working all this out for the first time. And there isn't always someone down the road whose child has already done Year 11 at the same school."

@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors for Your Child in Basildon | The Degree Gap"
+title: "GCSE Tutors for Your Child in Basildon | The Degree Gap"
 description: "Worried about your child's GCSEs in Basildon? We'll match them with an online GCSE tutor who knows their exam board. Free call first, lessons from £37 an hour."
 layout: "subject"
 location: "Basildon"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE tutoring for Basildon students, from the first wobble in Year 10 to the last paper"
+hero_heading_line1: "GCSE Tutors for Basildon Students"
 hero_heading_line2: ""
 hero_lead: "Year 10 is when GCSE content steps up, and at the Basildon Academies it's a new building too. We match your child with an online GCSE tutor who knows their exam board, and every lesson happens from home."
 

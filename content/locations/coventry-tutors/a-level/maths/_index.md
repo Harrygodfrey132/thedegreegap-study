@@ -1,5 +1,5 @@
 ---
-title: "Coventry A-Level Maths Tutors | Online | The Degree Gap"
+title: "Coventry A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Online A-Level Maths tutoring for Coventry families whose Year 12s find quadratics and other GCSE topics harder second time round. From £37, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Coventry"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutoring for Coventry and Warwickshire Families"
+hero_h1: "A-Level Maths Tutors for Coventry Students"
 hero_lead: "The first Year 12 test comes back, it's mostly quadratics, and the mark is lower than anything your child got at GCSE. Our A-Level Maths tutors for Coventry students show them what completing the square and the discriminant are used for at A-Level."
 
 angle_eyebrow: "OLD GCSE TOPICS, NEW A-LEVEL QUESTIONS"

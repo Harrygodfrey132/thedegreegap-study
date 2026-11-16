@@ -1,13 +1,13 @@
 ---
-title: "Online GCSE English Tutors | Exeter | The Degree Gap"
+title: "GCSE English Tutors | Exeter | The Degree Gap"
 nav_title: "English"
-description: "GCSE English tutors for Exeter families whose child has written English off. Nearly every Exeter College course asks for a 4 in English. From £37, no contract."
+description: "Online GCSE English tutors for Exeter families whose child has written English off. Nearly every Exeter College course asks for a 4. From £37, no contract."
 layout: "level-subject"
 location: "Exeter"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutoring in Exeter for the Child Who's Written English Off"
+hero_h1: "GCSE English Tutors for Exeter Students"
 hero_lead: "Your son's decided English isn't his subject, and since he wants to do engineering, he reckons that's fine. It isn't. Nearly every Exeter College course asks for English, and our GCSE English tutors for Exeter students are used to teenagers who'd rather be doing something else."
 
 angle_eyebrow: "THE SUBJECT EVERY EXETER ROUTE ASKS FOR"

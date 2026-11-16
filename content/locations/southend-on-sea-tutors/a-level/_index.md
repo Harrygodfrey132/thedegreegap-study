@@ -1,11 +1,11 @@
 ---
 title: "Southend-on-Sea A-Level Tutors | Expert Support | The Degree Gap"
-description: "Southend-on-Sea A-Level tutors for the Year 12 term that sets the prediction. One-to-one tutoring online over Lessonspace, matched on the specification."
+description: "A-Level tutors for Southend-on-Sea, for the Year 12 term that sets the prediction. One-to-one tutoring online over Lessonspace, matched on the specification."
 layout: "subject"
 location: "Southend-on-Sea"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors Working With Southend-on-Sea Families on the Year 12 Slide"
+hero_heading_line1: "A-Level Tutors for Southend-on-Sea Students"
 hero_heading_line2: ""
 hero_lead: "Nothing dramatic happened in Year 12. The report kept saying working hard, and then Year 13 opened on content that assumed the first year had landed. Our A-Level tutors for Southend-on-Sea students go back for the parts that did not, one-to-one and online over Lessonspace."
 
@@ -21,7 +21,7 @@ first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Almost two grades on from the Year 13 mock"
 
-tutor_strip_heading: "Southend-on-Sea A-Level tutors who remember which Year 12 topics come back"
+tutor_strip_heading: "A-Level tutors for Southend-on-Sea students who remember which Year 12 topics come back"
 tutor_strip_body: "Most are recent graduates who sat these specifications themselves, so they know which October topic Year 13 quietly leans on. Each clears a founder-led interview that around 3% of applicants pass. Every hour is one-to-one and online on Lessonspace. Tell us the board and the modules and we will shortlist."
 
 pathways_heading: "What a Southend-on-Sea Year 13 Is Choosing Between"

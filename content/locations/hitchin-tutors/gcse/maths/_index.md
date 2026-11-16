@@ -1,13 +1,13 @@
 ---
 title: "GCSE Maths Tutors for Hitchin | The Degree Gap"
 nav_title: "Maths"
-description: "When your child revises every topic and still loses marks, our Hitchin GCSE Maths tutors start from their marked paper instead. One-to-one online, from £37."
+description: "When your child revises every topic and still loses marks, our GCSE Maths tutors for Hitchin start from their marked paper instead. One-to-one online, from £37."
 layout: "level-subject"
 location: "Hitchin"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutoring for Hitchin That Starts From Your Child's Marked Paper"
+hero_h1: "GCSE Maths Tutors for Hitchin Students"
 hero_lead: "A revision list shows what your child's been taught. A marked paper shows what's actually costing them marks. Our GCSE Maths tutors for Hitchin students start from the paper, in one-to-one lessons online."
 
 angle_eyebrow: "THE CONSORTIUM'S MATHS BAR"
@@ -28,7 +28,7 @@ schools:
   - "Fearnhill School"
   - "The Highfield School"
 
-steps_heading: "Your first three steps with a Hitchin GCSE Maths tutor"
+steps_heading: "Your first three steps with a GCSE Maths tutor for Hitchin students"
 steps_lead: "Mention the consortium courses your child has in mind, since several look at the Maths grade. Within a day of the call, you'll be looking at tutor profiles."
 steps:
   - title: "A free chat with Harry or Joe, the co-founders"

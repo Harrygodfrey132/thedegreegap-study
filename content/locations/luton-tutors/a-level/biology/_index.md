@@ -7,7 +7,7 @@ location: "Luton"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "A-Level Biology Tutors for Luton Sixth Formers Facing Statistics They Didn't Expect"
+hero_h1: "A-Level Biology Tutors for Luton Students"
 hero_lead: "Your child chose Biology for the living things, then a genetics question asked for a chi-squared test and the answer stopped halfway. Our A-Level Biology tutors for Luton students work through the statistics, the long answers and the pathways at a pace your child can keep."
 
 angle_eyebrow: "WHY A BIOLOGY COURSE COMES WITH CORE MATHS"

@@ -7,7 +7,7 @@ location: "Marlborough"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Marlborough Sixth Formers Feeling the Jump From GCSE"
+hero_h1: "A-Level Maths Tutors for Marlborough Students"
 hero_lead: "Your child passed GCSE Maths comfortably, and now indices, surds and a proof are all on the same sheet of homework. Our A-Level Maths tutors for Marlborough students make the GCSE algebra quick first, because two-thirds of the course leans on it."
 
 angle_eyebrow: "SUMMER WORK, THEN SEPTEMBER"

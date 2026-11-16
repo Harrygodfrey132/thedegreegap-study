@@ -1,13 +1,13 @@
 ---
-title: "Tamworth GCSE Maths Tutors | Online | The Degree Gap"
+title: "Tamworth GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Tamworth GCSE Maths tutors who find the step your child keeps getting stuck on, and fix that first. Online and one-to-one, from £37 an hour, with no contract."
+description: "GCSE Maths tutors for Tamworth who find the step your child keeps getting stuck on, and fix that first. Online and one-to-one, from £37, with no contract."
 layout: "level-subject"
 location: "Tamworth"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutoring for Tamworth Families"
+hero_h1: "GCSE Maths Tutors for Tamworth Students"
 hero_lead: "Sixth form, college or an apprenticeship: whichever your child picks after Year 11, someone will ask for their Maths grade. Our GCSE Maths tutors for Tamworth students trace a shaky grade back to the older topic underneath, often from Year 8 or 9, and rebuild from there."
 
 angle_eyebrow: "ONE GRADE THAT FOLLOWS EVERY ROUTE"

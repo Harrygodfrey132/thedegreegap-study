@@ -1,9 +1,9 @@
 ---
-title: "Online Tutoring for Leighton Buzzard Families | The Degree Gap"
+title: "Tutoring for Leighton Buzzard Families | The Degree Gap"
 description: "Has your child wobbled since moving up to upper school in Leighton Buzzard? We'll match them with an online tutor who suits them. From £37 an hour, no contract."
 layout: "single"
 location: "Leighton Buzzard"
-banner_heading: "Online tutors for Leighton Buzzard children starting upper school and GCSEs in the same year"
+banner_heading: "GCSE and A-Level Tutors for Leighton Buzzard Families"
 banner_description: "Most children only need help with one or two subjects, not all of them, so we find out which first and then match your child with a tutor for exactly that."
 content_angle: "the move at 13: a new upper school, new teachers and GCSE options, all inside one school year"
 intro_1: "Year 9 is a big one in Leighton Buzzard. Most children leave their middle school at 13 and start again at Cedars or Vandyke, with a new building, a new bus and teachers who've never met them. Then, barely a term in, they're picking GCSE options. At Cedars, the 2026 options forms were due on 9 February. Plenty of children take all that in their stride. Some don't, and from the outside it mostly looks like 'fine' and a shut bedroom door. And if you're on the train back from Euston most evenings, you tend to hear about it last, usually when a report arrives."

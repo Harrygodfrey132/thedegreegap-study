@@ -7,7 +7,7 @@ location: "Enfield"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Enfield Students Losing Marks on Organic Routes"
+hero_h1: "A-Level Chemistry Tutors for Enfield Students"
 hero_lead: "Organic chemistry and the long calculations are where most A-Level Chemistry marks disappear, usually one small slip at a time. Our A-Level Chemistry tutors for Enfield students check your child's working line by line and fix the habits behind the slips."
 
 angle_eyebrow: "A CHEMISTRY COURSE WITH MATHS INSIDE IT"

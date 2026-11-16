@@ -7,7 +7,7 @@ location: "Wokingham"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Wokingham Students Sitting Edexcel or AQA"
+hero_h1: "GCSE Maths Tutors for Wokingham Students"
 hero_lead: "If your child is hoping for A-Level Maths, Physics or Economics at sixth form, their GCSE Maths grade decides more than you'd think. Our GCSE Maths tutors for Wokingham students find where marks leak on your child's own board and fix those questions first."
 
 angle_eyebrow: "ONE GRADE, SEVERAL A-LEVELS"

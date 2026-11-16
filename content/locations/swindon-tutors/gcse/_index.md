@@ -1,11 +1,11 @@
 ---
 title: "Swindon GCSE Tutors | One-to-One Support | The Degree Gap"
-description: "Swindon GCSE tutors for when your child revises for hours and the grade still won't move. One-to-one lessons online, matched to their exam board, from £37."
+description: "GCSE tutors for Swindon, for when your child revises for hours and the grade still won't move. One-to-one lessons online, matched to their exam board, from £37."
 layout: "subject"
 location: "Swindon"
 level: "GCSE"
 
-hero_heading_line1: "Online Swindon GCSE Tutors for When Hours of Revision Aren't Moving the Grade"
+hero_heading_line1: "GCSE Tutors for Swindon Students"
 hero_heading_line2: ""
 hero_lead: "More hours at the desk is what most families try first, and it's hard to watch when the grade stays put. Our GCSE tutors for Swindon students find the few question types really costing your child marks, and spend the lessons on those."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "Omo's son, in Year 10, went from a grade 5 to a 6/7 in English after six months of one-to-one tutoring."
 
 first_lesson_eyebrow: "A 5 TO A 6/7 IN SIX MONTHS"
-first_lesson_heading: "What a Swindon GCSE Tutor Does Differently in Week One"
+first_lesson_heading: "What a GCSE Tutor for Swindon Students Does Differently in Week One"
 first_lesson_context: "What Swindon parents tell us most is that effort isn't the problem: your child sits there for hours and the grade doesn't budge. Usually those hours go on topics they already understand, because that's the comfortable place to revise. So the tutor's first job is to read a marked paper and find where the marks are really going."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7. I honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset. …"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 6/7 in English"
 
-tutor_strip_heading: "Swindon GCSE tutors who know the papers your child will sit"
+tutor_strip_heading: "GCSE tutors for Swindon students who know the papers your child will sit"
 tutor_strip_body: "Commonweal, The Ridgeway and St Joseph's don't all use the same exam boards, so we match the tutor to your child's board first. Harry and Joe meet every tutor themselves, and only about 3% of applicants make it through. Scroll through the profiles, or we can pick for you."
 
 pathways_heading: "The Step After GCSEs Across Swindon"

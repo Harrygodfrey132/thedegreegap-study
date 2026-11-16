@@ -1,5 +1,5 @@
 ---
-title: "Chesham A-Level Biology Tutors | Online | The Degree Gap"
+title: "Chesham A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
 description: "Online A-Level Biology tutors for Chesham families. Courtship, species and classification: the easy-looking topics where marks slip. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Chesham"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Teenagers in Chesham"
+hero_h1: "A-Level Biology Tutors for Chesham Students"
 hero_lead: "If your child breezes through the topics that look easy and still drops marks on them, courtship behaviour is a likely culprit. Our A-Level Biology tutors for Chesham students work on why courtship matters, and on the species definition underneath it."
 
 angle_eyebrow: "THE SOFT TOPIC THAT ISN'T"
@@ -28,7 +28,7 @@ schools:
   - "The Amersham School"
   - "The Misbourne School"
 
-steps_heading: "Starting A-Level Biology with a Chesham tutor: how it works"
+steps_heading: "Starting A-Level Biology with a tutor for Chesham families: how it works"
 steps_lead: "Profiles normally reach Chesham families within 24 hours. It's all online, which helps when evenings are already squeezed by the commute."
 steps:
   - title: "Talk to us about your child"

@@ -1,13 +1,13 @@
 ---
-title: "Solihull GCSE Maths Tutors | Online | The Degree Gap"
+title: "Solihull GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Your child's on a 6 in Maths and the sixth form wants a 7? Our Solihull GCSE Maths tutors work on exactly that step, one-to-one and online. From £37 an hour."
+description: "Your child's on a 6 in Maths and the sixth form wants a 7? Our GCSE Maths tutors for Solihull work on exactly that step, one-to-one and online. From £37."
 layout: "level-subject"
 location: "Solihull"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Solihull GCSE Maths Tutors, Online and One-to-One"
+hero_h1: "GCSE Maths Tutors for Solihull Students"
 hero_lead: "The report says a 6, the sixth form wants a 7, and everyone says that's near enough. It isn't, quite. Our GCSE Maths tutors for Solihull students spend most of their time in the gap between those two numbers, helping your child finish the questions they already know how to start."
 
 angle_eyebrow: "THE GAP BETWEEN A SOLIHULL 6 AND A SOLIHULL 7"

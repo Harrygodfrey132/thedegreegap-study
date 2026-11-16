@@ -1,5 +1,5 @@
 ---
-title: "Online A-Level Physics Tutors for Chiswick Students | The Degree Gap"
+title: "A-Level Physics Tutors for Chiswick Students | The Degree Gap"
 nav_title: "Physics"
 description: "Are the gas laws and thermal physics catching your child out in Year 13? We match Chiswick sixth formers with an online A-Level Physics tutor. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Chiswick"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Chiswick Students Muddled by Gas Laws and Thermal Physics"
+hero_h1: "A-Level Physics Tutors for Chiswick Students"
 hero_lead: "Your child can recite pV = nRT, then a question mixes moles with molecules and Celsius with kelvin, and the answer comes out a thousand times too big. Our A-Level Physics tutors for Chiswick students untangle thermal physics one unit at a time."
 
 angle_eyebrow: "KELVIN, NOT CELSIUS"

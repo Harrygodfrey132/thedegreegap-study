@@ -7,7 +7,7 @@ location: "Ealing"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Ealing Students Who Get Stuck on the Maths"
+hero_h1: "GCSE Science Tutors for Ealing Students"
 hero_lead: "Lots of lost Science marks aren't really Science at all: a formula rearranged the wrong way, or a mass left in grams. Our GCSE Science tutors for Ealing students sort out the maths inside the science first, then the six-mark answers, online and one-to-one."
 
 angle_eyebrow: "THE MATHS INSIDE THE SCIENCE"

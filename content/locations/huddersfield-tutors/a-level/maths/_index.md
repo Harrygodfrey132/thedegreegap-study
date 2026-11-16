@@ -7,7 +7,7 @@ location: "Huddersfield"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Huddersfield Students Finding Year 12 Faster Than GCSE"
+hero_h1: "A-Level Maths Tutors for Huddersfield Students"
 hero_lead: "A-Level Maths moves quicker than GCSE, and a gap in one autumn topic can sit quietly until the Year 12 exams. Our A-Level Maths tutors for Huddersfield students find it early and practise papers that mix Pure with Mechanics and Statistics, the way AQA sets them."
 
 angle_eyebrow: "AQA, ON BOTH SIDES OF TOWN"

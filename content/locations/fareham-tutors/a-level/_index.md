@@ -1,11 +1,11 @@
 ---
-title: "Fareham A-Level Tutors | Online One-to-One | The Degree Gap"
+title: "Fareham A-Level Tutors | One-to-One | The Degree Gap"
 description: "A-Level tutoring in Fareham, online and one-to-one, for a predicted grade that isn't there yet, whether your child has university or an apprenticeship in mind."
 layout: "subject"
 location: "Fareham"
 level: "A-Level"
 
-hero_heading_line1: "Online Fareham A-Level Tutors for a Predicted Grade That's Not There Yet"
+hero_heading_line1: "A-Level Tutors for Fareham Students"
 hero_lead: "The predicted grade came home lower than the course asks for, and your child says they'll sort it. Online and one-to-one, our A-Level tutors for Fareham students work on the tests and essays that prediction is drawn from."
 
 grade_from: "C"
@@ -14,14 +14,14 @@ grade_stat: "What weekly lessons through Year 12 and into Year 13 are built to w
 grade_card: "aim"
 
 first_lesson_eyebrow: "TWO ROUTES, ONE SET OF GRADES"
-first_lesson_heading: "The Subject a Fareham A-Level Tutor Starts With"
+first_lesson_heading: "The Subject an A-Level Tutor for Fareham Students Starts With"
 first_lesson_context: "Your child may have Southampton or Portsmouth in mind, or a degree apprenticeship with a Solent employer. Both routes look hard at the predicted grade. So the first weeks of A-Level tutoring go on whichever subject is furthest behind."
 first_lesson_quote: "My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
 first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "A-Level"
 
-tutor_strip_heading: "Fareham A-Level tutors matched to your child's exact course"
+tutor_strip_heading: "A-Level tutors for Fareham students matched to your child's exact course"
 tutor_strip_body: "Two Year 12s on one Fareham street can take the same A-Level with different boards, in a different order, so we check which course your child's on. About 3% of applicants get in. A free call with Harry or Joe, who run The Degree Gap, is where to start."
 
 pathways_heading: "After Sixth Form in Fareham"

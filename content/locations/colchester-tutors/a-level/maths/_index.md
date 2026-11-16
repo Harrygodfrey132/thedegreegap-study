@@ -1,5 +1,5 @@
 ---
-title: "Online A-Level Maths Tutors | Colchester | The Degree Gap"
+title: "A-Level Maths Tutors | Colchester | The Degree Gap"
 nav_title: "Maths"
 description: "A tutor reading your child's working line by line, the way a big class rarely can: one-to-one online A-Level Maths tutoring for Colchester families. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Colchester"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutoring for Colchester and Wivenhoe"
+hero_h1: "A-Level Maths Tutors for Colchester Students"
 hero_lead: "Has your child gone quiet about Maths since starting at a big sixth form college? Our A-Level Maths tutors for Colchester students give them what a large class can't: an hour a week with someone reading their working line by line, online."
 
 angle_eyebrow: "READ LINE BY LINE"

@@ -1,10 +1,10 @@
 ---
 title: "Sutton Tutors | GCSE & A-Level | The Degree Gap"
-description: "Still worrying, years after the 11+? Sutton tutors for GCSE, A-Level and sixth form entry, one-to-one and online. Lessons from £37 an hour, no contract."
+description: "Still worrying, years after the 11+? Tutors for Sutton, for GCSE, A-Level and sixth form entry, one-to-one and online. Lessons from £37 an hour, no contract."
 layout: "single"
 location: "Sutton"
-banner_heading: "One-to-one tutors for Sutton families whose worry didn't end at the 11+"
-banner_description: "Every lesson is one-to-one and online, with a Sutton tutor who knows the exam board your child's school uses, from Year 10 right through to A-Level."
+banner_heading: "GCSE and A-Level Tutors for Sutton Families"
+banner_description: "Every lesson is one-to-one and online, with a tutor for Sutton families who knows the exam board your child's school uses, from Year 10 right through to A-Level."
 content_angle: "selective entry pressure at 11 and again at 16"
 intro_1: "The report comes home, and before you've finished reading it you're measuring it against the 11+ letter. Most Sutton parents we talk to know that feeling. Thousands of children sit the Selective Eligibility Test here each autumn, and far fewer get a grammar place, so every family knows somebody on each side of that letter. What nobody says is how long it stays in the room. Five years on, your child's in Year 10 somewhere in the borough, working hard, and the number on the report still gets read against a decision made when they were ten. That's the conversation we have most often here. Not about ability. About expectation, and where it landed."
 intro_2: "So we start from where your child is now, not from a letter that came in Year 6. When you speak to Harry or Joe, our co-founders, the first thing we'll ask for is a recent paper rather than a report. A report tells you the grade. A paper tells you why. Lessons are one-to-one on Lessonspace, an online whiteboard, and each one's recorded so your child can go back over the working. We pick a tutor who knows your child's exam board, and the first hour goes on working out which questions are costing marks. The plan comes out of that."

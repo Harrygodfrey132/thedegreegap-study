@@ -1,5 +1,5 @@
 ---
-title: "Watford A-Level Biology Tutors | Online | The Degree Gap"
+title: "Watford A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
 description: "Online A-Level Biology tutors for Watford families. Year 12's first unit on cells, magnification and microscopes is where marks slip. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Watford"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online One-to-One A-Level Biology Tutors for Watford Families"
+hero_h1: "A-Level Biology Tutors for Watford Students"
 hero_lead: "Good GCSEs, then the first Year 12 Biology test comes back lower than anyone expected. Often it's the numbers in the cells unit. Our A-Level Biology tutors for Watford students work on magnification, microscopes and cell fractionation."
 
 angle_eyebrow: "THE UNIT THAT SETS THE TONE"
@@ -28,7 +28,7 @@ schools:
   - "St Michael's Catholic High School"
   - "Westfield Academy"
 
-steps_heading: "Your child's A-Level Biology tutor in Watford: 3 steps"
+steps_heading: "Your child's A-Level Biology tutor for Watford students: 3 steps"
 steps_lead: "Within 24 hours of the call you'll have tutor profiles to look at, so there's time to get going before the Year 12 exams that shape the predicted grade."
 steps:
   - title: "A free chat with Harry or Joe"

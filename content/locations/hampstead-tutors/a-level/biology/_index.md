@@ -7,7 +7,7 @@ location: "Hampstead"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Hampstead Students Losing Marks on Long Answers"
+hero_h1: "A-Level Biology Tutors for Hampstead Students"
 hero_lead: "Your child can recite the stages of respiration, then a long question asks them to link it to muscle fatigue and the answer falls apart. Our A-Level Biology tutors for Hampstead students teach them to join topics up the way those questions demand."
 
 angle_eyebrow: "A TEACHING HOSPITAL ON POND STREET"

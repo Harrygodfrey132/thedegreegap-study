@@ -1,13 +1,13 @@
 ---
 title: "Camberley GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "A 6-5 in combined Science can miss the 6-6 some sixth forms list for A-Level Physics. Our Camberley GCSE Science tutors find the weak science first. From £37."
+description: "A 6-5 in combined Science can miss the 6-6 some sixth forms ask for. Our online GCSE Science tutors for Camberley students find the weak science first."
 layout: "level-subject"
 location: "Camberley"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Camberley Teenagers"
+hero_h1: "GCSE Science Tutors for Camberley Students"
 hero_lead: "The school report says 6-5 in combined Science, which sounds fine until a sixth form guide lists 6-6 for A-Level Physics. Our GCSE Science tutors for Camberley students work out which of the three sciences is costing the marks, and start there."
 
 angle_eyebrow: "WHAT 6-5 MEANS AT 16"

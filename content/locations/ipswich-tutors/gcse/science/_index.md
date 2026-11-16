@@ -1,13 +1,13 @@
 ---
 title: "Ipswich GCSE Science Tuition | One-to-One | The Degree Gap"
 nav_title: "Science"
-description: "Online GCSE Science tutors covering Ipswich for triple and combined award, working out which of the three needs the term before tier entry is set. From £37/hr."
+description: "Online GCSE Science tutors for Ipswich, for triple and combined award, working out which of the three needs the term before tier entry is set. From £37/hr."
 layout: "level-subject"
 location: "Ipswich"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online one-to-one GCSE Science tutoring for Ipswich Year 10s choosing a tier"
+hero_h1: "GCSE Science Tutors for Ipswich Students"
 hero_lead: "Tier entry gets decided in Year 10, on evidence gathered before most students have found their feet. Our GCSE Science tutors for Ipswich students work on that evidence, one-to-one and online over Lessonspace."
 
 angle_eyebrow: "THE TIER IS SET BEFORE YEAR 11"

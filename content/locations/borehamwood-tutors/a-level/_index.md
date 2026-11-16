@@ -5,7 +5,7 @@ layout: "subject"
 location: "Borehamwood"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Borehamwood Students Whose Coursework Is Crowding Out Revision"
+hero_heading_line1: "A-Level Tutors for Borehamwood Students"
 hero_heading_line2: ""
 hero_lead: "With coursework deadlines and the UCAS form landing in the same term, the exam-only subjects are often the ones left until spring. Our A-Level tutors for Borehamwood students keep those subjects ticking over every week, so revision never has to start from scratch."
 

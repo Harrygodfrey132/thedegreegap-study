@@ -7,7 +7,7 @@ location: "Crawley"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors for Crawley Students, Starting With Rearranging Formulas"
+hero_h1: "GCSE Maths Tutors for Crawley Students"
 hero_lead: "If your child follows a worked example fine but stalls the moment a formula needs turning round, that's one of the most common Maths gaps there is. We match Crawley students with online GCSE Maths tutors who find the missing step and practise it until it holds."
 
 angle_eyebrow: "WHERE CRAWLEY MATHS MARKS LEAK"

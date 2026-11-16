@@ -1,5 +1,5 @@
 ---
-title: "Reading A-Level Maths Tutors | Online | The Degree Gap"
+title: "Reading A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "When calculus marks keep slipping, it's often the algebra underneath. One-to-one online A-Level Maths tutors for Reading families. From £37, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Reading"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutoring for Reading Families, Starting With the Algebra"
+hero_h1: "A-Level Maths Tutors for Reading Students"
 hero_lead: "When your child's calculus answers keep coming back wrong, the calculus itself is often fine. It's the algebra around it. Our A-Level Maths tutors for Reading students go back and fix that layer underneath."
 
 angle_eyebrow: "IT'S RARELY THE CALCULUS"

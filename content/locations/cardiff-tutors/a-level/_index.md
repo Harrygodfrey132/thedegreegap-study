@@ -1,11 +1,11 @@
 ---
-title: "Online A-Level Tutors for Cardiff Sixth Formers | The Degree Gap"
+title: "A-Level Tutors for Cardiff Sixth Formers | The Degree Gap"
 description: "Are Year 12 AS exams worrying your child? We match Cardiff sixth formers with an online A-Level tutor who knows WJEC's units. Free call first, from £37 an hour."
 layout: "subject"
 location: "Cardiff"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Cardiff Students Whose AS Exams Count Towards the Final Grade"
+hero_heading_line1: "A-Level Tutors for Cardiff Students"
 hero_heading_line2: ""
 hero_lead: "In Wales, Year 12's AS exams are worth 40% of the final A-Level, so a slow first year costs more than it would in England. Our A-Level tutors for Cardiff students start from your child's latest assessment and work on what the AS papers reward."
 

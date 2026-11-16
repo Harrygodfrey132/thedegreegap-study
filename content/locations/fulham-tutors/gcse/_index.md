@@ -1,11 +1,11 @@
 ---
-title: "GCSE Tutors for Fulham Families | Online One-to-One | The Degree Gap"
+title: "GCSE Tutors for Fulham Families | One-to-One | The Degree Gap"
 description: "Is Year 10 slipping by? We'll match your child in Fulham with an online GCSE tutor who fixes small gaps before Year 11 makes them bigger. From £37, no contract."
 layout: "subject"
 location: "Fulham"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Fulham Students, Before Year 10 Gaps Become Year 11 Problems"
+hero_heading_line1: "GCSE Tutors for Fulham Students"
 hero_heading_line2: ""
 hero_lead: "Year 10 can feel like a quiet year, but a big share of the GCSE course is taught in it, and a topic missed now comes back in every mock. Our GCSE tutors for Fulham students find those gaps while they're small, an hour a week from home."
 

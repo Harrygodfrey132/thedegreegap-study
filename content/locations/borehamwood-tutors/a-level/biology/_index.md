@@ -7,7 +7,7 @@ location: "Borehamwood"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Borehamwood Students Who Learn It All and Still Drop Marks"
+hero_h1: "A-Level Biology Tutors for Borehamwood Students"
 hero_lead: "Your child has flashcards for every topic, then the exam asks them to use what they know on an experiment they've never seen. Our A-Level Biology tutors for Borehamwood students practise applying the content, not just remembering it."
 
 angle_eyebrow: "FROM FLASHCARDS TO UNFAMILIAR DATA"

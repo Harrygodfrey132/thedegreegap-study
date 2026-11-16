@@ -1,11 +1,11 @@
 ---
 title: "A-Level Tutors Covering Newcastle upon Tyne | The Degree Gap"
-description: "Good GCSEs don't always carry into Year 12. Newcastle upon Tyne A-Level tutors find out why your child's first report dipped, one-to-one and online. From £37."
+description: "Good GCSEs don't always carry into Year 12. A-Level tutors for Newcastle upon Tyne find out why your child's first report dipped, online. From £37."
 layout: "subject"
 location: "Newcastle upon Tyne"
 level: "A-Level"
 
-hero_heading_line1: "Online Newcastle upon Tyne A-Level Tutors for the Dip After Good GCSEs"
+hero_heading_line1: "A-Level Tutors for Newcastle upon Tyne Students"
 hero_heading_line2: ""
 hero_lead: "It's November, the first Year 12 report is in, and the grade looks nothing like the GCSEs your child got in August. Should you worry? Our A-Level tutors for Newcastle upon Tyne students can usually tell you, then work one-to-one online from the first topic that didn't land."
 
@@ -14,7 +14,7 @@ grade_to: "A"
 grade_stat: "Cs to As at A-Level, says one parent, who also had help with university choices and the application."
 
 first_lesson_eyebrow: "THE FIRST YEAR 12 REPORT"
-first_lesson_heading: "What a Newcastle upon Tyne A-Level Tutor Does With a Poor First Report"
+first_lesson_heading: "What an A-Level Tutor for Newcastle upon Tyne Students Does With a Poor First Report"
 first_lesson_context: "An A-Level can feel like a different subject that happens to share its GCSE name, and the first Year 12 report is often where families find that out. The course moves fast, so a teenager who was fine in Year 11 can be quietly lost by November. The tutor's first job is to read your child's actual paper, not just the grade on it, and find the GCSE habit that's stopped working."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"

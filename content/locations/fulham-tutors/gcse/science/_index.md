@@ -7,7 +7,7 @@ location: "Fulham"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Fulham Students Who Lose the Thread in Electricity"
+hero_h1: "GCSE Science Tutors for Fulham Students"
 hero_lead: "Current and potential difference: electricity is the GCSE Science topic where plenty of children stop being able to picture what's going on. Our GCSE Science tutors for Fulham students build that picture back up, so the circuit questions stop costing marks."
 
 angle_eyebrow: "SERIES, PARALLEL AND THE BITS IN BETWEEN"

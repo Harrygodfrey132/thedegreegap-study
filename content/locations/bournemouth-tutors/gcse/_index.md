@@ -1,11 +1,11 @@
 ---
 title: "Bournemouth GCSE Tutors | One-to-One | The Degree Gap"
-description: "Bournemouth GCSE tutors who start from your child's last marked paper, not the report. One-to-one and online, matched to their exam board, from £37 an hour."
+description: "GCSE tutors for Bournemouth who start from your child's last marked paper, not the report. One-to-one and online, matched to their exam board, from £37 an hour."
 layout: "subject"
 location: "Bournemouth"
 level: "GCSE"
 
-hero_heading_line1: "Online Bournemouth GCSE Tutors Who Find Where Your Child's Marks Went, Question by Question"
+hero_heading_line1: "GCSE Tutors for Bournemouth Students"
 hero_heading_line2: ""
 hero_lead: "A class of thirty can hand back a mark. It can't sit beside your child and go through why each one went. Our GCSE tutors for Bournemouth students do that first, in one-to-one lessons online, before teaching anything new."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "Six months after starting one-to-one lessons, Omo's Year 10 son had gone from a grade 5 to a 6/7 in English."
 
 first_lesson_eyebrow: "ONE SUBJECT, NOT THE AVERAGE"
-first_lesson_heading: "Why a Bournemouth GCSE Tutor Starts With One Subject's Last Paper"
+first_lesson_heading: "Why a GCSE Tutor for Bournemouth Students Starts With One Subject's Last Paper"
 first_lesson_context: "When Bournemouth parents ring us about Year 11, it's rarely about the overall picture. It's one subject: the Maths grade an A-Level Maths course asks for at Bournemouth School or Highcliffe, or the English a college course looks at before anything else. So a GCSE tutor starts with that subject's last marked paper and finds the questions where your child's marks slipped away."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to a 6/7 in GCSE English"
 
-tutor_strip_heading: "Bournemouth GCSE tutors, chosen once we've seen a marked paper"
+tutor_strip_heading: "GCSE tutors for Bournemouth students, chosen once we've seen a marked paper"
 tutor_strip_body: "Send us your child's last marked paper before the call. It shows the exam board, the tier (higher or foundation) and the question types, which decides who we suggest. We interview every tutor ourselves, and about 3% of applicants join the platform. Have a browse, or let us pick."
 
 pathways_heading: "After Year 11 in Bournemouth: Which Grades Each Route Looks At"

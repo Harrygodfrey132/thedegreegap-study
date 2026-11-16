@@ -1,5 +1,5 @@
 ---
-title: "Brighton A-Level Maths Tutors | Online | The Degree Gap"
+title: "Brighton A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Online A-Level Maths tutors for Brighton and Hove families. If your child gets the right numbers in statistics and still loses marks, we can help. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Brighton"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Brighton and Hove Families"
+hero_h1: "A-Level Maths Tutors for Brighton Students"
 hero_lead: "Your child gets the right numbers on the statistics questions, then the paper comes back with the marks missing anyway. Our A-Level Maths tutors for Brighton students work on what comes after the calculator: explaining a result in context, and spotting when a prediction goes beyond the data."
 
 angle_eyebrow: "THE SENTENCE AFTER THE CALCULATOR"
@@ -28,7 +28,7 @@ schools:
   - "Longhill High School"
   - "PACA"
 
-steps_heading: "Finding Your Child an A-Level Maths Tutor in Brighton, Step by Step"
+steps_heading: "Finding Your Child an A-Level Maths Tutor for Brighton Students, Step by Step"
 steps_lead: "Tutor profiles usually come within 24 hours, leaving time before the mocks that shape your child's prediction."
 steps:
   - title: "Tell us about your child"

@@ -1,11 +1,11 @@
 ---
 title: "Private GCSE Tutors in Esher | The Degree Gap"
-description: "Year 11 in Esher means GCSEs and a decision about what comes next. Our Esher GCSE tutors help with the subject that's slipping, one-to-one online. From £37."
+description: "Year 11 in Esher means GCSEs and a decision about what comes next. Our GCSE tutors for Esher help with the subject that's slipping, one-to-one online. From £37."
 layout: "subject"
 location: "Esher"
 level: "GCSE"
 
-hero_heading_line1: "Online Esher GCSE Tutors for When Mocks and Open Evenings All Come at Once"
+hero_heading_line1: "GCSE Tutors for Esher Students"
 hero_heading_line2: ""
 hero_lead: "Your child's revising for mocks and choosing where to go at sixteen in the same few months. Our GCSE tutors for Esher students take one worry off the list by working on the subject that's slipping, one-to-one and online."
 
@@ -14,14 +14,14 @@ grade_to: "B"
 grade_stat: "Keira's grades went from an E to a B, in her own words."
 
 first_lesson_eyebrow: "ONE YEAR, TWO BIG JOBS"
-first_lesson_heading: "Where an Esher GCSE Tutor Starts When Year 11 Gets Crowded"
+first_lesson_heading: "Where a GCSE Tutor for Esher Students Starts When Year 11 Gets Crowded"
 first_lesson_context: "Esher Church of England High School stops at Year 11, so plenty of families here are weighing up colleges and sixth forms in the same year as the mocks. So the GCSE tutor starts with two things side by side: a recent paper, and the course your child is hoping to get onto. Which subjects does that course care about, and where on the paper did the marks go?"
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "From an E to a B at GCSE"
 
-tutor_strip_heading: "Esher GCSE tutors picked for your child's subject and next step"
+tutor_strip_heading: "GCSE tutors for Esher students picked for your child's subject and next step"
 tutor_strip_body: "Tell us which subject is worrying you and which course your child has in mind, and we'll look for tutors who know their exam board. Browse a few profiles here if you'd like, or wait for the 2 or 3 we send after the call."
 
 pathways_heading: "Where Esher Teenagers Head at Sixteen"

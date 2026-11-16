@@ -7,7 +7,7 @@ location: "Surbiton"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "A-Level Biology Tutors for Surbiton Students Thrown by Unfamiliar Examples"
+hero_h1: "A-Level Biology Tutors for Surbiton Students"
 hero_lead: "Your child can recite the Krebs cycle, then freezes when a question is set in an organism they've never heard of. Our A-Level Biology tutors for Surbiton students practise applying what your child knows to new contexts, the way the papers ask for it."
 
 angle_eyebrow: "A CONTEXT THEY'VE NEVER SEEN"

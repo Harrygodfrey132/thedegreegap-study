@@ -7,7 +7,7 @@ location: "Wimbledon"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Wimbledon Students Whose Essays Explain but Don't Evaluate"
+hero_h1: "A-Level Economics Tutors for Wimbledon Students"
 hero_lead: "Your child knows the theory and can draw the diagram, yet the long essays keep landing in the middle band. We match Wimbledon sixth formers with an online A-Level Economics tutor who works on evaluation, one paragraph at a time."
 
 angle_eyebrow: "WHERE HARRY AND JOE STARTED"

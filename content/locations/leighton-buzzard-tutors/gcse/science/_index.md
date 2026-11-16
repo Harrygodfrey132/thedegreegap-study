@@ -7,7 +7,7 @@ location: "Leighton Buzzard"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Leighton Buzzard Students Tripped Up by Calculations"
+hero_h1: "GCSE Science Tutors for Leighton Buzzard Students"
 hero_lead: "Your child understands the Science in class, then a question asks them to rearrange an equation and turn grams into kilograms on the way. Our GCSE Science tutors for Leighton Buzzard students practise that maths inside real Physics and Chemistry questions until it stops costing marks."
 
 angle_eyebrow: "THE MATHS HIDING IN THE SCIENCE PAPER"

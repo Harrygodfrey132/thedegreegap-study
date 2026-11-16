@@ -1,13 +1,13 @@
 ---
 title: "Aylesbury GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Aylesbury GCSE Maths tutors for the child on a steady 6 whose sixth-form course asks for more. Weekly one-to-one lessons online, AQA, Edexcel or OCR, from £37."
+description: "GCSE Maths tutors for Aylesbury, for the child on a steady 6 whose sixth-form course asks for more. Weekly lessons online, AQA, Edexcel or OCR, from £37."
 layout: "level-subject"
 location: "Aylesbury"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Aylesbury Families Who Need More Than a 6"
+hero_h1: "GCSE Maths Tutors for Aylesbury Students"
 hero_lead: "Your child's on a steady 6 in Maths, and it's still short of the sixth-form course they've set their heart on. That's common in Buckinghamshire. Our GCSE Maths tutors for Aylesbury students find the few question types sitting between that 6 and a clean 8."
 
 angle_eyebrow: "WHAT THE TOP OF THE HIGHER PAPER ASKS FOR"

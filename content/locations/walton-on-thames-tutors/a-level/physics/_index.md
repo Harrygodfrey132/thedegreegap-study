@@ -7,7 +7,7 @@ location: "Walton-on-Thames"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Walton-on-Thames Students Stuck on Multi-Step Problems"
+hero_h1: "A-Level Physics Tutors for Walton-on-Thames Students"
 hero_lead: "Your child understands each idea on its own, then a question that chains momentum into circular motion leaves them unsure where to begin. Our A-Level Physics tutors for Walton-on-Thames students teach a way into problems your child hasn't seen before."
 
 angle_eyebrow: "AQA AT THREE RIVERS AND AT ESHER"

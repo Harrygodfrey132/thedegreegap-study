@@ -1,13 +1,13 @@
 ---
 title: "Farnham GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "On Combined Science, one weak science can pull the double grade down. Our Farnham GCSE Science tutors find which one and work on it with your child online."
+description: "On Combined Science, one weak science can pull the double grade down. Our GCSE Science tutors for Farnham find which one and work on it with your child online."
 layout: "level-subject"
 location: "Farnham"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Families in and Around Farnham"
+hero_h1: "GCSE Science Tutors for Farnham Students"
 hero_lead: "When your child says Science is fine and the mock says otherwise, it's usually one of the three sciences doing the damage. Our GCSE Science tutors for Farnham students find out which one, and that's where the lessons go."
 
 angle_eyebrow: "WHAT SCIENCE OPENS UP HERE"

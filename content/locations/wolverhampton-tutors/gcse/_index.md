@@ -1,11 +1,11 @@
 ---
 title: "Wolverhampton GCSE Tutors | Expert Tutors | The Degree Gap"
-description: "Wolverhampton GCSE tutors who help when your child's plans run ahead of their predicted grade. One-to-one and online, matched on exam board, from £37."
+description: "GCSE tutors for Wolverhampton who help when your child's plans run ahead of their predicted grade. One-to-one and online, matched on exam board, from £37."
 layout: "subject"
 location: "Wolverhampton"
 level: "GCSE"
 
-hero_heading_line1: "Online Wolverhampton GCSE Tutors for a Predicted Grade That Hasn't Caught Up Yet"
+hero_heading_line1: "GCSE Tutors for Wolverhampton Students"
 hero_heading_line2: ""
 hero_lead: "Your child knows what they want to do after Year 11, and right now the predicted grade falls a bit short of it. Our GCSE tutors for Wolverhampton students work on the missing topics and the exam technique that'll get them there."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "A 5 to a 6/7 in English in six months, for a Year 10 boy who'd stopped caring about the subject. That's from his parent's review."
 
 first_lesson_eyebrow: "FROM SWITCHED OFF TO A 6/7"
-first_lesson_heading: "What a Wolverhampton GCSE Tutor Looks At First"
+first_lesson_heading: "What a GCSE Tutor for Wolverhampton Students Looks At First"
 first_lesson_context: "The first time a GCSE tutor sits down with a Wolverhampton Year 10 or 11, they usually find a child who knows more than their marks suggest. So before teaching anything, the tutor reads a marked paper with them. Not knowing a topic and not knowing how to write it up for the examiner need very different fixes."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7. I honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset. …"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 6/7 in English"
 
-tutor_strip_heading: "Wolverhampton GCSE tutors who teach to your child's exam board"
+tutor_strip_heading: "GCSE tutors for Wolverhampton students who teach to your child's exam board"
 tutor_strip_body: "Wolverhampton schools, from Wolverhampton Grammar to Highfields and Heath Park, choose their own exam boards, so we match to your child's first. Every tutor's been interviewed by Harry or Joe, and only about 3% of applicants make it onto the platform. Have a look, or we'll suggest a few."
 
 pathways_heading: "What Comes After GCSEs For Wolverhampton Year 11s"

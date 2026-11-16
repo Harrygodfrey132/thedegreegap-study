@@ -1,11 +1,11 @@
 ---
 title: "Loughborough GCSE Tutors | Year 10 and Year 11 | The Degree Gap"
-description: "Tried explaining it at the kitchen table and it's turned into a row? Our Loughborough GCSE tutors explain it another way, online, from £37 an hour, no contract."
+description: "Tried explaining it at the kitchen table and it's turned into a row? Our GCSE tutors for Loughborough explain it another way, online, from £37, no contract."
 layout: "subject"
 location: "Loughborough"
 level: "GCSE"
 
-hero_heading_line1: "Online Loughborough GCSE Tutors Who Explain It a Second and Third Way"
+hero_heading_line1: "GCSE Tutors for Loughborough Students"
 hero_heading_line2: ""
 hero_lead: "You might well be able to do the Maths yourself, and you've probably tried going through it with your child at the kitchen table. Our GCSE tutors for Loughborough students come in after that, when it's clear the problem is the way it's being explained, not the content."
 
@@ -14,7 +14,7 @@ grade_to: "6/7"
 grade_stat: "Omo's son moved up from a grade 5 to a 6/7 in English in six months."
 
 first_lesson_eyebrow: "WHEN YOU ALREADY KNOW THE SUBJECT"
-first_lesson_heading: "Knowing the Answer Isn't Teaching It: What a Loughborough GCSE Tutor Adds"
+first_lesson_heading: "Knowing the Answer Isn't Teaching It: What a GCSE Tutor for Loughborough Students Adds"
 first_lesson_context: "Lots of the Loughborough parents who get in touch work at the university or for the science and engineering employers around town, so the subject isn't the problem. You've sat down and explained it, it hasn't landed, and now homework has turned into an argument that's really about something else. A tutor brings a second and third way of explaining the same idea, plus the big advantage of not being the parent."
 
 first_lesson_quote: "My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. …"
@@ -22,7 +22,7 @@ first_lesson_quote_name: "Ellen"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "GCSE Maths"
 
-tutor_strip_heading: "Loughborough GCSE tutors picked for how well they explain"
+tutor_strip_heading: "GCSE tutors for Loughborough students picked for how well they explain"
 tutor_strip_body: "A tutor can know a subject well and still not explain it clearly, so our interview tests the explaining. Harry and Joe run every one, and only about 3% of applicants get through. We match your child's exam board too. See the profiles, or leave the choice to us."
 
 pathways_heading: "Sixth Form, College or an Apprenticeship: Loughborough After GCSEs"

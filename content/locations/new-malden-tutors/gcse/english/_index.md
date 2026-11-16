@@ -1,5 +1,5 @@
 ---
-title: "Online GCSE English Tutors for New Malden Students | The Degree Gap"
+title: "GCSE English Tutors for New Malden Students | The Degree Gap"
 nav_title: "English"
 description: "Science A-Levels at Holy Cross currently need a 5 in GCSE English. Our online GCSE English tutors help New Malden students with essays and quotes. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "New Malden"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for New Malden Students With Science A-Levels in Mind"
+hero_h1: "GCSE English Tutors for New Malden Students"
 hero_lead: "Your child's heart is set on the sciences, so English keeps getting whatever time is left over, and the mock grade shows it. Our GCSE English tutors for New Malden students give them a clear way to plan essays and learn quotes, so English stops holding the rest back."
 
 angle_eyebrow: "THE GRADE BEHIND THE SCIENCE PLANS"

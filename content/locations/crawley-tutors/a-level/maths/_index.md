@@ -7,7 +7,7 @@ location: "Crawley"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "A-Level Maths Tutors for Crawley Sixth Formers, Pure and Applied Alike"
+hero_h1: "A-Level Maths Tutors for Crawley Students"
 hero_lead: "Pure Maths takes up most of Year 12, but on Edexcel a whole paper of the three is Statistics and Mechanics. We match Crawley sixth formers with online A-Level Maths tutors on their board who work on both sides of the course."
 
 angle_eyebrow: "THE APPLIED THIRD"

@@ -1,9 +1,9 @@
 ---
-title: "Online Tutors for Your Child in Borehamwood | The Degree Gap"
+title: "Tutors for Your Child in Borehamwood | The Degree Gap"
 description: "Has your child decided one subject isn't for them? We'll match your Borehamwood teenager with an online tutor who suits them. From £37 an hour, no contract."
 layout: "single"
 location: "Borehamwood"
-banner_heading: "Online tutors for Borehamwood teenagers who've written off one subject"
+banner_heading: "GCSE and A-Level Tutors for Borehamwood Families"
 banner_description: "Your child doesn't have to love every lesson. We match them with a tutor who makes the one they've given up on feel doable again, and it starts with a free call."
 content_angle: "the subject your child has written off: in a town built around film and TV studios, plenty of teenagers have a clear plan and one subject they've decided isn't for them, and a tutor makes that subject feel doable again"
 intro_1: "Plenty of Borehamwood teenagers already know what they want to do. Some have grown up with Sky Studios Elstree at one end of town and the EastEnders set behind the fence on Clarendon Road, and they'd talk camera angles all evening if you let them. Others want to nurse, or build things, or haven't a clue yet. But nearly all of them have one subject they've quietly given up on. 'I'm just not a Maths person.' 'English is pointless.' You hear it over tea, and you see it in the homework for that lesson that somehow never exists."

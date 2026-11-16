@@ -1,13 +1,13 @@
 ---
-title: "St Albans Online GCSE English Tutors | The Degree Gap"
+title: "St Albans GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Is your child working hard at GCSE English but stuck on the same grade? Our St Albans tutors mark essays the way an examiner does. Online, from £37 an hour."
+description: "Is your child working hard at GCSE English but stuck on the same grade? Our tutors for St Albans mark essays the way an examiner does. Online, from £37 an hour."
 layout: "level-subject"
 location: "St Albans"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for St Albans Families, Matched on Exam Board"
+hero_h1: "GCSE English Tutors for St Albans Students"
 hero_lead: "Hours of revision, and the English essay still comes back with the same grade. That's common, because the marks go to how your child writes more than what they know. Our GCSE English tutors for St Albans students teach that writing, one marked essay at a time."
 
 angle_eyebrow: "WHEN MORE REVISION DOESN'T MOVE THE ENGLISH GRADE"
@@ -28,7 +28,7 @@ schools:
   - "Verulam School"
   - "Loreto College"
 
-steps_heading: "Your child's GCSE English tutor in St Albans, in three steps"
+steps_heading: "Your child's GCSE English tutor for St Albans students, in three steps"
 steps_lead: "Tutor profiles usually arrive within 24 hours of the call. It's worth starting English early, because changes to how your child writes take a while to hold up in a timed essay."
 steps:
   - title: "A free call about your child's English"

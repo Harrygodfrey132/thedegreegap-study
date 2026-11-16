@@ -7,7 +7,7 @@ location: "Wakefield"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Wakefield Students on Foundation or Higher"
+hero_h1: "GCSE Maths Tutors for Wakefield Students"
 hero_lead: "Some Wakefield children need a secure pass in Maths for college or an apprenticeship, and others need enough for A-Level Maths. Our online GCSE Maths tutors for Wakefield students work out which brief your child is on and start from their last paper."
 
 angle_eyebrow: "TWO DIFFERENT MATHS TARGETS"

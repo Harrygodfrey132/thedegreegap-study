@@ -1,11 +1,11 @@
 ---
 title: "Potters Bar A-Level Tutors | One-to-One Support | The Degree Gap"
-description: "Year 12 harder than your child expected? Our Potters Bar A-Level tutors work one-to-one online on the step up from GCSE. From £37 an hour, no contract."
+description: "Year 12 harder than your child expected? Our A-Level tutors for Potters Bar work one-to-one online on the step up from GCSE. From £37 an hour, no contract."
 layout: "subject"
 location: "Potters Bar"
 level: "A-Level"
 
-hero_heading_line1: "Online Potters Bar A-Level Tutors for the Grades Behind Your Child's UCAS Predictions"
+hero_heading_line1: "A-Level Tutors for Potters Bar Students"
 hero_heading_line2: ""
 hero_lead: "Predicted grades lean heavily on Year 12, which is exactly when A-Levels start to feel like a different subject. Our A-Level tutors for Potters Bar students work one-to-one online with your child to steady the hardest topics before those predictions are set."
 
@@ -14,14 +14,14 @@ grade_to: "C"
 grade_stat: "Joanna's son had 'left studying until the final hour', and still turned E and U grades into 3 C grades."
 
 first_lesson_eyebrow: "A LATE START, THREE C GRADES"
-first_lesson_heading: "What a Potters Bar A-Level Tutor Looks for in Year 12 Work"
+first_lesson_heading: "What an A-Level Tutor for Potters Bar Students Looks for in Year 12 Work"
 first_lesson_context: "Your child might be in the Owen's sixth form, at Gracewood or Chancellor's, or travelling to a college in Barnet or Finchley. Wherever it is, the first A-Level tests often come back well below what their GCSEs suggested. The A-Level tutor goes through those tests with your child to find out why, which is often about using what they know on a question they haven't met before, while there's still time before the end-of-year exams."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades into 3 C grades"
 
-tutor_strip_heading: "Potters Bar A-Level tutors who'll know your child's papers"
+tutor_strip_heading: "A-Level tutors for Potters Bar students who'll know your child's papers"
 tutor_strip_body: "A tutor who knows Edexcel Maths inside out may not know OCR's version half as well, and sixth forms pick their own boards. So we ask which papers your child sits, then send profiles of tutors who know them. Or browse the tutors first."
 
 pathways_heading: "From Potters Bar to University, an Apprenticeship or Work"

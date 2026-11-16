@@ -5,7 +5,7 @@ layout: "subject"
 location: "Stockport"
 level: "GCSE"
 
-hero_heading_line1: "Online Stockport GCSE Tutoring for When the College Form Comes Before the Results"
+hero_heading_line1: "GCSE Tutors for Stockport Students"
 hero_heading_line2: ""
 hero_lead: "In the autumn of Year 11 the college form arrives, asking about grades your child hasn't even sat yet. Our GCSE tutors for Stockport students work one-to-one online towards the grades their course asks for, right up to results day in August."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "Omo's son, now in Year 10, was on a grade 5 in English. Six months of tutoring later, it's a 6/7."
 
 first_lesson_eyebrow: "A COLLEGE FORM IN YEAR 11"
-first_lesson_heading: "What a Stockport GCSE Tutor Does Before the College Form Goes In"
+first_lesson_heading: "What a GCSE Tutor for Stockport Students Does Before the College Form Goes In"
 first_lesson_context: "Because most Stockport secondaries finish at 16, your child will be applying to Aquinas, Cheadle College or Stockport College while their mocks are still being marked. A college only sees the grades, not the effort behind them. So the first lesson starts with a marked paper, looking for the topic that's quietly costing the marks the application needs."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 6/7 in GCSE English"
 
-tutor_strip_heading: "Stockport GCSE tutors who know where the grades go next"
+tutor_strip_heading: "GCSE tutors for Stockport students who know where the grades go next"
 tutor_strip_body: "Schools across Stockport use different exam boards, so we check your child's first. Lessons run on the platform Lessonspace, and every tutor has passed an interview with Harry or Joe that about 3% of applicants get through. Browse below, or let us pick."
 
 pathways_heading: "Where Stockport Year 11s Apply Next"

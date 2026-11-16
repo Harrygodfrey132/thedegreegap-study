@@ -5,7 +5,7 @@ layout: "subject"
 location: "Salford"
 level: "GCSE"
 
-hero_heading_line1: "GCSE Tutors for Salford Students When a Grade 4 Isn't Quite Enough"
+hero_heading_line1: "GCSE Tutors for Salford Students"
 hero_heading_line2: ""
 hero_lead: "A 4 gets called a pass, so it can come as a jolt when the college course your child likes asks for 5s. Our GCSE tutors for Salford students find the marks between the two on your child's own papers and go after those first."
 
@@ -21,7 +21,7 @@ first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 → Grade 6/7 in GCSE English"
 
-tutor_strip_heading: "Salford GCSE tutors who work back from the course entry grade"
+tutor_strip_heading: "GCSE tutors for Salford students who work back from the course entry grade"
 tutor_strip_body: "If your child already has a Pendleton or FutureSkills course in mind, tell us on the call and we'll match a tutor to that subject and the exam board your child sits. Look through the profiles below, or leave the choosing to us."
 
 pathways_heading: "Where Salford Year 11s Can Go at Sixteen"

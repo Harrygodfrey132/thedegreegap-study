@@ -1,13 +1,13 @@
 ---
-title: "Leeds Online A-Level Maths Tutors | The Degree Gap"
+title: "Leeds A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Leeds A-Level Maths tutors working online, one-to-one, on proof, integration and Mechanics, for Year 12s with PwC, KPMG or university plans. From £37 an hour."
+description: "A-Level Maths tutors for Leeds working online, one-to-one, on proof, integration and Mechanics, for Year 12s with PwC, KPMG or university plans. From £37."
 layout: "level-subject"
 location: "Leeds"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutoring for Leeds Families"
+hero_h1: "A-Level Maths Tutors for Leeds Students"
 hero_lead: "Whether your child ends up choosing a PwC or KPMG apprenticeship or a Russell Group university, both will ask about their Maths prediction. Our A-Level Maths tutors for Leeds students spend a weekly online hour on the parts of the course where that prediction is won or lost."
 
 angle_eyebrow: "UNIVERSITY OR APPRENTICESHIP, ONE MATHS GRADE"

@@ -1,11 +1,11 @@
 ---
-title: "Fareham GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "College not chosen yet? Our Fareham GCSE tutors plan your child's lessons around the one asking the highest grades. Online, one-to-one, from £37, no contract."
+title: "Fareham GCSE Tutors | One-to-One | The Degree Gap"
+description: "College not chosen yet? Our GCSE tutors for Fareham plan your child's lessons around the one asking the highest grades. Online, one-to-one, from £37."
 layout: "subject"
 location: "Fareham"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors in Fareham Who Keep Your Child's College Choices Open"
+hero_heading_line1: "GCSE Tutors for Fareham Students"
 hero_lead: "Two or three colleges on the shortlist, and none of them ask for quite the same grades. Our GCSE tutors for Fareham students work towards whichever asks the most, in weekly one-to-one lessons online, so nothing gets ruled out by accident."
 
 grade_from: "4"
@@ -21,7 +21,7 @@ first_lesson_quote_name: "Philippa"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "GCSE"
 
-tutor_strip_heading: "Fareham GCSE tutors working towards more than one college"
+tutor_strip_heading: "GCSE tutors for Fareham students working towards more than one college"
 tutor_strip_body: "Many tutors on our platform are qualified teachers, and we'll match your child's exam board too. After a free call you'll have two or three profiles within 24 hours, then a free video meeting so your child can see if they get on. Browse them whenever you like."
 
 pathways_heading: "Post-16 in Fareham Means Looking in Several Directions"

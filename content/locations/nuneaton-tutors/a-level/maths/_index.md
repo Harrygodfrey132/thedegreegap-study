@@ -7,7 +7,7 @@ location: "Nuneaton"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Nuneaton Sixth Formers Who Were Fine at GCSE"
+hero_h1: "A-Level Maths Tutors for Nuneaton Students"
 hero_lead: "Your child came into Year 12 with a strong GCSE Maths grade, and now every question seems to need algebra they can't do quickly enough. Our A-Level Maths tutors for Nuneaton students rebuild that speed first, then the proof and calculus that sit on top of it."
 
 angle_eyebrow: "A 7 TO GET IN, THEN A NEW SUBJECT"

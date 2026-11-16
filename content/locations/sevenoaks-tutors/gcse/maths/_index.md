@@ -1,13 +1,13 @@
 ---
-title: "Sevenoaks GCSE Maths Tutors | Online | The Degree Gap"
+title: "Sevenoaks GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Sevenoaks GCSE Maths tutors who find the older gap behind your child's lost marks and rebuild it. One-to-one online, matched on exam board, from £37 an hour."
+description: "GCSE Maths tutors for Sevenoaks who find the older gap behind your child's lost marks and rebuild it. One-to-one online, matched on exam board, from £37."
 layout: "level-subject"
 location: "Sevenoaks"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Sevenoaks, Back to Where the Gap Began"
+hero_h1: "GCSE Maths Tutors for Sevenoaks Students"
 hero_lead: "Careless mistakes, says the report, again. But in Maths, a Year 8 topic that never landed still costs marks in Year 11, and it can look a lot like carelessness. Our GCSE Maths tutors for Sevenoaks students find where the thread broke and rebuild it."
 
 angle_eyebrow: "THE THREAD THAT BROKE EARLIER"

@@ -7,7 +7,7 @@ location: "Beckenham"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Beckenham Students Who Dread the Writing Questions"
+hero_h1: "GCSE English Tutors for Beckenham Students"
 hero_lead: "Plenty of children read well and still dread the questions where they have to fill a page of their own against the clock. Our GCSE English tutors for Beckenham students work on planning and writing those answers, one-to-one and online from home."
 
 angle_eyebrow: "HALF THE LANGUAGE MARKS"

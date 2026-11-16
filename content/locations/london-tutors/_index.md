@@ -1,12 +1,12 @@
 ---
 title: "London Tutors | GCSE and A-Level | The Degree Gap"
-description: "Matched on your child's subject and exam board, not your postcode: London tutors for GCSE and A-Level, one-to-one and online. Lessons from £37, no contract."
+description: "Matched on your child's subject and exam board, not your postcode: Tutors for London, for GCSE and A-Level, one-to-one and online. Lessons from £37."
 layout: single
 location: London
-banner_heading: "Need an online London tutor who knows your child's exam board, not just the subject?"
+banner_heading: "GCSE and A-Level Tutors for London Families"
 banner_description: "We'll match your child with a tutor who knows their exam board and how they like to learn, so lessons line up with what school is setting."
 content_angle: "school environment"
-intro_1: "Finding a tutor in London isn't the hard part. There are thousands. The hard part is finding one who knows the exam board your child's school teaches and has marked the kind of papers they're about to sit. And who explains things in a way they'll actually listen to. A lot of London parents tell us they've already tried a few. The first tutor was lovely but didn't know the course the school was following. The second knew it inside out but couldn't hold a teenager's attention for an hour. The third was great, then moved away or stopped replying."
+intro_1: "Finding a tutor for London students isn't the hard part. There are thousands. The hard part is finding one who knows the exam board your child's school teaches and has marked the kind of papers they're about to sit. And who explains things in a way they'll actually listen to. A lot of London parents tell us they've already tried a few. The first tutor was lovely but didn't know the course the school was following. The second knew it inside out but couldn't hold a teenager's attention for an hour. The third was great, then moved away or stopped replying."
 intro_2: "That's the matching problem we set out to fix. We don't list everyone who applies. Every tutor is interviewed, and we look hard at how they explain things to a teenager, not just at their degree. So if you tell us your child is doing AQA GCSE Chemistry at a Hackney comprehensive, or Edexcel A-Level Maths at a Westminster sixth form, the tutors we suggest will know that paper. And that's usually the bit that gets a grade moving."
 about_heading: "Trusted Tutors for London Students"
 about_image: /images/wide-library-study-area.jpg
@@ -54,7 +54,7 @@ alevel_subjects:
   - "A-Level Geography Tuition|Fieldwork, big ideas and long essays, whether your child is climbing from a C or pushing an A towards an A*.|/book-a-call/"
 other_subjects:
   - "University Personal Statement|Draft-by-draft help with a UCAS personal statement, from the opening line to the last read before it goes off.|/book-a-call/"
-faq_1_q: "There are so many tutors in London. How do we pick one?"
+faq_1_q: "There are so many tutors for London students. How do we pick one?"
 faq_1_a: "Tell us your child's subject, year group and exam board, and what they're hoping for, and we'll do the searching. Within 24 hours of the call you'll have two or three profiles to look at, so there's no trawling through listings on your own."
 faq_2_q: "Lessons are all online. Can that really work for my child?"
 faq_2_a: "It really can. Online, we can find the right tutor for your child's subject and exam board anywhere in the UK, and lessons are easier to keep regular without a London commute. Your child can meet the tutor on a free video call first, too, so you'll both know how it feels before anything's booked."

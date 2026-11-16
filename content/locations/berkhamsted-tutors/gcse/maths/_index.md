@@ -1,13 +1,13 @@
 ---
 title: "Berkhamsted GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Does your child's Maths working fall apart halfway down the page? Our Berkhamsted GCSE Maths tutors work on that step, one-to-one and online, from £37 an hour."
+description: "Does your child's Maths working fall apart halfway down the page? Our GCSE Maths tutors for Berkhamsted work on that step, one-to-one and online, from £37."
 layout: "level-subject"
 location: "Berkhamsted"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutoring in Berkhamsted for When the Working Falls Apart Halfway Down the Page"
+hero_h1: "GCSE Maths Tutors for Berkhamsted Students"
 hero_lead: "You've probably seen it on a mock. The first few lines are right, then the method drifts and the marks go with it. Our GCSE Maths tutors for Berkhamsted students work one-to-one online and go straight to the step where your child's working breaks, not the whole topic again."
 
 angle_eyebrow: "ONE GRADE, SEVERAL A-LEVELS"
@@ -28,7 +28,7 @@ schools:
   - "Egerton-Rothesay School"
   - "West Herts College"
 
-steps_heading: "The three steps to a Berkhamsted GCSE Maths tutor"
+steps_heading: "The three steps to a GCSE Maths tutor for Berkhamsted students"
 steps_lead: "If you can, start before December of Year 11, when sixth form applications go in on predicted grades."
 steps:
   - title: "Tell us what's going on"

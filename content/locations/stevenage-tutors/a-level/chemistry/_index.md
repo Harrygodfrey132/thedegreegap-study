@@ -1,13 +1,13 @@
 ---
-title: "Stevenage Online A-Level Chemistry Tutors | The Degree Gap"
+title: "Stevenage A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
-description: "Moles, pH or practical questions costing your child marks? Our Stevenage A-Level Chemistry tutors help online, for a degree or a lab apprenticeship. From £37."
+description: "Moles, pH or practical questions costing your child marks? Our A-Level Chemistry tutors for Stevenage help online, for a degree or a lab apprenticeship."
 layout: "level-subject"
 location: "Stevenage"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors Helping Stevenage Families"
+hero_h1: "A-Level Chemistry Tutors for Stevenage Students"
 hero_lead: "Your child can follow every reaction in class and still come unstuck on the calculations in a mock. Our A-Level Chemistry tutors for Stevenage students work one-to-one online on the numbers side, from moles to pH, and on the practical questions that catch out careful sixth formers."
 
 angle_eyebrow: "WHEN CHEMISTRY TURNS INTO NUMBERS"

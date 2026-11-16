@@ -1,13 +1,13 @@
 ---
-title: "Stevenage A-Level Physics Tutors | Online | The Degree Gap"
+title: "Stevenage A-Level Physics Tutors | The Degree Gap"
 nav_title: "Physics"
-description: "Stevenage A-Level Physics tutors, online and one-to-one. If your child's mechanics answers go wrong halfway through, we start with the diagram. From £37."
+description: "A-Level Physics tutors for Stevenage, online and one-to-one. If your child's mechanics answers go wrong halfway through, we start with the diagram. From £37."
 layout: "level-subject"
 location: "Stevenage"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Stevenage Families"
+hero_h1: "A-Level Physics Tutors for Stevenage Students"
 hero_lead: "If your child's mechanics answers keep coming back wrong, it's usually the missing drawing rather than the algebra. Our A-Level Physics tutors for Stevenage students teach your child to sketch the situation first and do the maths second."
 
 angle_eyebrow: "WHERE THE MECHANICS MARKS GO"

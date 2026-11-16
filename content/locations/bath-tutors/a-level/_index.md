@@ -1,11 +1,11 @@
 ---
 title: "Bath A-Level Tuition | From £37/hr | The Degree Gap"
-description: "Bath A-Level tutors for the predicted grade your child's university and apprenticeship applications both rely on. Online one-to-one lessons from £37 an hour."
+description: "A-Level tutors for Bath, for the predicted grade your child's university and apprenticeship applications both rely on. Online one-to-one lessons from £37."
 layout: "subject"
 location: "Bath"
 level: "A-Level"
 
-hero_heading_line1: "Online Bath A-Level Tutors for When One Predicted Grade Counts Twice"
+hero_heading_line1: "A-Level Tutors for Bath Students"
 hero_heading_line2: ""
 hero_lead: "By October of Year 13, your child might be applying to universities and to degree apprenticeships at the same time. Both will look at the same predicted grade. Our A-Level tutors for Bath students work one-to-one online on the exam papers behind that number."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "Almost two grades above his Year 13 mock: that's how one parent describes their son's result."
 
 first_lesson_eyebrow: "ONE PREDICTION, READ IN TWO PLACES"
-first_lesson_heading: "How a Bath A-Level Tutor Treats a Predicted Grade as a Deadline"
+first_lesson_heading: "How an A-Level Tutor for Bath Students Treats a Predicted Grade as a Deadline"
 first_lesson_context: "If your child's applying to Bath, Bristol or Exeter and to an apprenticeship at Airbus or DE&S (part of the Ministry of Defence), both will judge them on one predicted grade. It's written in the autumn, from Year 12 results and early Year 13 work, so an A-Level tutor's job is to lift that work while there's still time. After that, it's about meeting your child's offer in the summer."
 first_lesson_quote: "My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
 first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Almost two grades up on a Year 13 mock"
 
-tutor_strip_heading: "Bath A-Level tutors who sat these exams recently themselves"
+tutor_strip_heading: "A-Level tutors for Bath students who sat these exams recently themselves"
 tutor_strip_body: "Many are recent graduates who remember exactly where a Year 12 mock loses marks, and some mark for the exam boards. Beechen Cliff, Ralph Allen, St Gregory's and King Edward's don't all use the same board, so we check your child's first. Browse the profiles, or let us match."
 
 pathways_heading: "What Bath Year 13s Apply For, and When"

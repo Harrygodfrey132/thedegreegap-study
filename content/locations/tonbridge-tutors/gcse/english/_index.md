@@ -1,13 +1,13 @@
 ---
 title: "GCSE English Tutors for Tonbridge | The Degree Gap"
 nav_title: "English"
-description: "Loves the set texts, finds the Language papers hard? Our Tonbridge GCSE English tutors work online with your child on both papers and timing. From £37."
+description: "Loves the set texts, finds the Language papers hard? Our GCSE English tutors for Tonbridge work online with your child on both papers and timing. From £37."
 layout: "level-subject"
 location: "Tonbridge"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Tonbridge, When It's the Language Grade That Counts"
+hero_h1: "GCSE English Tutors for Tonbridge Students"
 hero_lead: "Your child might love the set texts and still find the Language papers hard going, and that's the grade Tonbridge sixth forms tend to ask about. Our GCSE English tutors for Tonbridge students work online on both papers: the unseen extracts, the writing task and finishing in time."
 
 card_eyebrow: "FREE CONSULTATION"
@@ -36,7 +36,7 @@ schools:
   - "Leigh Academy Tonbridge"
   - "Leigh Academy Hugh Christie"
 
-steps_heading: "Finding your child a GCSE English tutor in Tonbridge: how it works"
+steps_heading: "Finding your child a GCSE English tutor for Tonbridge students: how it works"
 steps_lead: "The first lesson's usually booked within a week of your call. It helps to know the set texts before we talk, so we can look for tutors who know those books."
 steps:
   - title: "A free call to start"

@@ -1,5 +1,5 @@
 ---
-title: "Welwyn Garden City A-Level Maths Tutors | Online | The Degree Gap"
+title: "Welwyn Garden City A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Fine in A-Level Maths lessons but not in the mocks? Online one-to-one Welwyn Garden City tutors help your child practise the exam itself. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Welwyn Garden City"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Welwyn Garden City Families Worried About Mocks"
+hero_h1: "A-Level Maths Tutors for Welwyn Garden City Students"
 hero_lead: "The mock came back low, even though school says your child's fine in lessons. Both can be true, and it's very common. Our A-Level Maths tutors for Welwyn Garden City students work on the exam side."
 
 angle_eyebrow: "FINE IN CLASS, LOST IN THE HALL"

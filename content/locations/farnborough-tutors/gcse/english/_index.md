@@ -1,5 +1,5 @@
 ---
-title: "Farnborough GCSE English Tutors | Online | The Degree Gap"
+title: "Farnborough GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "Online GCSE English tutors for Farnborough families, with proper time on the opinion-writing task most children underrate. Matched on exam board, from £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Farnborough"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Farnborough and Cove"
+hero_h1: "GCSE English Tutors for Farnborough Students"
 hero_lead: "Your child has a college course picked out, and there's an English grade on the entry list. Our GCSE English tutors for Farnborough students give proper time to the Language task where your child argues their own view, which carries far more marks than most families realise."
 
 angle_eyebrow: "THE QUESTION THAT ASKS WHAT YOUR CHILD THINKS"

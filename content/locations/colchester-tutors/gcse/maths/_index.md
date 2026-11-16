@@ -1,13 +1,13 @@
 ---
-title: "Colchester GCSE Maths Tutors | Online | The Degree Gap"
+title: "Colchester GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Sixth form, college or an apprenticeship: most ask for a Maths grade. Our Colchester GCSE Maths tutors help your child reach it, one-to-one online, from £37."
+description: "Sixth form, college or an apprenticeship: most ask for a Maths grade. Our GCSE Maths tutors for Colchester help your child reach it, online, from £37."
 layout: "level-subject"
 location: "Colchester"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Colchester, Working Back From the Grade Your Child Needs"
+hero_h1: "GCSE Maths Tutors for Colchester Students"
 hero_lead: "Nearly every route your child could take after Year 11 puts a Maths grade in its entry requirements. Our GCSE Maths tutors for Colchester students start from that number and work backwards. They don't start at chapter one and hope."
 
 angle_eyebrow: "GCSE MATHS AND THE GRADE YOUR CHILD NEEDS"
@@ -28,7 +28,7 @@ schools:
   - "Stanway School"
   - "St Helena School"
 
-steps_heading: "From a free call to weekly lessons with a Colchester GCSE Maths tutor"
+steps_heading: "From a free call to weekly lessons with a GCSE Maths tutor for Colchester students"
 steps_lead: "Most families are matched within 24 hours. It helps to start before the mocks, because sixth form predicted grades lean on them."
 steps:
   - title: "Start with a free call"

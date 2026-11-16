@@ -1,13 +1,13 @@
 ---
 title: "Beaconsfield GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Your child's GCSE Maths grade goes with them to any sixth form. Our Beaconsfield tutors work one-to-one online, matched to your child's exam board. From £37."
+description: "Your child's GCSE Maths grade goes with them to any sixth form. Our tutors for Beaconsfield work online, matched to your child's exam board. From £37."
 layout: "level-subject"
 location: "Beaconsfield"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Beaconsfield, Whether Your Child Needs a Solid 5 or Is Reaching for the Top"
+hero_h1: "GCSE Maths Tutors for Beaconsfield Students"
 hero_lead: "Maybe the Maths mock came back a grade under target, or the homework's still open at ten o'clock. Our GCSE Maths tutors for Beaconsfield students work one-to-one online, going back to the algebra or fractions step where the marks first slipped and building up from there."
 
 card_heading: "Start with a chat about your child's Maths"

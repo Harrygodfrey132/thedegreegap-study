@@ -1,5 +1,5 @@
 ---
-title: "Brighton A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Brighton A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Is your child mixing up the Group 7 trends? Our online Brighton A-Level Chemistry tutors help them untangle the halogens and halide tests. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Brighton"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutoring for Families in Brighton and Hove"
+hero_h1: "A-Level Chemistry Tutors for Brighton Students"
 hero_lead: "Group 7 has two trends running in opposite directions, and it's easy to merge them. Our A-Level Chemistry tutors for Brighton students pull oxidising and reducing power apart with your child, and drill the halide tests."
 
 angle_eyebrow: "OXIDISING ONE WAY, REDUCING THE OTHER"

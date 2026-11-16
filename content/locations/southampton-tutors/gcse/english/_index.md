@@ -1,13 +1,13 @@
 ---
-title: "Online GCSE English Tutors | Southampton | The Degree Gap"
+title: "GCSE English Tutors | Southampton | The Degree Gap"
 nav_title: "English"
-description: "Southampton GCSE English tutors, online and one-to-one. We'll find out if Language or Literature is holding your child's grade down, then work on it. From £37."
+description: "GCSE English tutors for Southampton, online. We'll find out if Language or Literature is holding your child's grade down, then work on it. From £37."
 layout: "level-subject"
 location: "Southampton"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "One-to-One GCSE English Tutors in Southampton, All Online"
+hero_h1: "GCSE English Tutors for Southampton Students"
 hero_lead: "Your child might be doing fine in Literature and still losing marks all over Language, without anyone quite explaining why. They're two separate GCSEs, marked in almost opposite ways. Our GCSE English tutors for Southampton students start by finding out which one is really holding the grade down."
 
 angle_eyebrow: "LITERATURE FINE, LANGUAGE SLIPPING?"
@@ -28,7 +28,7 @@ schools:
   - "Redbridge Community School"
   - "Oasis Academy Mayfield"
 
-steps_heading: "Your first three steps with a Southampton GCSE English tutor"
+steps_heading: "Your first three steps with a GCSE English tutor for Southampton students"
 steps_lead: "New habits in English take a few weeks to stick, so if you've got the choice, autumn beats spring. Tutor profiles usually land within 24 hours of the call."
 steps:
   - title: "A free call first"

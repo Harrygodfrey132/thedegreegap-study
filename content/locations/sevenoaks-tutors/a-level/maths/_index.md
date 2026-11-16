@@ -1,5 +1,5 @@
 ---
-title: "Sevenoaks A-Level Maths Tutors | Online | The Degree Gap"
+title: "Sevenoaks A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "A-Level Maths tutors for Sevenoaks and west Kent, online, for the top-grade marks lost describing sequences and recurrence relations. From £37, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Sevenoaks"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Sevenoaks and West Kent"
+hero_h1: "A-Level Maths Tutors for Sevenoaks Students"
 hero_lead: "If your child's marks stop just short of the top grade, the missing ones are rarely in the arithmetic. Our A-Level Maths tutors for Sevenoaks students work on the questions that ask them to describe what the numbers are doing, from sequences to recurrence relations."
 
 angle_eyebrow: "THE MARKS ARE IN THE DESCRIBING"

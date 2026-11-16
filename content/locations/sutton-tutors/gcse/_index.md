@@ -1,11 +1,11 @@
 ---
 title: "Sutton GCSE Tutors | One-to-One | The Degree Gap"
-description: "A sixth form place can hang on a few grades. Our Sutton GCSE tutors find where your child's losing marks and work on it one-to-one online, from £37 an hour."
+description: "A sixth form place can hang on a few grades. Our GCSE tutors for Sutton find where your child's losing marks and work on it one-to-one online, from £37 an hour."
 layout: "subject"
 location: "Sutton"
 level: "GCSE"
 
-hero_heading_line1: "GCSE Tutoring for Sutton Students That Gets a Stalled Grade Moving Before Sixth Form"
+hero_heading_line1: "GCSE Tutors for Sutton Students"
 hero_heading_line2: ""
 hero_lead: "Somewhere in Year 11, mock grades turn into the predicted grades a sixth form reads. Our GCSE tutors for Sutton students work back from whichever paper's losing your child the marks, so the number on the form is one they can actually hit."
 
@@ -14,14 +14,14 @@ grade_to: "B"
 grade_stat: "From an E to a B at GCSE, as Keira tells it herself."
 
 first_lesson_eyebrow: "TWO GATES, FIVE YEARS APART"
-first_lesson_heading: "The Second Gate a Sutton GCSE Tutor Helps Your Child Through"
+first_lesson_heading: "The Second Gate a GCSE Tutor for Sutton Students Helps Your Child Through"
 first_lesson_context: "For lots of Sutton families the 11+ was the first gate, and the same worry comes back around Year 10. The school's strong, your child's working, and the grade has stopped moving anyway. A first lesson usually finds a Year 8 or 9 topic that a busy class never had time to revisit, hiding under the one that looks like the problem."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B at GCSE"
 
-tutor_strip_heading: "Sutton GCSE tutors matched to the exam board your child's school uses"
+tutor_strip_heading: "GCSE tutors for Sutton students matched to the exam board your child's school uses"
 tutor_strip_body: "Nonsuch, Greenshaw, Wilson's and Cheam High don't all follow the same courses, so the exam board is the first thing we'll check with you. Every tutor's met Harry or Joe in an interview that only about 3% of applicants pass. Scroll through a few, or let us pick."
 
 pathways_heading: "The Second Set of Doors After Sutton GCSEs"

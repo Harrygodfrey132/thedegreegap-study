@@ -1,11 +1,11 @@
 ---
-title: "Bicester GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "A move to a Bicester school mid-GCSE can leave gaps, and so can a hard Year 10. Our Bicester GCSE tutors find them and fill them, one-to-one online, from £37."
+title: "Bicester GCSE Tutors | One-to-One | The Degree Gap"
+description: "A move to a Bicester school mid-GCSE can leave gaps, and so can a hard Year 10. Our GCSE tutors for Bicester find them and fill them, online, from £37."
 layout: "subject"
 location: "Bicester"
 level: "GCSE"
 
-hero_heading_line1: "Online Bicester GCSE Tutors Who Start From Where Your Child Really Is"
+hero_heading_line1: "GCSE Tutors for Bicester Students"
 hero_heading_line2: ""
 hero_lead: "Since the move, some homework comes back covered in ticks and some sits on the desk all evening, while you wonder whether to say anything. Our GCSE tutors for Bicester students work out what's behind the stuck bits, one-to-one online, and start on them in the very first lesson."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "Omo's son improved from a grade 5 to a 6/7 in GCSE English, she writes in her Google review."
 
 first_lesson_eyebrow: "PICKING UP A COURSE MIDWAY"
-first_lesson_heading: "What a Bicester GCSE Tutor Checks Before Anything Else"
+first_lesson_heading: "What a GCSE Tutor for Bicester Students Checks Before Anything Else"
 first_lesson_context: "A child who changes school in Year 9 or 10 can end up with a GCSE course that has a few pages missing and a few read twice. So before teaching anything new, the GCSE tutor puts your child's latest marked work next to the new course's topic list and finds where the two don't line up."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to a 6/7 in GCSE English"
 
-tutor_strip_heading: "Bicester GCSE tutors for children joining a new course"
+tutor_strip_heading: "GCSE tutors for Bicester students, for children joining a new course"
 tutor_strip_body: "Your child's class at Whitelands, The Cooper School or The Bicester School may be at a different point in the course from their old one. We'll ask about both schools on the call. Browse a few tutors now, or tell us about your child and we'll suggest some."
 
 pathways_heading: "Where Bicester Teenagers Can Go After Year 11"

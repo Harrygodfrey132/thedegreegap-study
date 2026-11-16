@@ -1,13 +1,13 @@
 ---
-title: "Oxford A-Level Biology Tutors | Online | The Degree Gap"
+title: "Oxford A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Can your child define enzyme inhibition but not read the graph? Our Oxford A-Level Biology tutors work on the curves that carry the marks. Online, from £37."
+description: "Can your child define enzyme inhibition but not read the graph? Our A-Level Biology tutors for Oxford work on the curves that carry the marks. Online, from £37."
 layout: "level-subject"
 location: "Oxford"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online One-to-One A-Level Biology Tutors for Oxford"
+hero_h1: "A-Level Biology Tutors for Oxford Students"
 hero_lead: "Enzyme inhibition usually turns up as a graph, and that's where lots of capable teenagers drop marks. Our A-Level Biology tutors for Oxford students help your child read the curves and explain what their shape means."
 
 angle_eyebrow: "THE GRAPH IS THE QUESTION"

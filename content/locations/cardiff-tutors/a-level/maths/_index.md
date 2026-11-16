@@ -7,7 +7,7 @@ location: "Cardiff"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Cardiff Students, With the AS Units in View"
+hero_h1: "A-Level Maths Tutors for Cardiff Students"
 hero_lead: "In Wales, the AS Maths papers your child sits in Year 12 make up 40% of the A-Level, and the first Pure paper alone is a quarter of it. Our A-Level Maths tutors for Cardiff students get the GCSE algebra quick first, then move through Pure, Statistics and Mechanics."
 
 angle_eyebrow: "40% DECIDED BEFORE YEAR 13"

@@ -1,9 +1,9 @@
 ---
-title: "Online Tutoring for Tooting Families | The Degree Gap"
+title: "Tutoring for Tooting Families | The Degree Gap"
 description: "Looking at tuition centres in Tooting because your child is slipping? We'll match them with a one-to-one online tutor instead. From £37 an hour, no contract."
 layout: "single"
 location: "Tooting"
-banner_heading: "Online tutoring for Tooting children, one-to-one, with no centre to get to"
+banner_heading: "GCSE and A-Level Tutors for Tooting Families"
 banner_description: "Plenty of tuition centres teach a small group from a set programme. We match your child with one tutor, from anywhere in the UK, who starts from their own schoolwork."
 content_angle: "tuition centre or one-to-one: Tooting parents searching for a centre, and what one tutor working from your child's own school books, at home, does differently"
 intro_1: "If you've been searching for a tuition centre in Tooting, you've already decided something has to change. Maybe it's the Maths homework that ends with a slammed laptop, or a school report that's said 'capable of more' three years running. You're tired of being the one who nags. And you've probably walked past a centre or two on the way home from the Broadway and wondered whether Saturday mornings there would sort it. Sometimes they do. But the children who reach us have usually been stuck on one particular thing for a long time, often a method from Year 8 or a topic they missed while they were off ill."

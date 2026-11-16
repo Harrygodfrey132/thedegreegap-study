@@ -1,11 +1,11 @@
 ---
-title: "GCSE Tutors in Farnham | Online One-to-One | The Degree Gap"
-description: "Year 11 in Farnham means mocks and a college application at once. Our Farnham GCSE tutors work one-to-one online on the subjects that count. From £37."
+title: "GCSE Tutors in Farnham | One-to-One | The Degree Gap"
+description: "Year 11 in Farnham means mocks and a college application at once. Our GCSE tutors for Farnham work one-to-one online on the subjects that count. From £37."
 layout: "subject"
 location: "Farnham"
 level: "GCSE"
 
-hero_heading_line1: "Online Farnham GCSE Tutors for the Year of Mocks and College Applications"
+hero_heading_line1: "GCSE Tutors for Farnham Students"
 hero_heading_line2: ""
 hero_lead: "In Year 11 your child is revising for mocks and choosing a college in the same few months, and that's a lot for one teenager. Our GCSE tutors for Farnham students take the subject that worries you most and work on it with your child, one-to-one and online."
 
@@ -14,14 +14,14 @@ grade_to: "B"
 grade_stat: "Keira says her tutoring definitely helped her increase her grades from an E to a B."
 
 first_lesson_eyebrow: "WHERE THE FIRST HOUR GOES"
-first_lesson_heading: "What a Farnham GCSE Tutor Does With Your Child's Last Mock"
+first_lesson_heading: "What a GCSE Tutor for Farnham Students Does With Your Child's Last Mock"
 first_lesson_context: "Lots of Farnham parents get in touch after a mock, with a college open evening in the diary and one grade that won't shift. Have that paper ready for the first lesson. By the end of it, the GCSE tutor should know whether your child's marks went on topics that never made sense or on questions they could do but didn't reach in time."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "From an E to a B at GCSE"
 
-tutor_strip_heading: "Farnham GCSE tutors chosen subject by subject, board by board"
+tutor_strip_heading: "GCSE tutors for Farnham students chosen subject by subject, board by board"
 tutor_strip_body: "Weydon, Farnham Heath End and All Hallows choose their own exam boards, so the first thing we check is which papers your child will sit. Every tutor here was interviewed by Harry or Joe before joining, and only around 3% of applicants are taken on."
 
 pathways_heading: "After GCSEs in Farnham: Colleges on Both Sides of the Border"

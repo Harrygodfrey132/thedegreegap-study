@@ -1,13 +1,13 @@
 ---
 title: "Bromley GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "A good paragraph on each text, but never the two side by side? Bromley GCSE English tutors work online on comparison answers with your child. From £37 an hour."
+description: "A good paragraph on each text, but never the two side by side? GCSE English tutors for Bromley work online on comparison answers with your child. From £37."
 layout: "level-subject"
 location: "Bromley"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors Covering Bromley, for the Comparison Questions That Cost Marks"
+hero_h1: "GCSE English Tutors for Bromley Students"
 hero_lead: "Ask your child about one poem and you'll get a decent paragraph. Ask for two side by side and it turns into a list. Our GCSE English tutors for Bromley students work one-to-one online on the questions that need both texts held in mind at once."
 
 angle_eyebrow: "TWO TEXTS, ONE ARGUMENT"

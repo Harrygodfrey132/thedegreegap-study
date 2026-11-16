@@ -1,9 +1,9 @@
 ---
-title: "Online Tutors for Your Child in Princes Risborough | The Degree Gap"
+title: "Tutors for Your Child in Princes Risborough | The Degree Gap"
 description: "Long school days leaving no time to catch up? We'll match your child in Princes Risborough with an online tutor who suits them. From £37 an hour, no contract."
 layout: "single"
 location: "Princes Risborough"
-banner_heading: "Online tutoring for Princes Risborough children, without another trip to Aylesbury or Wycombe"
+banner_heading: "GCSE and A-Level Tutors for Princes Risborough Families"
 banner_description: "Your child already spends enough of the day on a bus or a train. Harry or Joe gets to know them on a free call, then we find a tutor who suits them, and the lessons happen at home."
 content_angle: "the long school day: children scattered at eleven between Princes Risborough School and the grammars in Aylesbury and High Wycombe, short evenings, and online lessons that don't add another journey"
 intro_1: "Some Princes Risborough children walk to school along Merton Road. Plenty of others are at the bus stop before eight, heading for Aylesbury or High Wycombe, because the Transfer Test in Year 6 sent friends from the same primary in different directions. Either way, by the time they're home, fed and sat down with their homework, most of the evening has gone. So when one subject starts to slip, there's very little evening left to put it right. You notice it in small ways. Homework saved for the last possible night. A test result that never quite made it home. 'Fine', whenever you ask."

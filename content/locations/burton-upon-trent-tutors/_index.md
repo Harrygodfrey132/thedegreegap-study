@@ -1,9 +1,9 @@
 ---
-title: "Online Tutoring for Burton upon Trent Families | The Degree Gap"
+title: "Tutoring for Burton upon Trent Families | The Degree Gap"
 description: "Looking for tuition in Burton upon Trent that works around shifts? We'll match your child with an online tutor who suits them. From £37 an hour, no contract."
 layout: "single"
 location: "Burton upon Trent"
-banner_heading: "Online tutors for Burton upon Trent children, for the evenings you're on a late shift"
+banner_heading: "GCSE and A-Level Tutors for Burton upon Trent Families"
 banner_description: "Your child learns at home with a tutor chosen for them, every lesson has a replay you can watch after work, and it all starts with a free call with Harry or Joe."
 content_angle: "shift-working families: homework happens while a parent is at work, so lessons with a replay fit around the rota"
 intro_1: "The rota's on the fridge, and this week it says lates. So it's a grandparent, or an older sister, or nobody, sitting near the Maths homework, and by the time you're back from Queen's or the brewery or one of the distribution warehouses, the book's shut and your child has 'done it'. Lots of Burton parents work shifts. This is a town that brews beer, makes Marmite from the leftover yeast and stocks warehouses for Amazon and Boots, and none of that stops at half past three. You're not letting anyone down. You just can't be in two places, and one subject can drift for a whole term before a report says so."

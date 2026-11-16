@@ -1,11 +1,11 @@
 ---
-title: "Welwyn Garden City A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "Year 13 feeling harder because Year 12 never quite stuck? Welwyn Garden City A-Level tutors, one-to-one and online, from £37 an hour, with no contract."
+title: "Welwyn Garden City A-Level Tutors | One-to-One | The Degree Gap"
+description: "Year 13 feeling harder because Year 12 never quite stuck? A-Level tutors for Welwyn Garden City, one-to-one and online, from £37 an hour, with no contract."
 layout: "subject"
 location: "Welwyn Garden City"
 level: "A-Level"
 
-hero_heading_line1: "Online Welwyn Garden City A-Level Tutors for When Year 13 Suddenly Feels Harder"
+hero_heading_line1: "A-Level Tutors for Welwyn Garden City Students"
 hero_heading_line2: ""
 hero_lead: "Your child coped with Year 12. Now every new Year 13 topic seems to trip them up, and that's usually something from last year that never quite stuck. Our A-Level tutors for Welwyn Garden City students go back and find it."
 
@@ -14,14 +14,14 @@ grade_to: "C"
 grade_stat: "A parent's review, not a promise: their son had left the work late and still turned E and U grades into three Cs."
 
 first_lesson_eyebrow: "WHERE YEAR 13 TROUBLE STARTS"
-first_lesson_heading: "Last Year's Topics Come First With a Welwyn Garden City A-Level Tutor"
+first_lesson_heading: "Last Year's Topics Come First With an A-Level Tutor for Welwyn Garden City Students"
 first_lesson_context: "It can look as if Year 13 is the problem. More often, a Year 12 topic went in for a test and didn't stay, and now every new chapter sits on top of it. So the tutor goes through some recent marked work with your child, finds the Year 12 topics the rest is leaning on, and fixes those first."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to three C grades at A-Level"
 
-tutor_strip_heading: "Welwyn Garden City A-Level tutors who go back before going forward"
+tutor_strip_heading: "A-Level tutors for Welwyn Garden City students who go back before going forward"
 tutor_strip_body: "Monk's Walk, Ridgeway Academy, Stanborough and the Hatfield sixth forms don't all use the same exam boards. So we find out which ones your child's on first. Harry or Joe interview every tutor, and only around 3% of applicants get through. Book a free call to see profiles."
 
 pathways_heading: "After Welwyn Garden City A-Levels: Where Your Child Might Head Next"

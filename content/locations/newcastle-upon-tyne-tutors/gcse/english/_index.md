@@ -1,13 +1,13 @@
 ---
 title: "Newcastle upon Tyne GCSE English Tuition | The Degree Gap"
 nav_title: "English"
-description: "Quotations learnt, and the English mark still hasn't moved? Our Newcastle upon Tyne GCSE English tutors help your child practise the exam questions. From £37."
+description: "Quotations learnt, and the English mark still hasn't moved? Our online GCSE English tutors help Newcastle upon Tyne students practise the exam questions."
 layout: "level-subject"
 location: "Newcastle upon Tyne"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Newcastle upon Tyne GCSE English Tutoring, Online and Built Around the Exam Questions"
+hero_h1: "GCSE English Tutors for Newcastle upon Tyne Students"
 hero_lead: "Pages of quotations learnt, the plot known inside out, and the mark comes back exactly where it was. Our GCSE English tutors for Newcastle upon Tyne students get your child practising the exam questions themselves, one-to-one and online. The kinds of question barely change from year to year."
 
 angle_eyebrow: "SAME QUESTIONS, DIFFERENT TEXT"

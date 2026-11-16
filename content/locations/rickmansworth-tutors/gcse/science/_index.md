@@ -1,13 +1,13 @@
 ---
 title: "GCSE Science Tutors in Rickmansworth | The Degree Gap"
 nav_title: "Science"
-description: "Knows the facts but loses marks on calculations and practicals? Rickmansworth GCSE Science tutors who work on exactly that. Online, one-to-one, from £37."
+description: "Knows the facts but loses marks on calculations and practicals? GCSE Science tutors for Rickmansworth who work on exactly that. Online, one-to-one, from £37."
 layout: "level-subject"
 location: "Rickmansworth"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Rickmansworth Families"
+hero_h1: "GCSE Science Tutors for Rickmansworth Students"
 hero_lead: "Revising more facts won't help if the Science marks are going on calculations, or on a practical from Year 10 that your child has half forgotten. Our GCSE Science tutors for Rickmansworth students work out which kind of question is costing marks and practise exactly that."
 
 angle_eyebrow: "THE MATHS AND THE EXPERIMENTS"
@@ -43,7 +43,7 @@ faqs:
     a: "Yes, quite a lot. Skanska's UK head office is at Maple Cross, just outside Rickmansworth, and its apprenticeships include civil engineering and mechanical and electrical engineering, where Physics and Maths come up all the time. Each scheme sets its own entry grades, so read the advert closely. A tutor can work on the physics-heavy topics, like forces and electricity, alongside whatever your child finds hardest."
   - q: "Should my child sit foundation or higher tier Science?"
     a: "It depends where your child's marks sit now. In Combined Science, foundation papers top out at a 5-5, while higher papers run from 4-4 up to 9-9. Schools usually make the entry decision in Year 11 using mock results. A tutor can show you which topics stand between your child and a comfortable higher-tier paper, so the conversation with school starts from evidence."
-  - q: "My child's only in Year 10. Is it too early for a Rickmansworth Science tutor?"
+  - q: "My child's only in Year 10. Is it too early for a Science tutor for Rickmansworth students?"
     a: "Not at all, and it can be the easiest time to start. Much of what's taught in Year 10 Science gets built on in Year 11, so a shaky topic now gets harder to fix later. Lessons can go at a gentler pace and fill gaps properly, without a mock date looming. And if your child is doing some of the practicals this year, it's a good moment to make sure they understand what each one was for."
   - q: "Who are the Science tutors, and how do you check them?"
     a: "Every one has been interviewed by Harry or Joe, and most applicants are turned away. Each has at least two years of tutoring behind them, and some are qualified teachers. For Science we also check they know your child's board, because each board has its own set of practicals. Whether your child takes combined or separate sciences changes who we'd suggest, too."

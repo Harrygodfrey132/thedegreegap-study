@@ -1,10 +1,10 @@
 ---
-title: "Online GCSE Tutors for Saffron Walden Teenagers | The Degree Gap"
+title: "GCSE Tutors for Saffron Walden Teenagers | The Degree Gap"
 description: "Is a low forecast grade narrowing your child's sixth form choices? We match Saffron Walden students with an online GCSE tutor on their exam board. From £37."
 layout: "subject"
 location: "Saffron Walden"
 level: "GCSE"
-hero_heading_line1: "Online GCSE Tutors for Saffron Walden Teenagers Whose Forecast Grades Are Holding Them Back"
+hero_heading_line1: "GCSE Tutors for Saffron Walden Students"
 hero_heading_line2: ""
 hero_lead: "Forecast grades start to matter in Year 11, when your child picks next year's courses long before the real exams. Our GCSE tutors for Saffron Walden students find what's keeping a forecast low and work on it every week."
 grade_from: "5"

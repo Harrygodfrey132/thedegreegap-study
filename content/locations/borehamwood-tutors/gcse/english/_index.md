@@ -7,7 +7,7 @@ location: "Borehamwood"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Borehamwood Students Who Freeze at the Blank Page"
+hero_h1: "GCSE English Tutors for Borehamwood Students"
 hero_lead: "Your child could storyboard a scene in seconds, then the creative writing question hands them an empty page and a clock. Our GCSE English tutors for Borehamwood students teach a plan they can use every time, so the words come out in order."
 
 angle_eyebrow: "FROM STORYBOARD TO PARAGRAPH"

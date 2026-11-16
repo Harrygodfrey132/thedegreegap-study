@@ -7,7 +7,7 @@ location: "Newbury"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Newbury Students Who Stall on Victorian Prose"
+hero_h1: "GCSE English Tutors for Newbury Students"
 hero_lead: "Your child enjoyed the plot of The Sign of the Four, then an extract full of long Victorian sentences turns up in the exam and they don't know where to begin. Our GCSE English tutors for Newbury students practise those extracts until the language stops getting in the way."
 
 angle_eyebrow: "SHERLOCK HOLMES, MACBETH AND A BLANK PAGE"

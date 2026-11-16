@@ -1,11 +1,11 @@
 ---
 title: "Cambridge GCSE Tutors | Built Around Your Child | The Degree Gap"
-description: "Cambridge GCSE tutors for Year 10 and 11, whether your child needs a steady pass or the 7 a sixth form subject asks for. One-to-one and online, from £37."
+description: "GCSE tutors for Cambridge, for Year 10 and 11, whether your child needs a steady pass or the 7 a sixth form subject asks for. One-to-one and online, from £37."
 layout: "subject"
 location: "Cambridge"
 level: "GCSE"
 
-hero_heading_line1: "Online Cambridge GCSE Tutors for When Your Child Needs More Than Classroom Pace"
+hero_heading_line1: "GCSE Tutors for Cambridge Students"
 hero_heading_line2: ""
 hero_lead: "Some Cambridge parents are hoping for a steady pass in English and Maths. Others have a child whose mock came back one grade short of what a sixth form subject asks for. Either way, our GCSE tutors for Cambridge students start from where your child is today, on their own exam board."
 
@@ -14,7 +14,7 @@ grade_to: "6/7"
 grade_stat: "Omo's son, in Year 10, went from a grade 5 to a 6/7 in English over six months of tutoring."
 
 first_lesson_eyebrow: "INSIDE A CAMBRIDGE YEAR 10 SESSION"
-first_lesson_heading: "How a Cambridge GCSE Tutor Builds From the First Mock"
+first_lesson_heading: "How a GCSE Tutor for Cambridge Students Builds From the First Mock"
 first_lesson_context: "It's a call we get a lot in Cambridge: your child works hard, school's going well, and then the mock comes back a 6 when the course they want at Hills Road usually asks for a 7. In the first lesson, a GCSE tutor rarely finds a topic your child doesn't know. More often it's the longer answers there hasn't been time to practise, like a six-mark Science question or an English essay written against the clock."
 
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7. I honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset. …"
@@ -22,7 +22,7 @@ first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "GCSE English"
 
-tutor_strip_heading: "Cambridge GCSE tutors for the step up to Hills Road or Long Road"
+tutor_strip_heading: "GCSE tutors for Cambridge students, for the step up to Hills Road or Long Road"
 tutor_strip_body: "Every tutor has at least two years' tutoring, including those still at university, and we interview each one ourselves. We'll match them to the exam board your child's school uses, at Parkside, Netherhall, Stephen Perse or anywhere else. Have a look at the profiles, or let us choose."
 
 pathways_heading: "The Next Step After Cambridge GCSEs"

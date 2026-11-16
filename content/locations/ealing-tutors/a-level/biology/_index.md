@@ -7,7 +7,7 @@ location: "Ealing"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Ealing Students Whose Long Answers Fall Short"
+hero_h1: "A-Level Biology Tutors for Ealing Students"
 hero_lead: "Your child can recite the Krebs cycle, then a long question asks them to link it to a muscle short of oxygen and the answer stalls. Our A-Level Biology tutors for Ealing students work on those joined-up answers and the required practicals, online."
 
 angle_eyebrow: "WHEN TOPICS HAVE TO TALK TO EACH OTHER"

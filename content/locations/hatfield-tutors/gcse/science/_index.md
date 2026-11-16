@@ -1,13 +1,13 @@
 ---
-title: "Hatfield GCSE Science Tutors | Online | The Degree Gap"
+title: "Hatfield GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Not sure if your child gets the Physics equations in the exam or must learn them? Our Hatfield GCSE Science tutors check, then practise them. From £37 an hour."
+description: "Does your child need to learn the Physics equations, or are they given? Our online GCSE Science tutors for Hatfield students check, then practise them."
 layout: "level-subject"
 location: "Hatfield"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Covering Hatfield"
+hero_h1: "GCSE Science Tutors for Hatfield Students"
 hero_lead: "Your child may not be sure whether the Physics equations will be given in the exam or need learning by heart. Our GCSE Science tutors for Hatfield students sort that out early, then practise choosing the right one."
 
 angle_eyebrow: "GIVEN IN THE EXAM, OR LEARNT BY HEART?"
@@ -27,7 +27,7 @@ schools:
   - "Stanborough School"
   - "Monk's Walk School"
 
-steps_heading: "Getting a Hatfield GCSE Science Tutor, Step by Step"
+steps_heading: "Getting a GCSE Science Tutor for Hatfield Students, Step by Step"
 steps_lead: "It's usually only a few days from our first chat to your child's first lesson. Here's how it goes."
 steps:
   - title: "A free call to begin"

@@ -1,13 +1,13 @@
 ---
 title: "Portsmouth A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "When nerve impulses or the kidney stop making sense, Portsmouth A-Level Biology tutors rebuild them online, one-to-one and step by step. From £37 an hour."
+description: "When nerve impulses or the kidney stop making sense, A-Level Biology tutors for Portsmouth rebuild them online, one-to-one and step by step. From £37 an hour."
 layout: "level-subject"
 location: "Portsmouth"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "A-Level Biology Tutors for Portsmouth and South Hampshire"
+hero_h1: "A-Level Biology Tutors for Portsmouth Students"
 hero_lead: "Has Biology gone quiet at home since nerve impulses came up? That's common, and it isn't a sign your child can't do it. Our A-Level Biology tutors for Portsmouth students go back to where it stopped making sense and rebuild it, one stage at a time."
 
 angle_eyebrow: "WHEN THE NERVES TOPIC ARRIVES"
@@ -28,7 +28,7 @@ schools:
   - "King Richard School"
   - "The Portsmouth Academy"
 
-steps_heading: "Your First Steps Towards a Portsmouth A-Level Biology Tutor"
+steps_heading: "Your First Steps Towards an A-Level Biology Tutor for Portsmouth Students"
 steps_lead: "Rebuilding takes weeks rather than longer lessons, so an earlier start helps more than extra hours later. Profiles usually come through within a day."
 steps:
   - title: "When Biology went quiet"

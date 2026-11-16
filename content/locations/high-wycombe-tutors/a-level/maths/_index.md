@@ -1,5 +1,5 @@
 ---
-title: "High Wycombe A-Level Maths Tutors | Online | The Degree Gap"
+title: "High Wycombe A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Is your child losing marks on differential equations? Online A-Level Maths tutors for High Wycombe who find out if it's the setting up or the solving."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "High Wycombe"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutoring in High Wycombe, From Setting Up to Solving"
+hero_h1: "A-Level Maths Tutors for High Wycombe Students"
 hero_lead: "Your child can do the calculus and still lose the differential equations question, because it's two skills in one. Our A-Level Maths tutors for High Wycombe students work on the join: turning words into an equation, then solving it."
 
 angle_eyebrow: "TWO SKILLS IN ONE QUESTION"

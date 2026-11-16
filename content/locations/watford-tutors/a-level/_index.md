@@ -5,7 +5,7 @@ layout: "subject"
 location: "Watford"
 level: "A-Level"
 
-hero_heading_line1: "Online Watford A-Level Tutors for When Year 12 Hits Harder Than GCSEs Did"
+hero_heading_line1: "A-Level Tutors for Watford Students"
 hero_heading_line2: ""
 hero_lead: "Good GCSEs, then a first round of A-Level marks lower than anyone expected. Lots of Watford families see this in Year 12. Our A-Level tutors for Watford students find where each subject changed shape and close the gap before the exams that feed the UCAS prediction."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "Taken from a real parent's review: their child's A-Level grades went from Cs to As."
 
 first_lesson_eyebrow: "A WATFORD YEAR 12 RESET"
-first_lesson_heading: "Where a Watford A-Level Tutor Starts When Year 12 Bites"
+first_lesson_heading: "Where an A-Level Tutor for Watford Students Starts When Year 12 Bites"
 first_lesson_context: "Most first lessons with a Watford Year 12 turn up the same thing. Your child knows most of the content, but their answers describe when the marks are for weighing things up. So the A-Level tutor marks a recent essay or paper the way the exam board would, then tells you plainly what's costing the marks."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "C grades to A grades in A-Level"
 
-tutor_strip_heading: "Watford A-Level tutors who know the London and Hertfordshire routes ahead"
+tutor_strip_heading: "A-Level tutors for Watford students who know the London and Hertfordshire routes ahead"
 tutor_strip_body: "Many of the tutors we suggest in Watford graduated from Russell Group universities recently, so the courses your child's sixth form teaches are fresh in their minds. They'll mark essays the way an examiner would. Have a look at the profiles, or ask us to pick for you."
 
 pathways_heading: "What Follows A-Levels in Watford"

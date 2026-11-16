@@ -1,13 +1,13 @@
 ---
 title: "Croydon GCSE English Tuition | The Degree Gap"
 nav_title: "English"
-description: "When your child's English essays keep landing in the same band, our Croydon GCSE English tutors find the missing step up. Online, one-to-one, from £37 an hour."
+description: "When your child's English essays keep landing in the same band, our GCSE English tutors for Croydon find the missing step up. Online, one-to-one, from £37."
 layout: "level-subject"
 location: "Croydon"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Helping Croydon Families Move an Essay Up a Band"
+hero_h1: "GCSE English Tutors for Croydon Students"
 hero_lead: "English isn't marked a point at a time. The examiner reads your child's whole answer and puts it in a band, and the band decides most of the mark. So the real question is which word in the band description the essay hasn't earned yet. Our GCSE English tutors for Croydon students find that word, one-to-one and online."
 
 angle_eyebrow: "MARKED IN BANDS, NOT IN POINTS"

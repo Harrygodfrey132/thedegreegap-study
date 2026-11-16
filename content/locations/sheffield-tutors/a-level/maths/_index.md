@@ -1,13 +1,13 @@
 ---
-title: "Sheffield A-Level Maths Tutors | Online | The Degree Gap"
+title: "Sheffield A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Sheffield A-Level Maths tutors for Year 12 and 13, online and one-to-one. Calculus, Mechanics and proof, with AMRC and university routes in mind. From £37."
+description: "A-Level Maths tutors for Sheffield, for Year 12 and 13, online and one-to-one. Calculus, Mechanics and proof, with AMRC and university routes in mind. From £37."
 layout: "level-subject"
 location: "Sheffield"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Sheffield Year 12s and 13s"
+hero_h1: "A-Level Maths Tutors for Sheffield Students"
 hero_lead: "Year 12 Maths knocks plenty of confident teenagers sideways, even ones who breezed through their GCSEs. Our A-Level Maths tutors for Sheffield students find where your child's marks are slipping, from calculus to Mechanics, and rebuild from there in weekly online lessons."
 
 angle_eyebrow: "WHERE THE ENGINEERING ROUTES BEGIN"
@@ -28,7 +28,7 @@ schools:
   - "King Ecgbert School"
   - "Notre Dame High School"
 
-steps_heading: "Getting Your Child Started With a Sheffield A-Level Maths Tutor"
+steps_heading: "Getting Your Child Started With an A-Level Maths Tutor for Sheffield Students"
 steps_lead: "Tutor profiles tend to land within a day. If an AMRC application might be on the cards, Year 12 is a better time to start than Year 13."
 steps:
   - title: "A free call first"

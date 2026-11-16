@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors for Burntwood Teenagers | The Degree Gap"
+title: "GCSE Tutors for Burntwood Teenagers | The Degree Gap"
 description: "Does your child need certain GCSE grades to stay on at a Burntwood sixth form? We'll match them with an online GCSE tutor on their exam board. From £37."
 layout: "subject"
 location: "Burntwood"
 level: "GCSE"
 
-hero_heading_line1: "Online Burntwood GCSE Tutors Who Work Back From the Grades Your Child Needs"
+hero_heading_line1: "GCSE Tutors for Burntwood Students"
 hero_heading_line2: ""
 hero_lead: "By the autumn of Year 11 your child is filling in sixth form forms, and every subject they pick comes with its own GCSE grade to hit. Our GCSE tutors for Burntwood students find out which grades matter most and spend the lessons closing the gap to those."
 
@@ -14,14 +14,14 @@ grade_to: "8"
 grade_stat: "“My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring.” Chamarika, parent, on Trustpilot"
 
 first_lesson_eyebrow: "THE GRADE BEHIND EACH CHOICE"
-first_lesson_heading: "Why a Burntwood GCSE Tutor Starts With Your Child's Sixth Form Plans"
+first_lesson_heading: "Why a GCSE Tutor for Burntwood Students Starts With Your Child's Sixth Form Plans"
 first_lesson_context: "At Chase Terrace and Erasmus Darwin, an A-Level science currently needs a 6 in GCSE Maths as well as in Science, and A-Level Maths needs a 7. So a GCSE tutor starts with what your child hopes to study at 16 and works backwards, which often means Maths gets attention even when it isn't the subject you're worried about."
 first_lesson_quote: "We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s."
 first_lesson_quote_name: "Chamarika"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 4-5 → Grade 8 in GCSE Physics"
 
-tutor_strip_heading: "Burntwood GCSE tutors who know which board each school uses"
+tutor_strip_heading: "GCSE tutors for Burntwood students who know which board each school uses"
 tutor_strip_body: "Chase Terrace and Erasmus Darwin both sit Edexcel GCSE Maths, but their English and Science boards are different. We match every subject to its board. Look through the profiles below, or tell us about your child and we'll choose."
 
 pathways_heading: "Sixteen in Burntwood: Stay On, Head to Lichfield or Start Earning"

@@ -7,7 +7,7 @@ location: "Rochdale"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Rochdale Students Whose Essays Retell the Story"
+hero_h1: "GCSE English Tutors for Rochdale Students"
 hero_lead: "If An Inspector Calls is one of your child's set texts, they probably know the plot scene by scene, and the essay still comes back marked 'more analysis'. Our GCSE English tutors for Rochdale students teach them to argue about why the writer wrote it."
 
 angle_eyebrow: "READING PRIESTLEY IN THE TOWN OF THE CO-OP"

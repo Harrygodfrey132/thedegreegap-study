@@ -7,7 +7,7 @@ location: "Basildon"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths tutoring for Basildon students, for the jump from GCSE nobody warned them about"
+hero_h1: "A-Level Maths Tutors for Basildon Students"
 hero_lead: "Plenty of children who found GCSE Maths comfortable hit a wall in Year 12. We match your child with an online A-Level Maths tutor on their board, across Pure, Statistics and Mechanics, with lessons from home."
 
 angle_eyebrow: "THE YEAR 12 WALL"

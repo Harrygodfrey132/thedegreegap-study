@@ -1,5 +1,5 @@
 ---
-title: "Bristol A-Level Maths Tutors | Online | The Degree Gap"
+title: "Bristol A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Pure fine but Mechanics marks slipping? Our online Bristol A-Level Maths tutors start with the force diagram, the usual culprit on a slope. From £37 an hour."
 layout: "level-subject"
@@ -7,11 +7,11 @@ location: "Bristol"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors Helping Bristol Sixth Formers"
+hero_h1: "A-Level Maths Tutors for Bristol Students"
 hero_lead: "Your child can hold their own on the Pure questions and still lose most of a Mechanics question before any algebra starts. Our A-Level Maths tutors for Bristol students go back to the force diagram, the sketch of every push and pull, where slopes and friction usually go wrong."
 
 angle_eyebrow: "WHERE BRISTOL MECHANICS MARKS GO MISSING"
-angle_heading: "Why the Mechanics Marks Slip, and What a Bristol Tutor Does About It"
+angle_heading: "Why the Mechanics Marks Slip, and What a Tutor for Bristol Families Does About It"
 angle_body_1: "You may have spotted it on a marked mock: Pure holding up, Mechanics lower, and no one quite sure why. Usually it's the diagram. On a slope, your child may split the forces into horizontal and vertical parts out of habit, when working along the slope and at right angles to it is far simpler. Then the normal reaction, the slope pushing back, gets set equal to the weight. That only works on flat ground, and every line after it carries the mistake. Friction has a catch too. It only reaches its maximum when the box on the slope is sliding or about to. While it sits still, friction can be anything up to that."
 angle_body_2: "That's why the first few lessons can feel slow. Your child draws the diagram, picks the two directions and says why before a single equation goes down, and the tutor sees every arrow as it appears on the shared whiteboard. It's fiddly for a week or two. Then the questions start to open up. And it's worth sorting early, whether your child is at Redland Green, Cotham or St Mary Redcliffe and Temple. Maths sits behind a lot of the routes Bristol families talk about, from Engineering at the University of Bristol or UWE to a degree apprenticeship with the aerospace firms around Filton."
 angle_image: "/images/maths-equations-close-up.jpg"

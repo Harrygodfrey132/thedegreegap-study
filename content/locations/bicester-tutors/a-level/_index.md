@@ -1,11 +1,11 @@
 ---
 title: "A-Level Tutors in Bicester | The Degree Gap"
-description: "Starting at a new sixth form in Bicester? Our Bicester A-Level tutors help your child with the step up from GCSE, one-to-one and online. From £37, no contract."
+description: "Starting at a new sixth form in Bicester? Our A-Level tutors for Bicester help your child with the step up from GCSE, one-to-one and online. From £37."
 layout: "subject"
 location: "Bicester"
 level: "A-Level"
 
-hero_heading_line1: "Online Bicester A-Level Tutors for a New Sixth Form and a Harder Course"
+hero_heading_line1: "A-Level Tutors for Bicester Students"
 hero_heading_line2: ""
 hero_lead: "New building, new teachers. Then the first marked A-Level work comes back lower than anything your child got at GCSE, and you can hear the doubt creep in. Our A-Level tutors for Bicester students go through it with them, one-to-one online, and work on whatever's costing marks."
 
@@ -14,7 +14,7 @@ grade_to: "A"
 grade_stat: "Alexander's Google review says the tutoring took their kid from Cs to As."
 
 first_lesson_eyebrow: "AFTER THE FIRST YEAR 12 TEST"
-first_lesson_heading: "Where a Bicester A-Level Tutor Starts With Your Child"
+first_lesson_heading: "Where an A-Level Tutor for Bicester Students Starts With Your Child"
 first_lesson_context: "For some Bicester teenagers, Year 12 means a new school as well as new subjects, because Whitelands Academy stops at 16, and other families have only just moved here. The A-Level tutor's first job is the marked work from those opening weeks, read slowly to see whether the trouble is the content itself or the way A-Level questions expect an answer to be built."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"

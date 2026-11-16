@@ -1,9 +1,9 @@
 ---
-title: "Online Tutors for Your Child in Huddersfield | The Degree Gap"
+title: "Tutors for Your Child in Huddersfield | The Degree Gap"
 description: "Worried your child's Year 11 mocks will shape their college offer in Huddersfield? We'll match them with an online tutor who suits them. From £37, no contract."
 layout: "single"
 location: "Huddersfield"
-banner_heading: "Online tutoring for Huddersfield families, before the mocks that college offers lean on"
+banner_heading: "GCSE and A-Level Tutors for Huddersfield Families"
 banner_description: "Most tutoring starts with the next chapter of the textbook. Ours starts with your child's last mock, and because lessons happen at home, the tutor can be whoever in the UK suits them best."
 content_angle: "early offers: Huddersfield's sixth form colleges read Year 11 mocks and predicted grades, so the grades that count arrive before the GCSEs"
 intro_1: "Plenty of Huddersfield parents find out at a Year 10 parents' evening, or from a letter in a school bag, that the next step comes sooner than they'd thought. Nearly every state secondary in town finishes at Year 11, from King James's in Almondbury to Salendine Nook and Holmfirth High. So most children apply somewhere new for sixth form, and Greenhead College opens its applications in the autumn of Year 11. Its offers rest on what your child is achieving now: current work, mocks and predicted grades. Greenhead says it won't use target grades at all. If that's news to you, you're far from the only parent hearing it late."

@@ -1,13 +1,13 @@
 ---
 title: "Bishop's Stortford GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Science can be two or three of the eight grades a sixth form adds up. Our Bishop's Stortford GCSE Science tutors find the weak one first. Online, from £37."
+description: "Science can be two or three of the eight grades a sixth form adds up. Our GCSE Science tutors for Bishop's Stortford find the weak one first. Online, from £37."
 layout: "level-subject"
 location: "Bishop's Stortford"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Bishop's Stortford, Where Science Can Be Three of the Eight Grades"
+hero_h1: "GCSE Science Tutors for Bishop's Stortford Students"
 hero_lead: "When you add up your child's likely grades for a sixth form here, Science can be two or three of the eight. So one shaky science pulls the total down further than you'd expect. Our GCSE Science tutors for Bishop's Stortford students work one-to-one online, find the one costing marks and start there."
 
 angle_eyebrow: "UP TO THREE OF THE EIGHT"
@@ -39,7 +39,7 @@ steps:
     body: "One-to-one in the online classroom Lessonspace, with a replay of every lesson. Real exam questions, each step written on screen, and any gaps rebuilt rather than skimmed. From £37 an hour, no contract, and a new tutor free of charge if they don't click."
 
 faqs:
-  - q: "Can a Bishop's Stortford GCSE Science tutor help my child towards a Stansted apprenticeship?"
+  - q: "Can a GCSE Science tutor for Bishop's Stortford students help my child towards a Stansted apprenticeship?"
     a: "Yes, with the grades side of it. London Stansted advertises apprenticeships from GCSE level right up to degree level. Its engineering routes have asked for GCSEs in Maths, English and a Science, and the training's done with Harlow College. Requirements change between intakes, so it's best to start from this year's advert. For engineering, Physics and the Maths inside it tend to matter most, and that's everyday tutoring work. Harry or Joe can talk you through timing as well, since applications can open before results day."
   - q: "Does my child need a Science tutor, or would more revision do?"
     a: "Have a look at the working on a recent paper, because it usually tells you. Tidy answers that still lose marks on six-markers and practical questions point to an exam technique gap, and a tutor can close that quickly. Blank spaces or crossed-out working on the calculations suggest a method gap, which revising alone rarely fixes. If your child's already scoring well across all three sciences, past-paper practice at home might be enough. We'll tell you that on the call rather than sell you lessons."

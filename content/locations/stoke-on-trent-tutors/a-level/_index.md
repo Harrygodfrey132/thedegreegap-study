@@ -1,11 +1,11 @@
 ---
-title: "Online A-Level Tutors for Stoke-on-Trent Sixth Formers | The Degree Gap"
+title: "A-Level Tutors for Stoke-on-Trent Sixth Formers | The Degree Gap"
 description: "Are your child's predicted grades short of the course they want? We'll match Stoke-on-Trent sixth formers with an online A-Level tutor. From £37, no contract."
 layout: "subject"
 location: "Stoke-on-Trent"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Stoke-on-Trent Sixth Formers Facing UCAS for the First Time"
+hero_heading_line1: "A-Level Tutors for Stoke-on-Trent Students"
 hero_heading_line2: ""
 hero_lead: "Predicted grades and a UCAS form land in the same Year 13 autumn, which is a lot if nobody at home has done it recently. Our online A-Level tutors for Stoke-on-Trent students work on the subject marks, and Harry and Joe can help with the choices around them."
 

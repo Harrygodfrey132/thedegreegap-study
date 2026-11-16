@@ -1,11 +1,11 @@
 ---
-title: "Online A-Level Tutors for Your Child in Wimbledon | The Degree Gap"
+title: "A-Level Tutors for Your Child in Wimbledon | The Degree Gap"
 description: "Has Year 12 started badly for your child in Wimbledon? We'll match them with an online A-Level tutor who knows their board. Free call first, from £37 an hour."
 layout: "subject"
 location: "Wimbledon"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Wimbledon Students Whose Free Periods Aren't Turning Into Marks"
+hero_heading_line1: "A-Level Tutors for Wimbledon Students"
 hero_heading_line2: ""
 hero_lead: "A-Levels give your child far more time to study alone, and most sixth formers aren't sure what to do with it. We match Wimbledon students with an online A-Level tutor who turns that time into a plan, starting from their latest assessment."
 

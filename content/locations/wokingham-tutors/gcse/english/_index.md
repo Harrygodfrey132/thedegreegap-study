@@ -7,7 +7,7 @@ location: "Wokingham"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Wokingham Students Facing a Closed-Book Literature Exam"
+hero_h1: "GCSE English Tutors for Wokingham Students"
 hero_lead: "Your child knows the plot of Macbeth inside out, but in the exam hall there's no book to check and the quotations won't come. Our GCSE English tutors for Wokingham students build a short list your child can actually remember, and practise using it."
 
 angle_eyebrow: "NO BOOK ON THE DESK"

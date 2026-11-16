@@ -1,5 +1,5 @@
 ---
-title: "Reading A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Reading A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Did your child do well at GCSE Chemistry but now struggle at A-Level? Our online Reading A-Level Chemistry tutors fix the bonding ideas GCSE simplified."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Reading"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Reading and the Thames Valley"
+hero_h1: "A-Level Chemistry Tutors for Reading Students"
 hero_lead: "GCSE teaches bonding in a simplified way that A-Level then has to undo, and your child may not notice it's happening. Our A-Level Chemistry tutors for Reading students find the ideas that were never quite right and put them straight."
 
 angle_eyebrow: "WHAT GCSE SIMPLIFIED"

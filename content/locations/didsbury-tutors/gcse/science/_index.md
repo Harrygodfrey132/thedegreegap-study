@@ -1,13 +1,13 @@
 ---
 title: "Didsbury GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Hoping for A-Level Science? Didsbury GCSE Science tutors help your child with practicals, six-mark answers and the 7s sixth forms can ask for. Online, from £37."
+description: "Hoping for A-Level Science? GCSE Science tutors for Didsbury help your child with practicals, six-mark answers and the 7s sixth forms can ask for. Online,"
 layout: "level-subject"
 location: "Didsbury"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Covering Didsbury, for Children Hoping to Take Science at Sixth Form"
+hero_h1: "GCSE Science Tutors for Didsbury Students"
 hero_lead: "It's often just one of the three sciences doing all the damage, and a single Science grade won't tell you which. Our GCSE Science tutors for Didsbury students work one-to-one online, find that science first and start there, whether it's Chemistry calculations or six-mark Biology answers."
 
 card_eyebrow: "FREE CONSULTATION"

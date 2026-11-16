@@ -1,12 +1,12 @@
 ---
-title: "Wolverhampton Online GCSE Maths Tutors | The Degree Gap"
+title: "Wolverhampton GCSE Maths Tutors | The Degree Gap"
 description: "One-to-one online GCSE Maths tutoring for Wolverhampton, with a tutor who knows the board used at Highfields, Heath Park or Smestow. Foundation or higher tier."
 layout: "level-subject"
 location: "Wolverhampton"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutoring for Wolverhampton, Bilston and Tettenhall"
+hero_h1: "GCSE Maths Tutors for Wolverhampton Students"
 hero_lead: "Lots of Wolverhampton parents we talk to hope their child will be the first in the family at university, and Maths is the subject that most often gets in the way. Our GCSE Maths tutors for Wolverhampton students work on the questions costing the grade, not the whole syllabus."
 
 angle_eyebrow: "WHERE A WOLVERHAMPTON MATHS GRADE GOES"

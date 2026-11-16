@@ -1,5 +1,5 @@
 ---
-title: "Fareham GCSE Science Tutors | Online | The Degree Gap"
+title: "Fareham GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
 description: "Online GCSE Science tutors for Fareham families. Help with six-mark answers, practicals and calculations in Biology, Chemistry and Physics. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Fareham"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutoring for Families Around Fareham"
+hero_h1: "GCSE Science Tutors for Fareham Students"
 hero_lead: "Half a page written for the six-mark question, and your child got 2. Those answers are marked in levels, not points, so writing down everything they know tends to land in the bottom level. Our GCSE Science tutors for Fareham students work on the answers that carry the most marks."
 
 angle_eyebrow: "THE LONGEST ANSWERS, THE LOWEST RETURNS"

@@ -7,7 +7,7 @@ location: "Princes Risborough"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Princes Risborough Students Who Freeze on the Wordy Questions"
+hero_h1: "GCSE Maths Tutors for Princes Risborough Students"
 hero_lead: "Your child can do the method when it's set out plainly, then a question about a garden or a phone contract leaves them stuck. Our GCSE Maths tutors for Princes Risborough students show them how to find the Maths inside the words."
 
 angle_eyebrow: "WHEN THE MATHS IS HIDING IN A PARAGRAPH"

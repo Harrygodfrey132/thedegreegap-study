@@ -7,7 +7,7 @@ location: "Wimbledon"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Wimbledon Students Who Lose Marks on the Six-Mark Answers"
+hero_h1: "GCSE Science Tutors for Wimbledon Students"
 hero_lead: "Your child can explain a practical in class, then write it up in the wrong order and drop half the marks. We match Wimbledon students with an online GCSE Science tutor who drills the six-mark answers and calculations until the method holds."
 
 angle_eyebrow: "SIX MARKS, ONE PARAGRAPH"

@@ -5,7 +5,7 @@ layout: "subject"
 location: "Hounslow"
 level: "GCSE"
 
-hero_heading_line1: "GCSE Tutors for Hounslow Students Whose Grades Decide Their A-Level Options"
+hero_heading_line1: "GCSE Tutors for Hounslow Students"
 hero_heading_line2: ""
 hero_lead: "Staying on at the same school for sixth form can feel like a given. Which A-Levels your child can choose there still comes down to their GCSE grades, and our GCSE tutors for Hounslow students work on the subjects holding those grades back, online and one-to-one."
 

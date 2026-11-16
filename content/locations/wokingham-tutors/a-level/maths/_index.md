@@ -7,7 +7,7 @@ location: "Wokingham"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Wokingham Students Who Avoid the Mechanics Questions"
+hero_h1: "A-Level Maths Tutors for Wokingham Students"
 hero_lead: "Pure feels fine, but the Mechanics half of the paper is the part your child leaves until last, or skips. Our A-Level Maths tutors for Wokingham students take forces and motion slowly, until those questions feel like the rest of the course."
 
 angle_eyebrow: "ONE PAPER, TWO SUBJECTS"

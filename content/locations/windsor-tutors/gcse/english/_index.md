@@ -7,7 +7,7 @@ location: "Windsor"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Windsor Students Who Lose Marks Against the Clock"
+hero_h1: "GCSE English Tutors for Windsor Students"
 hero_lead: "Your child reads plenty and talks well about books, then the English mock comes back a grade lower than everything else. Our GCSE English tutors for Windsor students work on what the paper is really testing, from comparing two unseen extracts to finishing the writing task in time."
 
 angle_eyebrow: "A 5 IN ENGLISH FOR MOST A-LEVELS"

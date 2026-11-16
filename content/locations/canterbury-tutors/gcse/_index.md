@@ -1,11 +1,11 @@
 ---
 title: "Canterbury GCSE Tutors | One-to-One Support | The Degree Gap"
-description: "Canterbury GCSE tutors who find the Year 8 topic that never clicked, before the mocks shape your child's predicted grade. One-to-one, online, from £37."
+description: "GCSE tutors for Canterbury who find the Year 8 topic that never clicked, before the mocks shape your child's predicted grade. One-to-one, online, from £37."
 layout: "subject"
 location: "Canterbury"
 level: "GCSE"
 
-hero_heading_line1: "Online Canterbury GCSE Tutors Who Find the Year 8 Gap Before Mocks Land"
+hero_heading_line1: "GCSE Tutors for Canterbury Students"
 hero_heading_line2: ""
 hero_lead: "Homework seems fine, then your child freezes on the mock paper. Usually it goes back to a Year 8 or 9 topic nobody had time to go over again. Our GCSE tutors for Canterbury students find it in the first lesson and build up from there."
 
@@ -14,7 +14,7 @@ grade_to: "B"
 grade_stat: "Keira, a GCSE student, says tutoring helped lift her grades from an E to a B."
 
 first_lesson_eyebrow: "FROM AN E TO A B"
-first_lesson_heading: "What a Canterbury GCSE Tutor Spots in the First 30 Minutes"
+first_lesson_heading: "What a GCSE Tutor for Canterbury Students Spots in the First 30 Minutes"
 first_lesson_context: "Most of the time it's something small, like an algebra method that never got enough practice or a Year 8 fractions idea your child has learned to work around. It rarely shows up in homework, where there's time to go slowly. A GCSE tutor finds which one it is and goes over it until it's automatic, well before the November mocks feed into the predicted grade."
 
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
@@ -22,7 +22,7 @@ first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B in GCSE"
 
-tutor_strip_heading: "Canterbury GCSE tutors matched to the course your child's school teaches"
+tutor_strip_heading: "GCSE tutors for Canterbury students matched to the course your child's school teaches"
 tutor_strip_body: "The Langton schools, Barton Court and the other Canterbury secondaries don't all use the same exam boards. So we'll check your child's board before anything else. Where the tutor lives doesn't come into it. Browse the profiles below, or ask us to pick for you."
 
 pathways_heading: "Your Child's Options at 16 in Canterbury"
@@ -55,7 +55,7 @@ reviews:
   - "Theresa|Parent|Harry and Joe were extremely helpful with a wealth of knowledge and contacts that helped my son to follow the right path."
   - "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE thank you"
 
-faq_1_q: "My daughter's fallen behind in GCSE Maths. Where does a Canterbury GCSE tutor actually start?"
+faq_1_q: "My daughter's fallen behind in GCSE Maths. Where does a GCSE tutor for Canterbury students actually start?"
 faq_1_a: "With a look at where her marks are going. The first lesson usually isn't about this week's Year 11 topic. It's about finding the Year 8 or 9 method that never quite clicked, like fractions or an algebra step she's forgotten. Sometimes it's just timing on the calculator papers. Once that's found, the tutor goes over it until your daughter can do it without thinking. Then they come back to what her class is doing now, with the basics in place."
 faq_2_q: "We're hoping for a place in one of the Langton sixth forms. What grades should my son be aiming for?"
 faq_2_a: "It depends on the subjects he wants to take, so it's worth checking each school's current entry requirements. The Langton schools and Barton Court publish their own, and popular A-Level subjects, the Sciences especially, often ask for more than the general minimum. Once you know the grade he needs, the tutor works on the questions costing him most, like the longer Science answers or unseen poetry in English Literature. Nobody can promise a grade. But you'll both know exactly what he's aiming at."

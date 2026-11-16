@@ -1,11 +1,11 @@
 ---
 title: "Reigate GCSE Tutors | Expert Support | The Degree Gap"
-description: "Your child applies for college in the autumn, but grades aren't checked until August. Our Reigate GCSE tutors work on the subject that matters most, from £37."
+description: "College applications go in during the autumn, but grades come in August. Our online GCSE tutors help Reigate students with the subject that matters most."
 layout: "subject"
 location: "Reigate"
 level: "GCSE"
 
-hero_heading_line1: "Online Reigate GCSE Tutors for the Grade Your Child's College Course Depends On"
+hero_heading_line1: "GCSE Tutors for Reigate Students"
 hero_heading_line2: ""
 hero_lead: "College courses get picked in the autumn of Year 11, but it's August before anyone knows if your child's grades are there. A long wait, if one subject feels shaky. Our GCSE tutors for Reigate students work one-to-one on the subject standing between your child and the course they've chosen."
 
@@ -14,14 +14,14 @@ grade_to: "8"
 grade_stat: "Two months before the exams, Chamarika's son started tutoring on a predicted 4-5 in Physics. He came out with an 8."
 
 first_lesson_eyebrow: "APPLIED IN THE AUTUMN, CHECKED IN AUGUST"
-first_lesson_heading: "Why a Reigate GCSE Tutor Reads the Course List Before the Mock"
+first_lesson_heading: "Why a GCSE Tutor for Reigate Students Reads the Course List Before the Mock"
 first_lesson_context: "Everything useful happens between the autumn, when the college form goes in, and August, when the grades arrive. So the first session works out which subject puts your child's chosen courses most at risk, then goes through a real paper in it to see where the marks are slipping."
 first_lesson_quote: "Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s. Thank you to all the 3x tutors."
 first_lesson_quote_name: "Chamarika"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Predicted 4-5 to an 8 in Physics"
 
-tutor_strip_heading: "Reigate GCSE tutors picked for the board and the course on the form"
+tutor_strip_heading: "GCSE tutors for Reigate students picked for the board and the course on the form"
 tutor_strip_body: "Reigate School, St Bede's, Oakwood and Dunottar don't all use the same exam boards, so we check your child's first. Harry or Joe interview every tutor, and about 3% of applicants get through. Have a look, or leave the matching to us."
 
 pathways_heading: "Three Doors Out of Year 11 Around Reigate"

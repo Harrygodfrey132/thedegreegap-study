@@ -1,11 +1,11 @@
 ---
-title: "Online A-Level Tutors for Lincoln Students | The Degree Gap"
+title: "A-Level Tutors for Lincoln Students | The Degree Gap"
 description: "Has your child left A-Level revision later than they meant to? We'll match Lincoln sixth formers with an online A-Level tutor. From £37 an hour, no contract."
 layout: "subject"
 location: "Lincoln"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Lincoln Sixth Formers Who've Left It Later Than Planned"
+hero_heading_line1: "A-Level Tutors for Lincoln Students"
 hero_heading_line2: ""
 hero_lead: "Year 12 slips past faster than most sixth formers expect, and Year 13 arrives with the whole course still to revise. Our A-Level tutors for Lincoln students start from your child's recent papers and plan the months that are left, one-to-one and online."
 

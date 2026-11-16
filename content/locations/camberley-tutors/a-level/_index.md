@@ -1,11 +1,11 @@
 ---
-title: "Camberley A-Level Tuition | Online One-to-One | The Degree Gap"
-description: "Year 12 can bring a new college and a much faster pace. Our Camberley A-Level tutors help your child find their feet in that first term, online, from £37."
+title: "Camberley A-Level Tuition | One-to-One | The Degree Gap"
+description: "Year 12 can bring a new college and a much faster pace. Our A-Level tutors for Camberley help your child find their feet in that first term, online, from £37."
 layout: "subject"
 location: "Camberley"
 level: "A-Level"
 
-hero_heading_line1: "Online Camberley A-Level Tutors for a New Sixth Form and a Faster Pace"
+hero_heading_line1: "A-Level Tutors for Camberley Students"
 hero_heading_line2: ""
 hero_lead: "Year 12 often means new teachers and, for lots of Camberley teenagers, a new building too. Then the first marks arrive before anyone's settled. Our A-Level tutors for Camberley students pick up whichever subject is slipping, one-to-one and online, while there's still plenty of Year 12 left."
 

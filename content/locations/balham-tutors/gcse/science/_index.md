@@ -7,7 +7,7 @@ location: "Balham"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Balham Students Whose Chemistry Lags Behind"
+hero_h1: "GCSE Science Tutors for Balham Students"
 hero_lead: "Biology makes sense and Physics is fine, but Chemistry, with its moles and symbol equations, keeps pulling the mock result down. Our GCSE Science tutors for Balham students start with the Chemistry, where the marks are often quickest to win back."
 
 angle_eyebrow: "THE ONE OF THE THREE THAT SLIPS"

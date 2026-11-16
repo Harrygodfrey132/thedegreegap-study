@@ -1,13 +1,13 @@
 ---
-title: "GCSE English Tutors Covering Wigan | Online | The Degree Gap"
+title: "GCSE English Tutors Covering Wigan | The Degree Gap"
 nav_title: "English"
-description: "Is your child full of ideas about the book, but the essays don't show it? Our Wigan GCSE English tutors help turn them into marks. AQA or Edexcel, from £37."
+description: "Full of ideas about the book, but the essays don't show it? Our online GCSE English tutors help Wigan students turn them into marks. AQA or Edexcel, from £37."
 layout: "level-subject"
 location: "Wigan"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Wigan Year 11s Heading to College"
+hero_h1: "GCSE English Tutors for Wigan Students"
 hero_lead: "You can hear it over tea: your child has plenty to say about the book. Then the timed essay comes back and hardly any of it made it onto the page. Our GCSE English tutors for Wigan students teach the structure and the choice of quotations that get those ideas marked."
 
 angle_eyebrow: "GOOD IDEAS, NOT YET ON THE PAGE"
@@ -28,7 +28,7 @@ schools:
   - "Winstanley College"
   - "St John Rigby College"
 
-steps_heading: "Finding your child a GCSE English tutor in Wigan: three steps"
+steps_heading: "Finding your child a GCSE English tutor for Wigan students: three steps"
 steps_lead: "Everything can usually be set up within a few days, so there's time to get going before the mocks shape a predicted grade."
 steps:
   - title: "Talk to Harry or Joe"

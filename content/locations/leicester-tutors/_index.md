@@ -3,7 +3,7 @@ title: "Leicester Tutoring | GCSE & A-Level Tutors"
 description: "Leicester tutoring for GCSE and A-Level, online and one-to-one. For when your child's plans are big and the grades haven't caught up yet. Lessons from £37."
 layout: single
 location: Leicester
-banner_heading: "Leicester parents: need a tutor to help your child's grades catch up with their plans?"
+banner_heading: "GCSE and A-Level Tutors for Leicester Families"
 banner_description: "If your child knows where they want to go but the grades aren't there yet, our tutors for Leicester families help close that gap."
 content_angle: ambition gap
 intro_1: "Your child has plans. Maybe it's a particular sixth form, maybe it's university, and in plenty of Leicester homes they'd be the first in the family to go. You can see how much they want it. What's harder to see is why the grades aren't keeping up. Across the city, GCSE results sit a little below the national average, and there are no grammar schools in the state sector. So the pressure lands at 16. Places at the most sought-after sixth forms, like Wyggeston and Queen Elizabeth I College, are limited, and each one sets its own grade requirements. A tutor gives your child a better run at the grades those places ask for."

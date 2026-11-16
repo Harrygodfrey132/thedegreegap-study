@@ -7,7 +7,7 @@ location: "Hampstead"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Hampstead Students When One Science Lags Behind"
+hero_h1: "GCSE Science Tutors for Hampstead Students"
 hero_lead: "Three sciences means three sets of notes, three sets of practicals and, usually, one subject quietly falling behind. Our GCSE Science tutors for Hampstead students find which one, then work on the six-mark answers and calculations where it's losing marks."
 
 angle_eyebrow: "ONE SCIENCE USUALLY LAGS BEHIND"

@@ -7,7 +7,7 @@ location: "Dorking"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Dorking Students Whose Quotations Won't Stick"
+hero_h1: "GCSE English Tutors for Dorking Students"
 hero_lead: "Your child has read An Inspector Calls twice and still goes blank when an essay needs a quotation. Our GCSE English tutors for Dorking students help them learn the lines that matter and build essays round them."
 
 angle_eyebrow: "ONE BOARD, TWO SHAKESPEARES"

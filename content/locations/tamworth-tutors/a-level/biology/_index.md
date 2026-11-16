@@ -1,13 +1,13 @@
 ---
-title: "Tamworth A-Level Biology Tutors | Online | The Degree Gap"
+title: "Tamworth A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Does your child mix up glucagon and glycogen? Our Tamworth A-Level Biology tutors build blood glucose answers step by step, online and with no travel. From £37."
+description: "Does your child mix up glucagon and glycogen? Our A-Level Biology tutors for Tamworth build blood glucose answers step by step, online and with no travel."
 layout: "level-subject"
 location: "Tamworth"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Tamworth, Staffordshire"
+hero_h1: "A-Level Biology Tutors for Tamworth Students"
 hero_lead: "'Insulin lowers blood sugar' is true, and it's about all many teenagers write when a Biology question asks how. Our A-Level Biology tutors for Tamworth students help your child give the whole answer, step by step, without mixing up glucagon and glycogen."
 
 angle_eyebrow: "GLUCAGON, GLYCOGEN, GLUCOSE"

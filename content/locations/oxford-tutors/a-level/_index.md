@@ -1,11 +1,11 @@
 ---
 title: "Oxford A-Level Tutors | Expert Tutors | The Degree Gap"
-description: "Oxford A-Level tutors for when Year 12 feels harder than it should and the predicted grade starts to slip. Online, one-to-one, from £37 an hour, no contract."
+description: "A-Level tutors for Oxford, for when Year 12 feels harder than it should and the predicted grade starts to slip. Online, one-to-one, from £37, no contract."
 layout: "subject"
 location: "Oxford"
 level: "A-Level"
 
-hero_heading_line1: "Online Oxford A-Level Tutors for When Your Child's GCSE Study Habits Stop Working"
+hero_heading_line1: "A-Level Tutors for Oxford Students"
 hero_heading_line2: ""
 hero_lead: "Grow up in a university city and there's an expectation in the air, and by Year 12 a lot of Oxford teenagers feel it as pressure. Our A-Level tutors for Oxford students find where your child's marks are slipping and steady the grade before the school sends predictions to UCAS."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "One parent told us their child went from Cs to As, with help on university choices along the way."
 
 first_lesson_eyebrow: "WHAT WE SEE IN AN OXFORD YEAR 12"
-first_lesson_heading: "How an Oxford A-Level Tutor Rebuilds the Way Your Child Studies"
+first_lesson_heading: "How an A-Level Tutor for Oxford Students Rebuilds the Way Your Child Studies"
 first_lesson_context: "When we first meet an Oxford Year 12, the content's usually fine. It's the method that's slipped: pages of notes that don't join up, and essays that describe when the marks are in the argument. So an A-Level tutor marks a recent essay or test the way the exam board would, and changes how your child studies as well as what they know."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "C grades to A grades in A-Level"
 
-tutor_strip_heading: "Oxford A-Level tutors, many of whom have come through the Russell Group"
+tutor_strip_heading: "A-Level tutors for Oxford students, many of whom have come through the Russell Group"
 tutor_strip_body: "Our tutors are graduates and undergraduates, some from Oxford itself, and they know the exam boards the city's sixth forms use. They mark your child's work the way an examiner would, so you can both see where the marks went. Look through the profiles, or we'll shortlist a few."
 
 pathways_heading: "What Comes Next for Oxford's Year 13s"
@@ -60,7 +60,7 @@ faq_2_q: "What if my son's thinking about an apprenticeship at the MINI plant or
 faq_2_a: "We can help with that too. Schemes like these weigh up predicted grades and the written application. So your son's tutor would focus on the subjects the route cares about, often Maths and the Sciences, and help with the writing as well. Starting in Year 12 gives time to get the grades in shape before applications open. Plenty of young people apply to both, so it can run alongside a UCAS plan."
 faq_3_q: "He aced GCSE without trying and now the A-Level grades have dropped. What changes with a tutor?"
 faq_3_a: "Quite a lot, because the step up is real. A-Level wants depth and independent study that GCSE never asked of your son. The tutor pins down what's changed, then rebuilds how he works around it, from the way he takes notes to timed practice. Once the way he works catches up, the grade usually follows."
-faq_4_q: "How much is an A-Level tutor in Oxford?"
+faq_4_q: "How much is an A-Level tutor for Oxford students?"
 faq_4_a: "From £37 an hour. That's the rate for a recent graduate teaching the subject they studied, and senior tutors and qualified examiners charge more. You'll know the price before anything's booked, and you won't sign a contract."
 
 sitemap:

@@ -7,7 +7,7 @@ location: "Dulwich"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "A-Level Biology Tutors for Dulwich Students Whose Long Answers Lose the Thread"
+hero_h1: "A-Level Biology Tutors for Dulwich Students"
 hero_lead: "There's a huge amount to learn in A-Level Biology, and the long answers that pull topics together are where the marks slip away. Our A-Level Biology tutors for Dulwich students help your child connect the content and write it up the way examiners mark it."
 
 angle_eyebrow: "NEXT DOOR TO DENMARK HILL"
@@ -42,7 +42,7 @@ steps:
 
 faqs:
   - q: "We're in Dulwich. Can an online tutor really teach A-Level Biology without a lab?"
-    a: "Yes. The practical work happens at school, and what the tutor works on is the thinking the exam asks about it, plus the content and the long answers. On a shared whiteboard they can sketch a nephron or a graph of enzyme activity and have your child annotate it. Because we're not tied to tutors near Dulwich, we can pick one who knows your child's board inside out, and every lesson is saved to rewatch."
+    a: "Yes. The practical work happens at school, and what the tutor works on is the thinking the exam asks about it, plus the content and the long answers. On a shared whiteboard they can sketch a nephron or a graph of enzyme activity and have your child annotate it. Because we're not tied to tutors for Dulwich students, we can pick one who knows your child's board inside out, and every lesson is saved to rewatch."
   - q: "My child wants a healthcare career. Could A-Level Biology lead to a degree apprenticeship at King's College Hospital?"
     a: "It can be one route. King's College Hospital, at Denmark Hill just north of Dulwich, funds apprenticeships up to Levels 6 and 7, including healthcare science practitioner, and it notes that degree-level programmes may carry extra academic criteria from the training provider. So check the exact scheme first. A strong Biology grade tends to help on science-based routes, and the tutor can work towards whatever grade the scheme names."
   - q: "What happens in a typical A-Level Biology lesson?"

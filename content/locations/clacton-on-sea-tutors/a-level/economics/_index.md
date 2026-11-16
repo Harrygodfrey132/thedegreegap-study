@@ -1,5 +1,5 @@
 ---
-title: "Online A-Level Economics Tutors for Clacton-on-Sea Students | The Degree Gap"
+title: "A-Level Economics Tutors for Clacton-on-Sea Students | The Degree Gap"
 nav_title: "Economics"
 description: "Is your child's Economics essay explaining but never judging? We'll match your Clacton-on-Sea sixth former with an online A-Level Economics tutor. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Clacton-on-Sea"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Clacton-on-Sea Sixth Formers Whose Essays Stop Short of a Judgement"
+hero_h1: "A-Level Economics Tutors for Clacton-on-Sea Students"
 hero_lead: "Your child explains the theory well and draws the diagram, then the essay stops before it decides anything. Our A-Level Economics tutors for Clacton-on-Sea students teach the weighing-up that the top of AQA's mark scheme looks for, a paragraph at a time."
 
 angle_eyebrow: "AQA ECONOMICS AT SIGMA SIXTH TENDRING"

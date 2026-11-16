@@ -1,13 +1,13 @@
 ---
-title: "Worcester A-Level Biology Tutors | Online | The Degree Gap"
+title: "Worcester A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Hard work, but respiration, ATP and chi-squared still won't click? Our Worcester A-Level Biology tutors rebuild them with your child. Online, from £37 an hour."
+description: "Hard work, but respiration, ATP and chi-squared still won't click? Our A-Level Biology tutors for Worcester rebuild them with your child. Online, from £37."
 layout: "level-subject"
 location: "Worcester"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors, Picked for Worcester Families"
+hero_h1: "A-Level Biology Tutors for Worcester Students"
 hero_lead: "'Works hard, but understanding is patchy.' If that's what your child's Biology report says, you're far from the only Worcester parent reading it. Our A-Level Biology tutors for Worcester students work on respiration and the statistics questions, which is usually where the gaps are hiding."
 
 angle_eyebrow: "EFFORT IS FINE, UNDERSTANDING IS PATCHY"

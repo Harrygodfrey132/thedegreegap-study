@@ -7,7 +7,7 @@ location: "Rugby"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Rugby Students Whose Essays Stop at the First Point"
+hero_h1: "A-Level Economics Tutors for Rugby Students"
 hero_lead: "Your child can draw the diagram and define every term, then the 25-mark essay comes back with one word in the margin: evaluate. Our A-Level Economics tutors for Rugby students show them how to weigh an argument, not just make it."
 
 angle_eyebrow: "A TOWN BUILT ON SUPPLY CHAINS"

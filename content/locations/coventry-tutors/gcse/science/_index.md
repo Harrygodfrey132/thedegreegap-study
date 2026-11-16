@@ -1,13 +1,13 @@
 ---
-title: "Coventry GCSE Science Tutors | Online | The Degree Gap"
+title: "Coventry GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Revising Science by subject, but sitting it by paper? Our Coventry GCSE Science tutors plan your child's revision around each paper, online. From £37 an hour."
+description: "Revising Science by subject, but sitting it by paper? Our GCSE Science tutors for Coventry plan your child's revision around each paper, online. From £37."
 layout: "level-subject"
 location: "Coventry"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Coventry, Kenilworth and Bedworth"
+hero_h1: "GCSE Science Tutors for Coventry Students"
 hero_lead: "Your child revised Biology for weeks, and the first paper only asked about part of it. It happens a lot, because each science is usually sat as two papers with their own topics. Our GCSE Science tutors for Coventry students plan your child's revision the way the papers are split."
 
 angle_eyebrow: "WHICH HALF IS ON WHICH PAPER"

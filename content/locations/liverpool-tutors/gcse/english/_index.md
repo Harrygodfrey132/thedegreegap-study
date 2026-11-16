@@ -1,13 +1,13 @@
 ---
 title: "Liverpool GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Told your child's doing fine in English, then the mock came back low? Our Liverpool GCSE English tutors find where the marks went. Online, from £37 an hour."
+description: "Told your child's doing fine in English, then the mock came back low? Our GCSE English tutors for Liverpool find where the marks went. Online, from £37 an hour."
 layout: "level-subject"
 location: "Liverpool"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors Covering Liverpool"
+hero_h1: "GCSE English Tutors for Liverpool Students"
 hero_lead: "All year you're told your child's doing fine in English. Then the mock comes back lower than anyone expected. Our GCSE English tutors for Liverpool students read what your child actually wrote and find the point where the marks stopped coming."
 
 angle_eyebrow: "FINE IN CLASS, LOWER IN THE MOCK"
@@ -29,7 +29,7 @@ schools:
   - "The Alsop High School"
   - "Cardinal Heenan Catholic High School"
 
-steps_heading: "Getting a Liverpool GCSE English tutor in 3 steps"
+steps_heading: "Getting a GCSE English tutor for Liverpool students in 3 steps"
 steps_lead: "Tutor profiles arrive within 24 hours of your free call with us. If you can, send a recent essay your child has written: for English, it tells the tutor more than anything."
 steps:
   - title: "A chat with Harry or Joe"

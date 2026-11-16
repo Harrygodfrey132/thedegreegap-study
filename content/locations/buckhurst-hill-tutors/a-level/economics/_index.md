@@ -7,7 +7,7 @@ location: "Buckhurst Hill"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Buckhurst Hill Students Who Explain the Theory but Never Weigh It"
+hero_h1: "A-Level Economics Tutors for Buckhurst Hill Students"
 hero_lead: "Your child can explain what happens when the Bank of England raises interest rates, then the 25-mark essay ends without saying whether it was the right call. Our A-Level Economics tutors for Buckhurst Hill students teach the judgement those essays are marked on."
 
 angle_eyebrow: "BANK IS ON THE CENTRAL LINE"

@@ -1,11 +1,11 @@
 ---
 title: "Canterbury A-Level Tutors | Expert Tutors | The Degree Gap"
-description: "A Year 13 mock that fell short of your child's offer still leaves time before the summer. Canterbury A-Level tutors, one-to-one online, from £37 an hour."
+description: "A Year 13 mock that fell short of your child's offer still leaves time before the summer. A-Level tutors for Canterbury, one-to-one online, from £37 an hour."
 layout: "subject"
 location: "Canterbury"
 level: "A-Level"
 
-hero_heading_line1: "Online Canterbury A-Level Tutors for the Year 13 Who's Short of Their Offer"
+hero_heading_line1: "A-Level Tutors for Canterbury Students"
 hero_heading_line2: ""
 hero_lead: "The offer's in, and then the Year 13 mock comes back a grade or so below what it asks for. Our A-Level tutors for Canterbury students find where the marks are going, missing content or running out of time, and work on it one-to-one online before the summer exams."
 
@@ -14,7 +14,7 @@ grade_to: "C"
 grade_stat: "E and U grades became three Cs for Joanna's son, who'd left his studying until the final hour."
 
 first_lesson_eyebrow: "AFTER A DISAPPOINTING YEAR 13 MOCK"
-first_lesson_heading: "What a Canterbury A-Level Tutor Reads in the First Mock"
+first_lesson_heading: "What an A-Level Tutor for Canterbury Students Reads in the First Mock"
 first_lesson_context: "If your child's Year 13 mock came back lower than you'd hoped, the first lesson starts with that paper. The tutor marks it the way the exam board would, then works out what's costing the marks: gaps in what they know, the evaluation marks for weighing up both sides, or running out of time on a two-and-a-half-hour paper. That's the plan for the next few months, and it's often narrower than it looks."
 
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
@@ -22,7 +22,7 @@ first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "A-Level"
 
-tutor_strip_heading: "Canterbury A-Level tutors matched to the papers your child is sitting"
+tutor_strip_heading: "A-Level tutors for Canterbury students matched to the papers your child is sitting"
 tutor_strip_body: "Whether your child's at Simon Langton, Barton Court, King's School or somewhere else, we'll check the exam board on the call and match to it. The tutors we'd suggest are Russell Group graduates, and plenty took these A-Levels recently. Have a browse, or let us choose for you."
 
 pathways_heading: "Three Roads From Canterbury A-Levels"

@@ -3,12 +3,12 @@ title: "Tunbridge Wells Tutoring | GCSE & A-Level Tutors"
 description: "Tunbridge Wells tutoring for the Kent Test, GCSE and A-Level: one-to-one online lessons where your child can ask anything. From £37 an hour, no contract."
 layout: single
 location: Tunbridge Wells
-banner_heading: "When Your Child Has Gone Quiet About School: Online Tunbridge Wells Tutors for GCSE and A-Level"
+banner_heading: "GCSE and A-Level Tutors for Tunbridge Wells Families"
 banner_description: "Our tutors for Tunbridge Wells families work one-to-one and online, so the questions your child keeps to themselves in class finally get asked, and answered."
 content_angle: "confidence after the Kent Test: the bright child who's gone quiet and stopped asking questions, at any Tunbridge Wells school, and one-to-one lessons where being stuck is normal"
 intro_1: "It often shows up at home before it shows up in a report. The child who used to tell you about their day now says 'nothing much' and heads upstairs. Homework that took half an hour takes all evening. Then one day they announce they're 'just not clever', which is hard to hear about a child you know is bright. We hear this from Tunbridge Wells parents a lot, and it isn't tied to one kind of school. Some children who passed the Kent Test find, somewhere in Year 8, that they're no longer top of anything, and it rattles them more than anyone expected."
 intro_2: "One-to-one, a lot of that quietness starts to lift. Your child has nobody to compare themselves with, and nobody to overhear a 'silly' question. So the tutor can rewind to where they first got lost and build back up from something they can already do. The start is gentle, too. Step one is a free chat with Harry or Joe, who run The Degree Gap. Then, within a day, a shortlist of two or three tutors, and a free video meeting so your child sees a friendly face before any lesson is booked. Lessons are from £37, with no contract, and if the match isn't right, we'll find someone new at no charge."
-about_heading: Experienced GCSE and A-Level Tutors in Tunbridge Wells
+about_heading: Experienced GCSE and A-Level Tutors for Tunbridge Wells Students
 about_image: /images/student-completing-maths-worksheet.jpg
 schools_intro: "The children we help in Tunbridge Wells go to all sorts of schools: Tunbridge Wells Grammar School for Boys, Tunbridge Wells Girls' Grammar School, The Skinners' School, Bennett Memorial Diocesan School, Tunbridge Wells High School and Kent College Pembury among them. They don't all use the same exam boards, so before we suggest anyone, we'll check which papers your child is sitting. And when Harry and Joe aren't matching families with tutors, they're often in a classroom somewhere, leading a revision workshop."
 schools:

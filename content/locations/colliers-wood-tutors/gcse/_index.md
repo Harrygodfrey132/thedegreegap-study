@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors for Colliers Wood Students | The Degree Gap"
+title: "GCSE Tutors for Colliers Wood Students | The Degree Gap"
 description: "Can't help with GCSE homework the way you could in Year 7? We'll match your child in Colliers Wood with an online GCSE tutor on their exam board. From £37."
 layout: "subject"
 location: "Colliers Wood"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Colliers Wood Students When Homework Goes Past What You Remember"
+hero_heading_line1: "GCSE Tutors for Colliers Wood Students"
 hero_heading_line2: ""
 hero_lead: "In Year 7 you could sit beside your child and help. By Year 10 it's simultaneous equations and electrolysis, and 'let me have a look' doesn't land any more. Our GCSE tutors for Colliers Wood students take that seat at the table, one subject at a time."
 

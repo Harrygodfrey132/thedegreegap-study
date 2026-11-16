@@ -7,7 +7,7 @@ location: "Buckhurst Hill"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Buckhurst Hill Students Thrown by Unfamiliar Contexts"
+hero_h1: "A-Level Biology Tutors for Buckhurst Hill Students"
 hero_lead: "Your child can recite the stages of respiration, then a question sets it inside an organism they've never heard of and the answer falls apart. Our A-Level Biology tutors for Buckhurst Hill students practise applying what they know to questions they haven't seen before."
 
 angle_eyebrow: "EPPING FOREST ON THE DOORSTEP"

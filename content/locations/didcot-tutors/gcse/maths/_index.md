@@ -1,13 +1,13 @@
 ---
 title: "GCSE Maths Tutors for Didcot Families | The Degree Gap"
 nav_title: "Maths"
-description: "If rearranging formulae or the non-calculator paper keeps costing your child marks, our Didcot GCSE Maths tutors can help, one-to-one and online, from £37."
+description: "If rearranging formulae or the non-calculator paper keeps costing your child marks, our GCSE Maths tutors for Didcot can help, one-to-one and online, from £37."
 layout: "level-subject"
 location: "Didcot"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Didcot Teenagers"
+hero_h1: "GCSE Maths Tutors for Didcot Students"
 hero_lead: "Your child can follow the Science, then a formula needs rearranging and it all falls apart, or the non-calculator paper does. Our GCSE Maths tutors for Didcot students find the step that's missing, often an algebra habit from Year 8, and rebuild it online."
 
 angle_eyebrow: "MATHS IN A SCIENCE TOWN"
@@ -28,7 +28,7 @@ schools:
   - "Wallingford School"
   - "Cranford School"
 
-steps_heading: "Finding a Didcot GCSE Maths tutor, from first call to first lesson"
+steps_heading: "Finding a GCSE Maths tutor for Didcot students, from first call to first lesson"
 steps_lead: "Two or three tutor profiles reach you within 24 hours of our chat. Your child gets the final say on who they'd like to work with."
 steps:
   - title: "Start with a chat"

@@ -1,11 +1,11 @@
 ---
-title: "Banbury GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "Banbury GCSE tutors for the Year 10 dip, online and one-to-one. A free call with Harry or Joe, 2 or 3 tutor profiles in 24 hours, then lessons from £37."
+title: "Banbury GCSE Tutors | One-to-One | The Degree Gap"
+description: "GCSE tutors for Banbury, for the Year 10 dip, online and one-to-one. A free call with Harry or Joe, 2 or 3 tutor profiles in 24 hours, then lessons from £37."
 layout: "subject"
 location: "Banbury"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors in Banbury Who Catch a Year 10 Slip While It's Small"
+hero_heading_line1: "GCSE Tutors for Banbury Students"
 hero_heading_line2: ""
 hero_lead: "A Year 10 test comes home with a mark well below last year's, and asking about it gets a shrug. Our GCSE tutors for Banbury students get onto it now, while there's still room before Year 11. The earlier, the smaller the job."
 

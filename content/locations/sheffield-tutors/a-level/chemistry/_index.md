@@ -1,13 +1,13 @@
 ---
-title: "Sheffield A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Sheffield A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
-description: "Is Chemistry the grade your child needs for Medicine or Pharmacy? Our Sheffield A-Level Chemistry tutors work on mechanisms and calculations online. From £37."
+description: "Is Chemistry the grade your child needs for Medicine or Pharmacy? Our A-Level Chemistry tutors for Sheffield work on mechanisms and calculations online."
 layout: "level-subject"
 location: "Sheffield"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Sheffield Sixth Formers"
+hero_h1: "A-Level Chemistry Tutors for Sheffield Students"
 hero_lead: "If your child is counting on Chemistry for Medicine, Pharmacy or engineering, a slipping grade is a real worry. Our A-Level Chemistry tutors for Sheffield students find which marks are going, often mechanisms or long calculations, and start there, one-to-one and online."
 
 angle_eyebrow: "WHY A CHEMISTRY SLIP FEELS BIGGER"
@@ -28,7 +28,7 @@ schools:
   - "Tapton School"
   - "King Ecgbert School"
 
-steps_heading: "Three Steps to Finding Your Child a Sheffield Chemistry Tutor"
+steps_heading: "Three Steps to Finding Your Child a Chemistry Tutor for Sheffield Students"
 steps_lead: "Book a free call and you'll usually have profiles the next day. If your child's been quietly avoiding one part of Chemistry, finding it early is most of the work."
 steps:
   - title: "Talk to Harry or Joe"

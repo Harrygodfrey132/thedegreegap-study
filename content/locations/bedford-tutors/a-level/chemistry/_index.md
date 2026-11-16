@@ -7,7 +7,7 @@ location: "Bedford"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Bedford Students Lost in Organic Synthesis"
+hero_h1: "A-Level Chemistry Tutors for Bedford Students"
 hero_lead: "Each organic reaction makes sense on its own, then a question asks for a three-step route from one molecule to another. Our A-Level Chemistry tutors for Bedford students teach your child to work those routes out instead of guessing."
 
 angle_eyebrow: "FROM ONE MOLECULE TO ANOTHER"

@@ -7,7 +7,7 @@ location: "Rugby"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Rugby Students Stuck on Mechanisms and Calculations"
+hero_h1: "A-Level Chemistry Tutors for Rugby Students"
 hero_lead: "In class the curly arrows make sense, then an exam question asks your child to draw one from scratch and the page stays blank. Our A-Level Chemistry tutors for Rugby students practise mechanisms and long calculations until your child can start them without a prompt."
 
 angle_eyebrow: "FROM LIMESTONE TO EQUILIBRIUM"
@@ -48,7 +48,7 @@ faqs:
     a: "Because we've heard them do it. Harry or Joe interviews every tutor, and part of the interview is explaining a topic to us the way they would to a sixth former who's lost. Roughly 3% of applicants are accepted. We test subject knowledge and check references too, but clear explanation is the thing we're most fussy about, and every tutor has at least two years of one-to-one experience."
   - q: "How much does A-Level Chemistry tutoring cost for a Rugby family?"
     a: "Lessons start from £37 an hour. The rate depends on the tutor's experience and is agreed before your child's first lesson, and it covers the lesson itself, the tutor's preparation and the recording afterwards. There are no joining fees, no materials to buy and no contract. Each lesson is paid for on its own, and you can stop at any point."
-# FAQ picks: G03 (worded around looking for Chemistry tutors in Rugby), A02, A06, E01, C02
+# FAQ picks: G03 (worded around looking for Chemistry tutors for Rugby students), A02, A06, E01, C02
 
 reviews:
   - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"

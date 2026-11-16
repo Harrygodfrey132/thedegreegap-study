@@ -7,7 +7,7 @@ location: "Bedford"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Bedford Sixth Formers Who Make the Point, Then Stop"
+hero_h1: "A-Level Economics Tutors for Bedford Students"
 hero_lead: "Your child can draw the diagram and explain the theory, then the 25-mark answer stops just where the examiner wanted a judgement. Our A-Level Economics tutors for Bedford students build the evaluation those essays reward."
 
 angle_eyebrow: "A THEME PARK AS A CASE STUDY"

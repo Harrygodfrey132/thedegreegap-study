@@ -1,13 +1,13 @@
 ---
 title: "St Neots GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "When the science makes sense but the maths inside it costs marks, our St Neots GCSE Science tutors can help your child, one-to-one and online. From £37."
+description: "When the science makes sense but the maths inside it costs marks, our GCSE Science tutors for St Neots can help your child, one-to-one and online. From £37."
 layout: "level-subject"
 location: "St Neots"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Helping St Neots Teenagers"
+hero_h1: "GCSE Science Tutors for St Neots Students"
 hero_lead: "Your child might understand the science and still drop marks on the maths inside it, like rearranging an equation or converting units. Our GCSE Science tutors for St Neots students work on those exact steps with your child, one-to-one and online."
 
 card_eyebrow: "FREE CONSULTATION"

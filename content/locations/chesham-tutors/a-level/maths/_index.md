@@ -1,5 +1,5 @@
 ---
-title: "Chesham A-Level Maths Tutors | Online | The Degree Gap"
+title: "Chesham A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "A bright child losing A-Level Maths marks to radians, or a calculator set to degrees? One-to-one online tutors for Chesham families, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Chesham"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for High-Aiming Chesham Families"
+hero_h1: "A-Level Maths Tutors for Chesham Students"
 hero_lead: "Often it's one stubborn habit that costs a bright child marks: turning radians back into degrees. Our A-Level Maths tutors for Chesham students help your child think in radians, so arc length, sector area and the small angle approximations stop catching them out."
 
 angle_eyebrow: "THE CALCULATOR WAS IN DEGREES"

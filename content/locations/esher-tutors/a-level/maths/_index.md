@@ -1,13 +1,13 @@
 ---
 title: "Esher A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "After a long summer and often a new sixth form, Year 12 Maths moves fast. Our Esher A-Level Maths tutors get your child's algebra sharp again, online. From £37."
+description: "After a long summer and often a new sixth form, Year 12 Maths moves fast. Our A-Level Maths tutors for Esher get your child's algebra sharp again, online."
 layout: "level-subject"
 location: "Esher"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors Covering Esher and Thames Ditton"
+hero_h1: "A-Level Maths Tutors for Esher Students"
 hero_lead: "The last GCSE Maths paper was in June. By late September, your child's expected to handle surds and quadratics at A-Level speed, often in a new building. Our A-Level Maths tutors for Esher students get the GCSE algebra quick again, then help your child keep pace, one-to-one online."
 
 card_eyebrow: "FREE CONSULTATION"

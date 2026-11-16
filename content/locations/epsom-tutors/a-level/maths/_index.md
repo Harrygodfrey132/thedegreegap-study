@@ -1,5 +1,5 @@
 ---
-title: "Epsom A-Level Maths Tutors | Online | The Degree Gap"
+title: "Epsom A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Online A-Level Maths tutors for Epsom families whose child is aiming for an A or A*. Proof, Mechanics and the Statistics large data set, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Epsom"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Epsom Families Aiming at the Top Grades"
+hero_h1: "A-Level Maths Tutors for Epsom Students"
 hero_lead: "A grade 8 at GCSE doesn't mean Year 12 Maths will feel easy, and lots of strong children are caught out by it. Our A-Level Maths tutors for Epsom students work on proof, on Mechanics questions that pull several topics together, and on the Statistics questions and the large data set."
 
 angle_eyebrow: "FROM A SOLID A TO AN A*"
@@ -26,7 +26,7 @@ schools:
   - "Rosebery School"
   - "Blenheim High School"
 
-steps_heading: "How to get started with an Epsom A-Level Maths tutor"
+steps_heading: "How to get started with an A-Level Maths tutor for Epsom students"
 steps_lead: "Most Epsom families are matched within 24 hours. In Maths an early start pays off more than in most subjects, because Year 12 sits underneath everything in Year 13."
 steps:
   - title: "Start with a free call"

@@ -7,7 +7,7 @@ location: "Orpington"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Orpington Students Whose Double Grade Hides One Weak Science"
+hero_h1: "GCSE Science Tutors for Orpington Students"
 hero_lead: "Combined Science gives your child two grades for three sciences, so a wobble in Physics can pull both down without anyone saying which subject did it. Our GCSE Science tutors for Orpington students find the weak one first."
 
 angle_eyebrow: "TWO GRADES, THREE SCIENCES"

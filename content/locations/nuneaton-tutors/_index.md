@@ -1,9 +1,9 @@
 ---
-title: "Online Tutors and Tuition for Your Child in Nuneaton | The Degree Gap"
+title: "Tutors and Tuition for Your Child in Nuneaton | The Degree Gap"
 description: "Worried one subject is slipping before your child applies at 16 in Nuneaton? We'll match them with an online tutor who suits them. From £37, no contract."
 layout: "single"
 location: "Nuneaton"
-banner_heading: "Online tutoring for Nuneaton families, with the move at 16 in mind"
+banner_heading: "GCSE and A-Level Tutors for Nuneaton Families"
 banner_description: "Lots of Nuneaton teenagers change school at 16, and every course asks for its own grades. We'll match your child with a tutor for the subject that's slipping, while there's time to put it right."
 content_angle: "the move at 16: Nuneaton's grammar school became King Edward VI College in 1974, plenty of teenagers apply out at 16 with predicted grades, so a subject drifting in Year 10 matters early"
 intro_1: "It often starts with a course guide on the kitchen table. Your child's in Year 10, maybe Year 11, and you're flicking through the King Edward VI College pages together when you spot the line under the subject they're keenest on. A-Level Maths there currently asks for a 7 in GCSE Maths. Chemistry and Physics want 6s in Maths and science. And it's the subject that's been drifting since Year 9, a few marks lower on every report, never quite bad enough for a phone call home. You can do the sums. So can they, which is partly why they've gone quiet about it."
@@ -54,7 +54,7 @@ alevel_subjects:
   - "A-Level Geography Tuition|The NEA planned from a question that works, and essays that tie the physical and human sides together.|/book-a-call/"
 other_subjects:
   - "University Personal Statement|Help working out what to say for each UCAS personal statement question, then honest notes on every draft.|/book-a-call/"
-faq_1_q: "Are your tutors based in Nuneaton, or is there a tuition centre we'd come to?"
+faq_1_q: "Are your tutors for Nuneaton students, or is there a tuition centre we'd come to?"
 faq_1_a: "No to both, and that's on purpose. We don't run a tuition centre, and lessons are online, so we can pick from tutors right across the UK rather than the few who happen to live near Nuneaton. Your child learns at home, nobody drives anywhere after school, and every lesson is recorded so you can see what was covered. Harry or Joe will have interviewed the tutor before we ever suggest them."
 faq_2_q: "My child has their heart set on A-Levels at King Edward VI College. Could online tutoring help with the grades they need?"
 faq_2_a: "Yes. King Edward's currently asks for five GCSEs at grade 4 or above, including English Language, then extra grades for each course: a 7 in Maths for A-Level Maths, for example, or 6s in Maths and two sciences for Chemistry and Physics. Those can change from year to year, so it's worth reading the course pages together in Year 10. Then the tutor works back from the grades your child needs, starting with whichever subject is furthest away."

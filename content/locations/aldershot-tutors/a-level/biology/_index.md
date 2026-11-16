@@ -7,7 +7,7 @@ location: "Aldershot"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "A-Level Biology Tutoring for Aldershot Families"
+hero_h1: "A-Level Biology Tutors for Aldershot Students"
 hero_lead: "A move between schools partway through A-Level Biology tends to leave your child with a few topics that slipped through the cracks. Our A-Level Biology tutors for Aldershot students find them first, then work on the diversity calculations that punish a missed fortnight."
 
 angle_eyebrow: "THE FORTNIGHT THAT FELL BETWEEN SCHOOLS"
@@ -28,7 +28,7 @@ schools:
   - "Cove School"
   - "Alderwood School"
 
-steps_heading: "Starting A-Level Biology lessons with an Aldershot tutor: 3 steps"
+steps_heading: "Starting A-Level Biology lessons with a tutor for Aldershot families: 3 steps"
 steps_lead: "Most Aldershot families see tutor profiles within 24 hours. If your child has changed school, the sooner the gaps are found, the less there is to untangle."
 steps:
   - title: "A free call to talk it through"
@@ -39,7 +39,7 @@ steps:
     body: "An hour a week in the online classroom Lessonspace, starting from what the stock-take found rather than this week's school lesson. Your child does the calculations, not the tutor. There's a replay of every lesson. From £37 an hour, no contract."
 
 faqs:
-  - q: "My child has changed school partway through A-Level Biology. Can an Aldershot tutor help?"
+  - q: "My child has changed school partway through A-Level Biology. Can a tutor for Aldershot families help?"
     a: "Yes, and it's one of the clearest cases for one-to-one help. Two schools teach the same course in a different order, so a move leaves specific gaps rather than a general weakness, and a busy new class can't easily go back for them. The first lesson checks the whole course to find what was really missed. If the exam board changed too, tell us. The question styles differ enough at the top grades to matter."
   - q: "How do I spot which topics are costing my child marks?"
     a: "Check whether the lost marks cluster or spread out. If your child scores well on most of a paper, then loses nearly everything in one or two topic areas, that's usually a content gap, and it's common after a change of school. Marks lost evenly across the long questions point to the way answers are put together instead. A single marked paper sorts one from the other quickly."

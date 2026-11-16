@@ -7,7 +7,7 @@ location: "Lowestoft"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Lowestoft Students Facing a Year 13 Full of New Topics"
+hero_h1: "A-Level Physics Tutors for Lowestoft Students"
 hero_lead: "Year 12 felt like GCSE with harder numbers. Then Year 13 brings fields, capacitors and nuclear physics, all new, and your child's confidence dips. Our A-Level Physics tutors for Lowestoft students take the new topics slowly and keep the Year 12 ones fresh."
 
 angle_eyebrow: "MOSTLY NEW IN THE SECOND YEAR"

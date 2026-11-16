@@ -1,14 +1,14 @@
 ---
 title: "Leeds Tutors | GCSE & A-Level from £37/hr"
-description: "When the next step depends on the grades, our Leeds tutors help your child get there. One-to-one GCSE and A-Level lessons online, from £37, no contract."
+description: "When the next step depends on the grades, our tutors for Leeds help your child get there. One-to-one GCSE and A-Level lessons online, from £37, no contract."
 layout: single
 location: Leeds
-banner_heading: "Online Leeds Tutors for the Grades Your Child's Next Step Depends On"
+banner_heading: "GCSE and A-Level Tutors for Leeds Families"
 banner_description: "We match your child with a tutor who knows their subject inside out, and knows what Leeds sixth forms and universities will be looking for."
 content_angle: ambition / sixth form pipeline
 intro_1: "Year 11 has a way of arriving sooner than anyone expects. One minute sixth form feels miles off. The next, your child is filling in applications and you're reading entry requirements properly for the first time. Leeds doesn't have any state grammar schools, so getting into a popular sixth form or a Russell Group university comes down to grades. Notre Dame Sixth Form College draws young people from right across the city, and it publishes its entry requirements. Sixth forms like it often ask for a 5 or 6 in the core subjects. Lots of families only realise how firm those grades are once Year 11's well underway."
 intro_2: "If your child keeps up fine in lessons but the exam grades don't show it, that's the gap a tutor works on. What's missing is usually exam technique: how an essay's put together, or how to start a Maths problem they haven't seen before. Leeds is a big city for law, finance and the public sector, and a lot of the parents we speak to know exactly what good GCSE and A-Level grades lead to. So the tutor keeps the target in view. They work back from the grade your child needs, a few marks at a time, and plan the weeks around it."
-about_heading: The Leeds Tutors Who Get Results
+about_heading: The Tutors for Leeds Families Who Get Results
 about_image: /images/graduation-ceremony-caps.jpg
 schools_intro: "Roundhay School, Lawnswood, Temple Moor High School, Cardinal Heenan Catholic High School: parents call us from schools all over the city, with plenty from Allerton High and Cockburn School too. Most of them have got a sixth form place or A-Level grades in mind. Alongside the one-to-one lessons, we run workshops in schools on exam technique and how to revise."
 schools:

@@ -7,11 +7,11 @@ location: "Gravesend"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Gravesend Students Stuck on Equilibria and Electrode Potentials"
+hero_h1: "A-Level Chemistry Tutors for Gravesend Students"
 hero_lead: "Year 13 Chemistry piles calculation on top of explanation, and Kp or a cell potential can undo a child who coped well in Year 12. Our A-Level Chemistry tutors for Gravesend students slow those topics down and rebuild them on your child's own board."
 
 angle_eyebrow: "EDEXCEL AT ONE, AQA AT THE OTHER"
-angle_heading: "Why a Gravesend A-Level Chemistry Tutor Checks the Board First"
+angle_heading: "Why an A-Level Chemistry Tutor for Gravesend Students Checks the Board First"
 angle_body_1: "Gravesend's two grammar sixth forms split on Chemistry. Gravesend Grammar teaches Edexcel, with two papers of an hour and forty-five minutes and a third, General and Practical Principles, lasting two and a half hours. Mayfield teaches AQA, divided into physical, inorganic and organic chemistry, with a synoptic paper at the end. The topics that cost marks look similar on both: equilibrium constants including Kp, electrode potentials, multi-step organic synthesis and reading NMR spectra. And a long synoptic paper finds any gap left over from Year 12."
 angle_body_2: "So the tutor starts by confirming the board, because the question styles really do differ. Then they take one topic at a time, the calculation first and then the explanation that earns the rest of the marks, with every step written on a shared whiteboard. Organic routes become maps your child redraws from memory until the reagents and conditions stick. It matters beyond the exam, too. Chemistry is essential for medicine, dentistry and veterinary science, as Gravesend Grammar's own sixth form booklet points out, and those courses look for top grades in it."
 angle_image: "/images/chemistry-lab-glassware.jpg"

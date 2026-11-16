@@ -1,14 +1,14 @@
 ---
 title: "Henley-on-Thames Tutors | GCSE & A-Level | The Degree Gap"
-description: "Henley sits close to where three counties meet, so your child's next step at 16 could be in any of them. Our Henley-on-Thames tutors work online, from £37."
+description: "Henley sits close to where three counties meet, so your child's next step at 16 could be in any of them. Our tutors for Henley-on-Thames work online, from £37."
 layout: "single"
 location: "Henley-on-Thames"
-banner_heading: "Online Henley-on-Thames tutors who plan for the next step, whichever county it's in"
+banner_heading: "GCSE and A-Level Tutors for Henley-on-Thames Families"
 banner_description: "Gillotts stops at 16, and what follows might be The Henley College in town or a sixth form over the county line in Wargrave or Marlow. We'll suggest tutors who can work on the grades your child's choice asks for."
 content_angle: "a town close to where Oxfordshire, Berkshire and Buckinghamshire meet: Gillotts and three other South Oxfordshire 11 to 16 schools feed The Henley College, while Piggott in Wargrave, Borlase's in Marlow and Shiplake College keep sixth forms of their own, so the next step at 16 can sit in any of three counties and each one reads GCSE grades its own way"
 intro_1: "It often starts with a leaflet on the fridge in Year 10. The Henley College open evening, maybe a Piggott one tucked underneath. Gillotts teaches up to 16, so the question of what comes next arrives early here. And the answers sit in three different counties. The Henley College is in the town itself. Piggott's sixth form is in Wargrave, two stops down the branch line in Berkshire. Shiplake College has its own just outside town, and Sir William Borlase's is over in Marlow, in Buckinghamshire. Every one of them looks at GCSE grades in its own way. That's a lot for a fifteen-year-old to carry, and quite a lot for you to keep track of."
 intro_2: "None of that has to be solved tonight. First comes a free call with Harry or Joe, usually about 30 minutes, to talk through your child, their school and the step they're leaning towards. Within 24 hours of that call we'll send profiles of two or three tutors who fit. Your child meets the one they like best on a free 15-minute video call, and nothing's booked before that. Lessons happen online, one-to-one, on a shared whiteboard, and each one's recorded so your child can watch it again. Prices start at £37 an hour, paid lesson by lesson, with no contract and no joining fee. If your child and the tutor don't click, we'll find someone else at no cost."
-about_heading: "Find the Right Tutor in Henley-on-Thames"
+about_heading: "Find the Right Tutor for Henley-on-Thames Students"
 about_image: "/images/library-aisle-bookshelves.jpg"
 schools_intro: "Families in and around Henley use quite a spread of schools, and our tutors can work with families at any of them. That includes Gillotts, Langtree and Maiden Erlegh Chiltern Edge, whose sixth form is The Henley College. It also includes The Piggott School in Wargrave, Shiplake College and Sir William Borlase's Grammar School in Marlow. Exam boards vary by school and by subject, so that's one of the first things we'll ask you about. Harry and Joe also run revision and exam-technique workshops in schools, and pupils from other schools are welcome to join. Separately from that, more than 15 UK secondary schools work with us directly."
 schools: ["Gillotts School", "The Piggott School", "Shiplake College", "Maiden Erlegh Chiltern Edge", "Sir William Borlase's Grammar School", "Langtree School"]

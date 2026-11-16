@@ -1,13 +1,13 @@
 ---
 title: "Godalming GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Without GCSE English Language, Godalming College's course choice narrows a lot. Our Godalming GCSE English tutors help your child with Language and Literature."
+description: "Without GCSE English Language, Godalming College's course choice narrows a lot. Our online tutors help Godalming students with Language and Literature."
 layout: "level-subject"
 location: "Godalming"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Godalming Families"
+hero_h1: "GCSE English Tutors for Godalming Students"
 hero_lead: "The English mock comes back covered in comments like 'develop your analysis', and your child honestly can't tell you what that means. Our GCSE English tutors for Godalming students show them, one-to-one and online, in whichever English GCSE their college plans depend on most."
 
 card_eyebrow: "FREE ENGLISH CONSULTATION"
@@ -53,7 +53,7 @@ faqs:
     a: "Often because English doesn't come with a method the way Maths does. In an answer about a writer's language, nobody tells your child where the marks are, so they write down everything they notice and hope. Some children never quite learnt to plan an essay in Years 7 to 9, with thirty others in the room and lots to get through. A tutor's first job is finding where it started. Then your child gets a clear routine for each kind of question, and that tends to suit a logical mind."
   - q: "How much English should my child do between lessons?"
     a: "About an hour a week is plenty for most children. That might be one timed answer for the tutor to mark, plus ten minutes a day on quotations from the set texts. Reading anything your child enjoys helps as well, even football reports or a fantasy series, because it builds the vocabulary the writing task rewards. Much more than that and Year 11s tend to run out of steam, with every other subject wanting time too. The tutor sets work that fits your child's week, and you'll see what it is in the note after each lesson."
-  - q: "Can a Godalming English tutor help if my child has dyslexia, ADHD or autism?"
+  - q: "Can an English tutor for Godalming students help if my child has dyslexia, ADHD or autism?"
     a: "Yes. Tell us about it on the call, and the profiles we send will be tutors with experience of children like yours. Dyslexia makes English a lot of reading and writing against the clock, so a tutor might plan an essay with your child one paragraph at a time, or build up a bank of sentence starters. Shorter tasks with more variety tend to help with ADHD. An autistic child may prefer every lesson to follow the same shape, and the tutor can keep to it. Access arrangements such as extra time are for the school to sort out, but the tutor can practise with them in place."
   - q: "Can I listen in when my child has their first English lesson?"
     a: "Of course. Most tutors are happy for a parent to listen in the first time, and it can help a nervous teenager settle. After that, most parents step back, since children tend to open up more when nobody's watching them write. You won't be left wondering how it's going, though. The tutor sends a short note after each lesson about what they covered and what's next. And if something isn't working, just tell us."

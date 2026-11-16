@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors for Maidenhead Teenagers | The Degree Gap"
+title: "GCSE Tutors for Maidenhead Teenagers | The Degree Gap"
 description: "Do sixth form applications land before your child's GCSEs? We match Maidenhead teenagers with an online GCSE tutor who knows their exam board. From £37 an hour."
 layout: "subject"
 location: "Maidenhead"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Maidenhead Teenagers Whose Sixth Form Offers Come Before the Exams"
+hero_heading_line1: "GCSE Tutors for Maidenhead Students"
 hero_heading_line2: ""
 hero_lead: "Most sixth form applications around Maidenhead go in halfway through Year 11, so the mocks and predicted grades matter long before the summer. Our GCSE tutors for Maidenhead students find the subject that's costing your child marks and give it a steady hour each week."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "“However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.” Omo, a parent, in a Google review about GCSE English"
 
 first_lesson_eyebrow: "THE OFFER COMES FIRST"
-first_lesson_heading: "Why a Maidenhead GCSE Tutor Plans Around March, Not June"
+first_lesson_heading: "Why a GCSE Tutor for Maidenhead Students Plans Around March, Not June"
 first_lesson_context: "For September 2026 entry, Furze Platt's sixth form closed applications in early January and sent conditional offers from March, based on predicted grades, while Holyport College looked for 48 points across a student's best eight GCSEs. So with a Maidenhead Year 10 or 11, a GCSE tutor starts with the latest mock and asks which subject sits furthest from the line."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7."
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 → Grade 6/7 in GCSE English"
 
-tutor_strip_heading: "Maidenhead GCSE tutors who know Eduqas papers as well as AQA"
+tutor_strip_heading: "GCSE tutors for Maidenhead students who know Eduqas papers as well as AQA"
 tutor_strip_body: "At Furze Platt, GCSE Maths and English are Eduqas while the sciences are AQA, and other Maidenhead schools choose differently again. So we match every subject on its own board. Have a look at the profiles below, or let us choose for your child."
 
 pathways_heading: "After Year 11 in Maidenhead: Staying On, Moving School or Burchetts Green"

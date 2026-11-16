@@ -7,7 +7,7 @@ location: "Wallington"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Wallington Students Meeting Calculus for the First Time"
+hero_h1: "A-Level Maths Tutors for Wallington Students"
 hero_lead: "GCSE Maths never asked your child to differentiate anything, and by half-term of Year 12 calculus is in every lesson. Our online A-Level Maths tutors for Wallington students build it up from first principles, with the algebra underneath made quick."
 
 angle_eyebrow: "THE TOPIC GCSE NEVER TAUGHT"

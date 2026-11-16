@@ -3,12 +3,12 @@ title: "Manchester Tutoring | GCSE & A-Level Tutors"
 description: "Mocks not showing what your child knows? Manchester tutoring for the 11+, GCSE and A-Level, online. A free call first, then 2 or 3 tutor profiles. From £37."
 layout: single
 location: Manchester
-banner_heading: "Mocks Underselling Your Child? Online Manchester Tutors Who Prepare for the Real Exam"
+banner_heading: "GCSE and A-Level Tutors for Manchester Families"
 banner_description: "Our tutors for Manchester families work out why the marks aren't matching what your child knows, fix that first, then practise until the real paper feels familiar."
 content_angle: "exam pressure with the 11+ in the background: the child who knows more than the mocks show"
 intro_1: "If you live in Didsbury, Chorlton or Stretford, the grammar school question has probably come up at your kitchen table at some point. Trafford's grammars are close by, among them Altrincham Grammar for Boys, Altrincham Grammar for Girls, Sale Grammar and Loreto Grammar. Each gets far more applications than it has places. So the 11+ hangs over plenty of South Manchester homes, even the ones that decide not to apply. Then there's the wider picture. Across Manchester as a whole, the progress children make at secondary school sits below the national average. That's a citywide figure, not a verdict on any school or on your child. But it does mean a lot of bright children end up with grades that don't show what they can do."
 intro_2: "Closing that gap is why we started The Degree Gap. For a Year 5 or 6 child, it might mean building the reasoning the Trafford 11+ asks for. At GCSE, it's often a child whose marks haven't kept up with the hours they're putting in. And in the sixth form years, it's the one subject that needs a proper one-to-one tutor before the grades are locked in. None of it means sitting through the same lesson again. The tutor finds the thing the classroom couldn't stop for, and sorts it out properly."
-about_heading: Experienced GCSE and A-Level Tutors in Manchester
+about_heading: Experienced GCSE and A-Level Tutors for Manchester Students
 about_image: /images/graduation-ceremony-caps.jpg
 schools_intro: "We can work with families from schools on both sides of the Manchester and Trafford boundary, including Altrincham Grammar School for Boys, Altrincham Grammar School for Girls, Loreto Grammar School, Whalley Range 11-18 High School, Manchester Academy and Xaverian College. Wherever your child is, there'll be a grade they're working towards, for a sixth form place, a college course or a university offer. We also run workshops on exam technique, revision planning and study habits, open to students at any stage."
 schools:
@@ -56,13 +56,13 @@ other_subjects:
   - "University Personal Statement|A UCAS personal statement that's properly structured and says, in your child's own words, why they want the subject.|/book-a-call/"
 faq_1_q: "Can you help with the Trafford 11+ or a place at an independent school?"
 faq_1_a: "Yes. We help children preparing for the 11+, Common Entrance and competitive sixth form entry. The tutors we'd suggest know what the Trafford grammars and Manchester's independent schools look for. Alongside the content, they'll get your child used to working against the clock, so the pressure on the day feels familiar."
-faq_2_q: "How much does a Manchester tutor cost?"
+faq_2_q: "How much does a tutor for Manchester families cost?"
 faq_2_a: "From £37 an hour. The exact rate depends on the tutor and the subject, and you'll agree it before anything's booked. There's no contract and no hidden fees, and you can stop whenever you like."
 faq_3_q: "The mocks are coming up. Is it worth starting now?"
 faq_3_a: "Yes, and mocks are one of the most common reasons families ring us. The tutor works through past papers with your child, sharpens exam technique and focuses on the topics costing the most marks. So your child walks in knowing what to expect."
 faq_4_q: "How quickly can we get started?"
 faq_4_a: "Often in a few days. After a free call about your child, you'll see two or three tutor profiles within a day, and the first lesson can go in the diary as soon as you've chosen."
-why_heading: "What a Manchester tutor usually spots in your child's first lesson"
+why_heading: "What a tutor for Manchester families usually spots in your child's first lesson"
 why_para_1: "It's rarely one obvious gap. More often, your child can follow an explanation in class but can't do it on their own afterwards. They nod along, the lesson moves on, and then the exam question turns up and the method isn't there. That's not really a confidence problem. It usually means something never quite sank in, and nobody had the time to find out what. In a first lesson, children often turn out to know more than they think. They've just never been asked to explain their thinking out loud."
 why_para_2: "One-to-one, the tutor can stop at the exact moment your child hesitates, ask a question and see what's missing. It doesn't take long. Often within two or three lessons your child starts to feel differently about the subject, and it looks a lot less frightening when they sit down with it. That's usually the first thing Manchester parents mention to us. A child who's calmer about Maths or Chemistry, well before any mark comes back."
 accordion_quality: "Every tutor we suggest has been vetted on what they know and on how clearly they explain the kind of question your child will meet in the exam. If your child is aiming for the Trafford grammars, a place at Loreto College or Xaverian, or a university offer, we'll look for a tutor who knows what those places expect and how to get your child ready."

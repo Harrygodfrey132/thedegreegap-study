@@ -1,11 +1,11 @@
 ---
 title: "GCSE Tutors in Aylesbury | Expert Tutors | The Degree Gap"
-description: "Aylesbury GCSE tutors, online and one-to-one, who find the older topic behind a stuck mock grade and rebuild it with your child. From £37, no contract."
+description: "GCSE tutors for Aylesbury, online and one-to-one, who find the older topic behind a stuck mock grade and rebuild it with your child. From £37, no contract."
 layout: "subject"
 location: "Aylesbury"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors in Aylesbury Who Rebuild the Method That Never Quite Clicked"
+hero_heading_line1: "GCSE Tutors for Aylesbury Students"
 hero_heading_line2: ""
 hero_lead: "When a mock paper comes home, the marks your child lost usually cluster in a few places. Our GCSE tutors for Aylesbury students go through that paper with them, find the topics costing the most and start there."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "Omo's son in Year 10 had switched off from English completely. After six months of tutoring he'd gone from a grade 5 to a 6/7, and he looks forward to his lessons now."
 
 first_lesson_eyebrow: "A YEAR 10 SHIFT IN AYLESBURY"
-first_lesson_heading: "What an Aylesbury GCSE Tutor Changes in the First Half-Term"
+first_lesson_heading: "What a GCSE Tutor for Aylesbury Students Changes in the First Half-Term"
 first_lesson_context: "Most Aylesbury parents who ring us about a Year 10 say much the same thing: the effort's going in, and the mock grade won't shift. Usually there's an older method underneath that never bedded in, a way of rearranging an equation, say, or of building a paragraph. So a GCSE tutor finds that first, and the newer topics start to land once it's fixed."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7. I honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset. …"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 6/7 in GCSE English"
 
-tutor_strip_heading: "Aylesbury GCSE tutors who know the Bucks exam-board mix"
+tutor_strip_heading: "GCSE tutors for Aylesbury students who know the Bucks exam-board mix"
 tutor_strip_body: "Buckinghamshire still selects at 11, so Aylesbury has grammars and other secondaries side by side, from Aylesbury Grammar to The Grange. Each picks its own exam boards. We'll check your child's on the call and match on board, not postcode. Browse the profiles, or leave it to us."
 
 pathways_heading: "Where Your Child Could Go After GCSEs in Aylesbury"

@@ -1,13 +1,13 @@
 ---
 title: "GCSE Science Tutors for Letchworth | The Degree Gap"
 nav_title: "Science"
-description: "Knows the science but loses marks on practicals and calculations? Our Letchworth GCSE Science tutors work on both with your child online. From £37 an hour."
+description: "Knows the science but loses marks on practicals and calculations? Our GCSE Science tutors for Letchworth work on both with your child online. From £37 an hour."
 layout: "level-subject"
 location: "Letchworth"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Letchworth Teenagers"
+hero_h1: "GCSE Science Tutors for Letchworth Students"
 hero_lead: "Your child can explain photosynthesis at the tea table and still lose marks on the practical questions and the calculations. Our GCSE Science tutors for Letchworth students work on exactly those, one-to-one online, from planning an experiment to rearranging an equation."
 
 card_eyebrow: "FREE CONSULTATION"
@@ -36,7 +36,7 @@ schools:
   - "St Francis' College"
   - "Hitchin Boys' School"
 
-steps_heading: "Three steps to a Letchworth GCSE Science tutor"
+steps_heading: "Three steps to a GCSE Science tutor for Letchworth students"
 steps_lead: "Combined or separate sciences, Higher or Foundation: each changes which tutor fits, so they're the first things we'll ask about."
 steps:
   - title: "Start with a chat about your child"

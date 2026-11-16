@@ -1,11 +1,11 @@
 ---
 title: "A-Level Tutors in Tunbridge Wells | The Degree Gap"
-description: "Tunbridge Wells A-Level tutors for the bright child who's never needed to revise. One-to-one online lessons that build a way of studying. From £37, no contract."
+description: "A-Level tutors for Tunbridge Wells, for the bright child who's never needed to revise. One-to-one online lessons that build a way of studying. From £37."
 layout: "subject"
 location: "Tunbridge Wells"
 level: "A-Level"
 
-hero_heading_line1: "Online Tunbridge Wells A-Level Tutors for Bright Children Who've Never Had to Revise"
+hero_heading_line1: "A-Level Tutors for Tunbridge Wells Students"
 hero_heading_line2: ""
 hero_lead: "It can come as a shock. For plenty of Tunbridge Wells teenagers, A-Level is the first time being bright isn't enough by itself, and Year 12 shows it. Our A-Level tutors for Tunbridge Wells students help your child build a way of studying that works, before predictions go to UCAS."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "Taken from a parent's review on this page: their son beat his Year 13 mock by nearly two grades."
 
 first_lesson_eyebrow: "YEAR 12 IN TUNBRIDGE WELLS"
-first_lesson_heading: "How a Tunbridge Wells A-Level Tutor Teaches Your Child to Study"
+first_lesson_heading: "How an A-Level Tutor for Tunbridge Wells Students Teaches Your Child to Study"
 first_lesson_context: "The Tunbridge Wells parents we hear from most aren't dealing with a child who's fallen apart. Their son or daughter breezed through GCSE and can't see why the old approach has stopped working. So the A-Level tutor looks at how your child actually revises, then marks a recent essay against the real mark scheme and shows where describing needs to become evaluating."
 first_lesson_quote: "My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
 first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "A-Level"
 
-tutor_strip_heading: "Tunbridge Wells A-Level tutors who teach the study habits GCSE never needed"
+tutor_strip_heading: "A-Level tutors for Tunbridge Wells students who teach the study habits GCSE never needed"
 tutor_strip_body: "Most are recent Russell Group graduates who've studied the same courses the grammars and Bennett Memorial teach. They mark every essay line by line, so your child can see exactly where each mark went. Browse the tutors, or let us pick two or three for you."
 
 pathways_heading: "Where Tunbridge Wells A-Levels Point After Results Day"

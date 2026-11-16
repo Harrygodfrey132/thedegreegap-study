@@ -1,11 +1,11 @@
 ---
 title: "Surbiton GCSE Tutors | Built Around Your Child | The Degree Gap"
-description: "Is one GCSE grade standing between your child and the A-Level they want? Our Surbiton GCSE tutors work one-to-one online on that subject. From £37, no contract."
+description: "Is one GCSE grade standing between your child and the A-Level they want? Our GCSE tutors for Surbiton work one-to-one online on that subject. From £37."
 layout: "subject"
 location: "Surbiton"
 level: "GCSE"
 
-hero_heading_line1: "GCSE Tutors for Surbiton Students and the One Grade Their Next Course Reads First"
+hero_heading_line1: "GCSE Tutors for Surbiton Students"
 hero_heading_line2: ""
 hero_lead: "At sixteen, plenty of courses look past the overall results to one subject, like Maths for a science A-Level or English for Economics. Our GCSE tutors for Surbiton students find out which grade your child's next step leans on and spend the lessons there."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "“…he has improved from a grade 5 to a 6/7.” Omo, writing on Google about English lessons for a son in Year 10."
 
 first_lesson_eyebrow: "THE GRADE THE COURSE LOOKS AT"
-first_lesson_heading: "Which Grade a Surbiton GCSE Tutor Plans Back From"
+first_lesson_heading: "Which Grade a GCSE Tutor for Surbiton Students Plans Back From"
 first_lesson_context: "It can feel like a lot hangs on one paper. Southborough asks for a 6 in GCSE English before A-Level Economics, and Esher Sixth Form College wants a 6 in Maths, on the Higher paper, before any of its science A-Levels. So a GCSE tutor starts by checking the course your child has in mind and plans back from that grade, whether it's a 6 or the 4 in English and Maths that almost every route asks for first."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7."
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 → Grade 6/7 in GCSE English"
 
-tutor_strip_heading: "Surbiton GCSE tutors who start from the course your child wants next"
+tutor_strip_heading: "GCSE tutors for Surbiton students who start from the course your child wants next"
 tutor_strip_body: "Schools choose their own exam boards, so a Hollyfield Year 11 and a Southborough Year 11 may sit different Maths papers in the same week. We check your child's board first. Browse the tutors below, or let us choose."
 
 pathways_heading: "Sixteen in Surbiton: Sixth Forms, Colleges and Apprenticeships"

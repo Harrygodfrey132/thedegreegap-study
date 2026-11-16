@@ -1,13 +1,13 @@
 ---
-title: "Watford A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Watford A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
-description: "Coping with Year 12 Chemistry, but worried about Year 13? Our Watford A-Level Chemistry tutors help your child make room before the squeeze. Online, from £37."
+description: "Coping with Year 12 Chemistry, but worried about Year 13? Our A-Level Chemistry tutors for Watford help your child make room before the squeeze. Online,"
 layout: "level-subject"
 location: "Watford"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Watford A-Level Chemistry Tutoring Online, From Year 12"
+hero_h1: "A-Level Chemistry Tutors for Watford Students"
 hero_lead: "Year 12 felt manageable. Then Year 13 piles new Chemistry on top, with every topic from both years examined at the end. Our A-Level Chemistry tutors for Watford students help your child get ahead of that squeeze, ideally while there's still room to."
 
 angle_eyebrow: "TWO YEARS OF CHEMISTRY, ONE SET OF EXAMS"

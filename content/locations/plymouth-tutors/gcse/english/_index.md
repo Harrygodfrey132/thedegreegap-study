@@ -1,13 +1,13 @@
 ---
 title: "GCSE English Tutors Covering Plymouth | The Degree Gap"
 nav_title: "English"
-description: "Online GCSE English tutors covering Plymouth for Language and Literature, from the unseen poetry question to the timed essay. One-to-one from £37 an hour."
+description: "Online GCSE English tutors for Plymouth, for Language and Literature, from the unseen poetry question to the timed essay. One-to-one from £37 an hour."
 layout: "level-subject"
 location: "Plymouth"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English tutors for Plymouth, built around Paper 1 and the exam clock"
+hero_h1: "GCSE English Tutors for Plymouth Students"
 hero_lead: "The reading is done, the revision guide is annotated, and the essay still comes back a band short. Our GCSE English tutors for Plymouth students work on what happens between the idea and the page, one-to-one online over Lessonspace."
 
 angle_eyebrow: "TWO PAPERS, ONE CLOCK"

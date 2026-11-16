@@ -1,12 +1,12 @@
 ---
 title: "Aldershot A-Level Tutors | One-to-One | The Degree Gap"
-description: "Is one A-Level already wobbling in Year 12? Aldershot A-Level tutors can steady it before predicted grades are set. Online and one-to-one, from £37 an hour."
+description: "Is one A-Level already wobbling in Year 12? A-Level tutors for Aldershot can steady it before predicted grades are set. Online and one-to-one, from £37 an hour."
 layout: "subject"
 location: "Aldershot"
 level: "A-Level"
 
-hero_heading_line1: "A-Level Tutors for Aldershot Students in the Year That Sets Predicted Grades"
-hero_lead: "Lots of teenagers treat Year 12 as a warm-up. But the predicted grades on your child's applications lean heavily on it. Aldershot A-Level tutors on our platform can pick up a shaky subject now, while there's time to move it."
+hero_heading_line1: "A-Level Tutors for Aldershot Students"
+hero_lead: "Lots of teenagers treat Year 12 as a warm-up. But the predicted grades on your child's applications lean heavily on it. A-Level tutors for Aldershot students on our platform can pick up a shaky subject now, while there's time to move it."
 
 grade_from: "C"
 grade_to: "A"
@@ -21,7 +21,7 @@ first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "A-Level"
 
-tutor_strip_heading: "Aldershot A-Level tutors, each one interviewed by Harry and Joe"
+tutor_strip_heading: "A-Level tutors for Aldershot students, each one interviewed by Harry and Joe"
 tutor_strip_body: "Tell us your child's subjects and exam boards on a free call, and within a day you'll have two or three profiles. Then your child can meet the tutor in a free video meeting before anything's booked."
 
 pathways_heading: "Where Aldershot A-Levels Can Take Your Child"

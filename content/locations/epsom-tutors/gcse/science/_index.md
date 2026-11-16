@@ -1,13 +1,13 @@
 ---
 title: "Epsom GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Triple or combined, AQA or Edexcel: our Epsom GCSE Science tutors find the one science holding your child's grade down and start there. Online, from £37."
+description: "Triple or combined, AQA or Edexcel: our GCSE Science tutors for Epsom find the one science holding your child's grade down and start there. Online, from £37."
 layout: "level-subject"
 location: "Epsom"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutoring in Epsom That Starts With the Weakest Science"
+hero_h1: "GCSE Science Tutors for Epsom Students"
 hero_lead: "Three sciences, one disappointing grade, and usually just one of them doing the damage while the other two quietly carry it. Our GCSE Science tutors for Epsom students find which one, then work on it with your child rather than revising a little of everything."
 
 angle_eyebrow: "WHERE THE SCIENCE MARKS GO"

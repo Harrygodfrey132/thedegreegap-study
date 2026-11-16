@@ -1,13 +1,13 @@
 ---
-title: "Liverpool A-Level Biology Tutors | Online | The Degree Gap"
+title: "Liverpool A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Has Year 13 Biology suddenly got on top of your child? Our Liverpool A-Level tutors work on homeostasis, gene technologies and the practicals. Online, from £37."
+description: "Has Year 13 Biology suddenly got on top of your child? Our A-Level tutors for Liverpool work on homeostasis, gene technologies and the practicals. Online,"
 layout: "level-subject"
 location: "Liverpool"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors Supporting Liverpool Families"
+hero_h1: "A-Level Biology Tutors for Liverpool Students"
 hero_lead: "Year 13 is where Biology goes from manageable to huge, often for children who were comfortable in Year 12. Our A-Level Biology tutors for Liverpool students work on the second-year topics that carry the most marks: coordination, control and gene technologies."
 
 angle_eyebrow: "THE YEAR THE CONTENT DOUBLES"

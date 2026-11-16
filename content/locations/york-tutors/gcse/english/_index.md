@@ -1,13 +1,13 @@
 ---
-title: "York GCSE English Tutors | Online One-to-One | The Degree Gap"
+title: "York GCSE English Tutors | One-to-One | The Degree Gap"
 nav_title: "English"
-description: "There's no need to learn every anthology poem by heart. Our York GCSE English tutors make the poetry, seen and unseen, manageable. Online, from £37 an hour."
+description: "There's no need to learn every anthology poem by heart. Our GCSE English tutors for York make the poetry, seen and unseen, manageable. Online, from £37 an hour."
 layout: "level-subject"
 location: "York"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors in York and Nearby Villages"
+hero_h1: "GCSE English Tutors for York Students"
 hero_lead: "Is your child learning a poetry anthology word for word, and dreading the unseen poems? Plenty of teenagers are. Our GCSE English tutors for York students show your child what the poetry questions reward, so there's less to learn and more to say."
 
 angle_eyebrow: "LEARNING THE POEMS WITHOUT LEARNING EVERY WORD"

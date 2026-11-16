@@ -1,9 +1,9 @@
 ---
-title: "Online Tutoring for Doncaster Families | The Degree Gap"
+title: "Tutoring for Doncaster Families | The Degree Gap"
 description: "Is your child unsure what comes after Year 11, with grades slipping as they decide? We match Doncaster families with an online tutor. From £37, no contract."
 layout: "single"
 location: "Doncaster"
-banner_heading: "Online tutoring for Doncaster families with a teenager who hasn't picked a route yet"
+banner_heading: "GCSE and A-Level Tutors for Doncaster Families"
 banner_description: "A lot of tutoring just follows the next chapter of the textbook. We start with your child instead, look across the UK for the tutor who suits them, and every lesson happens from home."
 content_angle: "keeping doors open: the undecided Year 10 in a city with no 11+, where sixth form, college and rail apprenticeships each read the GCSEs differently"
 intro_1: "Ask a Doncaster fifteen-year-old what they want to do after Year 11 and you'll often get a shrug. That's fine. Most of us couldn't have answered at fifteen either. What keeps parents awake is the gap between the shrug and the school reports, because the choice arrives whether your child feels ready or not. There's no 11+ in Doncaster, so nobody's route gets fixed at ten. It gets settled at sixteen instead, and each door asks for something different. New College Doncaster's requirements for 2027 ask for at least a 4 in English Language for every course, and a 7 in Maths for A-Level Maths. Doncaster College's mechatronics T Level wants a 6 in Maths."

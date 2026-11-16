@@ -7,7 +7,7 @@ location: "Fulham"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Fulham Students Who Keep Micro and Macro Apart"
+hero_h1: "A-Level Economics Tutors for Fulham Students"
 hero_lead: "Most sixth forms teach markets one term and the whole economy the next, so your child learns them as two subjects. The exam doesn't see it that way. Our A-Level Economics tutors for Fulham students show how one policy plays out in both halves, which is where the higher marks sit."
 
 angle_eyebrow: "ONE POLICY, BOTH HALVES OF THE COURSE"

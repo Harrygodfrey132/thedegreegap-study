@@ -1,11 +1,11 @@
 ---
 title: "Coventry GCSE Tutors | Expert Tutors | The Degree Gap"
-description: "When the Year 11 mocks come back lower than hoped, our Coventry GCSE tutors find the topics costing your child marks and rebuild them online, from £37 an hour."
+description: "When the Year 11 mocks come back lower than hoped, our GCSE tutors for Coventry find the topics costing your child marks and rebuild them online, from £37."
 layout: "subject"
 location: "Coventry"
 level: "GCSE"
 
-hero_heading_line1: "Online Coventry GCSE Tutors Who Steady a Slipping Grade Before the Next Mocks"
+hero_heading_line1: "GCSE Tutors for Coventry Students"
 hero_heading_line2: ""
 hero_lead: "Year 10 seemed fine. Then the Year 11 mocks came home, and the grades were lower than anyone expected, your child included. Our GCSE tutors for Coventry students find the topics quietly losing marks and rebuild them before the next round, when predicted grades start to settle."
 
@@ -14,15 +14,15 @@ grade_to: "6/7"
 grade_stat: "A Year 10 who'd switched off from English went from a grade 5 to a 6/7 in six months of tutoring."
 
 first_lesson_eyebrow: "FROM SWITCHED OFF TO A 6/7"
-first_lesson_heading: "What a Coventry GCSE Tutor Listens For in Week One"
-first_lesson_context: "Your child's revising, you can see the effort, and the mock grade barely shifts. Often it's one wobbly topic dragging a whole paper down: an algebra rule from Year 9, say, or a Chemistry calculation that never landed. A Coventry GCSE tutor finds that one thing first, then rebuilds it properly before moving on."
+first_lesson_heading: "What a GCSE Tutor for Coventry Students Listens For in Week One"
+first_lesson_context: "Your child's revising, you can see the effort, and the mock grade barely shifts. Often it's one wobbly topic dragging a whole paper down: an algebra rule from Year 9, say, or a Chemistry calculation that never landed. A GCSE tutor for Coventry students finds that one thing first, then rebuilds it properly before moving on."
 
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7. I honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset. …"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 6/7 in GCSE English"
 
-tutor_strip_heading: "Coventry GCSE tutors who slow down where the class can't"
+tutor_strip_heading: "GCSE tutors for Coventry students who slow down where the class can't"
 tutor_strip_body: "Between them, the tutors on our platform know the AQA, Edexcel and OCR courses taught at Finham Park, Coundon Court and Sidney Stringer. Harry and Joe interview every one, and only about 3% of applicants make it. Have a scroll through, or ask us to choose for your child."
 
 pathways_heading: "What Coventry Year 11s Can Do Next"

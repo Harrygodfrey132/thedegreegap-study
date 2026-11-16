@@ -1,13 +1,13 @@
 ---
-title: "Chester A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Chester A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
-description: "Passing the Chemistry practicals doesn't stop your child losing marks on exam questions about them. Chester A-Level Chemistry tutors, online, from £37 an hour."
+description: "Passing the Chemistry practicals doesn't stop your child losing marks on exam questions about them. A-Level Chemistry tutors for Chester, online, from £37."
 layout: "level-subject"
 location: "Chester"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors Supporting Chester Families"
+hero_h1: "A-Level Chemistry Tutors for Chester Students"
 hero_lead: "Your child can pass the practical endorsement, the separate pass for lab work, and still lose marks on the exam questions about those same experiments. Our A-Level Chemistry tutors for Chester students work on the written side, because that's where the grade is decided."
 
 angle_eyebrow: "THE PASS ISN'T THE POINT"
@@ -28,7 +28,7 @@ schools:
   - "Christleton High School"
   - "Upton-by-Chester High School"
 
-steps_heading: "Getting a Chester A-Level Chemistry tutor, step by step"
+steps_heading: "Getting an A-Level Chemistry tutor for Chester students, step by step"
 steps_lead: "The tutor profiles follow within a day of your call. Meanwhile, ask your child why a burette's rinsed with the solution. Their answer says plenty."
 steps:
   - title: "A free call about your child"

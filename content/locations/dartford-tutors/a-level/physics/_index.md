@@ -7,11 +7,11 @@ location: "Dartford"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Dartford Students Lost in Particles and Quantum"
+hero_h1: "A-Level Physics Tutors for Dartford Students"
 hero_lead: "GCSE Physics was mostly things your child could picture. Then Year 12 brings quarks, photons and the photoelectric effect, and nothing behaves the way it should. Our A-Level Physics tutors for Dartford students make those topics concrete, one idea and one exam question at a time."
 
 angle_eyebrow: "WHEN PHYSICS STOPS BEING VISIBLE"
-angle_heading: "How a Dartford A-Level Physics Tutor Makes Particles and Quantum Make Sense"
+angle_heading: "How an A-Level Physics Tutor for Dartford Students Makes Particles and Quantum Make Sense"
 angle_body_1: "Most A-Level Physics courses bring in particles and quantum early. In AQA's specification, particles and radiation is one of the first sections: quarks, antiparticles and the conservation rules, then the photoelectric effect and energy levels. None of it can be seen or sketched the way forces and circuits can. Students who coped well with GCSE Physics often stall here, and then fields and nuclear physics in Year 13 bring the same unease back. The maths isn't usually the hard part. It's knowing which rule applies, and saying why."
 angle_body_2: "So the tutor turns each idea into something your child can work with: a table of quark charges they fill in themselves, an energy-level diagram they draw and then use to find a photon's wavelength. Exam questions follow straight away, because these topics reward exact wording and careful use of the conservation rules. If your child is at Dartford Grammar, it's IB Physics, so we match to that course. Physics opens doors close to home as well: the Leigh UTC in Dartford teaches engineering from 14, and engineering degrees and apprenticeships usually ask for Physics or Maths."
 angle_image: "/images/physics-calculator-reflection-diagram.jpg"

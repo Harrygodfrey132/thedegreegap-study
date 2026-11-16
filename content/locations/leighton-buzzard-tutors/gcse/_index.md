@@ -5,7 +5,7 @@ layout: "subject"
 location: "Leighton Buzzard"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Leighton Buzzard Students Carrying a Gap Up From Middle School"
+hero_heading_line1: "GCSE Tutors for Leighton Buzzard Students"
 hero_heading_line2: ""
 hero_lead: "A topic that wobbled in Year 7 or 8 doesn't stay behind when your child changes school. It turns up again in Year 10, harder. Our GCSE tutors for Leighton Buzzard students find it in the first lesson and rebuild from there."
 

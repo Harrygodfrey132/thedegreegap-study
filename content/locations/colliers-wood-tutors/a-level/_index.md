@@ -1,11 +1,11 @@
 ---
-title: "A-Level Tutors for Colliers Wood Students | Online One-to-One | The Degree Gap"
+title: "A-Level Tutors for Colliers Wood Students | One-to-One | The Degree Gap"
 description: "Has your sixth former gone quiet about how A-Levels are going? We'll match your child in Colliers Wood with an online A-Level tutor. From £37, no contract."
 layout: "subject"
 location: "Colliers Wood"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Colliers Wood Students Who've Stopped Saying How It's Going"
+hero_heading_line1: "A-Level Tutors for Colliers Wood Students"
 hero_heading_line2: ""
 hero_lead: "At GCSE you heard about every test. In sixth form the updates shrink to 'fine', and the first real news can be a predicted grade. Our A-Level tutors for Colliers Wood students find what's slipping early, and you can ask them how it's going at any point."
 

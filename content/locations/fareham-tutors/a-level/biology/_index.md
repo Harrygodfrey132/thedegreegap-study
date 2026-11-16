@@ -1,13 +1,13 @@
 ---
-title: "Fareham A-Level Biology Tutors | Online | The Degree Gap"
+title: "Fareham A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "The graph and data questions your child never revised for are where our Fareham A-Level Biology tutors start. Online and one-to-one, from £37 an hour."
+description: "The graph and data questions your child never revised for are where our A-Level Biology tutors for Fareham start. Online and one-to-one, from £37 an hour."
 layout: "level-subject"
 location: "Fareham"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Fareham and Portchester"
+hero_h1: "A-Level Biology Tutors for Fareham Students"
 hero_lead: "Revising every topic won't help much with a graph from an experiment your child's never seen, because there's nothing in it to learn by heart. Our A-Level Biology tutors for Fareham students give them a routine for those data questions instead."
 
 angle_eyebrow: "A GRAPH THEY'VE NEVER SEEN BEFORE"

@@ -7,7 +7,7 @@ location: "Marlborough"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Marlborough Students Who Know It but Lose the Six-Markers"
+hero_h1: "GCSE Science Tutors for Marlborough Students"
 hero_lead: "Your child can tell you how a vaccine works, then writes three lines for a six-mark question and gets two marks. Our GCSE Science tutors for Marlborough students show them how those long answers are marked, and practise them until a full answer comes naturally."
 
 angle_eyebrow: "SIX MARKS, THREE LINES"

@@ -7,7 +7,7 @@ location: "Havering"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Havering Students Stuck on the Applied Topics"
+hero_h1: "A-Level Maths Tutors for Havering Students"
 hero_lead: "Pure Maths gets most of the attention in Year 12, and the applied topics get squeezed. Our A-Level Maths tutors for Havering students give Mechanics and Statistics their proper share, because together they carry roughly a third of the marks."
 
 angle_eyebrow: "THE APPLIED THIRD OF THE COURSE"

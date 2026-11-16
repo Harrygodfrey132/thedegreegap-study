@@ -1,11 +1,11 @@
 ---
-title: "Cirencester A-Level Tuition | Online One-to-One | The Degree Gap"
-description: "Cirencester A-Level tutors for Year 12 and 13, chosen for your child's subjects and exam boards, with weekly lessons that fit around college and the bus."
+title: "Cirencester A-Level Tuition | One-to-One | The Degree Gap"
+description: "Online A-Level tutors for Cirencester students in Year 12 and 13, chosen for their subjects and exam boards, with weekly lessons that fit around college."
 layout: "subject"
 location: "Cirencester"
 level: "A-Level"
 
-hero_heading_line1: "Online Cirencester A-Level Tutors for the Subject Your Child Didn't Expect to Find Hard"
+hero_heading_line1: "A-Level Tutors for Cirencester Students"
 hero_heading_line2: ""
 hero_lead: "One subject that seemed fine at GCSE has started slipping, and with the college bus and a Saturday job, there's no obvious time to fix it. Our A-Level tutors for Cirencester students give it one fixed hour a week, starting from your child's last marked work."
 
@@ -14,14 +14,14 @@ grade_to: "B"
 grade_stat: "Keira's grades went from an E to a B, in Keira's own words."
 
 first_lesson_eyebrow: "FROM AN E TO A B"
-first_lesson_heading: "The Marked Work a Cirencester A-Level Tutor Wants to Start From"
+first_lesson_heading: "The Marked Work an A-Level Tutor for Cirencester Students Wants to Start From"
 first_lesson_context: "Usually it's the last marked essay or test, with the teacher's comments still on it. That's often enough to show whether your child is short on content or losing marks in how answers are set out, and the first few lessons go wherever those marks went."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "A-Level Student"
 first_lesson_quote_grade: "From an E to a B at A-Level"
 
-tutor_strip_heading: "Cirencester A-Level tutors chosen for your child's exact subjects"
+tutor_strip_heading: "A-Level tutors for Cirencester students chosen for your child's exact subjects"
 tutor_strip_body: "Your child might be taking any mix of the forty-odd A-Levels Cirencester College teaches, so we start by asking which ones, and on which boards. Then you'll get 2 or 3 tutor profiles to choose from, within 24 hours of the call."
 
 pathways_heading: "Once A-Levels Are Over: Options Starting Close to Cirencester"

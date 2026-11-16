@@ -1,13 +1,13 @@
 ---
 title: "GCSE English Tutors for Knutsford | The Degree Gap"
 nav_title: "English"
-description: "Both English grades can count towards Knutsford Academy's sixth form. Our Knutsford GCSE English tutors work online on planning and timing. From £37 an hour."
+description: "Both English grades can count towards Knutsford Academy's sixth form. Our GCSE English tutors for Knutsford work online on planning and timing. From £37."
 layout: "level-subject"
 location: "Knutsford"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors in Knutsford for the Essay That Keeps Coming Back a Grade Low"
+hero_h1: "GCSE English Tutors for Knutsford Students"
 hero_lead: "Your child reads, they understand the books, and the essay still comes back a grade lower than you expected. Our GCSE English tutors for Knutsford students work one-to-one online on planning and timing, the part of the exam that reading alone doesn't fix."
 
 card_heading: "Have a chat with us about your child's English"
@@ -34,7 +34,7 @@ schools:
   - "Cheadle Hulme School"
   - "The King's School, Macclesfield"
 
-steps_heading: "Your first steps towards a Knutsford GCSE English tutor"
+steps_heading: "Your first steps towards a GCSE English tutor for Knutsford students"
 steps_lead: "For most families, the first lesson's within a week of our call. Mention the set texts when we speak, since a Literature tutor needs to know the books your child's studying."
 steps:
   - title: "First, a free call"

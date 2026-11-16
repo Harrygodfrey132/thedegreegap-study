@@ -7,7 +7,7 @@ location: "Hertford"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Hertford Students, With One Eye on Their Science Marks"
+hero_h1: "GCSE Maths Tutors for Hertford Students"
 hero_lead: "Shaky Maths rarely stays in the Maths lesson. It follows your child into Physics, Chemistry and even Geography. Our GCSE Maths tutors for Hertford students fix the algebra and ratio work underneath, and the other subjects feel it too."
 
 angle_eyebrow: "MATHS THAT TURNS UP EVERYWHERE"

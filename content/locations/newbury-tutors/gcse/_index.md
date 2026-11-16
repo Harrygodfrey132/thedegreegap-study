@@ -5,7 +5,7 @@ layout: "subject"
 location: "Newbury"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Newbury Year 10s and 11s Finding Mocks Harder Than Lessons"
+hero_heading_line1: "GCSE Tutors for Newbury Students"
 hero_heading_line2: ""
 hero_lead: "Does your child seem to follow it all in class, then lose half the marks once the clock starts? Our GCSE tutors for Newbury students work through real papers with them until what they know actually reaches the page."
 

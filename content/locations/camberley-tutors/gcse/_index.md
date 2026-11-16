@@ -1,11 +1,11 @@
 ---
 title: "Camberley GCSE Tutors | One-to-One Support | The Degree Gap"
-description: "Gaps from Year 8 or 9 can follow your child to sixth form. Our Camberley GCSE tutors find and fix them in Year 10 or 11, online and one-to-one, from £37."
+description: "Gaps from Year 8 or 9 can follow your child to sixth form. Our GCSE tutors for Camberley find and fix them in Year 10 or 11, online and one-to-one, from £37."
 layout: "subject"
 location: "Camberley"
 level: "GCSE"
 
-hero_heading_line1: "Online Camberley GCSE Tutors Who Fix the Old Gaps Before Sixth Form"
+hero_heading_line1: "GCSE Tutors for Camberley Students"
 hero_heading_line2: ""
 hero_lead: "One subject keeps coming back lower than the rest, even though your child works hard, and in a busy class nobody's had time to work out why. Our GCSE tutors for Camberley students usually find the answer a year or two back, and rebuild from there."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "Omo's son is in Year 10, and after six months with his tutor he went from a grade 5 to a 6/7 in English."
 
 first_lesson_eyebrow: "A YEAR 10 WHO NOW LOOKS FORWARD TO HIS LESSONS"
-first_lesson_heading: "What a Camberley GCSE Tutor Looks for Before Anything Else"
+first_lesson_heading: "What a GCSE Tutor for Camberley Students Looks for Before Anything Else"
 first_lesson_context: "In a first lesson with a Camberley Year 10, the trouble is rarely this term's topic. More often it's something from Year 8 or 9 that never set, and a GCSE tutor would much rather find it now than have it follow your child to a new sixth form or college."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to a 6/7 in GCSE English"
 
-tutor_strip_heading: "Camberley GCSE tutors who start from your child's latest mock"
+tutor_strip_heading: "GCSE tutors for Camberley students who start from your child's latest mock"
 tutor_strip_body: "Collingwood, Kings International and Tomlinscote pick their exam boards subject by subject. So before anyone's put forward, we find out which papers your child actually sits. Browse the profiles yourself if you like, or ask us to choose."
 
 pathways_heading: "The Choices After Year 11 in Camberley, and the Grades Behind Them"

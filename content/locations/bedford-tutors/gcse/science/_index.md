@@ -7,7 +7,7 @@ location: "Bedford"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Bedford Students Facing Practical Questions on Paper"
+hero_h1: "GCSE Science Tutors for Bedford Students"
 hero_lead: "Your child did the experiment months ago, and now the exam wants the method and what could have gone wrong. Our GCSE Science tutors for Bedford students rebuild those practicals on paper, one-to-one and online."
 
 angle_eyebrow: "THE EXPERIMENT THAT COMES BACK IN JUNE"

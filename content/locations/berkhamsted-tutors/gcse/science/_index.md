@@ -1,13 +1,13 @@
 ---
 title: "Berkhamsted GCSE Science Tuition | The Degree Gap"
 nav_title: "Science"
-description: "One Science grade can hide a strong Biology and a shaky Chemistry. Our Berkhamsted GCSE Science tutors find which one's losing marks. Online, from £37 an hour."
+description: "One Science grade can hide a strong Biology and a shaky Chemistry. Our GCSE Science tutors for Berkhamsted find which one's losing marks. Online, from £37."
 layout: "level-subject"
 location: "Berkhamsted"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutoring for Berkhamsted Families, Starting With the Science Losing Marks"
+hero_h1: "GCSE Science Tutors for Berkhamsted Students"
 hero_lead: "When your child comes home with one Science grade, it can hide Biology going well and Chemistry quietly slipping. Our GCSE Science tutors for Berkhamsted students pull the three apart on a marked paper, then teach one-to-one online wherever the marks are going."
 
 angle_eyebrow: "ONE GRADE, THREE SUBJECTS"
@@ -28,7 +28,7 @@ schools:
   - "Egerton-Rothesay School"
   - "West Herts College"
 
-steps_heading: "Getting started with a GCSE Science tutor in Berkhamsted"
+steps_heading: "Getting started with a GCSE Science tutor for Berkhamsted students"
 steps_lead: "Tutor profiles usually land the day after we speak. Then a marked paper decides which science gets the time."
 steps:
   - title: "Tell us about your child"

@@ -1,5 +1,5 @@
 ---
-title: "Hemel Hempstead A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Hemel Hempstead A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Does your child get the chemistry but lose marks on calculations? Our online Hemel Hempstead A-Level Chemistry tutors work on the maths underneath. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Hemel Hempstead"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutoring Across Hemel Hempstead"
+hero_h1: "A-Level Chemistry Tutors for Hemel Hempstead Students"
 hero_lead: "Plenty of the marks your child drops in Chemistry aren't really testing chemistry at all. Our A-Level Chemistry tutors for Hemel Hempstead students find the maths doing the damage and sort that out first."
 
 angle_eyebrow: "THE MATHS INSIDE THE CHEMISTRY"

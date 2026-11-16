@@ -7,7 +7,7 @@ location: "Hertford"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Hertford Students Tripped Up by Practical Questions"
+hero_h1: "GCSE Science Tutors for Hertford Students"
 hero_lead: "Your child did the osmosis practical in class, enjoyed it, then couldn't describe the method in the mock. Our GCSE Science tutors for Hertford students turn practicals into answers that score, alongside the long questions and the calculations."
 
 angle_eyebrow: "FROM THE LAB BENCH TO THE PAPER"

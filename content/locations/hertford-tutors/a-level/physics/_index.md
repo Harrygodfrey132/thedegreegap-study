@@ -7,7 +7,7 @@ location: "Hertford"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Hertford Students Whose Maths Is Holding Back Their Physics"
+hero_h1: "A-Level Physics Tutors for Hertford Students"
 hero_lead: "Your child understands the Physics when it's explained, then drops the marks rearranging, taking logs or reading a gradient. Our A-Level Physics tutors for Hertford students treat the maths as part of the subject, because the exam certainly does."
 
 angle_eyebrow: "FORTY PER CENT MATHS"

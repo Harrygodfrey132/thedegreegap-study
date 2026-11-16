@@ -7,7 +7,7 @@ location: "Fulham"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Fulham Students Who've Had Enough of Practice Papers"
+hero_h1: "GCSE Maths Tutors for Fulham Students"
 hero_lead: "If your child has worked through stacks of Maths papers and the grade still won't move, more of them rarely helps. Our GCSE Maths tutors for Fulham students slow down on the questions that ask your child to reason, not just calculate."
 
 angle_eyebrow: "WHY MORE PAPERS STOP WORKING"

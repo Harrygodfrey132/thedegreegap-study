@@ -7,7 +7,7 @@ location: "Tring"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Tring Students Losing Marks on the Practical Questions"
+hero_h1: "A-Level Physics Tutors for Tring Students"
 hero_lead: "Your child can follow the theory, then a question asks for the uncertainty in a measured value or the gradient of a log graph, and the marks drain away. Our A-Level Physics tutors for Tring students make that data work routine."
 
 angle_eyebrow: "PAPER 3, SECTION A"

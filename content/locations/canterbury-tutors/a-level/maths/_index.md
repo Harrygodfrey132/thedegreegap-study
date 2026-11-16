@@ -1,5 +1,5 @@
 ---
-title: "Canterbury A-Level Maths Tutors | Online | The Degree Gap"
+title: "Canterbury A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Online A-Level Maths tutors for Canterbury. If your child found GCSE easy but Year 13 series or differential equations are a shock, we can help. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Canterbury"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Canterbury Teenagers Who Found GCSE Easy"
+hero_h1: "A-Level Maths Tutors for Canterbury Students"
 hero_lead: "If your child sailed through GCSE Maths with a 9, A-Level may be the first time they've really had to struggle. Our A-Level Maths tutors for Canterbury students work on series, parametric equations and differential equations, which is usually where it happens."
 
 angle_eyebrow: "THE FIRST SUBJECT THAT HASN'T COME EASILY"
@@ -39,7 +39,7 @@ steps:
     body: "An hour a week, one-to-one, on Lessonspace, an online classroom where every lesson can be replayed. Your child works unfamiliar questions live, and the tutor teaches setting up a problem as a skill in its own right. Lessons cost from £37 an hour and there's no contract. If your child and the tutor don't click, we'll find someone else, free."
 
 faqs:
-  - q: "Can a Canterbury A-Level Maths tutor help if my child's going for a degree apprenticeship?"
+  - q: "Can an A-Level Maths tutor for Canterbury students help if my child's going for a degree apprenticeship?"
     a: "Yes, and Maths is usually the subject those applications hang on. If your child's looking at engineering, finance or technology, those degree apprenticeships often ask for A-Level grades around AAB, with Maths named. Many also set a numerical reasoning test as part of the application. Each scheme publishes its own requirements, so check the current ones. The predicted grade is what gets the form read in the first place, so that comes first. The setting-up practice that lifts a Maths grade tends to help with those tests too, so the two don't fight for time."
   - q: "How is an hour with the tutor spent?"
     a: "In three parts. It starts with last week's questions, checked step by step rather than just the answer at the bottom, since that's where the method marks are. That takes about a quarter of an hour. Then there's half an hour of unfamiliar questions on whichever topic is costing most. Before anything's written, the tutor asks your child which approach they'd use and why. The last fifteen minutes are timed exam questions, marked the way an examiner would, so your child practises the pressure and not just the content."

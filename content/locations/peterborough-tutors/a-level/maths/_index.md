@@ -1,13 +1,13 @@
 ---
-title: "Peterborough A-Level Maths Tutors | Online | The Degree Gap"
+title: "Peterborough A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Is the calculator costing your child A-Level Maths marks? Our Peterborough tutors teach them when to use it and when to show the working. Online, from £37."
+description: "Is the calculator costing your child A-Level Maths marks? Our tutors for Peterborough teach them when to use it and when to show the working. Online, from £37."
 layout: "level-subject"
 location: "Peterborough"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors Working With Peterborough Families"
+hero_h1: "A-Level Maths Tutors for Peterborough Students"
 hero_lead: "If your child keeps running out of time in Maths tests, or losing marks for 'no working', the calculator's often part of the reason. Our A-Level Maths tutors for Peterborough students sort out both."
 
 angle_eyebrow: "THE CALCULATOR IN YOUR CHILD'S PENCIL CASE"
@@ -28,7 +28,7 @@ schools:
   - "Ormiston Bushfield Academy"
   - "The King's School Peterborough"
 
-steps_heading: "Three steps to a Peterborough A-Level Maths tutor for your child"
+steps_heading: "Three steps to an A-Level Maths tutor for your child in Peterborough"
 steps_lead: "Profiles come within a day of the call. Worth asking your child first which calculator they use, and what for."
 steps:
   - title: "A free call with Harry or Joe"

@@ -5,7 +5,7 @@ layout: "subject"
 location: "Bracknell"
 level: "A-Level"
 
-hero_heading_line1: "Online Bracknell A-Level Tutors for Year 12s Who Stayed On and Found It Harder"
+hero_heading_line1: "A-Level Tutors for Bracknell Students"
 hero_heading_line2: ""
 hero_lead: "Same building, same friends, a very different workload. Year 12 can catch out a child who did well at GCSE, and our A-Level tutors for Bracknell students find which subject is slipping and why, then work on it a week at a time."
 
@@ -21,7 +21,7 @@ first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Grade C → Grade A"
 
-tutor_strip_heading: "Bracknell A-Level tutors who know which board each subject sits"
+tutor_strip_heading: "A-Level tutors for Bracknell students who know which board each subject sits"
 tutor_strip_body: "Even inside one sixth form the boards differ: Ranelagh teaches A-Level Maths on Edexcel, the three sciences on AQA and Further Maths on OCR MEI. We match each subject to its own papers. Have a look at the tutors below, or let us choose one for your child."
 
 pathways_heading: "From a Bracknell Sixth Form to Reading, Royal Holloway or Jealott's Hill"

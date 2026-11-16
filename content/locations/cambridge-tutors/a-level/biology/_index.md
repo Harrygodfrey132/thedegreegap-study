@@ -1,13 +1,13 @@
 ---
-title: "Cambridge A-Level Biology Tutors | Online | The Degree Gap"
+title: "Cambridge A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Biology gaps can hide until a Year 13 question needs them. Our Cambridge A-Level Biology tutors find them early, online and one-to-one, for AQA, OCR or Edexcel."
+description: "Biology gaps can hide until a Year 13 question needs them. Our A-Level Biology tutors for Cambridge find them early, online, for AQA, OCR or Edexcel."
 layout: "level-subject"
 location: "Cambridge"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Year 12 and 13 in Cambridge"
+hero_h1: "A-Level Biology Tutors for Cambridge Students"
 hero_lead: "Your child's Biology tests can look fine for months while one topic quietly never went in, and it only shows when a Year 13 question leans on it. Our A-Level Biology tutors for Cambridge students check the whole course early, so those gaps turn up while there's still time."
 
 angle_eyebrow: "THE GAP THAT DOESN'T ANNOUNCE ITSELF"
@@ -28,7 +28,7 @@ schools:
   - "Parkside Community College"
   - "Coleridge Community College"
 
-steps_heading: "Your child's A-Level Biology tutor in Cambridge, in three steps"
+steps_heading: "Your child's A-Level Biology tutor for Cambridge students, in three steps"
 steps_lead: "You'll see tutor profiles within a day. If you can, start early in Year 12, so a hidden topic has less time to cost marks."
 steps:
   - title: "A free call with one of us"

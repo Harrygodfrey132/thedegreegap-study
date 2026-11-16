@@ -1,11 +1,11 @@
 ---
-title: "Sunbury-on-Thames GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "Sunbury-on-Thames GCSE tutors for the questions your child won't ask in class. One-to-one lessons online with nobody else listening, from £37 and no contract."
+title: "Sunbury-on-Thames GCSE Tutors | One-to-One | The Degree Gap"
+description: "GCSE tutors for Sunbury-on-Thames, for the questions your child won't ask in class. One-to-one lessons online with nobody else listening, from £37 and."
 layout: "subject"
 location: "Sunbury-on-Thames"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors in Sunbury-on-Thames for the Question Your Child Didn't Want to Ask"
+hero_heading_line1: "GCSE Tutors for Sunbury-on-Thames Students"
 hero_heading_line2: ""
 hero_lead: "Most children won't say 'I don't get it' with the whole class listening. So the question goes unasked, and the next topic arrives before the last one's made sense. Our GCSE tutors for Sunbury-on-Thames students offer an hour where asking costs your child nothing."
 
@@ -21,7 +21,7 @@ first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 6/7 in English"
 
-tutor_strip_heading: "Sunbury-on-Thames GCSE tutors who make asking feel easy"
+tutor_strip_heading: "GCSE tutors for Sunbury-on-Thames students who make asking feel easy"
 tutor_strip_body: "Sunbury Manor, The Bishop Wand, Three Rivers Academy and the schools over towards Hampton aren't all on one exam board. Tell us your child's, and we'll match to it. We interview every tutor ourselves. Scroll through the profiles, or have a chat with us and we'll pick."
 
 pathways_heading: "What's Within Reach of Sunbury-on-Thames After Year 11"

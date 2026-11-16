@@ -7,7 +7,7 @@ location: "Croydon"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "A-Level Maths tutors for Croydon when Year 12 shows up gaps in the GCSE algebra"
+hero_h1: "A-Level Maths Tutors for Croydon Students"
 hero_lead: "If Year 12 Maths feels like a different subject after a good GCSE, there's usually a reason. Often the class has come from lots of Croydon schools, and the course assumes they all learnt the same algebra. Our A-Level Maths tutors for Croydon students find the bits that got covered lightly."
 
 angle_eyebrow: "ONE CLASS, MANY DIFFERENT YEAR 11s"
@@ -41,7 +41,7 @@ steps:
     body: "A weekly hour, one-to-one, in the online classroom Lessonspace, with a replay of every lesson. Your child works through each problem while the tutor watches the method, not just the answer. The plan works back from when the predicted grade is written, not from the June exams. From £37 an hour, no contract, and if they don't click with the tutor, we'll swap at no charge."
 
 faqs:
-  - q: "Can a Croydon A-Level Maths tutor help if my child's applying for an HMRC apprenticeship?"
+  - q: "Can an A-Level Maths tutor for Croydon students help if my child's applying for an HMRC apprenticeship?"
     a: "Yes. HMRC's regional centre at Ruskin Square runs apprenticeships, including a Level 4 policy scheme, and the higher-level ones expect A-Levels or another qualification at the same level. Each scheme sets its own requirements and can change them between intakes, so check the current listing. Applications usually include a written stage and often a numerical test, and they open on HMRC's calendar, not UCAS's. A Maths tutor helps with two things. There's the predicted grade on the form. And there's the quick arithmetic that can trip up a teenager who's fine with calculus but hasn't done mental sums in years. The Met's constable degree apprenticeship is similar, asking for two A-Levels or an equivalent, plus GCSE English."
   - q: "Can the same tutor help with A-Level Maths and Physics?"
     a: "Often, yes, and it's a pairing that works well. The Mechanics part of A-Level Maths and the mechanics topics in A-Level Physics use the same modelling, the same suvat equations for motion and the same habit of losing marks to a missing diagram. So one tutor seeing both sets of work spots the shared weak point quickly. Maths with Further Maths or Economics pairs well too. Beyond that, most tutors stick to their own subject. If your child needs a lot of help in Chemistry or an essay subject, a second tutor is usually the better call."

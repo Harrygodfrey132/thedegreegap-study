@@ -1,5 +1,5 @@
 ---
-title: "Liverpool A-Level Maths Tutors | Online | The Degree Gap"
+title: "Liverpool A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Does your child know the chain, product and quotient rules but can't tell which a question wants? Online one-to-one Liverpool A-Level Maths tutors, from £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Liverpool"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors Covering Liverpool"
+hero_h1: "A-Level Maths Tutors for Liverpool Students"
 hero_lead: "If your child's Maths marks have dipped in Year 13 even though they know every rule, it's usually because the questions stop testing one rule at a time. Our A-Level Maths tutors for Liverpool students focus on the combined calculus, vectors and numerical methods questions that catch them out."
 
 angle_eyebrow: "KNOWING THE RULE ISN'T THE SAME AS CHOOSING IT"

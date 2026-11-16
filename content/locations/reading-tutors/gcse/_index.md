@@ -1,11 +1,11 @@
 ---
-title: "GCSE Tutors in Reading | Online One-to-One | The Degree Gap"
-description: "Is your child avoiding a subject they used to enjoy? Our Reading GCSE tutors work out where it went wrong and rebuild it, online and one-to-one, from £37."
+title: "GCSE Tutors in Reading | One-to-One | The Degree Gap"
+description: "Is your child avoiding a subject they used to enjoy? Our GCSE tutors for Reading work out where it went wrong and rebuild it, online and one-to-one, from £37."
 layout: "subject"
 location: "Reading"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors in Reading for the Subject Your Child Has Started Avoiding"
+hero_heading_line1: "GCSE Tutors for Reading Students"
 hero_heading_line2: ""
 hero_lead: "It tends to creep up. A subject your child used to like gets left till last, then skipped, and the mock mark drops with it. Our GCSE tutors for Reading students find what stopped making sense and rebuild it calmly, one-to-one, from there."
 
@@ -14,15 +14,15 @@ grade_to: "6/7"
 grade_stat: "After six months of tutoring, Omo's son moved from a grade 5 in English to a 6/7."
 
 first_lesson_eyebrow: "HE NOW LOOKS FORWARD TO LESSONS"
-first_lesson_heading: "How a Reading GCSE Tutor Reopens a Subject That Got Avoided"
-first_lesson_context: "A disappointing mock tells you something's wrong, but not which bit. In Year 10 it's often an algebra method there wasn't time to practise enough in a full class, or a set text that came up when your child was already a step behind. A Reading GCSE tutor goes through a recent paper with them, finds the gap that's costing the most marks and rebuilds it until it holds."
+first_lesson_heading: "How a GCSE Tutor for Reading Students Reopens a Subject That Got Avoided"
+first_lesson_context: "A disappointing mock tells you something's wrong, but not which bit. In Year 10 it's often an algebra method there wasn't time to practise enough in a full class, or a set text that came up when your child was already a step behind. A GCSE tutor for Reading students goes through a recent paper with them, finds the gap that's costing the most marks and rebuilds it until it holds."
 
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7. I honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset. …"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 → Grade 6/7 in GCSE English"
 
-tutor_strip_heading: "Reading GCSE tutors who start with your child's exam board"
+tutor_strip_heading: "GCSE tutors for Reading students who start with your child's exam board"
 tutor_strip_body: "Every tutor has at least two years' tutoring experience, and only around 3% of applicants get through our interview. They know the courses taught at Reading School, Kendrick and the comprehensives across town. Take a look at some below, or let us pick two or three for your child."
 
 pathways_heading: "Where Reading GCSEs Can Take Your Child Next"

@@ -7,7 +7,7 @@ location: "Burton upon Trent"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Burton upon Trent Students Losing Marks on Practicals"
+hero_h1: "GCSE Science Tutors for Burton upon Trent Students"
 hero_lead: "Your child can recite the facts, then a question about a practical they did in Year 10 asks what they'd change, and the answer space stays empty. Our GCSE Science tutors for Burton upon Trent students teach the method behind each practical, so those questions stop being a surprise."
 
 angle_eyebrow: "YEAST, ON THE SYLLABUS"

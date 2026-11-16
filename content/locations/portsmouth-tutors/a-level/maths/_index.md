@@ -1,13 +1,13 @@
 ---
 title: "Portsmouth A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Right answer, but still losing marks on iteration, Newton-Raphson or the trapezium rule? Our Portsmouth A-Level Maths tutors can help, online and one-to-one."
+description: "Right answer, but still losing marks on iteration, Newton-Raphson or the trapezium rule? Our A-Level Maths tutors for Portsmouth can help, online."
 layout: "level-subject"
 location: "Portsmouth"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "A-Level Maths Tutors for Portsmouth, Southsea and Fareham"
+hero_h1: "A-Level Maths Tutors for Portsmouth Students"
 hero_lead: "Lots of teenagers leave marks on the table in numerical methods, because the topic looks like button-pressing and gets skipped. Our A-Level Maths tutors for Portsmouth students work on iteration, Newton-Raphson and the short written reasons examiners want to see."
 
 angle_eyebrow: "THE EASIEST MARKS NOBODY COLLECTS"
@@ -28,7 +28,7 @@ schools:
   - "King Richard School"
   - "The Portsmouth Academy"
 
-steps_heading: "Your Child's First Steps With a Portsmouth A-Level Maths Tutor"
+steps_heading: "Your Child's First Steps With an A-Level Maths Tutor for Portsmouth Students"
 steps_lead: "Most Portsmouth families get tutor profiles within 24 hours. And this is one of the few topics where your child can see marks move fairly early on, which really helps motivation."
 steps:
   - title: "A free call to hear what's happening"

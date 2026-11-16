@@ -7,7 +7,7 @@ location: "Leighton Buzzard"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Leighton Buzzard Students Losing Marks to One Early Slip"
+hero_h1: "A-Level Chemistry Tutors for Leighton Buzzard Students"
 hero_lead: "One slip early in a calculation, or a curly arrow starting in the wrong place, and a whole Chemistry question is gone. Our A-Level Chemistry tutors for Leighton Buzzard students slow those steps down until your child can set them out the same way every time."
 
 angle_eyebrow: "ONE ARROW IN THE WRONG PLACE"

@@ -7,7 +7,7 @@ location: "Basildon"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English tutoring for your child in Basildon, when every essay comes back 'needs more analysis'"
+hero_h1: "GCSE English Tutors for Basildon Students"
 hero_lead: "English is the subject where hard work can look like it isn't counting. We match your child with an online tutor for Language and Literature, on their exact board, and every lesson happens from home."
 
 angle_eyebrow: "WHY ENGLISH CAN FEEL UNFAIR"

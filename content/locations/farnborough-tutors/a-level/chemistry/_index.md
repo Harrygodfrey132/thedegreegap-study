@@ -1,5 +1,5 @@
 ---
-title: "Farnborough A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Farnborough A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "If your child learnt the Period 3 oxides as a list and can't predict them, our online A-Level Chemistry tutors for Farnborough families start from bonding."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Farnborough"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Farnborough, Picked for Your Child's Exam Board"
+hero_h1: "A-Level Chemistry Tutors for Farnborough Students"
 hero_lead: "Knowing which Period 3 oxides are acidic won't get your child far, because the paper asks them to predict it. Our A-Level Chemistry tutors for Farnborough students start from the bonding underneath, so the behaviour follows instead of being memorised."
 
 angle_eyebrow: "PREDICTING RATHER THAN REMEMBERING"

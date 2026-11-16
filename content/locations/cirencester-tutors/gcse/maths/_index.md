@@ -1,13 +1,13 @@
 ---
 title: "GCSE Maths Tutors in Cirencester | The Degree Gap"
 nav_title: "Maths"
-description: "GCSE Maths tutors for Cirencester families: algebra, the non-calculator paper and the Maths grade Cirencester College looks for. From £37, no contract."
+description: "Online GCSE Maths tutors for Cirencester families: algebra, the non-calculator paper and the grade Cirencester College looks for. From £37, no contract."
 layout: "level-subject"
 location: "Cirencester"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Cirencester, Kemble and South Cerney"
+hero_h1: "GCSE Maths Tutors for Cirencester Students"
 hero_lead: "Maths homework rushed on a bumpy bus, or squeezed in after tea, tends to hide the one step your child doesn't quite follow. Our GCSE Maths tutors for Cirencester students find that step, often from Year 8 or 9, and rebuild from there."
 
 angle_eyebrow: "THE STEP NOBODY GOT TO ASK ABOUT"

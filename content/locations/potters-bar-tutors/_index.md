@@ -1,9 +1,9 @@
 ---
 title: "Potters Bar Tutoring | GCSE & A-Level | The Degree Gap"
-description: "Whether it's Owen's, Gracewood, Chancellor's or a school in Barnet, our Potters Bar tutors work online with your child on the GCSEs and A-Levels ahead."
+description: "Whether it's Owen's, Gracewood, Chancellor's or a school in Barnet, our tutors for Potters Bar work online with your child on the GCSEs and A-Levels ahead."
 layout: "single"
 location: "Potters Bar"
-banner_heading: "Online Potters Bar tutoring for the week a good report and a worrying mock arrive together"
+banner_heading: "GCSE and A-Level Tutors for Potters Bar Families"
 banner_description: "Whichever school your child's at, we'll find them a tutor who can read that mock properly and then work through it with them, online, one week at a time."
 content_angle: "a town on the London border with one partially selective school (Dame Alice Owen's) and a smaller school that was Mount Grace until December 2025 and is now Gracewood Academy, where friends from the same primary end up at different secondaries, on different exam boards with different sixth form rules, and London's colleges and universities are a short train ride away"
 intro_1: "By Year 10, children who walked to primary school together in Potters Bar can be spread across four or five secondaries. Some are at Dame Alice Owen's on Dugdale Hill Lane, some at Gracewood Academy on Church Road, some at Chancellor's in Brookmans Park, and a few over the border in Barnet. Each school picks its own exam boards and sets its own sixth form rules, so the friend down the road might be revising for a different Maths paper from your child's. What happens at home sounds much the same in every house, though. A mock comes back lower than all that revision deserved. Is it one topic, or the whole subject? And it's hard to ask without it turning into a row."

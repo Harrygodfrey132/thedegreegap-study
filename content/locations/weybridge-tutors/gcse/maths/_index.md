@@ -1,13 +1,13 @@
 ---
 title: "Weybridge GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Is your child on a 6 in Maths when the sixth form wants a 7 for A-Level Maths? Our Weybridge GCSE Maths tutors work one-to-one online, from £37 an hour."
+description: "Is your child on a 6 in Maths when the sixth form wants a 7 for A-Level Maths? Our GCSE Maths tutors for Weybridge work one-to-one online, from £37 an hour."
 layout: "level-subject"
 location: "Weybridge"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutoring in Weybridge When Your Child's Between a 6 and a 7"
+hero_h1: "GCSE Maths Tutors for Weybridge Students"
 hero_lead: "At Heathside and Esher, one Maths grade can decide whether A-Level Maths is an option for your child. Our GCSE Maths tutors for Weybridge students teach one-to-one online. They hunt for the marks between where your child's scoring now and where that course needs them."
 
 angle_eyebrow: "BETWEEN A 6 AND A 7"

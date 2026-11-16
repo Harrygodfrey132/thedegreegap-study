@@ -1,5 +1,5 @@
 ---
-title: "Tunbridge Wells GCSE Maths Tutors | Online | The Degree Gap"
+title: "Tunbridge Wells GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Online GCSE Maths tutors for Tunbridge Wells families, whichever school your child is at. Matched on AQA, Edexcel or OCR, one-to-one, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Tunbridge Wells"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors Covering Tunbridge Wells and Pembury"
+hero_h1: "GCSE Maths Tutors for Tunbridge Wells Students"
 hero_lead: "If your child is in a grammar set, sitting mid-table in Maths tells you surprisingly little, because everyone in the room was selected. Our GCSE Maths tutors for Tunbridge Wells students start from a paper instead, and mark it the way an examiner would before planning anything."
 
 angle_eyebrow: "WHAT A CLASS RANK HIDES IN A SELECTIVE COUNTY"

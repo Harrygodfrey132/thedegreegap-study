@@ -7,7 +7,7 @@ location: "Luton"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "A-Level Maths Tutoring for Luton: When the GCSE Method Stops Working"
+hero_h1: "A-Level Maths Tutors for Luton Students"
 hero_lead: "A strong GCSE grade buys about half a term at A-Level, then the questions stop announcing which method they want. Our A-Level Maths tutors for Luton students teach the choosing, not just the doing. Online and one-to-one, an hour a week."
 
 angle_eyebrow: "THE QUESTION ARRIVES WITH NO LABEL"
@@ -39,7 +39,7 @@ steps:
     body: "An hour a week on Lessonspace, our shared whiteboard, with your child working rather than watching. Questions arrive without their topic labels, so choosing the method becomes the thing being practised. From £37 an hour, paid one session at a time."
 
 faqs:
-  - q: "Can a Luton A-Level Maths tutor help with an apprenticeship application?"
+  - q: "Can an A-Level Maths tutor for Luton students help with an apprenticeship application?"
     a: "Yes, and the timing catches families out. Degree apprenticeships at the University of Bedfordshire, and the schemes Bedfordshire Hospitals and easyJet run locally, each publish their own entry requirements, and several close before the UCAS deadline does. Maths is often the grade that decides eligibility on the technical and engineering routes. Tutors work on the predicted grade an application carries, and on the aptitude tests some schemes set, which lean on the algebra and reasoning an A-Level Maths student already has. Say on the call which route is in play."
   - q: "How much A-Level Maths homework should there be between sessions?"
     a: "Sixty to ninety minutes, usually two or three past paper question sets on whatever the lesson covered. Past ninety minutes the returns fall away fast, and at this level quality beats volume anyway: three questions attempted properly with the working written out will teach more than ten rushed ones. Tutors set the work at the end of the hour and mark it at the start of the next, which is what makes the following session worth having. If the week has gone badly, we'd rather know than have it skipped quietly."

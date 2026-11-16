@@ -1,13 +1,13 @@
 ---
-title: "Sutton Coldfield A-Level Biology Tutors | Online | The Degree Gap"
+title: "Sutton Coldfield A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "When your child's Biology answers read well but score low, it's often the wording. Our Sutton Coldfield A-Level Biology tutors work on that. Online, from £37."
+description: "When your child's Biology answers read well but score low, it's often the wording. Our A-Level Biology tutors for Sutton Coldfield work on that. Online,"
 layout: "level-subject"
 location: "Sutton Coldfield"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors Covering Sutton Coldfield"
+hero_h1: "A-Level Biology Tutors for Sutton Coldfield Students"
 hero_lead: "Biology answers that sound right but keep scoring low usually come down to wording. Our A-Level Biology tutors for Sutton Coldfield students work with your child on using exactly the terms the mark scheme is looking for."
 
 angle_eyebrow: "NEARLY RIGHT CAN SCORE NOTHING"

@@ -1,13 +1,13 @@
 ---
-title: "Sutton Coldfield GCSE Science Tutors | Online | The Degree Gap"
+title: "Sutton Coldfield GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Knows every fact, still loses the 'explain why' marks? Our Sutton Coldfield GCSE Science tutors work on the why, one-to-one and online. From £37 an hour."
+description: "Knows every fact, still loses the 'explain why' marks? Our GCSE Science tutors for Sutton Coldfield work on the why, one-to-one and online. From £37 an hour."
 layout: "level-subject"
 location: "Sutton Coldfield"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutoring in Sutton Coldfield, Working on the Questions That Ask Why"
+hero_h1: "GCSE Science Tutors for Sutton Coldfield Students"
 hero_lead: "Your child can tell you every fact on the course and still lose marks on the longer questions, because those ask why, not what. Our GCSE Science tutors for Sutton Coldfield students help your child with the why, online and one-to-one."
 
 angle_eyebrow: "KNOWING IT ISN'T THE SAME AS EXPLAINING IT"

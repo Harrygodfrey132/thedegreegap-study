@@ -7,7 +7,7 @@ location: "Marlborough"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Marlborough Students Who Dread the Long Essay Question"
+hero_h1: "A-Level Biology Tutors for Marlborough Students"
 hero_lead: "Your child knows a lot of Biology, and then the essay question asks them to pull topics from two years together in one long answer. Our A-Level Biology tutors for Marlborough students practise linking those topics until it stops feeling like a memory test."
 
 angle_eyebrow: "ONE ESSAY, TWO YEARS OF TOPICS"

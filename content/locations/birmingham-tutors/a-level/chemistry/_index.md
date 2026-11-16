@@ -1,13 +1,13 @@
 ---
-title: "Birmingham A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Birmingham A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
-description: "Revision cards learnt, but the organic chemistry questions still go blank? Our Birmingham A-Level Chemistry tutors help one-to-one online, from £37 an hour."
+description: "Revision cards learnt, but the organic chemistry questions still go blank? Our A-Level Chemistry tutors for Birmingham help one-to-one online, from £37 an hour."
 layout: "level-subject"
 location: "Birmingham"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Birmingham A-Level Chemistry Tutors, Online and One-to-One"
+hero_h1: "A-Level Chemistry Tutors for Birmingham Students"
 hero_lead: "Your child can recite every organic reaction on their revision cards, then go blank when a question asks how to get from one molecule to another. Our A-Level Chemistry tutors for Birmingham students teach the routes that link those reactions, and the mechanism arrows that carry the marks."
 
 angle_eyebrow: "WHEN THE REVISION CARDS STOP BEING ENOUGH"
@@ -28,7 +28,7 @@ schools:
   - "Lordswood Girls' School"
   - "Handsworth Wood Girls' Academy"
 
-steps_heading: "Three Steps to a Birmingham Tutor Who Teaches the Routes"
+steps_heading: "Three Steps to a Tutor for Birmingham Families Who Teaches the Routes"
 steps_lead: "You'll usually have tutor profiles by the next day. Starting in Year 12 leaves months to practise routes before the papers, which suits organic chemistry far better than a late cram."
 steps:
   - title: "Book a free call"

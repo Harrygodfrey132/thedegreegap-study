@@ -1,13 +1,13 @@
 ---
 title: "GCSE Science Tutors in Cirencester | The Degree Gap"
 nav_title: "Science"
-description: "GCSE Science tutors for Cirencester families: Biology, Chemistry and Physics on your child's board, with Hartpury and the RAU in mind. Lessons from £37."
+description: "Online GCSE Science tutors for Cirencester families: Biology, Chemistry and Physics on your child's board, with Hartpury and the RAU in mind. From £37."
 layout: "level-subject"
 location: "Cirencester"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Covering Cirencester"
+hero_h1: "GCSE Science Tutors for Cirencester Students"
 hero_lead: "If your child's set on working with animals or on the land, their Science grades will matter, and keeping on top of three sciences at once is a lot. Our GCSE Science tutors for Cirencester students work on the long answers and practicals on your child's board."
 
 angle_eyebrow: "THE GCSE BEHIND THE LAND-BASED ROUTES"

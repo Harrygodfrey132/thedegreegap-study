@@ -1,13 +1,13 @@
 ---
 title: "GCSE Science Tuition for Bournemouth | The Degree Gap"
 nav_title: "Science"
-description: "Has one science gone quiet at home? Our Bournemouth GCSE Science tutors find the one that's slipping, combined or triple, and start there. Online, from £37."
+description: "Has one science gone quiet at home? Our GCSE Science tutors for Bournemouth find the one that's slipping, combined or triple, and start there. Online, from £37."
 layout: "level-subject"
 location: "Bournemouth"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Bournemouth Families When One of the Three Sciences Slips"
+hero_h1: "GCSE Science Tutors for Bournemouth Students"
 hero_lead: "Your child talks about Biology and Physics at tea, but Chemistry hasn't come up in weeks. The science that goes quiet is usually the one that's slipping. Our GCSE Science tutors for Bournemouth students find it and work on it one-to-one online, before it costs your child a grade."
 
 angle_eyebrow: "THE SCIENCE THAT GOES QUIET"

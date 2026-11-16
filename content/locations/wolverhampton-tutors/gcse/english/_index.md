@@ -1,12 +1,12 @@
 ---
-title: "Wolverhampton GCSE English Tutors | Online | The Degree Gap"
-description: "An English essay can read well at home and still come back a 4. Our Wolverhampton GCSE English tutors show your child what each question wants. From £37."
+title: "Wolverhampton GCSE English Tutors | The Degree Gap"
+description: "An English essay can read well at home and still come back a 4. Our online GCSE English tutors show Wolverhampton students what each question wants."
 layout: "level-subject"
 location: "Wolverhampton"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Wolverhampton Families"
+hero_h1: "GCSE English Tutors for Wolverhampton Students"
 hero_lead: "You've read your child's English essay, and honestly, it reads well to you. Then it comes back a 4. Our GCSE English tutors for Wolverhampton students show your child what each question is really asking, and how to answer exactly that, in the time."
 
 angle_eyebrow: "WHEN A GOOD READ SCORES A 4"

@@ -7,7 +7,7 @@ location: "Hampstead"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Hampstead Students Tripped Up by Logs and Rearranging"
+hero_h1: "A-Level Physics Tutors for Hampstead Students"
 hero_lead: "Your child understands the idea behind circular motion, then the question needs radians, a rearranged equation and a unit conversion, and the marks slip away in the algebra. Our A-Level Physics tutors for Hampstead students fix the maths underneath so the physics can show."
 
 angle_eyebrow: "A TELESCOPE UP THE ROAD"

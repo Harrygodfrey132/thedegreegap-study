@@ -7,7 +7,7 @@ location: "Colliers Wood"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Colliers Wood Students With No Book in the Literature Exam"
+hero_h1: "GCSE English Tutors for Colliers Wood Students"
 hero_lead: "Your child knows the plot of their Shakespeare play. What they can't do yet is quote it from memory in an exam hall, with the clock running. Our GCSE English tutors for Colliers Wood students build quotations and essay plans small enough to carry in."
 
 angle_eyebrow: "NO BOOKS IN THE EXAM HALL"

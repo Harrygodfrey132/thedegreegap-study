@@ -1,14 +1,14 @@
 ---
-title: "Rickmansworth Online Tutors | The Degree Gap"
+title: "Rickmansworth Tutors | The Degree Gap"
 description: "Online GCSE and A-Level tutors for Rickmansworth families. Whichever school your child is at, we start from their own marked work. Lessons from £37."
 layout: "single"
 location: "Rickmansworth"
-banner_heading: "Online tutoring for Rickmansworth families, starting from your child's last marked paper"
+banner_heading: "GCSE and A-Level Tutors for Rickmansworth Families"
 banner_description: "Round here the school place can feel like the big decision. But a GCSE paper is marked the same way wherever it's sat, so our tutors start from your child's own marked work."
 content_angle: "many ways into the schools around Rickmansworth (test and music places at some, a Catholic school in the town, independents along the Met line), the same exam papers at the end, and a tutor matched to your child's own course rather than the school's name"
 intro_1: "If you went through Year 7 applications round here, you'll remember how many ways in there were. Test places and music places at some schools, a Catholic school in the town, independents a stop or two down the Metropolitan line. It took months. It felt like the decision that would settle everything. Then Year 10 comes along and a different worry turns up. A child who used to chat about school now says 'fine' and goes upstairs. One subject's grade drops a little each report while the others hold. Nobody's done anything wrong. Classes are big and the pace is set for the room, so one shaky topic from Year 8 can sit under everything that follows."
 intro_2: "That's a good time to talk it through. You book a free call with Harry or Joe, usually about 30 minutes, and tell them about your child: the subject that's slipping, the school and exam board, what they're like when they get stuck. Within 24 hours of that call we'll send you profiles of 2 or 3 tutors, each chosen for your child's board. Your child picks the one they like and meets them on a free 15-minute video call, before anything's booked. After that it's one-to-one lessons online each week, from £37 an hour. You pay as you go, lesson by lesson, with no joining fee and no contract, and you can stop whenever you like."
-about_heading: "The Rickmansworth Tutors Who Get Results"
+about_heading: "The Tutors for Rickmansworth Families Who Get Results"
 about_image: "/images/wide-library-study-area.jpg"
 schools_intro: "Our tutors can work with families at Rickmansworth School (which is actually in Croxley Green), St Joan of Arc, St Clement Danes in Chorleywood and Croxley Danes, and at the Royal Masonic School for Girls and Merchant Taylors' too. Each school chooses its own exam boards, so the tutor is matched to your child's, subject by subject. Harry and Joe also run workshops of their own in schools, on revision and exam technique, and any pupil can come along. Separately, The Degree Gap works directly with more than 15 secondary schools around the UK."
 schools: ["Rickmansworth School", "St Joan of Arc Catholic School", "St Clement Danes School", "Croxley Danes School", "The Royal Masonic School for Girls", "Merchant Taylors' School"]

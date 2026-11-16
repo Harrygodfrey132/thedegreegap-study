@@ -1,5 +1,5 @@
 ---
-title: "Loughborough A-Level Biology Tutors | Online | The Degree Gap"
+title: "Loughborough A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
 description: "Can your child explain the Biology but not use it on a case they haven't seen? Online A-Level Biology tutors for Loughborough families. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Loughborough"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors Helping Loughborough Sixth Formers"
+hero_h1: "A-Level Biology Tutors for Loughborough Students"
 hero_lead: "Monoclonal antibodies are the classic topic your child can describe but can't always apply, once the exam throws in a test they've never seen. Our A-Level Biology tutors for Loughborough students work on the immune detail underneath and on the application questions that decide the top grades."
 
 angle_eyebrow: "EXPLAINING IT ISN'T APPLYING IT"
@@ -28,7 +28,7 @@ schools:
   - "Rawlins Academy"
   - "Limehurst Academy"
 
-steps_heading: "How we find your child a Loughborough A-Level Biology tutor, in 3 steps"
+steps_heading: "How we find your child an A-Level Biology tutor for Loughborough students, in 3 steps"
 steps_lead: "Tutor profiles usually arrive within 24 hours of the call. Starting in Year 12 leaves the most time before predicted grades are set."
 steps:
   - title: "Start with a free call"

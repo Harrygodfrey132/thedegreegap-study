@@ -1,13 +1,13 @@
 ---
-title: "GCSE Maths Tutors Covering Exeter | Online | The Degree Gap"
+title: "GCSE Maths Tutors Covering Exeter | The Degree Gap"
 nav_title: "Maths"
-description: "Exeter GCSE Maths tutors for a college course grade or a place at Exeter Mathematics School. Matched to your child's exam board, online, from £37 an hour."
+description: "GCSE Maths tutors for Exeter, for a college course grade or a place at Exeter Mathematics School. Matched to your child's exam board, online, from £37 an hour."
 layout: "level-subject"
 location: "Exeter"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Exeter, Whichever Way Your Child Is Heading"
+hero_h1: "GCSE Maths Tutors for Exeter Students"
 hero_lead: "Your child might need a 5 for an Exeter College course, or have their heart set on Exeter Mathematics School. Either way it's the same GCSE Maths, and our GCSE Maths tutors for Exeter students find the part of the paper that's costing your child marks."
 
 angle_eyebrow: "ONE CITY, TWO VERY DIFFERENT MATHS TARGETS"
@@ -29,7 +29,7 @@ schools:
   - "St Luke's Science & Sports College"
   - "West Exe School"
 
-steps_heading: "Getting going with an Exeter Maths tutor"
+steps_heading: "Getting going with a Maths tutor for Exeter students"
 steps_lead: "Most families have tutor profiles within a day of the first call. If your child's aiming at a named Exeter College course or a Mathematics School place, tell us at the start. It changes which half of the paper the work goes into."
 steps:
   - title: "First, where your child's heading"
@@ -48,7 +48,7 @@ faqs:
     a: "It rarely comes from nowhere. The cause is usually earlier than Year 11, and three come up again and again: fractions in Year 7, negative numbers in Year 8 and the first proper algebra in Year 9. None of them stop a child at the time. They show up later, when a Year 11 question takes the earlier skill for granted and your child can't get started. So the tutor's first lesson is about finding which one it was, rather than teaching something new."
   - q: "How do you choose the Maths tutors?"
     a: "Carefully. Of everyone who applies to join the platform, around 3% get through. There's a written application, a subject knowledge test, an interview built around explaining a method clearly under pressure, and reference checks. Harry or Joe interview every tutor themselves. The interview weeds out the most people, because being good at Maths and being good at explaining it are different things. Only the second one helps your child."
-  - q: "How soon could my child start with an Exeter Maths tutor?"
+  - q: "How soon could my child start with a Maths tutor for Exeter students?"
     a: "Usually within a week. First comes a free 15-minute call, then two or three tutor profiles within 24 hours, then a free meeting with the tutor you pick, and then the first paid lesson. If time's short, say an Exeter College application or a mock that's a fortnight away, tell us on the call. We'll shortlist tutors who can start soon, as well as the ones who fit."
 # FAQ picks: G03, A12, A07, E01, C10
 

@@ -1,13 +1,13 @@
 ---
 title: "GCSE Science Tutors for Godalming | The Degree Gap"
 nav_title: "Science"
-description: "Godalming College's science A-Levels look for 6s at GCSE, so a 6-5 may fall short. Our Godalming GCSE Science tutors help your child online, from £37."
+description: "Godalming College's science A-Levels look for 6s at GCSE, so a 6-5 may fall short. Our GCSE Science tutors for Godalming help your child online, from £37."
 layout: "level-subject"
 location: "Godalming"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Covering Godalming"
+hero_h1: "GCSE Science Tutors for Godalming Students"
 hero_lead: "A 6-5 in Combined Science sounds close to the 6s a college science course asks for, yet it can still leave your child a grade short. Our GCSE Science tutors for Godalming students track down the topics behind that missing grade, one-to-one online, from genetics crosses to heat calculations."
 
 card_eyebrow: "FREE SCIENCE CONSULTATION"

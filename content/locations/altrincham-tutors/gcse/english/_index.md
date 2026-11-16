@@ -7,7 +7,7 @@ location: "Altrincham"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English tutors for Altrincham families when English is the grade lagging behind"
+hero_h1: "GCSE English Tutors for Altrincham Students"
 hero_lead: "Strong grades across the report, and English a step behind? You're in good company in Altrincham, and it's often the subject nobody thought to worry about. Our GCSE English tutors for Altrincham students find the reason in one marked essay, then work on it one-to-one online."
 
 angle_eyebrow: "THE ODD ONE OUT ON THE REPORT"

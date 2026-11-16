@@ -1,5 +1,5 @@
 ---
-title: "Cambridge A-Level Physics Tutors | Online | The Degree Gap"
+title: "Cambridge A-Level Physics Tutors | The Degree Gap"
 nav_title: "Physics"
 description: "Online A-Level Physics tutors for Cambridge families. When the physics is right but the algebra and units go wrong, we'll help your child fix it. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Cambridge"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors Covering Cambridge"
+hero_h1: "A-Level Physics Tutors for Cambridge Students"
 hero_lead: "When your child's Physics answers keep coming back wrong, it's often the maths, not the physics. Our A-Level Physics tutors for Cambridge students find the algebra that's losing marks and start there."
 
 angle_eyebrow: "THE MATHS INSIDE THE PHYSICS"

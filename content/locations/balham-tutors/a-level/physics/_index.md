@@ -7,7 +7,7 @@ location: "Balham"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Balham Students Who Can't Picture Waves and Photons"
+hero_h1: "A-Level Physics Tutors for Balham Students"
 hero_lead: "Mechanics at least looks like something, but stationary waves, diffraction and the photoelectric effect happen where your child can't see them. Our A-Level Physics tutors for Balham students draw those ideas out, piece by piece, until the exam questions make sense."
 
 angle_eyebrow: "THE PHYSICS YOU CAN'T SEE"

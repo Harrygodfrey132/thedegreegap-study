@@ -1,11 +1,11 @@
 ---
 title: "Peterborough GCSE Tutors | Expert Tutors | The Degree Gap"
-description: "Peterborough GCSE tutors who find the gap in the autumn, before the mocks turn it into a predicted grade. One-to-one and online, from £37 an hour, no contract."
+description: "GCSE tutors for Peterborough who find the gap in the autumn, before the mocks turn it into a predicted grade. One-to-one and online, from £37, no contract."
 layout: "subject"
 location: "Peterborough"
 level: "GCSE"
 
-hero_heading_line1: "Online Peterborough GCSE Tutors Who Help Your Child Before the Mocks, Not After"
+hero_heading_line1: "GCSE Tutors for Peterborough Students"
 hero_heading_line2: ""
 hero_lead: "A mock doesn't create the gap. It just shows it up, and by March that can mean a lower predicted grade. Our GCSE tutors for Peterborough students would much rather spot your child's gap in October. So the first lesson goes looking for it, and the plan follows."
 
@@ -14,14 +14,14 @@ grade_to: "B"
 grade_stat: "Keira's grades went from an E to a B, and in her review she says tutoring definitely helped."
 
 first_lesson_eyebrow: "AN E TO A B, HER WORDS"
-first_lesson_heading: "Your Child's First Hour With a Peterborough GCSE Tutor"
+first_lesson_heading: "Your Child's First Hour With a GCSE Tutor for Peterborough Students"
 first_lesson_context: "When your child's grade slips, the reason's usually ordinary: a term of supply teaching, a topic missed through illness, a method that never quite made sense and got built on anyway. On paper, Peterborough's results are below the national picture, but that can't tell you which of those it was. The first lesson can."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B"
 
-tutor_strip_heading: "Peterborough GCSE tutors matched to your child's exam board"
+tutor_strip_heading: "GCSE tutors for Peterborough students matched to your child's exam board"
 tutor_strip_body: "Jack Hunt, Thomas Deacon Academy and Hampton College each choose their own exam boards, so we check your child's before anything else. One of our founders interviews every tutor who applies, and only about 3% make it onto the platform. Choose from the profiles, or let us pick."
 
 pathways_heading: "The Choices at 16 in Peterborough"

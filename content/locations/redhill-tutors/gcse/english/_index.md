@@ -1,13 +1,13 @@
 ---
 title: "Private GCSE English Tutor for Your Child in Redhill | The Degree Gap"
 nav_title: "English"
-description: "Looking for a private GCSE English tutor in Redhill? We match your child online with a tutor who knows their AQA texts and writing tasks. From £37 an hour."
+description: "Looking for a private GCSE English tutor for Redhill? We match your child online with a tutor who knows their AQA texts and writing tasks. From £37 an hour."
 layout: "level-subject"
 location: "Redhill"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutoring for Redhill Teenagers Who Freeze at the Writing Questions"
+hero_h1: "GCSE English Tutors for Redhill Students"
 hero_lead: "Your child sits down to write a story or an argument, and twenty minutes later there's one paragraph and a lot of crossing out. Our GCSE English tutors for Redhill students work on those writing questions, worth half the Language marks, as well as the set texts."
 
 angle_eyebrow: "HALF THE LANGUAGE MARKS ARE WRITING"

@@ -1,13 +1,13 @@
 ---
 title: "GCSE English Tutors for Harrow | The Degree Gap"
 nav_title: "English"
-description: "Online GCSE English tutors covering Harrow, matched on the board and the set texts your child's class is actually studying. One-to-one, from £37 an hour."
+description: "Online GCSE English tutors for Harrow, matched on the board and the set texts your child's class is actually studying. One-to-one, from £37 an hour."
 layout: "level-subject"
 location: "Harrow"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Harrow, Matched on the Board and the Set Texts"
+hero_h1: "GCSE English Tutors for Harrow Students"
 hero_lead: "Ask a friend whose child is at another Harrow school, and you may find they're reading different books for a different exam board. That's why general English help so often misses. Our GCSE English tutors for Harrow students are matched to your child's board and set texts, and teach one-to-one online."
 
 angle_eyebrow: "SAME SUBJECT, DIFFERENT PAPERS"
@@ -28,7 +28,7 @@ schools:
   - "Canons High School"
   - "Park High School"
 
-steps_heading: "Finding a Harrow GCSE English tutor, in three steps"
+steps_heading: "Finding a GCSE English tutor for Harrow students, in three steps"
 steps_lead: "The set texts are the first thing we'll ask about, not the last. Then you'll have tutor profiles within 24 hours."
 steps:
   - title: "A free call about your child"

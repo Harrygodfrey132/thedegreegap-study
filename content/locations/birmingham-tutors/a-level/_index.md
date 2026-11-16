@@ -1,11 +1,11 @@
 ---
 title: "Birmingham A-Level Tutors | Expert Tuition | The Degree Gap"
-description: "Birmingham A-Level tutors, online and one-to-one, whether your child's aiming at a Russell Group offer or an HSBC degree apprenticeship. From £37, no contract."
+description: "A-Level tutors for Birmingham, online and one-to-one, whether your child's aiming at a Russell Group offer or an HSBC degree apprenticeship. From £37."
 layout: "subject"
 location: "Birmingham"
 level: "A-Level"
 
-hero_heading_line1: "Online Birmingham A-Level Tutors for When Year 12 Stops Going to Plan"
+hero_heading_line1: "A-Level Tutors for Birmingham Students"
 hero_heading_line2: ""
 hero_lead: "The end-of-Year-12 exams are back, and your child's grades have come in lower than hoped. That's often the point families first call us. Our A-Level tutors for Birmingham students find the marks that went missing and work on them before predictions go out."
 
@@ -14,7 +14,7 @@ grade_to: "C"
 grade_stat: "Joanna's son had left his studying until the final hour, yet his E and U grades became three Cs."
 
 first_lesson_eyebrow: "WHAT WEEK ONE LOOKS LIKE"
-first_lesson_heading: "The First Few Sessions With a Birmingham A-Level Tutor"
+first_lesson_heading: "The First Few Sessions With an A-Level Tutor for Birmingham Students"
 first_lesson_context: "One kind of Birmingham family rings us with a Year 13 holding an AAB offer and a January mock that came back ABB. Another has a Year 12 torn between an HSBC UK degree apprenticeship and university. Whichever sounds like yours, the first lessons start with recent marked work, so the tutor can see where your child's marks slip."
 
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
@@ -22,7 +22,7 @@ first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to three C grades"
 
-tutor_strip_heading: "Birmingham A-Level tutors for university and apprenticeship routes alike"
+tutor_strip_heading: "A-Level tutors for Birmingham students, for university and apprenticeship routes alike"
 tutor_strip_body: "Many of these tutors are at or from Russell Group universities, Birmingham and Oxbridge among them, and plenty have helped with UCAS forms and apprenticeship applications as well as the exams. Browse the profiles, or let us choose for your child."
 
 pathways_heading: "The Step After Birmingham A-Levels"

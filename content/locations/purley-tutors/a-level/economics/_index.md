@@ -7,7 +7,7 @@ location: "Purley"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Purley Students Whose Essays Describe but Don't Judge"
+hero_h1: "A-Level Economics Tutors for Purley Students"
 hero_lead: "Plenty of Year 12s know the theory and still sit in the middle of the mark band, because the long essays reward judgement more than knowledge. Our A-Level Economics tutors for Purley students teach the evaluation and the diagrams that carry those marks."
 
 angle_eyebrow: "WHERE THE 25-MARK ESSAY GOES WRONG"

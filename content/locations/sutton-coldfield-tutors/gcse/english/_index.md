@@ -1,13 +1,13 @@
 ---
-title: "Sutton Coldfield GCSE English Tutors | Online | The Degree Gap"
+title: "Sutton Coldfield GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Is the nineteenth-century novel where your child's GCSE English marks go? Sutton Coldfield tutors who make the old language readable first. From £37 an hour."
+description: "Is the nineteenth-century novel where the English marks go? Online tutors for Sutton Coldfield students make the old language readable first. From £37."
 layout: "level-subject"
 location: "Sutton Coldfield"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutoring for Sutton Coldfield Families"
+hero_h1: "GCSE English Tutors for Sutton Coldfield Students"
 hero_lead: "If the nineteenth-century novel is still sitting half-read on your child's desk, it's usually the language in the way, not the ideas. Our GCSE English tutors for Sutton Coldfield students make that book readable first, then work on the essays."
 
 angle_eyebrow: "THE TEXT THAT READS LIKE A WALL"

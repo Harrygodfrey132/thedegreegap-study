@@ -7,7 +7,7 @@ location: "Portsmouth"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutors for Portsmouth and Southsea"
+hero_h1: "GCSE Science Tutors for Portsmouth Students"
 hero_lead: "It's natural to assume Science works like Maths, with a resit in November if the summer goes wrong. It doesn't. Our GCSE Science tutors for Portsmouth students help your child aim for the grade they need first time, while there's still room in Year 10 and 11."
 
 angle_eyebrow: "NO NOVEMBER RESIT FOR SCIENCE"

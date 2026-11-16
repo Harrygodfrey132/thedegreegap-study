@@ -1,13 +1,13 @@
 ---
-title: "Hatfield GCSE Maths Tutors | Online | The Degree Gap"
+title: "Hatfield GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Missed a Maths topic in Year 10 that never came back? Our Hatfield GCSE Maths tutors find the gaps and go over them one-to-one, online, from £37, no contract."
+description: "Missed a Maths topic in Year 10 that never came back? Our GCSE Maths tutors for Hatfield find the gaps and go over them one-to-one, online, from £37."
 layout: "level-subject"
 location: "Hatfield"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutoring Across Hatfield, for the Topics That Slipped Past"
+hero_h1: "GCSE Maths Tutors for Hatfield Students"
 hero_lead: "Some Maths topics get a couple of weeks in Year 10 and don't come up again until the exam. If your child missed one, our GCSE Maths tutors for Hatfield students go back and take them through it again, one-to-one."
 
 angle_eyebrow: "TAUGHT ONCE, EXAMINED TWO YEARS LATER"

@@ -1,13 +1,13 @@
 ---
-title: "Peterborough GCSE English Tutors | Online | The Degree Gap"
+title: "Peterborough GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Weeks of English revision and the grade won't budge? Peterborough GCSE English tutors get your child writing answers and having them marked. Online, from £37."
+description: "Weeks of English revision and the grade won't budge? GCSE English tutors for Peterborough get your child writing answers and having them marked. Online,"
 layout: "level-subject"
 location: "Peterborough"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors Helping Peterborough Families"
+hero_h1: "GCSE English Tutors for Peterborough Students"
 hero_lead: "Weeks of highlighted notes and reread set texts, and your child's English grade still hasn't budged. Most English revision is reading. The exam is writing. Our GCSE English tutors for Peterborough students work online on what does shift it: writing answers and having them marked."
 
 angle_eyebrow: "REVISION THAT LOOKS LIKE WORK"

@@ -1,11 +1,11 @@
 ---
 title: "Bishop's Stortford A-Level Tutors | From £37/hr"
-description: "New sixth form, new teachers and a much harder course, all at once? Bishop's Stortford A-Level tutors, online and one-to-one, from £37 an hour, no contract."
+description: "New sixth form, new teachers and a much harder course, all at once? A-Level tutors for Bishop's Stortford, online and one-to-one, from £37 an hour, no contract."
 layout: "subject"
 location: "Bishop's Stortford"
 level: "A-Level"
 
-hero_heading_line1: "Online Bishop's Stortford A-Level Tutors for Year 12s Settling Into a New Sixth Form"
+hero_heading_line1: "A-Level Tutors for Bishop's Stortford Students"
 hero_heading_line2: ""
 hero_lead: "Lots of Year 12s here start sixth form somewhere new, with new teachers and sometimes a new exam board. It's also the year the exam questions stop telling your child which method to use. Our A-Level tutors for Bishop's Stortford students work one-to-one online on the gap that opens up."
 
@@ -14,14 +14,14 @@ grade_to: "C"
 grade_stat: "One parent's son left studying until the final hour, and still turned E and U grades into three Cs."
 
 first_lesson_eyebrow: "NEW SIXTH FORM, NEW RULES"
-first_lesson_heading: "Why a Bishop's Stortford A-Level Tutor Starts With the First Marked Test"
+first_lesson_heading: "Why an A-Level Tutor for Bishop's Stortford Students Starts With the First Marked Test"
 first_lesson_context: "It tends to show in October of Year 12, when the first marked test comes back lower than any GCSE your child sat. New school, new teachers, and a much bigger course, all at once. That dip is normal and it's fixable, and even a very late start can move things, as the parent below found."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to three Cs at A-Level"
 
-tutor_strip_heading: "Bishop's Stortford A-Level tutors who sat these papers recently"
+tutor_strip_heading: "A-Level tutors for Bishop's Stortford students who sat these papers recently"
 tutor_strip_body: "Herts and Essex, the High School, Birchwood, St Mary's and Leventhorpe each choose their own exam boards, and at A-Level the board shapes almost every question. Many of our tutors sat those papers a few years ago. We'll send two or three profiles for your child to compare."
 
 pathways_heading: "Where Bishop's Stortford Sixth Formers Head After Year 13"

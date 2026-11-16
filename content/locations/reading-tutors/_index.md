@@ -3,12 +3,12 @@ title: "Reading Tutors | GCSE & A-Level from £37/hr"
 description: "Online Reading tutors for GCSE and A-Level. A free call to get to know your child, then 2 or 3 tutor profiles within 24 hours. Lessons from £37, no contract."
 layout: single
 location: Reading
-banner_heading: "Looking for an online Reading tutor who gets the pressure your child is under?"
+banner_heading: "GCSE and A-Level Tutors for Reading Families"
 banner_description: "Round here, a good grade can start to feel like a let-down. Our tutors find what's really costing your child marks, and work on that."
 content_angle: "exam pressure / grammar school competition, told from the parent's side: the bar every Reading family feels"
 intro_1: "It often starts at the school gate, or in a group chat. Someone's daughter has a Kendrick place, someone's son is at Reading School, and your child's perfectly decent mock result suddenly doesn't feel decent at all. Both grammars are heavily oversubscribed, and they're two of the most selective state schools in England, so the pressure spreads well beyond their gates. Families at the comprehensives and the independents feel it too. And a lot of teenagers feel it more than they let on."
 intro_2: "A class of thirty can't stop for the one topic your child keeps tripping over. A one-to-one tutor can. In the first lesson they'll look at a recent mock or a marked essay and work out whether it's the content or the exam technique that's losing marks. Some Reading families come to us with their eye on a sixth form that asks for strong grades. Others want A-Level to stop feeling like a wall. Either way, the tutor works towards your child's goal, not the one next door."
-about_heading: The Reading Tutors Who Get Results
+about_heading: The Tutors for Reading Families Who Get Results
 about_image: /images/university-lecture-hall.jpg
 schools_intro: "We can work with families from right across Reading, from Prospect, The Bulmershe School, John Madejski Academy and Little Heath to Reading Blue Coat and The Abbey. Lots of their Year 11s have one eye on a sixth form place, whether that's at Reading School, Kendrick or a college that wants strong GCSE grades. Each one publishes its own requirements, so we'll talk through the one your child's aiming for when we first speak. Away from tutoring, Harry and Joe run revision and exam technique workshops in schools. We also work directly with more than 15 UK secondary schools."
 schools:

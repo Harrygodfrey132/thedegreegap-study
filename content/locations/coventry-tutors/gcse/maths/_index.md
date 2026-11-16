@@ -1,5 +1,5 @@
 ---
-title: "Online GCSE Maths Tutors | Coventry | The Degree Gap"
+title: "GCSE Maths Tutors | Coventry | The Degree Gap"
 nav_title: "Maths"
 description: "Is your child working hard at Maths and still getting the same grade? Online GCSE Maths tutors for Coventry, matched on exam board. One-to-one, from £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Coventry"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutoring for Coventry, When the Effort Isn't Showing"
+hero_h1: "GCSE Maths Tutors for Coventry Students"
 hero_lead: "It's hard to watch your child work at Maths week after week and get the same grade back. Our GCSE Maths tutors for Coventry students work online, and they start by finding where the effort's going, because it usually isn't where the marks are."
 
 angle_eyebrow: "WHEN THE EFFORT'S REAL BUT THE GRADE WON'T MOVE"

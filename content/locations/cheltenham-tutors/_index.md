@@ -1,9 +1,9 @@
 ---
 title: "Cheltenham Tutors | GCSE & A-Level | The Degree Gap"
-description: "When hours of revision aren't showing in the mocks, our Cheltenham tutors work through past papers with your child, one-to-one and online. From £37 an hour."
+description: "When hours of revision aren't showing in the mocks, our tutors for Cheltenham work through past papers with your child, one-to-one and online. From £37 an hour."
 layout: "single"
 location: "Cheltenham"
-banner_heading: "All That Revision and the Mocks Aren't Moving? Online Cheltenham GCSE and A-Level Tutors Can Help"
+banner_heading: "GCSE and A-Level Tutors for Cheltenham Families"
 banner_description: "Flashcards, highlighters, a stack of revision guides, and a mock result that shows none of it. Our tutors help your child turn that effort into marks."
 content_angle: "revision that isn't turning into marks: timed past papers and exam technique, plus the 11+ and sixth form entry"
 intro_1: "You can see the effort. Your son or daughter gets home, eats, and heads upstairs with a revision guide, and the mock grades still come back the same. It's one of the things Cheltenham parents tell us most, and in some ways it's harder to watch than a child who isn't trying, because 'work harder' isn't the answer. Usually the knowledge is mostly there. What's missing is the step between knowing it and writing it down in a way that earns the marks."

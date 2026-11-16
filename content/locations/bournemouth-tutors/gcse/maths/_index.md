@@ -1,13 +1,13 @@
 ---
 title: "Bournemouth GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Not sure where your child's Maths marks are going? Our Bournemouth GCSE tutors find which of the three papers is losing them and fix that one first. From £37."
+description: "Not sure where the Maths marks are going? Our online GCSE tutors for Bournemouth students find which of the three papers is losing them, and fix it. From £37."
 layout: "level-subject"
 location: "Bournemouth"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online Bournemouth GCSE Maths tutors who find which paper is leaking the marks"
+hero_h1: "GCSE Maths Tutors for Bournemouth Students"
 hero_lead: "It's one Maths grade on the report, but it comes from three papers. And the marks rarely slip away evenly across all three. Our GCSE Maths tutors for Bournemouth students go through the last mock question by question with your child, online, and find the paper doing the damage."
 
 angle_eyebrow: "ONE PAPER IS USUALLY DOING THE DAMAGE"
@@ -29,7 +29,7 @@ schools:
   - "Twynham School"
   - "Glenmoor and Winton Academies"
 
-steps_heading: "Finding your child a GCSE Maths tutor in Bournemouth: 3 steps"
+steps_heading: "Finding your child a GCSE Maths tutor for Bournemouth students: 3 steps"
 steps_lead: "Profiles within a day of the call. If you only send one paper, make it the one your child says went fine. That's usually the one hiding the problem."
 steps:
   - title: "Talk to us first"
@@ -45,7 +45,7 @@ faqs:
   - q: "My child's in Year 11 in Bournemouth. When's the best time to start Maths tutoring?"
     a: "Between September and February, and the earlier the better. The Year 11 mocks are often the grades on the form when Bournemouth's sixth forms make conditional offers. So work done before them helps the application as well as the exam. Maths builds on itself, too. A fractions method fixed in October stops costing marks on every paper from then on, while the same fix in April rescues one exam. An April or May start still helps. It just becomes a short, focused block on the paper losing the most, rather than a proper rebuild."
   - q: "Should my child work on the calculator paper or the non-calculator one?"
-    a: "Whichever one the last mock says is losing marks, and it's rarely both. All three papers count the same, so you can't write one off, but they reward different things. The non-calculator paper rewards quick, accurate arithmetic and algebra done by hand. It's where a Year 8 fractions gap costs the first ten marks. The two calculator papers reward multi-step problem-solving and accuracy. The losses tend to bunch up at the back of the last one. A Bournemouth GCSE Maths tutor's first job is to mark the mock paper by paper and spend the term where the marks actually went."
+    a: "Whichever one the last mock says is losing marks, and it's rarely both. All three papers count the same, so you can't write one off, but they reward different things. The non-calculator paper rewards quick, accurate arithmetic and algebra done by hand. It's where a Year 8 fractions gap costs the first ten marks. The two calculator papers reward multi-step problem-solving and accuracy. The losses tend to bunch up at the back of the last one. A GCSE Maths tutor for Bournemouth students's first job is to mark the mock paper by paper and spend the term where the marks actually went."
   - q: "Do your Maths tutors work with children who have dyslexia, ADHD or processing difficulties?"
     a: "Yes, and several tutors on our platform work with neurodivergent children most weeks. On the call we always ask about learning differences, and about what school already has in place, including exam access arrangements. In Maths the practical help is about lightening the load. The tutor practises one method until your child can do it without thinking. Long questions get broken into stages. And the layout stays the same, so the working doesn't get lost on the page. Lessonspace, the platform we use, helps as well. Everything that's written in the lesson is kept, so your child can look back at a step afterwards instead of trying to remember it."
   - q: "Can the Maths lessons keep going over the school holidays?"

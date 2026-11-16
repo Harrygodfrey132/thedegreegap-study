@@ -1,11 +1,11 @@
 ---
-title: "Tonbridge GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "Sixth forms in Tonbridge each want different GCSE grades. Our Tonbridge GCSE tutors aim at the ones your child needs, one-to-one online. From £37, no contract."
+title: "Tonbridge GCSE Tutors | One-to-One | The Degree Gap"
+description: "Sixth forms in Tonbridge each want different GCSE grades. Our GCSE tutors for Tonbridge aim at the ones your child needs, one-to-one online. From £37."
 layout: "subject"
 location: "Tonbridge"
 level: "GCSE"
 
-hero_heading_line1: "Online Tonbridge GCSE Tutors for the Sixth Form Place Your Child Is Hoping For"
+hero_heading_line1: "GCSE Tutors for Tonbridge Students"
 hero_heading_line2: ""
 hero_lead: "By Year 11 the sixth form question is suddenly real, and every one of them asks for GCSE grades in its own way. Our GCSE tutors for Tonbridge students work one-to-one online on whichever grade is standing between your child and the place they want."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "Omo's son started at a 5 in English, and six months later, in Year 10, he was at a 6/7."
 
 first_lesson_eyebrow: "ONE YEAR 10, SIX MONTHS ON"
-first_lesson_heading: "What the First Lesson With a Tonbridge GCSE Tutor Looks Like"
+first_lesson_heading: "What the First Lesson With a GCSE Tutor for Tonbridge Students Looks Like"
 first_lesson_context: "A hard-working child, kind teachers, and a mock that still came back lower than anyone expected. It's the call we get most from Tonbridge parents, and the first lesson starts right there. The GCSE tutor goes through that mock question by question until they can show you exactly where the marks went."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to a 6/7 in GCSE English"
 
-tutor_strip_heading: "Tonbridge GCSE tutors who check the board, child by child"
+tutor_strip_heading: "GCSE tutors for Tonbridge students who check the board, child by child"
 tutor_strip_body: "Judd, Hillview, Weald of Kent and Hugh Christie don't all use the same exam boards, and brothers and sisters often sit different papers. So we'll check each child's board before suggesting anyone. Have a look at some profiles, or leave the choosing to us."
 
 pathways_heading: "What Tonbridge Sixth Forms and Colleges Want to See at GCSE"

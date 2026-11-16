@@ -1,11 +1,11 @@
 ---
-title: "Online A-Level Tutors for Your Child in Brentwood | The Degree Gap"
+title: "A-Level Tutors for Your Child in Brentwood | The Degree Gap"
 description: "Is one A-Level dragging your child's other grades down? We match Brentwood sixth formers with an online A-Level tutor for it. Free call first, from £37 an hour."
 layout: "subject"
 location: "Brentwood"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Brentwood Students With One Subject Pulling the Rest Down"
+hero_heading_line1: "A-Level Tutors for Brentwood Students"
 hero_heading_line2: ""
 hero_lead: "When one A-Level isn't going well, it eats the time your child needs for the others. Our A-Level tutors for Brentwood students start with that subject, so it doesn't hold back the predicted grades universities see in Year 13."
 

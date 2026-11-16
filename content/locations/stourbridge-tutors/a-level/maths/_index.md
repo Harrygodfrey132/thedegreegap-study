@@ -7,7 +7,7 @@ location: "Stourbridge"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Stourbridge Students Coming Unstuck on Mechanics and Statistics"
+hero_h1: "A-Level Maths Tutors for Stourbridge Students"
 hero_lead: "Your child's Pure Maths is holding up, but the Mechanics questions come back half-blank and Statistics feels like another subject altogether. Our A-Level Maths tutors for Stourbridge students work on whichever strand is costing the marks, starting from your child's latest test."
 
 angle_eyebrow: "PURE ON EVERY PAPER, AND THEN SOME"

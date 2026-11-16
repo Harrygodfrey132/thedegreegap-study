@@ -1,11 +1,11 @@
 ---
 title: "Northampton A-Level Tuition | From £37/hr"
-description: "Is your child's A-Level prediction below the offers they want? Northampton A-Level tutors, one-to-one online before predictions go in. From £37, no contract."
+description: "Is your child's A-Level prediction below the offers they want? A-Level tutors for Northampton, one-to-one online before predictions go in. From £37."
 layout: "subject"
 location: "Northampton"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutoring in Northampton Before the Predicted Grades Go to UCAS"
+hero_heading_line1: "A-Level Tutors for Northampton Students"
 hero_heading_line2: ""
 hero_lead: "The courses your child has their eye on ask for more than their predicted grade. Schools usually send predictions to UCAS in the autumn of Year 13, so our A-Level tutors for Northampton students start well before then, one-to-one and online."
 
@@ -14,7 +14,7 @@ grade_to: "A"
 grade_stat: "Daljit's son finished almost two grades higher than his Year 13 mock paper had suggested."
 
 first_lesson_eyebrow: "THE NUMBER THAT GOES TO UCAS"
-first_lesson_heading: "Why a Northampton A-Level Tutor Starts With the Prediction"
+first_lesson_heading: "Why an A-Level Tutor for Northampton Students Starts With the Prediction"
 first_lesson_context: "Teachers build predicted grades mostly from Year 12 work and the first few weeks of Year 13, and universities see them months before June. So if your child's planning to pull things back in the spring, the offers may already be out by then. That's why an A-Level tutor would rather start now, while the number can still move."
 first_lesson_quote: "My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
 first_lesson_quote_name: "Daljit"

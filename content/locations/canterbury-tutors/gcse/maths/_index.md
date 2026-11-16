@@ -1,12 +1,12 @@
 ---
-title: "Canterbury GCSE Maths Tutors | Online | The Degree Gap"
-description: "Canterbury GCSE Maths tutors matched to the exam board at your child's school, from the Langton grammars to The Canterbury Academy. Higher or foundation tier."
+title: "Canterbury GCSE Maths Tutors | The Degree Gap"
+description: "Online GCSE Maths tutors for Canterbury students, matched to the exam board at your child's school, from the Langton grammars to The Canterbury Academy."
 layout: "level-subject"
 location: "Canterbury"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Canterbury, Whichever School Your Child Is At"
+hero_h1: "GCSE Maths Tutors for Canterbury Students"
 hero_lead: "Five years after the Kent Test, Maths is often where you can still feel its effect, whichever way it went. Our GCSE Maths tutors for Canterbury students work on the questions actually costing your child the grade, at a grammar or anywhere else in the city."
 
 angle_eyebrow: "WHERE A CANTERBURY MATHS GRADE GOES"

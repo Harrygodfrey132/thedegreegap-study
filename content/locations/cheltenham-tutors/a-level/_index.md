@@ -1,11 +1,11 @@
 ---
 title: "A-Level Tutors Covering Cheltenham | The Degree Gap"
-description: "Strong GCSEs, then a tough Year 12? Our Cheltenham A-Level tutors work one-to-one online with your child before their predicted grades go off to UCAS. From £37."
+description: "Strong GCSEs, then a tough Year 12? Our A-Level tutors for Cheltenham work online with your child before their predicted grades go off to UCAS. From £37."
 layout: "subject"
 location: "Cheltenham"
 level: "A-Level"
 
-hero_heading_line1: "Online Cheltenham A-Level Tutors: Strong GCSEs, and Now Year 12 Feels Hard"
+hero_heading_line1: "A-Level Tutors for Cheltenham Students"
 hero_heading_line2: ""
 hero_lead: "Your child's predicted grade comes mostly from their Year 12 work, and it's usually settled before they've sat a single real A-Level exam. Our A-Level tutors for Cheltenham students get in while that work is still being done, not once the number's been written down."
 
@@ -14,7 +14,7 @@ grade_to: "A"
 grade_stat: "In one parent's words, The Degree Gap helped their child go from Cs to As."
 
 first_lesson_eyebrow: "BEFORE THE PREDICTION IS WRITTEN"
-first_lesson_heading: "What a Cheltenham A-Level Tutor Sees in the First Year 12 Mock"
+first_lesson_heading: "What an A-Level Tutor for Cheltenham Students Sees in the First Year 12 Mock"
 first_lesson_context: "It usually goes like this: strong GCSEs, the same way of working, then a first Year 12 mock two grades lower than anyone expected. It happens at every sixth form in town, and it doesn't mean anything's gone wrong with your child. A-Level simply rewards longer arguments and multi-step methods far more than GCSE did, and once a tutor names the change, technique can shift quickly."
 
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
@@ -22,7 +22,7 @@ first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "A-Level"
 
-tutor_strip_heading: "Cheltenham A-Level tutors who've sat these papers not long ago"
+tutor_strip_heading: "A-Level tutors for Cheltenham students who've sat these papers not long ago"
 tutor_strip_body: "Mark schemes change, so it helps if your child's tutor has taught, marked or sat the current course in the last couple of years. And we match on the exam board, because AQA and OCR Biology aren't the same paper. Browse profiles, or let us choose."
 
 pathways_heading: "Life After A-Levels in Cheltenham: The Three Main Routes"

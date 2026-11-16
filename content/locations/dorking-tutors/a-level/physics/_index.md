@@ -1,5 +1,5 @@
 ---
-title: "Online A-Level Physics Tutors for Dorking Students | The Degree Gap"
+title: "A-Level Physics Tutors for Dorking Students | The Degree Gap"
 nav_title: "Physics"
 description: "Is the maths in A-Level Physics catching your child out? We match Dorking sixth formers with an online A-Level Physics tutor on their board. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Dorking"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Dorking Students Without A-Level Maths to Lean On"
+hero_h1: "A-Level Physics Tutors for Dorking Students"
 hero_lead: "Your child understands what a capacitor does, then the question wants a natural log and a rearranged exponential before any physics happens. Our A-Level Physics tutors for Dorking students make that maths automatic, so the physics marks follow."
 
 angle_eyebrow: "MATHS RECOMMENDED, NOT REQUIRED"

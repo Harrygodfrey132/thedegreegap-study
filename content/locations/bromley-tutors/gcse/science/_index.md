@@ -1,13 +1,13 @@
 ---
 title: "Bromley GCSE Science Tutors | Combined & Triple | The Degree Gap"
 nav_title: "Science"
-description: "Year 11 papers test Year 10 Science your child may have forgotten. Our Bromley GCSE Science tutors help bring it back online, one science at a time. From £37."
+description: "Year 11 papers test Year 10 Science your child may have forgotten. Our GCSE Science tutors for Bromley help bring it back online, one science at a time."
 layout: "level-subject"
 location: "Bromley"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Bromley Parents Call When Year 10 Has Faded"
+hero_h1: "GCSE Science Tutors for Bromley Students"
 hero_lead: "By September of Year 11, a lot of what your child learnt in Year 10 Biology, Chemistry and Physics has faded, and the first paper in each science will ask for it. Our GCSE Science tutors for Bromley students work one-to-one online to bring it back, one science at a time."
 
 angle_eyebrow: "LAST YEAR'S LESSONS, THIS YEAR'S PAPERS"

@@ -1,5 +1,5 @@
 ---
-title: "GCSE English Tutors Covering Leeds | Online | The Degree Gap"
+title: "GCSE English Tutors Covering Leeds | The Degree Gap"
 nav_title: "English"
 description: "Online GCSE English tutors for Leeds families. If your child knows the texts but the essays stall at a 5, we work on the structure and timing that move it on."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Leeds"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Leeds GCSE English Tutors, Online and Matched to Your Child"
+hero_h1: "GCSE English Tutors for Leeds Students"
 hero_lead: "Your child can talk about Jekyll and Hyde at the dinner table, then the essay comes back a 5. With no state grammar schools in Leeds, that grade carries real weight for sixth form. Our GCSE English tutors for Leeds students work on the writing and timing that decide it."
 
 angle_eyebrow: "WHERE LEEDS ENGLISH MARKS SLIP AWAY"

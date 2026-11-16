@@ -1,13 +1,13 @@
 ---
-title: "Sunbury-on-Thames A-Level Maths Tutors | Online | The Degree Gap"
+title: "Sunbury-on-Thames A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "When the maths is easy but the wordy setup isn't, A-Level marks slip away. Our Sunbury-on-Thames Maths tutors help your child crack modelling questions, online."
+description: "When the maths is easy but the wordy setup isn't, A-Level marks slip away. Our online Maths tutors help Sunbury-on-Thames students crack modelling questions."
 layout: "level-subject"
 location: "Sunbury-on-Thames"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutoring Across Sunbury-on-Thames"
+hero_h1: "A-Level Maths Tutors for Sunbury-on-Thames Students"
 hero_lead: "Wordy questions cost a lot of A-Level Maths marks, even when the maths inside is easy for your child. Our A-Level Maths tutors for Sunbury-on-Thames students work on turning words into equations."
 
 angle_eyebrow: "THE MATHS IS THE EASY PART"
@@ -28,7 +28,7 @@ schools:
   - "Hampton School"
   - "Lady Eleanor Holles School"
 
-steps_heading: "Your first three steps with a Sunbury-on-Thames A-Level Maths tutor"
+steps_heading: "Your first three steps with an A-Level Maths tutor for Sunbury-on-Thames students"
 steps_lead: "Within a day you'll have tutor profiles to read. Check your child's last marked paper for wordy questions left blank: that's the giveaway."
 steps:
   - title: "A free call to talk it over"

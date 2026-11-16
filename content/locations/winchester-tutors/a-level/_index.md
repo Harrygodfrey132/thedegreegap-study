@@ -1,11 +1,11 @@
 ---
 title: "Winchester A-Level Tutors | Year 12 and Year 13 | The Degree Gap"
-description: "Is anyone reading your child's essays line by line? Winchester A-Level tutors give one-to-one online feedback on the written work that moves a grade. From £37."
+description: "Is anyone reading your child's essays line by line? A-Level tutors for Winchester give online feedback on the written work that moves a grade. From £37."
 layout: "subject"
 location: "Winchester"
 level: "A-Level"
 
-hero_heading_line1: "Online Winchester A-Level Tutors for the Feedback a Big College Can't Always Give"
+hero_heading_line1: "A-Level Tutors for Winchester Students"
 hero_heading_line2: ""
 hero_lead: "Your child has gone from a school year group to a college of thousands, and the one-to-one attention can drop away almost overnight. Our A-Level tutors for Winchester students give back the part that's hardest to find: someone reading, line by line, what your child actually wrote."
 
@@ -14,7 +14,7 @@ grade_to: "A"
 grade_stat: "One parent's child went from Cs to As, the kind of move a year of weekly lessons aims at."
 
 first_lesson_eyebrow: "WHAT CHANGES AFTER YEAR 11"
-first_lesson_heading: "When the Marking Thins Out: What a Winchester A-Level Tutor Adds"
+first_lesson_heading: "When the Marking Thins Out: What an A-Level Tutor for Winchester Students Adds"
 first_lesson_context: "If your child's at Peter Symonds, they've got a huge choice of subjects and teachers who know those subjects inside out. But no college that size can go through every essay line by line each week, simply because of the numbers, and how an answer's built is usually what separates a C from an A. So an A-Level tutor keeps lessons narrow: your child writes, the tutor marks it against the real mark scheme, and back it goes for a rewrite."
 
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
@@ -22,7 +22,7 @@ first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "A-Level"
 
-tutor_strip_heading: "Winchester A-Level tutors who know your child's board and topics"
+tutor_strip_heading: "A-Level tutors for Winchester students who know your child's board and topics"
 tutor_strip_body: "Two teenagers taking the same A-Level can sit quite different papers, depending on the exam board and the topics their school picked. We ask about both before shortlisting anyone. Graduate or undergraduate, every one has tutored for at least two years. Have a browse, or we'll pick for you."
 
 pathways_heading: "After A-Levels in Winchester: Three Ways Forward"

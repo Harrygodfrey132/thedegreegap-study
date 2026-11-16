@@ -1,13 +1,13 @@
 ---
 title: "Royston GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Sixth forms in Baldock and Cambridge look closely at English Language. Our Royston GCSE English tutors help your child read and write with confidence, online."
+description: "Sixth forms in Baldock and Cambridge look closely at English Language. Our online GCSE English tutors help Royston students read and write with confidence."
 layout: "level-subject"
 location: "Royston"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors Covering Royston"
+hero_h1: "GCSE English Tutors for Royston Students"
 hero_lead: "If your child's English Language mock came back a grade short, it's worth fixing early: Hills Road counts that grade twice when it scores applications. Our GCSE English tutors for Royston students help your child online with the reading and writing questions where the marks slip."
 
 card_eyebrow: "FREE ENGLISH CONSULTATION"
@@ -55,7 +55,7 @@ faqs:
     a: "A recent marked answer usually tells you. If the ideas are good but the marks stop short of the top bands, it's technique, and a tutor can often help with that quickly. If the answer drifts into summary or stops halfway, your child needs a method first, and revising harder won't supply one. And if they're already doing well across their mocks, some focused practice at home may be enough. We'll say so on the call if we think tutoring isn't needed yet."
   - q: "My son has ADHD and finds timed writing really hard. Can an English tutor help?"
     a: "Yes. Tell us about it on the call, and we'll suggest tutors who are used to working with ADHD. A blank page is often the hardest part, so a tutor might start your son on a five-minute plan, then one paragraph against a short timer, then the next. Being one-to-one helps as well: no classmates finishing first, and nobody else watching. And because lessons are recorded, he can go back to how a plan was built whenever he needs it."
-  - q: "How soon could my child start English lessons with a Royston tutor?"
+  - q: "How soon could my child start English lessons with a tutor for Royston families?"
     a: "Usually within about a week of your first call. That call is free, takes about 30 minutes, and is with Harry or Joe. You'll have profiles of 2 or 3 English tutors within 24 hours of it, and your child can meet the one you like on a free 15-minute video call. If the Year 11 mocks are what you're aiming at, starting in the autumn gives the tutor more lessons to work with, but there's no wrong moment to begin."
 # FAQ picks: G01, A07, A10, E03, C10
 

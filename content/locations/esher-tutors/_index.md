@@ -1,14 +1,14 @@
 ---
 title: "Esher Tutoring | One-to-One Tuition | The Degree Gap"
-description: "Esher tutors for the years either side of the move at sixteen, from GCSEs to A-Levels. One-to-one and online, with a free call first. Lessons from £37."
+description: "Tutors for Esher, for the years either side of the move at sixteen, from GCSEs to A-Levels. One-to-one and online, with a free call first. Lessons from £37."
 layout: "single"
 location: "Esher"
-banner_heading: "Online tutors for Esher families with a teenager moving on at sixteen"
+banner_heading: "GCSE and A-Level Tutors for Esher Families"
 banner_description: "Esher High finishes at Year 11, so lots of teenagers here sit GCSEs in the summer and start somewhere new in September. A good tutor can be the one part of the week that doesn't change."
 content_angle: "the move at sixteen: Esher Church of England High School has no sixth form, so a tutor can be the steady thread from GCSEs into a new sixth form or college"
 intro_1: "In plenty of Esher houses, Year 11 means mock papers on the kitchen table and a college prospectus somewhere underneath them. Esher Church of England High School finishes at Year 11, so every one of its pupils moves on. Some go to Esher Sixth Form College, which is actually in Thames Ditton and has around 2,100 students. Others apply to the sixth forms at Hinchley Wood or at Three Rivers Academy, on Hersham Road. A few want a T Level at Brooklands Technical College instead. Open evenings and application forms land in the same months as the mocks, and the mocks suddenly seem to count twice. It's a lot at fifteen. And it's a lot for you, trying to help without every dinner turning into a planning meeting."
 intro_2: "That's the part we can help with. First comes a free chat with Harry or Joe, usually about 30 minutes, all about your child: their school, their exam boards, the subjects they want to keep and the one that's worrying everybody. Within 24 hours of that call you'll get 2 or 3 tutor profiles, and your child meets whichever tutor you like best on a free 15-minute video call. Nothing's booked before that. Every lesson is one-to-one, online, from £37 an hour, paid as you go with no contract. And when the move comes, the lessons don't have to move with it. If the tutor teaches the subject at A-Level too, your child can keep the same one into Year 12."
-about_heading: "Find the Right Tutor in Esher"
+about_heading: "Find the Right Tutor for Esher Students"
 about_image: "/images/university-lecture-hall.jpg"
 schools_intro: "Esher Church of England High School, Hinchley Wood School, Claremont Fan Court School and Three Rivers Academy are all close by, and Hollyfield in Surbiton is just over the London border. Sixth formers are often at Esher Sixth Form College in Thames Ditton. Schools choose their own exam boards, so the board is one of the first things we'll ask you about. Across the UK, more than 15 secondary schools work with us directly. Harry and Joe also spend a lot of their days in schools, giving workshops on revision and exam technique that are open to any pupil, not just the host school's."
 schools: ["Esher Church of England High School", "Hinchley Wood School", "Claremont Fan Court School", "Esher Sixth Form College", "Three Rivers Academy", "The Hollyfield School and Sixth Form Centre"]

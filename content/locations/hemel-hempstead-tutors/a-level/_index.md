@@ -1,11 +1,11 @@
 ---
-title: "Hemel Hempstead A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "One A-Level dragging the other two down? Our Hemel Hempstead A-Level tutors work one-to-one online on the subject that needs it, from £37 an hour, no contract."
+title: "Hemel Hempstead A-Level Tutors | One-to-One | The Degree Gap"
+description: "One A-Level dragging the other two down? Our A-Level tutors for Hemel Hempstead work one-to-one online on the subject that needs it, from £37, no contract."
 layout: "subject"
 location: "Hemel Hempstead"
 level: "A-Level"
 
-hero_heading_line1: "Online Hemel Hempstead A-Level Tutors for the One Subject Pulling the Others Down"
+hero_heading_line1: "A-Level Tutors for Hemel Hempstead Students"
 hero_heading_line2: ""
 hero_lead: "Two of your child's subjects are ticking along, and the third is eating every evening and most of the worry. Our A-Level tutors for Hemel Hempstead students put the hours where they're needed, on the subject that's really holding the offer back."
 
@@ -14,14 +14,14 @@ grade_to: "C"
 grade_stat: "E and U grades became three Cs for one parent's son, who'd left his studying until the final hour."
 
 first_lesson_eyebrow: "ONE SUBJECT, THREE GRADES AFFECTED"
-first_lesson_heading: "The Subject a Hemel Hempstead A-Level Tutor Tackles First"
+first_lesson_heading: "The Subject an A-Level Tutor for Hemel Hempstead Students Tackles First"
 first_lesson_context: "Most offers ask for three grades, so one shaky subject is never really a one-subject problem. It takes your child's evenings and the family's worry, and the other two quietly slip while everyone's looking elsewhere. Parents often say everything's got harder at once, when usually it's one thing getting harder and the rest paying for it."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to three C grades at A-Level"
 
-tutor_strip_heading: "Hemel Hempstead A-Level tutors matched to the subject that needs the hours"
+tutor_strip_heading: "A-Level tutors for Hemel Hempstead students matched to the subject that needs the hours"
 tutor_strip_body: "Cavendish, Hemel Hempstead School, Longdean and the sixth forms towards St Albans use different exam boards, so we'll check your child's before putting anyone forward. Only about 3% of the tutors who apply join the platform, after an interview with Harry or Joe."
 
 pathways_heading: "What Comes After A-Levels for Hemel Hempstead Families"

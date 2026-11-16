@@ -1,13 +1,13 @@
 ---
-title: "Online GCSE Science Tutors in Cobham | The Degree Gap"
+title: "GCSE Science Tutors in Cobham | The Degree Gap"
 nav_title: "Science"
-description: "One weak science can pull down two or three GCSEs. Our Cobham GCSE Science tutors find which one it is and work on it with your child online. From £37 an hour."
+description: "One weak science can pull down two or three GCSEs. Our GCSE Science tutors for Cobham find which one it is and work on it with your child online. From £37."
 layout: "level-subject"
 location: "Cobham"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Children Around Cobham"
+hero_h1: "GCSE Science Tutors for Cobham Students"
 hero_lead: "Science is three subjects squeezed into one timetable, and it only takes one to fall behind. Our GCSE Science tutors for Cobham students pin down which science is losing your child the most marks and work on it one-to-one online."
 
 card_eyebrow: "FREE CALL ABOUT SCIENCE"

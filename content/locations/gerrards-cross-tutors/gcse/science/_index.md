@@ -1,13 +1,13 @@
 ---
 title: "Gerrards Cross GCSE Science Tuition | The Degree Gap"
 nav_title: "Science"
-description: "If Science marks keep slipping on practicals and long answers, our Gerrards Cross GCSE Science tutors can help, matched to your child's exam board. From £37."
+description: "Science marks slipping on practicals and long answers? Our online GCSE Science tutors for Gerrards Cross students are matched to their exam board. From £37."
 layout: "level-subject"
 location: "Gerrards Cross"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Covering Gerrards Cross, From Practicals to Six-Mark Answers"
+hero_h1: "GCSE Science Tutors for Gerrards Cross Students"
 hero_lead: "Your child can explain the Science perfectly well over dinner, then drops marks on the long answers and the practical questions. We see it a lot. Our GCSE Science tutors for Gerrards Cross students find which of Biology, Chemistry or Physics is costing the most, and work on that one first."
 
 card_heading: "Where are your child's Science marks slipping?"

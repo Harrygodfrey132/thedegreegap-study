@@ -7,7 +7,7 @@ location: "Borehamwood"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Borehamwood Students Who Freeze at the Worded Questions"
+hero_h1: "GCSE Maths Tutors for Borehamwood Students"
 hero_lead: "Your child can do the method when it's set out for them, then a five-mark question wrapped in a paragraph of words leaves the page blank. Our GCSE Maths tutors for Borehamwood students teach them to find the Maths hiding inside the words."
 
 angle_eyebrow: "THE MATHS HIDING IN THE WORDS"

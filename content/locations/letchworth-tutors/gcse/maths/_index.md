@@ -1,13 +1,13 @@
 ---
 title: "GCSE Maths Tutors in Letchworth | The Degree Gap"
 nav_title: "Maths"
-description: "A secure pass, or a grade high enough for A-Level Maths? Our Letchworth GCSE Maths tutors work one-to-one online on whichever your child needs. From £37."
+description: "A secure pass, or a grade high enough for A-Level Maths? Our GCSE Maths tutors for Letchworth work one-to-one online on whichever your child needs. From £37."
 layout: "level-subject"
 location: "Letchworth"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors Covering Letchworth"
+hero_h1: "GCSE Maths Tutors for Letchworth Students"
 hero_lead: "For some teenagers the Maths grade just needs to be safe. Others need it high enough for A-Level Maths. Our GCSE Maths tutors for Letchworth students find out which matters for your child, then spend each one-to-one online lesson on the questions costing them marks."
 
 card_eyebrow: "FREE CONSULTATION"
@@ -19,7 +19,7 @@ card_points:
 card_cta: "Book a free call"
 
 angle_eyebrow: "ONE GRADE, TWO DIFFERENT JOBS"
-angle_heading: "Why a Letchworth GCSE Maths Tutor First Asks What the Grade Is For"
+angle_heading: "Why a GCSE Maths Tutor for Letchworth Students First Asks What the Grade Is For"
 angle_body_1: "Maths does two different jobs at sixteen, and it's worth knowing early which one matters for your child. For plenty of Letchworth teenagers, it's the grade most next steps look at first, so a 4 or 5 in the bag takes a lot of pressure off. For others it's the way into A-Level Maths, and Highfield's sixth form guide, for one, asks for a stronger Maths grade for that course than for joining the sixth form. The marks go missing in different places, too. Aiming for a pass, it's often number work on the non-calculator paper, like fractions and decimals. Aiming higher, it's algebraic fractions and the multi-step problems near the end of each paper."
 angle_body_2: "The first lesson starts with your child's latest paper and one plain question: what's this grade for? For a secure pass, the tutor rebuilds the number work underneath, the Year 7 and 8 methods everything else sits on, until the non-calculator paper stops feeling like a trap. For A-Level Maths, the hour goes on multi-step algebra and the last questions on each paper, where there are more marks and fewer clues. Every lesson's recorded, so a worked example is there to rewatch when homework comes round. And after each one, the tutor's note tells you what they covered and what's coming next."
 angle_image: "/images/maths-equations-close-up.jpg"

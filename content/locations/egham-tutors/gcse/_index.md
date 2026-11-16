@@ -1,11 +1,11 @@
 ---
-title: "GCSE Tutors for Egham Students | Online One-to-One | The Degree Gap"
+title: "GCSE Tutors for Egham Students | One-to-One | The Degree Gap"
 description: "Is one GCSE subject lagging behind the rest? We'll match your child in Egham with an online GCSE tutor who knows their exam board. From £37, no contract."
 layout: "subject"
 location: "Egham"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Egham Students When One Subject Holds the Rest Back"
+hero_heading_line1: "GCSE Tutors for Egham Students"
 hero_heading_line2: ""
 hero_lead: "Most of the predicted grades look fine, and then there's one that doesn't, the subject your child goes quiet about at tea. Our GCSE tutors for Egham students find out what's behind that grade and work on it while there's still time."
 
@@ -14,7 +14,7 @@ grade_to: "8"
 grade_stat: "Chamarika's Trustpilot review says the son “had a predicted 4-5 in Physics” and “managed to turn this around and made it an 8”."
 
 first_lesson_eyebrow: "TWO MONTHS BEFORE THE EXAMS"
-first_lesson_heading: "What an Egham GCSE Tutor Does When the Exams Are Already Close"
+first_lesson_heading: "What a GCSE Tutor for Egham Students Does When the Exams Are Already Close"
 first_lesson_context: "If the exams are only a few months off and you're wondering whether you've left it too late, you're far from the only parent asking. With eight or ten weeks to work with, a GCSE tutor skips the grand revision plan and goes straight to the question types costing your child the most marks."
 first_lesson_quote: "We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s."
 first_lesson_quote_name: "Chamarika"

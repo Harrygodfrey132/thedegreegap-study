@@ -7,7 +7,7 @@ location: "Darlington"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Darlington Students Losing Marks on Mechanisms and Calculations"
+hero_h1: "A-Level Chemistry Tutors for Darlington Students"
 hero_lead: "In A-Level Chemistry the marks tend to slip in two places: the curly arrows in organic mechanisms, and the long calculations that build line on line. Our A-Level Chemistry tutors for Darlington students work through both, one step at a time."
 
 angle_eyebrow: "ARROWS AND NUMBERS"

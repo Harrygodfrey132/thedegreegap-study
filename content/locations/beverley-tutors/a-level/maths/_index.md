@@ -1,13 +1,13 @@
 ---
 title: "Beverley A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Pure, mechanics and statistics all step up in Year 12. Our Beverley A-Level Maths tutors start with the strand your child avoids. One-to-one online, from £37."
+description: "Pure, mechanics and statistics all step up in Year 12. Our A-Level Maths tutors for Beverley start with the strand your child avoids. Online, from £37."
 layout: "level-subject"
 location: "Beverley"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Beverley Families Facing the Year 12 Step"
+hero_h1: "A-Level Maths Tutors for Beverley Students"
 hero_lead: "Every A-Level Maths course includes pure, mechanics and statistics, and it's common for a teenager to steer round one of them. Our A-Level Maths tutors for Beverley students work out which strand that is and start there."
 
 card_eyebrow: "THE FIRST STEP IS FREE"

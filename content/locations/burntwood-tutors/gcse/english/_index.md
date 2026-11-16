@@ -7,7 +7,7 @@ location: "Burntwood"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Burntwood Teenagers, Matched to AQA or Edexcel"
+hero_h1: "GCSE English Tutors for Burntwood Students"
 hero_lead: "Your child reads plenty, then can't explain why a writer picked one word over another, or runs out of time halfway through the essay. Our GCSE English tutors for Burntwood students teach a way into each question on your child's own board."
 
 angle_eyebrow: "TWO SCHOOLS, TWO ENGLISH BOARDS"

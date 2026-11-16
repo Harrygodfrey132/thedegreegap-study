@@ -1,13 +1,13 @@
 ---
-title: "Guildford A-Level Biology Tutors | Online | The Degree Gap"
+title: "Guildford A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Is your child on an A in Biology but hoping for an A*? Our Guildford A-Level Biology tutors work on the long answers and experiment questions. From £37 an hour."
+description: "On an A in Biology but hoping for an A*? Our online A-Level Biology tutors help Guildford students with the long answers and experiment questions. From £37."
 layout: "level-subject"
 location: "Guildford"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Guildford Families Chasing an A*"
+hero_h1: "A-Level Biology Tutors for Guildford Students"
 hero_lead: "When your child's A in Biology is safe but the A* won't come, effort usually isn't what's missing. Our A-Level Biology tutors for Guildford students work on the questions that link both years of the course, and on spotting what's wrong with an experiment."
 
 angle_eyebrow: "THE LAST TEN PER CENT"

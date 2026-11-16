@@ -7,7 +7,7 @@ location: "New Malden"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for New Malden Students Whose Double Grade Decides Their A-Levels"
+hero_h1: "GCSE Science Tutors for New Malden Students"
 hero_lead: "On Combined Science your child gets one double grade, worked out from all six papers together, so a weak Chemistry topic pulls the whole thing down. Our GCSE Science tutors for New Malden students find that topic first and fix it before the mocks."
 
 angle_eyebrow: "WHY 7-7 MATTERS HERE"

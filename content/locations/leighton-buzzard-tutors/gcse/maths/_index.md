@@ -7,7 +7,7 @@ location: "Leighton Buzzard"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Leighton Buzzard Students Deciding Between Foundation and Higher"
+hero_h1: "GCSE Maths Tutors for Leighton Buzzard Students"
 hero_lead: "The school has mentioned tiers, and you can't tell whether Higher would stretch your child or sink them. Our GCSE Maths tutors for Leighton Buzzard students find the gaps behind that decision, from Year 8 fractions to the wordy problems at the back of the paper."
 
 angle_eyebrow: "THE TIER QUESTION IN YEAR 10"
@@ -41,7 +41,7 @@ steps:
 
 faqs:
   - q: "Our Maths tutor won't live in Leighton Buzzard. Will they still spot where my child goes wrong?"
-    a: "Yes, and often sooner. Your child writes on a shared online whiteboard, so the tutor sees each line appear and can stop them at the exact step that slips, rather than marking the finished answer later. Because we aren't limited to tutors near Leighton Buzzard, we can choose someone who knows your child's board and tier well. Every lesson is recorded too, so a method can be rewatched before a test."
+    a: "Yes, and often sooner. Your child writes on a shared online whiteboard, so the tutor sees each line appear and can stop them at the exact step that slips, rather than marking the finished answer later. Because we aren't limited to tutors for Leighton Buzzard students, we can choose someone who knows your child's board and tier well. Every lesson is recorded too, so a method can be rewatched before a test."
   - q: "Should my child sit Foundation or Higher tier in GCSE Maths?"
     a: "It depends where they're working now, and it's worth deciding with evidence. Foundation runs up to a grade 5. Higher runs from a 4, sometimes a 3, up to a 9, so a child who falls short on Higher can end up with less than Foundation would have given. If Year 10 tests sit around a 5, Higher is often right, with work on the harder questions. Around a 3 or 4, Foundation can be the safer choice. A tutor's view, from your child's actual papers, helps you talk it through with the school."
   - q: "Why has my child started struggling with Maths since moving up to upper school?"

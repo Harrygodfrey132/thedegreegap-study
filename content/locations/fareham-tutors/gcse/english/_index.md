@@ -1,5 +1,5 @@
 ---
-title: "Fareham GCSE English Tutors | Online | The Degree Gap"
+title: "Fareham GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "Online GCSE English tutors for Fareham. Quotations learnt, writing practised to time, and the grade nearly every college course asks for. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Fareham"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutoring for Fareham, Whichever College Comes Next"
+hero_h1: "GCSE English Tutors for Fareham Students"
 hero_lead: "Ask how English revision is going and you might get a shrug and 'you can't really revise for English'. We hear that one a lot. Our GCSE English tutors for Fareham students show your child what to practise instead, from quotations to timed writing."
 
 angle_eyebrow: "THE SUBJECT THEY SAY YOU CAN'T REVISE"
@@ -28,7 +28,7 @@ schools:
   - "Portchester Community School"
   - "Fareham College"
 
-steps_heading: "Getting started with a GCSE English tutor in Fareham"
+steps_heading: "Getting started with a GCSE English tutor for Fareham students"
 steps_lead: "Most families have profiles to read by the next day. There's no bad time to begin, though quotations do take time to stick, so starting early takes the pressure off later."
 steps:
   - title: "Tell us about your child"

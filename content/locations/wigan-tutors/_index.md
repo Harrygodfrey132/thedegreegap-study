@@ -1,9 +1,9 @@
 ---
 title: "Wigan Expert Tutors | The Degree Gap"
-description: "Is your child chasing the GCSE grades for a Winstanley or St John Rigby course? Our Wigan tutors help one-to-one online, and can stay on through A-Levels too."
+description: "Is your child chasing the GCSE grades for a Winstanley or St John Rigby course? Our tutors for Wigan help online, and can stay on through A-Levels too."
 layout: "single"
 location: "Wigan"
-banner_heading: "From Year 11 to Winstanley or St John Rigby: Online Wigan Tutors for GCSE and A-Level"
+banner_heading: "GCSE and A-Level Tutors for Wigan Families"
 banner_description: "Getting into college and keeping up once you're there are two different worries. Our tutors help Wigan families with both, one-to-one and online, from £37 an hour."
 content_angle: "the move from high school to college: Year 11s chasing the grades for a Winstanley or St John Rigby course, then the A-Level step up in the first term at college"
 intro_1: "Maybe it's a course your child has circled in a college prospectus, and a predicted grade that doesn't quite reach it yet. For most Wigan families, Year 11 is really about what comes next, and what comes next is usually Winstanley or St John Rigby. Course entry there tends to want 6s across the board, with 7s for the popular A-Levels. That's a lot riding on one year. And some weeks it can feel as if the whole house is sitting the exams, not just your child."

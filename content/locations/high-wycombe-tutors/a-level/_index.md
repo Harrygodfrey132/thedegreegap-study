@@ -1,11 +1,11 @@
 ---
-title: "High Wycombe A-Level Tutors | Online One-to-One | The Degree Gap"
+title: "High Wycombe A-Level Tutors | One-to-One | The Degree Gap"
 description: "For when your child's predicted grade feels too low: High Wycombe A-Level tutoring, one-to-one online and matched to their exam board. From £37 an hour."
 layout: "subject"
 location: "High Wycombe"
 level: "A-Level"
 
-hero_heading_line1: "Online High Wycombe A-Level Tutors for a Predicted Grade That Feels Too Low"
+hero_heading_line1: "A-Level Tutors for High Wycombe Students"
 hero_heading_line2: ""
 hero_lead: "If you're worried your child's predicted grade won't match the offers they're hoping for, you're far from the only one in Wycombe. Our A-Level tutors for High Wycombe students work with your child one-to-one online, and most families start in Year 12, before the end-of-year exams that feed into predictions."
 
@@ -14,7 +14,7 @@ grade_to: "A"
 grade_stat: "From a Year 13 mock to almost two grades higher in the real exams, for Daljit's son."
 
 first_lesson_eyebrow: "WHEN YEAR 12 EXAMS DISAPPOINT"
-first_lesson_heading: "How a High Wycombe A-Level Tutor Reads a Disappointing Paper"
+first_lesson_heading: "How an A-Level Tutor for High Wycombe Students Reads a Disappointing Paper"
 first_lesson_context: "A lot of Wycombe parents first ring us about a Year 12 who's putting the hours in, then gets a lower mark than expected in the end-of-year exams and can't see why. Buckinghamshire's A-Level results sit above the national picture, but that says very little about one child's papers. So the A-Level tutor reads those papers first, to see whether it's the extra content that came with the jump from GCSE or the marks for weighing up an argument, and rebuilds from there."
 
 first_lesson_quote: "My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
@@ -22,7 +22,7 @@ first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "A-Level"
 
-tutor_strip_heading: "High Wycombe A-Level tutors who've sat the papers your child's facing"
+tutor_strip_heading: "A-Level tutors for High Wycombe students who've sat the papers your child's facing"
 tutor_strip_body: "We match the tutor to your child's exact course and exam board, at Royal Grammar, Wycombe High or any other sixth form in town. Our tutors include undergraduates, and all have tutored for two years or more. Have a look through the profiles, or we'll suggest two or three."
 
 pathways_heading: "Beyond A-Levels for High Wycombe Year 13s"

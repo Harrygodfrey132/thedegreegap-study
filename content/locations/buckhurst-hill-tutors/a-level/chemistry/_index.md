@@ -7,7 +7,7 @@ location: "Buckhurst Hill"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Buckhurst Hill Students Whose Curly Arrows Go Astray"
+hero_h1: "A-Level Chemistry Tutors for Buckhurst Hill Students"
 hero_lead: "Your child learnt each mechanism for the test, and now a synthesis question asks them to chain two or three together and the curly arrows go everywhere. Our A-Level Chemistry tutors for Buckhurst Hill students rebuild organic chemistry so it makes sense, not just sticks for a week."
 
 angle_eyebrow: "FROM ALKENE TO AMINE IN TWO STEPS"

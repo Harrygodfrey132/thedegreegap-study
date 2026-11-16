@@ -7,7 +7,7 @@ location: "Enfield"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Enfield Students Whose Essays Stop Short of a Judgement"
+hero_h1: "A-Level Economics Tutors for Enfield Students"
 hero_lead: "Your child knows the theory, draws the diagram, and still gets told the essay 'lacks evaluation'. Our A-Level Economics tutors for Enfield students teach the chain of reasoning the long questions reward, one paragraph at a time."
 
 angle_eyebrow: "FROM ENFIELD TOWN TO LIVERPOOL STREET"

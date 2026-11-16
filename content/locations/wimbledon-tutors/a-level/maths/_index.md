@@ -7,7 +7,7 @@ location: "Wimbledon"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Wimbledon Students Who Dread Mechanics and Statistics"
+hero_h1: "A-Level Maths Tutors for Wimbledon Students"
 hero_lead: "Pure is two-thirds of A-Level Maths, so the applied topics can get squeezed until the mocks expose them. We match Wimbledon sixth formers with an online A-Level Maths tutor who gives Mechanics and Statistics their share, alongside the Pure underneath."
 
 angle_eyebrow: "THE THIRD THAT GETS SQUEEZED"

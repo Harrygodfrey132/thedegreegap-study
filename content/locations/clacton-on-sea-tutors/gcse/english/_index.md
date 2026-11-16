@@ -1,5 +1,5 @@
 ---
-title: "Online GCSE English Tutors for Clacton-on-Sea Students | The Degree Gap"
+title: "GCSE English Tutors for Clacton-on-Sea Students | The Degree Gap"
 nav_title: "English"
 description: "Does your child freeze on the GCSE English reading questions? We'll match them with an online English tutor for Clacton-on-Sea students. From £37, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Clacton-on-Sea"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Clacton-on-Sea Teenagers Stuck on the Reading Questions"
+hero_h1: "GCSE English Tutors for Clacton-on-Sea Students"
 hero_lead: "Your child reads the extract, understands it, then writes three lines and stops, or retells the story instead of saying how it's written. Our GCSE English tutors for Clacton-on-Sea students teach them what each reading question wants, and how much is enough."
 
 angle_eyebrow: "WHAT THE READING QUESTIONS WANT"

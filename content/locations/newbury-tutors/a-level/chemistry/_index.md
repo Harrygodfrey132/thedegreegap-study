@@ -7,7 +7,7 @@ location: "Newbury"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Newbury Students Whose Calculations Fall Apart in Year 13"
+hero_h1: "A-Level Chemistry Tutors for Newbury Students"
 hero_lead: "Year 12 calculations felt manageable, then pH, buffers and equilibrium constants arrive and one slip early on costs every mark after it. Our A-Level Chemistry tutors for Newbury students set out the working line by line until your child can follow it under time."
 
 angle_eyebrow: "WHEN THE NUMBERS GET LONGER"

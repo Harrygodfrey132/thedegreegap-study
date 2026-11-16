@@ -7,7 +7,7 @@ location: "Richmond"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Richmond Students Meeting the Subject for the First Time"
+hero_h1: "A-Level Economics Tutors for Richmond Students"
 hero_lead: "Most children start A-Level Economics with no GCSE in it, and the long essays come as a shock. Our A-Level Economics tutors for Richmond students build up the diagrams and the evaluation a step at a time, online from home."
 
 angle_eyebrow: "A SUBJECT THAT STARTS AT SIXTEEN"

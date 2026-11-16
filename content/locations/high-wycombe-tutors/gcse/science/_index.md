@@ -1,13 +1,13 @@
 ---
-title: "High Wycombe GCSE Science Tutors | Online | The Degree Gap"
+title: "High Wycombe GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Year 11 and one of the three sciences has started to slip? Our High Wycombe GCSE Science tutors find which one and work on it. Online, from £37 an hour."
+description: "Year 11 and one of the three sciences has started to slip? Our GCSE Science tutors for High Wycombe find which one and work on it. Online, from £37 an hour."
 layout: "level-subject"
 location: "High Wycombe"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for High Wycombe Families, When Triple Science Starts to Pile Up"
+hero_h1: "GCSE Science Tutors for High Wycombe Students"
 hero_lead: "Triple Science is three full GCSEs, usually squeezed into less than three subjects' worth of lesson time, and Year 11 is often when that catches up with your child. Our GCSE Science tutors for High Wycombe students work one-to-one online on the science that's slipped."
 
 angle_eyebrow: "THREE GCSES, ONE TIMETABLE"

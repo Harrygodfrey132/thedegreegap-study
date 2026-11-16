@@ -5,7 +5,7 @@ layout: "subject"
 location: "Bedford"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Bedford Students With Applications and Exams in One Year"
+hero_heading_line1: "A-Level Tutors for Bedford Students"
 hero_heading_line2: ""
 hero_lead: "Year 13 asks your child to write applications in the autumn while the hardest content is still arriving. Our A-Level tutors for Bedford students keep the subject work moving, so the applications don't swallow it."
 

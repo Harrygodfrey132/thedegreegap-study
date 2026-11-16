@@ -1,13 +1,13 @@
 ---
-title: "Baldock A-Level Maths Tutors | Online | The Degree Gap"
+title: "Baldock A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Is A-Level Maths proof leaving your child stuck after the first line? Our Baldock A-Level Maths tutors teach how a proof is laid out, online, from £37 an hour."
+description: "Is A-Level Maths proof leaving your child stuck after the first line? Our A-Level Maths tutors for Baldock teach how a proof is laid out, online, from £37."
 layout: "level-subject"
 location: "Baldock"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutoring for Baldock Families Stuck on Proof"
+hero_h1: "A-Level Maths Tutors for Baldock Students"
 hero_lead: "If your child's A-Level Maths marks keep vanishing on the 'prove that' questions, it's one of the commonest things we hear about Year 12. Our A-Level Maths tutors for Baldock students teach how a proof is laid out, line by line."
 
 angle_eyebrow: "PROVING IT, NOT CALCULATING IT"
@@ -28,7 +28,7 @@ schools:
   - "St Christopher School"
   - "Highfield School"
 
-steps_heading: "How to find your child an A-Level Maths tutor in Baldock"
+steps_heading: "How to find your child an A-Level Maths tutor for Baldock students"
 steps_lead: "It's worth a look at the last paper before we talk. Were the proof questions even tried? Two or three tutors' profiles will follow the day after."
 steps:
   - title: "A free call about your child"

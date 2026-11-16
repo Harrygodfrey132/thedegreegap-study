@@ -5,7 +5,7 @@ layout: "subject"
 location: "Putney"
 level: "GCSE"
 
-hero_heading_line1: "GCSE Tutoring for Putney Students That Teaches the Paper They'll Actually Sit"
+hero_heading_line1: "GCSE Tutors for Putney Students"
 hero_heading_line2: ""
 hero_lead: "Two teenagers on the same Putney road can face quite different Maths exams in Year 11, one with a calculator in every paper and one with a paper that bans it. Our GCSE tutors for Putney students start from your child's own exam, not the one a friend's child sits."
 

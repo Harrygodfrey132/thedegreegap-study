@@ -7,7 +7,7 @@ location: "Enfield"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Enfield Students Who Get Lost Halfway Through a Problem"
+hero_h1: "A-Level Physics Tutors for Enfield Students"
 hero_lead: "Most A-Level Physics questions take four or five steps, and one wobble in the maths early on sinks the rest. Our A-Level Physics tutors for Enfield students slow those problems right down until your child can set them up alone."
 
 angle_eyebrow: "FIVE STEPS, ONE SLIP"

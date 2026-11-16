@@ -7,7 +7,7 @@ location: "Ilford"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Ilford Students Whose Calculations Unravel Halfway"
+hero_h1: "A-Level Chemistry Tutors for Ilford Students"
 hero_lead: "Your child sets up the equilibrium question perfectly, then a unit or a rearrangement goes wrong on line three and the rest of the answer follows it down. Our A-Level Chemistry tutors for Ilford students make long calculations steady from start to finish."
 
 angle_eyebrow: "KC, PH AND THE UNITS IN BETWEEN"

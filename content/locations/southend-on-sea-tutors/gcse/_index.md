@@ -1,11 +1,11 @@
 ---
 title: "Southend-on-Sea GCSE Tutors | One-to-One | The Degree Gap"
-description: "Southend-on-Sea GCSE tutors who read the marked paper before planning the term. One-to-one tutoring online over Lessonspace, from £37 an hour."
+description: "GCSE tutors for Southend-on-Sea who read the marked paper before planning the term. One-to-one tutoring online over Lessonspace, from £37 an hour."
 layout: "subject"
 location: "Southend-on-Sea"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for the Southend-on-Sea Year 11 Who Went Quiet After Mocks"
+hero_heading_line1: "GCSE Tutors for Southend-on-Sea Students"
 hero_heading_line2: ""
 hero_lead: "The effort is going in and the grade has not moved since Year 10. Our GCSE tutors for Southend-on-Sea students work one-to-one and online over Lessonspace, reading the marked paper first, then spending the term where the marks are actually leaking."
 
@@ -21,7 +21,7 @@ first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B at GCSE"
 
-tutor_strip_heading: "Southend-on-Sea GCSE tutors who ask for the mock before the timetable"
+tutor_strip_heading: "GCSE tutors for Southend-on-Sea students who ask for the mock before the timetable"
 tutor_strip_body: "Schools across the city sit different boards and enter students at different tiers, so both get confirmed first. Around 3% of applicants get through the founder-led interview. Every hour runs one-to-one and online on Lessonspace, so browse the profiles or leave the matching to us."
 
 pathways_heading: "The September After Year 11 in Southend-on-Sea"

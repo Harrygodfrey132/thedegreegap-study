@@ -7,7 +7,7 @@ location: "Bedford"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Bedford Students Whose Year 12 Gaps Resurface in Calculus"
+hero_h1: "A-Level Maths Tutors for Bedford Students"
 hero_lead: "Integration by parts and differential equations arrive in Year 13, on top of whatever didn't quite settle in Year 12. Our A-Level Maths tutors for Bedford students sort out the old foundations and the new methods together."
 
 angle_eyebrow: "WHERE YEAR 12 GAPS RESURFACE"

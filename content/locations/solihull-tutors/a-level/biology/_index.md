@@ -1,5 +1,5 @@
 ---
-title: "Solihull A-Level Biology Tutors | Online | The Degree Gap"
+title: "Solihull A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
 description: "Nitrogen cycle answers that sound right but score low? Online A-Level Biology tutors for Solihull families help your child name each step. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Solihull"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Solihull Year 12s and 13s"
+hero_h1: "A-Level Biology Tutors for Solihull Students"
 hero_lead: "Plenty of teenagers can draw the nitrogen cycle and still score low on it, because the marks go on naming each step. Our A-Level Biology tutors for Solihull students go through every stage and the bacteria behind it with your child, until a vague answer turns into one that scores."
 
 angle_eyebrow: "THE NAME IS WHERE THE MARK IS"

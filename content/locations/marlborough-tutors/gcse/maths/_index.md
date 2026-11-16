@@ -7,7 +7,7 @@ location: "Marlborough"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Marlborough Teenagers Facing a Higher Paper Full of Algebra"
+hero_h1: "GCSE Maths Tutors for Marlborough Students"
 hero_lead: "On the Higher paper, algebra carries more marks than any other part of the course, so a method that went wrong in Year 8 costs a little more every year. Our GCSE Maths tutors for Marlborough students find that method and rebuild it, line by line."
 
 angle_eyebrow: "THIRTY PER CENT ALGEBRA"

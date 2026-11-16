@@ -1,13 +1,13 @@
 ---
-title: "Peterborough A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Peterborough A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
-description: "Peterborough A-Level Chemistry tutors, online. If your child follows the method in class but slows right down in the exam, we'll build the practice. From £37."
+description: "A-Level Chemistry tutors for Peterborough, online. If your child follows the method in class but slows right down in the exam, we'll build the practice."
 layout: "level-subject"
 location: "Peterborough"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutoring Across Peterborough"
+hero_h1: "A-Level Chemistry Tutors for Peterborough Students"
 hero_lead: "Your child understood it in the lesson, then spent eight minutes on one mole calculation in the mock. That's a practice problem, not an ability problem. Our A-Level Chemistry tutors for Peterborough students help them do the amount of practice the course quietly expects."
 
 angle_eyebrow: "GETTING IT ISN'T THE SAME AS BEING QUICK AT IT"
@@ -28,7 +28,7 @@ schools:
   - "Ormiston Bushfield Academy"
   - "The King's School Peterborough"
 
-steps_heading: "Getting started with a Peterborough Chemistry tutor"
+steps_heading: "Getting started with a Chemistry tutor for Peterborough students"
 steps_lead: "Tutor profiles come within a day. The number worth knowing is how many questions your child does in a normal week."
 steps:
   - title: "A chat about your child"

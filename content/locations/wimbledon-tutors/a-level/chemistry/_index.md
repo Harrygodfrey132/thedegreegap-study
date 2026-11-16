@@ -7,7 +7,7 @@ location: "Wimbledon"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Wimbledon Students Thinking About Dropping It"
+hero_h1: "A-Level Chemistry Tutors for Wimbledon Students"
 hero_lead: "One poor Chemistry test in Year 12 can make your child want to give it up before the course has properly begun. We match Wimbledon sixth formers with an online A-Level Chemistry tutor who works out whether it's mechanisms, moles or just a slow start."
 
 angle_eyebrow: "BEFORE YOUR CHILD GIVES IT UP"

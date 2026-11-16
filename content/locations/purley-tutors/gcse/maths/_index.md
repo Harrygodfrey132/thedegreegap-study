@@ -7,7 +7,7 @@ location: "Purley"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Purley Students, for the Methods You Never Learnt"
+hero_h1: "GCSE Maths Tutors for Purley Students"
 hero_lead: "If you've sat down to help with the Maths homework and found methods you were never taught, you're far from the only parent in Purley. Our GCSE Maths tutors for Purley students teach it the way the exam board expects, from fractions to iteration."
 
 angle_eyebrow: "NOT THE MATHS YOU REMEMBER"

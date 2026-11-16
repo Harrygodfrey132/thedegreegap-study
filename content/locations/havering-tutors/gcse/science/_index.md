@@ -7,7 +7,7 @@ location: "Havering"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Havering Students Losing Marks on the Practicals"
+hero_h1: "GCSE Science Tutors for Havering Students"
 hero_lead: "Your child did the experiment in Year 9, and now the exam wants to know why the method worked and what could have gone wrong. Our GCSE Science tutors for Havering students practise those written practical questions, alongside the calculations they lean on."
 
 angle_eyebrow: "THE EXPERIMENTS COME BACK IN WRITING"

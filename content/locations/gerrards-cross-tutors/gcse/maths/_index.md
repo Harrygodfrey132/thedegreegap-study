@@ -1,13 +1,13 @@
 ---
 title: "Gerrards Cross GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Has your child decided they're 'not a Maths person'? Our online GCSE Maths tutors in Gerrards Cross start from the method that slipped. From £37, no contract."
+description: "Has your child decided they're 'not a Maths person'? Our online GCSE Maths tutors for Gerrards Cross start from the method that slipped. From £37, no contract."
 layout: "level-subject"
 location: "Gerrards Cross"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Gerrards Cross Children Who've Decided They're Not a Maths Person"
+hero_h1: "GCSE Maths Tutors for Gerrards Cross Students"
 hero_lead: "Plenty of parents hear 'I'm just not a Maths person' after a bad test, and it's very rarely the whole story. Our GCSE Maths tutors for Gerrards Cross students go back to the method that first went wrong, often a bit of Year 8 algebra, and rebuild from there."
 
 card_heading: "Tell us how your child feels about Maths right now"

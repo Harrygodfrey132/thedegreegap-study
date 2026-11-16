@@ -7,7 +7,7 @@ location: "Bishop's Stortford"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutoring for Bishop's Stortford, Where Sixth Forms Set Their Own Maths Minimum"
+hero_h1: "GCSE Maths Tutors for Bishop's Stortford Students"
 hero_lead: "Whichever sixth form your child's aiming for, it'll look at the Maths grade on its own. Our GCSE Maths tutors for Bishop's Stortford students work one-to-one online. They fix the method behind the lost marks, rather than rushing on to new topics."
 
 angle_eyebrow: "THE GRADE EVERY COURSE CHECKS"
@@ -28,7 +28,7 @@ schools:
   - "Hockerill Anglo-European College"
   - "Bishop's Stortford College"
 
-steps_heading: "How your child gets going with a Bishop's Stortford GCSE Maths tutor"
+steps_heading: "How your child gets going with a GCSE Maths tutor for Bishop's Stortford students"
 steps_lead: "Sixth form applications go in during the autumn of Year 11, so starting sooner gives the Maths grade more room. We'll send tutor profiles within a day of your call."
 steps:
   - title: "First, a free call"

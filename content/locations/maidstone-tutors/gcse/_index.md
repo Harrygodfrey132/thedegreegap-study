@@ -1,11 +1,11 @@
 ---
 title: "Maidstone GCSE Tutors | One-to-One | The Degree Gap"
-description: "Maidstone GCSE tutors who work on the weak topic before the winter mock that sixth forms read. One-to-one and online, from £37 an hour, with no contract."
+description: "GCSE tutors for Maidstone who work on the weak topic before the winter mock that sixth forms read. One-to-one and online, from £37 an hour, with no contract."
 layout: "subject"
 location: "Maidstone"
 level: "GCSE"
 
-hero_heading_line1: "Online Maidstone GCSE Tutors Who Fix Weak Topics Before the Mock Sixth Forms Read"
+hero_heading_line1: "GCSE Tutors for Maidstone Students"
 hero_heading_line2: ""
 hero_lead: "A few weeks after the winter mock comes home, your child's sixth-form application goes in. The two are more closely linked than it first looks. Our GCSE tutors for Maidstone students work on the topics that decide the mock, before it feeds into the predicted grades on the form."
 
@@ -14,14 +14,14 @@ grade_to: "B"
 grade_stat: "An E that turned into a B at GCSE after one-to-one lessons online, as the student wrote in her own review."
 
 first_lesson_eyebrow: "SORTED AT ELEVEN, SORTED AGAIN AT SIXTEEN"
-first_lesson_heading: "Why a Maidstone GCSE Tutor Starts From the Sixth-Form Requirement"
+first_lesson_heading: "Why a GCSE Tutor for Maidstone Students Starts From the Sixth-Form Requirement"
 first_lesson_context: "In Maidstone, your child's GCSE grades get read twice: once by the exam board, and once by the sixth form or college they've applied to. Kent's results as a whole sit close to the national picture, though an average like that hides a lot, even between one child's own subjects. So the GCSE tutor's first job is working out which subject, and which topic in it, the application's likely to turn on."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B at GCSE"
 
-tutor_strip_heading: "Maidstone GCSE tutors who know which grade the application turns on"
+tutor_strip_heading: "GCSE tutors for Maidstone students who know which grade the application turns on"
 tutor_strip_body: "Harry and Joe interview every tutor, and only around 3% of applicants make it. We'll also confirm the exam board first, since it varies between Maidstone Grammar, MGGS, Invicta, Oakwood Park, Maplesden Noakes and Valley Park. Scroll the profiles below, or we'll suggest two or three."
 
 pathways_heading: "After GCSEs in Maidstone: Sixth Form, Apprenticeship or College"

@@ -1,5 +1,5 @@
 ---
-title: "Online A-Level Economics Tutoring for Dorking Families | The Degree Gap"
+title: "A-Level Economics Tutoring for Dorking Families | The Degree Gap"
 nav_title: "Economics"
 description: "Are A-Level Economics essays costing your child marks? We match Dorking sixth formers with an online A-Level Economics tutor on their board. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Dorking"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Dorking Sixth Formers Whose Evaluation Runs Out"
+hero_h1: "A-Level Economics Tutors for Dorking Students"
 hero_lead: "Your child can draw the diagram and define every term, then the 25-mark question asks them to judge, and the marks thin out. Our A-Level Economics tutors for Dorking students teach the weighing-up that examiners reward."
 
 angle_eyebrow: "PAPER 3 PULLS IT ALL TOGETHER"

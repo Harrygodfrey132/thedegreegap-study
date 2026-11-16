@@ -7,7 +7,7 @@ location: "Rochdale"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Rochdale Students Who Describe When the Question Says Explain"
+hero_h1: "GCSE Science Tutors for Rochdale Students"
 hero_lead: "Your child revised the topic, then wrote a description when the question wanted an explanation, and the marks went with it. Our GCSE Science tutors for Rochdale students teach what each command word is after, in Biology, Chemistry and Physics alike."
 
 angle_eyebrow: "DESCRIBE, EXPLAIN, EVALUATE"

@@ -1,13 +1,13 @@
 ---
-title: "Online GCSE English Tutors | Brighton | The Degree Gap"
+title: "GCSE English Tutors | Brighton | The Degree Gap"
 nav_title: "English"
-description: "Online GCSE English tutors across Brighton and Hove, for the child who'd rather do anything than read. Set texts made manageable, one-to-one, from £37."
+description: "Online GCSE English tutors for Brighton and Hove, for the child who'd rather do anything than read. Set texts made manageable, one-to-one, from £37."
 layout: "level-subject"
 location: "Brighton"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors in Brighton and Hove"
+hero_h1: "GCSE English Tutors for Brighton Students"
 hero_lead: "If your child hasn't read a book for fun since primary school, a Shakespeare play and a nineteenth-century novel can look like a mountain. Our GCSE English tutors for Brighton students break the set texts into pieces your child can manage, then show them how to write about them."
 
 angle_eyebrow: "WHEN YOUR CHILD WOULD RATHER NOT READ"

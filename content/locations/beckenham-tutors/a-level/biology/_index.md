@@ -7,7 +7,7 @@ location: "Beckenham"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Beckenham Students Buried Under Content"
+hero_h1: "A-Level Biology Tutors for Beckenham Students"
 hero_lead: "A-Level Biology comes with a huge amount to learn, and then the papers ask your child to connect it all. Our A-Level Biology tutors for Beckenham students make the pathways stick and practise the long synoptic answers."
 
 angle_eyebrow: "FROM KREBS TO THE 25-MARK ESSAY"

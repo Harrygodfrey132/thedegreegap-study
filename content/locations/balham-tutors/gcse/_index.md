@@ -1,11 +1,11 @@
 ---
-title: "Balham GCSE Tuition | Online One-to-One | The Degree Gap"
+title: "Balham GCSE Tuition | One-to-One | The Degree Gap"
 description: "Does your child know the facts but lose marks on longer answers? GCSE tutoring in Balham, online and one-to-one, matched to their exam board. From £37 an hour."
 layout: "subject"
 location: "Balham"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Balham Students Who Lose Marks on the Longer Answers"
+hero_heading_line1: "GCSE Tutors for Balham Students"
 hero_heading_line2: ""
 hero_lead: "Your child can tell you the answer out loud, then the six-mark question comes back with two marks and 'develop this' in the margin. Our GCSE tutors for Balham students show them how a longer answer is built, and practise it until it holds under time."
 

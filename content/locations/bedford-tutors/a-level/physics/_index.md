@@ -7,7 +7,7 @@ location: "Bedford"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Bedford Students Struggling With the Maths"
+hero_h1: "A-Level Physics Tutors for Bedford Students"
 hero_lead: "Plenty of children understand the Physics and still lose marks to the logarithms and vectors wrapped around it. Our A-Level Physics tutors for Bedford students get the maths moving, so what your child knows can show."
 
 angle_eyebrow: "THE MATHS INSIDE THE PHYSICS"

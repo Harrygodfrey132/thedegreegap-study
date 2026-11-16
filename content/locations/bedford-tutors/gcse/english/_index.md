@@ -7,7 +7,7 @@ location: "Bedford"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Bedford Students Stuck on the Writing Questions"
+hero_h1: "GCSE English Tutors for Bedford Students"
 hero_lead: "Your child reads well, then the story or speech question gets a page that wanders and stops. Our GCSE English tutors for Bedford students teach them to plan that writing, so every paragraph earns its marks."
 
 angle_eyebrow: "HALF THE LANGUAGE PAPER"

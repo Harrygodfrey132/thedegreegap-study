@@ -1,11 +1,11 @@
 ---
 title: "Plymouth GCSE Tutors | One-to-One | The Degree Gap"
-description: "Plymouth GCSE tutors for the Year 11 grades that decide sixth form entry and the City College route. Online one-to-one lessons from £37 an hour."
+description: "GCSE tutors for Plymouth, for the Year 11 grades that decide sixth form entry and the City College route. Online one-to-one lessons from £37 an hour."
 layout: "subject"
 location: "Plymouth"
 level: "GCSE"
 
-hero_heading_line1: "GCSE tutoring for Plymouth students aiming at sixth form or the City College route"
+hero_heading_line1: "GCSE Tutors for Plymouth Students"
 hero_heading_line2: ""
 hero_lead: "Two different sets of requirements wait at the end of Year 11, and both read the same handful of grades. Our GCSE tutors for Plymouth students work back from whichever one your child is aiming at, one-to-one online over Lessonspace, starting with a paper rather than a feeling."
 
@@ -14,14 +14,14 @@ grade_to: "B"
 grade_stat: "A real GCSE move from an E to a B, in the student's own words, after weekly one-to-one sessions."
 
 first_lesson_eyebrow: "WHAT YEAR 11 DECIDES HERE"
-first_lesson_heading: "The First Thing a Plymouth GCSE Tutor Asks For"
+first_lesson_heading: "The First Thing a GCSE Tutor for Plymouth Students Asks For"
 first_lesson_context: "Sixth form and college applications go in during the autumn of Year 11, and the offers that come back are conditional on grades nobody has yet. So the mock in between is doing more work than it looks like it is doing. A GCSE tutor arriving at that point is not there to reteach the year, but to find the two or three question types costing the marks and make them routine."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B at GCSE"
 
-tutor_strip_heading: "Plymouth GCSE tutors matched to the paper your child sits"
+tutor_strip_heading: "GCSE tutors for Plymouth students matched to the paper your child sits"
 tutor_strip_body: "Students at Plymstock, Hele's, Notre Dame and the three grammar schools are not all entered for the same board, so the specification gets confirmed first. Every tutor has been through an interview with Joe or Harry that around 3% of applicants come through. Have a look at the profiles, or let us pick the match."
 
 pathways_heading: "Where Plymouth Year 11s Go After Results Day"

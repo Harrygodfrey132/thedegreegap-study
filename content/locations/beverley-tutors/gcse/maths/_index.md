@@ -1,13 +1,13 @@
 ---
 title: "GCSE Maths Tutors in Beverley | The Degree Gap"
 nav_title: "Maths"
-description: "Does your child freeze on the non-calculator paper? Our Beverley GCSE Maths tutors go back to the step that slipped first. Online, from £37 an hour."
+description: "Does your child freeze on the non-calculator paper? Our GCSE Maths tutors for Beverley go back to the step that slipped first. Online, from £37 an hour."
 layout: "level-subject"
 location: "Beverley"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Beverley, Molescroft and Walkington"
+hero_h1: "GCSE Maths Tutors for Beverley Students"
 hero_lead: "Maybe it's the non-calculator paper, or the multi-step problems your child keeps leaving blank. Our GCSE Maths tutors for Beverley students look for the earlier topic those marks depend on and start the lessons there."
 
 card_eyebrow: "TALK TO US FIRST"
@@ -36,7 +36,7 @@ schools:
   - "Hymers College"
   - "Pocklington School"
 
-steps_heading: "What happens after you ask about a GCSE Maths tutor in Beverley"
+steps_heading: "What happens after you ask about a GCSE Maths tutor for Beverley students"
 steps_lead: "Year 10 is a calm time to start. In Year 11, a few weeks of lessons before the mocks can take some of the panic out of them."
 steps:
   - title: "Tell us what's going wrong"

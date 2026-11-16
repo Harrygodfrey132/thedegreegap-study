@@ -7,7 +7,7 @@ location: "Basildon"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths tutoring for your child in Basildon, starting with the number work underneath"
+hero_h1: "GCSE Maths Tutors for Basildon Students"
 hero_lead: "Foundation or Higher, the same thing usually holds a child back: number skills from Years 7 and 8 that never got solid. We match your child with an online Maths tutor on their board and tier, and lessons happen from home."
 
 angle_eyebrow: "FOUNDATION, HIGHER AND WHAT SITS UNDER BOTH"

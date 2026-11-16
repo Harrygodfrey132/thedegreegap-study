@@ -1,13 +1,13 @@
 ---
 title: "Beaconsfield A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Great at GCSE Maths, now lost in Year 12? Our Beaconsfield A-Level Maths tutors help your child with Pure, Mechanics and Statistics, online from £37 an hour."
+description: "Great at GCSE Maths, now lost in Year 12? Our A-Level Maths tutors for Beaconsfield help your child with Pure, Mechanics and Statistics, online from £37."
 layout: "level-subject"
 location: "Beaconsfield"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Beaconsfield Sixth Formers Who Were Great at GCSE and Now Feel Lost"
+hero_h1: "A-Level Maths Tutors for Beaconsfield Students"
 hero_lead: "A 7 or 8 at GCSE, then a D on the first Year 12 test: it's one of the calls we get most often. Our A-Level Maths tutors for Beaconsfield students work one-to-one with your child online on choosing the method, not just doing it."
 
 card_heading: "Tell us how Year 12 Maths is going for your child"

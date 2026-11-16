@@ -1,13 +1,13 @@
 ---
-title: "Southampton Online A-Level Chemistry Tutors | The Degree Gap"
+title: "Southampton A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
-description: "Titration sums and missing working cost A-Level Chemistry marks. Our Southampton tutors work on both, one-to-one and online, from £37 an hour, no contract."
+description: "Titration sums and missing working cost A-Level Chemistry marks. Our tutors for Southampton work on both, one-to-one and online, from £37 an hour, no contract."
 layout: "level-subject"
 location: "Southampton"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Families Across Southampton"
+hero_h1: "A-Level Chemistry Tutors for Southampton Students"
 hero_lead: "A titration is the practical your child has probably done most, which makes it a shock when the calculation afterwards loses half its marks. Our A-Level Chemistry tutors for Southampton students slow the working down, one written step at a time."
 
 angle_eyebrow: "FROM THE BURETTE TO THE ANSWER"

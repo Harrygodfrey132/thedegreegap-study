@@ -7,7 +7,7 @@ location: "Burton upon Trent"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Burton upon Trent Students Unsure Which Tier They're Sitting"
+hero_h1: "GCSE Maths Tutors for Burton upon Trent Students"
 hero_lead: "If your child's teacher has mentioned tiers, you may be wondering whether Higher is a stretch too far or Foundation a ceiling. Our GCSE Maths tutors for Burton upon Trent students find where the marks are going first, so that call rests on evidence."
 
 angle_eyebrow: "FOUNDATION OR HIGHER?"

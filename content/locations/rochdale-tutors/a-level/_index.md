@@ -1,11 +1,11 @@
 ---
-title: "A-Level Tutors for Rochdale Students, Online One-to-One"
+title: "A-Level Tutors for Rochdale Students, One-to-One"
 description: "Is your child's university offer resting on grades they haven't got yet? We'll match Rochdale sixth formers with an online A-Level tutor. From £37, no contract."
 layout: "subject"
 location: "Rochdale"
 level: "A-Level"
 
-hero_heading_line1: "Online Rochdale A-Level Tutors for the Offer Your Child Still Needs to Meet"
+hero_heading_line1: "A-Level Tutors for Rochdale Students"
 hero_heading_line2: ""
 hero_lead: "When the university your child wants is a short train ride into Manchester, the place can feel settled long before the grades are. Our A-Level tutors for Rochdale students work on the subject furthest from the offer, while there's still time to move it."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "“Degree Gap helped my kid go from Cs to As.” Alexander, Parent, on Google"
 
 first_lesson_eyebrow: "SIX TRAINS AN HOUR TO VICTORIA"
-first_lesson_heading: "Why a Rochdale A-Level Tutor Starts With the Offer, Then Works Back"
+first_lesson_heading: "Why an A-Level Tutor for Rochdale Students Starts With the Offer, Then Works Back"
 first_lesson_context: "A student who studies in Manchester, Salford or Huddersfield and still sleeps at home saves a lot of money, but every course sets its own grades all the same. So the A-Level tutor asks what your child is aiming for, reads their last marked paper in the subject furthest from it, and plans back from the autumn of Year 13, when predictions get written."
 first_lesson_quote: "They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Grade C → Grade A"
 
-tutor_strip_heading: "Rochdale A-Level tutors who know the papers behind the offer"
+tutor_strip_heading: "A-Level tutors for Rochdale students who know the papers behind the offer"
 tutor_strip_body: "Each A-Level gets matched on its own board and paper, so your child's Physics tutor and Economics tutor can be two different people. Harry and Joe interview everyone, and roughly 3% of those who apply are accepted. Have a browse, or leave the choice to us."
 
 pathways_heading: "Where Rochdale A-Level Students Head at Eighteen"

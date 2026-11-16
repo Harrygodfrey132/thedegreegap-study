@@ -1,9 +1,9 @@
 ---
-title: "Online Tutors for Your Child in Andover | The Degree Gap"
+title: "Tutors for Your Child in Andover | The Degree Gap"
 description: "Is homework help in Andover falling to whichever parent is home this week? We'll match your child with an online tutor who's there every week. From £37."
 layout: "single"
 location: "Andover"
-banner_heading: "Online tutors for Andover families, for the weeks when it's just one of you at home"
+banner_heading: "GCSE and A-Level Tutors for Andover Families"
 banner_description: "We match your child with one tutor who's there at the same time every week, so the help doesn't depend on who's around that evening."
 content_angle: "one parent at home: with Army Headquarters in town, the garrisons nearby and long commutes, homework help often falls to whoever's in, so a steady weekly tutor and a recorded lesson either parent can watch take some of the weight"
 intro_1: "Some weeks there are two of you for homework. Other weeks there's one, and it's whoever got home first. Andover has a lot of those weeks. The Ministry of Defence is the biggest employer in town, with Army Headquarters at Marlborough Lines and the garrisons at Tidworth and Bulford a short drive away, so plenty of children here have a parent who's away on a course, an exercise or a posting. Others have one on an early train to Waterloo who gets back after the homework is done. Or not done. And the parent at the kitchen table is tired, doing their best with a Year 10 algebra sheet they last saw years ago."

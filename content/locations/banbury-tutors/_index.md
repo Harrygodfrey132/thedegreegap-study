@@ -3,12 +3,12 @@ title: "Banbury Tutoring | Expert Support | The Degree Gap"
 description: "If your child's struggles go back years, our online Banbury tutoring finds where they started and rebuilds from there. One-to-one GCSE and A-Level, from £37."
 layout: single
 location: Banbury
-banner_heading: "Online Banbury tutors who find where your child first got lost, and start there"
+banner_heading: "GCSE and A-Level Tutors for Banbury Families"
 banner_description: "When this week's homework keeps going wrong, the reason is often a topic from years ago. Our tutors look there first."
 content_angle: "foundation gaps: the older topic behind this week's struggle, seen from the parent's side"
 intro_1: "You sit down to help with the homework and it turns out this week's topic isn't really the problem. It's something from Year 8, two years back, that never quite clicked. By GCSE, a gap like that has had time to spread. The algebra the Year 11 textbook treats as old news is the bit your child is still quietly working around. An essay structure mentioned once in Year 10 becomes the reason an English grade won't budge. Most Banbury parents who call us describe some version of this."
 intro_2: "So our tutors find the gap first, then rebuild from there. Not from wherever the syllabus happens to be this week. Whatever school your child is at around Banbury, from The Warriner to Tudor Hall, the reason a tutor helps is usually the same. A teacher with a full class can't pause to reteach a Year 8 method to one child. A one-to-one tutor can, and can go as slowly as your child needs."
-about_heading: "Find the Right Tutor in Banbury"
+about_heading: "Find the Right Tutor for Banbury Students"
 about_image: /images/students-in-classroom-taking-notes.jpg
 schools_intro: "North Oxfordshire has a real mix of schools, and we hear from parents at lots of them, including Blessed George Napier Catholic School, North Oxfordshire Academy, The Warriner School, Chenderit School, Bloxham School and Tudor Hall. Some children are closing GCSE gaps, some are sitting Common Entrance and some are laying the groundwork for A-Level. We work directly with more than 15 UK secondary schools too. And Harry and Joe spend a good part of the week in schools, running revision workshops."
 schools:

@@ -7,7 +7,7 @@ location: "Rochdale"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Rochdale Students Who Leave Statistics and Mechanics Till Last"
+hero_h1: "A-Level Maths Tutors for Rochdale Students"
 hero_lead: "Pure Maths gets the attention, so the applied questions end up revised in a hurry, if at all. Our A-Level Maths tutors for Rochdale students give Statistics and Mechanics proper time, alongside the Pure your child's teachers are already covering."
 
 angle_eyebrow: "THE APPLIED TOPICS, REVISED LAST"

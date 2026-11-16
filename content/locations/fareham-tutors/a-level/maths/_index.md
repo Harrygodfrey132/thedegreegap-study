@@ -1,13 +1,13 @@
 ---
-title: "Fareham A-Level Maths Tutors | Online | The Degree Gap"
+title: "Fareham A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Series questions right, but the paper never finished? Our Fareham A-Level Maths tutors teach your child to spot the type of question first. From £37 an hour."
+description: "Series questions right, but the paper never finished? Our online A-Level Maths tutors teach Fareham students to spot the type of question first. From £37."
 layout: "level-subject"
 location: "Fareham"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Fareham and Portchester Families"
+hero_h1: "A-Level Maths Tutors for Fareham Students"
 hero_lead: "Your child might get the series questions right and still not finish the paper, and how they start each one is often why. Our A-Level Maths tutors for Fareham students teach them to spot the structure before writing anything."
 
 angle_eyebrow: "SPOT IT OR GRIND IT"

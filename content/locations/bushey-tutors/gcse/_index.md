@@ -1,11 +1,11 @@
 ---
 title: "Bushey GCSE Tutors | The Degree Gap"
-description: "One GCSE dragging the rest down? Our Bushey GCSE tutors work one-to-one online on the subject that needs it, starting from your child's own papers. From £37."
+description: "One GCSE dragging the rest down? Our GCSE tutors for Bushey work online on the subject that needs it, starting from your child's own papers. From £37."
 layout: "subject"
 location: "Bushey"
 level: "GCSE"
 
-hero_heading_line1: "Online Bushey GCSE Tutors for the One Subject Pulling Your Child's Grades Down"
+hero_heading_line1: "GCSE Tutors for Bushey Students"
 hero_heading_line2: ""
 hero_lead: "Most of your child's GCSEs might be fine, and then there's the one that comes back a grade or two lower in every mock. Our GCSE tutors for Bushey students focus on that one subject with your child, online and one-to-one, beginning with the last mock."
 
@@ -14,14 +14,14 @@ grade_to: "8"
 grade_stat: "Chamarika's son was predicted a 4-5 in GCSE Physics and came out with an 8."
 
 first_lesson_eyebrow: "WHEN ONE GCSE LAGS BEHIND"
-first_lesson_heading: "What a Bushey GCSE Tutor Looks for in the Weakest Subject"
+first_lesson_heading: "What a GCSE Tutor for Bushey Students Looks for in the Weakest Subject"
 first_lesson_context: "One weak subject matters more than it looks. Sixth forms such as Queens' set their own GCSE grade for each A-Level subject, on top of the general entry rules. So your child's GCSE tutor spends the first hour on that subject's latest paper, finding which questions cost the marks and why."
 first_lesson_quote: "Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s. Thank you to all the 3x tutors."
 first_lesson_quote_name: "Chamarika"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "A predicted 4-5 to an 8 in GCSE Physics"
 
-tutor_strip_heading: "Bushey GCSE tutors picked for the subject that's slipping"
+tutor_strip_heading: "GCSE tutors for Bushey students picked for the subject that's slipping"
 tutor_strip_body: "Your child might be at Bushey Meads, The Grange or Immanuel College, sitting GCSEs or a few iGCSEs. We'll match a tutor to that exact paper and the subject that needs the work. Browse a few below, or tell us about your child and we'll pick."
 
 pathways_heading: "Staying On, Crossing the Border or Starting Work After Bushey GCSEs"

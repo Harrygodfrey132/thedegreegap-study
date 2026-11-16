@@ -1,11 +1,11 @@
 ---
-title: "GCSE Tutors for Bury St Edmunds Students | Online One-to-One"
+title: "GCSE Tutors for Bury St Edmunds Students | One-to-One"
 description: "Is one weak GCSE pulling your child's average down? We'll match Bury St Edmunds students with an online GCSE tutor on their exam board. From £37, no contract."
 layout: "subject"
 location: "Bury St Edmunds"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Bury St Edmunds Teenagers With One Subject Holding Them Back"
+hero_heading_line1: "GCSE Tutors for Bury St Edmunds Students"
 hero_heading_line2: ""
 hero_lead: "Most of your child's subjects are ticking along, but one keeps coming back with a lower mark, and you can see it chipping at their confidence. Our GCSE tutors for Bury St Edmunds students work on that subject until it stops being the weak link."
 

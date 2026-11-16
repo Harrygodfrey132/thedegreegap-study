@@ -7,11 +7,11 @@ location: "Leicester"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors for Leicester Students, Beyond the Minimum Grade"
+hero_h1: "GCSE Maths Tutors for Leicester Students"
 hero_lead: "You've checked, and your child is on course for the college's Maths grade. It still doesn't feel like enough. At Leicester's busiest colleges, lots of other applicants will have that grade too. Our GCSE Maths tutors for Leicester students work online on the marks above it."
 
 angle_eyebrow: "WHY THE PUBLISHED MATHS GRADE IS ONLY A STARTING LINE"
-angle_heading: "What a Leicester GCSE Maths Tutor Works On When Places Are Tight"
+angle_heading: "What a GCSE Maths Tutor for Leicester Students Works On When Places Are Tight"
 angle_body_1: "For most Leicester families, the first real competition for a place comes at 16. The city has no state grammar schools, and the colleges people want most, Wyggeston and Queen Elizabeth I College among them, get far more applications than they have places. That changes what the published entry grade means. It's the grade that gets an application read. It isn't the grade that wins the place. So your child can do everything asked of them and still be behind someone who went further. In Maths, the marks that make that difference sit in a few places. There's ratio in a long, wordy question, algebra hidden inside a geometry problem, and standard form. Then there are the problem-solving questions near the end, which don't say which topic they're testing."
 angle_body_2: "So the first lesson is about finding out, not teaching. Your child's tutor marks a recent paper the way an examiner would, on a whiteboard they can both write on. Then the lost marks get sorted into two kinds: things your child can't do yet, and things they can do but too slowly to finish. A grade can't tell you which it is, and each needs a very different plan. After that it's an hour a week aimed at whichever it turned out to be. And the grade reaches beyond college applications. Caterpillar's technical routes ask for Maths too, and the engineering and space apprenticeships around Space Park Leicester publish minimums of their own."
 angle_image: "/images/student-completing-maths-worksheet.jpg"

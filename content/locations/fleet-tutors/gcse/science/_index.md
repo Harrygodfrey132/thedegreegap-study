@@ -1,13 +1,13 @@
 ---
-title: "Online GCSE Science Tutors for Fleet | The Degree Gap"
+title: "GCSE Science Tutors for Fleet | The Degree Gap"
 nav_title: "Science"
-description: "A 6-5 or a 6-6 in Combined Science can matter for a college course. Our Fleet GCSE Science tutors work on the marks your child is losing. Online, from £37."
+description: "A 6-5 or a 6-6 in Combined Science can matter for a college course. Our GCSE Science tutors for Fleet work on the marks your child is losing. Online, from £37."
 layout: "level-subject"
 location: "Fleet"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Fleet Teenagers"
+hero_h1: "GCSE Science Tutors for Fleet Students"
 hero_lead: "If your child takes Combined Science, the grade comes out as a pair, like 6-5, and near Fleet the second number can matter for a college course. Our GCSE Science tutors for Fleet students work with your child online, one-to-one, starting wherever the marks are slipping."
 
 angle_eyebrow: "6-5 OR 6-6?"

@@ -7,7 +7,7 @@ location: "Enfield"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Your Child in Enfield, From Practicals to Six-Markers"
+hero_h1: "GCSE Science Tutors for Enfield Students"
 hero_lead: "Science marks tend to leak from the six-mark answers and from questions about practicals your child did months ago. Our GCSE Science tutors for Enfield students find your child's biggest leak first, then work outwards, online and one-to-one."
 
 angle_eyebrow: "THE PRACTICAL DONE IN OCTOBER, ASKED ABOUT IN JUNE"

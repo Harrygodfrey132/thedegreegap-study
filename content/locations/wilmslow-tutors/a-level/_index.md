@@ -1,11 +1,11 @@
 ---
-title: "Online A-Level Tutors in Wilmslow | The Degree Gap"
-description: "Same school, harder work? Our Wilmslow A-Level tutors help your child settle into Year 12 before the exams that feed their predicted grades. Online, from £37."
+title: "A-Level Tutors in Wilmslow | The Degree Gap"
+description: "Same school, harder work? Our A-Level tutors for Wilmslow help your child settle into Year 12 before the exams that feed their predicted grades. Online,"
 layout: "subject"
 location: "Wilmslow"
 level: "A-Level"
 
-hero_heading_line1: "Online Wilmslow A-Level Tutors for When Year 12 Suddenly Feels Much Harder"
+hero_heading_line1: "A-Level Tutors for Wilmslow Students"
 hero_heading_line2: ""
 hero_lead: "Has Year 12 knocked your child's confidence after a perfectly good set of GCSEs? Lots of families find the same thing in the autumn term. Our A-Level tutors for Wilmslow students work one-to-one online on the step up, before the Year 12 exams that feed predicted grades."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "One parent wrote that their child went from Cs to As, and got help choosing universities and applying too."
 
 first_lesson_eyebrow: "SAME CORRIDORS, NEW STANDARD"
-first_lesson_heading: "How a Wilmslow A-Level Tutor Spends the First Few Weeks"
+first_lesson_heading: "How an A-Level Tutor for Wilmslow Students Spends the First Few Weeks"
 first_lesson_context: "Your child may well have stayed on at the same Wilmslow school for sixth form, so the corridors feel familiar even when the work doesn't. Cheshire East's A-Level results sit above the national picture, which is nice for the headlines and no help at all when your child's essays keep coming back with the same comment. So the tutor reads that comment, works out what's behind it, and starts there."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Cs to As"
 
-tutor_strip_heading: "Wilmslow A-Level tutors matched on subject, board and personality"
+tutor_strip_heading: "A-Level tutors for Wilmslow students matched on subject, board and personality"
 tutor_strip_body: "Wilmslow High's sixth form and Cheadle & Marple each pick their own exam boards, and at A-Level the board shapes how nearly every question is worded. On the call, we'll check which ones your child sits. Browse a few profiles, or leave the shortlist to us."
 
 pathways_heading: "What Wilmslow Sixth Formers Go On To"

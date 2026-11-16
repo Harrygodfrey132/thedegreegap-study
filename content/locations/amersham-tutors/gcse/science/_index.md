@@ -1,13 +1,13 @@
 ---
 title: "GCSE Science Tutors Covering Amersham | The Degree Gap"
 nav_title: "Science"
-description: "Amersham GCSE Science tutors for your child, from half-life graphs to titrations and circuits. Triple or combined, one-to-one online lessons from £37 an hour."
+description: "GCSE Science tutors for Amersham, for your child, from half-life graphs to titrations and circuits. Triple or combined, one-to-one online lessons from £37."
 layout: "level-subject"
 location: "Amersham"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutors for Amersham Families, From Half-Life to Titrations and Circuits"
+hero_h1: "GCSE Science Tutors for Amersham Students"
 hero_lead: "When a Science grade slips, it's rarely across the board. It's usually a few calculation topics and the practical questions. Our GCSE Science tutors for Amersham students find which ones are catching your child out, one-to-one and online, and start there."
 
 angle_eyebrow: "A TOWN THAT MADE ISOTOPES"

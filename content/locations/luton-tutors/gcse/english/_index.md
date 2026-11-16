@@ -7,7 +7,7 @@ location: "Luton"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Luton Parents Call When Language Marks Sit Below Literature"
+hero_h1: "GCSE English Tutors for Luton Students"
 hero_lead: "Literature comes back fine, Language does not, and nobody at home can see why. Our GCSE English tutors for Luton students pull the two papers apart, because they reward different things. Online, one-to-one, an hour a week."
 
 angle_eyebrow: "AN EXTRACT NOBODY HAS SEEN"

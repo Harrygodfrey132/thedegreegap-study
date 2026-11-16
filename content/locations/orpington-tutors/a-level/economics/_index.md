@@ -7,7 +7,7 @@ location: "Orpington"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Orpington Students Who Run Out of Time on the Essays"
+hero_h1: "A-Level Economics Tutors for Orpington Students"
 hero_lead: "Your child knows the theory, then the 25-mark question comes round with twenty minutes left and the evaluation never gets written. Our A-Level Economics tutors for Orpington students teach them to plan quickly and decide their judgement early."
 
 angle_eyebrow: "WHERE THE CLOCK RUNS OUT"

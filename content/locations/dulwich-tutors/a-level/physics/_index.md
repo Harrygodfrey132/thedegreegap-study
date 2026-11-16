@@ -7,7 +7,7 @@ location: "Dulwich"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "A-Level Physics Tutors for Dulwich Students When the Maths Gets in the Way"
+hero_h1: "A-Level Physics Tutors for Dulwich Students"
 hero_lead: "Your child understands the idea, then a fields question needs logarithms and a three-line rearrangement, and the answer falls apart. Our A-Level Physics tutors for Dulwich students make the maths dependable so the physics can show."
 
 angle_eyebrow: "WHERE THE WORKING GOES WRONG"

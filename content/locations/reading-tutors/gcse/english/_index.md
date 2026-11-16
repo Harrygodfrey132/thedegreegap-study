@@ -1,13 +1,13 @@
 ---
-title: "Reading GCSE English Tutors | Online | The Degree Gap"
+title: "Reading GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Two Reading schools can set quite different English texts. Our Reading GCSE English tutors are matched to your child's board and set texts. Online, from £37."
+description: "Two Reading schools can set quite different English texts. Our GCSE English tutors are matched to your child's board and set texts. Online, from £37."
 layout: "level-subject"
 location: "Reading"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Reading Families, Matched to Your Child's Set Texts"
+hero_h1: "GCSE English Tutors for Reading Students"
 hero_lead: "Two teenagers in Reading can both be taking GCSE English Literature and sit very different exams. So our GCSE English tutors for Reading students are matched to your child's actual texts and exam board, not just the name of the subject."
 
 angle_eyebrow: "SAME SUBJECT, DIFFERENT EXAM"
@@ -28,7 +28,7 @@ schools:
   - "The Abbey School"
   - "Little Heath School"
 
-steps_heading: "Finding a Reading GCSE English tutor who knows your child's texts"
+steps_heading: "Finding a GCSE English tutor for Reading students who knows your child's texts"
 steps_lead: "The set texts are the first thing we'll ask about, because in Literature they decide the match. You'll see profiles within a day of the call."
 steps:
   - title: "Tell us the texts"

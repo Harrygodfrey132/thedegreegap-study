@@ -5,7 +5,7 @@ layout: "subject"
 location: "Great Missenden"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Great Missenden Students When the Mocks Don't Match the Homework"
+hero_heading_line1: "GCSE Tutors for Great Missenden Students"
 hero_heading_line2: ""
 hero_lead: "The homework comes back ticked, the teacher says they're trying, and then the mock lands a grade or two lower. Our GCSE tutors for Great Missenden students work out what goes missing once the notes are shut and the clock is running."
 

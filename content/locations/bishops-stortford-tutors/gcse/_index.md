@@ -1,11 +1,11 @@
 ---
 title: "Bishop's Stortford GCSE Tutors | The Degree Gap"
-description: "One weak GCSE can pull down the points total your child's sixth form looks at. Our Bishop's Stortford GCSE tutors find it and lift it, online, from £37 an hour."
+description: "One weak GCSE can pull down the points total your child's sixth form looks at. Our GCSE tutors for Bishop's Stortford find it and lift it, online, from £37."
 layout: "subject"
 location: "Bishop's Stortford"
 level: "GCSE"
 
-hero_heading_line1: "Online Bishop's Stortford GCSE Tutors for the One Grade Pulling the Rest Down"
+hero_heading_line1: "GCSE Tutors for Bishop's Stortford Students"
 hero_heading_line2: ""
 hero_lead: "If one of your child's GCSEs is lagging behind the others, it matters more here than you'd think. Most sixth forms around Bishop's Stortford add eight grades together. Our GCSE tutors for Bishop's Stortford students work one-to-one on the subject that'll lift that total most."
 
@@ -14,14 +14,14 @@ grade_to: "8"
 grade_stat: "Chamarika's son was predicted a 4-5 in Physics and got an 8, after starting tutoring just two months before his exams."
 
 first_lesson_eyebrow: "EIGHT GRADES, ONE TOTAL"
-first_lesson_heading: "What a Bishop's Stortford GCSE Tutor Adds Up Before Teaching"
+first_lesson_heading: "What a GCSE Tutor for Bishop's Stortford Students Adds Up Before Teaching"
 first_lesson_context: "The first session starts with a list, not a lesson: each GCSE, its latest mock grade, and the total your child's sixth form asks for. Once it's all written down, the subject that needs the hour often isn't the one you'd have guessed. And starting late still counts, as the parent below found."
 first_lesson_quote: "Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s. Thank you to all the 3x tutors."
 first_lesson_quote_name: "Chamarika"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Predicted 4-5 to an 8 in GCSE Physics"
 
-tutor_strip_heading: "Bishop's Stortford GCSE tutors chosen for the subject dragging the total"
+tutor_strip_heading: "GCSE tutors for Bishop's Stortford students chosen for the subject dragging the total"
 tutor_strip_body: "At Hockerill it's IGCSEs, and elsewhere in town it could be AQA, Edexcel or OCR, so your child's exam board is the first thing we'll ask about. About 3% of the tutors who apply get through our interviews. Browse the profiles, or let us match for you."
 
 pathways_heading: "Bishop's Stortford at Sixteen: Where Your Child Could Go Next"

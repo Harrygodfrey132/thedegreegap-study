@@ -1,11 +1,11 @@
 ---
-title: "Exeter A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "A big college leaves less time for going through your child's essays. Our Exeter A-Level tutors do exactly that, one-to-one online. Lessons from £37."
+title: "Exeter A-Level Tutors | One-to-One | The Degree Gap"
+description: "A big college leaves less time for going through your child's essays. Our A-Level tutors for Exeter do exactly that, one-to-one online. Lessons from £37."
 layout: "subject"
 location: "Exeter"
 level: "A-Level"
 
-hero_heading_line1: "Online Exeter A-Level Tutors for the Jump From School to a Big College"
+hero_heading_line1: "A-Level Tutors for Exeter Students"
 hero_heading_line2: ""
 hero_lead: "In Year 11, your child's teachers probably knew them and their work well. At a college of thousands there's far less time for that, and it's nobody's fault. Our A-Level tutors for Exeter students put it back, with an hour a week on your child's own essays and answers."
 
@@ -15,7 +15,7 @@ grade_stat: "Once your child knows most of the content, B to A is the step weekl
 grade_card: "aim"
 
 first_lesson_eyebrow: "WHAT CHANGES AFTER YEAR 11"
-first_lesson_heading: "What an Exeter A-Level Tutor Adds to a Big College"
+first_lesson_heading: "What an A-Level Tutor for Exeter Students Adds to a Big College"
 first_lesson_context: "Most Exeter teenagers go on to Exeter College, which offers a choice of subjects a small sixth form can't match. With so many to teach, though, there isn't time to go through your child's essay line by line every week. And that's usually what moves an A-Level grade, since the gap between a B and an A tends to be in how an answer's built, not in what they know."
 
 first_lesson_quote: "My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
@@ -23,7 +23,7 @@ first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "A-Level"
 
-tutor_strip_heading: "Exeter A-Level tutors who know which papers your child sits"
+tutor_strip_heading: "A-Level tutors for Exeter students who know which papers your child sits"
 tutor_strip_body: "At A-Level, the board and the options your child's taking decide which papers they'll sit, so we ask about both on the first call. Every tutor has at least two years' experience, and plenty sat these papers recently. Look through the profiles, or we'll match your child for you."
 
 pathways_heading: "Where Exeter Teenagers Head After Their A-Levels"

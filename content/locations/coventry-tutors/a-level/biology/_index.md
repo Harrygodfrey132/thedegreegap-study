@@ -1,13 +1,13 @@
 ---
-title: "Coventry A-Level Biology Tutors | Online | The Degree Gap"
+title: "Coventry A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Your child can label the heart, but the cardiac cycle graph is where marks go. Our Coventry A-Level Biology tutors help, one-to-one and online, from £37."
+description: "Your child can label the heart, but the cardiac cycle graph is where marks go. Our A-Level Biology tutors for Coventry help, one-to-one and online, from £37."
 layout: "level-subject"
 location: "Coventry"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutoring for Coventry Sixth Formers"
+hero_h1: "A-Level Biology Tutors for Coventry Students"
 hero_lead: "Lots of teenagers can label the heart perfectly and still leave the cardiac cycle graph half blank in a mock. Our A-Level Biology tutors for Coventry students help your child read that graph and explain what each valve is doing, and why."
 
 angle_eyebrow: "WHEN THE HEART BECOMES A GRAPH"

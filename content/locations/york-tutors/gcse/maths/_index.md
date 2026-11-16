@@ -1,13 +1,13 @@
 ---
-title: "York Online GCSE Maths Tutors | The Degree Gap"
+title: "York GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "York GCSE Maths tutors for the grade that keeps being asked for, from sixth form entry to degree applications. Online and one-to-one, from £37 an hour."
+description: "GCSE Maths tutors for York, for the grade that keeps being asked for, from sixth form entry to degree applications. Online and one-to-one, from £37 an hour."
 layout: "level-subject"
 location: "York"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online York GCSE Maths Tutors, for the Grade Everyone Asks to See"
+hero_h1: "GCSE Maths Tutors for York Students"
 hero_lead: "GCSE Maths is the grade that quietly closes doors years later, which is why York parents often ask about it first. Our GCSE Maths tutors for York students teach online, week by week, on the questions that decide where your child's grade lands."
 
 angle_eyebrow: "THE GRADE THAT KEEPS BEING ASKED FOR"
@@ -28,7 +28,7 @@ schools:
   - "Bootham School"
   - "St Peter's School"
 
-steps_heading: "Getting your child started with a York GCSE Maths tutor"
+steps_heading: "Getting your child started with a GCSE Maths tutor for York students"
 steps_lead: "You'll have two or three profiles within a day. If your child is hoping to take A-Level Maths, Year 10 is a better time to start, because there's room to build up the harder topics slowly."
 steps:
   - title: "A free call about where Maths is heading"

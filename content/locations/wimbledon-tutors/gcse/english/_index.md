@@ -7,7 +7,7 @@ location: "Wimbledon"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Wimbledon Students Who Read Well and Write Less Than They Know"
+hero_h1: "GCSE English Tutors for Wimbledon Students"
 hero_lead: "Plenty of bookish children lose GCSE English marks because what they think never quite reaches the page. We match Wimbledon students with an online English tutor who works on analysis and planning, for Language and Literature."
 
 angle_eyebrow: "A READER, NOT YET AN ESSAY WRITER"

@@ -7,7 +7,7 @@ location: "Wallington"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Wallington Students Whose Diagrams Lose Easy Marks"
+hero_h1: "A-Level Economics Tutors for Wallington Students"
 hero_lead: "Your child drew the diagram, so why did the essay lose marks for it? Our online A-Level Economics tutors for Wallington students teach diagrams that are accurate and actually used in the argument, then the evaluation that follows from them."
 
 angle_eyebrow: "THE DIAGRAM THE ESSAY FORGOT"

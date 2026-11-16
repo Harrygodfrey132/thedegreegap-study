@@ -1,13 +1,13 @@
 ---
-title: "Sunbury-on-Thames GCSE English Tutors | Online | The Degree Gap"
+title: "Sunbury-on-Thames GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Is your child thoughtful but too slow to finish timed English essays? Sunbury-on-Thames GCSE English tutors, online, on planning and pacing. From £37."
+description: "Is your child thoughtful but too slow to finish timed English essays? GCSE English tutors for Sunbury-on-Thames, online, on planning and pacing. From £37."
 layout: "level-subject"
 location: "Sunbury-on-Thames"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutoring in Sunbury-on-Thames When Timed Essays Hold the Grade Back"
+hero_h1: "GCSE English Tutors for Sunbury-on-Thames Students"
 hero_lead: "Knowing the texts usually isn't the problem. Your child's English prediction is built from a handful of timed pieces, and that's where it slips. Our GCSE English tutors for Sunbury-on-Thames students work online on getting those pieces finished, and finished well."
 
 angle_eyebrow: "WHERE THE PREDICTION COMES FROM"

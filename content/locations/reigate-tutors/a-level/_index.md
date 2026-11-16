@@ -1,11 +1,11 @@
 ---
 title: "Reigate A-Level Tutors | One-to-One | The Degree Gap"
-description: "More free periods and less checking in Year 12? Reigate A-Level tutors give your child one steady hour a week, one-to-one and online. From £37, no contract."
+description: "More free periods and less checking in Year 12? A-Level tutors for Reigate give your child one steady hour a week, one-to-one and online. From £37, no contract."
 layout: "subject"
 location: "Reigate"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutoring in Reigate for a Year 12 Who's Drifting a Little"
+hero_heading_line1: "A-Level Tutors for Reigate Students"
 hero_heading_line2: ""
 hero_lead: "Sixth form's given your child far more free periods and far fewer people checking the work. And it's the same term the course gets harder. Our A-Level tutors for Reigate students keep one fixed hour a week, one-to-one online, while the rest of the timetable loosens."
 
@@ -14,14 +14,14 @@ grade_to: "C"
 grade_stat: "Joanna's son went from E and U grades to three Cs, after leaving his studying to the last minute."
 
 first_lesson_eyebrow: "MORE FREE PERIODS, FEWER PROMPTS"
-first_lesson_heading: "What a Reigate A-Level Tutor Checks Before Year 12 Gets Away"
+first_lesson_heading: "What an A-Level Tutor for Reigate Students Checks Before Year 12 Gets Away"
 first_lesson_context: "At sixth form nobody walks your child to the library, and a term can slip by before the first assessment says anything. By then the predicted grade's already taking shape. So an A-Level tutor's first lesson looks hard at that assessment: is it the content, or is it that nobody's checking the work each week?"
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to three Cs"
 
-tutor_strip_heading: "Reigate A-Level tutors who know the exam board your child's sixth form chose"
+tutor_strip_heading: "A-Level tutors for Reigate students who know the exam board your child's sixth form chose"
 tutor_strip_body: "Reigate College, St Bede's, Reigate Grammar and Dunottar each pick their own exam boards, and the board shapes nearly every question your child sees. Plenty of our tutors sat these exams recently, and some have marked them. Browse the profiles, or ask us to shortlist two."
 
 pathways_heading: "Where Two Years of Reigate A-Levels Can Lead"

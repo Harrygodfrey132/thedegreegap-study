@@ -7,7 +7,7 @@ location: "Darlington"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Darlington Teenagers With a Sixth Form Course in Mind"
+hero_h1: "GCSE Maths Tutors for Darlington Students"
 hero_lead: "At QE, A-Level Maths, the sciences and Economics all ask for at least a 6 in GCSE Maths, and most other routes at 16 ask about it too. Our GCSE Maths tutors for Darlington students find where your child's marks are going and work on those first."
 
 angle_eyebrow: "ONE GRADE, MOST OF THE MENU"

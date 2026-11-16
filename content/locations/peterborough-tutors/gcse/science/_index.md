@@ -1,13 +1,13 @@
 ---
-title: "Peterborough GCSE Science Tutors | Online | The Degree Gap"
+title: "Peterborough GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Losing Physics marks on the maths, not the science? Our Peterborough GCSE Science tutors rebuild the calculations your child trips on. Online, from £37."
+description: "Losing Physics marks on the maths, not the science? Our GCSE Science tutors for Peterborough rebuild the calculations your child trips on. Online, from £37."
 layout: "level-subject"
 location: "Peterborough"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Covering Peterborough Who Tackle the Maths Behind Lost Science Marks"
+hero_h1: "GCSE Science Tutors for Peterborough Students"
 hero_lead: "Your child says they're bad at Physics? Often it's the maths, like rearranging an equation, that's really letting them down. Our GCSE Science tutors for Peterborough students work online on the maths hiding inside the Science papers."
 
 angle_eyebrow: "THE MATHS INSIDE THE SCIENCE"

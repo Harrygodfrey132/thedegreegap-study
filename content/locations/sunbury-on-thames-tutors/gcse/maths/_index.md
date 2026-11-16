@@ -1,13 +1,13 @@
 ---
-title: "Sunbury-on-Thames GCSE Maths Tutors | Online | The Degree Gap"
+title: "Sunbury-on-Thames GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Always good at Maths, now struggling at GCSE? Our Sunbury-on-Thames GCSE Maths tutors build the reasoning under your child's quick answers, online, from £37."
+description: "Always good at Maths, now struggling at GCSE? Our GCSE Maths tutors for Sunbury-on-Thames build the reasoning under your child's quick answers, online,"
 layout: "level-subject"
 location: "Sunbury-on-Thames"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors Covering Sunbury-on-Thames"
+hero_h1: "GCSE Maths Tutors for Sunbury-on-Thames Students"
 hero_lead: "Maths was always your child's easy subject, so a disappointing GCSE mock can come as a real shock. Our GCSE Maths tutors for Sunbury-on-Thames students slow things down, one-to-one online, and build the reasoning under the quick answers."
 
 angle_eyebrow: "QUICK ISN'T THE SAME AS SECURE"

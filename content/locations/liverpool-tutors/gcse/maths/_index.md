@@ -1,17 +1,17 @@
 ---
-title: "Online GCSE Maths Tutors | Liverpool | The Degree Gap"
+title: "GCSE Maths Tutors | Liverpool | The Degree Gap"
 nav_title: "Maths"
-description: "Liverpool GCSE Maths tutors for children who run out of time before the last page. Online, one-to-one work on pace and the grade 6 and 7 topics. From £37."
+description: "GCSE Maths tutors for Liverpool, for children who run out of time before the last page. Online, one-to-one work on pace and the grade 6 and 7 topics. From £37."
 layout: "level-subject"
 location: "Liverpool"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors Across Liverpool and Merseyside"
+hero_h1: "GCSE Maths Tutors for Liverpool Students"
 hero_lead: "Your child comes out of the Maths mock sure they'd have scored more with another ten minutes. Our GCSE Maths tutors for Liverpool students work online on pace as well as method, so the marks at the back of the paper stop going unclaimed."
 
 angle_eyebrow: "THE LAST PAGES, LEFT BLANK"
-angle_heading: "Why a Liverpool GCSE Maths Tutor Watches the Clock as Well as the Working"
+angle_heading: "Why a GCSE Maths Tutor for Liverpool Students Watches the Clock as Well as the Working"
 angle_body_1: "Running out of time in Maths is rarely about being slow at sums. Watch a child on a 5 work through a paper and the minutes go in three places. Rereading a long question because they can't see where to start. Staying with one hard question for ten minutes, because moving on feels like giving up. Checking easy answers twice. By the last few pages there's nothing left. And that's often where the 6 and 7 questions sit: the sine and cosine rules, simultaneous equations with a quadratic, and proportion problems written in words. It looks like a knowledge gap. Often it's a pacing gap on top of one."
 angle_body_2: "The first lesson takes a section of a recent paper, done against the clock, with the tutor watching where the minutes go. After that, the lessons work on both gaps together. The tutor takes the harder topics one step at a time. Alongside them, your child practises three habits that save time. A quick first read. A line of plan in the margin. And moving on when stuck, knowing they can come back. Clear working helps too, because a half-finished answer can still pick up method marks. Your child might be after A-Level Maths at St Edward's or Blue Coat, or an engineering apprenticeship at Jaguar Land Rover's Halewood plant. It's the same paper and the same clock for both."
 angle_image: "/images/maths-equations-close-up.jpg"

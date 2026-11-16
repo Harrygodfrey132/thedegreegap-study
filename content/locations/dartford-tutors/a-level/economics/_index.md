@@ -7,7 +7,7 @@ location: "Dartford"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Dartford Students Who Find Macro Harder Than Micro"
+hero_h1: "A-Level Economics Tutors for Dartford Students"
 hero_lead: "Supply and demand made sense, then inflation, exchange rates and fiscal policy arrived and your child's essays went vague. Our A-Level Economics tutors for Dartford students give macro the same solid footing, with real examples your child can use in the exam."
 
 angle_eyebrow: "FROM THE DART CHARGE TO THE BANK RATE"

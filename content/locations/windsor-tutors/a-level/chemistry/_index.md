@@ -7,7 +7,7 @@ location: "Windsor"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Windsor Students Finding Year 13 Physical Chemistry Hard Going"
+hero_h1: "A-Level Chemistry Tutors for Windsor Students"
 hero_lead: "Year 13 Chemistry brings buffers, entropy and electrode potentials on top of everything from Year 12, and the calculations get longer at the same time. Our A-Level Chemistry tutors for Windsor students take each one slowly, on whichever board your child is actually sitting."
 
 angle_eyebrow: "TWO BOARDS, ONE SIXTH FORM"

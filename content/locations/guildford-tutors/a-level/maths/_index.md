@@ -1,5 +1,5 @@
 ---
-title: "Guildford A-Level Maths Tutors | Online | The Degree Gap"
+title: "Guildford A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Your child knows the methods but picks the wrong one in trig, logs or integration? Our online A-Level Maths tutors for Guildford work on exactly that. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Guildford"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors Covering Guildford and Godalming"
+hero_h1: "A-Level Maths Tutors for Guildford Students"
 hero_lead: "When the chapter heading tells your child which method to use, they get the question right, but a mixed paper leaves them unsure where to start. Our A-Level Maths tutors for Guildford students practise that choice with them, across trigonometry, logs and integration."
 
 angle_eyebrow: "KNOWING A METHOD ISN'T CHOOSING ONE"
@@ -28,7 +28,7 @@ schools:
   - "St Peter's Catholic School"
   - "Guildford County School"
 
-steps_heading: "Three Steps to a Guildford A-Level Maths Tutor Your Child Likes"
+steps_heading: "Three Steps to an A-Level Maths Tutor for Guildford Students Your Child Likes"
 steps_lead: "Mocks on the horizon? Say so on the call. With profiles the next day, the first lesson needn't wait long."
 steps:
   - title: "A 30-minute call with Harry or Joe"

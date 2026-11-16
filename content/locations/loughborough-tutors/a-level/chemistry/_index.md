@@ -1,5 +1,5 @@
 ---
-title: "Loughborough A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Loughborough A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Marks lost to a minus sign or a miscounted bond? Our online Loughborough A-Level Chemistry tutors practise the energy sums with your child until they stick."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Loughborough"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutoring Around Loughborough"
+hero_h1: "A-Level Chemistry Tutors for Loughborough Students"
 hero_lead: "A lot of the marks your child loses on bond enthalpy come down to one miscounted bond or a minus sign the wrong way round. Our A-Level Chemistry tutors for Loughborough students practise those steps with your child until they stop slipping."
 
 angle_eyebrow: "THE MINUS SIGN THAT COSTS MARKS"
@@ -28,7 +28,7 @@ schools:
   - "Charnwood College"
   - "Limehurst Academy"
 
-steps_heading: "Getting a Loughborough Chemistry Tutor in Three Steps"
+steps_heading: "Getting a Chemistry Tutor for Loughborough Students in Three Steps"
 steps_lead: "Accuracy comes from repetition, so a weekly lesson beats the odd long one. The first tutor profiles usually land the day after your call."
 steps:
   - title: "Talk to one of us"

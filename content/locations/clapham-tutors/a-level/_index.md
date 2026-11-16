@@ -5,7 +5,7 @@ layout: "subject"
 location: "Clapham"
 level: "A-Level"
 
-hero_heading_line1: "A-Level Tutors for Clapham Students in the Year That Doesn't Seem to Count"
+hero_heading_line1: "A-Level Tutors for Clapham Students"
 hero_heading_line2: ""
 hero_lead: "Year 12 usually ends without an exam that counts towards the final grade, so it's easy for your child to coast. But predicted grades are written from it, and every topic returns in Year 13. Our A-Level tutors for Clapham students make that first year count."
 

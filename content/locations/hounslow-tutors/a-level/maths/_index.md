@@ -7,7 +7,7 @@ location: "Hounslow"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "A-Level Maths Tutors for Hounslow Students Who Find Mechanics the Hard Part"
+hero_h1: "A-Level Maths Tutors for Hounslow Students"
 hero_lead: "Pure takes up most of the class time, then a Mechanics question arrives and the method isn't there. Our A-Level Maths tutors for Hounslow students work through moments, projectiles and the Statistics too, one-to-one and online."
 
 angle_eyebrow: "THE APPLIED THIRD"

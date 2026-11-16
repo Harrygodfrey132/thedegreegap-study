@@ -7,7 +7,7 @@ location: "Great Missenden"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Great Missenden Students Facing Mechanics Without A-Level Physics"
+hero_h1: "A-Level Maths Tutors for Great Missenden Students"
 hero_lead: "Pure Maths makes sense to your child, then a Mechanics question asks about friction on a slope and the page stays blank. Our A-Level Maths tutors for Great Missenden students teach the force diagram first, so the equations have something to stand on."
 
 angle_eyebrow: "MECHANICS WITHOUT THE PHYSICS LESSONS"

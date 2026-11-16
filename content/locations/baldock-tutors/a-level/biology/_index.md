@@ -1,13 +1,13 @@
 ---
-title: "Baldock A-Level Biology Tutors | Online | The Degree Gap"
+title: "Baldock A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Did your child watch a Biology practical rather than do it? Our Baldock A-Level Biology tutors go over the practicals online, for AQA, OCR or Edexcel, from £37."
+description: "Did your child watch a Biology practical rather than do it? Our A-Level Biology tutors for Baldock go over the practicals online, for AQA, OCR or Edexcel,"
 layout: "level-subject"
 location: "Baldock"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Baldock, Hitchin and Letchworth"
+hero_h1: "A-Level Biology Tutors for Baldock Students"
 hero_lead: "Ask your child about one of their Biology practicals and you might hear 'we did that one in a group'. Our A-Level Biology tutors for Baldock students go back through each one with your child, because the written papers ask about them in more detail than most teenagers expect."
 
 angle_eyebrow: "SOMEONE ELSE HELD THE PIPETTE"

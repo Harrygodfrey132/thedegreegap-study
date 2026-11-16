@@ -1,13 +1,13 @@
 ---
 title: "Fleet A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Physics and Chemistry both lean on A-Level Maths. Our Fleet A-Level Maths tutors cover pure, mechanics and statistics, one-to-one online. From £37 an hour."
+description: "Physics and Chemistry both lean on A-Level Maths. Our A-Level Maths tutors for Fleet cover pure, mechanics and statistics, one-to-one online. From £37 an hour."
 layout: "level-subject"
 location: "Fleet"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors Helping Fleet Families Through College"
+hero_h1: "A-Level Maths Tutors for Fleet Students"
 hero_lead: "Your child's Physics homework is open on the desk, and it's stalled because the Maths behind it hasn't clicked. Our A-Level Maths tutors for Fleet students help your child one-to-one, online, with the pure, mechanics and statistics, starting with whatever's holding everything else up."
 
 angle_eyebrow: "THE SUBJECT THE OTHERS LEAN ON"

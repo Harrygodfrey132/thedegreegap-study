@@ -7,7 +7,7 @@ location: "Lincoln"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Lincoln Students, Ready for the Non-Calculator Paper"
+hero_h1: "GCSE Maths Tutors for Lincoln Students"
 hero_lead: "Take the calculator away and plenty of capable children slow right down. Our GCSE Maths tutors for Lincoln students rebuild fractions, negatives and algebra by hand, so the non-calculator paper stops being the one your child fears."
 
 angle_eyebrow: "WHEN THE CALCULATOR GOES AWAY"

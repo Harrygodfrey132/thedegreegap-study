@@ -1,11 +1,11 @@
 ---
 title: "Maidstone A-Level Tuition | From £37/hr | The Degree Gap"
-description: "Maidstone A-Level tutors for the topic your child needed explained twice. One-to-one lessons online for Year 12 and 13, from £37 an hour, with no contract."
+description: "A-Level tutors for Maidstone, for the topic your child needed explained twice. One-to-one lessons online for Year 12 and 13, from £37 an hour, with no contract."
 layout: "subject"
 location: "Maidstone"
 level: "A-Level"
 
-hero_heading_line1: "Online Maidstone A-Level Tutors for the Topic Your Child Needed Explained Twice"
+hero_heading_line1: "A-Level Tutors for Maidstone Students"
 hero_heading_line2: ""
 hero_lead: "In Year 12 a topic gets explained once and the class moves on. If your child needed to hear it twice, they'll often just pretend they didn't. Our A-Level tutors for Maidstone students give the second explanation, and a third if that's the one that lands."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "Cs to As for one parent's child, plus help choosing universities and getting the applications in."
 
 first_lesson_eyebrow: "EXPLAINED ONCE, NEEDED TWICE"
-first_lesson_heading: "What a Maidstone A-Level Tutor Explains a Second Time"
+first_lesson_heading: "What an A-Level Tutor for Maidstone Students Explains a Second Time"
 first_lesson_context: "What we hear most from parents of Maidstone Year 12s is that their child was fine at GCSE and has gone quiet about sixth form. Usually one topic was explained once in the autumn, didn't quite land, and everything since has been stacked on top of it. An A-Level tutor's first hour goes looking for it, and it's rarely the one your child names."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Cs to As at A-Level"
 
-tutor_strip_heading: "Maidstone A-Level tutors who teach the topic the class moved past"
+tutor_strip_heading: "A-Level tutors for Maidstone students who teach the topic the class moved past"
 tutor_strip_body: "Maidstone's grammar and school sixth forms, and MidKent College, don't all use the same exam board or module order. So we check your child's course before suggesting anyone, and many tutors sat these papers only a few years ago. Have a browse, or ask us to choose."
 
 pathways_heading: "What Maidstone A-Levels Open Up at Eighteen"

@@ -1,11 +1,11 @@
 ---
 title: "Manchester GCSE Tutors | One-to-One Support | The Degree Gap"
-description: "Is one GCSE grade standing between your child and a place at Xaverian, Loreto or Connell? Our Manchester GCSE tutors work on it one-to-one and online."
+description: "Is one GCSE grade standing between your child and a place at Xaverian, Loreto or Connell? Our GCSE tutors for Manchester work on it one-to-one and online."
 layout: "subject"
 location: "Manchester"
 level: "GCSE"
 
-hero_heading_line1: "Online Manchester GCSE Tutors Who Work on the One Subject Holding Your Child Back"
+hero_heading_line1: "GCSE Tutors for Manchester Students"
 hero_heading_line2: ""
 hero_lead: "The predicted grade in one subject has slipped from a 6 to a 5, and your child's gone a bit quiet about it. Our GCSE tutors for Manchester students spend an hour a week with them after tea, finding the topic behind it. It's often been costing marks for a while."
 
@@ -14,7 +14,7 @@ grade_to: "6/7"
 grade_stat: "A 5 in English became a 6/7 after six months of tutoring, says Omo, whose son was in Year 10."
 
 first_lesson_eyebrow: "A GRADE 5 THAT DIDN'T STAY PUT"
-first_lesson_heading: "Inside Week One With a Manchester GCSE Tutor"
+first_lesson_heading: "Inside Week One With a GCSE Tutor for Manchester Students"
 first_lesson_context: "When Manchester parents ring us, it's usually about a place at Xaverian, Loreto or Connell, not the city's results, which sit below the national average. Each college sets its own entry grades, and the more competitive A-Levels, like the Sciences, Maths and Economics, often want a 6 in that subject. So a 5 in Chemistry might not be enough for A-Level Chemistry, and that one grade is where your child's tutor starts."
 
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7. I honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset. …"
@@ -22,7 +22,7 @@ first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to 6/7 in GCSE English"
 
-tutor_strip_heading: "Manchester GCSE tutors who've worked with Xaverian, Loreto and Connell applicants"
+tutor_strip_heading: "GCSE tutors for Manchester students who've worked with Xaverian, Loreto and Connell applicants"
 tutor_strip_body: "Plenty are Russell Group graduates or undergraduates, and lots of them have helped Year 10s and 11s get one stubborn subject up to the grade a city college looks for. The profiles are below, or book a free call and we'll put a shortlist together."
 
 pathways_heading: "Manchester After Year 11: The Three Main Routes"

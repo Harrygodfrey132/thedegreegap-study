@@ -1,11 +1,11 @@
 ---
 title: "Epsom GCSE Tutors | One-to-One Support | The Degree Gap"
-description: "Epsom GCSE tutors for when your child's grade has stopped climbing. We find the topic holding it back and rebuild it, online and one-to-one, from £37."
+description: "GCSE tutors for Epsom, for when your child's grade has stopped climbing. We find the topic holding it back and rebuild it, online and one-to-one, from £37."
 layout: "subject"
 location: "Epsom"
 level: "GCSE"
 
-hero_heading_line1: "Online Epsom GCSE Tutors for When Your Child's Grade Has Stopped Climbing"
+hero_heading_line1: "GCSE Tutors for Epsom Students"
 hero_heading_line2: ""
 hero_lead: "The mock came back fine. But it's the same grade as last time, and nobody can quite tell you why it's stuck. Our GCSE tutors for Epsom students find the topic holding it back and go over it with your child until the marks start moving again."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "From Omo's review: a Year 10 boy who'd gone cold on English moved up from a grade 5 to a 6/7 over six months."
 
 first_lesson_eyebrow: "WHAT SHIFTED FOR ONE EPSOM FAMILY"
-first_lesson_heading: "What an Epsom GCSE Tutor Does When Effort Stops Paying Off"
-first_lesson_context: "It's hard not to compare notes at the Epsom school gate, where results across the borough sit comfortably above the England average. But a strong average can hide one child whose grade has gone flat while the class keeps moving. An Epsom GCSE tutor finds the topic behind that flat spot and rebuilds it with your child, a step at a time."
+first_lesson_heading: "What a GCSE Tutor for Epsom Students Does When Effort Stops Paying Off"
+first_lesson_context: "It's hard not to compare notes at the Epsom school gate, where results across the borough sit comfortably above the England average. But a strong average can hide one child whose grade has gone flat while the class keeps moving. A GCSE tutor for Epsom students finds the topic behind that flat spot and rebuilds it with your child, a step at a time."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7. I honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset. …"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 6/7 in GCSE English"
 
-tutor_strip_heading: "Epsom GCSE tutors who know the pace Glyn and Rosebery set"
+tutor_strip_heading: "GCSE tutors for Epsom students who know the pace Glyn and Rosebery set"
 tutor_strip_body: "Epsom's competitive without having grammar schools. Whether your child's at Glyn, Rosebery, Blenheim High or Epsom College, we'll check their exam board on the call and match on subject and board, not postcode. Browse the profiles, or let us pick for you."
 
 pathways_heading: "The Next Move After Epsom GCSEs"

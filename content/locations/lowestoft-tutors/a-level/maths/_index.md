@@ -7,7 +7,7 @@ location: "Lowestoft"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Lowestoft Students Stuck When the Maths Comes in Words"
+hero_h1: "A-Level Maths Tutors for Lowestoft Students"
 hero_lead: "Your child can differentiate quickly enough, but hand them a modelling question or a page of text to read first and they don't know where to start. Our A-Level Maths tutors for Lowestoft students teach them to pull the maths out of the words."
 
 angle_eyebrow: "PURE MATHEMATICS AND COMPREHENSION"

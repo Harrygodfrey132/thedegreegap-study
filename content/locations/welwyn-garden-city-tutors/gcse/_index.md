@@ -1,27 +1,27 @@
 ---
-title: "Welwyn Garden City GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "Welwyn Garden City GCSE tutors who trace lost marks back to the topic that never stuck, then rebuild it. Online one-to-one lessons from £37 an hour."
+title: "Welwyn Garden City GCSE Tutors | One-to-One | The Degree Gap"
+description: "GCSE tutors for Welwyn Garden City who trace lost marks back to the topic that never stuck, then rebuild it. Online one-to-one lessons from £37 an hour."
 layout: "subject"
 location: "Welwyn Garden City"
 level: "GCSE"
 
-hero_heading_line1: "Online Welwyn Garden City GCSE Tutors Who Rebuild the Topic That Never Stuck"
+hero_heading_line1: "GCSE Tutors for Welwyn Garden City Students"
 hero_heading_line2: ""
-hero_lead: "'I'm just no good at it.' If you've heard that at home, it often traces back to one Year 9 topic that never went in. Welwyn Garden City GCSE tutors find it first and rebuild it, online and one-to-one."
+hero_lead: "'I'm just no good at it.' If you've heard that at home, it often traces back to one Year 9 topic that never went in. GCSE tutors for Welwyn Garden City students find it first and rebuild it, online and one-to-one."
 
 grade_from: "5"
 grade_to: "6/7"
 grade_stat: "English went from a grade 5 up to 6/7 for Omo's son, over six months of lessons. Omo's review is further down."
 
 first_lesson_eyebrow: "IT OFTEN STARTS IN YEAR 9"
-first_lesson_heading: "Why a Welwyn Garden City GCSE Tutor Might Start With Year 9 Work"
+first_lesson_heading: "Why a GCSE Tutor for Welwyn Garden City Students Might Start With Year 9 Work"
 first_lesson_context: "Lessons have to keep moving, so when a Year 9 topic doesn't quite land for your child, there's rarely time to go back. By Year 11 it doesn't feel like a gap any more, just something they're 'bad at'. With a marked mock in front of them, a GCSE tutor can usually find it in about twenty minutes."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 6/7 in English"
 
-tutor_strip_heading: "Welwyn Garden City GCSE tutors who don't mind going back"
+tutor_strip_heading: "GCSE tutors for Welwyn Garden City students who don't mind going back"
 tutor_strip_body: "Exam boards vary between Monk's Walk, Ridgeway Academy and Stanborough, so we'll ask about your child's. Only about 3% of tutors who apply get onto the platform. Look through the profiles yourself, or we'll suggest two or three."
 
 pathways_heading: "Welwyn Garden City at 16: Three Ways Forward"

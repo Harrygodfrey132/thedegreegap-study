@@ -1,13 +1,13 @@
 ---
 title: "Plymouth GCSE Science Tuition | From £37/hr"
 nav_title: "Science"
-description: "Online GCSE Science tutors covering Plymouth for triple and combined award, from required practicals to the six-mark answers. One-to-one from £37 an hour."
+description: "Online GCSE Science tutors for Plymouth, for triple and combined award, from required practicals to the six-mark answers. One-to-one from £37 an hour."
 layout: "level-subject"
 location: "Plymouth"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science tutors Plymouth parents call when one grade hides three subjects"
+hero_h1: "GCSE Science Tutors for Plymouth Students"
 hero_lead: "Combined Science arrives as a single number, and a single number will not tell you which lesson to worry about. Our GCSE Science tutors for Plymouth students take the three apart first, one-to-one online over Lessonspace, before spending a term on any of them."
 
 angle_eyebrow: "ONE GRADE, THREE TEACHERS"

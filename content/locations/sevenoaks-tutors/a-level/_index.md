@@ -1,11 +1,11 @@
 ---
 title: "Sevenoaks A-Level Tutors | Expert Tutors | The Degree Gap"
-description: "Has an A-Level grade started slipping in Year 13? Sevenoaks A-Level tutors who find where your child's marks are going and win them back. Online, from £37."
+description: "Has an A-Level grade started slipping in Year 13? A-Level tutors for Sevenoaks who find where your child's marks are going and win them back. Online, from £37."
 layout: "subject"
 location: "Sevenoaks"
 level: "A-Level"
 
-hero_heading_line1: "Online Sevenoaks A-Level Tutors for a Grade That's Slipping Before the Exams"
+hero_heading_line1: "A-Level Tutors for Sevenoaks Students"
 hero_heading_line2: ""
 hero_lead: "A subject your child coped with fine in Year 12 can come apart in Year 13, and the predicted grade slides with it. It's more common than you'd think. Our A-Level tutors for Sevenoaks students find where the marks are leaking and win them back, one paper at a time."
 
@@ -14,14 +14,14 @@ grade_to: "C"
 grade_stat: "One parent's son had left studying to the final hour, and still turned E and U grades into three Cs."
 
 first_lesson_eyebrow: "A SEVENOAKS ELEVENTH-HOUR COMEBACK"
-first_lesson_heading: "Where a Sevenoaks A-Level Tutor Starts When a Grade Has Fallen"
+first_lesson_heading: "Where an A-Level Tutor for Sevenoaks Students Starts When a Grade Has Fallen"
 first_lesson_context: "It usually starts with a Year 13 mock that comes back a grade lower than the last one, and nobody at home can quite see why. More often than not the knowledge is there, and it's the depth of the answers that's slipped. An A-Level tutor finds where the marks went on a recent past paper and rebuilds from that point."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to three C grades"
 
-tutor_strip_heading: "Sevenoaks A-Level tutors who start with your child's last paper"
+tutor_strip_heading: "A-Level tutors for Sevenoaks students who start with your child's last paper"
 tutor_strip_body: "Whether your child's at one of the Kent grammars or another school around Sevenoaks, we match on the exam board and the subject that's slipping. Harry or Joe interviewed every tutor, and each has at least two years of tutoring experience. Browse profiles, or we'll match your child."
 
 pathways_heading: "After A-Levels in Sevenoaks: Where Your Child Could Head Next"
@@ -55,7 +55,7 @@ reviews:
   - "Aila|University Applicant|Harry was amazing! He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university! Couldn’t have done it without him–highly recommend to anyone applying to uni."
   - "Charlotte|Student|I cannot recommend Harry enough. He was helpful welcoming and helped me achieve a grade higher than I was expected!"
 
-faq_1_q: "My son's predicted grade is under his Russell Group offer. What can a Sevenoaks A-Level tutor do?"
+faq_1_q: "My son's predicted grade is under his Russell Group offer. What can an A-Level tutor for Sevenoaks students do?"
 faq_1_a: "Work on the marks he's leaving on the paper. Usually it's not missing content. It's exam technique, and answers that describe things when the question wants him to weigh them up. The tutor marks one of his recent papers, shows him where the higher marks sit, then marks his next go. Start early enough and his teachers see that better work before the prediction goes to UCAS. If it's already gone, his offer rests on the grades he gets in the summer, so the work still counts."
 faq_2_q: "My daughter has left revision late and Year 13 is slipping. Can a tutor still turn it around?"
 faq_2_a: "Often, yes, and it's a big part of what we do later in the year. You're far from the only family in this spot. The tutor won't reteach the whole course. They'll find the papers and topics costing her most and work on those against the clock, along with the technique that wins marks back quickest. Nobody can promise a grade, but a focused few months can still move things a lot."

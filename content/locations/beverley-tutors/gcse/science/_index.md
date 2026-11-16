@@ -1,13 +1,13 @@
 ---
 title: "GCSE Science Tutors for Beverley | The Degree Gap"
 nav_title: "Science"
-description: "Combined or triple, a weak science shows on the certificate. A Beverley GCSE Science tutor can take that one step by step with your child online, from £37."
+description: "Combined or triple, a weak science shows on the certificate. A GCSE Science tutor for Beverley can take that one step by step with your child online, from £37."
 layout: "level-subject"
 location: "Beverley"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Beverley, One Science at a Time"
+hero_h1: "GCSE Science Tutors for Beverley Students"
 hero_lead: "It's common for Biology to be going well while Chemistry calculations or Physics equations drag the Science grade down. Our GCSE Science tutors for Beverley students work out which of the three is dropping marks and spend the lessons on that one."
 
 card_eyebrow: "ONE CALL TO START"

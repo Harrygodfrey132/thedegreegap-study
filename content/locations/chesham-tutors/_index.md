@@ -1,9 +1,9 @@
 ---
 title: "Chesham GCSE and A-Level Tutors | The Degree Gap"
-description: "Bright, but never had to revise? Our Chesham tutors teach your child the subject and how to study it, for the 11+, GCSE and A-Level. From £37, no contract."
+description: "Bright, but never had to revise? Our online tutors teach Chesham students the subject and how to study it, for the 11+, GCSE and A-Level. From £37."
 layout: single
 location: Chesham
-banner_heading: "Fine at School, but Could Do More? Online Chesham Tutors for the 11+, GCSE and A-Level"
+banner_heading: "GCSE and A-Level Tutors for Chesham Families"
 banner_description: "A lot of capable children reach Year 10 without ever having had to revise. Our tutors for Chesham families show your child how, one-to-one and online."
 content_angle: "never had to revise: the capable child who's quietly coasting, in a family that moved out of London for the schools and the space, and a tutor who teaches how to study alongside the subject"
 intro_1: "'Revising' in a lot of Chesham homes looks much the same. Notes open, highlighter out, phone face down but never far away. An hour later very little has gone in, and your child honestly believes they've worked. It's not laziness. Plenty of bright children have simply never needed a method, because until Year 9 or so, listening in class was enough. Then GCSE content arrives in bulk, and a child who's always been fine starts slipping a little without anyone quite noticing. For families who moved out of London for the schools and the space, it can be a strange thing to watch."
@@ -62,7 +62,7 @@ faq_3_q: "How much is it per lesson?"
 faq_3_a: "It depends on the tutor, but lessons start from £37 an hour, with no contract. The first meeting with the tutor is free, and so is a switch if it isn't working."
 faq_4_q: "Why one-to-one rather than a group class?"
 faq_4_a: "Because every minute goes on your child. In a group, a quiet child can get through a whole session without admitting they're lost, while a quick one spends half of it waiting. One-to-one, the tutor adjusts as they go, and there's nowhere for a misunderstanding to hide."
-why_heading: "Beyond the syllabus: what a Chesham tutor adds"
+why_heading: "Beyond the syllabus: what a tutor for Chesham families adds"
 why_para_1: "GCSE courses quietly assume your child already knows how to study on their own. One of the first things a tutor asks is how your child revised for their last test, and the answer's often some version of 'I read over my notes'. The marks tend to match. Notes read three times over feel familiar, and that's easy to mistake for knowing them. But recognising something and writing it down from memory are two different skills, and only one of them gets tested."
 why_para_2: "So alongside the subject, the tutor teaches the method. Short self-tests instead of rereading. Topics revisited on a timetable, so nothing's left until the last minute. Past questions marked against the real mark scheme, so your child sees what the examiner wanted. Homework is small and specific, often a quick recall test. The change you'll notice at home is what revision looks like: less highlighting, and more of your child muttering answers under their breath and checking whether they were right."
 accordion_quality: "Of everyone who applies to join our platform, only about 3% get through. Harry and Joe interview every tutor themselves, listening for someone who knows their subject and can explain it so it sticks, even to a teenager who's never had to work at it before."

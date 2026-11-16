@@ -7,7 +7,7 @@ location: "Buckhurst Hill"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Buckhurst Hill Students Juggling Three Sciences at Once"
+hero_h1: "GCSE Science Tutors for Buckhurst Hill Students"
 hero_lead: "Biology, Chemistry and Physics each come with their own facts and their own maths, and it's easy for one to slip while the other two hold up. Our GCSE Science tutors for Buckhurst Hill students find which science is slipping and fix that one first."
 
 angle_eyebrow: "ONE SCIENCE SLIPPING, TWO HOLDING"

@@ -1,5 +1,5 @@
 ---
-title: "Exeter A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Exeter A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "When your child can explain a mechanism but loses the marks on paper, it's usually notation. Online A-Level Chemistry tutoring for Exeter families, from £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Exeter"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Exeter, One Mechanism at a Time"
+hero_h1: "A-Level Chemistry Tutors for Exeter Students"
 hero_lead: "At the kitchen table, your child can talk you through a mechanism step by step. On paper, the marks still go missing, and it's usually the notation rather than the chemistry. Our A-Level Chemistry tutors for Exeter students work on free radical substitution and on equations that really do balance."
 
 angle_eyebrow: "THE FIRST MECHANISM, AND THE HABITS IT SETS"

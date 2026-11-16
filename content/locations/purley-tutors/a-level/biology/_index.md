@@ -7,7 +7,7 @@ location: "Purley"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Purley Students Facing a Mountain of Content"
+hero_h1: "A-Level Biology Tutors for Purley Students"
 hero_lead: "There's a lot to learn in A-Level Biology, and the long answers expect your child to pull topics together against the clock. Our A-Level Biology tutors for Purley students break it into steps your child can rebuild alone, then practise the questions that link it."
 
 angle_eyebrow: "PATHWAYS, PRACTICALS AND LONG ANSWERS"

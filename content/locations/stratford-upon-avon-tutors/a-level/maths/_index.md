@@ -1,13 +1,13 @@
 ---
-title: "Stratford-upon-Avon A-Level Maths Tutors | Online | The Degree Gap"
+title: "Stratford-upon-Avon A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Does your child find one answer to a trig equation and miss the rest? Our Stratford-upon-Avon A-Level Maths tutors fix that, online and one-to-one, from £37."
+description: "Does your child find one answer to a trig equation and miss the rest? Our A-Level Maths tutors for Stratford-upon-Avon fix that, online, from £37."
 layout: "level-subject"
 location: "Stratford-upon-Avon"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Stratford-upon-Avon, Matched on Exam Board"
+hero_h1: "A-Level Maths Tutors for Stratford-upon-Avon Students"
 hero_lead: "If your child's losing marks on trigonometric equations, they've usually found a right answer. Just not all of them. Our A-Level Maths tutors for Stratford-upon-Avon students work on the interval, and on why the other solutions get missed."
 
 angle_eyebrow: "THE ANSWERS THAT WERE THERE ALL ALONG"

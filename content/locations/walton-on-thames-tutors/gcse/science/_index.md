@@ -7,7 +7,7 @@ location: "Walton-on-Thames"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Walton-on-Thames Students Losing Marks in One Science"
+hero_h1: "GCSE Science Tutors for Walton-on-Thames Students"
 hero_lead: "Biology goes fine, then Physics or Chemistry pulls the whole Science grade down, and your child can't see why. Our GCSE Science tutors for Walton-on-Thames students find the weaker science, and the kinds of question it's costing, before the next mock."
 
 angle_eyebrow: "SIX PAPERS, ONE PAIR OF GRADES"

@@ -1,13 +1,13 @@
 ---
 title: "GCSE English Tutoring for Stamford | The Degree Gap"
 nav_title: "English"
-description: "If your child reads a lot but the English grade won't shift, our Stamford GCSE English tutors can work on the timed writing behind it, online. From £37."
+description: "If your child reads a lot but the English grade won't shift, our GCSE English tutors for Stamford can work on the timed writing behind it, online. From £37."
 layout: "level-subject"
 location: "Stamford"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Stamford Teenagers"
+hero_h1: "GCSE English Tutors for Stamford Students"
 hero_lead: "Your child gets through a book a week, yet the English mock still comes back lower than all that reading deserves. Our GCSE English tutors for Stamford students help your child explain a writer's choices properly, against the clock, in one-to-one lessons online."
 
 angle_eyebrow: "WRITING AGAINST THE CLOCK"
@@ -40,7 +40,7 @@ steps:
 
 faqs:
   - q: "My child can spot every technique in an extract. Why isn't that enough for the higher marks?"
-    a: "Because spotting is only the start. Plenty of children name a technique in an extract or a poem and stop there, without saying what it does to the reader, and that's where the higher marks sit. Comparison questions catch people out too, when two texts get written about one after the other instead of side by side. Then there's the time limit. A Stamford tutor works on all of this with timed GCSE English questions from your child's own board, so the explaining gets quicker as well as deeper."
+    a: "Because spotting is only the start. Plenty of children name a technique in an extract or a poem and stop there, without saying what it does to the reader, and that's where the higher marks sit. Comparison questions catch people out too, when two texts get written about one after the other instead of side by side. Then there's the time limit. A tutor for Stamford families works on all of this with timed GCSE English questions from your child's own board, so the explaining gets quicker as well as deeper."
   - q: "The school's predicted my child a 4 in English. Is that fixed?"
     a: "No. A predicted grade is the school's best estimate from the work it's seen so far, and the work can change. In English, a lot of marks come down to habits, like explaining rather than describing, or planning before writing, and habits respond to practice. We'd never promise a particular grade. What a tutor can do is find which habits cost marks in the mock and work on those, using papers from your child's own board. If a sixth form place hangs on a 4 or a 5 in English Language, it's worth starting sooner rather than later."
   - q: "How much English work should my child do between lessons?"

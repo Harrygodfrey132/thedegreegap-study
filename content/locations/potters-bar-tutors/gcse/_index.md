@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors in Potters Bar | The Degree Gap"
-description: "One subject a grade behind the rest? Our Potters Bar GCSE tutors start from your child's last marked paper and work one-to-one online. From £37 an hour."
+title: "GCSE Tutors in Potters Bar | The Degree Gap"
+description: "One subject a grade behind the rest? Our GCSE tutors for Potters Bar start from your child's last marked paper and work one-to-one online. From £37 an hour."
 layout: "subject"
 location: "Potters Bar"
 level: "GCSE"
 
-hero_heading_line1: "Online Potters Bar GCSE Tutors for the Subject That Won't Budge"
+hero_heading_line1: "GCSE Tutors for Potters Bar Students"
 hero_heading_line2: ""
 hero_lead: "Your child's revising, the effort's real, and one subject still sits a grade below where it should. Our GCSE tutors for Potters Bar students work out why from a recent paper, then tackle it with your child a topic at a time, in one-to-one lessons online."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "In Omo's words, her Year 10 son 'improved from a grade 5 to a 6/7' in English."
 
 first_lesson_eyebrow: "ENGLISH THAT SUITS A MATHEMATICAL MINDSET"
-first_lesson_heading: "How a Potters Bar GCSE Tutor Reads Last Term's Mock"
+first_lesson_heading: "How a GCSE Tutor for Potters Bar Students Reads Last Term's Mock"
 first_lesson_context: "In most schools, Year 11 mocks feed into the predicted grades that sixth forms and colleges look at. So the GCSE tutor starts from your child's latest marked paper and splits every lost mark into two piles: things they didn't know, and things they knew but didn't get down on paper."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to a 6/7 in GCSE English"
 
-tutor_strip_heading: "Potters Bar GCSE tutors, whichever school your child is at"
+tutor_strip_heading: "GCSE tutors for Potters Bar students, whichever school your child is at"
 tutor_strip_body: "Owen's, Gracewood, Chancellor's and the Barnet schools each choose their own exam boards, subject by subject. So we check your child's before suggesting anyone. Look through a few profiles, or tell us about your child and we'll draw up the shortlist."
 
 pathways_heading: "After GCSEs: Sixth Forms and Colleges Within Reach of Potters Bar"

@@ -1,11 +1,11 @@
 ---
 title: "Slough A-Level Tuition | From £37/hr | The Degree Gap"
-description: "Year 12 mock came back below your child's GCSEs? Our Slough A-Level tutors work one-to-one online to close the gap before predicted grades are set. From £37."
+description: "Year 12 mock came back below your child's GCSEs? Our A-Level tutors for Slough work online to close the gap before predicted grades are set. From £37."
 layout: "subject"
 location: "Slough"
 level: "A-Level"
 
-hero_heading_line1: "A-Level Tutors for Slough Students When the Year 12 Mock Lands Low"
+hero_heading_line1: "A-Level Tutors for Slough Students"
 hero_heading_line2: ""
 hero_lead: "The first Year 12 mock often comes back a grade or two below your child's GCSEs. It's common, but it matters, because schools use Year 12 results when they set predicted grades. Our A-Level tutors for Slough students work one-to-one online to close that gap before an offer depends on it."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "One parent tells us their son finished almost two grades above his Year 13 mock paper."
 
 first_lesson_eyebrow: "A LONDON OFFER, A SLOUGH BEDROOM"
-first_lesson_heading: "What a Slough A-Level Tutor Does When Year 12 Wobbles"
+first_lesson_heading: "What an A-Level Tutor for Slough Students Does When Year 12 Wobbles"
 first_lesson_context: "From home in Slough, your child can reach Brunel, Royal Holloway, Reading and the London universities, and apprenticeships at Heathrow, Mars and Wexham Park. So distance is rarely the worry. The grades are, and a tutor's first job is to sit down with the Year 12 mock that came back low and work out exactly where the marks went."
 first_lesson_quote: "My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
 first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Almost two grades above the Year 13 mock"
 
-tutor_strip_heading: "Slough A-Level tutors who work back from your child's offer"
+tutor_strip_heading: "A-Level tutors for Slough students who work back from your child's offer"
 tutor_strip_body: "Whether it's a grammar sixth form, The Langley Academy or Windsor College, we'll match the tutor to your child's exam board and what they're being taught this year. Harry and Joe interview every tutor themselves. Browse the profiles, or ask us to pick two or three."
 
 pathways_heading: "Where Slough Year 13s Go Next, Often Without Moving Out"

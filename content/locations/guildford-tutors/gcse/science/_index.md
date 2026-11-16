@@ -1,13 +1,13 @@
 ---
-title: "Guildford GCSE Science Tutors | Online | The Degree Gap"
+title: "Guildford GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Some children won't ask questions in a Science lesson. Our Guildford GCSE Science tutors give your child one-to-one time online to ask them all. From £37."
+description: "Some children won't ask questions in a Science lesson. Our GCSE Science tutors for Guildford give your child one-to-one time online to ask them all. From £37."
 layout: "level-subject"
 location: "Guildford"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Helping Guildford Families"
+hero_h1: "GCSE Science Tutors for Guildford Students"
 hero_lead: "Plenty of children sit through a Science lesson lost and say nothing, because asking in front of the whole class feels worse than not knowing. Our GCSE Science tutors for Guildford students give your child one-to-one time online, where 'can you explain that again?' is the whole point."
 
 angle_eyebrow: "THE QUESTIONS YOUR CHILD NEVER ASKS IN CLASS"

@@ -1,5 +1,5 @@
 ---
-title: "Cheltenham A-Level Biology Tutors | Online | The Degree Gap"
+title: "Cheltenham A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
 description: "Does your child know the Biology but run out of time on the paper? Online A-Level Biology tutors for Cheltenham families. From £37 an hour, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Cheltenham"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Cheltenham Families"
+hero_h1: "A-Level Biology Tutors for Cheltenham Students"
 hero_lead: "If your child knows their Biology but keeps leaving the last questions blank, it's often the clock, not the content. Our A-Level Biology tutors for Cheltenham students work on pacing, on mutation and variation, and on the practical questions hiding in the written papers."
 
 angle_eyebrow: "KNOWING IT ISN'T THE SAME AS FINISHING IT"
@@ -28,7 +28,7 @@ schools:
   - "Dean Close School"
   - "Bournside School"
 
-steps_heading: "Three steps to a Cheltenham A-Level Biology tutor for your child"
+steps_heading: "Three steps to an A-Level Biology tutor for your child in Cheltenham"
 steps_lead: "Most Cheltenham families have tutor profiles within 24 hours of the call. Pacing improves with lots of timed practice, so the weeks left matter more than each lesson's length."
 steps:
   - title: "A free call with Harry or Joe"

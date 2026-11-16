@@ -1,5 +1,5 @@
 ---
-title: "Oxford A-Level Maths Tutors | Online | The Degree Gap"
+title: "Oxford A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Early topics like the factor theorem still costing your child marks in Year 13? Online A-Level Maths tutors for Oxford families, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Oxford"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutoring for Oxford Families, Built on the Basics"
+hero_h1: "A-Level Maths Tutors for Oxford Students"
 hero_lead: "You'd think the factor theorem, the Year 12 method for breaking a cubic into brackets, would be finished by Year 13. It keeps coming back to take marks. Our A-Level Maths tutors for Oxford students focus on the three places it slips: the first root, the division and the sketch."
 
 angle_eyebrow: "A YEAR 12 TOPIC THAT NEVER LEAVES"
@@ -28,7 +28,7 @@ schools:
   - "Oxford Spires Academy"
   - "d'Overbroeck's"
 
-steps_heading: "Finding an Oxford A-Level Maths Tutor Who Suits Your Child"
+steps_heading: "Finding an A-Level Maths Tutor for Oxford Students Who Suits Your Child"
 steps_lead: "Most Oxford families have profiles within 24 hours of the call. Starting in Year 12 gives the tutor time to work before predicted grades are written."
 steps:
   - title: "Your free call"
@@ -41,7 +41,7 @@ steps:
 faqs:
   - q: "Which part of A-Level Maths trips up Oxford teenagers most?"
     a: "Polynomials, more often than you'd expect for an early topic, because they come back inside integration, curve sketching and partial fractions right through Year 13. Time goes on finding the first root by trying numbers at random instead of testing the factors of the constant. Accuracy goes when the division's done in the head rather than written out. And sketch marks go when three roots get plotted and joined without thinking about how the curve behaves at each end. All three are habits, and habits change with practice."
-  - q: "Can an Oxford A-Level Maths tutor help with an admissions test as well as the A-Level?"
+  - q: "Can an A-Level Maths tutor for Oxford students help with an admissions test as well as the A-Level?"
     a: "Yes, though they're different pieces of work, so it helps to be clear which you want. The A-Level grade and the prediction come first, because that's what an application turns on. Preparing for an admissions test runs alongside, not instead, and it rewards a different habit: unfamiliar problems with no obvious method, worked through slowly. Mention it on the call if a test's in the plan, because it changes which tutor we'd suggest."
   - q: "Is there a way to see where my child's dropping marks in Maths?"
     a: "Yes: look at where the working stops, not at the topic headings. Full working with a sign error near the end is an accuracy slip, and it's the cheapest to fix. Working abandoned three lines in usually means the wrong method was picked. A blank space means your child didn't recognise the question at all. Those three look the same on a school report, but one marked mock tells them apart quickly."

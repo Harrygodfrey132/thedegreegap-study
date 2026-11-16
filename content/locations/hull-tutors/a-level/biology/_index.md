@@ -7,7 +7,7 @@ location: "Hull"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Hull Sixth Formers Who Can't Yet Link the Topics Together"
+hero_h1: "A-Level Biology Tutors for Hull Students"
 hero_lead: "A-Level Biology asks for more than memory, because the long answers expect your child to join topics together. Our online A-Level Biology tutors work on those answers, the required practicals and the biochemistry that trips plenty of students up."
 
 angle_eyebrow: "WHERE BIOLOGY LEADS IN HULL"

@@ -1,11 +1,11 @@
 ---
 title: "Barnet A-Level Tuition | From £37/hr"
-description: "University offers rest on a predicted grade written months before the exams. Barnet A-Level tutors who start from your child's last mocks. Online, from £37."
+description: "University offers rest on a predicted grade written months before the exams. A-Level tutors for Barnet who start from your child's last mocks. Online, from £37."
 layout: "subject"
 location: "Barnet"
 level: "A-Level"
 
-hero_heading_line1: "Online Barnet A-Level Tutors for the Predicted Grade Your Child's Offers Rest On"
+hero_heading_line1: "A-Level Tutors for Barnet Students"
 hero_heading_line2: ""
 hero_lead: "Universities make their offers on your child's predicted grade, and the school writes that months before anyone sits a paper. Our A-Level tutors for Barnet students plan for that, not just June, starting from what the last mocks really showed. Lessons are one-to-one and online."
 
@@ -14,14 +14,14 @@ grade_to: "A"
 grade_stat: "One parent's review puts it simply: Cs to As, with help on university choices as well."
 
 first_lesson_eyebrow: "THE NUMBER THAT TRAVELS EARLY"
-first_lesson_heading: "How a Barnet A-Level Tutor Works Backwards From the Prediction"
+first_lesson_heading: "How an A-Level Tutor for Barnet Students Works Backwards From the Prediction"
 first_lesson_context: "It's easy to think of June as the deadline, but offers are made much earlier. Your child's predictions are built from Year 12 work and the first weeks of Year 13, and many offers arrive before spring. So an A-Level tutor plans backwards from the prediction, with the Year 12 work that feeds it first in line."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "C grades to A grades at A-Level"
 
-tutor_strip_heading: "Barnet A-Level tutors who check the exam board before anything else"
+tutor_strip_heading: "A-Level tutors for Barnet students who check the exam board before anything else"
 tutor_strip_body: "Sixth forms around the borough use different boards, and sometimes different options within one, so we confirm your child's first. A tutor who knows that course also knows which Year 12 topics Year 13 leans on hardest. Browse the tutors below, or ask us to choose."
 
 pathways_heading: "What Comes After A-Levels in Barnet"

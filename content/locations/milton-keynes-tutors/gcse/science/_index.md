@@ -1,12 +1,12 @@
 ---
-title: "Milton Keynes GCSE Science Tutors | Online | The Degree Gap"
-description: "Has your child decided they're 'just not a science person'? Our Milton Keynes GCSE Science tutors find where it went wrong. Online, from £37 an hour."
+title: "Milton Keynes GCSE Science Tutors | The Degree Gap"
+description: "Has your child decided they're 'just not a science person'? Our GCSE Science tutors for Milton Keynes find where it went wrong. Online, from £37 an hour."
 layout: "level-subject"
 location: "Milton Keynes"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "One-to-One Online GCSE Science Tutors in Milton Keynes"
+hero_h1: "GCSE Science Tutors for Milton Keynes Students"
 hero_lead: "'I'm just not a science person' is something we hear a lot, usually from a child who was doing fine until one topic stopped making sense. Our GCSE Science tutors for Milton Keynes students find where it went wrong and build back up from there, one-to-one and online."
 
 angle_eyebrow: "'NOT A SCIENCE PERSON'"

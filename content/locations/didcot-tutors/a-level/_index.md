@@ -1,11 +1,11 @@
 ---
 title: "Didcot A-Level Tutors | One-to-One Support | The Degree Gap"
-description: "Revision left late, or Year 12 a bigger step than expected? Our Didcot A-Level tutors work online, one-to-one, with your child on what matters. From £37."
+description: "Revision left late, or Year 12 a bigger step than expected? Our A-Level tutors for Didcot work online, one-to-one, with your child on what matters. From £37."
 layout: "subject"
 location: "Didcot"
 level: "A-Level"
 
-hero_heading_line1: "Online Didcot A-Level Tutors for Sixth Formers With Ground to Make Up"
+hero_heading_line1: "A-Level Tutors for Didcot Students"
 hero_heading_line2: ""
 hero_lead: "Maybe Year 12's been a bigger step than your child expected, or Year 13's arrived with the revision barely started. Our A-Level tutors for Didcot students find where the marks are slipping now and start there, one-to-one and online."
 
@@ -14,7 +14,7 @@ grade_to: "C"
 grade_stat: "Joanna's son had left studying until the final hour, and still turned E and U grades into 3 C grades."
 
 first_lesson_eyebrow: "LEFT IT LATE, STILL TURNED IT ROUND"
-first_lesson_heading: "How a Didcot A-Level Tutor Decides What to Do First"
+first_lesson_heading: "How an A-Level Tutor for Didcot Students Decides What to Do First"
 first_lesson_context: "Whether your child is at Didcot Sixth Form, the UTC or Wallingford, a late start can feel as if it's already decided things. It hasn't. The A-Level tutor goes through their latest marked papers and picks out the topics costing the most marks, so those get the time that's left."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"

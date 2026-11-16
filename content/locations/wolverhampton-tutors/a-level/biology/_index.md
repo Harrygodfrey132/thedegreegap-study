@@ -1,13 +1,13 @@
 ---
-title: "Wolverhampton A-Level Biology Tutors | Online | The Degree Gap"
+title: "Wolverhampton A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Knows the Biology, still loses the marks? Our Wolverhampton A-Level Biology tutors help your child with command words and plant transport. From £37 an hour."
+description: "Knows the Biology, still loses the marks? Our online A-Level Biology tutors help Wolverhampton students with command words and plant transport. From £37."
 layout: "level-subject"
 location: "Wolverhampton"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Wolverhampton, Matched on Exam Board"
+hero_h1: "A-Level Biology Tutors for Wolverhampton Students"
 hero_lead: "Your child says they knew the answer, and the mark scheme still gave them nothing. It happens a lot in A-Level Biology. Our A-Level Biology tutors for Wolverhampton students start with command words and transport in plants, where it tends to show up most."
 
 angle_eyebrow: "ANSWERING THE QUESTION THAT WAS ASKED"
@@ -39,7 +39,7 @@ steps:
     body: "Lessons run online using the platform Lessonspace, with your child's answers on the shared whiteboard. The tutor shows where an explain answer slid back into describing. Every lesson has a replay. From £37 an hour, no contract."
 
 faqs:
-  - q: "My child's thinking about Nursing or another NHS route. Can a Wolverhampton A-Level Biology tutor help?"
+  - q: "My child's thinking about Nursing or another NHS route. Can an A-Level Biology tutor for Wolverhampton students help?"
     a: "Yes, and the grade is the first part of it. Nursing, Biomedical Science and healthcare degree apprenticeships around Wolverhampton and the Black Country each set their own entry grades, and they vary a lot from course to course. Some ask for Biology by name. The predicted grade is what gets an application looked at, so that's where the weekly work goes. Beyond the lessons, Harry and Joe can guide you through subject choices and university applications too."
   - q: "How can I tell whether my child needs a tutor or just more revision?"
     a: "Look at a marked paper, not the grade on the front. If your child can explain the biology to you out loud but the written answer scored badly, that's technique, and a tutor can fix it quickly. If they can't tell you the content either, a proper revision plan does a lot of that work first. And if the marks go in the same place on every paper, whatever the topic, it's command words or structure. That's the cheapest thing on this list to fix."

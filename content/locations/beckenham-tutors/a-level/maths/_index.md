@@ -7,7 +7,7 @@ location: "Beckenham"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Beckenham Students Facing Year 13 Calculus"
+hero_h1: "A-Level Maths Tutors for Beckenham Students"
 hero_lead: "Year 13 Maths sits right on top of Year 12, so a wobble with differentiation last spring turns into real trouble with integration this autumn. Our A-Level Maths tutors for Beckenham students find the Year 12 root first, then work forward."
 
 angle_eyebrow: "WHEN YEAR 12 COMES BACK TO BITE"

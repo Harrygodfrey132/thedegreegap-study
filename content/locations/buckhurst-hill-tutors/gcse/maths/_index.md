@@ -7,7 +7,7 @@ location: "Buckhurst Hill"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Buckhurst Hill Students Who Skip the Working"
+hero_h1: "GCSE Maths Tutors for Buckhurst Hill Students"
 hero_lead: "Your child works the answer out in their head, writes down one number, and loses marks because the examiner can't see how they got there. Our GCSE Maths tutors for Buckhurst Hill students teach working that earns method marks, even when the final answer slips."
 
 angle_eyebrow: "THE ANSWER WITHOUT THE WORKING"

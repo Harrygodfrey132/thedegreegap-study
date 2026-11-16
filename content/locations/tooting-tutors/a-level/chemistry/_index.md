@@ -7,7 +7,7 @@ location: "Tooting"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Tooting Students Who Lose Marks on the Explanations"
+hero_h1: "A-Level Chemistry Tutors for Tooting Students"
 hero_lead: "The calculation comes out right, then a question asks why boiling points rise along the alkanes and your child writes one vague line. Our A-Level Chemistry tutors for Tooting students teach the precise wording those explanation marks are given for."
 
 angle_eyebrow: "THE WORDS THE MARK SCHEME WANTS"

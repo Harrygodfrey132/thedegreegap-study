@@ -1,13 +1,13 @@
 ---
-title: "GCSE Maths Tutors Covering Bristol | Online | The Degree Gap"
+title: "GCSE Maths Tutors Covering Bristol | The Degree Gap"
 nav_title: "Maths"
-description: "Bristol GCSE Maths tutors matched to your child's exam board and to the part of the higher paper that's costing marks. Online, one-to-one, from £37 an hour."
+description: "GCSE Maths tutors for Bristol matched to your child's exam board and to the part of the higher paper that's costing marks. Online, one-to-one, from £37 an hour."
 layout: "level-subject"
 location: "Bristol"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Bristol, Matched to Your Child's Paper"
+hero_h1: "GCSE Maths Tutors for Bristol Students"
 hero_lead: "You can see the extra hours going in, and the Maths mark still won't budge. That's often when Bristol parents ring us. Our GCSE Maths tutors for Bristol students mark a recent higher paper with your child before planning anything, because the problem is usually smaller than it looks from home."
 
 angle_eyebrow: "WHY THE BACK OF THE PAPER MATTERS IN BRISTOL"

@@ -1,11 +1,11 @@
 ---
-title: "GCSE Tutors for Ampthill Students, Online One-to-One | The Degree Gap"
+title: "GCSE Tutors for Ampthill Students, One-to-One | The Degree Gap"
 description: "Has a GCSE topic from Year 9 come back to haunt your child? We'll match your Ampthill teenager with an online GCSE tutor on their exam board. From £37 an hour."
 layout: "subject"
 location: "Ampthill"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Ampthill Students Whose Year 9 Topics Have Faded"
+hero_heading_line1: "GCSE Tutors for Ampthill Students"
 hero_heading_line2: ""
 hero_lead: "By the Year 11 mocks, some of what your child is tested on was taught nearly two years earlier, in their first months at a new school. Our GCSE tutors for Ampthill students find the early topics that have faded and rebuild them before the papers that count."
 
@@ -14,7 +14,7 @@ grade_to: "8"
 grade_stat: "“My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring.” Chamarika, parent, on Trustpilot"
 
 first_lesson_eyebrow: "WHAT YEAR 9 LEAVES BEHIND"
-first_lesson_heading: "Why an Ampthill GCSE Tutor Starts With Work From Year 9"
+first_lesson_heading: "Why a GCSE Tutor for Ampthill Students Starts With Work From Year 9"
 first_lesson_context: "Redborne begins its GCSE courses in the June of Year 9, so the Year 11 mocks ask about topics your child met while they were still finding their way round a new school. A GCSE tutor goes back through those early units first, and that's worth doing even with only a few months left."
 first_lesson_quote: "We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s."
 first_lesson_quote_name: "Chamarika"

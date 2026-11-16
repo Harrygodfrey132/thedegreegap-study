@@ -1,9 +1,9 @@
 ---
 title: "Chester Tutoring | Expert Support | The Degree Gap"
-description: "Chester tutors for the child who keeps quiet in class: online, one-to-one GCSE and A-Level lessons where no question is too basic. From £37, no contract."
+description: "Tutors for Chester, for the child who keeps quiet in class: online, one-to-one GCSE and A-Level lessons where no question is too basic. From £37, no contract."
 layout: "single"
 location: "Chester"
-banner_heading: "Chester GCSE and A-Level Tutors, Online and One-to-One, for the Child Who Keeps Quiet in Class"
+banner_heading: "GCSE and A-Level Tutors for Chester Families"
 banner_description: "If your child has gone quiet in lessons, small gaps can grow without anyone noticing. With a tutor, one-to-one, there's finally room to ask the questions they've been sitting on."
 content_angle: "the quiet child: bright and polite, but has stopped asking questions in class, so small gaps grow unnoticed"
 intro_1: "'A pleasure to teach. Could contribute more.' If you've read something like that on a report, you'll recognise the type. Your child is bright and polite and does the homework, but they'd rather get something wrong quietly than ask in front of thirty classmates. So a small gap in Year 9 stays a gap. Then another joins it. By the time the marks slide, your child has often decided the subject isn't for them. Chester parents raise this with us more than almost anything else."

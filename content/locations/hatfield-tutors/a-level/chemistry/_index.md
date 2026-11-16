@@ -1,5 +1,5 @@
 ---
-title: "Hatfield A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Hatfield A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Rate tables turning into guesswork? Our online Hatfield A-Level Chemistry tutors teach your child a step-by-step routine for orders of reaction. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Hatfield"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutoring Around Hatfield"
+hero_h1: "A-Level Chemistry Tutors for Hatfield Students"
 hero_lead: "Does your child freeze when a kinetics question hands them a table of rates? Our A-Level Chemistry tutors for Hatfield students teach a simple routine for reading it, so the order of reaction stops being a guess."
 
 angle_eyebrow: "THE ANSWER'S IN THE TABLE"

@@ -1,9 +1,9 @@
 ---
-title: "Online Tutors for Your Child in Redhill | The Degree Gap"
+title: "Tutors for Your Child in Redhill | The Degree Gap"
 description: "Has your child in Redhill gone quiet about a subject that's slipping? We'll match them with an online tutor who suits them. From £37 an hour, no contract."
 layout: "single"
 location: "Redhill"
-banner_heading: "Online tutors for Redhill teenagers who keep their questions to themselves"
+banner_heading: "GCSE and A-Level Tutors for Redhill Families"
 banner_description: "We match your child with a tutor who knows their exam board, so the question they'd never ask in a class of thirty finally gets asked, and answered."
 content_angle: "the quiet middle: capable children in big Redhill schools (St Bede's has more than 1,700 pupils, Carrington around a thousand) who cause no trouble, ask nothing and drift until a mock shows the gap; plus the move at sixteen for Carrington and Merstham Park pupils"
 intro_1: "Parents' evening at a big school goes quickly. Five minutes, a smile, and the line you've heard before: no trouble at all, works quietly. Then a mock comes home with a grade nobody mentioned. If that's been your autumn, you're far from the only Redhill parent it's happened to. St Bede's has more than 1,700 pupils and Carrington around a thousand, and in any class of thirty the children who struggle out loud tend to get noticed first. The quiet ones can drift for a whole term before anyone, your child included, can say what's gone wrong."

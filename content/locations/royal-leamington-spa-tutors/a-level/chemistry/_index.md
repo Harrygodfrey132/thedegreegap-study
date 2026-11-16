@@ -1,5 +1,5 @@
 ---
-title: "Royal Leamington Spa A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Royal Leamington Spa A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Alkenes are often where A-Level Chemistry marks start to slip. Online tutors for Royal Leamington Spa families work on your child's curly arrows. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Royal Leamington Spa"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutoring in Royal Leamington Spa, for Year 12 and Year 13"
+hero_h1: "A-Level Chemistry Tutors for Royal Leamington Spa Students"
 hero_lead: "Lots of teenagers cope fine with Chemistry until alkenes, because that's where the curly arrows start being marked strictly. Our A-Level Chemistry tutors for Royal Leamington Spa students work on electrophilic addition, carbocation stability and the polymer questions that follow."
 
 angle_eyebrow: "WHERE THE ARROWS START COUNTING"
@@ -28,7 +28,7 @@ schools:
   - "Campion School"
   - "Arnold Lodge School"
 
-steps_heading: "Your first steps to an online A-Level Chemistry tutor in Royal Leamington Spa"
+steps_heading: "Your first steps to an online A-Level Chemistry tutor for Royal Leamington Spa students"
 steps_lead: "Most Leamington families have tutor profiles the day after the call. Drawing mechanisms improves with practice spread over weeks, so a steady start beats a late cram."
 steps:
   - title: "Talk to us first"

@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutoring for Doncaster Students | The Degree Gap"
+title: "GCSE Tutoring for Doncaster Students | The Degree Gap"
 description: "Mocks coming up and college forms due? We'll match your child in Doncaster with an online GCSE tutor on their exam board. A free call first, from £37 an hour."
 layout: "subject"
 location: "Doncaster"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Doncaster Students Facing Mocks and College Applications"
+hero_heading_line1: "GCSE Tutors for Doncaster Students"
 hero_heading_line2: ""
 hero_lead: "Year 11 crams a lot into one winter: mocks, predicted grades and forms for whatever comes next. Our GCSE tutors for Doncaster students start with your child's latest paper and spend each lesson on the marks that will move fastest."
 

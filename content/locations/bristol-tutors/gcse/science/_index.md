@@ -7,7 +7,7 @@ location: "Bristol"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Covering Bristol"
+hero_h1: "GCSE Science Tutors for Bristol Students"
 hero_lead: "Your child's report may show one Science grade for three subjects, and it won't tell you which one is dragging. Our GCSE Science tutors for Bristol students mark a recent paper across all three first, then decide what the lessons should focus on."
 
 angle_eyebrow: "WHAT THE SCHOOL REPORT DOESN'T TELL YOU"
@@ -39,7 +39,7 @@ steps:
     body: "An hour a week, one-to-one, in the online classroom Lessonspace. Practicals get laid out piece by piece on a shared screen, and every lesson can be replayed. Near the mocks, some families go up to two a week. From £37 an hour, no contract."
 
 faqs:
-  - q: "My child has their eye on an Airbus or GKN apprenticeship at Filton. Can a Bristol Science tutor help?"
+  - q: "My child has their eye on an Airbus or GKN apprenticeship at Filton. Can a Science tutor for Bristol students help?"
     a: "Yes. On the engineering routes, Science carries real weight alongside Maths. Requirements vary between schemes and change from year to year, so go by the current listing, not what a scheme asked for last time. As a rough guide, a grade 4 or 5 in Maths and English is the usual minimum, and Science matters more on the technical entries. Most schemes also run an assessment before interview. Getting ready for it looks a lot like working through the applied questions on a Physics paper, which a tutor can do with your child."
   - q: "Should we have one tutor for all three sciences, or one each?"
     a: "That depends on where the marks are going. One tutor across all three works well if your child is fairly even across Combined Science and mainly needs someone keeping it all joined up. It keeps the week simple, too. When one subject is clearly weaker, a tutor who knows that subject's practicals and long answers in detail is the better bet. Lots of Bristol families begin with the subject that's hurting most, then add a second if they need it."

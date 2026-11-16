@@ -7,7 +7,7 @@ location: "Walton-on-Thames"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Walton-on-Thames Students Buried in Content"
+hero_h1: "A-Level Biology Tutors for Walton-on-Thames Students"
 hero_lead: "Your child's Biology notes run to hundreds of pages, yet the long answers still miss marks because the topics never get joined up. Our A-Level Biology tutors for Walton-on-Thames students teach your child to link ideas across the course, the way the papers reward."
 
 angle_eyebrow: "ONE ESSAY, TWO YEARS OF TOPICS"

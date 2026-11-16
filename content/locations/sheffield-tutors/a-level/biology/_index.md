@@ -1,13 +1,13 @@
 ---
-title: "Sheffield A-Level Biology Tutors | Online | The Degree Gap"
+title: "Sheffield A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "A Biology mock full of chi-squared and standard deviation can knock your child. Our Sheffield A-Level Biology tutors work on the maths too. Online, from £37."
+description: "A Biology mock full of chi-squared and standard deviation can knock your child. Our A-Level Biology tutors for Sheffield work on the maths too. Online,"
 layout: "level-subject"
 location: "Sheffield"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutoring for Sheffield Families"
+hero_h1: "A-Level Biology Tutors for Sheffield Students"
 hero_lead: "Biology often gets picked as the science without much maths, so the statistics questions in a Year 12 mock can really knock your child's confidence. Our A-Level Biology tutors for Sheffield students give the statistics as much time as the content, online and one-to-one."
 
 angle_eyebrow: "WHEN BIOLOGY ASKS FOR A CALCULATOR"

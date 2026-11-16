@@ -7,7 +7,7 @@ location: "Gravesend"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Gravesend Students Finding Module 5 a Lot to Hold"
+hero_h1: "A-Level Biology Tutors for Gravesend Students"
 hero_lead: "Respiration, photosynthesis, the kidney and the nervous system all arrive in Year 13, and the exam wants them linked, not recited. Our A-Level Biology tutors for Gravesend students help your child turn pages of notes into answers they can explain."
 
 angle_eyebrow: "OCR BIOLOGY A, AT BOTH GRAMMARS"

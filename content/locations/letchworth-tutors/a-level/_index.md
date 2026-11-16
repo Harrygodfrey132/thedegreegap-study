@@ -1,11 +1,11 @@
 ---
 title: "Letchworth A-Level Tutors | One-to-One Support | The Degree Gap"
-description: "Free periods slipping by in Year 12? Our Letchworth A-Level tutors give your child one fixed hour a week and a plan for the rest, one-to-one online. From £37."
+description: "Free periods slipping by in Year 12? Our A-Level tutors for Letchworth give your child one fixed hour a week and a plan for the rest, online. From £37."
 layout: "subject"
 location: "Letchworth"
 level: "A-Level"
 
-hero_heading_line1: "Online Letchworth A-Level Tutors for Year 12 Free Periods That Quietly Drift"
+hero_heading_line1: "A-Level Tutors for Letchworth Students"
 hero_heading_line2: ""
 hero_lead: "Sixth form brings free periods and far less checking up, and for some teenagers the first marked tests are when it shows. Our A-Level tutors for Letchworth students give your child a fixed hour each week, plus a plan for the free periods in between."
 
@@ -14,14 +14,14 @@ grade_to: "C"
 grade_stat: "Joanna's son left studying until the final hour, she says, and still turned E and U grades into three Cs."
 
 first_lesson_eyebrow: "THREE CS AFTER A LATE START"
-first_lesson_heading: "What a Letchworth A-Level Tutor Does With the Hours Between Lessons"
+first_lesson_heading: "What an A-Level Tutor for Letchworth Students Does With the Hours Between Lessons"
 first_lesson_context: "If your child's in the Fearnhill and Highfield sixth form, some lessons may be at the other school, and the gaps around them are theirs to fill. The A-Level tutor looks first at a recent marked test, then helps your child turn those free periods into regular work ahead of the Year 12 exams that predicted grades lean on."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to 3 C grades at A-Level"
 
-tutor_strip_heading: "Letchworth A-Level tutors who know your child's exact course"
+tutor_strip_heading: "A-Level tutors for Letchworth students who know your child's exact course"
 tutor_strip_body: "The same A-Level can be set quite differently from one exam board to the next. So before we suggest anyone, we'll ask which courses and boards your child is taking, wherever they're doing sixth form. A few profiles are below if you'd like a look."
 
 pathways_heading: "Looking Past Year 13 From Letchworth"

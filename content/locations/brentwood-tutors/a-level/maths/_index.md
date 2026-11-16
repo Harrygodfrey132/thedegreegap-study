@@ -7,7 +7,7 @@ location: "Brentwood"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Brentwood Sixth Formers Facing the Year 13 Content"
+hero_h1: "A-Level Maths Tutors for Brentwood Students"
 hero_lead: "Year 13 Maths piles new calculus on top of everything from Year 12, and the final papers mix it all together. Our A-Level Maths tutors for Brentwood students shore up the shaky Year 12 topics, then practise integration and the mixed questions until they hold."
 
 angle_eyebrow: "THREE PAPERS, TWO YEARS OF MATHS"

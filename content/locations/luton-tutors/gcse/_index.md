@@ -1,11 +1,11 @@
 ---
 title: "Luton GCSE Tutors | One-to-One | The Degree Gap"
-description: "Luton GCSE tutors matched on exam board and tier, working the grades post-16 courses in the town read. Online one-to-one, from £37 an hour."
+description: "GCSE tutors for Luton matched on exam board and tier, working the grades post-16 courses in the town read. Online one-to-one, from £37 an hour."
 layout: "subject"
 location: "Luton"
 level: "GCSE"
 
-hero_heading_line1: "GCSE Tutoring for Luton Students That Closes the Foundation Gap Before the Tier Is Decided"
+hero_heading_line1: "GCSE Tutors for Luton Students"
 hero_heading_line2: ""
 hero_lead: "Parents' evening says the same two things every year: capable, needs to push. Our GCSE tutors for Luton students turn that into something you can act on, by finding the topic underneath it. Sessions are online and one-to-one, over Lessonspace."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "“However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.” Omo, a parent, in a Google review about GCSE English"
 
 first_lesson_eyebrow: "THE GAP UNDER THE GRADE"
-first_lesson_heading: "What a Luton GCSE Tutor Finds Two Years Behind the Problem"
+first_lesson_heading: "What a GCSE Tutor for Luton Students Finds Two Years Behind the Problem"
 first_lesson_context: "Results across the borough sit a shade below the national picture, which tells you very little about one student in one classroom. What it does mean is that plenty of capable Luton students reach Year 10 carrying two or three method gaps nobody has had time to go back for. The first hour with a GCSE tutor is spent working out which of them is actually costing marks."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7."
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 → Grade 6/7 in GCSE English"
 
-tutor_strip_heading: "Luton GCSE tutors picked for the board and the tier"
+tutor_strip_heading: "GCSE tutors for Luton students picked for the board and the tier"
 tutor_strip_body: "Denbigh, Challney, Icknield, Stopsley and Lealands don't all sit the same boards, so the board gets confirmed before anybody is put forward. Roughly 3% of applicants clear the founder-led interview. Lessons run one-to-one on Lessonspace, our shared whiteboard. Browse the profiles, or let us match your child."
 
 pathways_heading: "What Sixteen Looks Like for a Luton Year 11"

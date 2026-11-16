@@ -1,13 +1,13 @@
 ---
 title: "GCSE Science Tutors in Wilmslow | The Degree Gap"
 nav_title: "Science"
-description: "Is the Maths inside Physics and Chemistry costing your child Science marks? Our Wilmslow GCSE Science tutors help with triple or combined. Online, from £37."
+description: "Is the Maths inside Physics and Chemistry costing your child Science marks? Our GCSE Science tutors for Wilmslow help with triple or combined. Online, from £37."
 layout: "level-subject"
 location: "Wilmslow"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Covering Wilmslow, for Triple and Combined Science"
+hero_h1: "GCSE Science Tutors for Wilmslow Students"
 hero_lead: "Half the working right and the answer still wrong? When a Chemistry test comes back like that, the problem's often the Maths rather than the science. Our GCSE Science tutors for Wilmslow students find which science is really losing marks, then start with the calculations and long answers that cost most."
 
 card_heading: "Talk to Harry or Joe about your child's Science"

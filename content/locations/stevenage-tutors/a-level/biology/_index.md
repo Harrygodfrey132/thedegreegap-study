@@ -1,13 +1,13 @@
 ---
-title: "Stevenage A-Level Biology Tutors | Online | The Degree Gap"
+title: "Stevenage A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "All that rereading, and the Biology mock still came back low? Our Stevenage A-Level Biology tutors mark your child's written answers weekly, online. From £37."
+description: "All that rereading, and the Biology mock still came back low? Our A-Level Biology tutors for Stevenage mark your child's written answers weekly, online."
 layout: "level-subject"
 location: "Stevenage"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Stevenage Teenagers"
+hero_h1: "A-Level Biology Tutors for Stevenage Students"
 hero_lead: "When your child knows their Biology but the mock says otherwise, the gap is usually in how they write it down. Our A-Level Biology tutors for Stevenage students mark those written answers with your child every week, online and one-to-one, so they can see where the marks go."
 
 angle_eyebrow: "THEY KNOW IT WHEN YOU TEST THEM"

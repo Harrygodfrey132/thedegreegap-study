@@ -1,5 +1,5 @@
 ---
-title: "Aylesbury A-Level Maths Tutors | Online | The Degree Gap"
+title: "Aylesbury A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Online A-Level Maths tutors for Aylesbury families, finding the pattern behind the 'silly mistakes' that cost a strong child the top grade. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Aylesbury"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Aylesbury Teenagers in the Sixth Form"
+hero_h1: "A-Level Maths Tutors for Aylesbury Students"
 hero_lead: "'Silly mistakes,' says your child, and the mock comes back a grade lower than it should. Our A-Level Maths tutors for Aylesbury students look for the pattern behind those slips, because there nearly always is one, and build the habits that catch them."
 
 angle_eyebrow: "WHY THE SILLY MISTAKES KEEP COMING BACK"

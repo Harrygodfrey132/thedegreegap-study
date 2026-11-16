@@ -5,7 +5,7 @@ layout: "subject"
 location: "Gravesend"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Gravesend Students With One Subject They've Given Up On"
+hero_heading_line1: "GCSE Tutors for Gravesend Students"
 hero_heading_line2: ""
 hero_lead: "Most teenagers have one GCSE subject they've quietly stopped trying in, and asking about it at dinner only makes things worse. Our GCSE tutors for Gravesend students find out where it stalled and give your child a reason to try again."
 
@@ -14,7 +14,7 @@ grade_to: "6/7"
 grade_stat: "“However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.” Omo, parent of a GCSE student, on Google"
 
 first_lesson_eyebrow: "THE SUBJECT THEY'D WRITTEN OFF"
-first_lesson_heading: "Why a Gravesend GCSE Tutor Starts With the Subject Your Child Avoids"
+first_lesson_heading: "Why a GCSE Tutor for Gravesend Students Starts With the Subject Your Child Avoids"
 first_lesson_context: "Gravesend's two grammar sixth forms, which both take students from other schools, count six GCSEs, not just English and Maths: Gravesend Grammar asks for two grade 5s and four 6s, and Mayfield for six at grade 5 or above. So the subject your child has written off still matters, and a GCSE tutor's first job is finding the point where it stopped making sense."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject."
 first_lesson_quote_name: "Omo"

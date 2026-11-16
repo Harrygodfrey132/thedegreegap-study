@@ -1,5 +1,5 @@
 ---
-title: "Online GCSE Maths Tutoring for Dorking Families | The Degree Gap"
+title: "GCSE Maths Tutoring for Dorking Families | The Degree Gap"
 nav_title: "Maths"
 description: "Could GCSE Maths hold back your child's sixth form plans in Dorking? We'll match them with an online GCSE Maths tutor on AQA, Edexcel or Eduqas. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Dorking"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Dorking Students Whose Science Plans Depend on Maths"
+hero_h1: "GCSE Maths Tutors for Dorking Students"
 hero_lead: "Your child might love Biology, but at sixteen it's often the Maths grade that decides whether they can carry it on. Our GCSE Maths tutors for Dorking students work on the topics losing the most marks, from algebra to the long problem-solving questions."
 
 angle_eyebrow: "THE GRADE BEHIND THE SCIENCES"

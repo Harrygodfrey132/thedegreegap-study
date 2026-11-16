@@ -1,13 +1,13 @@
 ---
 title: "GCSE Maths Tutors for Fleet Families | The Degree Gap"
 nav_title: "Maths"
-description: "Hoping for A-Level Maths at college? The GCSE grade matters. Our Fleet GCSE Maths tutors steady the shaky topics with your child, online, from £37 an hour."
+description: "Hoping for A-Level Maths at college? The GCSE grade matters. Our GCSE Maths tutors for Fleet steady the shaky topics with your child, online, from £37 an hour."
 layout: "level-subject"
 location: "Fleet"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Fleet Year 10s and 11s"
+hero_h1: "GCSE Maths Tutors for Fleet Students"
 hero_lead: "Maybe your child needs a 4 or 5 for their college course, or something higher for A-Level Maths, and the mocks keep landing just short. Our GCSE Maths tutors for Fleet students pin down the topics behind the lost marks, then rebuild them week by week, one-to-one and online."
 
 angle_eyebrow: "ONE GRADE, MORE THAN ONE COURSE"

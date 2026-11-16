@@ -1,13 +1,13 @@
 ---
 title: "GCSE Science Tutoring for Royston | The Degree Gap"
 nav_title: "Science"
-description: "Combined or triple, your child's Science grades shape their A-Level choices in Baldock or Cambridge. Our Royston GCSE Science tutors help online. From £37."
+description: "Combined or triple, your child's Science grades shape their A-Level choices in Baldock or Cambridge. Our GCSE Science tutors for Royston help online. From £37."
 layout: "level-subject"
 location: "Royston"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Royston and the Villages Nearby"
+hero_h1: "GCSE Science Tutors for Royston Students"
 hero_lead: "Plenty of teenagers cope with Biology and then lose marks on Chemistry and Physics calculations. Our GCSE Science tutors for Royston students pin down which science is costing your child most, then spend the lessons there, online."
 
 card_eyebrow: "FREE SCIENCE CONSULTATION"

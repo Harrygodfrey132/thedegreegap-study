@@ -7,7 +7,7 @@ location: "Huddersfield"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Huddersfield Students Buried Under Two Years of Content"
+hero_h1: "A-Level Biology Tutors for Huddersfield Students"
 hero_lead: "A-Level Biology asks your child to hold two years of content in their head and then link it together in long answers. Our A-Level Biology tutors for Huddersfield students break the pathways into pieces that stick, then practise the joined-up questions AQA sets."
 
 angle_eyebrow: "KREBS, CALVIN AND THE 25-MARK ESSAY"

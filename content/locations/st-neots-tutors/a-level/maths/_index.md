@@ -1,13 +1,13 @@
 ---
 title: "A-Level Maths Tutors in St Neots | The Degree Gap"
 nav_title: "Maths"
-description: "Year 12 Maths homework taking twice as long? Our St Neots A-Level Maths tutors work one-to-one online on Pure, Statistics and Mechanics. From £37 an hour."
+description: "Year 12 Maths homework taking twice as long? Our A-Level Maths tutors for St Neots work one-to-one online on Pure, Statistics and Mechanics. From £37 an hour."
 layout: "level-subject"
 location: "St Neots"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Year 12 and 13 in St Neots"
+hero_h1: "A-Level Maths Tutors for St Neots Students"
 hero_lead: "If your child's Year 12 Maths homework now takes twice as long as it used to, they're far from the only one. Our A-Level Maths tutors for St Neots students find what's slowing your child down, often GCSE algebra that isn't automatic yet, and work on it one-to-one, online."
 
 card_eyebrow: "FREE CONSULTATION"

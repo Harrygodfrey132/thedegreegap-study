@@ -1,11 +1,11 @@
 ---
 title: "Northampton GCSE Tutors | One-to-One | The Degree Gap"
-description: "Northampton GCSE tutors for the Year 11 who revises hard and still gets the same mock grade. One-to-one and online, matched to your child's exam board."
+description: "GCSE tutors for Northampton, for the Year 11 who revises hard and still gets the same mock grade. One-to-one and online, matched to your child's exam board."
 layout: "subject"
 location: "Northampton"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for the Northampton Year 11 Who Revises and Still Stalls"
+hero_heading_line1: "GCSE Tutors for Northampton Students"
 hero_heading_line2: ""
 hero_lead: "The revision goes in, the mock grade doesn't move, and nobody at home can say why. Our GCSE tutors for Northampton students start with that marked paper, not the textbook, in one-to-one lessons online."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "Omo's son went from a grade 5 to a 6/7 in GCSE English after six months with his tutor."
 
 first_lesson_eyebrow: "EFFORT IN, NOTHING MOVING"
-first_lesson_heading: "What a Northampton GCSE Tutor Reads Before Teaching Anything"
+first_lesson_heading: "What a GCSE Tutor for Northampton Students Reads Before Teaching Anything"
 first_lesson_context: "Averages don't tell you much about your own child. Results across West Northamptonshire sit close to the national picture, but plenty of Year 11 revision goes on things your child half knows, while whatever's costing marks never gets named. With a marked paper in front of them, a GCSE tutor can usually tell which is which in about twenty minutes."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 6/7 in English"
 
-tutor_strip_heading: "Northampton GCSE tutors picked for your child's exam board, not their postcode"
+tutor_strip_heading: "GCSE tutors for Northampton students picked for your child's exam board, not their postcode"
 tutor_strip_body: "Northampton schools don't all use the same exam board, and that changes how questions are worded and how the longer answers are marked. So we'll settle your child's board before suggesting anyone. Look through the profiles yourself, or let us suggest two or three."
 
 pathways_heading: "Northampton at 16: Sixth Form, Work or College"

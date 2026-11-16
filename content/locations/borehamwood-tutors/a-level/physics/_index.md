@@ -7,7 +7,7 @@ location: "Borehamwood"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Borehamwood Students Who Can Calculate but Not Explain"
+hero_h1: "A-Level Physics Tutors for Borehamwood Students"
 hero_lead: "Your child can push numbers through the equations, then a question asks why the current falls or the orbit holds, and the answer goes vague. Our A-Level Physics tutors for Borehamwood students teach the explaining as carefully as the calculating."
 
 angle_eyebrow: "WHEN THE QUESTION SAYS 'EXPLAIN'"

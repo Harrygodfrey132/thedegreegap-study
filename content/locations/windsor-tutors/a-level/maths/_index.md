@@ -7,7 +7,7 @@ location: "Windsor"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Windsor Students Finding Pure Maths a Different Subject"
+hero_h1: "A-Level Maths Tutors for Windsor Students"
 hero_lead: "Your child did well at GCSE, and now every A-Level Maths lesson seems to assume something they haven't quite got. Our A-Level Maths tutors for Windsor students go back to the algebra underneath, then build up through calculus and proof at a pace your child can keep."
 
 angle_eyebrow: "70% AT EVERY CHECK-IN"

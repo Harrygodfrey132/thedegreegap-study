@@ -1,11 +1,11 @@
 ---
 title: "GCSE Tutors in Beverley | One-to-One Support | The Degree Gap"
-description: "From the Grammar and the High to Longcroft, our Beverley GCSE tutors find the topics costing your child marks and work on them online. From £37 an hour."
+description: "From the Grammar and the High to Longcroft, our GCSE tutors for Beverley find the topics costing your child marks and work on them online. From £37 an hour."
 layout: "subject"
 location: "Beverley"
 level: "GCSE"
 
-hero_heading_line1: "Online Beverley GCSE Tutors Who Find Where the Marks Slipped Away"
+hero_heading_line1: "GCSE Tutors for Beverley Students"
 hero_heading_line2: ""
 hero_lead: "Most evenings it's 'fine', and then a mock result or a Year 10 report says otherwise. Our GCSE tutors for Beverley students start from your child's last paper and the handful of topics that cost the most marks on it."
 
@@ -14,14 +14,14 @@ grade_to: "6/7"
 grade_stat: "Omo's son went from a grade 5 to a 6/7 in English, she says, and now looks forward to his lessons."
 
 first_lesson_eyebrow: "FROM DISENGAGED TO LOOKING FORWARD"
-first_lesson_heading: "Where a Beverley GCSE Tutor Begins After a Disappointing Mock"
+first_lesson_heading: "Where a GCSE Tutor for Beverley Students Begins After a Disappointing Mock"
 first_lesson_context: "With no grammar school test at ten in the East Riding, the Year 10 mocks are often the first exam that really feels like it counts. A GCSE tutor sits down with that paper first and works out which marks went on the topic itself and which went on nerves or the clock. Often it comes down to a few topics, not the whole subject."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to a 6/7 in GCSE English"
 
-tutor_strip_heading: "Beverley GCSE tutors chosen for the papers your child will sit"
+tutor_strip_heading: "GCSE tutors for Beverley students chosen for the papers your child will sit"
 tutor_strip_body: "Your child's Maths and Science papers can come from different exam boards, so a tutor who knows one may not know the other. These profiles show some of the tutors on our platform. Tell us about your child and we'll suggest who'd fit."
 
 pathways_heading: "What Beverley Year 11s Can Choose Between After the Summer"

@@ -1,13 +1,13 @@
 ---
-title: "Exeter GCSE Science Tutors | Online | The Degree Gap"
+title: "Exeter GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Is Biology getting all the revision and still coming back lowest? Our Exeter GCSE Science tutors move your child's hours onto the marks. From £37, no contract."
+description: "Is Biology getting all the revision and still coming back lowest? Our online GCSE Science tutors move Exeter students' hours onto the marks. From £37."
 layout: "level-subject"
 location: "Exeter"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Covering Exeter"
+hero_h1: "GCSE Science Tutors for Exeter Students"
 hero_lead: "Biology gets most of your child's revision because it feels like the one you can read and learn, and somehow it still comes back lowest of the three. Our GCSE Science tutors for Exeter students usually start by moving those hours around, not adding more."
 
 angle_eyebrow: "WHY THE EASY SCIENCE IS THE ONE LOSING MARKS"
@@ -40,7 +40,7 @@ steps:
     body: "An hour a week in the online classroom Lessonspace. Your child and the tutor write on the same screen, so a calculation gets worked line by line and a graph gets drawn, not described. Every lesson has a replay. From £37 an hour, with prep and feedback included, and no contract."
 
 faqs:
-  - q: "My child's thinking about a Met Office or NHS apprenticeship. Can an Exeter Science tutor help?"
+  - q: "My child's thinking about a Met Office or NHS apprenticeship. Can a Science tutor for Exeter students help?"
     a: "Yes, and the Science grade often matters more on those routes than families expect. The Met Office runs technical and data schemes from its Exeter headquarters, the Royal Devon trust takes healthcare apprentices, and engineering employers across the county run their own. Almost all ask for a minimum in Maths and English, and the technical and clinical ones usually want Science too. So the tutor works towards the published grade, not a vague idea of doing well. Some applications also ask your child to write about practical work, and that's worth practising."
   - q: "Does it make a difference whether the school uses AQA, Edexcel or OCR for Science?"
     a: "A little, and mostly near the top of the paper. The Science is mostly the same whichever board sets it. What changes is the list of required practicals (the experiments every student does in class and can be asked about), how the long answers are worded and how the calculation questions are set out. If your child has been practising another board's practicals, that's one place they'll get caught out. We'll check the board on the call, and the tutor we suggest will know it."

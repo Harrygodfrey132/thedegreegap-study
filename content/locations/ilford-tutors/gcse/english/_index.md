@@ -7,7 +7,7 @@ location: "Ilford"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Ilford Students Who Revise Hard but Still Retell the Plot"
+hero_h1: "GCSE English Tutors for Ilford Students"
 hero_lead: "Your child has flashcards for every quotation and knows each scene by heart, yet the essay still tells the story instead of answering the question. Our GCSE English tutors for Ilford students teach them to argue from the first line, using a few short quotations that fit."
 
 angle_eyebrow: "MORE REVISION, SAME MARK"

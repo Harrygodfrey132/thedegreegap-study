@@ -7,7 +7,7 @@ location: "Windsor"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Windsor Sixth Formers Hitting the Harder Maths of Year 13"
+hero_h1: "A-Level Physics Tutors for Windsor Students"
 hero_lead: "Windsor Schools Sixth Form asks for a 7 in GCSE Maths before A-Level Physics, and by Year 13 it's clear why. Our A-Level Physics tutors for Windsor students make the logs, exponentials and rearranging routine, so your child can concentrate on the physics."
 
 angle_eyebrow: "A 7 IN MATHS TO START"

@@ -7,7 +7,7 @@ location: "Chiswick"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Chiswick Students Stuck on Rate Equations"
+hero_h1: "A-Level Chemistry Tutors for Chiswick Students"
 hero_lead: "Your child can define a rate constant, then a table of initial rates appears and the orders won't come out, let alone the units of k. Our A-Level Chemistry tutors for Chiswick students work through kinetics one experiment at a time."
 
 angle_eyebrow: "THE UNITS OF K"

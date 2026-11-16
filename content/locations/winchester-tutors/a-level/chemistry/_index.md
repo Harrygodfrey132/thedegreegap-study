@@ -1,5 +1,5 @@
 ---
-title: "Winchester A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Winchester A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Winchester A-Level Chemistry tutoring for the kinetics and rate equation questions that decide top grades. One-to-one, online, from £37 an hour, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Winchester"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Winchester, Alresford and Romsey"
+hero_h1: "A-Level Chemistry Tutors for Winchester Students"
 hero_lead: "Your child has always been the one who gets Chemistry, until rate equations arrive and there's nothing left to learn by heart. Our A-Level Chemistry tutors for Winchester students teach the reasoning that takes over from there."
 
 angle_eyebrow: "READING A MECHANISM FROM THE DATA"

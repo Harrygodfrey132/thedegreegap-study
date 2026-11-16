@@ -7,7 +7,7 @@ location: "Fulham"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Fulham Students Stuck Working Out Structures From Spectra"
+hero_h1: "A-Level Chemistry Tutors for Fulham Students"
 hero_lead: "The question shows an infrared spectrum, a mass spectrum and an NMR spectrum, then asks your child to name the molecule. Our A-Level Chemistry tutors for Fulham students teach a calm order for reading the clues, so a page of peaks becomes an answer."
 
 angle_eyebrow: "A PUZZLE IN THREE SPECTRA"

@@ -1,13 +1,13 @@
 ---
 title: "Barnet GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Your child gets the right answers and still drops marks in the working. Our Barnet GCSE Maths tutors start with the marked paper. Online, one-to-one, from £37."
+description: "Your child gets the right answers and still drops marks in the working. Our GCSE Maths tutors for Barnet start with the marked paper. Online, from £37."
 layout: "level-subject"
 location: "Barnet"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Barnet Families, Chasing the Marks Lost in the Working"
+hero_h1: "GCSE Maths Tutors for Barnet Students"
 hero_lead: "Right answer, three marks on offer, two given. If that's what your child's mock looks like, our GCSE Maths tutors for Barnet students start with the marked paper, because the missing marks are usually in the working, not the answer. Every lesson's online and one-to-one."
 
 angle_eyebrow: "WHERE THE MARKS ACTUALLY GO"
@@ -29,7 +29,7 @@ schools:
   - "Ashmole Academy"
   - "The Compton School"
 
-steps_heading: "How your child starts with a Barnet Maths tutor"
+steps_heading: "How your child starts with a Maths tutor for Barnet students"
 steps_lead: "Bring the marked mock to the call if you've got it. The paper itself tells us far more than the grade on the front, and you'll have profiles within a day."
 steps:
   - title: "Tell us what's going on"

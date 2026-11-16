@@ -1,11 +1,11 @@
 ---
 title: "A-Level Tutors Covering Harrow | The Degree Gap"
-description: "Did Year 12 turn out much steeper than GCSE for your child? Harrow A-Level tutors, one-to-one online with a replay of every lesson. From £37, no contract."
+description: "Did Year 12 turn out much steeper than GCSE for your child? A-Level tutors for Harrow, one-to-one online with a replay of every lesson. From £37, no contract."
 layout: "subject"
 location: "Harrow"
 level: "A-Level"
 
-hero_heading_line1: "Online Harrow A-Level Tutors for a Year 12 That's Much Steeper Than GCSE"
+hero_heading_line1: "A-Level Tutors for Harrow Students"
 hero_heading_line2: ""
 hero_lead: "GCSEs felt manageable for your child, but now Year 12 homework eats the whole evening and still comes back marked down. A-Level asks them to choose the method, not just follow one. Our A-Level tutors for Harrow students build that habit before predicted grades are set."
 
@@ -14,7 +14,7 @@ grade_to: "A"
 grade_stat: "A son who beat his Year 13 mock by almost two grades, with a tutor his parent called excellent."
 
 first_lesson_eyebrow: "WHEN THE QUESTION STOPS GIVING HINTS"
-first_lesson_heading: "What a Harrow A-Level Tutor Does in the First Fortnight"
+first_lesson_heading: "What an A-Level Tutor for Harrow Students Does in the First Fortnight"
 first_lesson_context: "At GCSE, most questions give away the method they're after. From Year 12 they don't, so your child can follow everything in class and still freeze in front of a paper. The A-Level tutor's first job is to watch that happen on a real question and work out whether it's the content, picking the method, or nerves."
 first_lesson_quote: "My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
 first_lesson_quote_name: "Daljit"

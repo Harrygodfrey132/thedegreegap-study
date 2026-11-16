@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors for Your Child in Enfield | The Degree Gap"
+title: "GCSE Tutors for Your Child in Enfield | The Degree Gap"
 description: "Is Year 11 piling up on your child in Enfield? We'll match them with an online GCSE tutor who knows the exam board their school uses. Free call first, from £37."
 layout: "subject"
 location: "Enfield"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Enfield Families Facing a Crowded Year 11"
+hero_heading_line1: "GCSE Tutors for Enfield Students"
 hero_heading_line2: ""
 hero_lead: "Mocks and sixth form applications tend to land in the same few weeks of Year 11, and something usually gives. Our GCSE tutors for Enfield students find the subject costing your child most and put the hours there, online and one-to-one."
 

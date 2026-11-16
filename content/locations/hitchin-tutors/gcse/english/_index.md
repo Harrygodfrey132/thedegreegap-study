@@ -1,13 +1,13 @@
 ---
 title: "Hitchin GCSE English Tuition | The Degree Gap"
 nav_title: "English"
-description: "Quotations learnt with the book shut, then a text they've never seen. Hitchin GCSE English tutors help your child with both, online and one-to-one. From £37."
+description: "Quotations learnt with the book shut, then a text they've never seen. GCSE English tutors for Hitchin help your child with both, online. From £37."
 layout: "level-subject"
 location: "Hitchin"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Hitchin Families, From Learning Quotations to Unseen Texts"
+hero_h1: "GCSE English Tutors for Hitchin Students"
 hero_lead: "GCSE English asks your child to remember quotations with the book shut, then write well about a text they've never seen. Two very different skills. Our GCSE English tutors for Hitchin students cover both halves of that, one-to-one and online."
 
 angle_eyebrow: "TWO PAPERS, TWO KINDS OF PRESSURE"

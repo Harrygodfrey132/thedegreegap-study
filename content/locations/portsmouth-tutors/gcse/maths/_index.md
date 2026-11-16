@@ -7,7 +7,7 @@ location: "Portsmouth"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors for Portsmouth Students on Either Tier"
+hero_h1: "GCSE Maths Tutors for Portsmouth Students"
 hero_lead: "Has school put your child on foundation Maths, and you're not sure it's right? It's a worry we hear a lot, and the decision often leans heavily on mock results. Before anything else, our GCSE Maths tutors for Portsmouth students check it against a real paper."
 
 angle_eyebrow: "FOUNDATION OR HIGHER, AND HOW TO CHECK THE CALL"

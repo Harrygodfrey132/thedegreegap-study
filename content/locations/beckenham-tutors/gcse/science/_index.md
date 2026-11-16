@@ -7,7 +7,7 @@ location: "Beckenham"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Beckenham Students Losing Marks on the Maths"
+hero_h1: "GCSE Science Tutors for Beckenham Students"
 hero_lead: "A lot of the marks your child drops in Science are really Maths, like rearranging an equation or reading a gradient off a graph. Our GCSE Science tutors for Beckenham students fix those first, then the six-mark answers, online and one-to-one."
 
 angle_eyebrow: "THE MATHS INSIDE THE SCIENCE"

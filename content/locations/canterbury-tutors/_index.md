@@ -1,9 +1,9 @@
 ---
 title: "Canterbury Tutors | GCSE and A-Level | The Degree Gap"
-description: "Kent Test in Year 6, GCSEs, then A-Levels: our Canterbury tutors help your child at each stage, online and one-to-one, matched to their exam board. From £37."
+description: "Kent Test in Year 6, GCSEs, then A-Levels: our tutors for Canterbury help your child at each stage, online, matched to their exam board. From £37."
 layout: single
 location: Canterbury
-banner_heading: "From Kent Test Practice to A-Level Exams: Online Canterbury Tutors for Every Year in Between"
+banner_heading: "GCSE and A-Level Tutors for Canterbury Families"
 banner_description: "Kent Test practice in Year 5, or a wobbly mock in Year 11? Whatever stage your child is at, we'll help you find a tutor who suits them."
 content_angle: "the long view: calm help from Kent Test practice to A-Level"
 intro_1: "Exams arrive early in a lot of Canterbury homes. There's the Kent Test in Year 6, and before it the practice papers piling up on the side and a timer going off in the next room. The result then helps decide between Simon Langton Boys', Simon Langton Girls', Barton Court Grammar and the other secondaries across the city. It feels like a full stop. But a few years later GCSEs arrive. For plenty of parents it's the Kent Test all over again, only with more subjects and a teenager who'd rather you didn't ask."

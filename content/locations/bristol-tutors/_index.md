@@ -1,9 +1,9 @@
 ---
 title: Bristol Tutoring | Trusted GCSE & A-Level Tutors
-description: "Sixth form entry grades on your mind? Our Bristol tutors find what's costing your child marks and work on that first, online and one-to-one. From £37 an hour."
+description: "Sixth form entry grades on your mind? Our tutors for Bristol find what's costing your child marks and work on that first, online and one-to-one. From £37."
 layout: single
 location: Bristol
-banner_heading: "Online Bristol Tutors for the Grades Your Child's Sixth Form Will Ask For"
+banner_heading: "GCSE and A-Level Tutors for Bristol Families"
 banner_description: "A list of GCSE grades to hit, and a child who isn't sure they'll get there. Our tutors for Bristol families find what's holding the marks back and build the lessons around it."
 content_angle: "sixth form entry grades and comparing with other families, from the parent's side"
 intro_1: "The sixth form prospectus comes home with its list of entry grades, and suddenly Year 11 feels very close. Bristol has no state grammar schools, but that doesn't make this part any calmer. City of Bristol College and SGS College in Filton both set GCSE grades your child would need to reach. And in Redland, Clifton or Cotham you'll probably know families at Clifton College or Bristol Grammar School too. It's hard not to compare. So if one predicted grade is keeping you up at night, you're far from the only one."
@@ -62,7 +62,7 @@ faq_3_q: "Do you have tutors for all my child's subjects?"
 faq_3_a: "Most likely, yes. We cover Maths, English, Biology, Chemistry, Physics, History, Geography, Economics, Psychology, French and more, at GCSE and A-Level. If a subject's missing from that list, just ask and we'll tell you honestly whether we can help."
 faq_4_q: "My child's gaps go back more than a year. Is it too late?"
 faq_4_a: "No. Plenty of the Bristol families we work with are in the same spot, with gaps going back a year or longer. The tutor goes back to where it first went wrong, even if that's a topic from Year 8, and the plan grows from there."
-why_heading: "Knowing it versus showing it: where a Bristol tutor starts"
+why_heading: "Knowing it versus showing it: where a tutor for Bristol families starts"
 why_para_1: "When Bristol parents describe the problem on the call, it rarely sounds dramatic. Your child follows the lesson and keeps up in class. Then they sit down alone with an exam question and there's no method to fall back on. They know the content, loosely. But they haven't had much practice laying out an answer against the clock, or spotting the gap that's quietly costing marks. That space between knowing it and showing it is exactly where a tutor earns their keep."
 why_para_2: "In the first lesson, the tutor looks at your child's recent school work and tries a few past paper questions with them. It isn't a test. They just want to see where the thinking wobbles. If City of Bristol College or SGS College in Filton is the goal, those entry grades are what counts, and a few weeks spent on exam technique and the right topics can change where your child is heading. Parents often hear it before they see it. Less sighing over homework, more 'oh, I get that now'. The marks usually follow."
 accordion_quality: "We interview every tutor ourselves, and good grades on their own won't get anyone through. We're listening for how clearly they explain. If your child is aiming at a sought-after sixth form or a strong university offer, we'll pick someone who knows that standard and how to reach it in exam conditions."

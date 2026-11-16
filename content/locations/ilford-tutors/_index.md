@@ -1,9 +1,9 @@
 ---
-title: "Online Tutoring for Ilford Families | The Degree Gap"
+title: "Tutoring for Ilford Families | The Degree Gap"
 description: "Is your child working hard at school in Ilford but the grades won't shift? We'll match them with an online tutor who finds the gap first. From £37, no contract."
 layout: "single"
 location: "Ilford"
-banner_heading: "Online one-to-one tutors for Ilford families when extra hours haven't moved the grade"
+banner_heading: "GCSE and A-Level Tutors for Ilford Families"
 banner_description: "More practice papers rarely fix a gap nobody has named. A tutor who works with your child alone, once a week, can usually name it in the first lesson."
 content_angle: "a borough where extra help is normal: plenty of Ilford children have done 11+ practice or weekend classes since primary school, and Redbridge's GCSE results run well above the national average, so parents aren't asking whether to get help but why the hours aren't moving the grade; one-to-one lessons find the specific gap, and a recording lets parents see it being fixed"
 intro_1: "In a lot of Ilford homes, extra help isn't new. There were practice books in Year 4, 11+ papers at the kitchen table in Year 5, maybe a Saturday class that carried on long after the test was over. So when a Year 10 report comes home a grade below where everyone hoped, it stings in a particular way. Your child has done the hours. You've paid for them. And somewhere in the family WhatsApp group, a cousin is collecting 8s. Redbridge's GCSE results sit well above the national average, which is lovely for the borough and hard on any child who's started to feel like the only one behind."

@@ -1,13 +1,13 @@
 ---
-title: "Online GCSE Science Tutors | Chesham | The Degree Gap"
+title: "GCSE Science Tutors | Chesham | The Degree Gap"
 nav_title: "Science"
-description: "Biology fine, Physics lost? Our Chesham GCSE Science tutors look at each of your child's sciences on its own, combined or triple, online. Lessons from £37."
+description: "Biology fine, Physics lost? Our GCSE Science tutors for Chesham look at each of your child's sciences on its own, combined or triple, online. Lessons from £37."
 layout: "level-subject"
 location: "Chesham"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors in Chesham, Looking at Each Science on Its Own"
+hero_h1: "GCSE Science Tutors for Chesham Students"
 hero_lead: "Biology comes back fine, Chemistry's a grade lower, and nobody's mentioned Physics since October. Our GCSE Science tutors for Chesham students treat your child's three sciences as three separate problems, because on the exam paper that's exactly what they are."
 
 angle_eyebrow: "ONE SCIENCE GRADE, THREE DIFFERENT PROBLEMS"

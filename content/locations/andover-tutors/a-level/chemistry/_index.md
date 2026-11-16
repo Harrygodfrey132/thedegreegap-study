@@ -7,7 +7,7 @@ location: "Andover"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Andover Students Who Can't Yet Join the Reactions Up"
+hero_h1: "A-Level Chemistry Tutors for Andover Students"
 hero_lead: "Curly arrows, reagents, conditions, and then a question that strings four reactions together: it's often where Year 13 Chemistry comes apart. Our A-Level Chemistry tutors for Andover students build organic up from the reaction types, then practise the long calculations alongside."
 
 angle_eyebrow: "FOUR STEPS FROM A TO B"

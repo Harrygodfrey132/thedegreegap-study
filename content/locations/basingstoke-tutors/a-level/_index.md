@@ -1,11 +1,11 @@
 ---
-title: "Basingstoke A-Level Tutors | Online One-to-One | The Degree Gap"
+title: "Basingstoke A-Level Tutors | One-to-One | The Degree Gap"
 description: "Online Basingstoke A-Level tutors for the one subject that's started to slip. A free call with Harry or Joe first, then 2 or 3 tutor profiles within 24 hours."
 layout: "subject"
 location: "Basingstoke"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors in Basingstoke for the One Subject That's Slipping"
+hero_heading_line1: "A-Level Tutors for Basingstoke Students"
 hero_lead: "Often it isn't all three A-Levels. Just the one. You can hear it in the way your child talks about it. Our A-Level tutors for Basingstoke students start with that subject, and with the last test that didn't go well."
 
 grade_from: "C"
@@ -21,7 +21,7 @@ first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "A-Level"
 
-tutor_strip_heading: "Basingstoke A-Level tutors for the subject that's worrying you"
+tutor_strip_heading: "A-Level tutors for Basingstoke students, for the subject that's worrying you"
 tutor_strip_body: "Book a free call and tell Harry or Joe, our co-founders, which subject it is. The exam board helps too, if you know it. Within 24 hours you'll have two or three tutor profiles, all with at least two years' tutoring. Or look through them now with your child."
 
 pathways_heading: "What Basingstoke A-Levels Can Lead To"

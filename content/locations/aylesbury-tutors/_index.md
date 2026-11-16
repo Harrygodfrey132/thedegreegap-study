@@ -1,9 +1,9 @@
 ---
 title: "Aylesbury Tutors | GCSE & A-Level from £37/hr"
-description: "Is the Transfer Test or a GCSE mock weighing on the whole house? Our Aylesbury tutors help your child with one steady hour a week online. From £37, no contract."
+description: "Is the Transfer Test or a GCSE mock weighing on the whole house? Our tutors for Aylesbury help your child with one steady hour a week online. From £37."
 layout: single
 location: Aylesbury
-banner_heading: "Online Aylesbury Tutors for the 11+, GCSE and A-Level, One Week at a Time"
+banner_heading: "GCSE and A-Level Tutors for Aylesbury Families"
 banner_description: "In Aylesbury, practice papers can quietly take over family life from the 11+ onwards. Our tutors keep it to one calm hour a week online, right up to A-Level."
 content_angle: "exam pressure kept in proportion: steady, timed weekly practice from the Transfer Test in the autumn of Year 6 through GCSE mocks and A-Levels, at whichever Aylesbury school follows"
 intro_1: "A stopwatch on the kitchen table. A ten-year-old, still in school uniform, working through a non-verbal reasoning paper while you try very hard not to hover. For a lot of Aylesbury families that's Year 5, because Buckinghamshire still selects at eleven. The Transfer Test comes in the autumn of Year 6. The result decides whether your child heads to Aylesbury Grammar School, Aylesbury High School or Sir Henry Floyd, or to Mandeville, The Grange or The Aylesbury Vale Academy. That's a lot to put on a child that age. It's a lot for you to carry, too, especially when every other family seems to be doing more."

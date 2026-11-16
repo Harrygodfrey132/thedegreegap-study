@@ -1,9 +1,9 @@
 ---
-title: "Online Tutoring for Beckenham Families | The Degree Gap"
+title: "Tutoring for Beckenham Families | The Degree Gap"
 description: "Two children, two Beckenham schools, and one of them struggling? We'll match your child with an online tutor who suits them. Free call first, from £37 an hour."
 layout: "single"
 location: "Beckenham"
-banner_heading: "Online tutoring for Beckenham families: the right tutor for this child, at this school"
+banner_heading: "GCSE and A-Level Tutors for Beckenham Families"
 banner_description: "We talk to you first, then search the whole of the UK for a tutor who fits your child's exam boards and the way they learn, with every lesson at home."
 content_angle: "one house, two schools: brothers and sisters at different Beckenham schools, on different boards, each needing a plan of their own"
 intro_1: "If you've got a son and a daughter in Beckenham, the chances are they go to different schools. Maybe it's the two Langley Parks, which sit next door to each other on Hawksbrook Lane. Maybe one's at Harris Girls' Academy on Lennard Road and the other's at Harris Beckenham or Orion Eden Park. Either way, you're keeping track of two timetables, two homework apps and two parents' evenings, usually after a long day. And the subject that's worrying you is rarely taught the same way twice. The Maths your eldest sat may not even be on the same exam board as the Maths your youngest is sitting now."

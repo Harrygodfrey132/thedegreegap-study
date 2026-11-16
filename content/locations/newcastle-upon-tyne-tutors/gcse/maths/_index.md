@@ -1,13 +1,13 @@
 ---
 title: "Newcastle upon Tyne GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Does your child's Maths working stop after the first line? Our Newcastle upon Tyne GCSE Maths tutors work on the rest, one-to-one online, from £37 an hour."
+description: "Does your child's Maths working stop after the first line? Our GCSE Maths tutors for Newcastle upon Tyne work on the rest, one-to-one online, from £37 an hour."
 layout: "level-subject"
 location: "Newcastle upon Tyne"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Newcastle upon Tyne, When the Working Stops Halfway"
+hero_h1: "GCSE Maths Tutors for Newcastle upon Tyne Students"
 hero_lead: "Look at your child's last mock. The first line of each long question is there, and then the page goes quiet. Our GCSE Maths tutors for Newcastle upon Tyne students work one-to-one online on the second half of the question, where the method marks are."
 
 angle_eyebrow: "THE SECOND HALF OF THE QUESTION"
@@ -30,7 +30,7 @@ schools:
   - "Royal Grammar School Newcastle"
   - "Dame Allan's Schools"
 
-steps_heading: "Getting started with a GCSE Maths tutor in Newcastle upon Tyne"
+steps_heading: "Getting started with a GCSE Maths tutor for Newcastle upon Tyne students"
 steps_lead: "Profiles come through within a day. Keep the last mock, crossings-out and all: the questions your child left are where the plan starts."
 steps:
   - title: "Talk to us about the last mock"

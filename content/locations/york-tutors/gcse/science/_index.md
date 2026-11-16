@@ -1,5 +1,5 @@
 ---
-title: "York GCSE Science Tutors | Online | The Degree Gap"
+title: "York GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
 description: "Past papers piling up but the Science mark not moving? Our online York GCSE Science tutors mark them with your child, so mistakes stop repeating. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "York"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "York GCSE Science Tutoring, Online and One-to-One"
+hero_h1: "GCSE Science Tutors for York Students"
 hero_lead: "Plenty of parents tell us the same thing: paper after paper, and the Science mark still won't move. It's usually what happens after each paper that's missing, not effort. Our GCSE Science tutors for York students help your child turn each lost mark into something they can fix."
 
 angle_eyebrow: "PAST PAPERS THAT DON'T MOVE THE MARK"

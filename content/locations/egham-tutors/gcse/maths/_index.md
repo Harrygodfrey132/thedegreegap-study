@@ -1,5 +1,5 @@
 ---
-title: "Online GCSE Maths Tutor for Your Child in Egham | The Degree Gap"
+title: "GCSE Maths Tutor for Your Child in Egham | The Degree Gap"
 nav_title: "Maths"
 description: "Is your child a few marks short of the Maths grade their next step needs? We match Egham students with an online GCSE Maths tutor who knows Edexcel. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Egham"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Egham Teenagers Who Freeze on the Longer Questions"
+hero_h1: "GCSE Maths Tutors for Egham Students"
 hero_lead: "Your child gets through the first page of a Maths paper fine, then the questions get wordier and the working gets shorter. Our GCSE Maths tutors for Egham students go back to the algebra those long questions are built on, and practise them against the clock."
 
 angle_eyebrow: "THE 6 THAT STRODE'S SCIENCES ASK FOR"

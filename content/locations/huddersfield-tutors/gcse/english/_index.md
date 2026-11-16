@@ -7,7 +7,7 @@ location: "Huddersfield"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Huddersfield Students, for the Language Grade Colleges Ask For"
+hero_h1: "GCSE English Tutors for Huddersfield Students"
 hero_lead: "Your child might love the books and still find English Language the harder GCSE, because it's marked on how they write as much as on what they notice. Our GCSE English tutors for Huddersfield students work on both papers, one-to-one and online."
 
 angle_eyebrow: "LANGUAGE, NOT ONLY LITERATURE"

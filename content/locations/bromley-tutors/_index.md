@@ -1,9 +1,9 @@
 ---
 title: "Bromley Private Tutors | GCSE & A-Level | The Degree Gap"
-description: "Is your child's sixth-form application due in January? Our Bromley tutors, online and one-to-one, find what's holding a GCSE or A-Level grade back."
+description: "Is your child's sixth-form application due in January? Our tutors for Bromley, online and one-to-one, find what's holding a GCSE or A-Level grade back."
 layout: "single"
 location: "Bromley"
-banner_heading: "Online Bromley tutoring for when your child's sixth-form place rests on a January prediction"
+banner_heading: "GCSE and A-Level Tutors for Bromley Families"
 banner_description: "Our tutors for Bromley families work one-to-one online, and they start from the grade your child's application will really carry, not the one the report hopes for."
 content_angle: "selection at 11 and again at 16"
 intro_1: "It's December, the mocks are back, and the sixth-form application is due in a few weeks. That's when a lot of Bromley parents ring us. The borough selects twice. The first time is the 11+, when well over a thousand children sit the St Olave's and Newstead Wood tests for fewer than three hundred places between them. The second is quieter, and it catches more families out. Almost every secondary here runs its own sixth form, and the two grammars and Bromley High take applicants from other schools at 16. The applications go in around January of Year 11, carrying whatever the autumn mocks produced. So the worry at the kitchen table is rarely about effort. It's a predicted 5 in one subject that needs to read as a 6, and nobody's quite sure which topic is holding it there."

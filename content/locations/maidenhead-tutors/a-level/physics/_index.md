@@ -7,7 +7,7 @@ location: "Maidenhead"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Maidenhead Students Who Lose Marks on Practical Questions"
+hero_h1: "A-Level Physics Tutors for Maidenhead Students"
 hero_lead: "Your child did the practical in class, wrote it up, and months later a Paper 3 question asks about the uncertainty in a measurement they've half forgotten. Our A-Level Physics tutors for Maidenhead students revisit each practical, and the maths around it, well before the exams."
 
 angle_eyebrow: "TWELVE PRACTICALS, ONE PAPER"

@@ -7,7 +7,7 @@ location: "Taunton"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "A-Level Economics Tutors for Taunton Students Whose Data Answers Fall Short"
+hero_h1: "A-Level Economics Tutors for Taunton Students"
 hero_lead: "Your child knows the theory, then the data question asks what the extract's figures show and the answer ignores every one of them. Our A-Level Economics tutors for Taunton students teach them to use the numbers in front of them."
 
 angle_eyebrow: "THE EXTRACT HAS THE ANSWER IN IT"
