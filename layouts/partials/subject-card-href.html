@@ -1,0 +1,50 @@
+{{/*
+  Where a subject card on a town or level page should send people.
+
+  Cards are written as "GCSE Maths Tuition|description|/book-a-call/". Google's
+  spam policy treats town pages that funnel every subject into one form as
+  doorway pages, so a card that would go to /book-a-call/ is pointed at a real
+  page instead, in this order:
+
+    1. this town's own page for the level and subject
+       (/locations/ampthill-tutors/gcse/maths/)
+    2. the national subject page (/subjects/gcse-french-tutor/)
+    3. the personal statement hub, for the personal statement card
+    4. otherwise the booking page, with the subject filled in, and isPage
+       false so the button can say "Ask about ..." rather than imply a page
+
+  A card that already names somewhere other than /book-a-call/ is left alone.
+
+  dict: name (card title), href (card's own link), town (the town's _index page)
+  returns: dict "href" "isPage" "subject"
+*/}}
+{{ $name := .name }}
+{{ $href := .href }}
+{{ $subjectName := $name }}
+{{ range slice " Tuition" " Tutoring" " Tutors" }}{{ $subjectName = strings.TrimSuffix . $subjectName }}{{ end }}
+{{ $out := dict "href" $href "isPage" true "subject" $subjectName }}
+
+{{ if hasPrefix $href "/book-a-call" }}
+  {{ $level := "" }}
+  {{ $subj := $subjectName }}
+  {{ if hasPrefix $subjectName "GCSE " }}{{ $level = "gcse" }}{{ $subj = strings.TrimPrefix "GCSE " $subjectName }}
+  {{ else if hasPrefix $subjectName "A-Level " }}{{ $level = "a-level" }}{{ $subj = strings.TrimPrefix "A-Level " $subjectName }}{{ end }}
+  {{/* "English Literature" and "English Language" share the English pages. */}}
+  {{ $subj = replace (replace $subj " Literature" "") " Language" "" }}
+  {{ $slug := replace (lower $subj) " " "-" }}
+
+  {{ $target := false }}
+  {{ if $level }}
+    {{ with .town }}{{ with site.GetPage (path.Join "/" .File.Dir $level $slug) }}{{ $target = . }}{{ end }}{{ end }}
+    {{ if not $target }}{{ with site.GetPage (printf "/subjects/%s-%s-tutor" $level $slug) }}{{ $target = . }}{{ end }}{{ end }}
+  {{ else if in $name "Personal Statement" }}
+    {{ with site.GetPage "/personal-statement-tutor" }}{{ $target = . }}{{ end }}
+  {{ end }}
+
+  {{ with $target }}
+    {{ $out = dict "href" .RelPermalink "isPage" true "subject" $subjectName }}
+  {{ else }}
+    {{ $out = dict "href" (printf "/book-a-call/?subject=%s" (urlquery $subjectName)) "isPage" false "subject" $subjectName }}
+  {{ end }}
+{{ end }}
+{{ return $out }}

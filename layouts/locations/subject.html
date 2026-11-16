@@ -20,15 +20,15 @@
 {{/* Hero H1 + lead — per-page overrides, level-aware defaults */}}
 {{ $heroHeadingLine1 := .Params.hero_heading_line1 | default (printf "Online %s Tutors in %s" $level $loc) }}
 {{ $heroHeadingLine2 := .Params.hero_heading_line2 }}
-{{ $heroLead         := .Params.hero_lead          | default (printf "If your child's working hard and the grades still won't shift, going over the same content again rarely helps. Our %s %s tutors start by finding the point where it stopped making sense, then try a different way of explaining it." $loc $level) }}
+{{ $heroLead         := .Params.hero_lead          | default (printf "If your child's working hard and the grades still won't shift, going over the same content again rarely helps. Our %[2]s tutors for %[1]s students start by finding the point where it stopped making sense, then try a different way of explaining it." $loc $level) }}
 
 {{/* ── Section 2: Your First Lesson variables — level-aware ── */}}
 {{ $founderVideoId     := .Params.founder_video_id     | default (cond $isAlevel "0Ss6iO7rxts" "rR7_rq6L2hk") }}
 {{ $firstLessonEyebrow := .Params.first_lesson_eyebrow | default (printf "YOUR CHILD'S FIRST %s LESSON" ($level | upper)) }}
-{{ $firstLessonHeading := .Params.first_lesson_heading | default (printf "What Happens in the First Lesson With One of Our %s %s Tutors" $loc $level) }}
+{{ $firstLessonHeading := .Params.first_lesson_heading | default (printf "What Happens in the First Lesson With One of Our %[2]s Tutors for %[1]s Students" $loc $level) }}
 {{ $firstLessonContext := .Params.first_lesson_context | default (cond $isAlevel
-  (printf "Plenty of children who did well at GCSE find A-Levels a different thing altogether. Usually they know the material but lose marks using it in a timed paper. So the first job for one of our %s A-Level tutors is finding where those marks go, then working on that, week by week." $loc)
-  (printf "Lots of families come to us after a mock that landed lower than anyone expected. Often the cause is a topic from Year 8 or 9 that never quite settled, and in a full class there's rarely time to go back over it one-to-one. One of our %s GCSE tutors will use the first lesson to find that gap, then rebuild from there." $loc)) }}
+  (printf "Plenty of children who did well at GCSE find A-Levels a different thing altogether. Usually they know the material but lose marks using it in a timed paper. So the first job for one of our A-Level tutors for %s students is finding where those marks go, then working on that, week by week." $loc)
+  (printf "Lots of families come to us after a mock that landed lower than anyone expected. Often the cause is a topic from Year 8 or 9 that never quite settled, and in a full class there's rarely time to go back over it one-to-one. One of our GCSE tutors for %s students will use the first lesson to find that gap, then rebuild from there." $loc)) }}
 {{ $firstLessonQuote      := .Params.first_lesson_quote      | default (cond $isAlevel
   "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
   "Has definitely helped me increase my grades from an E to a B!!") }}
@@ -55,12 +55,13 @@
           WINNER: GCSE TUTORING SPECIALISTS OF THE YEAR 2025 &amp; 2026
         </a>
         <h1>{{ $heroHeadingLine1 }}{{ with $heroHeadingLine2 }}<br>{{ . }}{{ end }}</h1>
+        {{ partial "online-chips.html" . }}
         <p class="loc-hero__lead">{{ $heroLead }}</p>
         <div class="loc-hero__actions">
           <a href="#get-help" class="btn btn-primary btn-lg">Book a Free Consultation Call</a>
           <a href="tel:+447578134841" class="btn btn-outline btn-lg">Call us: 07578 134841</a>
         </div>
-        <p class="loc-hero__pricing">Lessons from <strong>£37 an hour</strong> &middot; no contract</p>
+        {{/* Delivery is said next to the price, so nobody sees a price without also seeing how lessons happen (CMA/CAP: material information given clearly and in time). Keep it in the first screen. */}}<p class="loc-hero__pricing">Live one-to-one lessons online, from <strong>£37 an hour</strong> &middot; a replay of every lesson &middot; no contract</p>
         <button type="button" data-reviews-open class="loc-hero__rating" aria-label="Read our {{ site.Params.googleReviewCount }} Google reviews" aria-controls="bc-reviews-drawer" aria-expanded="false">
           <div class="loc-hero__google">
             <svg width="60" height="20" viewBox="0 0 60 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="Google">
@@ -226,6 +227,9 @@
               {{ $href = $child.RelPermalink }}
             {{ end }}
           {{ end }}
+          {{/* No page for it in this town: send it to the national subject page
+               rather than the booking form (see partials/subject-card-href.html). */}}
+          {{ $href = (partial "subject-card-href.html" (dict "name" $name "href" $href "town" $.Parent)).href }}
           <a href="{{ partial "url.html" $href }}" class="gs-explore__card">
             <span class="gs-explore__icon" aria-hidden="true">
               {{ if in $name "Maths" }}
@@ -413,6 +417,7 @@
             <textarea name="message" placeholder="Tell us about your child's needs" rows="4"></textarea>
           </div>
           <button type="submit" class="btn btn-primary" style="width:100%;text-align:center;padding:16px;">GET IN TOUCH</button>
+          <p class="loc-form-note">Lessons are live and online, on a shared whiteboard, with a replay of each one.</p>
         </form>
       </div>
     </div>

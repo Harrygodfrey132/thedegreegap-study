@@ -2906,6 +2906,12 @@ p:last-child { margin-bottom: 0; }
 .sj-page-wrap .loc-hero__lead { margin-bottom: 1rem; }
 .loc-hero__actions { display: flex; gap: 14px; flex-wrap: wrap; margin-bottom: 1rem; }
 .loc-hero__pricing { font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1.5rem; }
+/* "How lessons work" chips under the hero H1 (partials/online-chips.html) */
+.online-chips { display: flex; flex-wrap: wrap; gap: 6px 8px; list-style: none; margin: -0.35rem 0 1.15rem; padding: 0; }
+.online-chips li { display: inline-flex; align-items: center; gap: 6px; font-size: 0.8rem; font-weight: 600; line-height: 1.2; color: var(--burgundy); background: #fff; border: 1px solid #ecd9d9; border-radius: 999px; padding: 5px 11px; }
+.online-chips li::before { content: ""; width: 6px; height: 6px; border-radius: 50%; background: currentColor; opacity: 0.7; flex: none; }
+.lvls-hero__title + .online-chips { margin-top: 0.9rem; }
+
 .loc-hero__rating {
   display: inline-flex;
   align-items: center;
@@ -3883,6 +3889,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   border-color: #F4C430;
   color: var(--text);
 }
+.loc-form-note { margin: 12px 0 0; font-size: 0.85rem; line-height: 1.5; color: rgba(255,255,255,0.82); text-align: center; }
 .loc-contact-faq .loc-form-submit:hover {
   background: #e0b000;
   border-color: #e0b000;

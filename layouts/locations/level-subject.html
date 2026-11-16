@@ -40,7 +40,7 @@
 {{ $stepsLead    := .Params.steps_lead    | default "Most families have a first lesson booked within a week of the call, and it's pay as you go, lesson by lesson." }}
 {{ $steps := .Params.steps | default (slice
   (dict "title" "A free call about your child" "body" (printf "Harry or Joe will ask about your child: their year group and exam board, how %s %s is going, and their school or college in %s. It's how we work out which tutors to suggest." $level $subject $loc))
-  (dict "title" "Choose your tutor" "body" (printf "Within 24 hours of the call, you'll get two or three profiles of %s %s tutors covering %s. Your child can meet the one you both like the look of on a free 15-minute video meeting, before anything is booked." $level $subject $loc))
+  (dict "title" "Choose your tutor" "body" (printf "Within 24 hours of the call, you'll get two or three profiles of %s %s tutors for %s students. Your child can meet the one you both like the look of on a free 15-minute video meeting, before anything is booked." $level $subject $loc))
   (dict "title" "Weekly lessons online" "body" (printf "One-to-one %s lessons each week in the online classroom Lessonspace, with a replay of every lesson. From £37 an hour, with no contract. And if your child doesn't click with their tutor, we'll find a different one at no charge." $subject))) }}
 
 {{/* ── FAQs ── */}}
@@ -66,7 +66,23 @@
     {{ $matched = $matched | append . }}
   {{ end }}
 {{ end }}
-{{ $tutors := first 4 (shuffle $matched) }}
+{{/* Tutors teach several subjects but have one bio, usually about their
+     main subject, so a GCSE Maths card could show "An experienced English
+     tutor…". Show tutors whose bio talks about this subject first, and only
+     fill up with the rest if there are fewer than four. */}}
+{{ $bioRE := index (dict
+  "Maths" "(?i)math"
+  "English" "(?i)english|literature"
+  "Science" "(?i)scien|chemi|biolog|physic"
+  "Chemistry" "(?i)chemi|scien"
+  "Biology" "(?i)biolog|scien"
+  "Physics" "(?i)physic|scien"
+  "Economics" "(?i)econom") $subject | default (printf "(?i)%s" (lower $subject)) }}
+{{ $onSubject := slice }}{{ $offSubject := slice }}
+{{ range $matched }}
+  {{ if findRE $bioRE (.blurb | default "") 1 }}{{ $onSubject = $onSubject | append . }}{{ else }}{{ $offSubject = $offSubject | append . }}{{ end }}
+{{ end }}
+{{ $tutors := first 4 ((shuffle $onSubject) | append (shuffle $offSubject)) }}
 
 {{/* ── Reviews ── */}}
 {{/* A page without its own reviews falls back to real, verbatim ones from
@@ -93,6 +109,7 @@
       <div class="lvls-hero__copy">
         <p class="loc-eyebrow">{{ $level }} TUTORING · {{ $loc | upper }}</p>
         <h1 class="lvls-hero__title">{{ $heroH1 }}</h1>
+        {{ partial "online-chips.html" . }}
         <p class="lvls-hero__lead">{{ $heroLead }}</p>
         <div class="lvls-hero__meta">
           <span><strong>From £37/hr</strong></span>
@@ -287,7 +304,7 @@
   <div class="container">
     <div class="lvls-tutors__head">
       <p class="loc-eyebrow">MEET THE TUTORS</p>
-      <h2>Some of our {{ $level }} {{ $subject }} tutors covering {{ $loc }}</h2>
+      <h2>Some of our {{ $level }} {{ $subject }} tutors for {{ $loc }} students</h2>
       <p>Just a few of the {{ $level }} {{ $subject }} tutors in our network. We match every {{ $loc }} family personally. After your call, we'll pick two or three who fit your child's year group, exam board and what they're finding hard.</p>
     </div>
     {{ if $tutors }}
@@ -301,7 +318,7 @@
         <div class="lvls-tutor-card__body">
           <h3 class="lvls-tutor-card__name">{{ .name }}</h3>
           <p class="lvls-tutor-card__role">{{ $level }} {{ $subject }} tutor</p>
-          <p class="lvls-tutor-card__blurb">"{{ .blurb | truncate 120 }}"</p>
+          <p class="lvls-tutor-card__blurb">"{{ strings.Trim (.blurb | default "") `"“” ` | truncate 120 }}"</p>
           <a href="{{ "book-a-call/" | relURL }}" class="lvls-tutor-card__link">Book a free call →</a>
         </div>
       </article>
@@ -329,7 +346,7 @@
   <div class="container">
     <div class="lvls-reviews__head">
       <div>
-        <h2 id="lvls-reviews-title">Over 100 parents and students<br>have given us five stars on Google</h2>
+        <h2 id="lvls-reviews-title">Over 100 parents and students<br>have given us five stars on Google and Trustpilot</h2>
       </div>
       <div class="lvls-reviews__nav">
         <button type="button" class="lvls-reviews__btn" data-lvls-prev aria-label="Previous review">

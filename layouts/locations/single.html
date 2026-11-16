@@ -80,12 +80,13 @@ Location tutor page content contract:
           WINNER: GCSE TUTORING SPECIALISTS OF THE YEAR 2025 &amp; 2026
         </a>
         <h1>{{ $bannerHeading }}</h1>
+        {{ partial "online-chips.html" . }}
         <p class="loc-hero__lead">{{ $bannerLead }}</p>
         <div class="loc-hero__actions">
           <a href="#get-help" class="btn btn-primary btn-lg">Find Your Tutor</a>
           <a href="tel:+447578134841" class="btn btn-outline btn-lg">Call: 07578 134841</a>
         </div>
-        <p class="loc-hero__pricing">Lessons from <strong>£37 an hour</strong> &middot; no contract</p>
+        {{/* Delivery is said next to the price, so nobody sees a price without also seeing how lessons happen (CMA/CAP: material information given clearly and in time). Keep it in the first screen. */}}<p class="loc-hero__pricing">Live one-to-one lessons online, from <strong>£37 an hour</strong> &middot; a replay of every lesson &middot; no contract</p>
         <button type="button" data-reviews-open class="loc-hero__rating" aria-label="Read our {{ site.Params.googleReviewCount }} Google reviews" aria-controls="bc-reviews-drawer" aria-expanded="false">
           <div class="loc-hero__google">
             <svg width="60" height="20" viewBox="0 0 60 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="Google">
@@ -173,11 +174,12 @@ Location tutor page content contract:
         {{ range $index, $card := $gcseSubjectCards }}
         {{ $parts := split $card "|" }}
         {{ $href := cond (gt (len $parts) 2) (index $parts 2) (printf "%s/teachers" $.Site.Params.mainSiteURL) }}
+        {{ $dest := partial "subject-card-href.html" (dict "name" (index $parts 0) "href" $href "town" $) }}
         <li class="loc-subject-item">
           <span class="loc-subject-num">{{ printf "%02d." (add $index 1) }}</span>
           <span class="loc-subject-name">{{ index $parts 0 }}</span>
           <p class="loc-subject-desc">{{ index $parts 1 }}</p>
-          <a href="{{ partial "url.html" $href }}" class="btn btn-primary">Find a Tutor</a>
+          <a href="{{ partial "url.html" $dest.href }}" class="btn btn-primary">{{ if $dest.isPage }}Find a Tutor{{ else }}Ask about {{ $dest.subject }}{{ end }}</a>
         </li>
         {{ end }}
       </ol>
@@ -188,11 +190,12 @@ Location tutor page content contract:
         {{ range $index, $card := $alevelSubjectCards }}
         {{ $parts := split $card "|" }}
         {{ $href := cond (gt (len $parts) 2) (index $parts 2) (printf "%s/teachers" $.Site.Params.mainSiteURL) }}
+        {{ $dest := partial "subject-card-href.html" (dict "name" (index $parts 0) "href" $href "town" $) }}
         <li class="loc-subject-item">
           <span class="loc-subject-num">{{ printf "%02d." (add $index 1) }}</span>
           <span class="loc-subject-name">{{ index $parts 0 }}</span>
           <p class="loc-subject-desc">{{ index $parts 1 }}</p>
-          <a href="{{ partial "url.html" $href }}" class="btn btn-primary">Find a Tutor</a>
+          <a href="{{ partial "url.html" $dest.href }}" class="btn btn-primary">{{ if $dest.isPage }}Find a Tutor{{ else }}Ask about {{ $dest.subject }}{{ end }}</a>
         </li>
         {{ end }}
       </ol>
@@ -203,11 +206,12 @@ Location tutor page content contract:
         {{ range $index, $card := $otherSubjectCards }}
         {{ $parts := split $card "|" }}
         {{ $href := cond (gt (len $parts) 2) (index $parts 2) (printf "%s/teachers" $.Site.Params.mainSiteURL) }}
+        {{ $dest := partial "subject-card-href.html" (dict "name" (index $parts 0) "href" $href "town" $) }}
         <li class="loc-subject-item">
           <span class="loc-subject-num">{{ printf "%02d." (add $index 1) }}</span>
           <span class="loc-subject-name">{{ index $parts 0 }}</span>
           <p class="loc-subject-desc">{{ index $parts 1 }}</p>
-          <a href="{{ partial "url.html" $href }}" class="btn btn-primary">Find a Tutor</a>
+          <a href="{{ partial "url.html" $dest.href }}" class="btn btn-primary">{{ if $dest.isPage }}Find a Tutor{{ else }}Ask about {{ $dest.subject }}{{ end }}</a>
         </li>
         {{ end }}
       </ol>
@@ -230,7 +234,7 @@ Location tutor page content contract:
         </div>
         {{ end }}
         <div class="loc-about__cta">
-          <p class="loc-hero__pricing">Lessons from <strong>£37 an hour</strong> &middot; no contract</p>
+          {{/* Delivery is said next to the price, so nobody sees a price without also seeing how lessons happen (CMA/CAP: material information given clearly and in time). Keep it in the first screen. */}}<p class="loc-hero__pricing">Live one-to-one lessons online, from <strong>£37 an hour</strong> &middot; a replay of every lesson &middot; no contract</p>
           <button type="button" data-reviews-open class="loc-hero__rating" aria-label="Read our {{ site.Params.googleReviewCount }} Google reviews" aria-controls="bc-reviews-drawer" aria-expanded="false">
             <div class="loc-hero__google">
               <svg width="60" height="20" viewBox="0 0 60 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="Google">
@@ -364,6 +368,7 @@ Location tutor page content contract:
             <textarea name="message" placeholder="Write your message" rows="4"></textarea>
           </div>
           <button type="submit" class="btn btn-primary loc-form-submit">Send Enquiry</button>
+          <p class="loc-form-note">Lessons are live and online, on a shared whiteboard, with a replay of each one.</p>
         </form>
       </div>
     </div>
