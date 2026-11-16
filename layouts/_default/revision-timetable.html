@@ -77,6 +77,27 @@
   .rt-error { color: #a1001f; font-weight: 700; margin: 0; }
   .rt-noscript { border: 1px solid #e6ded4; border-radius: 12px; padding: 16px 18px; background: #fff; }
 
+  .rt-check { display: flex; align-items: flex-start; gap: 8px; font-weight: 600; margin: 4px 0 14px; cursor: pointer; }
+  .rt-check input { width: 18px; height: 18px; margin-top: 2px; accent-color: #800020; flex: none; }
+  .rt-fields--dates { margin-bottom: 14px; }
+  .rt-range { display: flex; align-items: center; gap: 6px; }
+  .rt-range .rt-input { min-width: 0; flex: 1; }
+  .rt-range span { color: #5f5a54; font-size: 0.88rem; }
+  .rt-progress { margin: 0 0 14px; }
+  .rt-progress__bar { height: 10px; border-radius: 999px; background: #efe5d5; overflow: hidden; }
+  .rt-progress__bar i { display: block; height: 100%; background: #2f8f57; border-radius: 999px; transition: width 0.3s ease; }
+  .rt-progress__text { font-size: 0.9rem; margin: 6px 0 0; color: #2d2a26; }
+  .rt-progress__text b { color: #2f8f57; }
+  .rt-progress__text .rt-miss { color: #b3261e; font-weight: 700; }
+  .rt-slot { position: relative; }
+  .rt-slot__tick { position: absolute; top: 6px; right: 6px; width: 18px; height: 18px; margin: 0; accent-color: #2f8f57; cursor: pointer; }
+  .rt-slot.is-done { opacity: 0.55; }
+  .rt-slot.is-done b { text-decoration: line-through; }
+  .rt-slot b { padding-right: 22px; }
+  .rt-slot em { display: block; font-style: normal; font-size: 0.8rem; color: #3d3833; font-weight: 600; }
+  .rt-slot--paper { background: #800020; border-color: #800020; color: #fff; font-weight: 700; margin-bottom: 6px; grid-column: 1 / -1; }
+  .rt-slot--mock { background: #fff7e0; border-color: #e7c76a; grid-column: 1 / -1; font-weight: 700; margin-bottom: 6px; }
+  .rt-day__tag { display: block; font-size: 0.72rem; font-weight: 800; color: #800020; text-transform: uppercase; letter-spacing: 0.06em; margin-top: 2px; }
   .rt-result { margin-top: 30px; border: 1px solid #e6ded4; border-radius: 14px; background: #fff; overflow: hidden; }
   .rt-result:focus { outline: none; }
   .rt-result__top { padding: 20px 20px 16px; border-bottom: 1px solid #efe5d5; background: #fdfbf8; }
@@ -322,6 +343,25 @@
           </div>
         </fieldset>
 
+        <fieldset class="rt-step">
+          <legend><span>5.</span>Holidays, mocks and the exam season</legend>
+          <p class="rt-step__hint">Holidays get more revision, mock weeks switch to mock prep, and for GCSE the plan carries on through the exams, paper by paper. Typical school dates are filled in; change them to match your school.</p>
+          <label class="rt-check"><input type="checkbox" name="useholidays" checked> Plan more revision in the school holidays</label>
+          <div class="rt-fields rt-fields--dates" data-rt-holidays>
+            <div class="rt-field"><label for="rt-xmas-a">Christmas holiday</label><div class="rt-range"><input id="rt-xmas-a" class="rt-input" type="date" name="xmas_a" value="2026-12-19"><span>to</span><input class="rt-input" type="date" name="xmas_b" value="2027-01-03" aria-label="Christmas holiday ends"></div></div>
+            <div class="rt-field"><label for="rt-feb-a">February half term</label><div class="rt-range"><input id="rt-feb-a" class="rt-input" type="date" name="feb_a" value="2027-02-13"><span>to</span><input class="rt-input" type="date" name="feb_b" value="2027-02-21" aria-label="February half term ends"></div></div>
+            <div class="rt-field"><label for="rt-easter-a">Easter holiday</label><div class="rt-range"><input id="rt-easter-a" class="rt-input" type="date" name="easter_a" value="2027-03-27"><span>to</span><input class="rt-input" type="date" name="easter_b" value="2027-04-11" aria-label="Easter holiday ends"></div></div>
+            <div class="rt-field"><label for="rt-holsessions">Sessions on a holiday weekday</label>
+              <select id="rt-holsessions" class="rt-select" name="holsessions"><option value="2">2</option><option value="3">3</option><option value="4" selected>4</option><option value="5">5</option></select>
+              <p class="rt-field__hint">Christmas Day, Boxing Day and New Year's Day are always off.</p></div>
+          </div>
+          <div class="rt-fields rt-fields--dates">
+            <div class="rt-field"><label for="rt-mock-a">Mock exams (optional)</label><div class="rt-range"><input id="rt-mock-a" class="rt-input" type="date" name="mock_a"><span>to</span><input class="rt-input" type="date" name="mock_b" aria-label="Mock exams end"></div>
+              <p class="rt-field__hint">The week before becomes mock prep. During the mocks it's one short session a day.</p></div>
+          </div>
+          <label class="rt-check" data-rt-seasonwrap><input type="checkbox" name="season" checked> Plan through the GCSE exam season, paper by paper (summer 2027 dates)</label>
+        </fieldset>
+
         <div class="rt-submit">
           <button type="submit" class="btn btn-primary btn-lg">Make my timetable</button>
           <p class="rt-error" data-rt-error role="alert" hidden></p>
@@ -332,6 +372,7 @@
         <div class="rt-result__top">
           <h2 class="rt-result__title">Your revision timetable</h2>
           <p class="rt-result__stats" data-rt-stats aria-live="polite"></p>
+          <div class="rt-progress" data-rt-progress></div>
           <ul class="rt-legend" data-rt-legend></ul>
           <div class="rt-actions">
             <button type="button" class="is-primary" data-rt-print="week">Print this week</button>
@@ -516,6 +557,57 @@
   var TASKS = [['Make flashcards', 'Practice questions', 'Test yourself'],
                ['Test yourself', 'Exam questions', 'Fix weak topics'],
                ['Timed past paper', 'Mark and correct', 'Test yourself']];
+  /* Topics each session works through, in turn, so the whole course is
+     covered before the exams. Broad and board-neutral; subjects not listed
+     are planned without topics. */
+  var TOPICS = {
+    'Maths': ['Number', 'Algebra: expressions and equations', 'Graphs', 'Ratio and proportion', 'Geometry: angles and shapes', 'Area, volume and Pythagoras', 'Trigonometry', 'Probability', 'Statistics', 'Sequences and inequalities'],
+    'English Language': ['Reading: language analysis', 'Reading: structure', 'Reading: evaluating a text', 'Comparing non-fiction', 'Creative writing', 'Writing to argue and persuade', 'Spelling, punctuation and grammar'],
+    'English Literature': ['Shakespeare play', '19th-century novel', 'Modern text', 'Poetry anthology', 'Unseen poetry', 'Quotations and context'],
+    'Combined Science': ['Cells and organisation', 'Infection and response', 'Bioenergetics', 'Ecology and inheritance', 'Atomic structure and bonding', 'Chemical changes and energy', 'Rates and organic chemistry', 'Energy and electricity', 'Particles and atomic structure', 'Forces and waves', 'Required practicals'],
+    'Biology': ['Cell biology', 'Organisation', 'Infection and response', 'Bioenergetics', 'Homeostasis and response', 'Inheritance and evolution', 'Ecology', 'Required practicals'],
+    'Chemistry': ['Atomic structure and the periodic table', 'Bonding and structure', 'Quantitative chemistry', 'Chemical changes', 'Energy changes', 'Rates and equilibrium', 'Organic chemistry', 'Chemical analysis and the atmosphere', 'Required practicals'],
+    'Physics': ['Energy', 'Electricity', 'Particle model of matter', 'Atomic structure', 'Forces', 'Waves', 'Magnetism and electromagnetism', 'Required practicals', 'Equations and units'],
+    'History': ['Thematic study', 'Historic environment', 'Period study', 'British depth study', 'Modern depth study', 'Source and interpretation questions'],
+    'Geography': ['Natural hazards', 'Ecosystems', 'Physical landscapes', 'Urban issues', 'Economic world', 'Resource management', 'Fieldwork and skills'],
+    'Religious Studies': ['Beliefs: first religion', 'Practices: first religion', 'Beliefs: second religion', 'Practices: second religion', 'Ethics themes', 'Evaluation questions'],
+    'French': ['Listening', 'Reading', 'Writing', 'Speaking', 'Vocabulary and grammar'],
+    'Spanish': ['Listening', 'Reading', 'Writing', 'Speaking', 'Vocabulary and grammar'],
+    'German': ['Listening', 'Reading', 'Writing', 'Speaking', 'Vocabulary and grammar'],
+    'Computer Science': ['Systems architecture and memory', 'Networks and security', 'Data representation', 'Algorithms', 'Programming techniques', 'Boolean logic and languages', 'Impacts of technology'],
+    'Business': ['Enterprise and the market', 'Marketing', 'Finance', 'People and operations', 'Growing a business', 'Calculations and case studies'],
+    'Psychology': ['Memory', 'Social influence', 'Development', 'Research methods', 'Brain and neuropsychology', 'Psychological problems'],
+    'Economics': ['Markets and market failure', 'Elasticity and costs', 'Labour markets', 'Macro objectives and policy', 'International trade', 'Data and diagrams'],
+    'Further Maths': ['Algebra and functions', 'Coordinate geometry', 'Calculus', 'Matrices', 'Trigonometry', 'Proof']
+  };
+  var TOPICS_ALEVEL = {
+    'Maths': ['Algebra and functions', 'Coordinate geometry', 'Sequences and series', 'Trigonometry', 'Exponentials and logs', 'Differentiation', 'Integration', 'Vectors and proof', 'Statistics', 'Mechanics'],
+    'Biology': ['Biological molecules', 'Cells', 'Exchange and transport', 'Genetics and variation', 'Energy transfers', 'Responding to change', 'Gene expression', 'Practical skills'],
+    'Chemistry': ['Atomic structure and bonding', 'Energetics and kinetics', 'Equilibria', 'Periodicity and inorganic', 'Organic: reactions', 'Organic: synthesis and analysis', 'Acids, bases and electrochemistry', 'Practical skills'],
+    'Physics': ['Particles and radiation', 'Waves and optics', 'Mechanics and materials', 'Electricity', 'Further mechanics and thermal', 'Fields', 'Nuclear physics', 'Practical skills'],
+    'Economics': ['Markets and market failure', 'Business economics', 'Labour markets', 'Macro performance', 'Macro policy', 'Global economy', 'Essay technique'],
+    'Psychology': ['Social influence', 'Memory', 'Attachment', 'Psychopathology', 'Approaches and biopsychology', 'Research methods', 'Options topics', 'Essay technique'],
+    'English Literature': ['Drama texts', 'Prose texts', 'Poetry', 'Unseen texts', 'Critical views', 'Essay planning'],
+    'History': ['Breadth study', 'Depth study', 'Interpretations', 'Source analysis', 'Essay planning'],
+    'Geography': ['Physical systems', 'Hazards', 'Human geography', 'Global systems', 'Fieldwork and skills', 'Essay technique']
+  };
+  /* GCSE summer 2027 papers (Pearson Edexcel's final timetable; AQA and OCR
+     papers in these subjects mostly fall on the same days). */
+  var PAPERS = {
+    'Maths': [['2027-05-14', 'Maths Paper 1'], ['2027-05-27', 'Maths Paper 2'], ['2027-06-14', 'Maths Paper 3']],
+    'English Literature': [['2027-05-12', 'English Literature Paper 1'], ['2027-05-19', 'English Literature Paper 2']],
+    'English Language': [['2027-05-24', 'English Language Paper 1'], ['2027-06-08', 'English Language Paper 2']],
+    'Biology': [['2027-05-11', 'Biology Paper 1'], ['2027-06-10', 'Biology Paper 2']],
+    'Chemistry': [['2027-05-17', 'Chemistry Paper 1'], ['2027-06-15', 'Chemistry Paper 2']],
+    'Physics': [['2027-05-25', 'Physics Paper 1'], ['2027-06-18', 'Physics Paper 2']],
+    'Combined Science': [['2027-05-11', 'Science: Biology 1'], ['2027-05-17', 'Science: Chemistry 1'], ['2027-05-25', 'Science: Physics 1'], ['2027-06-10', 'Science: Biology 2'], ['2027-06-15', 'Science: Chemistry 2'], ['2027-06-18', 'Science: Physics 2']],
+    'Computer Science': [['2027-05-10', 'Computer Science Paper 1'], ['2027-05-19', 'Computer Science Paper 2']],
+    'Business': [['2027-05-12', 'Business Paper 1'], ['2027-05-21', 'Business Paper 2']],
+    'Religious Studies': [['2027-05-13', 'Religious Studies Paper 1'], ['2027-05-21', 'Religious Studies Paper 2']],
+    'Geography': [['2027-05-18', 'Geography Paper 1'], ['2027-05-26', 'Geography Paper 2'], ['2027-06-10', 'Geography Paper 3']],
+    'History': [['2027-05-20', 'History Paper 1'], ['2027-05-28', 'History Paper 2']]
+  };
+  var DONE_STORE = 'tdg-revision-timetable-done-v1';
   var COLOURS = ['#fde2e4', '#dfeaf8', '#e1f3e6', '#fff0c7', '#ece2f6', '#ffe3cf',
                  '#daf1f1', '#f0efd2', '#f6dde9', '#e3e7f1', '#e7f2d4', '#f2e4d8'];
   var DAY_NAMES = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
@@ -631,7 +723,10 @@
       level: level(), subjects: subjects.map(function (s) { return { name: s.name, weight: s.weight }; }),
       start: f.start.value, exam: f.exam.value,
       weekday: +f.weekday.value, saturday: +f.saturday.value, sunday: +f.sunday.value,
-      nightoff: +f.nightoff.value, minutes: +f.minutes.value
+      nightoff: +f.nightoff.value, minutes: +f.minutes.value,
+      useholidays: f.useholidays.checked, holsessions: +f.holsessions.value,
+      hol: [[f.xmas_a.value, f.xmas_b.value], [f.feb_a.value, f.feb_b.value], [f.easter_a.value, f.easter_b.value]],
+      mock: [f.mock_a.value, f.mock_b.value], season: f.season.checked
     };
   }
   function sessionsOn(d, st) {
@@ -647,39 +742,95 @@
   var HOLIDAYS = { '11-25': 'Christmas Day', '11-26': 'Boxing Day', '0-1': "New Year's Day" };
   function holidayOn(d) { return HOLIDAYS[d.getMonth() + '-' + d.getDate()] || ''; }
 
+  function inRange(d, a, b) { var x = parseDate(a), y = parseDate(b); return x && y && d >= x && d <= y; }
+
   function buildPlan(st) {
-    var start = parseDate(st.start), exam = parseDate(st.exam);
+    var start = parseDate(st.start), firstExam = parseDate(st.exam);
+    var gcse = st.level !== 'alevel';
+    var topicsFor = function (name) { return (gcse ? TOPICS[name] : TOPICS_ALEVEL[name]) || null; };
     /* Each subject starts at a different point in the task list, so the first
        week is not every subject opening with the same task. */
-    var subs = st.subjects.map(function (s, i) { return { name: s.name, w: s.weight, cur: 0, count: 0, task: i, i: i }; });
-    var total = subs.reduce(function (n, s) { return n + s.w; }, 0);
+    var subs = st.subjects.map(function (s, i) {
+      var papers = (gcse && st.season && PAPERS[s.name]) ? PAPERS[s.name].map(function (p) { return { date: parseDate(p[0]), name: p[1] }; }) : [];
+      return { name: s.name, w: s.weight, cur: 0, count: 0, task: i, i: i, topics: topicsFor(s.name), topic: 0, papers: papers };
+    });
+    /* With the exam season on, the plan runs to the last chosen paper; a
+       subject with no known dates runs until the first exam, as before. */
+    var end = firstExam;
+    subs.forEach(function (s) { s.papers.forEach(function (p) { if (p.date > end) end = p.date; }); });
+    var seasonOn = daysBetween(firstExam, end) > 0;
+    var mockA = parseDate(st.mock[0]), mockB = parseDate(st.mock[1]);
+    if (mockA && (!mockB || mockB < mockA)) mockB = mockA;
     var weeks = [];
     var monday = addDays(start, -dayIndex(start));
-    for (var ws = monday; ws <= exam; ws = addDays(ws, 7)) {
+    for (var ws = monday; ws <= end; ws = addDays(ws, 7)) {
       var days = [];
       for (var k = 0; k < 7; k++) {
         var d = addDays(ws, k);
         if (d < start) continue;
-        if (daysBetween(d, exam) === 0) { days.push({ date: d, exam: true, slots: [] }); break; }
+        if (d > end) break;
+        var papersToday = [];
+        subs.forEach(function (s) { s.papers.forEach(function (p) { if (daysBetween(p.date, d) === 0) papersToday.push(p.name); }); });
+        var isFirst = daysBetween(d, firstExam) === 0 && !seasonOn;
+        if (isFirst) { days.push({ date: d, exam: true, slots: [] }); break; }
         var holiday = holidayOn(d);
-        var n = holiday ? 0 : sessionsOn(d, st), slots = [], used = {};
-        var weeksLeft = Math.ceil(daysBetween(d, exam) / 7);
-        var phase = weeksLeft > 12 ? 0 : (weeksLeft > 4 ? 1 : 2);
-        for (var j = 0; j < n; j++) {
-          /* Smooth weighted round robin: every subject earns its weight each
-             slot and the leader is spent. Over the plan each subject gets
-             sessions in proportion to its weight, spread out rather than in
-             blocks. The leader is passed over for a subject not yet done
-             today, so a day mixes subjects whenever there are enough. */
-          subs.forEach(function (s) { s.cur += s.w; });
-          var order = subs.slice().sort(function (a, b) { return b.cur - a.cur || a.i - b.i; });
+        var schoolHol = '';
+        if (st.useholidays) {
+          if (inRange(d, st.hol[0][0], st.hol[0][1])) schoolHol = 'Christmas holiday';
+          else if (inRange(d, st.hol[1][0], st.hol[1][1])) schoolHol = 'Half term';
+          else if (inRange(d, st.hol[2][0], st.hol[2][1])) schoolHol = 'Easter holiday';
+        }
+        var inMocks = mockA && d >= mockA && d <= mockB;
+        var preMocks = mockA && !inMocks && d < mockA && daysBetween(d, mockA) <= 7;
+        var inSeason = d >= firstExam;
+        var n;
+        if (holiday) n = 0;
+        else if (inMocks) n = 1;
+        else if (schoolHol && dayIndex(d) < 5) n = st.holsessions;
+        else n = sessionsOn(d, st);
+        if (inSeason && papersToday.length) n = Math.min(n, 2);
+        /* Subjects still live today: those with papers to come, or no dates. */
+        var live = subs.filter(function (s) {
+          if (!s.papers.length) return d < firstExam;
+          return s.papers.some(function (p) { return p.date > d || (daysBetween(p.date, d) === 0 && false); });
+        });
+        var slots = [], used = {};
+        var weeksLeft = Math.ceil(daysBetween(d, firstExam) / 7);
+        var phase = inSeason ? 2 : (weeksLeft > 12 ? 0 : (weeksLeft > 4 ? 1 : 2));
+        var liveTotal = 0;
+        live.forEach(function (s) {
+          /* In the season, the subject with the nearest paper gets the most time. */
+          var bonus = 1;
+          if (inSeason) {
+            var next = s.papers.filter(function (p) { return p.date > d; }).sort(function (a, b) { return a.date - b.date; })[0];
+            if (next) { var gap = daysBetween(d, next.date); bonus = gap <= 1 ? 6 : gap <= 3 ? 3 : 1; }
+          }
+          s.ew = s.w * bonus; liveTotal += s.ew;
+        });
+        for (var j = 0; j < n && live.length; j++) {
+          /* Smooth weighted round robin over today's live subjects: each
+             earns its weight every slot and the leader is spent, so sessions
+             follow the weights but stay spread out, and a day mixes subjects
+             whenever there are enough. */
+          live.forEach(function (s) { s.cur += s.ew; });
+          var order = live.slice().sort(function (a, b) { return b.cur - a.cur || a.i - b.i; });
           var pick = order.filter(function (s) { return !used[s.i]; })[0] || order[0];
-          pick.cur -= total;
+          pick.cur -= liveTotal;
           used[pick.i] = true;
           pick.count++;
-          slots.push({ s: pick.i, task: TASKS[phase][pick.task++ % 3] });
+          var task;
+          if (inSeason) {
+            var nx = pick.papers.filter(function (p) { return p.date > d; }).sort(function (a, b) { return a.date - b.date; })[0];
+            task = nx && daysBetween(d, nx.date) <= 1 ? 'Final review for ' + nx.name : TASKS[2][pick.task++ % 3];
+          } else if (inMocks) task = "Review today's mock, then the next one";
+          else if (preMocks) task = 'Mock prep: ' + TASKS[1][pick.task++ % 3].toLowerCase();
+          else task = TASKS[phase][pick.task++ % 3];
+          var topic = pick.topics ? pick.topics[pick.topic++ % pick.topics.length] : '';
+          if (inSeason || inMocks) topic = '';
+          slots.push({ s: pick.i, task: task, topic: topic });
         }
-        days.push({ date: d, slots: slots, holiday: holiday });
+        days.push({ date: d, slots: slots, holiday: holiday, tag: holiday ? '' : (inMocks ? 'Mocks' : (schoolHol || '')), papers: papersToday,
+                    first: daysBetween(d, firstExam) === 0 });
       }
       if (days.length) weeks.push({ start: ws, days: days });
     }
@@ -692,8 +843,8 @@
       weeks[weeks.length - 1].days.push(lastWeek.days[0]);
     }
     var sessions = subs.reduce(function (n, s) { return n + s.count; }, 0);
-    return { settings: st, start: start, exam: exam, weeks: weeks, subjects: subs, sessions: sessions,
-             maxSlots: Math.max(st.weekday, st.saturday, st.sunday, 1) };
+    return { settings: st, start: start, exam: firstExam, end: end, season: seasonOn, weeks: weeks, subjects: subs, sessions: sessions,
+             maxSlots: Math.max(st.weekday, st.saturday, st.sunday, st.useholidays ? st.holsessions : 0, 1) };
   }
 
   function validate(st) {
@@ -703,6 +854,7 @@
     if (exam <= start) return 'Your first exam needs to be after the day you start.';
     if (daysBetween(start, exam) > 400) return 'Choose a start date within a year of your first exam.';
     if (!st.weekday && !st.saturday && !st.sunday) return 'Add at least one revision session a week.';
+    if (st.mock[1] && !st.mock[0]) return 'Add the date your mocks start, or clear both mock dates.';
     return '';
   }
 
@@ -714,9 +866,27 @@
   function weekRange(w) { return range(w.days[0].date, w.days[w.days.length - 1].date); }
   function weekLabel(w, i) { return 'Week ' + (i + 1) + ': ' + weekRange(w); }
 
-  function slotHtml(slot) {
-    var s = plan.subjects[slot.s];
-    return '<div class="rt-slot ' + colourOf(s.i) + '"><b>' + esc(s.name) + '</b><span>' + esc(slot.task) + '</span></div>';
+  var done = (function () { try { return JSON.parse(localStorage.getItem(DONE_STORE) || '{}') || {}; } catch (e) { return {}; } })();
+  function doneKey(day, k) { return isoDate(day.date) + '|' + plan.subjects[day.slots[k].s].name + '|' + k; }
+  function saveDone() { try { localStorage.setItem(DONE_STORE, JSON.stringify(done)); } catch (e) {} }
+
+  function slotHtml(day, k) {
+    var slot = day.slots[k], s = plan.subjects[slot.s], key = doneKey(day, k), on = !!done[key];
+    return '<div class="rt-slot ' + colourOf(s.i) + (on ? ' is-done' : '') + '">' +
+      '<input type="checkbox" class="rt-slot__tick" data-rt-done="' + esc(key) + '"' + (on ? ' checked' : '') + ' aria-label="Done: ' + esc(s.name) + ', ' + esc(short(day.date)) + '">' +
+      '<b>' + esc(s.name) + '</b>' + (slot.topic ? '<em>' + esc(slot.topic) + '</em>' : '') + '<span>' + esc(slot.task) + '</span></div>';
+  }
+
+  function renderProgress() {
+    var today = parseDate(isoDate(new Date())), total = 0, ticked = 0, due = 0, dueDone = 0;
+    plan.weeks.forEach(function (w) { w.days.forEach(function (day) { day.slots.forEach(function (sl, k) {
+      var on = !!done[doneKey(day, k)]; total++; if (on) ticked++;
+      if (day.date < today) { due++; if (on) dueDone++; }
+    }); }); });
+    var pct = total ? Math.round(ticked / total * 100) : 0, missed = due - dueDone;
+    el('[data-rt-progress]').innerHTML = '<div class="rt-progress__bar"><i style="width:' + pct + '%"></i></div>' +
+      '<p class="rt-progress__text"><b>' + ticked + ' of ' + total + ' sessions done (' + pct + '%)</b>' +
+      (missed > 0 ? ' &middot; <span class="rt-miss">' + missed + (missed === 1 ? ' session' : ' sessions') + ' missed so far</span>, so add one or two to a quieter day this week.' : (due ? ' &middot; on track.' : ' &middot; tick each session as you finish it.')) + '</p>';
   }
 
   function renderWeek(i) {
@@ -724,16 +894,19 @@
     var w = plan.weeks[weekIndex];
     daysBox.style.setProperty('--cols', plan.maxSlots);
     daysBox.innerHTML = w.days.map(function (day) {
-      var label = '<div class="rt-day__label">' + DAY_NAMES[dayIndex(day.date)].slice(0, 3) + ' <span>' + short(day.date) + '</span></div>';
+      var label = '<div class="rt-day__label">' + DAY_NAMES[dayIndex(day.date)].slice(0, 3) + ' <span>' + short(day.date) + '</span>' +
+        (day.tag ? '<span class="rt-day__tag">' + esc(day.tag) + '</span>' : '') + '</div>';
       var body;
+      var top = (day.papers || []).map(function (p) { return '<div class="rt-slot rt-slot--paper">Exam today: ' + esc(p) + '. Good luck.</div>'; }).join('');
+      if (day.first && !(day.papers || []).length) top += '<div class="rt-slot rt-slot--paper">First exam. Good luck.</div>';
       if (day.exam) body = '<div class="rt-slot rt-slot--exam">First exam. Good luck.</div>';
-      else if (!day.slots.length) body = '<div class="rt-slot rt-slot--rest">' + (day.holiday ? esc(day.holiday) + ': rest' : 'Rest') + '</div>';
-      else body = day.slots.map(slotHtml).join('');
+      else if (!day.slots.length) body = top + '<div class="rt-slot rt-slot--rest">' + (day.holiday ? esc(day.holiday) + ': rest' : 'Rest') + '</div>';
+      else body = top + day.slots.map(function (sl, k) { return slotHtml(day, k); }).join('');
       return '<div class="rt-day">' + label + '<div class="rt-slots">' + body + '</div></div>';
     }).join('');
     weekPick.value = String(weekIndex);
     var toGo = Math.floor(daysBetween(w.days[0].date, plan.exam) / 7);
-    el('[data-rt-weeksub]').textContent = toGo < 1 ? 'Your exams start this week'
+    el('[data-rt-weeksub]').textContent = toGo < 1 ? (plan.season ? 'Exam season: one paper at a time' : 'Your exams start this week')
       : toGo + (toGo === 1 ? ' week' : ' weeks') + ' until your first exam';
     el('[data-rt-prev]').disabled = weekIndex === 0;
     el('[data-rt-next]').disabled = weekIndex === plan.weeks.length - 1;
@@ -742,7 +915,7 @@
   function renderPlan() {
     var hours = Math.round(plan.sessions * plan.settings.minutes / 60);
     el('[data-rt-stats]').innerHTML = '<strong>' + plan.weeks.length + (plan.weeks.length === 1 ? ' week' : ' weeks') +
-      '</strong> to ' + esc(long(plan.exam)) + ', with <strong>' + plan.sessions + ' sessions</strong> (about ' + hours + ' hours).';
+      '</strong> to ' + esc(long(plan.season ? plan.end : plan.exam)) + (plan.season ? ', your last paper' : '') + ', with <strong>' + plan.sessions + ' sessions</strong> (about ' + hours + ' hours).';
     el('[data-rt-legend]').innerHTML = plan.subjects.map(function (s) {
       return '<li><i class="' + colourOf(s.i) + '"></i>' + esc(s.name) + ' <b>' + s.count + '</b></li>';
     }).join('');
@@ -754,6 +927,7 @@
     }).join('');
     result.hidden = false;
     renderWeek(open);
+    renderProgress();
   }
 
   function save(st) { try { localStorage.setItem(STORE, JSON.stringify(st)); } catch (e) {} }
@@ -773,6 +947,15 @@
     track('revision_timetable_made', { level: st.level, subjects: st.subjects.length, weeks: plan.weeks.length });
   });
 
+  daysBox.addEventListener('change', function (e) {
+    var key = e.target.getAttribute && e.target.getAttribute('data-rt-done');
+    if (!key) return;
+    if (e.target.checked) done[key] = 1; else delete done[key];
+    saveDone();
+    e.target.closest('.rt-slot').classList.toggle('is-done', e.target.checked);
+    renderProgress();
+    if (e.target.checked) track('revision_timetable_tick');
+  });
   el('[data-rt-prev]').addEventListener('click', function () { renderWeek(weekIndex - 1); });
   el('[data-rt-next]').addEventListener('click', function () { renderWeek(weekIndex + 1); });
   weekPick.addEventListener('change', function () { renderWeek(+weekPick.value); });
@@ -791,6 +974,7 @@
     head += '</tr>';
     var rows = w.days.map(function (day) {
       var cells = '';
+      var papers = (day.papers || []).length ? '<b>Exam: ' + esc(day.papers.join(', ')) + '</b>' : '';
       if (day.exam) cells = '<td class="rtp-exam" colspan="' + plan.maxSlots + '">First exam. Good luck.</td>';
       else if (!day.slots.length) cells = '<td class="rtp-rest" colspan="' + plan.maxSlots + '">' + (day.holiday ? esc(day.holiday) + ': rest' : 'Rest') + '</td>';
       else {
@@ -798,13 +982,13 @@
           var slot = day.slots[k];
           if (!slot) { cells += '<td></td>'; continue; }
           var s = plan.subjects[slot.s];
-          cells += '<td class="rtp-c' + (s.i % COLOURS.length) + '"><span class="rtp-tick"></span><b>' + esc(s.name) + '</b>' + esc(slot.task) + '</td>';
+          cells += '<td class="rtp-c' + (s.i % COLOURS.length) + '"><span class="rtp-tick"></span><b>' + esc(s.name) + '</b>' + (slot.topic ? esc(slot.topic) + '<br>' : '') + esc(slot.task) + '</td>';
         }
       }
-      return '<tr><th>' + DAY_NAMES[dayIndex(day.date)] + '<br>' + short(day.date) + '</th>' + cells + '</tr>';
+      return '<tr><th>' + DAY_NAMES[dayIndex(day.date)] + '<br>' + short(day.date) + (day.tag ? '<br><small>' + esc(day.tag) + '</small>' : '') + (papers ? '<br>' + papers : '') + '</th>' + cells + '</tr>';
     }).join('');
     return '<section class="rtp-week"><div class="rtp-head"><h2>My revision timetable</h2><p>Week ' + (i + 1) + ' of ' + plan.weeks.length + ': ' + esc(weekRange(w)) +
-      '<br>First exam: ' + esc(long(plan.exam)) + '</p></div><table class="rtp-table"><thead>' + head +
+      '<br>' + (plan.season ? 'Exams: ' + esc(short(plan.exam)) + ' to ' + esc(long(plan.end)) : 'First exam: ' + esc(long(plan.exam))) + '</p></div><table class="rtp-table"><thead>' + head +
       '</thead><tbody>' + rows + '</tbody></table><div class="rtp-foot"><span>Sessions of ' + plan.settings.minutes +
       ' minutes, then a short break. Tick each one when it is done.</span><span>Made free at thedegreegap.com/study/revision-timetable &middot; <b>The Degree Gap</b></span></div></section>';
   }
@@ -825,16 +1009,17 @@
   function csvCell(v) { v = String(v); return /[",\n]/.test(v) ? '"' + v.replace(/"/g, '""') + '"' : v; }
   el('[data-rt-csv]').addEventListener('click', function () {
     if (!plan) return;
-    var header = ['Week', 'Day', 'Date'];
+    var header = ['Week', 'Day', 'Date', 'Notes'];
     for (var k = 0; k < plan.maxSlots; k++) header.push('Session ' + (k + 1));
     var lines = [header];
     plan.weeks.forEach(function (w, i) {
       w.days.forEach(function (day) {
         var row = [i + 1, DAY_NAMES[dayIndex(day.date)],
-                   String(day.date.getDate()).padStart(2, '0') + '/' + String(day.date.getMonth() + 1).padStart(2, '0') + '/' + day.date.getFullYear()];
+                   String(day.date.getDate()).padStart(2, '0') + '/' + String(day.date.getMonth() + 1).padStart(2, '0') + '/' + day.date.getFullYear(), day.tag || ''];
+        if (day.papers && day.papers.length) row.push('Exam: ' + day.papers.join(', '));
         if (day.exam) row.push('First exam');
         else if (!day.slots.length) row.push(day.holiday ? day.holiday + ': rest' : 'Rest');
-        else day.slots.forEach(function (slot) { row.push(plan.subjects[slot.s].name + ': ' + slot.task); });
+        else day.slots.forEach(function (slot) { row.push(plan.subjects[slot.s].name + (slot.topic ? ' (' + slot.topic + ')' : '') + ': ' + slot.task); });
         lines.push(row);
       });
     });
@@ -860,6 +1045,14 @@
       if (saved[k] !== undefined && form.elements[k].querySelector('option[value="' + saved[k] + '"]')) form.elements[k].value = String(saved[k]);
     });
     form.elements.exam.value = saved.exam;
+    if (typeof saved.useholidays === 'boolean') form.elements.useholidays.checked = saved.useholidays;
+    if (typeof saved.season === 'boolean') form.elements.season.checked = saved.season;
+    if (saved.holsessions && form.elements.holsessions.querySelector('option[value="' + saved.holsessions + '"]')) form.elements.holsessions.value = String(saved.holsessions);
+    if (saved.hol && saved.hol.length === 3) [['xmas_a', 'xmas_b'], ['feb_a', 'feb_b'], ['easter_a', 'easter_b']].forEach(function (p, i) {
+      if (parseDate(saved.hol[i][0])) form.elements[p[0]].value = saved.hol[i][0];
+      if (parseDate(saved.hol[i][1])) form.elements[p[1]].value = saved.hol[i][1];
+    });
+    if (saved.mock) { form.elements.mock_a.value = parseDate(saved.mock[0]) ? saved.mock[0] : ''; form.elements.mock_b.value = parseDate(saved.mock[1]) ? saved.mock[1] : ''; }
     /* A plan saved weeks ago restarts from today rather than replaying weeks
        that have gone. */
     var today = isoDate(new Date());
