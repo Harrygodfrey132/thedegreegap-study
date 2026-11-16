@@ -80,6 +80,13 @@
   .rt-check { display: flex; align-items: flex-start; gap: 8px; font-weight: 600; margin: 4px 0 14px; cursor: pointer; }
   .rt-check input { width: 18px; height: 18px; margin-top: 2px; accent-color: #800020; flex: none; }
   .rt-fields--dates { margin-bottom: 14px; }
+  .rt-topics-btn { font: inherit; font-size: 0.8rem; font-weight: 700; border: 1px solid #d9cfc2; background: #fff; border-radius: 999px; padding: 4px 10px; cursor: pointer; color: #800020; }
+  .rt-topicbox { flex-basis: 100%; display: flex; flex-wrap: wrap; gap: 6px; padding: 8px 0 2px; }
+  .rt-topic { font: inherit; font-size: 0.82rem; border-radius: 999px; padding: 5px 11px; cursor: pointer; border: 1px solid; }
+  .rt-topic[data-l="3"] { background: #fde2e1; border-color: #e8a3a0; color: #8a1c17; }
+  .rt-topic[data-l="2"] { background: #fff1cf; border-color: #e6c873; color: #6b4e00; }
+  .rt-topic[data-l="1"] { background: #e1f3e6; border-color: #9ccdab; color: #1f5e34; }
+  .rt-slot time { display: block; font-size: 0.74rem; font-weight: 700; color: #5f5a54; }
   .rt-range { display: flex; align-items: center; gap: 6px; }
   .rt-range .rt-input { min-width: 0; flex: 1; }
   .rt-range span { color: #5f5a54; font-size: 0.88rem; }
@@ -279,7 +286,7 @@
 
         <fieldset class="rt-step">
           <legend><span>2.</span>Your subjects</legend>
-          <p class="rt-step__hint">Tap each subject you're taking, then say how confident you feel in it. Subjects that need the most work get three sessions for every one a confident subject gets.</p>
+          <p class="rt-step__hint">Tap each subject you're taking, then say how confident you feel in it. Subjects that need the most work get three sessions for every one a confident subject gets. Tap <b>Topics</b> on a subject to rate each topic red, amber or green: red topics come up three times as often as green ones.</p>
           <div class="rt-chips" data-rt-chips></div>
           <div class="rt-add">
             <label for="rt-custom" class="rt-sr">Add a subject that isn't listed</label>
@@ -340,6 +347,14 @@
               </select>
               <p class="rt-field__hint">Plus a break of 5 to 10 minutes after each one.</p>
             </div>
+            <div class="rt-field">
+              <label for="rt-tday">School days start at</label>
+              <input id="rt-tday" class="rt-input" type="time" name="tday" value="17:00">
+            </div>
+            <div class="rt-field">
+              <label for="rt-tend">Weekends and holidays start at</label>
+              <input id="rt-tend" class="rt-input" type="time" name="tend" value="10:00">
+            </div>
           </div>
         </fieldset>
 
@@ -377,6 +392,7 @@
           <div class="rt-actions">
             <button type="button" class="is-primary" data-rt-print="week">Print this week</button>
             <button type="button" data-rt-print="all">Print every week</button>
+            <button type="button" data-rt-ics>Add to my phone calendar</button>
             <button type="button" data-rt-csv>Download for Excel or Google Sheets</button>
             <button type="button" data-rt-edit>Change my answers</button>
           </div>
@@ -621,6 +637,9 @@
   var customInput = el('[data-rt-custom]'), errorBox = el('[data-rt-error]');
   var result = el('[data-rt-result]'), daysBox = el('[data-rt-days]'), weekPick = el('[data-rt-weekpick]');
   var subjects = [];   /* [{name, weight}] in the order chosen */
+  var topicConf = {};  /* {subject: {topic: 1 green | 2 amber | 3 red}} */
+  var openTopics = {};
+  function topicList(name) { return (level() === 'alevel' ? TOPICS_ALEVEL[name] : TOPICS[name]) || null; }
   var plan = null, weekIndex = 0;
 
   function track(name, params) {
@@ -671,7 +690,12 @@
         CONFIDENCE.map(function (c) {
           return '<option value="' + c[0] + '"' + (c[0] === s.weight ? ' selected' : '') + '>' + c[1] + '</option>';
         }).join('') + '</select>' +
-        '<button type="button" class="rt-remove" data-rt-remove="' + i + '" aria-label="Remove ' + esc(s.name) + '">&times;</button></li>';
+        (topicList(s.name) ? '<button type="button" class="rt-topics-btn" data-rt-topics="' + i + '" aria-expanded="' + (openTopics[s.name] ? 'true' : 'false') + '">Topics</button>' : '') +
+        '<button type="button" class="rt-remove" data-rt-remove="' + i + '" aria-label="Remove ' + esc(s.name) + '">&times;</button>' +
+        (topicList(s.name) && openTopics[s.name] ? '<div class="rt-topicbox">' + topicList(s.name).map(function (tp) {
+            var l = (topicConf[s.name] || {})[tp] || 2;
+            return '<button type="button" class="rt-topic" data-rt-topic="' + i + '" data-t="' + esc(tp) + '" data-l="' + l + '" title="Tap to change: amber, red, green">' + esc(tp) + '</button>';
+          }).join('') + '</div>' : '') + '</li>';
     }).join('');
     emptyNote.hidden = subjects.length > 0;
   }
@@ -703,6 +727,16 @@
     if (i !== null && subjects[+i]) subjects[+i].weight = +e.target.value;
   });
   chosenList.addEventListener('click', function (e) {
+    var tb = e.target.closest('[data-rt-topics]');
+    if (tb) { var nm = subjects[+tb.getAttribute('data-rt-topics')].name; openTopics[nm] = !openTopics[nm]; renderChosen(); return; }
+    var tp = e.target.closest('[data-rt-topic]');
+    if (tp) {
+      var sn = subjects[+tp.getAttribute('data-rt-topic')].name, name = tp.getAttribute('data-t');
+      topicConf[sn] = topicConf[sn] || {};
+      var cur = topicConf[sn][name] || 2, next = cur === 2 ? 3 : (cur === 3 ? 1 : 2);
+      topicConf[sn][name] = next; tp.setAttribute('data-l', next);
+      return;
+    }
     var btn = e.target.closest('[data-rt-remove]');
     if (btn) removeSubject(subjects[+btn.getAttribute('data-rt-remove')].name);
   });
@@ -726,7 +760,8 @@
       nightoff: +f.nightoff.value, minutes: +f.minutes.value,
       useholidays: f.useholidays.checked, holsessions: +f.holsessions.value,
       hol: [[f.xmas_a.value, f.xmas_b.value], [f.feb_a.value, f.feb_b.value], [f.easter_a.value, f.easter_b.value]],
-      mock: [f.mock_a.value, f.mock_b.value], season: f.season.checked
+      mock: [f.mock_a.value, f.mock_b.value], season: f.season.checked,
+      tday: f.tday.value || '17:00', tend: f.tend.value || '10:00', topicConf: topicConf
     };
   }
   function sessionsOn(d, st) {
@@ -752,7 +787,9 @@
        week is not every subject opening with the same task. */
     var subs = st.subjects.map(function (s, i) {
       var papers = (gcse && st.season && PAPERS[s.name]) ? PAPERS[s.name].map(function (p) { return { date: parseDate(p[0]), name: p[1] }; }) : [];
-      return { name: s.name, w: s.weight, cur: 0, count: 0, task: i, i: i, topics: topicsFor(s.name), topic: 0, papers: papers };
+      var tl = topicsFor(s.name), conf = (st.topicConf || {})[s.name] || {};
+      var tw = tl ? tl.map(function (tp) { return { name: tp, w: conf[tp] || 2, cur: 0 }; }) : null;
+      return { name: s.name, w: s.weight, cur: 0, count: 0, task: i, i: i, topics: tw, topic: 0, papers: papers };
     });
     /* With the exam season on, the plan runs to the last chosen paper; a
        subject with no known dates runs until the first exam, as before. */
@@ -825,7 +862,14 @@
           } else if (inMocks) task = "Review today's mock, then the next one";
           else if (preMocks) task = 'Mock prep: ' + TASKS[1][pick.task++ % 3].toLowerCase();
           else task = TASKS[phase][pick.task++ % 3];
-          var topic = pick.topics ? pick.topics[pick.topic++ % pick.topics.length] : '';
+          /* Topics share the subject's sessions the same way subjects share
+             the day: red topics three times as often as green ones. */
+          var topic = '';
+          if (pick.topics) {
+            var tsum = 0; pick.topics.forEach(function (x) { x.cur += x.w; tsum += x.w; });
+            var best = pick.topics.slice().sort(function (a, b) { return b.cur - a.cur; })[0];
+            best.cur -= tsum; topic = best.name;
+          }
           if (inSeason || inMocks) topic = '';
           slots.push({ s: pick.i, task: task, topic: topic });
         }
@@ -870,11 +914,19 @@
   function doneKey(day, k) { return isoDate(day.date) + '|' + plan.subjects[day.slots[k].s].name + '|' + k; }
   function saveDone() { try { localStorage.setItem(DONE_STORE, JSON.stringify(done)); } catch (e) {} }
 
+  function slotTime(day, k) {
+    var wkend = dayIndex(day.date) >= 5 || (day.tag && day.tag !== 'Mocks');
+    var base = (wkend ? plan.settings.tend : plan.settings.tday) || '17:00';
+    var p = base.split(':'), m = (+p[0]) * 60 + (+p[1] || 0) + k * (plan.settings.minutes + 10);
+    var e = m + plan.settings.minutes;
+    function hm(x) { return String(Math.floor(x / 60) % 24).padStart(2, '0') + ':' + String(x % 60).padStart(2, '0'); }
+    return { from: hm(m), to: hm(e), fromMin: m, toMin: e };
+  }
   function slotHtml(day, k) {
-    var slot = day.slots[k], s = plan.subjects[slot.s], key = doneKey(day, k), on = !!done[key];
+    var slot = day.slots[k], s = plan.subjects[slot.s], key = doneKey(day, k), on = !!done[key], tm = slotTime(day, k);
     return '<div class="rt-slot ' + colourOf(s.i) + (on ? ' is-done' : '') + '">' +
       '<input type="checkbox" class="rt-slot__tick" data-rt-done="' + esc(key) + '"' + (on ? ' checked' : '') + ' aria-label="Done: ' + esc(s.name) + ', ' + esc(short(day.date)) + '">' +
-      '<b>' + esc(s.name) + '</b>' + (slot.topic ? '<em>' + esc(slot.topic) + '</em>' : '') + '<span>' + esc(slot.task) + '</span></div>';
+      '<time>' + tm.from + ' to ' + tm.to + '</time><b>' + esc(s.name) + '</b>' + (slot.topic ? '<em>' + esc(slot.topic) + '</em>' : '') + '<span>' + esc(slot.task) + '</span></div>';
   }
 
   function renderProgress() {
@@ -982,7 +1034,7 @@
           var slot = day.slots[k];
           if (!slot) { cells += '<td></td>'; continue; }
           var s = plan.subjects[slot.s];
-          cells += '<td class="rtp-c' + (s.i % COLOURS.length) + '"><span class="rtp-tick"></span><b>' + esc(s.name) + '</b>' + (slot.topic ? esc(slot.topic) + '<br>' : '') + esc(slot.task) + '</td>';
+          cells += '<td class="rtp-c' + (s.i % COLOURS.length) + '"><span class="rtp-tick"></span><small>' + slotTime(day, k).from + '</small><br><b>' + esc(s.name) + '</b>' + (slot.topic ? esc(slot.topic) + '<br>' : '') + esc(slot.task) + '</td>';
         }
       }
       return '<tr><th>' + DAY_NAMES[dayIndex(day.date)] + '<br>' + short(day.date) + (day.tag ? '<br><small>' + esc(day.tag) + '</small>' : '') + (papers ? '<br>' + papers : '') + '</th>' + cells + '</tr>';
@@ -1005,7 +1057,43 @@
   });
   window.addEventListener('afterprint', function () { document.body.classList.remove('rt-printing'); });
 
+  /* ---- Calendar file: every session as an event with a reminder ---- */
+  function icsText(v) { return String(v).replace(/[\;,]/g, function (c) { return '\\' + c; }).replace(/\n/g, '\\n'); }
+  el('[data-rt-ics]').addEventListener('click', function () {
+    if (!plan) return;
+    var stamp = new Date().toISOString().replace(/[-:]/g, '').replace(/\.\d+/, '');
+    var lines = ['BEGIN:VCALENDAR', 'VERSION:2.0', 'PRODID:-//The Degree Gap//Revision timetable//EN', 'CALSCALE:GREGORIAN', 'X-WR-CALNAME:Revision timetable'];
+    function dt(d, mins) {
+      var x = new Date(d.getFullYear(), d.getMonth(), d.getDate(), 0, mins);
+      return x.getFullYear() + String(x.getMonth() + 1).padStart(2, '0') + String(x.getDate()).padStart(2, '0') + 'T' +
+             String(x.getHours()).padStart(2, '0') + String(x.getMinutes()).padStart(2, '0') + '00';
+    }
+    var n = 0;
+    plan.weeks.forEach(function (w) { w.days.forEach(function (day) {
+      (day.papers || []).forEach(function (p) {
+        var ds = isoDate(day.date).replace(/-/g, '');
+        lines.push('BEGIN:VEVENT', 'UID:rt-paper-' + ds + '-' + (n++) + '@thedegreegap.com', 'DTSTAMP:' + stamp, 'DTSTART;VALUE=DATE:' + ds,
+                   'SUMMARY:' + icsText('Exam: ' + p), 'END:VEVENT');
+      });
+      day.slots.forEach(function (slot, k) {
+        var s = plan.subjects[slot.s], tm = slotTime(day, k);
+        lines.push('BEGIN:VEVENT', 'UID:rt-' + isoDate(day.date) + '-' + k + '-' + (n++) + '@thedegreegap.com', 'DTSTAMP:' + stamp,
+          'DTSTART:' + dt(day.date, tm.fromMin), 'DTEND:' + dt(day.date, tm.toMin),
+          'SUMMARY:' + icsText('Revise ' + s.name + (slot.topic ? ': ' + slot.topic : '')),
+          'DESCRIPTION:' + icsText(slot.task + '. Made with The Degree Gap revision timetable.'),
+          'BEGIN:VALARM', 'TRIGGER:-PT10M', 'ACTION:DISPLAY', 'DESCRIPTION:' + icsText('Revision: ' + s.name), 'END:VALARM', 'END:VEVENT');
+      });
+    }); });
+    lines.push('END:VCALENDAR');
+    var url = URL.createObjectURL(new Blob([lines.join('\r\n')], { type: 'text/calendar;charset=utf-8' }));
+    var a = document.createElement('a'); a.href = url; a.download = 'revision-timetable.ics';
+    document.body.appendChild(a); a.click(); a.remove();
+    setTimeout(function () { URL.revokeObjectURL(url); }, 4000);
+    track('revision_timetable_download', { format: 'ics' });
+  });
+
   /* ---- Spreadsheet download ---- */
+
   function csvCell(v) { v = String(v); return /[",\n]/.test(v) ? '"' + v.replace(/"/g, '""') + '"' : v; }
   el('[data-rt-csv]').addEventListener('click', function () {
     if (!plan) return;
@@ -1052,6 +1140,9 @@
       if (parseDate(saved.hol[i][0])) form.elements[p[0]].value = saved.hol[i][0];
       if (parseDate(saved.hol[i][1])) form.elements[p[1]].value = saved.hol[i][1];
     });
+    if (/^\d{2}:\d{2}$/.test(saved.tday || '')) form.elements.tday.value = saved.tday;
+    if (/^\d{2}:\d{2}$/.test(saved.tend || '')) form.elements.tend.value = saved.tend;
+    if (saved.topicConf && typeof saved.topicConf === 'object') topicConf = saved.topicConf;
     if (saved.mock) { form.elements.mock_a.value = parseDate(saved.mock[0]) ? saved.mock[0] : ''; form.elements.mock_b.value = parseDate(saved.mock[1]) ? saved.mock[1] : ''; }
     /* A plan saved weeks ago restarts from today rather than replaying weeks
        that have gone. */
