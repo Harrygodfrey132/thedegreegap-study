@@ -11332,6 +11332,32 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .referred-by__logo img { max-height: 48px; }
 }
 
+/* Jaisul Naik referral page: name as a white wordmark on #000000. */
+.book-call--jaisul-naik .book-call__form-tag { background: #F2F2F2; color: #111111; border: 1.5px solid #111111; padding: 5px 12px; font-weight: 800; }
+.book-call--jaisul-naik .book-call__reviews-brand { color: #111111; }
+.book-call--jaisul-naik .book-call__endorsement { display: inline-flex; align-items: center; gap: 14px; padding: 12px 22px; background: #000000; border: 1.5px solid #000000; border-radius: 999px; box-shadow: 0 2px 12px rgba(0,0,0,0.18); text-decoration: none; color: #FFFFFF; transition: box-shadow 0.18s ease, transform 0.18s ease; max-width: max-content; }
+.book-call--jaisul-naik a.book-call__endorsement:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.28); transform: translateY(-1px); text-decoration: none; color: #FFFFFF; }
+.book-call--jaisul-naik .book-call__endorsement-label { font-size: 0.72rem; font-weight: 800; letter-spacing: 0.14em; text-transform: uppercase; color: #FFFFFF; white-space: nowrap; padding-right: 12px; border-right: 1px solid rgba(255,255,255,0.45); }
+.book-call--jaisul-naik .book-call__endorsement-wordmark { font-size: 1.12rem; font-weight: 700; color: #FFFFFF; white-space: nowrap; }
+@media (max-width: 540px) {
+  .book-call--jaisul-naik .book-call__endorsement { padding: 10px 16px; gap: 10px; }
+  .book-call--jaisul-naik .book-call__endorsement-label { padding-right: 10px; font-size: 0.64rem; }
+  .book-call--jaisul-naik .book-call__endorsement-wordmark { font-size: 0.98rem; }
+}
+
+/* John Brennan referral page: name as a white wordmark on #800020. */
+.book-call--john-brennan .book-call__form-tag { background: #F8EAEE; color: #800020; border: 1.5px solid #800020; padding: 5px 12px; font-weight: 800; }
+.book-call--john-brennan .book-call__reviews-brand { color: #800020; }
+.book-call--john-brennan .book-call__endorsement { display: inline-flex; align-items: center; gap: 14px; padding: 12px 22px; background: #800020; border: 1.5px solid #5E0018; border-radius: 999px; box-shadow: 0 2px 12px rgba(0,0,0,0.18); text-decoration: none; color: #FFFFFF; transition: box-shadow 0.18s ease, transform 0.18s ease; max-width: max-content; }
+.book-call--john-brennan a.book-call__endorsement:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.28); transform: translateY(-1px); text-decoration: none; color: #FFFFFF; }
+.book-call--john-brennan .book-call__endorsement-label { font-size: 0.72rem; font-weight: 800; letter-spacing: 0.14em; text-transform: uppercase; color: #FFFFFF; white-space: nowrap; padding-right: 12px; border-right: 1px solid rgba(255,255,255,0.45); }
+.book-call--john-brennan .book-call__endorsement-wordmark { font-size: 1.12rem; font-weight: 700; color: #FFFFFF; white-space: nowrap; }
+@media (max-width: 540px) {
+  .book-call--john-brennan .book-call__endorsement { padding: 10px 16px; gap: 10px; }
+  .book-call--john-brennan .book-call__endorsement-label { padding-right: 10px; font-size: 0.64rem; }
+  .book-call--john-brennan .book-call__endorsement-wordmark { font-size: 0.98rem; }
+}
+
 /* ---------------------------------------------------------------------------
    Dual review badges (Google + Trustpilot). Rendered by
    layouts/partials/review-badges.html. Visual trust signal only: no
