@@ -1,0 +1,57 @@
+---
+title: "Middlesbrough A-Level Chemistry Tutors | The Degree Gap"
+nav_title: "Chemistry"
+description: "Are mechanisms and moles sinking your child's A-Level Chemistry? Online tutoring for Middlesbrough sixth formers, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Middlesbrough"
+level: "A-Level"
+subject: "Chemistry"
+hero_h1: "A-Level Chemistry Tutors for Middlesbrough Students"
+hero_lead: "Your child can follow a mechanism when the teacher draws it, then can't start one alone. Our A-Level Chemistry tutors for Middlesbrough students teach the patterns behind the arrows, and the calculations that sit alongside them."
+angle_eyebrow: "ARROWS, MOLES AND PATIENCE"
+angle_heading: "Where Middlesbrough Students Lose A-Level Chemistry Marks, From Moles to Mechanisms"
+angle_body_1: "Chemistry at A-Level gets hard in two places at once. The calculations get longer: a titration that runs into a moles question that runs into a percentage yield, and one slip early on wipes out the lot. And organic chemistry arrives, with mechanisms your child is expected to draw from scratch, curly arrows starting in exactly the right place. Most students try to memorise each mechanism separately. There are too many for that to work, so by Year 13 it all blurs together."
+angle_body_2: "A tutor teaches mechanisms as a handful of patterns, so your child can work out a new one instead of recalling it. Calculations get set out the same way every time, line by line, until the method is automatic. Chemistry has real local weight here. Teesside's chemical industry, around Wilton and Billingham, has been part of Teesside for generations, and both chemistry degrees and chemical engineering apprenticeships look hard at the A-Level grade."
+angle_image: "/images/chemistry-lab-glassware.jpg"
+angle_image_alt: "Conical flasks and glassware, the equipment behind an A-Level Chemistry titration question"
+angle_stat_from: "E"
+angle_stat_to: "B"
+angle_stat_detail: "Keira (A-Level Student) wrote on Google that the tutoring “definitely helped me increase my grades from an E to a B” The review doesn't name the subject."
+schools:
+  - "Middlesbrough College"
+  - "Prior Pursglove College"
+  - "Macmillan Academy"
+  - "Trinity Catholic College"
+  - "Nunthorpe Academy"
+  - "The King's Academy"
+steps_heading: "Getting A-Level Chemistry help in place for a Middlesbrough sixth former"
+steps_lead: "Send a recent marked test if you can. We usually have profiles to you the day after the call."
+steps:
+  - title: "A free call about your child"
+    body: "Roughly 30 minutes with Harry or Joe, free. We'll ask about the sixth form, the board, whether it's Year 12 or 13, and whether the trouble is organic, calculations or both."
+  - title: "Choose your tutor"
+    body: "Two or three Chemistry tutor profiles within 24 hours, each from someone who knows your child's specification. A free 15-minute video call with your pick comes first."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, with mechanisms and calculations drawn on a shared whiteboard and every lesson recorded. From £37 an hour, no contract, and a new tutor at no charge if needed."
+faqs:
+  - q: "Is A-Level Chemistry useful for jobs around Teesside?"
+    a: "Yes, very. The chemical and process industries around Wilton and Billingham employ chemists, engineers and technicians, and many of those routes start with A-Level Chemistry. Each degree, apprenticeship and employer sets its own entry requirements, so look up the current ones. A tutor then helps your child reach the grade they need."
+  - q: "Which exam board is my child's Chemistry on, and does it matter?"
+    a: "Your child's sixth form will know, and yes, it matters. AQA, OCR and Edexcel cover similar chemistry but ask about it differently, and OCR has two different Chemistry courses. A tutor who knows the board uses the right past papers and mark schemes from day one."
+  - q: "How many lessons will it take to see a difference?"
+    a: "Often a few weeks if the problem is method, such as setting out calculations. Longer, maybe a term, if a whole area like organic chemistry never made sense. The tutor will tell you after the first lesson which it is, and what they're working on first."
+  - q: "Are your Chemistry tutors qualified?"
+    a: "Some are qualified teachers. Others are Chemistry graduates or students at university, many from Russell Group universities, and all have at least two years of tutoring experience. Harry or Joe interview every one, and we ask them to explain something like a nucleophilic substitution to a beginner before they join."
+  - q: "Can my child stop the lessons whenever they like?"
+    a: "Yes. There's no contract, and you pay as you go from £37 an hour. Give a day or two's notice before the next lesson and that's it. Lots of families pause over Christmas or after the exams and come back later."
+# FAQ picks: G04, A02, A01, E02, C09
+reviews:
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "John|Parent of A-Level Student|Freddie really enjoyed his time with The Degree Gap. He got help with his three A levels (maths, computer science and business) and managed to get his number one choice attending Liverpool Uni to study a masters in Maths. The tutors were organised, supportive and spent time understanding where the knowledge gaps where to ensure best chance of success in exams! Highly recommended"
+  - "Nick|Parent of A-Level Student|Sandra Sabu has been tutoring our son for Psychology A Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

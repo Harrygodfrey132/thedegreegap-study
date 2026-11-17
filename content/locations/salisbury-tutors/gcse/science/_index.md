@@ -1,0 +1,57 @@
+---
+title: "GCSE Science Tutors for Salisbury Students | The Degree Gap"
+nav_title: "Science"
+description: "Is triple Science stretching your child thin? Online GCSE Science tutoring for Salisbury students, Combined or separate sciences. From £37 an hour, no contract."
+layout: "level-subject"
+location: "Salisbury"
+level: "GCSE"
+subject: "Science"
+hero_h1: "GCSE Science Tutors for Salisbury Students"
+hero_lead: "Three sciences, three sets of practicals and a lot of six-mark answers can wear a teenager down. Our GCSE Science tutors for Salisbury students focus on the science losing the most marks, so the others don't suffer too."
+angle_eyebrow: "THREE SCIENCES, ONE TIMETABLE"
+angle_heading: "How Salisbury Students Can Keep Three GCSE Sciences From Slipping"
+angle_body_1: "Many Salisbury pupils, at the grammars and elsewhere, take separate Biology, Chemistry and Physics. That's a lot of content, and usually one science starts to slide while attention goes to the others. Often it's Chemistry: moles and concentration calculations, or balancing equations with state symbols. Sometimes Physics, with equations to rearrange and units to convert. And in all three, the required practical questions and six-mark answers, where the right facts come out in the wrong order."
+angle_body_2: "The tutor picks the science that's furthest behind and works on it first, so the pressure comes off the rest. Calculations get worked through on the whiteboard line by line. Practicals are sketched and explained as exam topics. Six-markers get planned as a chain before writing. Science grades matter here, with Porton Down's science employers and Salisbury District Hospital close by, and sixth forms setting their own grades for A-Level sciences."
+angle_image: "/images/fluorescent-cells-under-microscope.jpg"
+angle_image_alt: "Cells under a microscope, as in a GCSE Biology microscopy practical"
+angle_stat_from: "4-5"
+angle_stat_to: "8"
+angle_stat_detail: "From GCSE Physics. Chamarika (Parent of GCSE Student) wrote on Trustpilot: “My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8”."
+schools:
+  - "Bishop Wordsworth's School"
+  - "South Wilts Grammar School"
+  - "Wyvern St Edmund's Academy"
+  - "St Joseph's Catholic School"
+  - "Sarum Academy"
+  - "Salisbury Sixth Form College"
+steps_heading: "Starting GCSE Science tutoring for your Salisbury teenager"
+steps_lead: "A recent Science test is the most useful thing to send. Profiles usually arrive within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "About 30 minutes with Harry or Joe, free. We'll ask whether it's Combined or triple Science, which tier and which science is weakest, and whether a science A-Level is the plan."
+  - title: "Choose your tutor"
+    body: "Two or three profiles within 24 hours from tutors who know your child's board and the science that's struggling. Your child meets your pick on a free 15-minute video call first."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, working calculations and diagrams on a shared whiteboard, with a replay of each lesson. From £37 an hour, no contract, and a free change of tutor."
+faqs:
+  - q: "What's the hardest part of GCSE Science for Salisbury students?"
+    a: "Usually the calculations and the six-mark answers. In Chemistry it's moles and concentrations; in Physics, rearranging equations and units. Six-markers lose marks when the points are right but out of order. A recent mock will show which is costing your child the most."
+  - q: "My child is doing triple Science. Do they need three tutors?"
+    a: "Rarely. Most families get help with the one science that's furthest behind, often Chemistry or Physics. Some tutors teach two or all three. Harry or Joe will suggest what makes sense on the call."
+  - q: "How many tutoring sessions does it take to improve a Science grade?"
+    a: "It depends on the gap. If it's technique, like six-markers or setting out calculations, a few weeks can help. If a whole topic never made sense, it can take most of a term. The tutor will tell you which after the first lesson."
+  - q: "Can a Science tutor help a child with dyslexia or ADHD?"
+    a: "Yes. Tell us on the call and we'll suggest a tutor with that experience. It often means shorter chunks, plenty of diagrams on the whiteboard and the same structure each lesson."
+  - q: "Can my child have Science lessons in the school holidays?"
+    a: "Yes. Half-term and Easter are good times for a few extra lessons before mocks or exams. Because it's online, times can fit around family plans."
+# FAQ picks: G05, A13, A01, E03, C05
+reviews:
+  - "Chamarika|Parent of GCSE Student|Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s. Thank you to all the 3x tutors."
+  - "Sam|Parent of GCSE Student|Excellent experience. Founders are accessible, hands on, responsive and flexible. As are the tutors - quality all round. It was great to be able to trial a few to find the right fit, who my daughter felt most comfortable with. She got at least a grade higher in GCSEs because of the tuition which helped her get into a top school (grammar) for As."
+  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. The website is easy to use and effective, I had no disappointment in scheduling lessons for my son. Tutors were polite and on time for their lessons."
+  - "Gilmoore|Parent of GCSE Student|Initially I was hesitant to enrol my son for online lessons. However, the company has well experienced, knowledgeable and helpful tutors. There is also flexibility around booking of lessons. At the end of the day, my son achieved the next top grade than what had been predicted in his mid-year school GCSE exams. I am forever indebted to The Degree Gap."
+  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. The tutors we have used are lovely.  The Degree Gap use an advanced online platform which enables interactive tuition. We also attended a free webinar from the Degree Gap which was very informative and added value. I highly recommend them."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

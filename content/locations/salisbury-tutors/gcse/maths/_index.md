@@ -1,0 +1,56 @@
+---
+title: "GCSE Maths Tutors for Salisbury Students | The Degree Gap"
+nav_title: "Maths"
+description: "Is your child losing marks on the hardest Maths questions, or the basic ones? Online GCSE Maths tutoring for Salisbury students. From £37 an hour, no contract."
+layout: "level-subject"
+location: "Salisbury"
+level: "GCSE"
+subject: "Maths"
+hero_h1: "GCSE Maths Tutors for Salisbury Students"
+hero_lead: "Some Salisbury children lose their Maths marks on the last few questions of the paper, others on the first few. Our GCSE Maths tutors for Salisbury students work out which kind your child is, then work on exactly that."
+angle_eyebrow: "THE FRONT OF THE PAPER OR THE BACK"
+angle_heading: "Two Kinds of GCSE Maths Problem We See in Salisbury Students"
+angle_body_1: "Salisbury's school mix means two very different Maths problems. At the grammars, it's often a quick learner who handles the routine questions and then stalls at the back of the Higher paper: circle theorem proofs, iterative methods, algebraic fractions, a wordy problem with no obvious first step. In other schools, it's more often a child who's capable but carrying gaps from Year 7 or 8, fractions or negatives, so the algebra built on top keeps falling down. Different starting points. Both fixable."
+angle_body_2: "The first lesson goes through a recent paper and sorts the lost marks into knowledge gaps and technique. A grammar pupil might spend weeks on unfamiliar problem-solving questions. A child rebuilding gets the old skills sorted first, with easy wins. The grade matters at sixteen. Bishop Wordsworth's, South Wilts and Salisbury Sixth Form College set their own Maths requirements for A-Level Maths and sciences, and most apprenticeships want a 4."
+angle_image: "/images/student-completing-maths-worksheet.jpg"
+angle_image_alt: "A student working through a GCSE Maths worksheet in pencil"
+angle_stat_from: "4-5"
+angle_stat_to: "8"
+angle_stat_detail: "These grades are from GCSE Physics, not Maths. Chamarika (Parent of GCSE Student) wrote on Trustpilot that their son “had a predicted 4-5 in Physics” and “made it an 8”."
+schools:
+  - "Bishop Wordsworth's School"
+  - "South Wilts Grammar School"
+  - "Wyvern St Edmund's Academy"
+  - "St Joseph's Catholic School"
+  - "Sarum Academy"
+steps_heading: "Three steps to GCSE Maths tutoring for your Salisbury child"
+steps_lead: "Tell us if a tier decision or the mocks are close. Profiles usually come within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "A free call of about 30 minutes with Harry or Joe. We'll ask about the school, the board, Foundation or Higher, and which bits of the paper go wrong. A recent marked test helps a lot."
+  - title: "Choose your tutor"
+    body: "Two or three Maths tutor profiles within 24 hours, chosen for your child's board and level. Your child has a free 15-minute video call with the one you like best first."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, an online whiteboard where the tutor follows every line, with a replay afterwards. From £37 an hour, no contract, and a new tutor if needed."
+faqs:
+  - q: "What Maths grade do Salisbury sixth forms ask for A-Level Maths?"
+    a: "It varies, and each sixth form publishes its own. Bishop Wordsworth's, South Wilts Grammar, Sarum Academy and Salisbury Sixth Form College all set subject requirements for A-Level Maths, which are usually higher than the general entry grade. Check the current prospectus, then a tutor can work towards that number."
+  - q: "Should my child focus on the calculator or non-calculator paper?"
+    a: "There are three papers, and all three count equally: one non-calculator and two calculator. Many students lose marks on arithmetic in the non-calculator paper, and on long problems at the back of the calculator ones. A tutor's first lesson shows which is costing your child more."
+  - q: "How can I tell which Maths topics my child is losing marks on?"
+    a: "Look at where the marks go on a recent paper. Blanks in the later questions usually mean problem-solving or harder topics. Mistakes early on usually mean basics like fractions or negatives. The tutor does this properly in the first lesson and tells you what they found."
+  - q: "Are your Maths tutors qualified teachers?"
+    a: "Some are. Others are Maths graduates or university students, many from Russell Group universities, and all have at least two years of tutoring experience. Harry or Joe interview every one."
+  - q: "Is Maths tutoring worth it if my child is already at a grammar?"
+    a: "Sometimes yes, sometimes no, and we'll tell you honestly. If your child is losing marks on the hardest questions and wants a top grade, or has lost confidence, it often helps. If they're comfortable, some past papers might be enough. Lessons are from £37 an hour with no contract."
+# FAQ picks: G01, A11, A06, E02, C03
+reviews:
+  - "Hermione|GCSE Student|Came here to search for a GCSE maths tutor and was recommended Rebecca Hanna by the very helpful Harry. Rebecca was nothing but helpful and comforting. I highly recommend her, especially since she helped me pass the GCSE! Thank you."
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. We opted for Avery and she was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back in her abilities and gave her the confidence to face Maths GCSE exams. Highly recommend Degree Gap and will be back again in September with my youngest embarking on her GCSEs"
+  - "Nikola|iGCSE Student|The Degree Gap paired me with a great tutor for my igcse exams. Harry was eager and really knew his stuff about Maths. It was nice that i got a free trial call first, so i could see if it was a good match. Would highly recommend to a friend."
+  - "Jessica|Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!"
+  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents.\n\nUPDATE: My daughter passed both English and Maths GCSE (4 and 5's). We are extremely grateful to your team especially Avery for the support she gave her in both subjects. Considering she missed a large chunk of the last 3 years at school due to a social anxiety illness, this is an amazing achievement for her."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

@@ -1,0 +1,57 @@
+---
+title: "A-Level Maths Tutors for Middlesbrough Sixth Formers | The Degree Gap"
+nav_title: "Maths"
+description: "Did your child go from top GCSE Maths to struggling at A-Level? Online A-Level Maths tutoring for Middlesbrough students, matched to the board. From £37."
+layout: "level-subject"
+location: "Middlesbrough"
+level: "A-Level"
+subject: "Maths"
+hero_h1: "A-Level Maths Tutors for Middlesbrough Students"
+hero_lead: "Your child got a strong GCSE Maths grade and now feels lost by October of Year 12. Our A-Level Maths tutors for Middlesbrough students close that jump, starting with the algebra the new work relies on."
+angle_eyebrow: "THE JUMP FROM GCSE"
+angle_heading: "Why A-Level Maths Feels Like a New Subject to So Many Middlesbrough Students"
+angle_body_1: "The GCSE-to-A-Level jump in Maths is bigger than most families expect. Algebra that was fine at GCSE now has to be fast and automatic, because it's only one line in a much longer calculus question. Proof turns up. Trigonometry gets far harder. Then there's mechanics and statistics alongside the pure, with their own way of thinking. A child who could get by on practice at GCSE now meets questions they've never seen in that exact form, and one small slip in line two costs the whole question."
+angle_body_2: "The tutor works on the algebra first, sharpening it until it stops causing slips, then builds the calculus and trigonometry on top. Each lesson includes an unfamiliar exam question, worked through together, so your child learns how to start when they don't recognise it. A-Level Maths opens doors locally, from engineering at Teesside University to apprenticeships in Teesside's energy and process industries, and those routes usually look closely at the Maths grade."
+angle_image: "/images/maths-equations-close-up.jpg"
+angle_image_alt: "Close-up of calculus on paper, the kind of A-Level Maths working where one slip costs marks"
+angle_stat_from: "E"
+angle_stat_to: "B"
+angle_stat_detail: "Keira (A-Level Student) wrote on Google that tutoring “definitely helped me increase my grades from an E to a B” The subject isn't named."
+schools:
+  - "Middlesbrough College"
+  - "Prior Pursglove College"
+  - "Macmillan Academy"
+  - "Trinity Catholic College"
+  - "Nunthorpe Academy"
+  - "The King's Academy"
+steps_heading: "A-Level Maths tutoring for your Middlesbrough sixth former, in three steps"
+steps_lead: "If Year 12 tests are already worrying you, tell us. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About 30 minutes on the phone with Harry or Joe, free. We'll ask which sixth form and board, which year, and whether it's pure, mechanics or statistics that's going wrong."
+  - title: "Choose your tutor"
+    body: "Two or three Maths tutor profiles within 24 hours, matched to your child's specification. Your child chats to the one you choose on a free 15-minute video call before anything is booked."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, with every line of working on a shared whiteboard and a replay to watch back. From £37 an hour, no contract, and a new tutor if they don't get on."
+faqs:
+  - q: "What's the hardest part of A-Level Maths for Middlesbrough students?"
+    a: "For most, it's the algebra hiding inside everything else. Calculus and trigonometry questions are long, and a slip in rearranging or simplifying early on brings the whole answer down. Proof is new and unfamiliar too. A tutor finds which of these is costing your child the most and works on that first."
+  - q: "My child got a 7 or 8 at GCSE Maths. Why are they struggling now?"
+    a: "Because A-Level Maths is a big step up, not because they've lost ability. The questions are longer and less predictable, and the algebra has to be quick. Many strong GCSE students find the first term of Year 12 tough. A tutor helps them adjust while there's plenty of time."
+  - q: "Should my child start A-Level Maths tutoring in Year 12 or Year 13?"
+    a: "Year 12 is best for most. It closes the jump from GCSE before the Year 12 exams that feed into predicted grades. Year 13 tutoring still helps with the final papers, but it leaves less time to change the prediction universities see."
+  - q: "How do you choose your Maths tutors?"
+    a: "Harry or Joe interview every tutor, and only about 3% of applicants get onto the platform. We check their Maths and references, then ask them to explain something like integration by parts to someone new to it. Clear explaining matters as much as knowing the subject."
+  - q: "What if my child doesn't get on with the tutor?"
+    a: "Tell us and we'll find someone else, at no cost. Your child meets the tutor on a free 15-minute video call first, which avoids most mismatches. There's no contract, so you're never stuck."
+# FAQ picks: G05, A14, A05, E01, C01
+reviews:
+  - "John|Parent of A-Level Student|Freddie really enjoyed his time with The Degree Gap. He got help with his three A levels (maths, computer science and business) and managed to get his number one choice attending Liverpool Uni to study a masters in Maths. The tutors were organised, supportive and spent time understanding where the knowledge gaps where to ensure best chance of success in exams! Highly recommended"
+  - "Abby|Parent of A-Level Student|Harry has tutored my son in both maths and economics A-levels and has been fantastic. Harry has been professional, approachable and engaging, he has explained things clearly and has fully supported my son through the last 2 years. We are absolutely delighted with the results. Thank you!"
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Leo|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

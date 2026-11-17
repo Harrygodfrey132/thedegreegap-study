@@ -1,0 +1,56 @@
+---
+title: "A-Level Maths Tutoring for Salisbury Sixth Formers | The Degree Gap"
+nav_title: "Maths"
+description: "Is A-Level Maths much harder than your child expected? Online A-Level Maths tutoring for Salisbury sixth formers, matched to their board. From £37 an hour."
+layout: "level-subject"
+location: "Salisbury"
+level: "A-Level"
+subject: "Maths"
+hero_h1: "A-Level Maths Tutors for Salisbury Students"
+hero_lead: "Your child was strong at GCSE Maths and now feels out of their depth in Year 12. Our A-Level Maths tutors for Salisbury students close the gap, starting with the algebra that the new topics lean on."
+angle_eyebrow: "TOP OF THE CLASS AT GCSE"
+angle_heading: "Why Strong GCSE Mathematicians in Salisbury Struggle at A-Level"
+angle_body_1: "Lots of Salisbury students take A-Level Maths after a top GCSE grade, and many are surprised. The algebra has to be fast now, because it's only a small part of longer calculus and trigonometry questions. Proof appears. Mechanics and statistics bring their own way of thinking. And the questions stop looking like the examples in class, so a child used to recognising what to do now has to work it out."
+angle_body_2: "The tutor sharpens the algebra first, then builds calculus and trigonometry on top, with an unfamiliar exam question in every lesson. Your child learns how to start a question they don't recognise. A-Level Maths matters for engineering, physics, economics and the science routes at Porton Down, and universities like Southampton and Bath look closely at the grade."
+angle_image: "/images/maths-equations-close-up.jpg"
+angle_image_alt: "Calculus written out by hand in an A-Level Maths answer"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "Alexander (Parent) wrote on Google that The Degree Gap “helped my kid go from Cs to As.” The subjects aren't named."
+schools:
+  - "Bishop Wordsworth's School"
+  - "South Wilts Grammar School"
+  - "Salisbury Sixth Form College"
+  - "Sarum Academy"
+  - "Godolphin School"
+steps_heading: "Three steps to A-Level Maths tutoring for a Salisbury student"
+steps_lead: "If Year 12 tests are already worrying you, mention it. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About 30 minutes with Harry or Joe, free. We'll ask which sixth form and board, which year, and whether pure, mechanics or statistics is the problem."
+  - title: "Choose your tutor"
+    body: "Two or three Maths tutor profiles within 24 hours, matched to your child's specification. Your child meets your pick on a free 15-minute video call before booking."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, with every line of working on a shared whiteboard and a replay afterwards. From £37 an hour, no contract, and a new tutor if needed."
+faqs:
+  - q: "Is A-Level Maths at Salisbury's grammar sixth forms harder than elsewhere?"
+    a: "No. The A-Level is the same exam wherever your child studies, set by the exam board. What differs is the pace and the classmates. A tutor helps your child keep up with the pace their sixth form sets, whichever it is."
+  - q: "Why is my child struggling with A-Level Maths after a good GCSE?"
+    a: "Because it's a big step up. Questions are longer and less predictable, and the algebra has to be quick and accurate. A tutor helps your child adjust, usually in the first term of Year 12."
+  - q: "How much homework should my child do between lessons?"
+    a: "About an hour or so a week, usually a set of exam questions on that lesson's topic. The tutor marks it before the next lesson, so mistakes are caught early."
+  - q: "How do you choose your Maths tutors?"
+    a: "Harry or Joe interview every tutor, and only about 3% of applicants get onto the platform. We check Maths knowledge and references, then ask them to explain something tricky to a beginner."
+  - q: "Can my child do A-Level Maths tutoring in the holidays?"
+    a: "Yes. Easter in Year 13 is a popular time for extra lessons before the exams. Because it's online, lessons can fit around holiday plans."
+# FAQ picks: G06, A14, A09, E01, C05
+reviews:
+  - "Abby|Parent of A-Level Student|Harry has tutored my son in both maths and economics A-levels and has been fantastic. Harry has been professional, approachable and engaging, he has explained things clearly and has fully supported my son through the last 2 years. We are absolutely delighted with the results. Thank you!"
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "John|Parent of A-Level Student|Freddie really enjoyed his time with The Degree Gap. He got help with his three A levels (maths, computer science and business) and managed to get his number one choice attending Liverpool Uni to study a masters in Maths. The tutors were organised, supportive and spent time understanding where the knowledge gaps where to ensure best chance of success in exams! Highly recommended"
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Leo|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

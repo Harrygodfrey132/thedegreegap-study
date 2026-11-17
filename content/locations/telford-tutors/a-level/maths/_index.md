@@ -1,0 +1,52 @@
+---
+title: "Telford A-Level Maths Tutors | The Degree Gap"
+nav_title: "Maths"
+description: "Is A-Level Maths much harder than your child expected? Online A-Level Maths tutoring for Telford sixth formers, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Telford"
+level: "A-Level"
+subject: "Maths"
+hero_h1: "A-Level Maths Tutors for Telford Students"
+hero_lead: "Your child was strong at GCSE Maths and is now stuck on long A-Level questions. Our A-Level Maths tutors for Telford students find the algebra slip underneath and fix it."
+angle_eyebrow: "A BIG STEP FROM GCSE"
+angle_heading: "What Trips Up Telford Students in A-Level Maths"
+angle_body_1: "Pure Maths relies on fast, accurate algebra, and small weaknesses break long questions. Mechanics needs modelling before calculating. Statistics brings hypothesis tests where wording matters. Many Telford students meet this in the first term of Year 12."
+angle_body_2: "The tutor finds where marks go, often algebra, and practises until it's reliable. Each week mixes new topics with exam questions. Maths leads to engineering, computing and finance, including engineering courses at Harper Adams."
+angle_image: "/images/maths-equations-close-up.jpg"
+angle_image_alt: "Close-up of A-Level Maths working"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "From Cs to As: Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The subjects aren't named."
+schools:
+  - "Telford College"
+  - "Thomas Telford School"
+  - "Newport Girls' High School"
+  - "Haberdashers' Adams"
+steps_heading: "Getting A-Level Maths tutoring started in Telford"
+steps_lead: "Tell us when the next mock is. Profiles usually arrive within a day."
+steps:
+  - title: "A free call about your child"
+    body: "A free chat of roughly half an hour with Harry or Joe. Bring the last test your child sat if you can, and we'll ask which board and which of Pure, Mechanics or Statistics is going worst."
+  - title: "Choose your tutor"
+    body: "Two or three Maths tutor profiles within 24 hours. A free 15-minute video call first."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, recorded each time. From £37 an hour, no contract."
+faqs:
+  - q: "My child did well at GCSE Maths in Telford but is struggling now. Why?"
+    a: "Usually because GCSE let small algebra habits slide and A-Level doesn't. A long Pure question can have ten lines, and one sign error in line two wrecks it. A tutor watches your child work, spots the habit and drills the fix."
+  - q: "Should my child take Further Maths?"
+    a: "Only if a degree your child wants asks for it or would welcome it, and only if their sixth form runs it. Look at a few course pages together first, then decide."
+  - q: "How are Maths tutors chosen?"
+    a: "Every Maths tutor has an interview with Harry or Joe, where they explain a topic like integration by parts as if to a struggling Year 12. Around 3% of applicants make it, all with two or more years of tutoring."
+  - q: "What does it cost?"
+    a: "From £37 an hour. No contract."
+reviews:
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Abby|Parent of A-Level Student|Harry has tutored my son in both maths and economics A-levels and has been fantastic. Harry has been professional, approachable and engaging, he has explained things clearly and has fully supported my son through the last 2 years. We are absolutely delighted with the results. Thank you!"
+  - "John|Parent of A-Level Student|Freddie really enjoyed his time with The Degree Gap. He got help with his three A levels (maths, computer science and business) and managed to get his number one choice attending Liverpool Uni to study a masters in Maths. The tutors were organised, supportive and spent time understanding where the knowledge gaps where to ensure best chance of success in exams! Highly recommended"
+  - "Marfa|Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

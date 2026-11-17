@@ -1,0 +1,53 @@
+---
+title: "Ashford A-Level Biology Tutors | The Degree Gap"
+nav_title: "Biology"
+description: "Is your child hoping for medicine or nursing? Online A-Level Biology tutoring for Ashford sixth formers, matched to their board. From £37 an hour, no contract."
+layout: "level-subject"
+location: "Ashford"
+level: "A-Level"
+subject: "Biology"
+hero_h1: "A-Level Biology Tutors for Ashford Students"
+hero_lead: "Your child has a folder of beautiful notes on genetics and still can't finish the long answer in time. Our A-Level Biology tutors for Ashford students teach them to use what they know under exam conditions."
+angle_eyebrow: "FOR THE FUTURE NURSES AND DOCTORS"
+angle_heading: "Why A-Level Biology Matters So Much to Ashford Students Aiming at Healthcare"
+angle_body_1: "A good number of Ashford sixth formers taking Biology have a health career in mind, and the course doesn't make it easy. The long synoptic answers pull genetics, cells and ecology together. Respiration and photosynthesis are dense pathways that can't just be memorised. And the practical questions ask for statistics, chi-squared or a t-test, often when your child least expects it. Plenty of students learn the facts well and still lose marks on how they use them."
+angle_body_2: "The tutor draws each pathway with your child, asking what goes in and comes out at every stage. Then come exam questions that change one condition. Statistics get short, regular practice. With Kent and Medway Medical School in Canterbury and William Harvey Hospital in Willesborough, healthcare is a realistic route from Ashford, and those courses look hard at the Biology grade."
+angle_image: "/images/fluorescent-cells-under-microscope.jpg"
+angle_image_alt: "Cells under a microscope, as in an A-Level Biology question on cell structure"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "From Cs to As: Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The review doesn't say which subjects."
+schools:
+  - "Highworth Grammar School for Girls"
+  - "The Norton Knatchbull School"
+  - "The North School"
+  - "Towers School and Sixth Form Centre"
+  - "Ashford School"
+steps_heading: "Starting A-Level Biology lessons for an Ashford sixth former"
+steps_lead: "If your child is applying for medicine or nursing, tell us the deadlines. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, about 30 minutes. We'll ask which board, Year 12 or 13, which topics feel shakiest, and whether there's a healthcare course in mind."
+  - title: "Choose your tutor"
+    body: "Two or three Biology tutor profiles within 24 hours, matched to your child's specification. A free 15-minute video call with the one you choose comes before any payment."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, drawing pathways on a shared whiteboard, with a replay each time. From £37 an hour, no contract, and a new tutor if they don't click."
+faqs:
+  - q: "Can A-Level Biology tutoring help my Ashford child towards Kent and Medway Medical School?"
+    a: "It can help with the grades, which is the first step. Kent and Medway publishes its own requirements for A-Level subjects, grades and the admissions test, so check those first. A tutor then works on whatever's holding your child's Biology back, often the long answers and statistics."
+  - q: "Why is my child struggling with A-Level Biology after doing well at GCSE?"
+    a: "Because A-Level asks your child to apply ideas, not just recall them. A question might describe an experiment they've never seen and ask what the results show. That's a skill that needs practice, and a tutor gives it every week."
+  - q: "How do you choose your Biology tutors?"
+    a: "Harry or Joe interview every tutor, and about 3% of applicants are accepted. Each has at least two years' tutoring. We check they can explain something like the Krebs cycle to someone who's lost."
+  - q: "How much do A-Level Biology lessons cost?"
+    a: "From £37 an hour, agreed in advance. That includes the lesson, practice questions set between lessons and a recording. No contract."
+reviews:
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Raj|Parent of A-Level Student|Brilliant support and communication. We had the best tutor for history and sociology, Jacob, and this definitely influenced my son's amazing A level grades. Would not hesitate to recommend. Jacob also took account of and understood my son's struggles with dyslexia and how this affected his ability to study and get all the (vast) knowledge he has in his head into the paper. Such a struggle for these SEN children but they can achieve. We are so proud of our son and thank you Degree Gap for helping us!"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

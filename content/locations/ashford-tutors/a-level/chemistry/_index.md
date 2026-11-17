@@ -1,0 +1,53 @@
+---
+title: "Ashford A-Level Chemistry Tutors | The Degree Gap"
+nav_title: "Chemistry"
+description: "Are organic mechanisms losing your child marks? Online A-Level Chemistry tutoring for Ashford sixth formers, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Ashford"
+level: "A-Level"
+subject: "Chemistry"
+hero_h1: "A-Level Chemistry Tutors for Ashford Students"
+hero_lead: "Your child got a strong Chemistry grade at GCSE and now can't make sense of a curly arrow. Our A-Level Chemistry tutors for Ashford students rebuild the course from the ideas underneath, so the mechanisms follow."
+angle_eyebrow: "THE CURLY ARROWS"
+angle_heading: "Where A-Level Chemistry Gets Hard for Ashford Sixth Formers"
+angle_body_1: "Chemistry is one of the subjects where the jump from GCSE is biggest. Mole calculations get longer and less guided. Organic mechanisms bring in curly arrows, which students try to memorise one by one instead of seeing the pattern. Then the long calculation chains in physical chemistry, equilibrium and rates, punish one early slip. Many Ashford students who move to a new sixth form at sixteen find the course has a different pace too."
+angle_body_2: "The tutor goes back to electrons first, where they are and why they move, so mechanisms become something your child can work out rather than recite. Calculations get set out the same way every time. Past paper questions come in each week. A-Level Chemistry is asked for by medicine, pharmacy and many science degrees, including courses at the University of Kent, so it's often the grade that matters most."
+angle_image: "/images/chemistry-lab-glassware.jpg"
+angle_image_alt: "Glassware on a lab bench for an A-Level Chemistry practical"
+angle_stat_from: "E"
+angle_stat_to: "B"
+angle_stat_detail: "From an E to a B: Keira, an A-Level Student, wrote on Google that the tutoring “definitely helped me increase my grades from an E to a B”. The subject isn't named."
+schools:
+  - "Highworth Grammar School for Girls"
+  - "The Norton Knatchbull School"
+  - "The North School"
+  - "Towers School and Sixth Form Centre"
+  - "Ashford School"
+steps_heading: "Getting A-Level Chemistry tutoring started in Ashford"
+steps_lead: "If Year 13 mocks are close, mention it on the call. Tutor profiles normally arrive within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "Roughly half an hour with Harry or Joe, free. We'll ask about the board, the year group, and whether organic, physical or inorganic chemistry is the weak spot."
+  - title: "Choose your tutor"
+    body: "Within a day, two or three Chemistry tutor profiles matched to your child's specification. Your child meets one on a free 15-minute video call before you commit."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, mechanisms drawn together on the whiteboard, every lesson recorded. From £37 an hour, no contract, and a different tutor if needed."
+faqs:
+  - q: "My child moved to an Ashford grammar sixth form and is struggling with Chemistry. Is that common?"
+    a: "Yes. A new school, new teachers and sometimes a new board all at once is a lot. The first few months of A-Level Chemistry go quickly, and a gap in moles or bonding can grow fast. A tutor finds the gap and fills it, usually within a few weeks."
+  - q: "How can my child get better at organic mechanisms?"
+    a: "By understanding why electrons move, rather than memorising each mechanism. Once that clicks, most mechanisms follow the same few patterns. A tutor practises them with your child until they can draw one they haven't seen before."
+  - q: "What experience do your Chemistry tutors have?"
+    a: "Each has at least two years of tutoring, and every one is interviewed by Harry or Joe. Only about 3% of applicants are accepted."
+  - q: "Can we stop A-Level Chemistry tutoring after the exams?"
+    a: "Yes, any time. There's no contract, you pay per lesson from £37 an hour, and you just need to give a day or two's notice."
+reviews:
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Leo|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

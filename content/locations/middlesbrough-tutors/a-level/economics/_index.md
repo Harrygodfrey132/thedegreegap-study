@@ -1,0 +1,56 @@
+---
+title: "A-Level Economics Tutoring for Middlesbrough Students | The Degree Gap"
+nav_title: "Economics"
+description: "Are your child's Economics essays all description and no judgement? Online A-Level Economics tutoring for Middlesbrough sixth formers. From £37 an hour."
+layout: "level-subject"
+location: "Middlesbrough"
+level: "A-Level"
+subject: "Economics"
+hero_h1: "A-Level Economics Tutors for Middlesbrough Students"
+hero_lead: "Your child knows the theory and still gets told the essay 'lacks evaluation'. Our A-Level Economics tutors for Middlesbrough students show them how to weigh an argument up, with diagrams that actually do some work."
+angle_eyebrow: "'LACKS EVALUATION' AGAIN"
+angle_heading: "What Middlesbrough Sixth Formers Need to Add to Their A-Level Economics Essays"
+angle_body_1: "Most students pick up the words of Economics quickly. The marks are harder. A diagram with the curve shifted the wrong way. A paragraph that explains a policy but never links it to the diagram beside it. And evaluation, the part that carries a big share of the long essays, tacked on as 'however, it depends' with nothing after it. Teesside gives your child plenty of real examples to use, from regeneration funding to the freeport, but examples only score when they're used to argue something."
+angle_body_2: "The tutor starts with an essay that's already been marked. Together they redraw the diagram properly, then write one chain of analysis and one real evaluation point, such as how long an effect lasts or who loses out. Micro and macro alternate so neither goes cold. Harry, our co-founder, studied Economics at the LSE and still tutors it, so it's a subject we know very well."
+angle_image: "/images/economics-equations-on-chalkboard.jpg"
+angle_image_alt: "Economics notes and a demand curve on a chalkboard"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "Alexander (Parent) wrote on Google that The Degree Gap “helped my kid go from Cs to As.” The subjects aren't named."
+schools:
+  - "Middlesbrough College"
+  - "Prior Pursglove College"
+  - "Macmillan Academy"
+  - "Trinity Catholic College"
+  - "Nunthorpe Academy"
+steps_heading: "Your Middlesbrough sixth former's first Economics lesson, in three steps"
+steps_lead: "A recent marked essay is the most useful thing to send. Profiles normally arrive within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "A free call of about 30 minutes with Harry or Joe. We'll ask about the sixth form, the board, the year and whether essays, diagrams or data questions are the main problem."
+  - title: "Choose your tutor"
+    body: "Two or three Economics tutor profiles within 24 hours, all from tutors who know your child's board. Your child meets the one you like on a free 15-minute video call."
+  - title: "Weekly lessons"
+    body: "One hour a week on Lessonspace, drafting paragraphs and drawing diagrams on a shared whiteboard, with every lesson recorded. From £37 an hour, pay as you go, no contract."
+faqs:
+  - q: "My child started A-Level Economics with no GCSE in it. Will they be behind?"
+    a: "Probably not, as most of the class will be new to it too. What catches new students out isn't the vocabulary, it's the writing: exact diagrams and analysis that explains why, not just what. A tutor builds those habits in the first term of Year 12, before essays start counting towards a prediction."
+  - q: "Does the Economics exam board matter for tutoring?"
+    a: "Yes. The theory is mostly the same, but AQA, Edexcel and OCR set the papers out differently, with different question types and essay lengths. A tutor who knows your child's board practises the right kinds of question. We always check it on the call."
+  - q: "How soon will tutoring show in my child's Economics marks?"
+    a: "Usually within half a term if the problem is technique, such as evaluation or diagrams. If there's a bigger gap, say a macro topic that never made sense, it takes longer. The tutor will tell you after the first lesson which it is."
+  - q: "Who are your Economics tutors?"
+    a: "Graduates and university students in Economics, many from Russell Group universities, and some qualified teachers. All have at least two years of tutoring experience and are interviewed by Harry or Joe."
+  - q: "Can we do Economics tutoring on a budget?"
+    a: "Yes. Most families start with one hour a week, from £37, and only add more before the mocks or the summer exams. Others book a short block on one weak area, like the long essay, then stop. There's no contract, so it's entirely up to you."
+# FAQ picks: G06, A02, A01, E02, C04
+reviews:
+  - "Matthew|A-Level Student|My tutor was very helpful leading to the result that I wanted, giving helpful tips and techniques to get the most out of my Economics. I used Sayyeda-Zainab Rajabali for A Level Economics and she was always very helpful and taught at a high level."
+  - "Binh|A-Level Student|I was very fortunate enough to encounter Harry during my time taking A level economics. I really struggled a lot with long 30 marked essays as well as evaluation and learning the graphs as for at the time it was really hard and I didn’t understand. However the way how Harry taught me was super simple compared to other teachers from school. I really enjoyed my time when Harry taught me and I would highly recommend it to people!"
+  - "Lucas|A-Level Student|I was having trouble with some areas of my economics a level course before getting in contact with Harry. He walked me through everything I needed help with, from content I was weak with to exam technique that I was lacking. His insight, examples and willingness to go the extra step really helped me to regain my confidence in economics, having achieved a predicted a* with his help."
+  - "Cat|Parent of A-Level Student|My 18 year old son had A-level Economics tutoring with Harry.  He was excellent, knew exactly what he needed to learn and was able to explain in terms which made it simple to understand.  The online platform was convenient and easy to use."
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

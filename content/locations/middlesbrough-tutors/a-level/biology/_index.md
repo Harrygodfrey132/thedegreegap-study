@@ -1,0 +1,57 @@
+---
+title: "A-Level Biology Tutors for Middlesbrough Students | The Degree Gap"
+nav_title: "Biology"
+description: "Is your child drowning in A-Level Biology content? Online A-Level Biology tutoring for Middlesbrough sixth formers, matched to their board. From £37 an hour."
+layout: "level-subject"
+location: "Middlesbrough"
+level: "A-Level"
+subject: "Biology"
+hero_h1: "A-Level Biology Tutors for Middlesbrough Students"
+hero_lead: "Your child has pages of Biology notes and still can't answer a question that asks them to apply it. Our A-Level Biology tutors for Middlesbrough students turn the facts into explanations the exam will reward."
+angle_eyebrow: "MORE NOTES ISN'T THE ANSWER"
+angle_heading: "Why Middlesbrough Sixth Formers Find A-Level Biology Harder Than It Looks"
+angle_body_1: "A-Level Biology looks like a memory subject, so most students revise it like one. Then the paper asks something they've never seen: what would happen to a cell if this enzyme stopped working, or why a population graph changed shape. The marks go on applying ideas, not reciting them. Add the statistics in the practical questions, chi-squared and t-tests, and the long answers that link genetics to ecology, and a child who got a 7 or 8 at GCSE can find themselves on a D in the first Year 12 test."
+angle_body_2: "The tutor works the other way round. Each topic is drawn out with your child on the whiteboard, then tested with unfamiliar questions straight away. Statistics get a short practice slot most weeks until choosing a test feels obvious. If your child is thinking about nursing, midwifery or medicine, James Cook University Hospital is right on the doorstep and Teesside University trains health professionals in town, and those courses care about the Biology grade."
+angle_image: "/images/fluorescent-cells-under-microscope.jpg"
+angle_image_alt: "Cells under a microscope, the kind of image an A-Level Biology question asks students to interpret"
+angle_stat_from: "E/U"
+angle_stat_to: "C"
+angle_stat_detail: "Joanna (Parent of A-Level Student) wrote on Google that their son managed “to turn E and U grades into 3 C grades.” The subjects aren't named, so Biology may not be among them."
+schools:
+  - "Middlesbrough College"
+  - "Prior Pursglove College"
+  - "Macmillan Academy"
+  - "Trinity Catholic College"
+  - "Nunthorpe Academy"
+  - "The King's Academy"
+steps_heading: "Starting A-Level Biology tutoring for your Middlesbrough sixth former"
+steps_lead: "If a Year 12 test has just come back, bring it to the call. Profiles usually follow within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "A free call of around 30 minutes with Harry or Joe. We'll ask which sixth form or college, which board, Year 12 or 13, and which topics feel worst. Mention any health or science course your child is eyeing."
+  - title: "Choose your tutor"
+    body: "Two or three Biology tutor profiles within 24 hours, each matched to your child's specification. Your child meets the one you choose on a free 15-minute video call before you pay anything."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, drawing processes and working through data on a shared whiteboard, with every lesson recorded. From £37 an hour, no contract, and a change of tutor if they don't click."
+faqs:
+  - q: "Can A-Level Biology tutoring help my child get onto a nursing or medicine course from Middlesbrough?"
+    a: "It can help with the grades, which is usually the biggest hurdle. Teesside University and other universities publish their own requirements for nursing, midwifery and medicine, and many look closely at Biology. Check the current entry requirements first. Then the tutor works on whichever part of the course is holding your child's grade down."
+  - q: "Why is my child's A-Level Biology grade lower than their GCSE?"
+    a: "Because the exam asks for something different. GCSE rewards knowing facts. A-Level rewards using them on unfamiliar examples, and that's a separate skill. A tutor's first job is reading a recent marked paper to see whether your child is losing marks on knowledge or on application, then practising the weaker one every week."
+  - q: "How long is an A-Level Biology lesson?"
+    a: "Most are an hour. Some Year 13 students prefer 90 minutes before the exams, because Biology has a lot of content to get through. It's something we can talk through on the call and change later if it isn't working."
+  - q: "What results have your A-Level tutors had?"
+    a: "We'd rather families told you in their own words, so their reviews are further down this page, word for word as they wrote them. Some describe a jump of a grade or more, some describe confidence coming back first. Every child is different, and we never promise a grade. What we can promise is that the tutor will tell you what they're working on and why."
+  - q: "What does A-Level Biology tutoring cost?"
+    a: "From £37 an hour, agreed before anything is booked. That covers the live lesson, the tutor's preparation and practice set between lessons. There's no joining fee and no contract, and you can pause or stop with a day or two's notice."
+# FAQ picks: G04, A14, A15, E05, C02
+reviews:
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Leo|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

@@ -1,0 +1,56 @@
+---
+title: "A-Level Chemistry Tutoring for Salisbury Students | The Degree Gap"
+nav_title: "Chemistry"
+description: "Is organic chemistry losing your child marks? Online A-Level Chemistry tutoring for Salisbury sixth formers, matched to the exam board. From £37 an hour."
+layout: "level-subject"
+location: "Salisbury"
+level: "A-Level"
+subject: "Chemistry"
+hero_h1: "A-Level Chemistry Tutors for Salisbury Students"
+hero_lead: "Your child copied every mechanism neatly in class and still can't draw one in the exam. Our A-Level Chemistry tutors for Salisbury students teach organic chemistry as patterns, and tidy up the calculations too."
+angle_eyebrow: "TOO MANY MECHANISMS TO MEMORISE"
+angle_heading: "How Salisbury Sixth Formers Can Get On Top of A-Level Chemistry"
+angle_body_1: "A-Level Chemistry asks for two very different skills. Organic chemistry needs mechanisms drawn from memory and reasoning, with curly arrows in exactly the right place, and multi-step synthesis questions that string reactions together. Physical chemistry needs long calculations, like equilibrium constants or titrations, where one early slip ruins the answer. Students who did well at GCSE often try to memorise everything separately, and by Year 13 it's simply too much."
+angle_body_2: "The tutor groups mechanisms into a few patterns, so your child can work out a new one instead of remembering it. Calculations get a fixed layout, practised until it's automatic. Then come unfamiliar exam questions. Chemistry is a key subject for medicine, pharmacy and the science careers at Porton Down, and those routes usually look closely at the grade."
+angle_image: "/images/chemistry-lab-glassware.jpg"
+angle_image_alt: "Conical flasks and burettes used in an A-Level Chemistry titration"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "Alexander (Parent) wrote on Google that The Degree Gap “helped my kid go from Cs to As.” The subjects aren't named."
+schools:
+  - "Bishop Wordsworth's School"
+  - "South Wilts Grammar School"
+  - "Salisbury Sixth Form College"
+  - "Sarum Academy"
+  - "Godolphin School"
+steps_heading: "Starting A-Level Chemistry tutoring for your Salisbury sixth former"
+steps_lead: "A recent marked test or mock helps most. Profiles usually arrive the day after the call."
+steps:
+  - title: "A free call about your child"
+    body: "About 30 minutes with Harry or Joe, free. We'll ask which sixth form and board, which year, and whether organic or physical chemistry is the bigger worry."
+  - title: "Choose your tutor"
+    body: "Two or three Chemistry tutor profiles within 24 hours, matched to your child's specification. Your child meets your choice on a free 15-minute video call first."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, drawing mechanisms and working calculations on a shared whiteboard, with every lesson recorded. From £37 an hour, no contract."
+faqs:
+  - q: "Is A-Level Chemistry needed for science jobs at Porton Down?"
+    a: "For many science roles, Chemistry is an important subject, though each employer and course sets its own requirements. Dstl and UKHSA at Porton Down publish details of their apprenticeship and graduate routes. Check what your child's chosen route needs, then a tutor can work towards it."
+  - q: "Why is my child struggling with organic chemistry?"
+    a: "Usually because they're memorising mechanisms one by one. There are too many to remember that way. A tutor teaches the few patterns underneath them, so your child can reason out mechanisms they haven't seen before."
+  - q: "How long before tutoring shows in Chemistry marks?"
+    a: "Often a few weeks if the problem is method, like calculation layout. Longer if a whole topic needs teaching again. The tutor will tell you after the first lesson what they're starting with."
+  - q: "How do you vet your Chemistry tutors?"
+    a: "Harry or Joe interview every tutor, and only about 3% of applicants get onto the platform. We check knowledge and references, then ask them to explain a mechanism to someone meeting it for the first time."
+  - q: "What happens if the tutor isn't the right fit?"
+    a: "We'll find someone else, at no cost. Your child meets the tutor on a free 15-minute video call before you pay anything. There's no contract, so you're never stuck."
+# FAQ picks: G04, A14, A01, E01, C01
+reviews:
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Nick|Parent of A-Level Student|Sandra Sabu has been tutoring our son for Psychology A Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades."
+  - "John|Parent of A-Level Student|Freddie really enjoyed his time with The Degree Gap. He got help with his three A levels (maths, computer science and business) and managed to get his number one choice attending Liverpool Uni to study a masters in Maths. The tutors were organised, supportive and spent time understanding where the knowledge gaps where to ensure best chance of success in exams! Highly recommended"
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

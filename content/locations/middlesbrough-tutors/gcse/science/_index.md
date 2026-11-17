@@ -1,0 +1,56 @@
+---
+title: "GCSE Science Tutoring for Middlesbrough Students | The Degree Gap"
+nav_title: "Science"
+description: "Is your child fine with the facts but lost on the calculations? Online GCSE Science tutoring for Middlesbrough students, Combined or triple. From £37 an hour."
+layout: "level-subject"
+location: "Middlesbrough"
+level: "GCSE"
+subject: "Science"
+hero_h1: "GCSE Science Tutors for Middlesbrough Students"
+hero_lead: "Your child can tell you what photosynthesis is, then goes blank when the question puts numbers in front of it. Our GCSE Science tutors for Middlesbrough students work on the calculations and six-mark answers where the marks slip away."
+angle_eyebrow: "WHERE THE NUMBERS COME IN"
+angle_heading: "Why Science Calculations Cost Middlesbrough Students So Many GCSE Marks"
+angle_body_1: "Science papers are full of Maths, and that surprises a lot of families. Rearranging an equation in Physics. Working out a concentration or a relative formula mass in Chemistry. Turning a Punnett square into a probability in Biology. If your child is shaky on rearranging or ratio in Maths, the same wobble turns up in Science, and the marks go in pairs and threes. Then there are the six-mark answers, where the right facts come out in the wrong order, and questions about required practicals your child did once in Year 10 and has half forgotten."
+angle_body_2: "The tutor fixes the Maths inside the Science first: one type of calculation, worked through slowly on the whiteboard, then practised until it's routine. Six-mark answers get planned as a short chain before they're written. Practicals are sketched out and talked through as exam topics in their own right. It counts locally. Teesside's hospitals and its chemical and energy industries need people with science, and Macmillan, Trinity and MC6 all ask for good science grades before A-Level Biology, Chemistry or Physics."
+angle_image: "/images/chemistry-lab-glassware.jpg"
+angle_image_alt: "Glassware on a school lab bench, like the set-ups GCSE required practical questions ask about"
+angle_stat_from: "4-5"
+angle_stat_to: "8"
+angle_stat_detail: "From GCSE Physics. Chamarika (Parent of GCSE Student) wrote on Trustpilot that their son “had a predicted 4-5 in Physics” and “made it an 8 within roughly two months of tutoring.”"
+schools:
+  - "Macmillan Academy"
+  - "Trinity Catholic College"
+  - "Nunthorpe Academy"
+  - "The King's Academy"
+  - "Middlesbrough College"
+steps_heading: "How GCSE Science tutoring starts for a Middlesbrough teenager"
+steps_lead: "A recent Science test is the best thing to bring. Tutor profiles usually follow within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, roughly 30 minutes. We'll ask whether your child does Combined or triple Science, which tier, and which of the three sciences is the worst. If a science A-Level or apprenticeship is on the cards, say so."
+  - title: "Choose your tutor"
+    body: "Two or three tutor profiles within 24 hours, from people who know your child's board and are comfortable with the Maths side of Science. Your child meets your pick on a free 15-minute video call first."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, with calculations and diagrams worked on a shared whiteboard and a replay of every lesson. From £37 an hour, with no contract and a free switch of tutor if needed."
+faqs:
+  - q: "Can GCSE Science tutoring help my child towards a Teesside apprenticeship?"
+    a: "It can help with the grades, which is usually the first step. Many engineering, lab and healthcare apprenticeships around Teesside look for good grades in Science as well as English and Maths, and each scheme publishes its own requirements. Once you know what your child is aiming for, the tutor works on whichever science is pulling the grade down."
+  - q: "Does my child need a separate tutor for each science?"
+    a: "Rarely. For Combined Science, one tutor who teaches all three at GCSE keeps things simple. For triple Science, we sometimes suggest a specialist for the science that's furthest behind, often Physics or Chemistry. Harry or Joe will suggest what makes sense once they know your child."
+  - q: "What happens in a GCSE Science lesson?"
+    a: "It's an hour, roughly in three parts. First, last week's practice gets marked and any slips talked through. Then something new: a calculation type, a practical or a topic your child finds hard. The last part is real exam questions on it, timed and marked against the mark scheme so your child can see exactly where the marks come from."
+  - q: "How do you vet your Science tutors?"
+    a: "Harry or Joe interview every one, and only about 3% of applicants get onto the platform. Before the interview there's a written application, a subject check and references. In the interview, we ask them to explain something like moles or a series circuit to a beginner, because knowing it and teaching it are different things."
+  - q: "Is Science tutoring worth the money?"
+    a: "It depends on the gap, and we'll tell you straight on the call. If your child is a grade or two below what their next step needs, a few months of focused work is often worth it. If they're already comfortably where they need to be, some past papers might be enough. Lessons start at £37 an hour with no contract."
+# FAQ picks: G04, A13, A08, E01, C03
+reviews:
+  - "Chamarika|Parent of GCSE Student|Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s. Thank you to all the 3x tutors."
+  - "Gilmoore|Parent of GCSE Student|Initially I was hesitant to enrol my son for online lessons. However, the company has well experienced, knowledgeable and helpful tutors. There is also flexibility around booking of lessons. At the end of the day, my son achieved the next top grade than what had been predicted in his mid-year school GCSE exams. I am forever indebted to The Degree Gap."
+  - "Nazrul|Parent of GCSE Student|My daughter found the tutors were very helpful for her GCSE thank you"
+  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. The tutors we have used are lovely.  The Degree Gap use an advanced online platform which enables interactive tuition. We also attended a free webinar from the Degree Gap which was very informative and added value. I highly recommend them."
+  - "Sam|Parent of GCSE Student|Excellent experience. Founders are accessible, hands on, responsive and flexible. As are the tutors - quality all round. It was great to be able to trial a few to find the right fit, who my daughter felt most comfortable with. She got at least a grade higher in GCSEs because of the tuition which helped her get into a top school (grammar) for As."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

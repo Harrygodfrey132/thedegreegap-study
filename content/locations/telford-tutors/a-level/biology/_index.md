@@ -1,0 +1,52 @@
+---
+title: "Telford A-Level Biology Tutors | The Degree Gap"
+nav_title: "Biology"
+description: "Are the long Biology pathways losing your child marks? Online A-Level Biology tutoring for Telford sixth formers, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Telford"
+level: "A-Level"
+subject: "Biology"
+hero_h1: "A-Level Biology Tutors for Telford Students"
+hero_lead: "Your child has learnt every stage of respiration and still can't answer a question that changes one condition. Our A-Level Biology tutors for Telford students teach them to use the pathway, not recite it."
+angle_eyebrow: "FROM NOTES TO ANSWERS"
+angle_heading: "Why A-Level Biology Gets Harder for Telford Sixth Formers in Year 13"
+angle_body_1: "A-Level Biology piles up in Year 13. Respiration and photosynthesis are long, detailed pathways. Genetics questions bring in probabilities. The practical questions ask for statistical tests. And the long answers link topics from across both years. Many students who were confident at GCSE find this hard."
+angle_body_2: "The tutor draws pathways with your child step by step, then practises exam questions that test understanding. Statistics get regular short practice. Biology leads to healthcare, and to courses like the animal and agricultural sciences at Harper Adams near Newport."
+angle_image: "/images/fluorescent-cells-under-microscope.jpg"
+angle_image_alt: "Fluorescent cells under a microscope for an A-Level Biology question"
+angle_stat_from: "E/U"
+angle_stat_to: "C"
+angle_stat_detail: "From E and U to C: Joanna, Parent of A-Level Student, wrote on Google the tutoring helped “turn E and U grades into 3 C grades”. The subjects aren't named."
+schools:
+  - "Telford College"
+  - "Thomas Telford School"
+  - "Newport Girls' High School"
+  - "Haberdashers' Adams"
+steps_heading: "Starting A-Level Biology tutoring in Telford"
+steps_lead: "Tell us about any Year 13 mock dates. Profiles normally arrive within a day."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, about 30 minutes. We'll ask about the board, year group, and the weakest topics."
+  - title: "Choose your tutor"
+    body: "Two or three Biology tutor profiles within 24 hours. A free 15-minute video call with your pick comes first."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, recorded each time. From £37 an hour, no contract."
+faqs:
+  - q: "Can A-Level Biology tutoring help my Telford child towards Harper Adams?"
+    a: "Yes, with the grades. Harper Adams publishes its own entry requirements for each course, so check those first. The tutor then works on whatever's costing marks."
+  - q: "Why is A-Level Biology so much harder than GCSE?"
+    a: "It asks your child to apply ideas to new situations, not just remember them. A tutor practises that every week."
+  - q: "Who are your Biology tutors?"
+    a: "Graduates and university students interviewed by Harry or Joe, with at least two years' tutoring. About 3% are accepted."
+  - q: "What does it cost?"
+    a: "From £37 an hour, agreed before booking. No contract."
+reviews:
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Raj|Parent of A-Level Student|Brilliant support and communication. We had the best tutor for history and sociology, Jacob, and this definitely influenced my son's amazing A level grades. Would not hesitate to recommend. Jacob also took account of and understood my son's struggles with dyslexia and how this affected his ability to study and get all the (vast) knowledge he has in his head into the paper. Such a struggle for these SEN children but they can achieve. We are so proud of our son and thank you Degree Gap for helping us!"
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

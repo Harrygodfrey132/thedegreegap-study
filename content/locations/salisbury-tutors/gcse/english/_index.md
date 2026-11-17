@@ -1,0 +1,57 @@
+---
+title: "Salisbury GCSE English Tutors | The Degree Gap"
+nav_title: "English"
+description: "Does your child write well but lose marks for not answering the question? Online GCSE English tutoring for Salisbury students. From £37 an hour, no contract."
+layout: "level-subject"
+location: "Salisbury"
+level: "GCSE"
+subject: "English"
+hero_h1: "GCSE English Tutors for Salisbury Students"
+hero_lead: "Your child writes plenty, and the comment still says it doesn't answer the question. Our GCSE English tutors for Salisbury students show them how to argue a point in Literature and control their writing in Language."
+angle_eyebrow: "LOTS OF WORDS, NOT ENOUGH MARKS"
+angle_heading: "Where Salisbury Students' GCSE English Essays Lose Their Way"
+angle_body_1: "Plenty of Salisbury teenagers, at the grammars especially, write a lot in English. The problem is direction. A Literature essay on Macbeth or An Inspector Calls that retells the plot with quotations, instead of building an argument. An analysis paragraph that spots techniques without saying what they do. Language writing that starts with a great sentence and wanders. Other children have the opposite problem and write too little. Either way, it's the same skill missing: planning what you're going to argue before you start."
+angle_body_2: "The tutor plans essays with your child on the whiteboard in a few minutes, deciding the argument first, then picking quotations to prove it. Short timed pieces get marked straight away so the habit sticks. Set texts get a small bank of quotations for each character or theme. English matters after sixteen: a 4 in English Language is needed for most routes, and A-Level English at South Wilts, Bishop Wordsworth's or Salisbury Sixth Form College has its own subject requirement."
+angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"
+angle_image_alt: "Handwritten notes with highlighted quotations for a GCSE English Literature essay"
+angle_stat_from: "5"
+angle_stat_to: "6/7"
+angle_stat_detail: "Omo (Parent of GCSE Student) wrote on Google that their son, who “really struggled with English”, “has improved from a grade 5 to a 6/7.”"
+schools:
+  - "South Wilts Grammar School"
+  - "Bishop Wordsworth's School"
+  - "Wyvern St Edmund's Academy"
+  - "St Joseph's Catholic School"
+  - "Sarum Academy"
+  - "Salisbury Sixth Form College"
+steps_heading: "GCSE English tutoring for your Salisbury child, step by step"
+steps_lead: "Bring the list of set texts if you have it. Profiles normally follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "A free call of about 30 minutes with Harry or Joe. We'll ask about the school, the board, the set texts and whether Language or Literature worries you more."
+  - title: "Choose your tutor"
+    body: "Two or three English tutor profiles within 24 hours, each from someone who knows your child's board and texts. Your child meets your choice on a free 15-minute video call."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, drafting and marking on a shared whiteboard, with every lesson recorded. From £37 an hour, no contract, and a different tutor at no charge if needed."
+faqs:
+  - q: "Which GCSE English texts do Salisbury schools study?"
+    a: "It depends on the school and board, and schools change texts from time to time. Common choices include a Shakespeare play such as Macbeth or Romeo and Juliet, a nineteenth-century novel, a modern play like An Inspector Calls and a poetry anthology. Tell us your child's texts on the call and we'll match a tutor who knows them."
+  - q: "My child writes a lot but gets low marks. Why?"
+    a: "Usually because the writing isn't organised around an argument. Examiners reward a clear point backed by evidence, not everything your child knows. The tutor teaches planning first, then practises it under time pressure until it's habit."
+  - q: "Can one tutor help with both English Language and Literature?"
+    a: "Yes, most of our English tutors teach both. They're separate GCSEs with different skills, so the tutor splits time between them, leaning towards whichever is costing more marks."
+  - q: "How do you choose your English tutors?"
+    a: "Harry or Joe interview every tutor, and only about 3% of applicants get onto the platform. We check subject knowledge and references, then ask them to explain how to plan an essay to a nervous teenager. Explaining clearly matters as much as knowing the texts."
+  - q: "What if my child doesn't want an English tutor?"
+    a: "That's common, and often changes after the first lesson. Your child meets the tutor on a free video call first and gets a say. If after a couple of lessons they really don't want to carry on, you can stop. There's no contract."
+# FAQ picks: G05, A07, A13, E01, C07
+reviews:
+  - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
+  - "Jo|Parent of GCSE Student|We got in touch with The Degree Gap to help support our son to pass his English Language GCSE. Although we were close to the exam period when we started, his weekly tutor sessions made such a difference. He passed and has gained entrance to college without need for any re-sits. Thank you!"
+  - "Simone|Parent of GCSE Student|My son has just passed his English GCSE with a Grade 5 — he only needed a Grade 4, so we are absolutely over the moon and incredibly proud! 🎉👏 With all of my son SEN needs and the challenges he has faced throughout his education, there were times when we genuinely weren't sure he would get here. But today he has proved that anything is achievable with the right support, belief and determination. A huge thank you to Emir, Your encouragement and motivation has meant so much. We are so grateful for everything you have done. 🙏"
+  - "Jessica|Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!"
+  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. The website is easy to use and effective, I had no disappointment in scheduling lessons for my son. Tutors were polite and on time for their lessons."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

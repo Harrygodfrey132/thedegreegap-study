@@ -1,0 +1,56 @@
+---
+title: "Middlesbrough GCSE Maths Tutors | The Degree Gap"
+nav_title: "Maths"
+description: "Does your child freeze at the sight of algebra? Online GCSE Maths tutoring for Middlesbrough students that mends old gaps first. From £37 an hour, no contract."
+layout: "level-subject"
+location: "Middlesbrough"
+level: "GCSE"
+subject: "Maths"
+hero_h1: "GCSE Maths Tutors for Middlesbrough Students"
+hero_lead: "Your child stares at an algebra question, then quietly writes nothing. Our GCSE Maths tutors for Middlesbrough students go back to the fractions and negative numbers underneath, and build the algebra on top."
+angle_eyebrow: "THE GAP IS USUALLY FROM YEAR 7"
+angle_heading: "Why GCSE Maths Falls Apart for So Many Middlesbrough Students in Year 10"
+angle_body_1: "Year 10 is where it usually shows. Simultaneous equations, expanding double brackets, working with ratio inside a wordy problem. Each one leans on something from earlier: dividing by a fraction, multiplying negatives, knowing your times tables without counting on fingers. If one of those never quite went in, the new topic collapses at the same step every time, and your child decides they're bad at Maths. Results across Middlesbrough sit below the England average, and in Maths that pattern is a big part of why. It's a gap, not a ceiling."
+angle_body_2: "So the tutor starts backwards. The first lesson goes through a recent test question by question, tracing each lost mark to the skill that failed. That skill gets fixed first, with plenty of easy wins, then the GCSE topics come back in. The grade matters locally, too. A 4 in Maths opens most apprenticeships and college courses, and Macmillan, Trinity and Nunthorpe sixth forms want more for A-Level Maths. For a child already secure, the same approach moves on to the harder problem-solving questions at the back of the paper."
+angle_image: "/images/maths-equations-close-up.jpg"
+angle_image_alt: "Close-up of algebra worked line by line, the kind of GCSE Maths question a tutor rebuilds from the basics"
+angle_stat_from: "5"
+angle_stat_to: "6/7"
+angle_stat_detail: "These grades are from GCSE English, not Maths. Omo (Parent of GCSE Student) wrote on Google that their son “has improved from a grade 5 to a 6/7.”"
+schools:
+  - "Macmillan Academy"
+  - "Trinity Catholic College"
+  - "Nunthorpe Academy"
+  - "The King's Academy"
+  - "Acklam Grange School"
+steps_heading: "Getting GCSE Maths tutoring started for your Middlesbrough child"
+steps_lead: "Tell us when the next mock is. Tutor profiles usually reach you within 24 hours of the call."
+steps:
+  - title: "A free call about your child"
+    body: "About 30 minutes with Harry or Joe, free. We'll ask which school, which board and tier, and which topics make your child go quiet. A recent test, even a bad one, is the most useful thing you could have to hand."
+  - title: "Choose your tutor"
+    body: "Two or three Maths tutor profiles within 24 hours, picked for patience as much as for subject knowledge. Your child meets the one you like on a free 15-minute video call before anything is booked."
+  - title: "Weekly lessons"
+    body: "One hour a week on Lessonspace, an online whiteboard where the tutor watches every line of working, with a replay afterwards. From £37 an hour, no contract, and a different tutor if they don't get on."
+faqs:
+  - q: "How does GCSE Maths in Middlesbrough compare with the rest of England?"
+    a: "Results across Middlesbrough sit below the England average, and that's been true for some years. It doesn't mean your child can't do well. It usually means more children here reach Year 10 with a few shaky basics, so the higher-tier topics feel harder than they should. Fixing those basics early is the quickest way to change the picture for your child."
+  - q: "Should my child do Foundation or Higher Maths?"
+    a: "It depends where they're working now, and the school makes the final decision. Foundation tops out at a 5. Higher runs from a 4 up to a 9 but assumes the basics are secure. A child on a borderline 4 can often move to Higher with a few months of steady work, and a tutor's marked papers give you real evidence to discuss with the school."
+  - q: "Why does my child understand it in the lesson and then forget it?"
+    a: "Usually because the new method sits on an old skill that isn't secure, so it never fully settles. The tutor finds that older skill and practises it until it's automatic. After that, new topics tend to stick far better, and homework between lessons stops being a battle."
+  - q: "How do you choose your Maths tutors?"
+    a: "Harry or Joe interview every tutor, and only about 3% of applicants make it onto the platform. We check their Maths and their references, but the interview is about explaining. Can they make negative numbers make sense to someone who's already given up on them? If not, they don't join."
+  - q: "My child hates Maths and doesn't want a tutor. Is it worth a go?"
+    a: "Usually, yes. Hating Maths often means hating getting it wrong in front of people, and a one-to-one lesson takes that away. Your child meets the tutor on a free video call first and gets a say. If after a couple of lessons it really isn't working, you can stop, with no contract to worry about."
+# FAQ picks: G02, A12, A07, E01, C07
+reviews:
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. We opted for Avery and she was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back in her abilities and gave her the confidence to face Maths GCSE exams. Highly recommend Degree Gap and will be back again in September with my youngest embarking on her GCSEs"
+  - "Hermione|GCSE Student|Came here to search for a GCSE maths tutor and was recommended Rebecca Hanna by the very helpful Harry. Rebecca was nothing but helpful and comforting. I highly recommend her, especially since she helped me pass the GCSE! Thank you."
+  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents.\n\nUPDATE: My daughter passed both English and Maths GCSE (4 and 5's). We are extremely grateful to your team especially Avery for the support she gave her in both subjects. Considering she missed a large chunk of the last 3 years at school due to a social anxiety illness, this is an amazing achievement for her."
+  - "Isabel|Parent of iGCSE Student|Harry helped our son enormously with his maths and economics iGCSE prep. He was patient, fun and engaging - just what we needed. Highly recommended."
+  - "Jessica|Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

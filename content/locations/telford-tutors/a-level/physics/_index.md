@@ -1,0 +1,52 @@
+---
+title: "Telford A-Level Physics Tutors | The Degree Gap"
+nav_title: "Physics"
+description: "Is the maths in A-Level Physics tripping your child up? Online A-Level Physics tutoring for Telford sixth formers, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Telford"
+level: "A-Level"
+subject: "Physics"
+hero_h1: "A-Level Physics Tutors for Telford Students"
+hero_lead: "Your child follows the Physics in class and then can't set up the problem in a test. Our A-Level Physics tutors for Telford students practise the setup until it's automatic."
+angle_eyebrow: "SETTING UP THE PROBLEM"
+angle_heading: "Why A-Level Physics Feels So Hard for Telford Students"
+angle_body_1: "A-Level Physics is heavy on maths. Mechanics needs vectors. Fields and circuits need confident rearranging. Quantum ideas are hard to picture. Multi-step questions mean one early slip costs everything after."
+angle_body_2: "The tutor practises maths inside Physics problems, checking units each step. Diagrams come first. Past papers come in early. Physics leads to engineering degrees and to technical apprenticeships across the West Midlands."
+angle_image: "/images/physics-mechanics-force-diagram.jpg"
+angle_image_alt: "A force diagram for an A-Level Physics problem"
+angle_stat_from: "E/U"
+angle_stat_to: "C"
+angle_stat_detail: "From E and U to C: Joanna, Parent of A-Level Student, wrote on Google the tutoring helped “turn E and U grades into 3 C grades”. The subjects aren't named."
+schools:
+  - "Telford College"
+  - "Thomas Telford School"
+  - "Newport Girls' High School"
+  - "Haberdashers' Adams"
+steps_heading: "Starting A-Level Physics lessons in Telford"
+steps_lead: "Mention mock dates on the call. Profiles usually come within a day."
+steps:
+  - title: "A free call about your child"
+    body: "Half an hour or so on the phone with Harry or Joe, no charge. Tell us the sixth form, the board and whether it's fields, mechanics or the practical endorsement that worries your child."
+  - title: "Choose your tutor"
+    body: "Two or three Physics tutor profiles within 24 hours. A free 15-minute video call first."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, recorded each time. From £37 an hour, no contract."
+faqs:
+  - q: "Can A-Level Physics tutoring help my Telford child towards engineering?"
+    a: "It can help with the Physics and Maths grades that engineering courses look at. Harper Adams and Wolverhampton, like every university, publish their own entry requirements, so read those first. Then the lessons go where your child is dropping marks."
+  - q: "My child is good at Maths but not Physics. Why?"
+    a: "Because Physics questions rarely tell you which formula they want. Your child has to read a situation, sketch it and decide. That decision is a habit, and a tutor builds it with a few short problems every lesson."
+  - q: "Who are your Physics tutors?"
+    a: "People who studied Physics or engineering at university, each picked by Harry or Joe after an interview. Roughly 3 in every 100 who apply are taken on, and all have tutored for two years or more."
+  - q: "How much does it cost?"
+    a: "From £37 an hour. No contract."
+reviews:
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

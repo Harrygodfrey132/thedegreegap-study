@@ -1,0 +1,57 @@
+---
+title: "A-Level Physics Tutoring for Middlesbrough Sixth Formers | The Degree Gap"
+nav_title: "Physics"
+description: "Is the maths in A-Level Physics tripping your child up? Online A-Level Physics tutoring for Middlesbrough students, matched to the exam board. From £37 an hour."
+layout: "level-subject"
+location: "Middlesbrough"
+level: "A-Level"
+subject: "Physics"
+hero_h1: "A-Level Physics Tutors for Middlesbrough Students"
+hero_lead: "Your child understands the Physics in class, then loses the marks on a long calculation. Our A-Level Physics tutors for Middlesbrough students work on the maths and the multi-step problems where those marks go."
+angle_eyebrow: "THE MATHS INSIDE THE PHYSICS"
+angle_heading: "How Middlesbrough Students Can Stop Losing A-Level Physics Marks to the Maths"
+angle_body_1: "A-Level Physics is full of Maths. Rearranging equations with powers and roots, working with standard form, handling logs in exponential decay, drawing and reading a graph accurately. Many students understand the idea behind a topic like fields or circuits, then lose the marks because the calculation has four steps and they lose track at step two. Then there are the explain questions, where the Physics has to be described in exact words, and the practical questions about uncertainty that nobody quite revises."
+angle_body_2: "The tutor sets out each type of problem the same way, every time, until your child does it without thinking. Then the questions get harder and less familiar. Explanations get written, marked and rewritten until the wording is tight. Physics leads to engineering, and Teesside has plenty of it, from the Teesworks site to energy and process companies around the river, while Teesside University and Durham both teach engineering and physics close by."
+angle_image: "/images/physics-mechanics-force-diagram.jpg"
+angle_image_alt: "A force diagram for an A-Level Physics mechanics problem"
+angle_stat_from: "E/U"
+angle_stat_to: "C"
+angle_stat_detail: "Joanna (Parent of A-Level Student) wrote on Google that their son managed “to turn E and U grades into 3 C grades.” The review doesn't say whether Physics was one of them."
+schools:
+  - "Middlesbrough College"
+  - "Prior Pursglove College"
+  - "Macmillan Academy"
+  - "Trinity Catholic College"
+  - "Nunthorpe Academy"
+  - "The King's Academy"
+steps_heading: "How A-Level Physics tutoring gets going for a Middlesbrough student"
+steps_lead: "A recent marked test or mock helps a lot. Tutor profiles normally arrive within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, around 30 minutes. We'll ask which sixth form and board, which year, and which topics or question types are costing marks. Tell us if engineering is the plan."
+  - title: "Choose your tutor"
+    body: "Two or three Physics tutor profiles within 24 hours, matched to your child's course. Your child meets the one you prefer on a free 15-minute video call first."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, working problems on a shared whiteboard with a recording to watch back. From £37 an hour, no contract, and a different tutor if it's not a good fit."
+faqs:
+  - q: "Is A-Level Physics worth it for an engineering apprenticeship on Teesside?"
+    a: "Often, yes. Engineering employers and degree apprenticeship schemes around Teesside commonly look for Maths and Physics, and each one publishes its own entry requirements. Check the current ones for the schemes your child likes. A tutor can then help get the Physics grade where it needs to be."
+  - q: "How can I tell which Physics topics my child is losing marks on?"
+    a: "Look at a recent marked test with the questions in front of you. If the marks go on calculations, it's usually maths or method. If they go on the explain questions, it's wording. A tutor does exactly this in the first lesson and tells you what they found."
+  - q: "Can one tutor help with both A-Level Physics and Maths?"
+    a: "Sometimes, yes. Plenty of tutors on our platform teach both, and it can help because the two subjects lean on each other. If your child needs a lot of help in both, two specialists may be better. We'll suggest what makes sense on the call."
+  - q: "Can a Physics tutor help a child with dyslexia or ADHD?"
+    a: "Yes. Tell us on the call and we'll suggest a tutor who has worked that way before. In practice it often means shorter chunks, the same layout for every problem and lots of drawing on the whiteboard."
+  - q: "How much does A-Level Physics tutoring cost?"
+    a: "Lessons start at £37 an hour, at a rate agreed before booking. There's no contract and nothing upfront. The call with Harry or Joe and the 15-minute video meeting with the tutor are both free."
+# FAQ picks: G04, A06, A13, E03, C02
+reviews:
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "John|Parent of A-Level Student|Freddie really enjoyed his time with The Degree Gap. He got help with his three A levels (maths, computer science and business) and managed to get his number one choice attending Liverpool Uni to study a masters in Maths. The tutors were organised, supportive and spent time understanding where the knowledge gaps where to ensure best chance of success in exams! Highly recommended"
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

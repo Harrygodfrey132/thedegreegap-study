@@ -1,0 +1,55 @@
+---
+title: "Salisbury A-Level Economics Tutors | The Degree Gap"
+nav_title: "Economics"
+description: "Are your child's Economics essays missing the evaluation marks? Online A-Level Economics tutoring for Salisbury sixth formers. From £37 an hour, no contract."
+layout: "level-subject"
+location: "Salisbury"
+level: "A-Level"
+subject: "Economics"
+hero_h1: "A-Level Economics Tutors for Salisbury Students"
+hero_lead: "Your child's Economics essays explain the theory well and then stop. Our A-Level Economics tutors for Salisbury students teach them to weigh it up, which is where the top marks in the long essays are."
+angle_eyebrow: "WHERE THE ESSAY STOPS SHORT"
+angle_heading: "What Salisbury Students Are Missing in Their A-Level Economics Essays"
+angle_body_1: "Economics is new to most sixth formers, and the vocabulary comes quickly. What doesn't come quickly is evaluation. A long essay explains how a policy works, draws a correct diagram and then says 'however, it depends' without saying on what. Or the diagram sits next to the writing and never gets used. Data questions bring their own problem: reading a chart properly and using the numbers in the answer."
+angle_body_2: "The tutor works from a marked essay, redrawing the diagram with your child and writing one analysis chain and one real evaluation point together. Data questions get regular practice. Micro and macro alternate so neither fades. Economics leads to plenty of degrees at Southampton, Bath and Bristol, and Harry, one of our co-founders, studied Economics at the LSE and tutors it."
+angle_image: "/images/economics-equations-on-chalkboard.jpg"
+angle_image_alt: "A demand curve and economics notes chalked on a blackboard"
+angle_stat_from: "E/U"
+angle_stat_to: "C"
+angle_stat_detail: "Joanna (Parent of A-Level Student) wrote on Google that their son managed “to turn E and U grades into 3 C grades.” The subjects aren't named."
+schools:
+  - "Bishop Wordsworth's School"
+  - "South Wilts Grammar School"
+  - "Salisbury Sixth Form College"
+  - "Sarum Academy"
+steps_heading: "Getting A-Level Economics tutoring started for a Salisbury student"
+steps_lead: "A recently marked essay is the best thing to send. Profiles normally follow within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "A free call of about 30 minutes with Harry or Joe. We'll ask which sixth form and board, which year, and whether the essays, diagrams or data questions are the main worry."
+  - title: "Choose your tutor"
+    body: "Two or three Economics tutor profiles within 24 hours, all knowing your child's board. Your child meets the one you choose on a free 15-minute video call."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, drafting and drawing on a shared whiteboard, with every lesson recorded. From £37 an hour, pay as you go, no contract."
+faqs:
+  - q: "Do Salisbury sixth forms all use the same Economics exam board?"
+    a: "Not necessarily. Each sixth form chooses its own, and AQA, Edexcel and OCR set out their papers quite differently. Check with your child's school or college, and tell us on the call so the tutor practises the right question types."
+  - q: "What's the hardest part of A-Level Economics?"
+    a: "For most students, evaluation in the long essays. It means weighing up an argument and reaching a judgement that depends on something specific. A tutor practises this with your child every week until it becomes natural."
+  - q: "How many lessons will it take to improve?"
+    a: "If the problem is technique, often around half a term of weekly lessons. If a whole area needs teaching again, it takes longer. The tutor will say after the first lesson."
+  - q: "Who are your Economics tutors?"
+    a: "Economics graduates and university students, many from Russell Group universities, and some qualified teachers, all with at least two years of tutoring experience. Harry, our co-founder, studied Economics at the LSE."
+  - q: "Can we stop or pause the lessons?"
+    a: "Yes, whenever you like. There's no contract, you pay as you go from £37 an hour, and a day or two's notice is enough."
+# FAQ picks: G05, A02, A01, E02, C09
+reviews:
+  - "Sarom|Parent of A-Level Student|Harry has been very helpful in tutoring my son for his economics A Level. He has lots of patience, keeps lessons interesting and is a good motivator. Needless to say his subject matter is expertise is excellent."
+  - "Mahir|A-Level Student|Harry was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics - I'd highly recommend for anyone looking to consistently perform at their best."
+  - "Ali|Grandparent|Harry did an amazing job helping my grandson who was struggling with his economics work. Thank you again, Harry, for all your hard work."
+  - "Matthew|A-Level Student|My tutor was very helpful leading to the result that I wanted, giving helpful tips and techniques to get the most out of my Economics. I used Sayyeda-Zainab Rajabali for A Level Economics and she was always very helpful and taught at a high level."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

@@ -1,0 +1,57 @@
+---
+title: "GCSE English Tutors for Middlesbrough Students | The Degree Gap"
+nav_title: "English"
+description: "Is your child's English stuck on short answers that never quite explain? Online GCSE English tutoring for Middlesbrough students. From £37 an hour, no contract."
+layout: "level-subject"
+location: "Middlesbrough"
+level: "GCSE"
+subject: "English"
+hero_h1: "GCSE English Tutors for Middlesbrough Students"
+hero_lead: "Your child reads the extract, writes two lines about it, and moves on. Our GCSE English tutors for Middlesbrough students show them how to say more about less, which is where the Language and Literature marks are hiding."
+angle_eyebrow: "TWO LINES IS NEVER ENOUGH"
+angle_heading: "How Middlesbrough Students Can Turn Short English Answers Into Full Marks"
+angle_body_1: "English rarely goes wrong in one big way. It's lots of small things. A quotation dropped in without a word about why it matters. An answer about language that only spots the technique. A Literature essay that retells An Inspector Calls or A Christmas Carol instead of arguing about it. And the creative writing task, worth a big share of the Language marks, started in a rush with no plan, so it runs out of steam halfway. None of that is about being bad at English. It's about nobody having had time to show your child how to stretch one good idea into a paragraph."
+angle_body_2: "The tutor takes one short extract and works on it with your child for a whole lesson if needed: pick a phrase, say what it does, say why the writer chose it. Then it becomes a habit, timed. Each week there's a short piece of writing, planned in five minutes on the whiteboard and marked straight away. A 4 in English Language matters a great deal here. Without it, English stays on your child's timetable at Middlesbrough College or any sixth form, and most apprenticeships around Teesside look for it too."
+angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"
+angle_image_alt: "Highlighted notes on a GCSE English extract, with quotations picked out for analysis"
+angle_stat_from: "5"
+angle_stat_to: "6/7"
+angle_stat_detail: "Omo (Parent of GCSE Student) wrote on Google that their son, in Year 10, “really struggled with English” and after six months “has improved from a grade 5 to a 6/7.”"
+schools:
+  - "Trinity Catholic College"
+  - "Macmillan Academy"
+  - "Acklam Grange School"
+  - "Nunthorpe Academy"
+  - "The King's Academy"
+  - "Middlesbrough College"
+steps_heading: "Three steps to GCSE English tutoring for your Middlesbrough child"
+steps_lead: "Mention the set texts if you know them. Profiles normally follow within a day of the call."
+steps:
+  - title: "A free call about your child"
+    body: "A free chat with Harry or Joe, usually around 30 minutes. We'll ask about the school, the board, the set texts and whether Language or Literature is the bigger worry. Tell us how your child feels about writing at length, too."
+  - title: "Choose your tutor"
+    body: "Two or three English tutor profiles arrive within 24 hours, each from someone who knows your child's texts and board. Your child has a free 15-minute video call with your favourite before you commit to anything."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, drafting and marking on a shared whiteboard, with every lesson recorded. From £37 an hour, no contract, and a new tutor at no charge if the first isn't right."
+faqs:
+  - q: "What English grade does my Middlesbrough child need after Year 11?"
+    a: "A 4 in English Language is the one that matters most for most routes. Without it, your child keeps studying English after sixteen, whether that's at Middlesbrough College, Prior Pursglove or a school sixth form. A-Level English courses usually ask for more in the subject itself, and each one publishes its own requirement, so check the current prospectus."
+  - q: "Why does my child write so little in English exams?"
+    a: "Usually because they've never been shown how to keep going. They spot a quotation, name the technique and stop, because that's all they know to say. The tutor teaches a simple pattern for building a paragraph out of one quotation, then practises it in short timed bursts until it's automatic. Most children start writing more, and better, within a few weeks."
+  - q: "Is there a difference between English Language and English Literature?"
+    a: "Yes, they're separate GCSEs. Language is about reading unseen extracts and writing your own pieces. Literature is about the set texts, such as a Shakespeare play, a novel and poetry. The skills overlap but the revision doesn't, so the tutor plans time for both, weighted towards whichever one is costing your child more marks."
+  - q: "Are your English tutors teachers or students?"
+    a: "A mix. Some are qualified teachers, others are English graduates or university students, many from Russell Group universities, and every one has at least two years of tutoring experience. Harry or Joe interview them all. For a reluctant writer we'd usually suggest someone very patient. For a keen reader who loses marks on timing, a recent graduate who sat the same papers can be ideal."
+  - q: "How quickly can my child start GCSE English tutoring?"
+    a: "Usually within a few days. There's a free call first, about 30 minutes, then two or three profiles within 24 hours, then a free 15-minute video meeting with the tutor you choose. After that, the first lesson happens whenever suits you."
+# FAQ picks: G01, A07, A13, E02, C10
+reviews:
+  - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
+  - "Jo|Parent of GCSE Student|We got in touch with The Degree Gap to help support our son to pass his English Language GCSE. Although we were close to the exam period when we started, his weekly tutor sessions made such a difference. He passed and has gained entrance to college without need for any re-sits. Thank you!"
+  - "Simone|Parent of GCSE Student|My son has just passed his English GCSE with a Grade 5 — he only needed a Grade 4, so we are absolutely over the moon and incredibly proud! 🎉👏 With all of my son SEN needs and the challenges he has faced throughout his education, there were times when we genuinely weren't sure he would get here. But today he has proved that anything is achievable with the right support, belief and determination. A huge thank you to Emir, Your encouragement and motivation has meant so much. We are so grateful for everything you have done. 🙏"
+  - "Jessica|Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!"
+  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents.\n\nUPDATE: My daughter passed both English and Maths GCSE (4 and 5's). We are extremely grateful to your team especially Avery for the support she gave her in both subjects. Considering she missed a large chunk of the last 3 years at school due to a social anxiety illness, this is an amazing achievement for her."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

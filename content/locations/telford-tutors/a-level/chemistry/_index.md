@@ -1,0 +1,52 @@
+---
+title: "Telford A-Level Chemistry Tutors | The Degree Gap"
+nav_title: "Chemistry"
+description: "Is the jump to A-Level Chemistry hitting your child hard? Online A-Level Chemistry tutoring for Telford sixth formers, matched to the board. From £37."
+layout: "level-subject"
+location: "Telford"
+level: "A-Level"
+subject: "Chemistry"
+hero_h1: "A-Level Chemistry Tutors for Telford Students"
+hero_lead: "Your child did well in GCSE Chemistry and now can't follow a mechanism. Our A-Level Chemistry tutors for Telford students go back to the electrons, so the mechanisms make sense."
+angle_eyebrow: "WHY THE ELECTRONS MOVE"
+angle_heading: "What Makes A-Level Chemistry Hard for Telford Students"
+angle_body_1: "Chemistry has one of the biggest jumps from GCSE. Mole calculations get longer. Organic mechanisms bring curly arrows. Equilibrium and rates questions use long calculation chains. Many Telford students start the course at a new sixth form, which adds to the change."
+angle_body_2: "The tutor explains why electrons move, so mechanisms can be worked out. Calculations follow the same layout every time. Past paper questions come in each week. Chemistry is asked for by medicine, pharmacy and many science degrees."
+angle_image: "/images/chemistry-lab-glassware.jpg"
+angle_image_alt: "Lab glassware for an A-Level Chemistry practical"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "From Cs to As: Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The subjects aren't named."
+schools:
+  - "Telford College"
+  - "Thomas Telford School"
+  - "Newport Girls' High School"
+  - "Haberdashers' Adams"
+steps_heading: "Getting A-Level Chemistry lessons going in Telford"
+steps_lead: "Mention mock dates on the call. Profiles usually come within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "About 30 minutes with Harry or Joe, free. We'll ask about the board, the year, and the weak area."
+  - title: "Choose your tutor"
+    body: "Two or three Chemistry tutor profiles within a day. Your child meets one on a free 15-minute video call first."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, recorded each time. From £37 an hour, no contract."
+faqs:
+  - q: "My child started A-Level Chemistry at Telford College and is struggling. Is that normal?"
+    a: "Very. A new place and a harder course at once is a lot. A tutor finds the gap, often in moles or bonding, and fixes it."
+  - q: "How can my child get better at organic mechanisms?"
+    a: "By understanding why electrons move rather than memorising. Most mechanisms then follow a few patterns."
+  - q: "What experience do your Chemistry tutors have?"
+    a: "At least two years of tutoring each, and every one interviewed by Harry or Joe. About 3% of applicants are accepted."
+  - q: "Can we stop any time?"
+    a: "Yes. There's no contract, and lessons are from £37 an hour."
+reviews:
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Leo|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

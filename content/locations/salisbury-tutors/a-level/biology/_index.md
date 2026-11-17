@@ -1,0 +1,56 @@
+---
+title: "A-Level Biology Tutors for Salisbury Sixth Formers | The Degree Gap"
+nav_title: "Biology"
+description: "Is your child's A-Level Biology stuck on the long answers? Online A-Level Biology tutoring for Salisbury sixth formers, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Salisbury"
+level: "A-Level"
+subject: "Biology"
+hero_h1: "A-Level Biology Tutors for Salisbury Students"
+hero_lead: "Your child knows the Biology but the long answers keep losing marks. Our A-Level Biology tutors for Salisbury students show them how to link topics together the way the synoptic questions want."
+angle_eyebrow: "LINKING IT ALL TOGETHER"
+angle_heading: "Why Salisbury Students Lose Marks on A-Level Biology's Long Answers"
+angle_body_1: "A-Level Biology rewards students who connect ideas. The long synoptic answers ask your child to pull together genetics, cells and ecology in one piece of writing. Then there's biochemistry, like respiration and photosynthesis, where each step depends on the last. And the statistics in practical questions, chi-squared and t-tests, which many students half-learn. A strong GCSE scientist can find this a shock in Year 12."
+angle_body_2: "The tutor draws out each pathway with your child, then sets unfamiliar questions that make them apply it. Long answers get planned as links between topics before writing. Statistics get regular short practice. For a child aiming at medicine, veterinary science or research, Porton Down's science sites and Salisbury District Hospital are close by, and the courses behind those careers look hard at the Biology grade."
+angle_image: "/images/fluorescent-cells-under-microscope.jpg"
+angle_image_alt: "Fluorescent cells under a microscope, the kind of image an A-Level Biology question starts with"
+angle_stat_from: "E"
+angle_stat_to: "B"
+angle_stat_detail: "Keira (A-Level Student) wrote on Google that tutoring “definitely helped me increase my grades from an E to a B” The subject isn't named."
+schools:
+  - "Bishop Wordsworth's School"
+  - "South Wilts Grammar School"
+  - "Salisbury Sixth Form College"
+  - "Sarum Academy"
+  - "Godolphin School"
+steps_heading: "How A-Level Biology tutoring starts for a Salisbury sixth former"
+steps_lead: "If Year 13 mocks are coming, say so on the call. Profiles normally follow within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "A free call of about 30 minutes with Harry or Joe. We'll ask which sixth form and board, which year, and which topics feel weakest. Mention any medicine or science course your child is aiming for."
+  - title: "Choose your tutor"
+    body: "Two or three Biology tutor profiles within 24 hours, matched to your child's specification. Your child meets the one you choose on a free 15-minute video call."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, drawing processes and working data on a shared whiteboard, with every lesson recorded. From £37 an hour, no contract, and a new tutor if needed."
+faqs:
+  - q: "Can A-Level Biology tutoring help my Salisbury child apply for medicine?"
+    a: "It can help with the grades, which matter a lot for medicine. Medical schools publish their own requirements, usually top grades including Chemistry and often Biology, plus an admissions test and interview. Check the current requirements. A tutor works on the Biology, and we can talk about the wider application on the call."
+  - q: "Does the exam board matter for A-Level Biology?"
+    a: "Yes. AQA, OCR and Edexcel cover similar Biology but ask about it differently, and Edexcel has two courses. A tutor who knows your child's board uses the right past papers from the start."
+  - q: "Should my child start in Year 12 or Year 13?"
+    a: "Year 12 is usually best, because predictions often draw on Year 12 work. Starting in Year 13 still helps with the final exams. Either way, the first lesson finds the topics costing the most marks."
+  - q: "What qualifications do your Biology tutors have?"
+    a: "They're Biology graduates, university students or qualified teachers, many from Russell Group universities, and all have at least two years of tutoring experience. Harry or Joe interview every one."
+  - q: "What does A-Level Biology tutoring cost?"
+    a: "From £37 an hour, agreed before booking. That covers the lesson, the tutor's preparation and practice set between lessons. No joining fee, no contract."
+# FAQ picks: G04, A02, A05, E02, C02
+reviews:
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Raj|Parent of A-Level Student|Brilliant support and communication. We had the best tutor for history and sociology, Jacob, and this definitely influenced my son's amazing A level grades. Would not hesitate to recommend. Jacob also took account of and understood my son's struggles with dyslexia and how this affected his ability to study and get all the (vast) knowledge he has in his head into the paper. Such a struggle for these SEN children but they can achieve. We are so proud of our son and thank you Degree Gap for helping us!"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

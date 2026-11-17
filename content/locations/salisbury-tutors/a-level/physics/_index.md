@@ -1,0 +1,56 @@
+---
+title: "Salisbury A-Level Physics Tutors | The Degree Gap"
+nav_title: "Physics"
+description: "Is A-Level Physics losing your child marks on long problems? Online A-Level Physics tutoring for Salisbury sixth formers, matched to the board. From £37."
+layout: "level-subject"
+location: "Salisbury"
+level: "A-Level"
+subject: "Physics"
+hero_h1: "A-Level Physics Tutors for Salisbury Students"
+hero_lead: "Your child follows the Physics in class, then gets lost halfway through a long problem in the exam. Our A-Level Physics tutors for Salisbury students work on the multi-step questions where those marks go."
+angle_eyebrow: "LOST AT STEP TWO"
+angle_heading: "How Salisbury Students Can Stop Losing Marks on Long A-Level Physics Problems"
+angle_body_1: "A-Level Physics questions rarely take one step. A fields question might need an equation rearranged, units converted and a graph read, all in one answer. Mechanics problems need a clear diagram before any maths. Then there are the explain questions, which need exact wording, and the practical questions on uncertainty that many students skip in revision. One slip early on and the rest of the marks go with it."
+angle_body_2: "The tutor sets out each type of problem the same way every time, until your child does it automatically. Then the questions get harder and less familiar. Explanations get written, marked and rewritten. Physics leads to engineering and the defence and science work at Porton Down, and Southampton, Bath and Bristol all teach engineering and physics within reach of Salisbury."
+angle_image: "/images/physics-mechanics-force-diagram.jpg"
+angle_image_alt: "A mechanics force diagram for an A-Level Physics problem"
+angle_stat_from: "E"
+angle_stat_to: "B"
+angle_stat_detail: "Keira (A-Level Student) wrote on Google that tutoring “definitely helped me increase my grades from an E to a B” The subject isn't named."
+schools:
+  - "Bishop Wordsworth's School"
+  - "South Wilts Grammar School"
+  - "Salisbury Sixth Form College"
+  - "Sarum Academy"
+  - "Godolphin School"
+steps_heading: "How A-Level Physics tutoring starts for your Salisbury sixth former"
+steps_lead: "A recent marked test helps most. Tutor profiles normally arrive within 24 hours of the call."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, about 30 minutes. We'll ask which sixth form and board, which year, and which topics or question types are costing marks."
+  - title: "Choose your tutor"
+    body: "Two or three Physics tutor profiles within 24 hours, matched to your child's course. Your child meets your choice on a free 15-minute video call first."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, working problems on a shared whiteboard with a recording afterwards. From £37 an hour, no contract, and a different tutor if it's not working."
+faqs:
+  - q: "Does A-Level Physics help with engineering apprenticeships near Salisbury?"
+    a: "Often, yes. Engineering and science apprenticeships, including routes at Porton Down, commonly look for Maths and Physics. Each one publishes its own requirements, so check the current ones. A tutor then works on the Physics grade."
+  - q: "How can I tell what's going wrong in my child's Physics?"
+    a: "Look at a marked test. Lost marks on calculations usually mean method or maths. Lost marks on explain questions usually mean wording. The tutor does this in the first lesson and tells you."
+  - q: "Can one tutor do both A-Level Physics and Maths?"
+    a: "Sometimes. Many tutors teach both, which helps because the subjects overlap. If your child needs a lot of help in both, two specialists might be better. We'll suggest what makes sense."
+  - q: "What results have your Physics tutors had?"
+    a: "We'd rather families told you themselves, so their reviews are below, exactly as they wrote them. Every child is different, and we never promise a grade. What we can say is that the tutor will explain what they're working on and why."
+  - q: "How quickly can my child start?"
+    a: "Usually within a few days. A free call first, then profiles within 24 hours, then a free 15-minute video meeting with the tutor. The first lesson happens whenever suits you."
+# FAQ picks: G04, A06, A13, E05, C10
+reviews:
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "John|Parent of A-Level Student|Freddie really enjoyed his time with The Degree Gap. He got help with his three A levels (maths, computer science and business) and managed to get his number one choice attending Liverpool Uni to study a masters in Maths. The tutors were organised, supportive and spent time understanding where the knowledge gaps where to ensure best chance of success in exams! Highly recommended"
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

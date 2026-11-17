@@ -1,0 +1,52 @@
+---
+title: "Telford A-Level Economics Tutors | The Degree Gap"
+nav_title: "Economics"
+description: "Are Economics essays costing your child marks? Online A-Level Economics tutoring for Telford sixth formers, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Telford"
+level: "A-Level"
+subject: "Economics"
+hero_h1: "A-Level Economics Tutors for Telford Students"
+hero_lead: "Your child understands the diagrams and still writes essays that never come to a judgement. Our A-Level Economics tutors for Telford students teach them to weigh up both sides and decide."
+angle_eyebrow: "STARTING FROM SCRATCH"
+angle_heading: "Why A-Level Economics Is a Fresh Start for Most Telford Sixth Formers"
+angle_body_1: "Hardly any Telford students take Economics before Year 12. The diagrams come fast. The essays need evaluation. And the data questions need a calculation and a comment. Students who are good at Maths often forget the comment."
+angle_body_2: "The tutor gets your child drawing diagrams accurately, then using them in arguments. Essays are planned together. Feedback uses the real mark scheme. Economics leads to degrees, apprenticeships and business careers across the West Midlands."
+angle_image: "/images/economics-equations-on-chalkboard.jpg"
+angle_image_alt: "Economics diagrams on a chalkboard"
+angle_stat_from: "E"
+angle_stat_to: "B"
+angle_stat_detail: "From an E to a B: Keira, an A-Level Student, wrote on Google that the tutoring “definitely helped me increase my grades from an E to a B”. The subject isn't named."
+schools:
+  - "Telford College"
+  - "Thomas Telford School"
+  - "Newport Girls' High School"
+  - "Haberdashers' Adams"
+steps_heading: "Starting A-Level Economics tutoring in Telford"
+steps_lead: "If an essay deadline is coming, let us know. Profiles follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "A free call of about 30 minutes with Harry or Joe. We'll ask about the board and whether micro, macro or essays are the issue."
+  - title: "Choose your tutor"
+    body: "Two or three Economics tutor profiles within 24 hours. A free 15-minute video call first."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, recorded each time. From £37 an hour, no contract."
+faqs:
+  - q: "My child is new to Economics at a Telford sixth form. Will they be behind?"
+    a: "Unlikely. Almost everyone in a Telford Year 12 Economics class is meeting it for the first time. What catches your child out is usually the long writing, and that can be practised from the first half term."
+  - q: "How do you get better at evaluation?"
+    a: "Your child needs to show when a point holds and when it doesn't: in the short run or the long run, for a big firm or a small one. The tutor marks each paragraph for that, and the last line of the essay has to pick a side."
+  - q: "Who tutors A-Level Economics?"
+    a: "Harry, who co-founded The Degree Gap, tutors Economics, and every other Economics tutor on the platform passed an interview with Harry or Joe. Around 3 in 100 applicants get through."
+  - q: "How much does it cost?"
+    a: "From £37 an hour. No contract."
+reviews:
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Binh|A-Level Student|I was very fortunate enough to encounter Harry during my time taking A level economics. I really struggled a lot with long 30 marked essays as well as evaluation and learning the graphs as for at the time it was really hard and I didn’t understand. However the way how Harry taught me was super simple compared to other teachers from school. I really enjoyed my time when Harry taught me and I would highly recommend it to people!"
+  - "Matthew|A-Level Student|My tutor was very helpful leading to the result that I wanted, giving helpful tips and techniques to get the most out of my Economics. I used Sayyeda-Zainab Rajabali for A Level Economics and she was always very helpful and taught at a high level."
+  - "Cat|Parent of A-Level Student|My 18 year old son had A-level Economics tutoring with Harry.  He was excellent, knew exactly what he needed to learn and was able to explain in terms which made it simple to understand.  The online platform was convenient and easy to use."
+  - "Lucas|A-Level Student|I was having trouble with some areas of my economics a level course before getting in contact with Harry. He walked me through everything I needed help with, from content I was weak with to exam technique that I was lacking. His insight, examples and willingness to go the extra step really helped me to regain my confidence in economics, having achieved a predicted a* with his help."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---
