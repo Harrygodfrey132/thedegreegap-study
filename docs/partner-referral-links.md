@@ -43,6 +43,8 @@ reporting. Change `utm_medium` to match the placement: `banner`, `blog`,
 | Nick Dale | `https://thedegreegap.com/study/referred-by-nick-dale/?utm_source=nickdale&utm_medium=referral&utm_campaign=nickdale-2026` |
 | Tuition Matters (Hannah Ellis) | `https://thedegreegap.com/study/referred-by-tuition-matters/?utm_source=tuitionmatters&utm_medium=referral&utm_campaign=tuitionmatters-2026` |
 | Lane Biology Tutor (Kevin Lane) | `https://thedegreegap.com/study/referred-by-lane-biology-tutor/?utm_source=lanebiologytutor&utm_medium=referral&utm_campaign=lanebiologytutor-2026` |
+| Jaisul Naik (a-level-economics-tutor.com) | `https://thedegreegap.com/study/referred-by-jaisul-naik/?utm_source=jaisulnaik&utm_medium=referral&utm_campaign=jaisulnaik-2026` |
+| John Brennan | `https://thedegreegap.com/study/referred-by-john-brennan/?utm_source=johnbrennan&utm_medium=referral&utm_campaign=johnbrennan-2026` |
 
 `utm_source` follows the squashed convention the banner links already use
 (`findmyschool`, `schoolguide`). Do not hyphenate it: a partner tagged two ways
