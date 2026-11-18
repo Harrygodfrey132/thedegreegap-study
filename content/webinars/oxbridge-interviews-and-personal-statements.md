@@ -1,20 +1,21 @@
 ---
-title: "Oxbridge Interviews and Personal Statements | Free Webinar | The Degree Gap"
-description: "Free webinar for Year 12 and 13 led by Lauren Akinluyi, a recent Cambridge English graduate, on preparing for Oxford and Cambridge interviews and writing a personal statement that shows real academic interest."
+title: "Free Oxbridge Interviews Webinar, 9 December | The Degree Gap"
+description: "Free webinar for Year 12 and 13 families on Wednesday 9 December, 7 to 8pm. Cambridge graduate Lauren Akinluyi on Oxbridge interviews and personal statements."
 layout: "single"
-# DRAFT until the date and time are confirmed. Then set webinar_date,
-# webinar_end_date, webinar_date_display and the "When" row in hero_facts,
-# replace "Date TBC" in share_blurb, and delete the draft line.
+# DRAFT until two things are settled: Lauren has confirmed Wednesday 9
+# December, and the confirmation and joining-link emails for this session are
+# set up in Zoho, as they were for the November 2026 Webinar. Then delete the
+# draft line.
 draft: true
 hero_eyebrow: "Free webinar · Year 12 and Year 13"
 hero_h1: "Oxbridge Interviews and Personal Statements"
 hero_lead: "A free hour for Year 12 and 13 students thinking about Oxford or Cambridge, and for their parents. Lauren graduated from Cambridge this summer, and talks through how to prepare for interview and how to write and speak about your subject with confidence. Live Q&A at the end."
 card_title: "Oxbridge Interviews and Personal Statements"
-card_summary: "Recent Cambridge graduate Lauren on Oxford and Cambridge interviews and personal statements, with advice from her Director of Studies and college Vice Principal. For Year 12 and 13."
+card_summary: "Recent Cambridge graduate Lauren Akinluyi on Oxford and Cambridge interviews and personal statements, for Year 12 and 13 families. Wednesday 9 December, 7 to 8pm."
 cta_label: "Save my place"
-webinar_date: 2026-12-10T19:00:00+00:00
-webinar_end_date: 2026-12-10T20:00:00+00:00
-webinar_date_display: "TBC"
+webinar_date: 2026-12-09T19:00:00+00:00
+webinar_end_date: 2026-12-09T20:00:00+00:00
+webinar_date_display: "Wednesday 9 December 2026"
 webinar_time_display: "7 to 8pm, online (UK time)"
 
 hero_form: true
@@ -23,9 +24,8 @@ hero_form: true
 # replay_youtube_id is set, so the page falls back to the replay layout.
 design: "portrait"
 hero_portrait: "/images/lauren-akinluyi-portrait.jpg"
-# Update "When" with the date once it is confirmed.
 hero_facts:
-  - "When|Date to be confirmed, 7 to 8pm"
+  - "When|Wednesday 9 December, 7 to 8pm"
   - "Where|Online, live, with Q&A"
   - "Cost|Free, and the replay is included"
 hero_form_title: "Parents: save your free place"
@@ -52,7 +52,7 @@ year_groups:
   - "A level - Yr 13|Year 13"
   - "Unsure|Other, or not sure"
 terms_url: "webinar-terms/"
-redirect_default: "webinar-thanks/"
+redirect_default: "webinar-thanks-oxbridge/"
 hide_whatsapp: true
 
 speaker_eyebrow: "Led by"
@@ -113,23 +113,27 @@ included_schools:
 
 share_heading: "Wording you can paste"
 share_lead: "For a newsletter, a sixth-form bulletin or an Oxbridge group email."
-share_blurb: "Free online webinar for Year 12 and Year 13: Oxbridge Interviews and Personal Statements. Date TBC, 7 to 8pm. Lauren Akinluyi, who graduated in English from the University of Cambridge this summer, passes on advice from her Director of Studies and college Vice Principal on preparing for interview and presenting your academic interests with confidence. Free, with live Q&A, and everyone who registers receives the replay. Parents register (one registration per family) and students watch with them: thedegreegap.com/study/webinars/oxbridge-interviews-and-personal-statements/"
+share_blurb: "Free online webinar for Year 12 and Year 13: Oxbridge Interviews and Personal Statements. Wednesday 9 December, 7 to 8pm. Lauren Akinluyi, who graduated in English from the University of Cambridge this summer, passes on advice from her Director of Studies and college Vice Principal on preparing for interview and presenting your academic interests with confidence. Free, with live Q&A, and everyone who registers receives the replay. Parents register (one registration per family) and students watch with them: thedegreegap.com/study/webinars/oxbridge-interviews-and-personal-statements/"
 share_note: "Want a newsletter image or a shorter version? Email <a href=\"mailto:admin@thedegreegap.com\">admin@thedegreegap.com</a> and we will send it over."
 
 event_name: "Oxbridge Interviews and Personal Statements"
 event_description: "A free online webinar for Year 12 and Year 13 students, their parents and schools, led by recent Cambridge English graduate Lauren Akinluyi, on preparing for Oxford and Cambridge interviews and writing a personal statement that shows genuine academic interest."
-lead_source: "December 2026 Oxbridge Webinar"
+# Must match the Zoho Lead Source picklist exactly. Harry added this value on
+# 18 Nov 2026 (checked against Zoho the same day).
+lead_source: "December Oxbridge Webinar"
 
 mid_cta_1: "Free to attend. Lauren on Oxbridge interviews and personal statements, then live Q&A."
 mid_cta_1_label: "Save my place"
-mid_cta_2: "7 to 8pm, online. Free, and the replay goes to everyone who registers."
+mid_cta_2: "Wednesday 9 December, 7 to 8pm, online. Free, and the replay goes to everyone who registers."
 mid_cta_2_label: "Save my place"
 end_cta_heading: "Save your free place"
-end_cta_lead: "Register to get the joining link, and the replay if you can't make it live."
+end_cta_lead: "Wednesday 9 December, 7 to 8pm. Register to get the joining link, and the replay if you can't make it live."
 
 faqs:
   - q: "Who is it for?"
     a: "Year 12 and Year 13 students thinking about Oxford or Cambridge, and their parents. Teachers and Oxbridge coordinators are welcome too."
+  - q: "How do I join on the night?"
+    a: "Register on this page. Your joining link comes by email before the session, with a reminder on the day."
   - q: "I'm a student. Can I sign up myself?"
     a: "Please ask a parent or guardian to register, then watch it together. One registration covers the family, and we send them the joining link and the replay."
   - q: "Is it only for students applying for English?"
