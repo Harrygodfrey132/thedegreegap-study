@@ -1,17 +1,12 @@
 /* Designed webinar pages (partials/webinar-designed.html), loaded after
-   webinar.css on pages that set design: in their front matter. One block of
-   shared rules, then one block per design:
-     .wd--portrait    the speaker's photo down the left, light paper, serif
-     .wd--invitation  dark and formal, centred, like a printed invitation
-     .wd--modern      bold sans, colour blocks, an arch-shaped photo
-   Fonts are self-hosted in static/fonts/webinar (SIL Open Font License). */
+   webinar.css on pages that set design: in their front matter. Shared rules
+   first, then the rules for each design. So far there is one:
+     .wd--portrait   a framed photo of the speaker, light paper, serif
+   Three were mocked up for the Oxbridge webinar (18 Nov 2026) and Harry chose
+   this one. The font is self-hosted in static/fonts/webinar (SIL OFL). */
 
 @font-face { font-family: "Newsreader"; src: url("../fonts/webinar/newsreader-latin-wght-normal.woff2") format("woff2"); font-weight: 200 800; font-style: normal; font-display: swap; }
 @font-face { font-family: "Newsreader"; src: url("../fonts/webinar/newsreader-latin-wght-italic.woff2") format("woff2"); font-weight: 200 800; font-style: italic; font-display: swap; }
-@font-face { font-family: "Cormorant Garamond"; src: url("../fonts/webinar/cormorant-garamond-latin-500-normal.woff2") format("woff2"); font-weight: 500; font-style: normal; font-display: swap; }
-@font-face { font-family: "Cormorant Garamond"; src: url("../fonts/webinar/cormorant-garamond-latin-500-italic.woff2") format("woff2"); font-weight: 500; font-style: italic; font-display: swap; }
-@font-face { font-family: "Cormorant Garamond"; src: url("../fonts/webinar/cormorant-garamond-latin-600-normal.woff2") format("woff2"); font-weight: 600; font-style: normal; font-display: swap; }
-@font-face { font-family: "Bricolage Grotesque"; src: url("../fonts/webinar/bricolage-grotesque-latin-wght-normal.woff2") format("woff2"); font-weight: 200 800; font-style: normal; font-display: swap; }
 
 /* ============================ SHARED ============================ */
 .wd {
@@ -114,13 +109,14 @@
 /* ============================ PORTRAIT ============================ */
 .wd--portrait { --display: "Newsreader", Georgia, serif; --paper: #f9f5ee; }
 .wd--portrait .wd-top { border-bottom: 1px solid var(--line); }
-.wd--portrait .wd-title { font-weight: 500; font-size: clamp(2.5rem, 9.5vw, 3.3rem); line-height: 1.03; letter-spacing: -.022em; margin: 14px 0 20px; }
-.wd--portrait .wd-portrait { position: relative; }
-.wd--portrait .wd-portrait img { width: 100%; aspect-ratio: 1 / 1; object-fit: cover; object-position: 50% 12%; }
-.wd--portrait .wd-portrait figcaption { position: absolute; left: 0; bottom: 0; background: var(--paper); padding: 10px 16px 9px 20px; font-size: .82rem; line-height: 1.35; }
-.wd--portrait .wd-portrait figcaption b { display: block; font-family: var(--display); font-weight: 500; font-size: 1.08rem; }
-.wd--portrait .wd-portrait figcaption span { color: var(--muted); }
-.wd--portrait .wd-copy { padding: 32px 20px 8px; }
+.wd--portrait .wd-title { font-weight: 500; font-size: clamp(2.5rem, 9.5vw, 3.3rem); line-height: 1.03; letter-spacing: -.022em; margin: 14px 0 22px; }
+
+/* the speaker's photo: a framed portrait, not a full-height panel */
+.wd--portrait .wd-portrait img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; object-position: 50% 14%; border-radius: 4px; }
+.wd--portrait .wd-portrait figcaption { font-size: .84rem; line-height: 1.4; color: var(--muted); }
+.wd--portrait .wd-portrait figcaption b { display: block; font-family: var(--display); font-weight: 500; font-size: 1.18rem; color: var(--ink); }
+.wd--portrait .wd-portrait figcaption b::before { content: "Led by"; display: block; font-family: system-ui, -apple-system, "Segoe UI", sans-serif; font-size: .68rem; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; color: var(--burg); margin-bottom: 5px; }
+
 .wd--portrait .wd-lead { margin-bottom: 26px; max-width: 34em; }
 .wd--portrait .wd-facts { border-top: 1px solid #d8cdb9; border-bottom: 1px solid #d8cdb9; max-width: 480px; }
 .wd--portrait .wd-facts > div { padding: 12px 0; }
@@ -131,27 +127,41 @@
 .wd--portrait .gs-cardhead__t { font-weight: 500; font-size: 1.6rem; letter-spacing: -.01em; margin-bottom: 4px; }
 .wd--portrait .gs-field input, .wd--portrait .gs-field select { border-radius: 4px; border-width: 1px; border-color: #d2c8b6; }
 .wd--portrait .gs-submit { border-radius: 4px; box-shadow: none; }
-@media (min-width: 760px) and (max-width: 999px) {
-  /* tablet: photo beside the copy, form underneath */
-  .wd--portrait .wd-head { display: grid; grid-template-columns: 38% minmax(0, 1fr); }
-  .wd--portrait .wd-portrait picture { position: absolute; inset: 0; }
-  .wd--portrait .wd-portrait img { position: absolute; inset: 0; width: 100%; height: 100%; aspect-ratio: auto; object-position: 50% 20%; }
-  .wd--portrait .wd-copy { padding: 44px 28px 44px 32px; }
-  .wd--portrait .wd-signup { max-width: 560px; margin: 0 auto; padding: 40px 20px 52px; }
+
+/* phone: headline first, then a small photo beside her name, then the rest */
+@media (max-width: 759px) {
+  .wd--portrait .wd-head { display: flex; flex-direction: column; padding: 30px 20px 6px; }
+  .wd--portrait .wd-copy { display: contents; }
+  .wd--portrait .wd-eyebrow { order: 1; }
+  .wd--portrait .wd-title { order: 2; }
+  .wd--portrait .wd-portrait { order: 3; display: flex; align-items: center; gap: 16px; margin-bottom: 22px; }
+  .wd--portrait .wd-portrait picture { flex: 0 0 104px; }
+  .wd--portrait .wd-lead { order: 4; }
+  .wd--portrait .wd-facts { order: 5; }
+  .wd--portrait .wd-small { order: 6; }
 }
+/* tablet: photo beside the copy, form underneath */
+@media (min-width: 760px) and (max-width: 999px) {
+  .wd--portrait .wd-head { display: grid; grid-template-columns: 210px minmax(0, 1fr); column-gap: 36px; align-items: start; padding: 48px 32px 8px; }
+  .wd--portrait .wd-portrait figcaption { padding-top: 12px; }
+  .wd--portrait .wd-signup { max-width: 560px; margin: 0 auto; padding: 36px 20px 52px; }
+}
+/* desktop: photo, copy and form side by side */
 @media (min-width: 1000px) {
-  .wd--portrait .wd-top { display: grid; grid-template-columns: clamp(270px, 29vw, 470px) minmax(0, 1fr) clamp(380px, 33vw, 470px); }
+  .wd--portrait .wd-top { display: grid; grid-template-columns: auto minmax(0, 1fr) clamp(380px, 33vw, 470px); }
   .wd--portrait .wd-head { display: contents; }
-  .wd--portrait .wd-portrait picture { position: absolute; inset: 0; }
-  .wd--portrait .wd-portrait img { position: absolute; inset: 0; width: 100%; height: 100%; aspect-ratio: auto; object-position: 50% 20%; }
-  .wd--portrait .wd-copy { padding: 52px 28px 52px 36px; }
-  .wd--portrait .wd-title { font-size: clamp(2.3rem, 3.5vw, 3.7rem); }
-  .wd--portrait .wd-signup { padding: 48px 28px 52px 0; }
+  .wd--portrait .wd-portrait { width: clamp(190px, 19vw, 270px); margin: 56px 0 52px max(28px, calc((100vw - 1196px) / 2)); align-self: start; }
+  .wd--portrait .wd-portrait figcaption { padding-top: 14px; }
+  .wd--portrait .wd-copy { padding: 52px 32px 52px 40px; }
+  .wd--portrait .wd-title { font-size: clamp(2.3rem, 3.4vw, 3.6rem); }
+  .wd--portrait .wd-signup { padding: 52px 28px 52px 0; }
 }
 @media (min-width: 1140px) {
+  .wd--portrait .wd-portrait { margin-top: 72px; }
   .wd--portrait .wd-copy { padding: 68px 44px 64px 52px; }
-  .wd--portrait .wd-signup { padding: 60px clamp(24px, 3.4vw, 52px) 60px 0; }
+  .wd--portrait .wd-signup { padding: 64px max(28px, calc((100vw - 1196px) / 2)) 60px 0; }
 }
+
 .wd--portrait .wd-rest { background: #fffdf9; }
 .wd--portrait .wd-sec + .wd-sec, .wd--portrait .wd-faq, .wd--portrait .wd-end { border-top: 1px solid var(--line); }
 .wd--portrait .wd-sec h2 { font-weight: 500; }
@@ -160,156 +170,6 @@
 .wd--portrait .wd-takeaway { font-style: italic; padding-left: 22px; border-left: 2px solid var(--burg); }
 .wd--portrait .wd-about__img { border-radius: 3px; }
 .wd--portrait .wd-end h2 { font-size: clamp(2.1rem, 4.4vw, 3rem); }
-
-/* ============================ INVITATION ============================ */
-.wd--invitation {
-  --display: "Cormorant Garamond", Georgia, serif; --paper: #f7f1e3; --line: #e2d6bf;
-  --ox: #3a0c17; --gold: #c9a961; --cream: #f6eede;
-}
-.wd--invitation .wd-top { background: linear-gradient(var(--ox), var(--ox)) top / 100% calc(100% - 150px) no-repeat, var(--paper); padding: 56px 20px 0; text-align: center; }
-@media (min-width: 760px) { .wd--invitation .wd-top { padding-top: 64px; } }
-.wd--invitation .wd-head { max-width: 780px; margin: 0 auto; color: var(--cream); }
-.wd--invitation .wd-eyebrow { color: var(--gold); letter-spacing: .24em; font-weight: 600; font-size: .7rem; display: flex; align-items: center; justify-content: center; gap: 16px; }
-.wd--invitation .wd-eyebrow::before, .wd--invitation .wd-eyebrow::after { content: ""; flex: 0 1 56px; height: 1px; background: rgba(201,169,97,.55); }
-.wd--invitation .wd-title { font-weight: 500; font-size: clamp(2.9rem, 11.5vw, 5.1rem); line-height: .98; letter-spacing: -.012em; margin: 22px 0 24px; text-wrap: balance; }
-.wd--invitation .wd-host { display: inline-flex; align-items: center; gap: 16px; text-align: left; margin-bottom: 22px; }
-.wd--invitation .wd-host img { width: 68px; height: 68px; border-radius: 50%; object-fit: cover; outline: 1px solid var(--gold); outline-offset: 4px; }
-.wd--invitation .wd-host__with { font-family: var(--display); font-style: italic; font-size: 1.35rem; color: rgba(246,238,222,.75); }
-.wd--invitation .wd-host__name { font-family: var(--display); font-size: 1.7rem; line-height: 1.1; }
-.wd--invitation .wd-host__role { display: block; margin-top: 4px; font-size: .68rem; letter-spacing: .14em; text-transform: uppercase; color: rgba(246,238,222,.68); }
-.wd--invitation .wd-lead { color: rgba(246,238,222,.86); max-width: 35em; margin: 0 auto 28px; font-size: 1.04rem; }
-.wd--invitation .wd-facts { display: grid; border-top: 1px solid rgba(201,169,97,.4); border-bottom: 1px solid rgba(201,169,97,.4); max-width: 860px; margin: 0 auto; }
-.wd--invitation .wd-facts > div { display: block; padding: 14px 12px; }
-.wd--invitation .wd-facts > div + div { border-top: 1px solid rgba(201,169,97,.22); }
-.wd--invitation .wd-facts dt { color: var(--gold); letter-spacing: .2em; margin-bottom: 5px; }
-.wd--invitation .wd-facts dd { font-family: var(--display); font-weight: 500; font-size: 1.36rem; line-height: 1.15; color: var(--cream); }
-@media (min-width: 700px) {
-  .wd--invitation .wd-facts { grid-template-columns: repeat(3, 1fr); }
-  .wd--invitation .wd-facts > div { padding: 18px 16px; }
-  .wd--invitation .wd-facts > div + div { border-top: 0; border-left: 1px solid rgba(201,169,97,.3); }
-}
-.wd--invitation .wd-small { display: none; }
-.wd--invitation .wd-signup { max-width: 520px; margin: 36px auto 0; text-align: left; }
-.wd--invitation .gs-register__card { background: #fdf9f0; border: 1px solid #cbb98f; border-radius: 2px; padding: 34px 26px 26px; outline: 1px solid rgba(201,169,97,.55); outline-offset: -8px; box-shadow: 0 22px 50px rgba(30,6,12,.22); }
-@media (min-width: 560px) { .wd--invitation .gs-register__card { padding: 44px 44px 34px; } }
-.wd--invitation .gs-cardhead__t, .wd--invitation .gs-cardhead__s { text-align: center; }
-.wd--invitation .gs-cardhead__t { font-weight: 600; font-size: 2rem; letter-spacing: 0; line-height: 1.1; margin-bottom: 6px; }
-.wd--invitation .gs-cardhead { margin-bottom: 24px; }
-.wd--invitation .gs-field input, .wd--invitation .gs-field select { border-radius: 2px; border-width: 1px; border-color: #cfc3a8; background-color: #fff; }
-.wd--invitation .gs-submit { background: var(--ox); border-radius: 2px; box-shadow: none; letter-spacing: .14em; text-transform: uppercase; font-size: .84rem; }
-.wd--invitation .gs-submit:hover { background: #55121f; }
-.wd--invitation .wd-sec h2, .wd--invitation .gs-faq h2 { font-weight: 600; font-size: clamp(2.2rem, 4.6vw, 3rem); letter-spacing: 0; text-align: center; }
-.wd--invitation .wd-label { text-align: center; color: #8c6d2c; letter-spacing: .22em; font-weight: 600; }
-.wd--invitation .wd-sub { text-align: center; }
-.wd--invitation .wd-note { padding-top: 76px; }
-.wd--invitation .wd-note .wd-in { max-width: 620px; }
-.wd--invitation .wd-note__body p { font-size: 1.5rem; line-height: 1.5; font-weight: 500; }
-@media (min-width: 760px) { .wd--invitation .wd-note__body p { font-size: 1.68rem; } }
-.wd--invitation .wd-sign { justify-content: flex-end; text-align: right; }
-.wd--invitation .wd-sign img { display: none; }
-.wd--invitation .wd-sign__name { font-size: 1.7rem; }
-.wd--invitation .wd-agenda { background: #fdf9f0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
-.wd--invitation .wd-list { counter-reset: prog; text-align: center; }
-.wd--invitation .wd-list li { display: block; border: 0; padding: 22px 0 0; counter-increment: prog; }
-.wd--invitation .wd-list li:last-child { border: 0; }
-.wd--invitation .wd-list__n { display: block; font-size: 0; margin-bottom: 8px; }
-.wd--invitation .wd-list__n::before { content: counter(prog, upper-roman); font-size: 1.05rem; letter-spacing: .2em; color: #8c6d2c; font-weight: 600; }
-.wd--invitation .wd-list b { display: block; font-family: var(--display); font-weight: 600; font-size: 1.55rem; line-height: 1.2; margin-bottom: 4px; }
-.wd--invitation .wd-list p { max-width: 30em; margin: 0 auto; }
-.wd--invitation .wd-takeaway { text-align: center; font-style: italic; font-size: 1.6rem; font-weight: 500; line-height: 1.35; margin-top: 44px; padding-top: 34px; border-top: 1px solid var(--line); }
-.wd--invitation .wd-about .wd-in { text-align: left; }
-.wd--invitation .wd-about .wd-label, .wd--invitation .wd-about h2 { text-align: left; }
-.wd--invitation .wd-about__img { border-radius: 50%; outline: 1px solid #b89a55; outline-offset: 5px; }
-.wd--invitation .wd-reviews { background: #fdf9f0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
-.wd--invitation .wd-reviews .wd-label { text-align: left; }
-.wd--invitation .wd-quotes figure { border-top: 1px solid #b89a55; }
-.wd--invitation .wd-inc__cols h3 { border-bottom: 1px solid #b89a55; color: #8c6d2c; letter-spacing: .2em; }
-.wd--invitation .wd-inc dt { font-family: var(--display); font-weight: 600; font-size: 1.3rem; }
-.wd--invitation .wd-end { background: var(--ox); color: var(--cream); }
-.wd--invitation .wd-end p { color: rgba(246,238,222,.8); }
-.wd--invitation .wd-btn { background: transparent; border: 1px solid var(--gold); color: var(--cream) !important; border-radius: 2px; letter-spacing: .14em; text-transform: uppercase; font-size: .84rem; padding: 17px 34px; }
-.wd--invitation .wd-btn:hover { background: var(--gold); color: var(--ox) !important; }
-.wd--invitation .wd-back { padding-top: 34px; }
-
-/* ============================ MODERN ============================ */
-.wd--modern { --display: "Bricolage Grotesque", system-ui, sans-serif; --paper: #fbf7ef; --ink: #191513; --yellow: #f4c430; font-family: "Bricolage Grotesque", system-ui, sans-serif; }
-.wd--modern .wd-head { padding: 36px 20px 40px; }
-/* on a phone the photo sits between the headline and the lead */
-@media (max-width: 999px) {
-  .wd--modern .wd-head { display: flex; flex-direction: column; }
-  .wd--modern .wd-copy { display: contents; }
-  .wd--modern .wd-eyebrow { order: 1; align-self: flex-start; }
-  .wd--modern .wd-title { order: 2; }
-  .wd--modern .wd-portrait { order: 3; }
-  .wd--modern .wd-lead { order: 4; }
-  .wd--modern .wd-facts { order: 5; }
-  .wd--modern .wd-small { order: 6; }
-}
-.wd--modern .wd-eyebrow { display: inline-block; background: var(--ink); color: #fff; letter-spacing: .1em; padding: 7px 12px; border-radius: 4px; }
-.wd--modern .wd-title { font-weight: 800; font-size: clamp(2.7rem, 11.5vw, 4.9rem); line-height: .96; letter-spacing: -.04em; margin: 20px 0 22px; }
-.wd--modern .wd-mark { background: linear-gradient(transparent 60%, var(--yellow) 60%, var(--yellow) 93%, transparent 93%); padding: 0 .06em; margin: 0 -.06em; }
-.wd--modern .wd-lead { font-size: 1.14rem; font-weight: 450; margin-bottom: 26px; max-width: 32em; color: #3a342e; }
-.wd--modern .wd-facts { border-top: 3px solid var(--ink); max-width: 560px; }
-.wd--modern .wd-facts > div { padding: 12px 0; border-bottom: 1px solid #d9cfbc; }
-.wd--modern .wd-facts dt { color: var(--muted); letter-spacing: .1em; }
-.wd--modern .wd-facts dd { font-weight: 700; font-size: 1.06rem; letter-spacing: -.01em; }
-.wd--modern .wd-small { margin-top: 14px; max-width: 46ch; }
-.wd--modern .wd-portrait { display: flex; align-items: flex-end; gap: 16px; margin-bottom: 26px; }
-.wd--modern .wd-portrait picture { flex: 0 0 132px; }
-.wd--modern .wd-portrait img { width: 132px; aspect-ratio: 4 / 5; object-fit: cover; object-position: 50% 14%; border-radius: 999px 999px 10px 10px; background: var(--burg); }
-.wd--modern .wd-portrait figcaption { font-size: .88rem; line-height: 1.4; color: var(--muted); padding-bottom: 6px; }
-.wd--modern .wd-portrait figcaption b { display: block; font-size: 1.2rem; font-weight: 700; letter-spacing: -.02em; color: var(--ink); }
-.wd--modern .wd-portrait figcaption b::before { content: "Led by"; display: block; font-size: .68rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: var(--burg); margin-bottom: 4px; }
-.wd--modern .wd-signup { background: var(--burg); padding: 36px 20px 44px; }
-.wd--modern .gs-register__card { border: 2px solid var(--ink); border-radius: 18px; padding: 28px 24px 22px; box-shadow: 7px 7px 0 var(--yellow); max-width: 440px; margin: 0 auto; }
-.wd--modern .gs-cardhead__t { font-weight: 800; font-size: 1.6rem; letter-spacing: -.03em; margin-bottom: 4px; }
-.wd--modern .gs-field input, .wd--modern .gs-field select { border-radius: 10px; border: 1.5px solid #cfc5b3; }
-.wd--modern .gs-field label { font-weight: 700; }
-.wd--modern .gs-submit { background: var(--ink); border-radius: 999px; box-shadow: none; font-weight: 700; font-size: 1.02rem; }
-.wd--modern .gs-submit:hover { background: var(--burg); }
-@media (min-width: 1000px) {
-  .wd--modern .wd-top { display: grid; grid-template-columns: minmax(0, 1fr) clamp(430px, 39vw, 580px); }
-  .wd--modern .wd-head { padding: 60px 44px 60px max(32px, calc((100vw - 1096px) / 2)); display: grid; grid-template-columns: minmax(0, 1fr) 176px; column-gap: 36px; align-content: start; }
-  .wd--modern .wd-copy { display: contents; }
-  .wd--modern .wd-eyebrow { grid-column: 1 / -1; justify-self: start; }
-  .wd--modern .wd-title { grid-column: 1 / -1; font-size: clamp(3rem, 4.5vw, 4.6rem); margin: 22px 0 30px; }
-  .wd--modern .wd-lead, .wd--modern .wd-facts, .wd--modern .wd-small { grid-column: 1; }
-  .wd--modern .wd-portrait { grid-column: 2; grid-row: 3 / span 3; display: block; margin: 4px 0 0; align-self: start; }
-  .wd--modern .wd-portrait img { width: 176px; }
-  .wd--modern .wd-portrait figcaption { padding: 12px 0 0; }
-  .wd--modern .wd-signup { display: flex; align-items: center; justify-content: center; padding: 56px clamp(28px, 4vw, 64px); }
-  .wd--modern .gs-register__card { width: 100%; }
-}
-.wd--modern .wd-sec h2, .wd--modern .gs-faq h2 { font-weight: 800; font-size: clamp(2rem, 4.4vw, 3rem); letter-spacing: -.035em; line-height: 1; }
-.wd--modern .wd-label { color: var(--ink); background: var(--yellow); display: inline-block; padding: 6px 10px; border-radius: 4px; letter-spacing: .1em; }
-.wd--modern .wd-note .wd-in { max-width: 760px; background: #fff; border: 2px solid var(--ink); border-radius: 22px; padding: 30px 24px; box-shadow: 7px 7px 0 var(--burg); }
-@media (min-width: 760px) { .wd--modern .wd-note .wd-in { padding: 48px 52px; } }
-.wd--modern .wd-note__body p { font-weight: 450; letter-spacing: -.012em; line-height: 1.5; font-size: 1.22rem; }
-@media (min-width: 760px) { .wd--modern .wd-note__body p { font-size: 1.42rem; } }
-.wd--modern .wd-sign__name { font-style: normal; font-weight: 700; letter-spacing: -.02em; font-size: 1.15rem; }
-.wd--modern .wd-agenda { background: #fff; border-top: 2px solid var(--ink); border-bottom: 2px solid var(--ink); }
-.wd--modern .wd-agenda .wd-in { max-width: 1040px; }
-.wd--modern .wd-sub { max-width: 40em; font-size: 1.08rem; margin-top: 14px; }
-.wd--modern .wd-list { display: grid; gap: 0 48px; }
-@media (min-width: 820px) { .wd--modern .wd-list { grid-template-columns: 1fr 1fr; } }
-.wd--modern .wd-list li { border-top: 2px solid var(--ink); border-bottom: 0; padding: 18px 0 26px; gap: 18px; }
-.wd--modern .wd-list li:last-child { border-bottom: 0; }
-.wd--modern .wd-list__n { flex: 0 0 44px; font-weight: 800; font-size: 2.5rem; letter-spacing: -.04em; line-height: .9; }
-.wd--modern .wd-list p { font-size: 1.04rem; line-height: 1.5; }
-.wd--modern .wd-list b { display: block; font-size: 1.22rem; letter-spacing: -.02em; line-height: 1.2; margin-bottom: 4px; }
-.wd--modern .wd-takeaway { font-weight: 700; font-size: 1.4rem; letter-spacing: -.02em; line-height: 1.3; background: var(--yellow); padding: 22px 26px; border-radius: 14px; }
-.wd--modern .wd-about__img { border-radius: 999px 999px 10px 10px; aspect-ratio: 4 / 5; height: auto; background: var(--burg); }
-.wd--modern .wd-about h2 { margin-top: 12px; }
-.wd--modern .wd-reviews { background: #fff; border-top: 2px solid var(--ink); border-bottom: 2px solid var(--ink); }
-.wd--modern .wd-quotes figure { border: 2px solid var(--ink); border-radius: 16px; padding: 22px; background: var(--paper); }
-.wd--modern .wd-inc__cols h3 { letter-spacing: .1em; color: var(--ink); border-bottom-width: 3px; }
-.wd--modern .wd-inc h2 { margin-top: 12px; }
-.wd--modern .wd-end { background: var(--yellow); }
-.wd--modern .wd-end h2 { font-size: clamp(2.4rem, 6vw, 4rem); }
-.wd--modern .wd-end p { color: #3a342e; }
-.wd--modern .wd-btn { background: var(--ink); border-radius: 999px; padding: 18px 36px; font-size: 1.05rem; }
-.wd--modern .wd-btn:hover { background: var(--burg); }
-.wd--modern .wd-back { padding-top: 34px; }
 
 /* The footer's 80px top margin shows the page background, which left a pale
    strip under the dark and yellow closing bands. The designs end flush. */

@@ -1,5 +1,5 @@
-Newsreader, Cormorant Garamond and Bricolage Grotesque are licensed under the SIL Open Font License 1.1.
-Files from the Fontsource packages (fontsource.org), latin subset.
+Newsreader is licensed under the SIL Open Font License 1.1.
+Files from the Fontsource package (fontsource.org), latin subset.
 
 Copyright 2020 The Newsreader Project Authors (http://github.com/productiontype/Newsreader) Newsreader-Italic[opsz,wght].ttf: Copyright 2020 The Newsreader Project Authors (http://github.com/productiontype/Newsreader)
 

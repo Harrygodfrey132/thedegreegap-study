@@ -18,12 +18,11 @@ webinar_date_display: "TBC"
 webinar_time_display: "7 to 8pm, online (UK time)"
 
 hero_form: true
-hero_style: "editorial"
-# design: picks one of the three designed versions in
-# partials/webinar-designed.html ("portrait", "invitation" or "modern").
-# Without it the page uses the standard template with the editorial hero.
+# The designed page (partials/webinar-designed.html), chosen by Harry from
+# three mock-ups on 18 Nov 2026. Remove design: once the session has run and
+# replay_youtube_id is set, so the page falls back to the replay layout.
+design: "portrait"
 hero_portrait: "/images/lauren-akinluyi-portrait.jpg"
-hero_h1_mark: "Oxbridge"
 # Update "When" with the date once it is confirmed.
 hero_facts:
   - "When|Date to be confirmed, 7 to 8pm"

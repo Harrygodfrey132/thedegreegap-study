@@ -2,17 +2,15 @@
   A designed webinar page, for a guest-led session that should not look like
   the standard template. Chosen with design: in the page's front matter:
 
-    portrait    the speaker's photo down the left, light paper, serif
-    invitation  dark and formal, centred, like a printed invitation
-    modern      bold sans, colour blocks, an arch-shaped photo
+    portrait    a framed photo of the speaker, light paper, serif
 
-  One set of markup for all three; static/css/webinar-designs.css arranges it.
-  The form is the standard partial, so registration is untouched.
+  static/css/webinar-designs.css styles it (.wd--<design>), so another design
+  can reuse this markup. The form is the standard partial, so registration
+  is untouched.
 
   Extra front matter it reads:
     hero_facts      "Label|Value" rows (When, Where, Cost)
-    hero_portrait   tall photo of the speaker (4:5), for portrait and modern
-    hero_h1_mark    a word in the H1 to underline in the modern design
+    hero_portrait   tall photo of the speaker (4:5)
     speaker_url     link under the speaker's background
     note_*          see partials/webinar-note.html
 */}}
@@ -20,29 +18,20 @@
 {{ $d := $p.Params.design }}
 {{ $name := $p.Params.speaker_name }}
 {{ $first := index (split $name " ") 0 }}
-{{ $h1 := .h1 }}
-{{ $h1html := $h1 }}
-{{ with $p.Params.hero_h1_mark }}{{ $h1html = replace $h1 . (printf "<span class=\"wd-mark\">%s</span>" .) }}{{ end }}
 
 <div class="wd wd--{{ $d }}">
 
   <div class="wd-top">
     <header class="wd-head">
-      {{ if and (ne $d "invitation") $p.Params.hero_portrait }}
+      {{ with $p.Params.hero_portrait }}
       <figure class="wd-portrait">
-        {{ partial "responsive-image.html" (dict "src" $p.Params.hero_portrait "alt" (printf "%s, %s" $name $p.Params.speaker_role) "loading" "eager" "fetchPriority" "high" "widths" (slice 420 700 1000 1400) "fallbackWidth" 700 "sizes" "(min-width: 1000px) 34vw, 100vw" "quality" 80) }}
+        {{ partial "responsive-image.html" (dict "src" . "alt" (printf "%s, %s" $name $p.Params.speaker_role) "loading" "eager" "fetchPriority" "high" "widths" (slice 280 560 840) "fallbackWidth" 560 "sizes" "(min-width: 760px) 270px, 104px" "quality" 80) }}
         <figcaption><b>{{ $name }}</b><span>{{ $p.Params.speaker_role }}</span></figcaption>
       </figure>
       {{ end }}
       <div class="wd-copy">
         <p class="wd-eyebrow">{{ .eyebrow }}</p>
-        <h1 class="wd-title">{{ $h1html | safeHTML }}</h1>
-        {{ if eq $d "invitation" }}
-        <div class="wd-host">
-          {{ with $p.Params.speaker_photo }}<img src="{{ (strings.TrimPrefix "/" .) | relURL }}" alt="{{ $name }}" width="88" height="88" loading="eager" decoding="async">{{ end }}
-          <p><span class="wd-host__with">with</span> <span class="wd-host__name">{{ $name }}</span><span class="wd-host__role">{{ $p.Params.speaker_role }}</span></p>
-        </div>
-        {{ end }}
+        <h1 class="wd-title">{{ .h1 }}</h1>
         <p class="wd-lead">{{ .lead }}</p>
         {{ with $p.Params.hero_facts }}
         <dl class="wd-facts">
