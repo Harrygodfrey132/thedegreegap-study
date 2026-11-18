@@ -6,9 +6,9 @@ layout: "single"
 # date. If the date moves, change webinar_date, webinar_end_date,
 # webinar_date_display, the "When" row in hero_facts, title, description,
 # card_summary, share_blurb, mid_cta_2 and end_cta_lead.
-hero_eyebrow: "Free webinar · Year 12 and Year 13"
+hero_eyebrow: "Free webinar for parents · Year 12 and Year 13"
 hero_h1: "Oxbridge Interviews and Personal Statements"
-hero_lead: "A free hour for Year 12 and 13 students thinking about Oxford or Cambridge, and for their parents. Lauren graduated from Cambridge this summer, and talks through how to prepare for interview and how to write and speak about your subject with confidence. Live Q&A at the end."
+hero_lead: "A free hour for Year 12 and 13 students thinking about Oxford or Cambridge, and for their parents. Lauren graduated from Cambridge this summer, and talks through how to prepare for interview and how to write and speak about your subject with confidence. Live Q&A at the end. Parents sign up, and your child watches with you on your link."
 card_title: "Oxbridge Interviews and Personal Statements"
 card_summary: "Recent Cambridge graduate Lauren Akinluyi on Oxford and Cambridge interviews and personal statements, for Year 12 and 13 families. Saturday 5 December, 2 to 3pm."
 cta_label: "Save my place"
@@ -27,8 +27,10 @@ hero_facts:
   - "When|Saturday 5 December, 2 to 3pm"
   - "Where|Online, live, with Q&A"
   - "Cost|Free, and the replay is included"
-hero_form_title: "Parents: save your free place"
-hero_form_sub: "One registration per family, and your child watches with you. We email the joining link, with a reminder on the day."
+  - "Sign-up|Parents only. Your child watches with you"
+hero_form_title: "Parents only: save your free place"
+form_fine_print: "Are you a student? Ask a parent to register, and watch together on their link."
+hero_form_sub: "This form is for parents. One registration per family, and your child watches with you on your link. We email the joining link, with a reminder on the day."
 hero_replay_note: "<b>Register to get the joining link.</b> If you can't make it live, register anyway and we email you the replay the next day."
 
 # Written to the parent, like the December GCSE masterclass (Harry, 18 Nov
@@ -130,7 +132,7 @@ end_cta_lead: "Saturday 5 December, 2 to 3pm. Register to get the joining link, 
 
 faqs:
   - q: "Who is it for?"
-    a: "Year 12 and Year 13 students thinking about Oxford or Cambridge, and their parents. Teachers and Oxbridge coordinators are welcome too."
+    a: "Year 12 and Year 13 students thinking about Oxford or Cambridge, and their parents. Parents sign up, one registration per family, and students watch with them on that link. Teachers and Oxbridge coordinators are welcome to register too."
   - q: "How do I join on the night?"
     a: "Register on this page. Your joining link comes by email before the session, with a reminder on the day."
   - q: "I'm a student. Can I sign up myself?"
