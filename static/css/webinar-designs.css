@@ -124,7 +124,7 @@
 .wd--portrait .wd-small { margin-top: 14px; max-width: 44ch; }
 .wd--portrait .wd-signup { padding: 28px 20px 44px; }
 .wd--portrait .gs-register__card { border: 1px solid #ddd3c0; border-radius: 4px; padding: 28px 24px 22px; }
-.wd--portrait .gs-cardhead__t { font-weight: 500; font-size: 1.6rem; letter-spacing: -.01em; margin-bottom: 4px; }
+.wd--portrait .gs-cardhead__t { font-weight: 500; font-size: 1.6rem; line-height: 1.15; letter-spacing: -.01em; margin-bottom: 8px; }
 .wd--portrait .gs-field input, .wd--portrait .gs-field select { border-radius: 4px; border-width: 1px; border-color: #d2c8b6; }
 .wd--portrait .gs-submit { border-radius: 4px; box-shadow: none; }
 
@@ -148,18 +148,22 @@
 }
 /* desktop: photo, copy and form side by side */
 @media (min-width: 1000px) {
-  .wd--portrait .wd-top { display: grid; grid-template-columns: auto minmax(0, 1fr) clamp(380px, 33vw, 470px); }
+  /* The centring sits outside the three columns (padding on the grid), so
+     the form column keeps its full width on wide screens. It used to be
+     padding inside the form's own column, which crushed the form to ~200px
+     at 1700px wide (Harry, 18 Nov 2026). */
+  .wd--portrait .wd-top { display: grid; grid-template-columns: auto minmax(0, 1fr) clamp(360px, 31vw, 420px); padding-inline: max(28px, calc((100vw - 1240px) / 2)); }
   .wd--portrait .wd-head { display: contents; }
-  .wd--portrait .wd-portrait { width: clamp(190px, 19vw, 270px); margin: 56px 0 52px max(28px, calc((100vw - 1196px) / 2)); align-self: start; }
+  .wd--portrait .wd-portrait { width: clamp(190px, 17vw, 250px); margin: 56px 0 52px 0; align-self: start; }
   .wd--portrait .wd-portrait figcaption { padding-top: 14px; }
   .wd--portrait .wd-copy { padding: 52px 32px 52px 40px; }
   .wd--portrait .wd-title { font-size: clamp(2.3rem, 3.4vw, 3.6rem); }
-  .wd--portrait .wd-signup { padding: 52px 28px 52px 0; }
+  .wd--portrait .wd-signup { padding: 52px 0 52px 0; }
 }
 @media (min-width: 1140px) {
   .wd--portrait .wd-portrait { margin-top: 72px; }
   .wd--portrait .wd-copy { padding: 68px 44px 64px 52px; }
-  .wd--portrait .wd-signup { padding: 64px max(28px, calc((100vw - 1196px) / 2)) 60px 0; }
+  .wd--portrait .wd-signup { padding: 64px 0 60px 0; }
 }
 
 .wd--portrait .wd-rest { background: #fffdf9; }
