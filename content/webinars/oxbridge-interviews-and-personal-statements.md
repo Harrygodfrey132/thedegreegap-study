@@ -18,9 +18,15 @@ webinar_date_display: "TBC"
 webinar_time_display: "7 to 8pm, online (UK time)"
 
 hero_form: true
+hero_style: "editorial"
+# Update "When" with the date once it is confirmed.
+hero_facts:
+  - "When|Date to be confirmed, 7 to 8pm"
+  - "Where|Online, live, with Q&A"
+  - "Cost|Free, and the replay is included"
 hero_form_title: "Save your free place"
 hero_form_sub: "Free to attend. We email the joining link, with a reminder on the day."
-hero_replay_note: "<b>You need to register to get the joining link.</b> Can't make it live? Register anyway and we email you the replay the next day."
+hero_replay_note: "<b>Register to get the joining link.</b> If you can't make it live, register anyway and we email you the replay the next day."
 
 # Students and parents both come to this one, and schools share it, so the
 # form asks who is registering (as the September UCAS webinar did). Only a

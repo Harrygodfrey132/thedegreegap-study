@@ -47,13 +47,22 @@
   <!-- HERO -->
   {{ $heroForm := .Params.hero_form }}
   {{ if $replayId }}{{ $heroForm = false }}{{ end }}
-  <section class="gs-hero{{ if $heroForm }} gs-hero--split{{ end }}">
+  {{/* hero_style: "editorial" is a quieter hero for a guest-led session: flat
+       background, serif headline, the date and place as a plain row of
+       facts (hero_facts) and no credential tags. */}}
+  {{ $editorial := eq .Params.hero_style "editorial" }}
+  <section class="gs-hero{{ if $heroForm }} gs-hero--split{{ end }}{{ if $editorial }} gs-hero--editorial{{ end }}">
     <div class="gs-hero__inner">
       <div class="gs-hero__copy">
         <p class="gs-eyebrow">{{ $eyebrow }}</p>
         <h1>{{ $h1 }}</h1>
         <p class="gs-hero__lead">{{ $lead }}</p>
-        {{ if $heroForm }}
+        {{ if and $heroForm $editorial .Params.hero_facts }}
+          <dl class="gs-facts">
+            {{ range .Params.hero_facts }}{{ $f := split . "|" }}<div><dt>{{ index $f 0 }}</dt><dd>{{ index $f 1 }}</dd></div>{{ end }}
+          </dl>
+          {{ with .Params.hero_replay_note }}<p class="gs-facts__note">{{ . | safeHTML }}</p>{{ end }}
+        {{ else if $heroForm }}
           <div class="gs-when">
             <div class="gs-when__row">
               <svg class="gs-when__ico" viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M16 3v4M8 3v4M3 11h18"/></svg>

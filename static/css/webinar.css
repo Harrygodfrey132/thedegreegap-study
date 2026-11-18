@@ -706,3 +706,30 @@
   .gs-note__sign p { margin: 0; }
   .gs-note__name { display: block; font-family: Georgia, "Times New Roman", serif; font-style: italic; font-size: 1.3rem; color: var(--ink); }
   .gs-note__role { display: block; margin-top: 2px; font-size: .86rem; color: var(--muted); }
+
+  /* ---------- EDITORIAL HERO (hero_style: "editorial") ---------- */
+  .gs-hero--editorial { background: var(--cream); border-bottom: 1px solid var(--line); }
+  .gs-hero--editorial .gs-eyebrow { font-weight: 700; letter-spacing: .14em; }
+  .gs-hero--editorial h1 {
+    font-family: Georgia, "Times New Roman", serif; font-weight: 400;
+    font-size: clamp(2.5rem, 9vw, 3.5rem); line-height: 1.08; letter-spacing: -.015em; margin-bottom: 22px;
+  }
+  @media (min-width: 980px) { .gs-hero--editorial h1 { max-width: none; text-wrap: balance; } }
+  /* main.css draws a faint grid over .gs-hero; this variant is plain */
+  .gs-hero--editorial::before { display: none; }
+  .gs-hero--editorial .gs-hero__lead { color: #3d3833; max-width: 44ch; margin-bottom: 30px; }
+  .gs-facts { margin: 0; padding: 0; border-top: 1px solid #d9cfbc; border-bottom: 1px solid #d9cfbc; display: grid; grid-template-columns: 1fr; max-width: 520px; }
+  .gs-facts > div { padding: 12px 0; display: flex; gap: 14px; align-items: baseline; }
+  .gs-facts > div + div { border-top: 1px solid var(--line); }
+  .gs-facts dt { flex: 0 0 64px; font-size: .7rem; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; color: var(--burgundy); }
+  .gs-facts dd { margin: 0; font-size: 1rem; font-weight: 600; color: var(--ink); line-height: 1.4; }
+  .gs-facts__note { margin: 14px 0 0; font-size: .86rem; line-height: 1.55; color: var(--muted); max-width: 48ch; }
+  .gs-facts__note b { color: var(--ink); }
+  .gs-hero--editorial .gs-hspk { border: 0; padding: 0; align-items: center; }
+  .gs-hero--editorial .gs-hspk__creds { display: none; }
+  .gs-hero--editorial .gs-hspk__eyebrow { font-weight: 700; }
+  .gs-hero--editorial .gs-hspk__name { font-family: Georgia, "Times New Roman", serif; font-weight: 400; font-size: 1.25rem; }
+  .gs-hero--editorial .gs-hspk__role { margin: 0; }
+  .gs-hero--editorial .gs-register__card { box-shadow: 0 1px 2px rgba(35,23,17,.05), 0 8px 24px rgba(35,23,17,.07); border: 1px solid #e3d9c6; }
+  /* the note below is white, so the two don't need a second rule between them */
+  .gs-hero--editorial + .gs-note { border-top: 0; }
