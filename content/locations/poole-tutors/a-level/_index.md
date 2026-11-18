@@ -1,5 +1,5 @@
 ---
-title: "Poole A-Level Tutors | Online One-to-One | The Degree Gap"
+title: "Poole A-Level Tutors | One-to-One | The Degree Gap"
 description: "Has your child left A-Level revision late and now the grades are worrying? Online A-Level tutoring for Poole sixth formers, one-to-one. From £37, no contract."
 layout: "subject"
 location: "Poole"
