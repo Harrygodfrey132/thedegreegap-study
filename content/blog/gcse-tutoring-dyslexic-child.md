@@ -2,7 +2,7 @@
 title: "GCSE Support for a Dyslexic Child: Exam Access, Revision and Tutoring That Helps"
 seo_title: "GCSE Tutoring for a Dyslexic Child: What Actually Helps"
 description: "How dyslexia affects GCSEs, the 2027 rules and deadlines for extra time, what the evidence says helps, and how to choose a tutor who understands it."
-date: 2026-11-18T09:00:00+00:00
+date: 2026-11-18T00:00:00+00:00
 author: "Harry Godfrey"
 author_role: "Co-founder, The Degree Gap"
 category: "Parent Advice"

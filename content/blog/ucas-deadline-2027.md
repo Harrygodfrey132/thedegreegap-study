@@ -2,7 +2,7 @@
 title: "UCAS Deadline 2027: What to Do If the Personal Statement Isn't Finished"
 seo_title: "UCAS Deadline 2027: 13 January and What to Do Now"
 description: "The UCAS deadline for 2027 entry is 6pm on 13 January 2027. School deadlines come sooner. A week-by-week plan to finish the three-question statement."
-date: 2026-11-18T09:30:00+00:00
+date: 2026-11-18T00:05:00+00:00
 author: "Harry Godfrey"
 author_role: "Co-founder, The Degree Gap"
 category: "University Applications"
