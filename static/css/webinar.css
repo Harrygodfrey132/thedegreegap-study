@@ -693,3 +693,16 @@
   .gs-forschools__proof .gs-proof { display: contents; }
   .gs-badge--stat { background: transparent; border-color: transparent; padding-left: 8px; }
   .gs-badge--stat .gs-badge__top b { font-size: .92rem; }
+
+  /* ---------- NOTE FROM THE SPEAKER (partials/webinar-note.html) ---------- */
+  .gs-note { background: #fff; padding: 52px 20px 44px; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+  @media (min-width: 760px) { .gs-note { padding: 76px 24px 68px; } }
+  .gs-note__inner { max-width: 640px; margin: 0 auto; }
+  .gs-note__eyebrow { margin: 0 0 22px; font-size: .74rem; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; color: var(--burgundy); }
+  .gs-note__p { margin: 0 0 1.1em; font-family: Georgia, "Times New Roman", serif; font-size: 1.14rem; line-height: 1.7; color: var(--ink); }
+  @media (min-width: 760px) { .gs-note__p { font-size: 1.28rem; } }
+  .gs-note__sign { display: flex; align-items: center; gap: 14px; margin-top: 30px; }
+  .gs-note__sign img { width: 56px; height: 56px; border-radius: 50%; object-fit: cover; }
+  .gs-note__sign p { margin: 0; }
+  .gs-note__name { display: block; font-family: Georgia, "Times New Roman", serif; font-style: italic; font-size: 1.3rem; color: var(--ink); }
+  .gs-note__role { display: block; margin-top: 2px; font-size: .86rem; color: var(--muted); }

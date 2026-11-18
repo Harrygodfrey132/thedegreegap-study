@@ -1,0 +1,20 @@
+{{/* A short note in the speaker's own words, straight under a webinar hero.
+     Plain on purpose: a narrow column of serif text and a signature, no
+     cards or effects. Only use the speaker's real words. Front matter:
+       note_eyebrow     e.g. "A note from Lauren"
+       note_paragraphs  list of paragraphs
+       note_sign        name under the note
+       note_sign_role   one line under the name
+       note_photo       optional square photo, shown small beside the name */}}
+{{ with .Params.note_paragraphs }}
+<section class="gs-note">
+  <div class="gs-note__inner">
+    <p class="gs-note__eyebrow">{{ $.Params.note_eyebrow | default "A note from the speaker" }}</p>
+    {{ range . }}<p class="gs-note__p">{{ . }}</p>{{ end }}
+    <div class="gs-note__sign">
+      {{ with $.Params.note_photo }}<img src="{{ (strings.TrimPrefix "/" .) | relURL }}" alt="{{ $.Params.note_sign }}" width="56" height="56" loading="lazy" decoding="async">{{ end }}
+      <p><span class="gs-note__name">{{ $.Params.note_sign }}</span>{{ with $.Params.note_sign_role }}<span class="gs-note__role">{{ . }}</span>{{ end }}</p>
+    </div>
+  </div>
+</section>
+{{ end }}

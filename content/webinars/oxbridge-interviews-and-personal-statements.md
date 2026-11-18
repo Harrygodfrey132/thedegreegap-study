@@ -8,7 +8,7 @@ layout: "single"
 draft: true
 hero_eyebrow: "Free webinar · Year 12 and Year 13"
 hero_h1: "Oxbridge Interviews and Personal Statements"
-hero_lead: "Lauren graduated in English from Cambridge this summer, and before leaving she asked the two people who see most of her college's applicants what makes a strong one. This hour passes on their advice: how to prepare for interview, and how to show your academic interests with confidence. Live Q&A at the end, and the replay for everyone who registers."
+hero_lead: "A free hour for Year 12 and 13 students thinking about Oxford or Cambridge, and for their parents. Lauren graduated from Cambridge this summer, and talks through how to prepare for interview and how to write and speak about your subject with confidence. Live Q&A at the end."
 card_title: "Oxbridge Interviews and Personal Statements"
 card_summary: "Recent Cambridge graduate Lauren on Oxford and Cambridge interviews and personal statements, with advice from her Director of Studies and college Vice Principal. For Year 12 and 13."
 cta_label: "Save my place"
@@ -41,12 +41,11 @@ hide_whatsapp: true
 speaker_eyebrow: "Led by"
 speaker_name: "Lauren"
 speaker_role: "BA English, University of Cambridge (2026)"
-speaker_lead: "Lauren graduated from Cambridge this July. Before she left, she spent a long conversation with her Director of Studies and her college's Vice Principal, who between them see a large share of the college's applicants every year, about how students can prepare thoughtfully for interview and talk about their academic interests with confidence."
+speaker_lead: "Lauren graduated from Cambridge in July 2026 with a degree in English. Alongside this webinar she runs mock interviews, personal statement sessions and university mentoring for students aiming at Oxford, Cambridge and other top universities."
 speaker_credentials:
-  - "BA English, University of Cambridge, graduated July 2026"
-  - "Advice from her Director of Studies and college Vice Principal"
-  - "Mock interviews, personal statements and university mentoring"
-speaker_bio: "My name is Lauren and I graduated from the University of Cambridge this past July with a degree in English. Upon graduating, I had a long conversation with my Director of Studies and college Vice Principal, who oversee a large proportion of the college's applicant pool each year. We spoke at length about how students can prepare thoughtfully for interview and present their academic interests with confidence. The advice they shared is invaluable both for Year 13 students currently preparing for interview, and for Year 12 students who may have preconceived notions of what Oxbridge is, and who it is for. My webinars, mock interviews, personal statement advice and university mentoring sessions are designed to help students prepare, from the very start of sixth form, if they are considering applying to top universities such as Oxford and Cambridge. My sessions are tailored to each student, guiding them through a daunting process while making sure their application reflects their strengths, interests and ambitions."
+  - "Graduated July 2026"
+  - "Mock interviews and personal statement mentoring"
+speaker_bio: "My webinars, mock interviews, personal statement advice and university mentoring sessions are designed to help students prepare, from the very start of sixth form, if they are considering applying to top universities such as Oxford and Cambridge. My sessions are tailored to each student, guiding them through a daunting process while making sure their application reflects their strengths, interests and ambitions."
 
 outcomes_heading: "What Lauren covers"
 outcomes_sub: "One session for both year groups. Year 13s preparing for interview this winter get practical preparation. Year 12s get an honest picture of what Oxbridge is, and who it is for, while there's still time to build an application."
@@ -60,13 +59,14 @@ outcomes:
 takeaway: "Year 13s leave knowing how to approach their interview. Year 12s leave with a clear picture of what Oxbridge looks for, and what to start doing now."
 takeaway_attrib: "Lauren"
 
-spotlight_eyebrow: "Why this session"
-spotlight_quote: "Oxbridge isn't looking for students who already know everything. It's looking for students who think out loud, follow an idea and genuinely love their subject."
-spotlight_attrib: "The idea at the heart of Lauren's session"
-spotlight_stats:
-  - "July 2026|Lauren graduated in English from the University of Cambridge"
-  - "2 insiders|Her Director of Studies and Vice Principal, who see a large share of applicants"
-  - "Year 12 & 13|Interview prep for this winter, and a head start for next year"
+# Lauren's own words, from the bio she sent (18 Nov 2026), lightly trimmed.
+note_eyebrow: "A note from Lauren"
+note_paragraphs:
+  - "I graduated from the University of Cambridge this past July with a degree in English. Upon graduating, I had a long conversation with my Director of Studies and college Vice Principal, who oversee a large proportion of the college's applicant pool each year."
+  - "We spoke at length about how students can prepare thoughtfully for interview and present their academic interests with confidence."
+  - "The advice they shared is invaluable both for Year 13 students currently preparing for interview, and for Year 12 students who may have preconceived notions of what Oxbridge is, and who it is for."
+note_sign: "Lauren"
+note_sign_role: "English, University of Cambridge, 2026"
 
 reviews_eyebrow: "What parents said about our earlier webinars"
 reviews_more_label: "See more"
