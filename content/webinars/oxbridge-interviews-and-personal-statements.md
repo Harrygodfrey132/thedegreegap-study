@@ -28,16 +28,23 @@ hero_facts:
   - "When|Date to be confirmed, 7 to 8pm"
   - "Where|Online, live, with Q&A"
   - "Cost|Free, and the replay is included"
-hero_form_title: "Save your free place"
-hero_form_sub: "Free to attend. We email the joining link, with a reminder on the day."
+hero_form_title: "Parents: save your free place"
+hero_form_sub: "One registration per family, and your child watches with you. We email the joining link, with a reminder on the day."
 hero_replay_note: "<b>Register to get the joining link.</b> If you can't make it live, register anyway and we email you the replay the next day."
 
-# Students and parents both come to this one, and schools share it, so the
-# form asks who is registering (as the September UCAS webinar did). Only a
-# parent is asked for a phone number or about tutoring.
-ask_registrant_type: true
+# Written to the parent, like the December GCSE masterclass (Harry, 18 Nov
+# 2026): a sixth-former is a student, not the buyer, and we do not phone
+# students. The "registering as" dropdown offers a parent or guardian, or
+# school staff, with no student option. A parent gives their own email, an
+# optional mobile and their child's year group; the student watches with them.
+parent_led: true
 ask_tutoring_interest: true
-year_label: "Year group"
+name_label: "Your name"
+email_label: "Your email"
+email_hint: "Please use your own email, not your child's school one."
+phone_label: "Your mobile"
+tutoring_label: "I'd like to hear about one-to-one help for my child, such as mock interviews or personal statement support."
+year_label: "Your child's year group"
 # Values must match the Zoho LEADCF3 picklist exactly.
 year_groups:
   - "GCSE - Year 11|Year 11"
@@ -88,8 +95,8 @@ reviews:
   - "Priya Patel|Parent of GCSE Student|Thank you to Harry and Joe for a very informative webinar on a parent's guide to supporting GCSE success. Great advice and tips given and they sent useful free resources by email which my daughter will use to help with her upcoming exams."
   - "Google User|Parent|I found the webinar incredibly helpful. It provided practical strategies that my child could start using straight away. The post-webinar support has been excellent, the extra resources and follow-up answers made a real difference."
 
-register_heading: "Save your free place"
-register_lead: "Free to attend, with live Q&A at the end. Leave your details and we will email the joining link, plus a reminder before the session."
+register_heading: "Parents: save your free place"
+register_lead: "One registration per family. Leave your details and we will email the joining link, plus a reminder before the session."
 submit_label: "Save my place"
 body_position: "after_form"
 
@@ -101,12 +108,12 @@ included_families:
   - "The replay by email|Sent the next day to everyone who registers, whether or not you watch live."
 included_schools:
   - "Nothing to organise|We run the session and handle registration, joining links and reminders."
-  - "No calls to your families|We only contact a parent about tutoring if they tick the box asking us to. Students are never contacted about tutoring."
+  - "No calls to your students|The form is for parents, so we never ask a student for their details. We only call a parent if they tick the box asking to hear about one-to-one help."
   - "A replay you can use in school|Register with a school email and we send you the replay for a tutor period or Oxbridge group."
 
 share_heading: "Wording you can paste"
 share_lead: "For a newsletter, a sixth-form bulletin or an Oxbridge group email."
-share_blurb: "Free online webinar for Year 12 and Year 13: Oxbridge Interviews and Personal Statements. Date TBC, 7 to 8pm. Lauren Akinluyi, who graduated in English from the University of Cambridge this summer, passes on advice from her Director of Studies and college Vice Principal on preparing for interview and presenting your academic interests with confidence. Free, with live Q&A, and everyone who registers receives the replay. Register at thedegreegap.com/study/webinars/oxbridge-interviews-and-personal-statements/"
+share_blurb: "Free online webinar for Year 12 and Year 13: Oxbridge Interviews and Personal Statements. Date TBC, 7 to 8pm. Lauren Akinluyi, who graduated in English from the University of Cambridge this summer, passes on advice from her Director of Studies and college Vice Principal on preparing for interview and presenting your academic interests with confidence. Free, with live Q&A, and everyone who registers receives the replay. Parents register (one registration per family) and students watch with them: thedegreegap.com/study/webinars/oxbridge-interviews-and-personal-statements/"
 share_note: "Want a newsletter image or a shorter version? Email <a href=\"mailto:admin@thedegreegap.com\">admin@thedegreegap.com</a> and we will send it over."
 
 event_name: "Oxbridge Interviews and Personal Statements"
@@ -123,6 +130,8 @@ end_cta_lead: "Register to get the joining link, and the replay if you can't mak
 faqs:
   - q: "Who is it for?"
     a: "Year 12 and Year 13 students thinking about Oxford or Cambridge, and their parents. Teachers and Oxbridge coordinators are welcome too."
+  - q: "I'm a student. Can I sign up myself?"
+    a: "Please ask a parent or guardian to register, then watch it together. One registration covers the family, and we send them the joining link and the replay."
   - q: "Is it only for students applying for English?"
     a: "No. Lauren studied English, but the advice on interviews, personal statements and showing academic interest applies to every subject."
   - q: "Do I have to speak or appear on camera?"
