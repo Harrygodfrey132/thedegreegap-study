@@ -1,10 +1,10 @@
 ---
 title: "Oxbridge Interviews and Personal Statements | Free Webinar | The Degree Gap"
-description: "Free webinar for Year 12 and 13 led by Lauren, a recent Cambridge English graduate, on preparing for Oxford and Cambridge interviews and writing a personal statement that shows real academic interest."
+description: "Free webinar for Year 12 and 13 led by Lauren Akinluyi, a recent Cambridge English graduate, on preparing for Oxford and Cambridge interviews and writing a personal statement that shows real academic interest."
 layout: "single"
-# DRAFT until the date, time and Lauren's surname and photo are confirmed.
-# Fill in every "TBC" below, set webinar_date / webinar_end_date, add
-# speaker_photo, then delete the draft line.
+# DRAFT until the date and time are confirmed. Then set webinar_date,
+# webinar_end_date, webinar_date_display and the "When" row in hero_facts,
+# replace "Date TBC" in share_blurb, and delete the draft line.
 draft: true
 hero_eyebrow: "Free webinar · Year 12 and Year 13"
 hero_h1: "Oxbridge Interviews and Personal Statements"
@@ -45,12 +45,14 @@ redirect_default: "webinar-thanks/"
 hide_whatsapp: true
 
 speaker_eyebrow: "Led by"
-speaker_name: "Lauren"
+speaker_name: "Lauren Akinluyi"
+speaker_photo: "/images/lauren-akinluyi.jpg"
 speaker_role: "BA English, University of Cambridge (2026)"
-speaker_lead: "Lauren graduated from Cambridge in July 2026 with a degree in English. Alongside this webinar she runs mock interviews, personal statement sessions and university mentoring for students aiming at Oxford, Cambridge and other top universities."
+speaker_lead: "Lauren graduated from Cambridge in July 2026 with a degree in English, and has been tutoring for six years. She mentors Oxbridge applicants through the admissions process, including admissions tests, interviews and personal statements."
 speaker_credentials:
-  - "Graduated July 2026"
-  - "Mock interviews and personal statement mentoring"
+  - "Six years of tutoring"
+  - "Oxbridge admissions mentoring"
+  - "DBS checked"
 speaker_bio: "My webinars, mock interviews, personal statement advice and university mentoring sessions are designed to help students prepare, from the very start of sixth form, if they are considering applying to top universities such as Oxford and Cambridge. My sessions are tailored to each student, guiding them through a daunting process while making sure their application reflects their strengths, interests and ambitions."
 
 outcomes_heading: "What Lauren covers"
@@ -63,7 +65,6 @@ outcomes:
   - "Live Q&A|your questions about applying, interviews and student life, answered by someone who has just been through it."
 
 takeaway: "Year 13s leave knowing how to approach their interview. Year 12s leave with a clear picture of what Oxbridge looks for, and what to start doing now."
-takeaway_attrib: "Lauren"
 
 # Lauren's own words, from the bio she sent (18 Nov 2026), lightly trimmed.
 note_eyebrow: "A note from Lauren"
@@ -71,7 +72,8 @@ note_paragraphs:
   - "I graduated from the University of Cambridge this past July with a degree in English. Upon graduating, I had a long conversation with my Director of Studies and college Vice Principal, who oversee a large proportion of the college's applicant pool each year."
   - "We spoke at length about how students can prepare thoughtfully for interview and present their academic interests with confidence."
   - "The advice they shared is invaluable both for Year 13 students currently preparing for interview, and for Year 12 students who may have preconceived notions of what Oxbridge is, and who it is for."
-note_sign: "Lauren"
+note_sign: "Lauren Akinluyi"
+note_photo: "/images/lauren-akinluyi.jpg"
 note_sign_role: "English, University of Cambridge, 2026"
 
 reviews_eyebrow: "What parents said about our earlier webinars"
@@ -99,11 +101,11 @@ included_schools:
 
 share_heading: "Wording you can paste"
 share_lead: "For a newsletter, a sixth-form bulletin or an Oxbridge group email."
-share_blurb: "Free online webinar for Year 12 and Year 13: Oxbridge Interviews and Personal Statements. Date TBC, 7 to 8pm. Lauren, who graduated in English from the University of Cambridge this summer, passes on advice from her Director of Studies and college Vice Principal on preparing for interview and presenting your academic interests with confidence. Free, with live Q&A, and everyone who registers receives the replay. Register at thedegreegap.com/study/webinars/oxbridge-interviews-and-personal-statements/"
+share_blurb: "Free online webinar for Year 12 and Year 13: Oxbridge Interviews and Personal Statements. Date TBC, 7 to 8pm. Lauren Akinluyi, who graduated in English from the University of Cambridge this summer, passes on advice from her Director of Studies and college Vice Principal on preparing for interview and presenting your academic interests with confidence. Free, with live Q&A, and everyone who registers receives the replay. Register at thedegreegap.com/study/webinars/oxbridge-interviews-and-personal-statements/"
 share_note: "Want a newsletter image or a shorter version? Email <a href=\"mailto:admin@thedegreegap.com\">admin@thedegreegap.com</a> and we will send it over."
 
 event_name: "Oxbridge Interviews and Personal Statements"
-event_description: "A free online webinar for Year 12 and Year 13 students, their parents and schools, led by recent Cambridge English graduate Lauren, on preparing for Oxford and Cambridge interviews and writing a personal statement that shows genuine academic interest."
+event_description: "A free online webinar for Year 12 and Year 13 students, their parents and schools, led by recent Cambridge English graduate Lauren Akinluyi, on preparing for Oxford and Cambridge interviews and writing a personal statement that shows genuine academic interest."
 lead_source: "December 2026 Oxbridge Webinar"
 
 mid_cta_1: "Free to attend. Lauren on Oxbridge interviews and personal statements, then live Q&A."
@@ -125,7 +127,7 @@ faqs:
   - q: "Does it cost anything?"
     a: "No. The session and the replay are free."
   - q: "Can we get one-to-one help afterwards?"
-    a: "Yes. Lauren also runs mock interviews, personal statement sessions and university mentoring through The Degree Gap. Tick the box on the form, or see our [Cambridge](/personal-statement-tutor/cambridge/) and [Oxford](/personal-statement-tutor/oxford/) personal statement pages."
+    a: "Yes. Lauren also runs mock interviews, personal statement sessions and university mentoring through The Degree Gap. Tick the box on the form, see [Lauren's tutor profile](https://thedegreegap.com/teachers/view/Lauren), or read our [Cambridge](/personal-statement-tutor/cambridge/) and [Oxford](/personal-statement-tutor/oxford/) personal statement pages."
 faq_more: "Anything else? Email <a href=\"mailto:admin@thedegreegap.com\">admin@thedegreegap.com</a>."
 sitemap:
   priority: 0.7
