@@ -2,11 +2,10 @@
 title: "Free Oxbridge Interviews Webinar, 9 December | The Degree Gap"
 description: "Free webinar for Year 12 and 13 families on Wednesday 9 December, 7 to 8pm. Cambridge graduate Lauren Akinluyi on Oxbridge interviews and personal statements."
 layout: "single"
-# DRAFT until two things are settled: Lauren has confirmed Wednesday 9
-# December, and the confirmation and joining-link emails for this session are
-# set up in Zoho, as they were for the November 2026 Webinar. Then delete the
-# draft line.
-draft: true
+# Published 18 Nov 2026 at Harry's request, before Lauren had confirmed the
+# date. If the date moves, change webinar_date, webinar_end_date,
+# webinar_date_display, the "When" row in hero_facts, title, description,
+# card_summary, share_blurb, mid_cta_2 and end_cta_lead.
 hero_eyebrow: "Free webinar · Year 12 and Year 13"
 hero_h1: "Oxbridge Interviews and Personal Statements"
 hero_lead: "A free hour for Year 12 and 13 students thinking about Oxford or Cambridge, and for their parents. Lauren graduated from Cambridge this summer, and talks through how to prepare for interview and how to write and speak about your subject with confidence. Live Q&A at the end."
