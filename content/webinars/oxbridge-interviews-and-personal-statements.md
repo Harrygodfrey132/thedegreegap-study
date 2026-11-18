@@ -1,6 +1,6 @@
 ---
-title: "Free Oxbridge Interviews Webinar, 9 December | The Degree Gap"
-description: "Free webinar for Year 12 and 13 families on Wednesday 9 December, 7 to 8pm. Cambridge graduate Lauren Akinluyi on Oxbridge interviews and personal statements."
+title: "Free Oxbridge Interviews Webinar, 5 December | The Degree Gap"
+description: "Free webinar for Year 12 and 13 families on Saturday 5 December, 2 to 3pm. Cambridge graduate Lauren Akinluyi on Oxbridge interviews and personal statements."
 layout: "single"
 # Published 18 Nov 2026 at Harry's request, before Lauren had confirmed the
 # date. If the date moves, change webinar_date, webinar_end_date,
@@ -10,12 +10,12 @@ hero_eyebrow: "Free webinar · Year 12 and Year 13"
 hero_h1: "Oxbridge Interviews and Personal Statements"
 hero_lead: "A free hour for Year 12 and 13 students thinking about Oxford or Cambridge, and for their parents. Lauren graduated from Cambridge this summer, and talks through how to prepare for interview and how to write and speak about your subject with confidence. Live Q&A at the end."
 card_title: "Oxbridge Interviews and Personal Statements"
-card_summary: "Recent Cambridge graduate Lauren Akinluyi on Oxford and Cambridge interviews and personal statements, for Year 12 and 13 families. Wednesday 9 December, 7 to 8pm."
+card_summary: "Recent Cambridge graduate Lauren Akinluyi on Oxford and Cambridge interviews and personal statements, for Year 12 and 13 families. Saturday 5 December, 2 to 3pm."
 cta_label: "Save my place"
-webinar_date: 2026-12-09T19:00:00+00:00
-webinar_end_date: 2026-12-09T20:00:00+00:00
-webinar_date_display: "Wednesday 9 December 2026"
-webinar_time_display: "7 to 8pm, online (UK time)"
+webinar_date: 2026-12-05T14:00:00+00:00
+webinar_end_date: 2026-12-05T15:00:00+00:00
+webinar_date_display: "Saturday 5 December 2026"
+webinar_time_display: "2 to 3pm, online (UK time)"
 
 hero_form: true
 # The designed page (partials/webinar-designed.html), chosen by Harry from
@@ -24,7 +24,7 @@ hero_form: true
 design: "portrait"
 hero_portrait: "/images/lauren-akinluyi-portrait.jpg"
 hero_facts:
-  - "When|Wednesday 9 December, 7 to 8pm"
+  - "When|Saturday 5 December, 2 to 3pm"
   - "Where|Online, live, with Q&A"
   - "Cost|Free, and the replay is included"
 hero_form_title: "Parents: save your free place"
@@ -112,7 +112,7 @@ included_schools:
 
 share_heading: "Wording you can paste"
 share_lead: "For a newsletter, a sixth-form bulletin or an Oxbridge group email."
-share_blurb: "Free online webinar for Year 12 and Year 13: Oxbridge Interviews and Personal Statements. Wednesday 9 December, 7 to 8pm. Lauren Akinluyi, who graduated in English from the University of Cambridge this summer, passes on advice from her Director of Studies and college Vice Principal on preparing for interview and presenting your academic interests with confidence. Free, with live Q&A, and everyone who registers receives the replay. Parents register (one registration per family) and students watch with them: thedegreegap.com/study/webinars/oxbridge-interviews-and-personal-statements/"
+share_blurb: "Free online webinar for Year 12 and Year 13: Oxbridge Interviews and Personal Statements. Saturday 5 December, 2 to 3pm. Lauren Akinluyi, who graduated in English from the University of Cambridge this summer, passes on advice from her Director of Studies and college Vice Principal on preparing for interview and presenting your academic interests with confidence. Free, with live Q&A, and everyone who registers receives the replay. Parents register (one registration per family) and students watch with them: thedegreegap.com/study/webinars/oxbridge-interviews-and-personal-statements/"
 share_note: "Want a newsletter image or a shorter version? Email <a href=\"mailto:admin@thedegreegap.com\">admin@thedegreegap.com</a> and we will send it over."
 
 event_name: "Oxbridge Interviews and Personal Statements"
@@ -123,10 +123,10 @@ lead_source: "December Oxbridge Webinar"
 
 mid_cta_1: "Free to attend. Lauren on Oxbridge interviews and personal statements, then live Q&A."
 mid_cta_1_label: "Save my place"
-mid_cta_2: "Wednesday 9 December, 7 to 8pm, online. Free, and the replay goes to everyone who registers."
+mid_cta_2: "Saturday 5 December, 2 to 3pm, online. Free, and the replay goes to everyone who registers."
 mid_cta_2_label: "Save my place"
 end_cta_heading: "Save your free place"
-end_cta_lead: "Wednesday 9 December, 7 to 8pm. Register to get the joining link, and the replay if you can't make it live."
+end_cta_lead: "Saturday 5 December, 2 to 3pm. Register to get the joining link, and the replay if you can't make it live."
 
 faqs:
   - q: "Who is it for?"
