@@ -5,6 +5,11 @@
 {{ define "styles" }}
 {{ $css := resources.Get "css/webinar.css" | minify | fingerprint "sha256" }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+{{/* A page with design: set gets its own look (partials/webinar-designed.html). */}}
+{{ if .Params.design }}
+{{ $dcss := resources.Get "css/webinar-designs.css" | minify | fingerprint "sha256" }}
+<link rel="stylesheet" href="{{ $dcss.RelPermalink }}">
+{{ end }}
 {{ end }}
 
 {{ define "main" }}
@@ -43,6 +48,15 @@
 
 
 <div class="gs-page">
+
+  {{/* design: "portrait" | "invitation" | "modern" swaps everything inside
+       this wrapper for partials/webinar-designed.html. The form partial, the
+       Zoho iframe and the script below are shared, so registrations work the
+       same way. For a live, upcoming session only: once it has run and
+       replay_youtube_id is set, remove design: to get the replay layout. */}}
+  {{ if and .Params.design (not $replayId) }}
+  {{ partial "webinar-designed.html" (dict "page" . "eyebrow" $eyebrow "h1" $h1 "lead" $lead "outcomes" $outcomes "outcomesHeading" $outcomesHeading "outcomesSub" $outcomesSub "submitLabel" $submitLabel "phoneLabel" $phoneLabel "askTutoring" $askTutoring "ctaLabel" $ctaLabel) }}
+  {{ else }}
 
   <!-- HERO -->
   {{ $heroForm := .Params.hero_form }}
@@ -367,6 +381,7 @@
 
   <div class="gs-back"><a href="{{ "webinars/" | relURL }}">← See all The Degree Gap webinars</a></div>
 
+  {{ end }}
 </div>
 
 {{/* The Zoho POST target. It MUST exist in the markup rather than being built on

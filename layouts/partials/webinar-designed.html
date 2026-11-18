@@ -1,0 +1,182 @@
+{{/*
+  A designed webinar page, for a guest-led session that should not look like
+  the standard template. Chosen with design: in the page's front matter:
+
+    portrait    the speaker's photo down the left, light paper, serif
+    invitation  dark and formal, centred, like a printed invitation
+    modern      bold sans, colour blocks, an arch-shaped photo
+
+  One set of markup for all three; static/css/webinar-designs.css arranges it.
+  The form is the standard partial, so registration is untouched.
+
+  Extra front matter it reads:
+    hero_facts      "Label|Value" rows (When, Where, Cost)
+    hero_portrait   tall photo of the speaker (4:5), for portrait and modern
+    hero_h1_mark    a word in the H1 to underline in the modern design
+    speaker_url     link under the speaker's background
+    note_*          see partials/webinar-note.html
+*/}}
+{{ $p := .page }}
+{{ $d := $p.Params.design }}
+{{ $name := $p.Params.speaker_name }}
+{{ $first := index (split $name " ") 0 }}
+{{ $h1 := .h1 }}
+{{ $h1html := $h1 }}
+{{ with $p.Params.hero_h1_mark }}{{ $h1html = replace $h1 . (printf "<span class=\"wd-mark\">%s</span>" .) }}{{ end }}
+
+<div class="wd wd--{{ $d }}">
+
+  <div class="wd-top">
+    <header class="wd-head">
+      {{ if and (ne $d "invitation") $p.Params.hero_portrait }}
+      <figure class="wd-portrait">
+        {{ partial "responsive-image.html" (dict "src" $p.Params.hero_portrait "alt" (printf "%s, %s" $name $p.Params.speaker_role) "loading" "eager" "fetchPriority" "high" "widths" (slice 420 700 1000 1400) "fallbackWidth" 700 "sizes" "(min-width: 1000px) 34vw, 100vw" "quality" 80) }}
+        <figcaption><b>{{ $name }}</b><span>{{ $p.Params.speaker_role }}</span></figcaption>
+      </figure>
+      {{ end }}
+      <div class="wd-copy">
+        <p class="wd-eyebrow">{{ .eyebrow }}</p>
+        <h1 class="wd-title">{{ $h1html | safeHTML }}</h1>
+        {{ if eq $d "invitation" }}
+        <div class="wd-host">
+          {{ with $p.Params.speaker_photo }}<img src="{{ (strings.TrimPrefix "/" .) | relURL }}" alt="{{ $name }}" width="88" height="88" loading="eager" decoding="async">{{ end }}
+          <p><span class="wd-host__with">with</span> <span class="wd-host__name">{{ $name }}</span><span class="wd-host__role">{{ $p.Params.speaker_role }}</span></p>
+        </div>
+        {{ end }}
+        <p class="wd-lead">{{ .lead }}</p>
+        {{ with $p.Params.hero_facts }}
+        <dl class="wd-facts">
+          {{ range . }}{{ $f := split . "|" }}<div><dt>{{ index $f 0 }}</dt><dd>{{ index $f 1 }}</dd></div>{{ end }}
+        </dl>
+        {{ end }}
+        {{ with $p.Params.hero_replay_note }}<p class="wd-small">{{ . | safeHTML }}</p>{{ end }}
+      </div>
+    </header>
+
+    <div class="wd-signup" id="register">
+      {{ partial "webinar-form.html" (dict
+        "askTutoring" .askTutoring
+        "tutoringLabel" $p.Params.tutoring_label
+        "askRegistrant" $p.Params.ask_registrant_type
+        "parentLed" $p.Params.parent_led
+        "nameLabel" $p.Params.name_label
+        "emailLabel" $p.Params.email_label
+        "emailHint" $p.Params.email_hint
+        "submitLabel" .submitLabel
+        "phoneLabel" .phoneLabel
+        "yearLabel" $p.Params.year_label
+        "yearGroups" $p.Params.year_groups
+        "termsUrl" $p.Params.terms_url
+        "finePrint" $p.Params.form_fine_print
+        "title" ($p.Params.hero_form_title | default "Save your place")
+        "sub" ($p.Params.hero_form_sub | default "Free to attend. We will email you the joining link.")) }}
+    </div>
+  </div>
+
+  <div class="wd-rest">
+
+    {{ with $p.Params.note_paragraphs }}
+    <section class="wd-sec wd-note">
+      <div class="wd-in">
+        <p class="wd-label">{{ $p.Params.note_eyebrow | default "A note from the speaker" }}</p>
+        <div class="wd-note__body">{{ range . }}<p>{{ . }}</p>{{ end }}</div>
+        <div class="wd-sign">
+          {{ with $p.Params.note_photo }}<img src="{{ (strings.TrimPrefix "/" .) | relURL }}" alt="{{ $p.Params.note_sign }}" width="64" height="64" loading="lazy" decoding="async">{{ end }}
+          <p><span class="wd-sign__name">{{ $p.Params.note_sign }}</span>{{ with $p.Params.note_sign_role }}<span class="wd-sign__role">{{ . }}</span>{{ end }}</p>
+        </div>
+      </div>
+    </section>
+    {{ end }}
+
+    <section class="wd-sec wd-agenda">
+      <div class="wd-in">
+        <p class="wd-label">The session</p>
+        <h2>{{ .outcomesHeading }}</h2>
+        <p class="wd-sub">{{ .outcomesSub }}</p>
+        <ol class="wd-list">
+          {{ range $i, $o := .outcomes }}{{ $parts := split $o "|" }}
+          <li><span class="wd-list__n">{{ add $i 1 }}</span><p><b>{{ index $parts 0 }}</b>{{ if gt (len $parts) 1 }} {{ index $parts 1 }}{{ end }}</p></li>
+          {{ end }}
+        </ol>
+        {{ with $p.Params.takeaway }}<p class="wd-takeaway">{{ . }}</p>{{ end }}
+      </div>
+    </section>
+
+    {{ with $p.Params.speaker_lead }}
+    <section class="wd-sec wd-about">
+      <div class="wd-in">
+        {{ with $p.Params.speaker_photo }}<img class="wd-about__img" src="{{ (strings.TrimPrefix "/" .) | relURL }}" alt="{{ $name }}" width="200" height="200" loading="lazy" decoding="async">{{ end }}
+        <div class="wd-about__body">
+          <p class="wd-label">About {{ $first }}</p>
+          <h2>{{ $name }}</h2>
+          <p class="wd-about__role">{{ $p.Params.speaker_role }}</p>
+          <p>{{ . }}</p>
+          {{ with $p.Params.speaker_bio }}<p>{{ . }}</p>{{ end }}
+          {{ with $p.Params.speaker_credentials }}<ul class="wd-creds">{{ range . }}<li>{{ . }}</li>{{ end }}</ul>{{ end }}
+          {{ with $p.Params.speaker_url }}<p class="wd-about__link"><a href="{{ . }}">See {{ $first }}'s tutor profile</a></p>{{ end }}
+        </div>
+      </div>
+    </section>
+    {{ end }}
+
+    {{ with $p.Params.reviews }}
+    <section class="wd-sec wd-reviews">
+      <div class="wd-in">
+        <div class="wd-reviews__head">
+          <p class="wd-label">{{ $p.Params.reviews_eyebrow | default "What families say" }}</p>
+          {{ partial "webinar-proof.html" $p }}
+        </div>
+        <div class="wd-quotes">
+          {{ range first 3 . }}{{ $r := split . "|" }}
+          <figure><blockquote>{{ index $r 2 }}</blockquote><figcaption><b>{{ index $r 0 }}</b>{{ with index $r 1 }}<span>{{ . }}</span>{{ end }}</figcaption></figure>
+          {{ end }}
+        </div>
+      </div>
+    </section>
+    {{ end }}
+
+    {{ if or $p.Params.included_families $p.Params.included_schools }}
+    <section class="wd-sec wd-inc">
+      <div class="wd-in">
+        <p class="wd-label">Free for everyone</p>
+        <h2>{{ $p.Params.included_heading | default "What is included" }}</h2>
+        <div class="wd-inc__cols">
+          {{ with $p.Params.included_families }}
+          <div><h3>For students and families</h3><dl>{{ range . }}{{ $b := split . "|" }}<dt>{{ index $b 0 }}</dt><dd>{{ if gt (len $b) 1 }}{{ $p.RenderString (index $b 1) }}{{ end }}</dd>{{ end }}</dl></div>
+          {{ end }}
+          {{ with $p.Params.included_schools }}
+          <div><h3>For schools and colleges</h3><dl>{{ range . }}{{ $b := split . "|" }}<dt>{{ index $b 0 }}</dt><dd>{{ if gt (len $b) 1 }}{{ $p.RenderString (index $b 1) }}{{ end }}</dd>{{ end }}</dl></div>
+          {{ end }}
+        </div>
+        {{ with $p.Params.share_blurb }}
+        <div class="gs-share wd-share">
+          <h3>{{ $p.Params.share_heading | default "Wording you can paste" }}</h3>
+          {{ with $p.Params.share_lead }}<p class="gs-share__lead">{{ . }}</p>{{ end }}
+          <p class="gs-share__text" id="gs-share-text">{{ . }}</p>
+          <div class="gs-share__row">
+            <button type="button" class="gs-share__copy" data-gs-copy="gs-share-text">
+              <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h10"/></svg>
+              Copy the wording
+            </button>
+            <span class="gs-share__status" data-gs-copy-status aria-live="polite"></span>
+          </div>
+          {{ with $p.Params.share_note }}<p class="gs-share__note">{{ . | safeHTML }}</p>{{ end }}
+        </div>
+        {{ end }}
+      </div>
+    </section>
+    {{ end }}
+
+    <div class="wd-faq">{{ partial "webinar-faq.html" $p }}</div>
+
+    <section class="wd-sec wd-end">
+      <div class="wd-in">
+        <h2>{{ $p.Params.end_cta_heading | default "Save your place" }}</h2>
+        <p>{{ $p.Params.end_cta_lead | default "Free to attend, and the replay goes to everyone who registers." }}</p>
+        <a href="#register" class="wd-btn">{{ .ctaLabel }}</a>
+      </div>
+    </section>
+
+    <div class="wd-back"><a href="{{ "webinars/" | relURL }}">← See all The Degree Gap webinars</a></div>
+  </div>
+</div>

@@ -19,6 +19,11 @@ webinar_time_display: "7 to 8pm, online (UK time)"
 
 hero_form: true
 hero_style: "editorial"
+# design: picks one of the three designed versions in
+# partials/webinar-designed.html ("portrait", "invitation" or "modern").
+# Without it the page uses the standard template with the editorial hero.
+hero_portrait: "/images/lauren-akinluyi-portrait.jpg"
+hero_h1_mark: "Oxbridge"
 # Update "When" with the date once it is confirmed.
 hero_facts:
   - "When|Date to be confirmed, 7 to 8pm"
@@ -47,6 +52,7 @@ hide_whatsapp: true
 speaker_eyebrow: "Led by"
 speaker_name: "Lauren Akinluyi"
 speaker_photo: "/images/lauren-akinluyi.jpg"
+speaker_url: "https://thedegreegap.com/teachers/view/Lauren"
 speaker_role: "BA English, University of Cambridge (2026)"
 speaker_lead: "Lauren graduated from Cambridge in July 2026 with a degree in English, and has been tutoring for six years. She mentors Oxbridge applicants through the admissions process, including admissions tests, interviews and personal statements."
 speaker_credentials:
