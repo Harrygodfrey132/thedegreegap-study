@@ -132,6 +132,8 @@
        which brings the ready-made email and website text up to here. */}}
   {{ if eq .Params.schools_position "top" }}{{ partial "webinar-schools.html" . }}{{ end }}
 
+  {{ partial "webinar-spotlight.html" . }}
+
   {{ if and .Params.speaker_name (not $heroForm) }}{{ partial "webinar-speaker.html" (dict "page" . "eager" true) }}{{ end }}
 
   <!-- OUTCOMES -->

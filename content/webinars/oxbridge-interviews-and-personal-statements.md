@@ -8,7 +8,7 @@ layout: "single"
 draft: true
 hero_eyebrow: "Free webinar · Year 12 and Year 13"
 hero_h1: "Oxbridge Interviews and Personal Statements"
-hero_lead: "What Oxford and Cambridge are really looking for, from someone who has just been through it. Lauren graduated in English from the University of Cambridge this summer, and before leaving she sat down with her Director of Studies and her college's Vice Principal, who see a large share of the college's applicants each year. This session passes on what they told her about preparing for interview and showing your academic interests with confidence. Live Q&A at the end, and everyone who registers receives the replay."
+hero_lead: "Lauren graduated in English from Cambridge this summer, and before leaving she asked the two people who see most of her college's applicants what makes a strong one. This hour passes on their advice: how to prepare for interview, and how to show your academic interests with confidence. Live Q&A at the end, and the replay for everyone who registers."
 card_title: "Oxbridge Interviews and Personal Statements"
 card_summary: "Recent Cambridge graduate Lauren on Oxford and Cambridge interviews and personal statements, with advice from her Director of Studies and college Vice Principal. For Year 12 and 13."
 cta_label: "Save my place"
@@ -59,6 +59,14 @@ outcomes:
 
 takeaway: "Year 13s leave knowing how to approach their interview. Year 12s leave with a clear picture of what Oxbridge looks for, and what to start doing now."
 takeaway_attrib: "Lauren"
+
+spotlight_eyebrow: "Why this session"
+spotlight_quote: "Oxbridge isn't looking for students who already know everything. It's looking for students who think out loud, follow an idea and genuinely love their subject."
+spotlight_attrib: "The idea at the heart of Lauren's session"
+spotlight_stats:
+  - "July 2026|Lauren graduated in English from the University of Cambridge"
+  - "2 insiders|Her Director of Studies and Vice Principal, who see a large share of applicants"
+  - "Year 12 & 13|Interview prep for this winter, and a head start for next year"
 
 reviews_eyebrow: "What parents said about our earlier webinars"
 reviews_more_label: "See more"
