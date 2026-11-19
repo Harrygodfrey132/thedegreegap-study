@@ -107,7 +107,7 @@
           </div>
           {{ end }}
           <button type="submit" class="gs-submit">{{ .submitLabel }}</button>
-          <p class="gs-register__fine">By registering, you agree to our <a href="{{ $termsUrl | relURL }}" target="_blank" rel="noopener">terms and conditions</a><span data-gs-news-words> and to receive our emails, including our weekly newsletter. Unsubscribe any time</span><span data-gs-staff-words hidden> and to emails about our future free webinars for your school. Unsubscribe any time</span>.</p>
+          <p class="gs-register__fine">By registering, you {{ if .parentLed }}confirm you are 18 or over and {{ end }}agree to our <a href="{{ $termsUrl | relURL }}" target="_blank" rel="noopener">terms and conditions</a><span data-gs-news-words> and to receive our emails, including our weekly newsletter. Unsubscribe any time</span><span data-gs-staff-words hidden> and to emails about our future free webinars for your school. Unsubscribe any time</span>.</p>
           {{ with .finePrint }}<p class="gs-register__fine">{{ . }}</p>{{ end }}
         </form>
         <div class="gs-thanks" data-gs-thanks>
