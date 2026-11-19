@@ -109,7 +109,6 @@ included_families:
   - "The replay by email|Sent the next day to everyone who registers, whether or not you watch live."
 included_schools:
   - "Nothing to organise|We run the session and handle registration, joining links and reminders."
-  - "No calls to your students|The form is for parents, so we never ask a student for their details. We only call a parent if they tick the box asking to hear about one-to-one help."
   - "A replay you can use in school|Register with a school email and we send you the replay for a tutor period or Oxbridge group."
 
 share_heading: "Wording you can paste"
