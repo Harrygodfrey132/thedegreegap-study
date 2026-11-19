@@ -1,0 +1,51 @@
+---
+title: "St Helens A-Level Physics Tutors | The Degree Gap"
+nav_title: "Physics"
+description: "Does your child understand the Physics but not how to start the question? Online A-Level Physics tutoring for St Helens students, by board. From £37 an hour."
+layout: "level-subject"
+location: "St Helens"
+level: "A-Level"
+subject: "Physics"
+hero_h1: "A-Level Physics Tutors for St Helens Students"
+hero_lead: "Your child follows every step when the teacher explains it, then stares at the homework not knowing where to begin. Our A-Level Physics tutors for St Helens students teach them to set a problem up before calculating anything."
+angle_eyebrow: "THE FIRST LINE OF THE ANSWER"
+angle_heading: "Why St Helens Students Lose A-Level Physics Marks at the Very Start"
+angle_body_1: "Most lost marks in A-Level Physics happen before any calculation. Your child reads about a projectile, a circuit or a particle in a field, isn't sure which principle is being tested, and grabs the equation that seems to have the right symbols. Each topic has its own traps. The explanation questions want reasoning written in words, which many good mathematicians find harder than the numbers, and practical questions ask about uncertainties that rarely come up in class."
+angle_body_2: "The tutor teaches one routine and repeats it every week: draw the situation, list what's known, name the principle, then write an equation. The maths underneath, from vectors to logarithms, gets regular practice so it stops taking up thinking time. Physics opens the door to engineering and science degrees and to technical apprenticeships, and with manufacturing still a big part of St Helens and the wider North West, that's a route plenty of students here take."
+angle_image: "/images/physics-mechanics-force-diagram.jpg"
+angle_image_alt: "A force diagram for an A-Level Physics mechanics problem"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "From Cs to As: Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The review doesn't name the subjects."
+schools:
+  - "Carmel College"
+  - "Rainford High"
+  - "St Helens College"
+steps_heading: "Getting A-Level Physics lessons started in St Helens"
+steps_lead: "Mention any mock dates on the call. Profiles usually come within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask about the board, the year group, and which topics feel hardest."
+  - title: "Choose your tutor"
+    body: "Two or three Physics tutor profiles within a day. A free 15-minute video call with the tutor you choose comes before payment."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace with diagrams on a shared whiteboard, recorded every time. From £37 an hour, no contract."
+faqs:
+  - q: "Can an A-Level Physics tutor help my St Helens child aim for an engineering degree?"
+    a: "Yes, with the grades. Each university sets its own requirements, so check them for the course. The tutor works on whatever is costing marks, often setting problems up and the maths."
+  - q: "My child is good at Maths but finds Physics hard. Why?"
+    a: "Usually because they don't know which principle a question is about. A tutor teaches them to set the problem up first, with a diagram, before reaching for an equation."
+  - q: "Who are your Physics tutors?"
+    a: "Graduates and university students, interviewed by Harry or Joe, with at least two years' tutoring each. About 3% of applicants are accepted."
+  - q: "How much does A-Level Physics tutoring cost?"
+    a: "From £37 an hour. No contract, and you can stop any time."
+reviews:
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

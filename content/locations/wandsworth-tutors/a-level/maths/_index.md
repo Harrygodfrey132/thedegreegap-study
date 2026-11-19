@@ -1,0 +1,53 @@
+---
+title: "Wandsworth A-Level Maths Tutors | The Degree Gap"
+nav_title: "Maths"
+description: "Statistics and mechanics dragging A-Level Maths down? Online A-Level Maths tutoring for Wandsworth sixth formers, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Wandsworth"
+level: "A-Level"
+subject: "Maths"
+hero_h1: "A-Level Maths Tutors for Wandsworth Students"
+hero_lead: "Pure is going fine, but the statistics and mechanics questions keep pulling the overall mark down. Our A-Level Maths tutors for Wandsworth students give those papers the time they need."
+angle_eyebrow: "THE APPLIED THIRD"
+angle_heading: "Why Statistics and Mechanics Quietly Cost Wandsworth Students A-Level Maths Marks"
+angle_body_1: "A-Level Maths is two-thirds pure and one-third applied, split between statistics and mechanics. The applied topics often get squeezed in class, and many students treat them as an afterthought. Then the exam arrives. Statistics needs hypothesis testing written in a precise way, and familiarity with the large data set the board publishes. Mechanics needs clear force diagrams and careful use of the suvat equations and Newton's laws. Each is worth a lot of marks, and confident pure mathematicians regularly lose them."
+angle_body_2: "The tutor checks a recent paper to see where the applied marks are going, then gives statistics and mechanics a regular slot each week. Hypothesis tests get a template your child writes out every time. Mechanics starts with a diagram, always. Pure topics carry on too, in the school's order, so nothing gets left behind."
+angle_image: "/images/physics-mechanics-force-diagram.jpg"
+angle_image_alt: "A force diagram, like the mechanics questions in A-Level Maths"
+angle_stat_from: "E"
+angle_stat_to: "B"
+angle_stat_detail: "Keira (A-Level Student) wrote on Google: “Has definitely helped me increase my grades from an E to a B” The review doesn't say which subjects."
+schools:
+  - "Saint Cecilia's Church of England School"
+  - "Southfields Academy"
+  - "Graveney School"
+  - "Emanuel School"
+  - "Saint Francis Xavier Sixth Form College"
+steps_heading: "Starting A-Level Maths tutoring for a Wandsworth sixth former"
+steps_lead: "Year 12 or 13, any board. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About 30 minutes with Harry or Joe, free. We'll ask about the board, the year, and which of pure, statistics and mechanics is weakest."
+  - title: "Choose your tutor"
+    body: "Two or three Maths tutor profiles within 24 hours. A free 15-minute video call with the one you like comes before you pay."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, with all working on a shared whiteboard and a replay afterwards. From £37 an hour, no contract."
+faqs:
+  - q: "What is the large data set?"
+    a: "A set of real data each board publishes for A-Level Maths statistics. Exam questions assume students have worked with it. A tutor makes sure your child knows it well enough to answer those questions quickly."
+  - q: "My child is strong at pure but weak at mechanics. Is that common?"
+    a: "Very. Mechanics needs students to model a situation before doing any maths, which is a different skill. A tutor practises the modelling step until it's routine."
+  - q: "Does A-Level Maths help with university applications?"
+    a: "It's required or preferred for many courses in science, engineering, economics and computing. Check the requirements of any course your child is considering."
+  - q: "How much does A-Level Maths tutoring cost?"
+    a: "From £37 an hour, agreed before booking. That includes the lesson, practice and a recording. No contract."
+reviews:
+  - "John|Parent of A-Level Student|Freddie really enjoyed his time with The Degree Gap. He got help with his three A levels (maths, computer science and business) and managed to get his number one choice attending Liverpool Uni to study a masters in Maths. The tutors were organised, supportive and spent time understanding where the knowledge gaps where to ensure best chance of success in exams! Highly recommended"
+  - "Abby|Parent of A-Level Student|Harry has tutored my son in both maths and economics A-levels and has been fantastic. Harry has been professional, approachable and engaging, he has explained things clearly and has fully supported my son through the last 2 years. We are absolutely delighted with the results. Thank you!"
+  - "Marfa|Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

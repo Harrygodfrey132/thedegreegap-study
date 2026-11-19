@@ -1,0 +1,53 @@
+---
+title: "Wandsworth A-Level Psychology Tutors | The Degree Gap"
+nav_title: "Psychology"
+description: "Are the 16-mark Psychology essays the weak spot? Online A-Level Psychology tutoring for Wandsworth sixth formers, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Wandsworth"
+level: "A-Level"
+subject: "Psychology"
+hero_h1: "A-Level Psychology Tutors for Wandsworth Students"
+hero_lead: "Your child can describe every study, but the long essays keep stalling in the middle bands. Our A-Level Psychology tutors for Wandsworth students show them how to evaluate so it counts."
+angle_eyebrow: "THE LONG ESSAYS"
+angle_heading: "Why Extended Essays and Issues and Debates Hold Back Wandsworth Students in A-Level Psychology"
+angle_body_1: "The longest A-Level Psychology answers carry a big share of the marks, and most of those marks are for evaluation. Students often list strengths and weaknesses in single sentences, or spend too long describing a study. In Year 13 come the issues and debates, nature and nurture, free will and determinism, reductionism, which students are expected to weave into essays across topics. It's a lot to hold in mind under time pressure, especially for students new to the subject in Year 12."
+angle_body_2: "The tutor teaches your child to make fewer evaluation points but develop each one: the point, the evidence, and why it matters for the theory. Issues and debates are linked to each topic as it's taught, so they appear naturally in essays. Research methods get regular short practice too, since they carry marks on every paper. Each week ends with a timed essay, marked against the board's levels."
+angle_image: "/images/university-library-study-hall.jpg"
+angle_image_alt: "A library study hall, like the setting for A-Level Psychology revision"
+angle_stat_from: "E/U"
+angle_stat_to: "C"
+angle_stat_detail: "Not a Psychology review. Joanna (Parent of A-Level Student) wrote on Google about a son “managing to turn E and U grades into 3 C grades”."
+schools:
+  - "Saint Cecilia's Church of England School"
+  - "Southfields Academy"
+  - "Ark Bolingbroke Academy"
+  - "Emanuel School"
+  - "Saint Francis Xavier Sixth Form College"
+steps_heading: "Starting A-Level Psychology tutoring for a Wandsworth sixth former"
+steps_lead: "Year 12 or 13, any board. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About 30 minutes with Harry or Joe, free. We'll ask about the board, the option topics and whether essays or research methods are weaker."
+  - title: "Choose your tutor"
+    body: "Two or three Psychology tutor profiles within 24 hours, matched to your child's specification. A free 15-minute video call with the one you like comes before you pay anything."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, with essay plans and study notes on a shared whiteboard and a replay each time. From £37 an hour, no contract."
+faqs:
+  - q: "How can my child improve evaluation marks in Psychology?"
+    a: "By developing fewer points properly. A tutor teaches a short structure for each evaluation point and practises it in timed essays every week."
+  - q: "What are issues and debates?"
+    a: "Broad themes such as nature and nurture, or free will and determinism, that run across the whole course. Essays that use them well tend to score higher. A tutor links them to each topic as your child learns it."
+  - q: "My child didn't do GCSE Psychology. Is that a problem?"
+    a: "No. Most A-Level Psychology students start without it. A tutor can help them settle into the course and the research methods early."
+  - q: "Who are your Psychology tutors?"
+    a: "Graduates and university students interviewed by Harry or Joe, with about 3% of applicants accepted. Each has at least two years' tutoring."
+reviews:
+  - "Nick|Parent of A-Level Student|Sandra Sabu has been tutoring our son for Psychology A Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Charlotte|Student|I cannot recommend Harry enough. He was helpful welcoming and helped me achieve a grade higher than I was expected!"
+  - "Theresa|Parent|Harry and Joe were extremely helpful with a wealth of knowledge and contacts that helped my son to follow the right path."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

@@ -1,0 +1,53 @@
+---
+title: "Wandsworth A-Level English Tutors | The Degree Gap"
+nav_title: "English"
+description: "Comparative essays running out of time? Online A-Level English tutoring for Wandsworth sixth formers, Literature or Language. From £37 an hour, no contract."
+layout: "level-subject"
+location: "Wandsworth"
+level: "A-Level"
+subject: "English"
+hero_h1: "A-Level English Tutors for Wandsworth Students"
+hero_lead: "Two texts, one question, and forty-five minutes: your child spends half of it on the first text and rushes the comparison. Our A-Level English tutors for Wandsworth students teach them to compare from the first paragraph."
+angle_eyebrow: "COMPARING UNDER PRESSURE"
+angle_heading: "Why Comparison and Timing Cost Wandsworth Students Marks in A-Level English"
+angle_body_1: "Many A-Level English papers ask students to compare texts, or to write about an unseen passage alongside a set text, in a tight time. The mark schemes reward answers that compare throughout, linking the texts point by point, rather than two separate essays joined at the end. Students who know their texts well still write them one after another because that's how they revised. And unseen extracts, in Literature or Language, need a quick, confident first reading that many students have never practised."
+angle_body_2: "The tutor teaches a planning method built around comparison: a thesis that covers both texts, then paragraphs that each discuss both. Your child practises it under timed conditions, with plans first and then full essays. Unseen passages get regular short practice. Coursework, where the course has it, gets help with the title and structure, within the board's rules."
+angle_image: "/images/library-aisle-bookshelves.jpg"
+angle_image_alt: "A library aisle of books, like the texts studied in A-Level English"
+angle_stat_from: "E"
+angle_stat_to: "B"
+angle_stat_detail: "Not an English review. Keira (A-Level Student) wrote on Google: “Has definitely helped me increase my grades from an E to a B”"
+schools:
+  - "Saint Cecilia's Church of England School"
+  - "Southfields Academy"
+  - "Ark Bolingbroke Academy"
+  - "Emanuel School"
+  - "Saint Francis Xavier Sixth Form College"
+steps_heading: "Starting A-Level English tutoring for a Wandsworth sixth former"
+steps_lead: "Tell us the set texts if you know them. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, around half an hour. We'll ask about the board, Literature or Language, the texts and recent essay marks."
+  - title: "Choose your tutor"
+    body: "Two or three English tutor profiles within 24 hours, matched to your child's specification. A free 15-minute video call with the one you like comes before you pay anything."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, annotating texts and planning essays together on a shared whiteboard, with a replay each time. From £37 an hour, no contract."
+faqs:
+  - q: "How can my child write better comparative essays?"
+    a: "By planning comparison into every paragraph. A tutor teaches a simple structure and practises it under time, until linking the texts becomes natural."
+  - q: "Can a tutor help with English coursework?"
+    a: "Yes, within the board's rules. The tutor can help choose and narrow the title, suggest reading and give general feedback on structure. The writing must be your child's own."
+  - q: "Is A-Level English useful for university?"
+    a: "It's well regarded for English, law, history and many other essay-based courses. Check the requirements of any course your child is considering."
+  - q: "How much do A-Level English lessons cost?"
+    a: "From £37 an hour, agreed before booking. That includes the lesson, essay feedback and a recording. No contract."
+reviews:
+  - "Theresa|Parent|Harry and Joe were extremely helpful with a wealth of knowledge and contacts that helped my son to follow the right path."
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Kasia|Parent|Harry is a great tutor. He's very helpful and knowledgeable. He's git goid understanding of student's needs as well as current situation when it comes to university education in the UK. His experience and expertise helped my son make some decisions about choosing A level subject and university course. I highly recommend Harry and Degree Gap."
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

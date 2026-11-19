@@ -1,0 +1,53 @@
+---
+title: "Stanmore A-Level Biology Tutors | The Degree Gap"
+nav_title: "Biology"
+description: "Does your child need a top Biology grade for medicine or dentistry? Online A-Level Biology tutoring for Stanmore sixth formers, by board. From £37 an hour."
+layout: "level-subject"
+location: "Stanmore"
+level: "A-Level"
+subject: "Biology"
+hero_h1: "A-Level Biology Tutors for Stanmore Students"
+hero_lead: "Your child can recite the stages of the Krebs cycle and still loses marks when a question puts it in an unfamiliar experiment. Our A-Level Biology tutors for Stanmore students teach them to apply what they know."
+angle_eyebrow: "THE MEDICINE APPLICANTS"
+angle_heading: "Why A-Level Biology Is the Grade So Many Stanmore Students Watch"
+angle_body_1: "In Stanmore, a lot of Biology students are hoping for medicine, dentistry, pharmacy or another health course, and those offers are often demanding. The course is full of detail, but detail isn't where most marks go. They go on application questions that describe an experiment your child has never seen, on synoptic answers that link genetics to ecology, and on the statistics: chi-squared, Spearman's rank, a t-test, with a conclusion that has to be worded exactly."
+angle_body_2: "The tutor gives your child unfamiliar questions every week and asks them to find the familiar Biology inside first. Pathways are drawn out together, stage by stage. Statistics gets a little practice each lesson so it never goes cold. Health courses in London are close by on the Jubilee line, and they look hard at the Biology grade alongside Chemistry."
+angle_image: "/images/fluorescent-cells-under-microscope.jpg"
+angle_image_alt: "Cells under a microscope, as in an A-Level Biology cell structure question"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "From Cs to As: Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The review doesn't say which subjects."
+schools:
+  - "North London Collegiate School"
+  - "Haberdashers' Elstree Schools"
+  - "St Dominic's Sixth Form College"
+  - "Bentley Wood High School"
+  - "Avanti House Secondary School"
+steps_heading: "Starting A-Level Biology lessons for a Stanmore sixth former"
+steps_lead: "If there's a medicine or dentistry application coming, mention it. Profiles normally follow within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, around 30 minutes. We'll ask about the board, the year group, the shakiest topics and any course your child is aiming at."
+  - title: "Choose your tutor"
+    body: "Two or three Biology tutor profiles within a day, matched to the specification. Your child has a free 15-minute video call with your pick before any payment."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, pathways drawn on a shared whiteboard, a replay each time. From £37 an hour, no contract, and a new tutor if needed."
+faqs:
+  - q: "Can A-Level Biology tutoring help with a medicine application?"
+    a: "It helps with the grade, which every medical school looks at. Each one sets its own requirements and admissions test rules, so check those first. A tutor then works on whatever is holding the Biology back."
+  - q: "My child knows the content but still gets Bs. What's missing?"
+    a: "Usually application. A-Level questions put familiar ideas in unfamiliar settings, and the marks go to students who can spot the link. That improves quickly with regular practice and feedback."
+  - q: "How do you choose Biology tutors?"
+    a: "Harry or Joe interview every tutor, about 3% are accepted, and each has at least two years of tutoring."
+  - q: "How much do A-Level Biology lessons cost?"
+    a: "From £37 an hour, agreed in advance, including the lesson, practice set between lessons and a recording. No contract."
+reviews:
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Raj|Parent of A-Level Student|Brilliant support and communication. We had the best tutor for history and sociology, Jacob, and this definitely influenced my son's amazing A level grades. Would not hesitate to recommend. Jacob also took account of and understood my son's struggles with dyslexia and how this affected his ability to study and get all the (vast) knowledge he has in his head into the paper. Such a struggle for these SEN children but they can achieve. We are so proud of our son and thank you Degree Gap for helping us!"
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

@@ -1,0 +1,53 @@
+---
+title: "Epping A-Level Biology Tutors | The Degree Gap"
+nav_title: "Biology"
+description: "Are statistics and long answers costing your child Biology marks? Online A-Level Biology tutoring for Epping sixth formers, by board. From £37 an hour."
+layout: "level-subject"
+location: "Epping"
+level: "A-Level"
+subject: "Biology"
+hero_h1: "A-Level Biology Tutors for Epping Students"
+hero_lead: "Your child loves the ecology and dreads the chi-squared question that comes with it. Our A-Level Biology tutors for Epping students make the statistics routine and the long answers clear."
+angle_eyebrow: "THE FOREST AND THE STATISTICS"
+angle_heading: "Where Epping Students Lose Marks in A-Level Biology"
+angle_body_1: "A-Level Biology asks students to handle data as well as facts. Practical questions bring in chi-squared, Spearman's rank or a t-test, with a null hypothesis and a conclusion that must be worded precisely. Synoptic answers link topics from across the course. Respiration and photosynthesis are long pathways that need understanding, not just memory. Many students know the content and still lose marks on how they use it."
+angle_body_2: "The tutor practises a little statistics every lesson so it never goes cold. Pathways are drawn out together, stage by stage. Unfamiliar exam questions come in weekly. Epping Forest makes sampling and ecology easy to picture, and the Field Studies Council's centre at High Beach runs fieldwork for school groups. Biology leads to medicine, nursing and life science degrees, from Queen Mary in Whitechapel to universities across the country."
+angle_image: "/images/fluorescent-cells-under-microscope.jpg"
+angle_image_alt: "Cells under a microscope for an A-Level Biology question"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "From Cs to As: Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The review doesn't say which subjects."
+schools:
+  - "Epping St John's Church of England School"
+  - "Davenant Foundation School"
+  - "Roding Valley High School"
+  - "Chigwell School"
+  - "Bancroft's School"
+steps_heading: "Starting A-Level Biology lessons for an Epping sixth former"
+steps_lead: "If a healthcare application is coming up, let us know. Profiles normally follow within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "Around 30 minutes with Harry or Joe, free. We'll ask about the board, the year, the weakest topics and any course in mind."
+  - title: "Choose your tutor"
+    body: "Two or three Biology tutor profiles within a day, matched to the specification. A free 15-minute video call with your choice comes before payment."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, pathways drawn on a shared whiteboard, a replay each time. From £37 an hour, no contract."
+faqs:
+  - q: "My child struggles with the statistics in A-Level Biology. Can a tutor help?"
+    a: "Yes. The tests themselves are quite mechanical once practised. The harder part is choosing the right one and wording the conclusion, and a tutor drills both."
+  - q: "Can Biology tutoring help with a medicine or nursing application?"
+    a: "It helps with the grade. Each university sets its own requirements, so check those first. A tutor then works on whatever is holding the Biology back."
+  - q: "How do you choose Biology tutors?"
+    a: "Harry or Joe interview every one, about 3% of applicants are accepted, and each has at least two years' tutoring."
+  - q: "How much do A-Level Biology lessons cost?"
+    a: "From £37 an hour, agreed in advance, including practice set between lessons and a recording. No contract."
+reviews:
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Raj|Parent of A-Level Student|Brilliant support and communication. We had the best tutor for history and sociology, Jacob, and this definitely influenced my son's amazing A level grades. Would not hesitate to recommend. Jacob also took account of and understood my son's struggles with dyslexia and how this affected his ability to study and get all the (vast) knowledge he has in his head into the paper. Such a struggle for these SEN children but they can achieve. We are so proud of our son and thank you Degree Gap for helping us!"
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

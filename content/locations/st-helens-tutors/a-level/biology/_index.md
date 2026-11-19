@@ -1,0 +1,51 @@
+---
+title: "St Helens A-Level Biology Tutors | The Degree Gap"
+nav_title: "Biology"
+description: "Is your child hoping for medicine, nursing or a life sciences degree? Online A-Level Biology tutoring for St Helens students, by board. From £37 an hour."
+layout: "level-subject"
+location: "St Helens"
+level: "A-Level"
+subject: "Biology"
+hero_h1: "A-Level Biology Tutors for St Helens Students"
+hero_lead: "Your child has pages of colour-coded notes on genetics and still loses marks when the question describes an experiment they've never seen. Our A-Level Biology tutors for St Helens students teach them to apply what they know."
+angle_eyebrow: "APPLYING IT, NOT JUST LEARNING IT"
+angle_heading: "Why A-Level Biology Catches Out So Many St Helens Students Heading for Health Careers"
+angle_body_1: "Biology is a popular A-Level in St Helens, often taken with a health or science career in mind. It's also a subject where hard work on notes doesn't always show in the marks. Questions describe an unfamiliar experiment and ask what the results mean. Long answers link cells, genetics and ecology in one go. Respiration and photosynthesis are pathways that collapse if they've only been memorised, and statistics tests appear inside practical questions."
+angle_body_2: "The tutor works through each pathway with your child, asking what goes in and comes out at every stage, then changes one condition to check it's understood. Unfamiliar-experiment questions get regular practice, and statistics a short slot every week. With Whiston Hospital nearby and medicine, nursing and life sciences degrees at the Liverpool universities and Edge Hill, healthcare is a very real route from St Helens, and those courses look hard at Biology."
+angle_image: "/images/fluorescent-cells-under-microscope.jpg"
+angle_image_alt: "Cells under a microscope, as in an A-Level Biology question on cell structure"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "From Cs to As: Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The review doesn't say which subjects."
+schools:
+  - "Carmel College"
+  - "Rainford High"
+  - "St Helens College"
+steps_heading: "Starting A-Level Biology lessons for a St Helens student"
+steps_lead: "If your child is applying for medicine or nursing, tell us the deadlines. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, about 30 minutes. We'll ask which board, Year 12 or 13, which topics feel shakiest, and whether there's a healthcare course in mind."
+  - title: "Choose your tutor"
+    body: "Two or three Biology tutor profiles within 24 hours, matched to your child's specification. A free 15-minute video call with the one you choose comes before any payment."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, drawing pathways on a shared whiteboard, with a replay each time. From £37 an hour, no contract, and a new tutor if they don't click."
+faqs:
+  - q: "Can A-Level Biology tutoring help my child towards medicine at the University of Liverpool?"
+    a: "It can help with the grades, which are the first hurdle. The university publishes its own requirements for subjects, grades and the admissions test, so check those first. A tutor then works on whatever is holding your child's Biology back, often the long answers and statistics."
+  - q: "Why is my child struggling with A-Level Biology after a good GCSE?"
+    a: "Because A-Level asks students to apply ideas, not just recall them. That's a skill that needs practice, and a tutor gives it every week."
+  - q: "How do you choose your Biology tutors?"
+    a: "Harry or Joe interview every tutor, and about 3% of applicants are accepted. Each has at least two years' tutoring. We check they can explain something like the Krebs cycle to someone who's lost."
+  - q: "How much do A-Level Biology lessons cost?"
+    a: "From £37 an hour, agreed in advance. That includes the lesson, practice questions set between lessons and a recording. No contract."
+reviews:
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Raj|Parent of A-Level Student|Brilliant support and communication. We had the best tutor for history and sociology, Jacob, and this definitely influenced my son's amazing A level grades. Would not hesitate to recommend. Jacob also took account of and understood my son's struggles with dyslexia and how this affected his ability to study and get all the (vast) knowledge he has in his head into the paper. Such a struggle for these SEN children but they can achieve. We are so proud of our son and thank you Degree Gap for helping us!"
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

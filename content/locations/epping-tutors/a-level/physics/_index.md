@@ -1,0 +1,53 @@
+---
+title: "Epping A-Level Physics Tutors | The Degree Gap"
+nav_title: "Physics"
+description: "Is the maths in A-Level Physics tripping your child up? Online A-Level Physics tutoring for Epping sixth formers, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Epping"
+level: "A-Level"
+subject: "Physics"
+hero_h1: "A-Level Physics Tutors for Epping Students"
+hero_lead: "Your child follows the lesson and then loses marks on a units slip three lines into the answer. Our A-Level Physics tutors for Epping students make the maths dependable so the Physics can shine through."
+angle_eyebrow: "THE UNITS SLIP"
+angle_heading: "What Makes A-Level Physics Hard for Epping Sixth Formers"
+angle_body_1: "A-Level Physics depends heavily on maths. Mechanics needs vectors resolved correctly. Circuits and fields need confident rearranging, and some topics bring in logs and exponentials. Standard form and unit prefixes cause more lost marks than students expect. And multi-step questions mean one early error carries through to the end."
+angle_body_2: "The tutor practises the maths inside Physics questions, checking units at each line. Diagrams come before equations. Past papers start early. Physics opens engineering and science degrees, with London's universities a straight run down the Central line from Epping."
+angle_image: "/images/physics-mechanics-force-diagram.jpg"
+angle_image_alt: "A force diagram for an A-Level Physics mechanics question"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "From Cs to As: Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The review doesn't name the subjects."
+schools:
+  - "Epping St John's Church of England School"
+  - "Davenant Foundation School"
+  - "Roding Valley High School"
+  - "Chigwell School"
+  - "Bancroft's School"
+steps_heading: "Getting A-Level Physics lessons going in Epping"
+steps_lead: "Tell us about upcoming mocks. Profiles usually come within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask about the board, the year group and the hardest topics."
+  - title: "Choose your tutor"
+    body: "Two or three Physics tutor profiles within 24 hours. A free 15-minute video call with your pick comes before payment."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, diagrams on a shared whiteboard, recorded each time. From £37 an hour, no contract."
+faqs:
+  - q: "Can a Physics tutor help my child aim for engineering?"
+    a: "Yes, with the grade. Universities set their own requirements, usually with Maths too, so check them. The tutor works on whatever is costing marks."
+  - q: "My child is good at Maths but finds Physics hard. Why?"
+    a: "Usually it's choosing the equation and setting up the problem. A tutor teaches a diagram-first routine until it's automatic."
+  - q: "Who are your Physics tutors?"
+    a: "Graduates and university students, interviewed by Harry or Joe, each with at least two years' tutoring. About 3% of applicants are accepted."
+  - q: "How much does A-Level Physics tutoring cost?"
+    a: "From £37 an hour, no contract, stop any time."
+reviews:
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

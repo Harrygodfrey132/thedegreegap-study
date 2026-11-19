@@ -1,0 +1,53 @@
+---
+title: "Wandsworth GCSE History Tutors | The Degree Gap"
+nav_title: "History"
+description: "Too much GCSE History content to keep straight? Online GCSE History tutoring for Wandsworth students, matched to the board. From £37 an hour, no contract."
+layout: "level-subject"
+location: "Wandsworth"
+level: "GCSE"
+subject: "History"
+hero_h1: "GCSE History Tutors for Wandsworth Students"
+hero_lead: "Several centuries in one topic, and your child can't remember whether something happened before or after the plague. Our GCSE History tutors for Wandsworth students put the content in order and teach the essays to go with it."
+angle_eyebrow: "A THOUSAND YEARS IN ONE PAPER"
+angle_heading: "Why the Thematic Study Is Where Wandsworth Students Lose Track in GCSE History"
+angle_body_1: "Most GCSE History courses include a thematic study that covers a very long period, such as health and medicine or migration across many centuries. Students have to remember what changed and what stayed the same across hundreds of years, then write essays comparing periods. It's a lot of content, and it's easy to mix up which century an idea belongs to. Alongside that are the depth studies and source questions, each with its own style of answer."
+angle_body_2: "The tutor builds a clear timeline for the thematic study with your child, then works on the links between periods, which is what the essays actually test. For source and interpretation questions, your child learns to judge the evidence rather than describe it. Each week ends with a timed answer marked against the board's mark scheme, so you can both see where the marks are coming from."
+angle_image: "/images/classical-library-books-and-busts.jpg"
+angle_image_alt: "History books and busts in a library, like the material in GCSE History"
+angle_stat_from: "5"
+angle_stat_to: "6/7"
+angle_stat_detail: "These grades are from GCSE English, not History. Omo (Parent of GCSE Student) wrote on Google that a son in Year 10 “has improved from a grade 5 to a 6/7”."
+schools:
+  - "Saint Cecilia's Church of England School"
+  - "Southfields Academy"
+  - "Ashcroft Technology Academy"
+  - "Graveney School"
+  - "Emanuel School"
+steps_heading: "Starting GCSE History tutoring for a Wandsworth student"
+steps_lead: "Tell us the board and topics. Profiles usually arrive within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask about the board, the topics your child's school studies, and whether it's content or essays that cause trouble."
+  - title: "Choose your tutor"
+    body: "Two or three History tutor profiles within 24 hours. A free 15-minute video call with your favourite comes before you pay."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, building timelines and planning essays on a shared whiteboard, with a replay afterwards. From £37 an hour, no contract."
+faqs:
+  - q: "How can my child remember so much History?"
+    a: "With a clear timeline and regular recall practice, rather than rereading notes. The tutor uses short quizzes at the start of each lesson and links new content to what your child already knows."
+  - q: "What's the difference between a source and an interpretation question?"
+    a: "A source is from the time, and the question asks how useful it is. An interpretation is a later view, and the question asks how and why historians differ. The tutor teaches the approach for each on your child's board."
+  - q: "My child writes a lot but gets low marks. Why?"
+    a: "Often because the answer describes events without answering the question. A tutor teaches your child to decide their judgement first and make every paragraph support it."
+  - q: "How much do GCSE History lessons cost?"
+    a: "From £37 an hour, agreed before booking. That includes the lesson, marked practice and a recording. No contract."
+reviews:
+  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. The tutors we have used are lovely.  The Degree Gap use an advanced online platform which enables interactive tuition. We also attended a free webinar from the Degree Gap which was very informative and added value. I highly recommend them."
+  - "Dawn|Parent|The Degree Gap took time to understand my child’s worries. They paired me with Connor, who my daughter got on well with. Her confidence has skyrocketed since. Thanks again."
+  - "Maureen|Student|The Degree gap actually made tutoring approachable. It's the worst feeling when you are struggling, frustrated and feel helpless. I was matched with a great tutor who always made time for me. The software made it easy to navigate topics I found difficult. Having that reliable support was critical to my much improved grades. Thank you so much!"
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Joe|Student|Highly recommend the Degree Gap as a tutoring agency! Their platform is easy to use and having used tutors across a variety of subjects, they have all been consistently excellent."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

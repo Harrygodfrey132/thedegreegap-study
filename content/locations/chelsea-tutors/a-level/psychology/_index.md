@@ -1,0 +1,52 @@
+---
+title: "Chelsea A-Level Psychology Tutors | The Degree Gap"
+nav_title: "Psychology"
+description: "Finding the research methods in A-Level Psychology hard? Online A-Level Psychology tutoring for Chelsea sixth formers, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Chelsea"
+level: "A-Level"
+subject: "Psychology"
+hero_h1: "A-Level Psychology Tutors for Chelsea Students"
+hero_lead: "Your child picked Psychology for the interesting bits, and now finds half the marks are in research methods and statistics. Our A-Level Psychology tutors for Chelsea students make that half feel manageable."
+angle_eyebrow: "THE SCIENCE IN PSYCHOLOGY"
+angle_heading: "Why Research Methods Catch Out So Many Chelsea Students in A-Level Psychology"
+angle_body_1: "Most students start A-Level Psychology without having studied it before, expecting theories about memory, attachment and mental health. Those are there. But research methods run through every paper: designing a study, choosing a statistical test, spotting a flaw in a procedure. Many questions carry a few marks each, and they add up. Then there are the long evaluation answers, where listing strengths and weaknesses isn't enough. The mark scheme wants points developed and weighed."
+angle_body_2: "The tutor makes research methods routine with short, regular practice: identify the variables, name the design, pick the test, explain the choice. For the essays, your child learns to make fewer evaluation points but explain each one fully, saying why it matters for the theory. Studies are learnt with just the details that earn marks, which cuts the memorising down a lot."
+angle_image: "/images/students-in-classroom-taking-notes.jpg"
+angle_image_alt: "Students taking notes, like a Year 12 A-Level Psychology class"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "These grades aren't from a Psychology review. Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”, without naming the subjects."
+schools:
+  - "Chelsea Academy"
+  - "St Thomas More Language College"
+  - "More House School"
+  - "Queen's Gate School"
+steps_heading: "Starting A-Level Psychology tutoring for a Chelsea sixth former"
+steps_lead: "Year 12 or 13, any board. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About 30 minutes with Harry or Joe, free. We'll ask about the board, the options your child studies, and whether research methods or essays are the problem."
+  - title: "Choose your tutor"
+    body: "Two or three Psychology tutor profiles within 24 hours. A free 15-minute video call with the one you like comes before you pay anything."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, with study notes and essay plans on a shared whiteboard and a replay each time. From £37 an hour, no contract."
+faqs:
+  - q: "Is A-Level Psychology a science?"
+    a: "It's treated as one in the exam, with a lot of research methods and some statistics. Some universities count it as a science for certain courses and others don't, so check the requirements of any course your child is considering."
+  - q: "How much maths is in A-Level Psychology?"
+    a: "A modest amount, mostly descriptive statistics, choosing and interpreting tests, and reading graphs. It's a reliable source of marks once it's practised."
+  - q: "How can my child remember all the studies?"
+    a: "By learning less about each one. The tutor shows which details actually earn marks, usually the aim, method, key finding and one or two evaluation points, and uses short regular quizzes to keep them fresh."
+  - q: "Who are your Psychology tutors?"
+    a: "Graduates and university students interviewed by Harry or Joe, with about 3% of applicants accepted. Each has at least two years' tutoring."
+reviews:
+  - "Nick|Parent of A-Level Student|Sandra Sabu has been tutoring our son for Psychology A Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades."
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Kasia|Parent|Harry is a great tutor. He's very helpful and knowledgeable. He's git goid understanding of student's needs as well as current situation when it comes to university education in the UK. His experience and expertise helped my son make some decisions about choosing A level subject and university course. I highly recommend Harry and Degree Gap."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

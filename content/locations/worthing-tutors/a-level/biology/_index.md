@@ -1,0 +1,51 @@
+---
+title: "Worthing A-Level Biology Tutors | The Degree Gap"
+nav_title: "Biology"
+description: "Is your child hoping for nursing, medicine or biomedical science? Online A-Level Biology tutoring for Worthing students, matched to the board. From £37."
+layout: "level-subject"
+location: "Worthing"
+level: "A-Level"
+subject: "Biology"
+hero_h1: "A-Level Biology Tutors for Worthing Students"
+hero_lead: "Your child has pages of careful notes on genetics and still can't finish the long answer in time. Our A-Level Biology tutors for Worthing students teach them to use what they know under exam conditions."
+angle_eyebrow: "FROM NOTES TO EXAM ANSWERS"
+angle_heading: "Why A-Level Biology Is Harder Than It Looks for Worthing Students"
+angle_body_1: "Biology looks like the most familiar science at A-Level, and that catches students out. The long answers ask them to link genetics, cells and ecology in one go. Respiration and photosynthesis are dense pathways that can't just be learnt by heart. Practical questions bring in statistics, chi-squared or a t-test, often when least expected. Plenty of students know the facts and still drop marks on how they use them."
+angle_body_2: "The tutor draws each pathway with your child, stage by stage, then sets exam questions that change one condition. Statistics get short, regular practice. Biology leads to nursing, medicine, biomedical science and more, at Brighton, Sussex, Chichester and further afield, and those courses look hard at the grade."
+angle_image: "/images/fluorescent-cells-under-microscope.jpg"
+angle_image_alt: "Cells under a microscope, as in an A-Level Biology question on cell structure"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "From Cs to As: Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The review doesn't say which subjects."
+schools:
+  - "Worthing College"
+  - "Lancing College"
+  - "Steyning Grammar School"
+steps_heading: "Starting A-Level Biology lessons for a Worthing student"
+steps_lead: "If your child is applying for a health course, tell us the deadlines. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, about 30 minutes. We'll ask which board, Year 12 or 13, which topics feel shakiest, and whether there's a health course in mind."
+  - title: "Choose your tutor"
+    body: "You'll get two or three Biology tutor profiles within a day, chosen for your child's board. Your child meets the one you prefer on a free 15-minute video call before anything is paid."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, drawing pathways on a shared whiteboard, with a replay each time. From £37 an hour, no contract, and a new tutor if they don't click."
+faqs:
+  - q: "Can A-Level Biology tutoring help my child towards nursing or medicine?"
+    a: "It can help with the grades, which come first. Each university publishes its own requirements for subjects, grades and any admissions test, so check those. A tutor then works on what's holding your child's Biology back, often the long answers and statistics."
+  - q: "Why is my child struggling with A-Level Biology after doing well at GCSE?"
+    a: "Because A-Level asks students to apply ideas, not just recall them. A question might describe an experiment they've never seen and ask what the results show. That needs practice, and a tutor gives it every week."
+  - q: "How do you choose your Biology tutors?"
+    a: "Harry or Joe interview every tutor, and about 3% of applicants are accepted. Each has at least two years' tutoring, and we check they can explain something like the Krebs cycle to a student who's lost."
+  - q: "How much do A-Level Biology lessons cost?"
+    a: "From £37 an hour, agreed in advance. That includes the lesson, practice questions set between lessons and a recording. No contract."
+reviews:
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Alison|Parent of A-Level Student|My son has been receiving tutor lessons with Jacob Berry in A level History and subsequently A level Sociology since the beginning of this year.\nJacob has been such a tremendous support for my son, teaching him content as well as exam technique, with which, as a dyslexic, he really has needed additional support.\nJacob also sets him weekly essays as homework, marks and returns them which is just invaluable.\nHarry at The Degree Gap has also been outstanding - from day one when I first got in touch to now, when we are about to end our tutor sessions.  When I communicate his responses to me have always been immediate and highly supportive, plus credit to Harry for matching us with Jacob.\nI would not hesitate to recommend The Degree Gap and absolutely to recommend Jacob."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

@@ -1,0 +1,52 @@
+---
+title: "Chelsea GCSE Physics Tutors | The Degree Gap"
+nav_title: "Physics"
+description: "Losing GCSE Physics marks on the equations? Online GCSE Physics tutoring for Chelsea students, matched to the board and tier. From £37 an hour, no contract."
+layout: "level-subject"
+location: "Chelsea"
+level: "GCSE"
+subject: "Physics"
+hero_h1: "GCSE Physics Tutors for Chelsea Students"
+hero_lead: "Your child understands the idea, then drops the marks rearranging an equation or forgetting to convert kilometres to metres. Our GCSE Physics tutors for Chelsea students make the maths inside the physics automatic."
+angle_eyebrow: "THE MATHS INSIDE THE PHYSICS"
+angle_heading: "Why Equations Cost Chelsea Students More GCSE Physics Marks Than the Physics Itself"
+angle_body_1: "GCSE Physics students have to recall a long list of equations and rearrange them under time pressure. Many calculation questions also hide a unit conversion, or ask for an answer in standard form. A student can understand exactly what's happening in a circuit or a falling object, then lose most of the marks to a slip in the algebra. Children who've moved from other systems sometimes learnt the physics with formulas provided, and suddenly find they need to remember them."
+angle_body_2: "The tutor gets the equations learnt early with short recall drills, then practises rearranging and substituting until it's routine, always with units written in. Each topic ends with multi-step exam questions, where the tutor watches your child's working on the whiteboard and catches the exact line that goes wrong. Where a concept is shaky, like the difference between current and potential difference, they go back and build a picture of it first."
+angle_image: "/images/physics-mechanics-force-diagram.jpg"
+angle_image_alt: "A force diagram of the kind GCSE Physics students draw in mechanics questions"
+angle_stat_from: "4-5"
+angle_stat_to: "8"
+angle_stat_detail: "Chamarika (Parent of GCSE Student) wrote on Trustpilot: “My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring.”"
+schools:
+  - "Chelsea Academy"
+  - "St Thomas More Language College"
+  - "The London Oratory School"
+  - "More House School"
+steps_heading: "Starting GCSE Physics tutoring for a Chelsea student"
+steps_lead: "Two months before the exams isn't too late. Profiles usually arrive within a day of the call."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask about the board, Triple or Combined, Higher or Foundation, and whether it's the ideas or the calculations that go wrong."
+  - title: "Choose your tutor"
+    body: "Two or three Physics tutor profiles within 24 hours. Your child meets the one you like on a free 15-minute video call before anything is paid."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, with every calculation worked on a shared whiteboard and a replay afterwards. From £37 an hour, no contract."
+faqs:
+  - q: "Is it too late to start GCSE Physics tutoring a few months before the exams?"
+    a: "No. With limited time, a tutor focuses on the equations and the topics worth the most marks, and on past paper practice. Earlier is easier, but a few focused months can still move the grade."
+  - q: "My child is good at Maths but bad at Physics. Why?"
+    a: "Often because Physics questions are wordier and less predictable, so knowing the method isn't enough. The child has to decide which idea applies. A tutor practises exactly that, with mixed questions until choosing becomes quick."
+  - q: "Do they need to know the equations by heart?"
+    a: "Most of them, yes, though boards give some on an equation sheet. The tutor checks which equations your child's board expects them to recall and drills those."
+  - q: "How do you choose your Physics tutors?"
+    a: "Harry or Joe interview every tutor, and about 3% of applicants are accepted. Each has at least two years' tutoring. We ask them to explain something like momentum to someone who finds it hard."
+reviews:
+  - "Chamarika|Parent of GCSE Student|Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s. Thank you to all the 3x tutors."
+  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. The tutors we have used are lovely.  The Degree Gap use an advanced online platform which enables interactive tuition. We also attended a free webinar from the Degree Gap which was very informative and added value. I highly recommend them."
+  - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
+  - "Maureen|Student|The Degree gap actually made tutoring approachable. It's the worst feeling when you are struggling, frustrated and feel helpless. I was matched with a great tutor who always made time for me. The software made it easy to navigate topics I found difficult. Having that reliable support was critical to my much improved grades. Thank you so much!"
+  - "Anders|iGCSE Student|I reached out to The Degree Gap to get some help to prepare for my iGCSE exams and was very impressed by their tutors and professionalism!"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

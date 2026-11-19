@@ -1,0 +1,52 @@
+---
+title: "Chelsea A-Level English Tutors | The Degree Gap"
+nav_title: "English"
+description: "A-Level English essays stuck in the middle bands? Online A-Level English tutoring for Chelsea sixth formers, coursework and exams. From £37 an hour."
+layout: "level-subject"
+location: "Chelsea"
+level: "A-Level"
+subject: "English"
+hero_h1: "A-Level English Tutors for Chelsea Students"
+hero_lead: "Your child reads widely and has plenty to say, but the essays keep coming back with 'needs a clearer argument'. Our A-Level English tutors for Chelsea students help them shape what they think into what examiners reward."
+angle_eyebrow: "A CLEARER ARGUMENT"
+angle_heading: "Why Well-Read Chelsea Students Still Get Stuck at A-Level English"
+angle_body_1: "A-Level English Literature asks for a lot at once. Close reading of a passage, an argument about the whole text, context woven in rather than bolted on, and critical views used to test an idea. Plenty of Chelsea students who love reading find their essays drifting: lots of good points, no clear line running through them. Students coming from the IB or the French system often write well but in a different shape. And the coursework, a long comparative essay, needs a title narrow enough to argue."
+angle_body_2: "The tutor works on the thesis first: one sentence that answers the question, which every paragraph then tests. Your child practises close analysis of short extracts and learns where context and critics actually earn marks. For coursework, the tutor helps narrow the title and gives honest feedback on structure, within the rules on how much help is allowed. Timed essays come in from Year 12 so the exam doesn't feel new."
+angle_image: "/images/vintage-drawing-textbook-pages.jpg"
+angle_image_alt: "Pages of an old book, like the texts studied in A-Level English Literature"
+angle_stat_from: "E/U"
+angle_stat_to: "C"
+angle_stat_detail: "These grades aren't from an English review. Joanna (Parent of A-Level Student) wrote on Google about a son “managing to turn E and U grades into 3 C grades”, without naming the subjects."
+schools:
+  - "Chelsea Academy"
+  - "St Thomas More Language College"
+  - "More House School"
+  - "Queen's Gate School"
+steps_heading: "Starting A-Level English lessons for a Chelsea sixth former"
+steps_lead: "Tell us the set texts if you know them. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, about half an hour. We'll ask about the board, the texts, Literature or Language, and whether coursework or exams is the worry."
+  - title: "Choose your tutor"
+    body: "Two or three English tutor profiles within 24 hours, picked for your child's texts. A free 15-minute video call with the one you like comes first."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, annotating passages and planning essays together on a shared whiteboard, with a replay each time. From £37 an hour, no contract."
+faqs:
+  - q: "Can a tutor help with A-Level English coursework?"
+    a: "Yes, within the rules. Boards limit how much help a student can have on the final draft, so a tutor focuses on choosing and narrowing the title, reading around the texts and giving general feedback on structure. The writing must be your child's own."
+  - q: "Do you cover English Language as well as Literature?"
+    a: "Yes. Tell us which your child takes, or if it's the combined course. We'll match a tutor who knows that specification."
+  - q: "How do critical views fit into an A-Level essay?"
+    a: "As something to argue with. A good essay uses a critic's view to test its own reading, agreeing or disagreeing with reasons. A tutor shows your child how to do that briefly, without letting critics take over."
+  - q: "How much do A-Level English lessons cost?"
+    a: "From £37 an hour, agreed before booking. That includes the lesson, essay feedback and a recording. No contract."
+reviews:
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Charlotte|Student|I cannot recommend Harry enough. He was helpful welcoming and helped me achieve a grade higher than I was expected!"
+  - "Leo|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

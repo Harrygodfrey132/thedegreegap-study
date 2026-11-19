@@ -1,0 +1,53 @@
+---
+title: "Wandsworth A-Level History Tutors | The Degree Gap"
+nav_title: "History"
+description: "Interpretation questions and breadth essays not landing? Online A-Level History tutoring for Wandsworth sixth formers, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Wandsworth"
+level: "A-Level"
+subject: "History"
+hero_h1: "A-Level History Tutors for Wandsworth Students"
+hero_lead: "Your child can summarise what each historian argues, but the mark scheme wants them weighed against each other. Our A-Level History tutors for Wandsworth students teach them to judge interpretations, not just report them."
+angle_eyebrow: "WEIGHING THE HISTORIANS"
+angle_heading: "Why Interpretations and Breadth Essays Hold Back Wandsworth Students in A-Level History"
+angle_body_1: "A-Level History asks for two quite different skills. The breadth papers cover a long period, often a century or more, and the essays ask about change and continuity across it. Then the interpretation questions give two or three extracts from historians and ask how convincing each is. Students tend to summarise each extract in turn, or bring in their own knowledge without linking it to the argument. Both approaches cap the marks, however much your child knows."
+angle_body_2: "The tutor teaches your child to find each historian's main argument in a sentence, then test it against their own knowledge, deciding which holds up best and why. For breadth essays, they build a timeline of turning points and practise essays that compare periods directly. Timed practice comes every week, with marking against the board's levels and clear targets for the next essay."
+angle_image: "/images/historical-battle-painting.jpg"
+angle_image_alt: "A historical painting, like the sources studied in A-Level History"
+angle_stat_from: "Mock"
+angle_stat_to: "+2"
+angle_stat_detail: "Daljit (Parent of A-Level Student) wrote on Google: “My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent”. The review doesn't name the subject."
+schools:
+  - "Saint Cecilia's Church of England School"
+  - "Southfields Academy"
+  - "Ark Bolingbroke Academy"
+  - "Emanuel School"
+  - "Saint Francis Xavier Sixth Form College"
+steps_heading: "Starting A-Level History tutoring for a Wandsworth sixth former"
+steps_lead: "Tell us the board and topics. Profiles usually arrive within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask about the board, the topics, the coursework and recent essay marks."
+  - title: "Choose your tutor"
+    body: "Two or three History tutor profiles within 24 hours, matched to your child's specification. A free 15-minute video call with the one you like comes before you pay anything."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, planning essays and annotating extracts on a shared whiteboard, with a replay afterwards. From £37 an hour, no contract."
+faqs:
+  - q: "My child has dyslexia. Can a History tutor help?"
+    a: "Yes. A tutor can teach clear essay plans, set and mark regular essays, and work at your child's pace. Ask the school about exam access arrangements as well."
+  - q: "How should my child approach interpretation questions?"
+    a: "By identifying each historian's argument, testing it against their own knowledge, and reaching a judgement on how convincing it is. A tutor practises this on past paper extracts every week."
+  - q: "Can a tutor help with the History coursework?"
+    a: "Yes, within the rules. The tutor helps choose a question, suggests reading and gives general feedback. The final writing must be your child's own."
+  - q: "How much does A-Level History tutoring cost?"
+    a: "From £37 an hour, agreed in advance. That includes the lesson, marked essays and a recording. No contract."
+reviews:
+  - "Raj|Parent of A-Level Student|Brilliant support and communication. We had the best tutor for history and sociology, Jacob, and this definitely influenced my son's amazing A level grades. Would not hesitate to recommend. Jacob also took account of and understood my son's struggles with dyslexia and how this affected his ability to study and get all the (vast) knowledge he has in his head into the paper. Such a struggle for these SEN children but they can achieve. We are so proud of our son and thank you Degree Gap for helping us!"
+  - "Alison|Parent of A-Level Student|My son has been receiving tutor lessons with Jacob Berry in A level History and subsequently A level Sociology since the beginning of this year.\nJacob has been such a tremendous support for my son, teaching him content as well as exam technique, with which, as a dyslexic, he really has needed additional support.\nJacob also sets him weekly essays as homework, marks and returns them which is just invaluable.\nHarry at The Degree Gap has also been outstanding - from day one when I first got in touch to now, when we are about to end our tutor sessions.  When I communicate his responses to me have always been immediate and highly supportive, plus credit to Harry for matching us with Jacob.\nI would not hesitate to recommend The Degree Gap and absolutely to recommend Jacob."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Charlotte|Student|I cannot recommend Harry enough. He was helpful welcoming and helped me achieve a grade higher than I was expected!"
+  - "Leo|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

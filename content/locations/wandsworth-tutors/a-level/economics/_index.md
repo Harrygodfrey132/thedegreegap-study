@@ -1,0 +1,53 @@
+---
+title: "Wandsworth A-Level Economics Tutors | The Degree Gap"
+nav_title: "Economics"
+description: "Data response answers ignoring the extract? Online A-Level Economics tutoring for Wandsworth sixth formers, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Wandsworth"
+level: "A-Level"
+subject: "Economics"
+hero_h1: "A-Level Economics Tutors for Wandsworth Students"
+hero_lead: "Your child writes a decent essay on inflation, then gets low marks because it never used the data in the extract. Our A-Level Economics tutors for Wandsworth students teach them to answer the question on the page."
+angle_eyebrow: "USE THE EXTRACT"
+angle_heading: "Why Data Response Questions Catch Out Wandsworth Students in A-Level Economics"
+angle_body_1: "A-Level Economics papers lean heavily on data response: a set of extracts, tables and charts, followed by questions that build to a long evaluative answer. The mark schemes reward students who use the data, quoting figures, spotting trends and applying them to the theory. Many students write a general answer from memory instead. Macroeconomics adds another layer, with questions on real economies that need up-to-date examples, and diagrams that must be drawn and explained accurately."
+angle_body_2: "The tutor teaches a routine for each extract: read the question first, mark the data that's relevant, and use at least one figure in every analysis point. Diagrams get regular practice until they're quick and correctly labelled. For macro, your child builds a short bank of recent real-world examples to use in essays. Every lesson ends with a timed question marked against the board's levels."
+angle_image: "/images/city-skyscrapers-business-district.jpg"
+angle_image_alt: "Office towers in a financial district, the kind of economy A-Level Economics studies"
+angle_stat_from: "Predicted"
+angle_stat_to: "A*"
+angle_stat_detail: "Lucas (A-Level Student) wrote on Google about “having achieved a predicted a* with his help” in “my economics a level course”."
+schools:
+  - "Saint Cecilia's Church of England School"
+  - "Ashcroft Technology Academy"
+  - "Graveney School"
+  - "Emanuel School"
+  - "Saint Francis Xavier Sixth Form College"
+steps_heading: "Starting A-Level Economics tutoring for a Wandsworth sixth former"
+steps_lead: "Year 12 or 13, any board. Profiles usually arrive within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask about the board, the year, recent marks and whether micro or macro is weaker."
+  - title: "Choose your tutor"
+    body: "Two or three Economics tutor profiles within 24 hours, matched to your child's specification. A free 15-minute video call with the one you like comes before you pay anything."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, drawing diagrams and planning answers on a shared whiteboard, with a replay afterwards. From £37, no contract."
+faqs:
+  - q: "How can my child get better at data response questions?"
+    a: "By practising a clear routine and always using the data. A tutor sets past paper extracts every week and gives feedback on how well each answer uses the evidence."
+  - q: "Does my child need to follow the news for A-Level Economics?"
+    a: "It helps, especially for macro. A tutor can help your child build a short list of examples that fit the main topics, so they don't need to read everything."
+  - q: "Who tutors Economics at The Degree Gap?"
+    a: "A number of tutors, each interviewed by Harry or Joe, with about 3% of applicants accepted. Harry, one of the founders, tutors Economics himself."
+  - q: "How much does A-Level Economics tutoring cost?"
+    a: "From £37 an hour, agreed in advance. That covers the lesson, marked practice and a recording. No contract."
+reviews:
+  - "J.O|A-Level Student|I was put into contact with Harry from a friend of mine who did economics in the year above me. And at first I was hesitant on getting a Tutor as I wasn’t sure if they were effective especially for the price they demand, but this wasn’t the case with Harry. He’s helped me massively with my essays, topics I didn’t understand beforehand and overall confidence with the subject. I highly recommend!"
+  - "Mahir|A-Level Student|Harry was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics - I'd highly recommend for anyone looking to consistently perform at their best."
+  - "Abby|Parent of A-Level Student|Harry has tutored my son in both maths and economics A-levels and has been fantastic. Harry has been professional, approachable and engaging, he has explained things clearly and has fully supported my son through the last 2 years. We are absolutely delighted with the results. Thank you!"
+  - "Ali|Grandparent|Harry did an amazing job helping my grandson who was struggling with his economics work. Thank you again, Harry, for all your hard work."
+  - "Lucas|A-Level Student|I was having trouble with some areas of my economics a level course before getting in contact with Harry. He walked me through everything I needed help with, from content I was weak with to exam technique that I was lacking. His insight, examples and willingness to go the extra step really helped me to regain my confidence in economics, having achieved a predicted a* with his help."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

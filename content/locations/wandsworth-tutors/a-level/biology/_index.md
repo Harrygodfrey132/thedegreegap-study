@@ -1,0 +1,53 @@
+---
+title: "Wandsworth A-Level Biology Tutors | The Degree Gap"
+nav_title: "Biology"
+description: "Aiming at medicine or biomedical science? Online A-Level Biology tutoring for Wandsworth sixth formers, matched to the board. From £37 an hour, no contract."
+layout: "level-subject"
+location: "Wandsworth"
+level: "A-Level"
+subject: "Biology"
+hero_h1: "A-Level Biology Tutors for Wandsworth Students"
+hero_lead: "The synoptic essay asks your child to link topics from across two years, and they freeze on where to start. Our A-Level Biology tutors for Wandsworth students teach them to connect the course."
+angle_eyebrow: "LINKING THE WHOLE COURSE"
+angle_heading: "Why Synoptic Questions and Statistics Decide A-Level Biology Grades for Wandsworth Students"
+angle_body_1: "With St George's medical school in Tooting just down the road, plenty of Wandsworth sixth formers taking Biology have medicine or biomedical science in mind. The top grades depend on the questions that pull the course together: synoptic essays or long answers linking, say, proteins to genetics to disease. Then there are statistics, chi-squared, t-tests and correlation, built into practical questions. Students who revise topic by topic find both hard, because neither sits neatly in one chapter."
+angle_body_2: "The tutor builds links between topics from Year 12, so your child gets used to asking where else an idea appears. Essay planning gets regular practice, with a simple structure. Statistics are taught as a short decision: which test, why, and what the result means. Content gaps get filled along the way, with exam questions at the end of every lesson."
+angle_image: "/images/human-anatomy-model.jpg"
+angle_image_alt: "A model of the human body, like the physiology in A-Level Biology"
+angle_stat_from: "E"
+angle_stat_to: "B"
+angle_stat_detail: "Keira (A-Level Student) wrote on Google: “Has definitely helped me increase my grades from an E to a B” The review doesn't name the subjects."
+schools:
+  - "Saint Cecilia's Church of England School"
+  - "Southfields Academy"
+  - "Graveney School"
+  - "Emanuel School"
+  - "Saint Francis Xavier Sixth Form College"
+steps_heading: "Starting A-Level Biology tutoring for a Wandsworth sixth former"
+steps_lead: "If medicine is the plan, tell us the deadlines. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask about the board, the year, weak topics and any course your child is aiming at."
+  - title: "Choose your tutor"
+    body: "Two or three Biology tutor profiles within 24 hours. A free 15-minute video call with your favourite comes first."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, with diagrams and essay plans on a shared whiteboard and a replay each time. From £37 an hour, no contract."
+faqs:
+  - q: "Can A-Level Biology tutoring help towards St George's or another medical school?"
+    a: "It can help with the grade, which is the first step. Each medical school publishes its own requirements for A-Levels, admissions tests and interviews, so check those first. A tutor then works on whatever is holding your child's Biology back."
+  - q: "How do synoptic questions work?"
+    a: "They ask students to use ideas from several topics in one answer. A tutor practises making those links regularly, so your child can see them quickly in the exam."
+  - q: "How do you choose your Biology tutors?"
+    a: "Harry or Joe interview every tutor, and about 3% of applicants are accepted. Each has at least two years' tutoring."
+  - q: "How much do A-Level Biology lessons cost?"
+    a: "From £37 an hour, agreed in advance, including the lesson, practice and a recording. No contract."
+reviews:
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Leo|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
+  - "Kasia|Parent|Harry is a great tutor. He's very helpful and knowledgeable. He's git goid understanding of student's needs as well as current situation when it comes to university education in the UK. His experience and expertise helped my son make some decisions about choosing A level subject and university course. I highly recommend Harry and Degree Gap."
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

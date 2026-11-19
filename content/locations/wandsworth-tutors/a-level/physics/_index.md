@@ -1,0 +1,53 @@
+---
+title: "Wandsworth A-Level Physics Tutors | The Degree Gap"
+nav_title: "Physics"
+description: "Practical questions and uncertainties costing A-Level Physics marks? Online A-Level Physics tutoring for Wandsworth sixth formers. From £37 an hour."
+layout: "level-subject"
+location: "Wandsworth"
+level: "A-Level"
+subject: "Physics"
+hero_h1: "A-Level Physics Tutors for Wandsworth Students"
+hero_lead: "Percentage uncertainty, error bars, a log graph to linearise: your child knows the physics but the practical questions keep catching them out. Our A-Level Physics tutors for Wandsworth students make those marks dependable."
+angle_eyebrow: "PRACTICAL SKILLS ON PAPER"
+angle_heading: "Why Practical Questions Cost Wandsworth Students So Many A-Level Physics Marks"
+angle_body_1: "A-Level Physics exams test practical skills on paper: uncertainties, error bars, choosing what to plot to get a straight line, and evaluating an experiment. These questions turn up across every paper, and they're often worth more than students expect. Many students spend their revision on content and leave these to chance. Then Year 13 brings fields, capacitors and nuclear physics, where the ideas get more abstract and the maths, with exponentials and logs, gets harder."
+angle_body_2: "The tutor teaches the practical skills as a set of routines, practised briefly in every lesson until they're quick. For the Year 13 topics, they build a clear picture first, comparing gravitational and electric fields side by side, then move to calculations and past paper questions. Your child's working is on the whiteboard throughout, so slips get caught where they happen."
+angle_image: "/images/physics-calculator-reflection-diagram.jpg"
+angle_image_alt: "A calculator and diagram for an A-Level Physics question"
+angle_stat_from: "E"
+angle_stat_to: "B"
+angle_stat_detail: "Not a Physics review. Keira (A-Level Student) wrote on Google: “Has definitely helped me increase my grades from an E to a B”"
+schools:
+  - "Saint Cecilia's Church of England School"
+  - "Ashcroft Technology Academy"
+  - "Graveney School"
+  - "Emanuel School"
+  - "Saint Francis Xavier Sixth Form College"
+steps_heading: "Starting A-Level Physics tutoring for a Wandsworth sixth former"
+steps_lead: "Any board, Year 12 or 13. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, around half an hour. We'll ask about the board, the year, and whether practical skills, content or maths is the weak spot."
+  - title: "Choose your tutor"
+    body: "Two or three Physics tutor profiles within 24 hours, matched to your child's specification. A free 15-minute video call with the one you like comes before you pay anything."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, with graphs and working on a shared whiteboard and a replay each time. From £37 an hour, no contract."
+faqs:
+  - q: "How are practical skills tested in A-Level Physics?"
+    a: "Through written questions in the exams, plus the practical endorsement, which the school assesses. A tutor helps with the exam questions on uncertainties, graphs and evaluating methods."
+  - q: "Is A-Level Physics much harder in Year 13?"
+    a: "Many students find it so. Fields, capacitors and nuclear physics are more abstract and more mathematical. Starting tutoring in Year 12 helps, but Year 13 is not too late."
+  - q: "Who are your Physics tutors?"
+    a: "Graduates and university students interviewed by Harry or Joe, with about 3% of applicants accepted. Each has at least two years' tutoring, and we check they can explain fields simply."
+  - q: "How much does A-Level Physics tutoring cost?"
+    a: "From £37 an hour, agreed before booking. That includes the lesson, practice and a recording. No contract."
+reviews:
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Kasia|Parent|Harry is a great tutor. He's very helpful and knowledgeable. He's git goid understanding of student's needs as well as current situation when it comes to university education in the UK. His experience and expertise helped my son make some decisions about choosing A level subject and university course. I highly recommend Harry and Degree Gap."
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

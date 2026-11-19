@@ -1,0 +1,52 @@
+---
+title: "Chelsea GCSE History Tutors | The Degree Gap"
+nav_title: "History"
+description: "New GCSE History topics after a school move? Online GCSE History tutoring for Chelsea students, matched to the board. From £37 an hour, no contract."
+layout: "level-subject"
+location: "Chelsea"
+level: "GCSE"
+subject: "History"
+hero_h1: "GCSE History Tutors for Chelsea Students"
+hero_lead: "Your child knows the story of the period, then gets a source question back with half marks and a note saying 'no judgement'. Our GCSE History tutors for Chelsea students teach them to argue, not just describe."
+angle_eyebrow: "DESCRIPTION IS NOT ENOUGH"
+angle_heading: "Why Chelsea Students Who Know Their GCSE History Still Miss the Top Marks"
+angle_body_1: "GCSE History courses differ a lot between boards and schools. One class might study Elizabethan England and Weimar Germany, another the American West and the Cold War. So a child who changes school can find themselves starting two topics from scratch. But even students who know the content well lose marks the same way: they describe what happened when the question asks how far, how useful or how convincing. The highest marks go to answers that reach a judgement and back it up."
+angle_body_2: "The tutor starts with the topics your child's school is examining, filling any that are new with a clear timeline and the key events. Then the lessons turn to the question types for your child's board: source utility, interpretations and the long essays. Your child learns to plan a judgement first and write towards it. Each week ends with a timed answer, marked against the mark scheme, so progress is easy to see."
+angle_image: "/images/historical-battle-painting.jpg"
+angle_image_alt: "A historical painting, like the sources GCSE History students analyse"
+angle_stat_from: "5"
+angle_stat_to: "6/7"
+angle_stat_detail: "These grades are from GCSE English, not History. Omo (Parent of GCSE Student) wrote on Google that a son in Year 10 “has improved from a grade 5 to a 6/7”."
+schools:
+  - "Chelsea Academy"
+  - "St Thomas More Language College"
+  - "More House School"
+  - "Queen's Gate School"
+steps_heading: "Starting GCSE History tutoring for a Chelsea student"
+steps_lead: "Tell us the board and topics if you know them. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "Half an hour or so with Harry or Joe, free. We'll ask about the board, the topics your child's school has chosen, and whether it's content or essays that cause trouble."
+  - title: "Choose your tutor"
+    body: "Two or three History tutor profiles within 24 hours, matched to your child's board. A free 15-minute video call with the one you like comes first."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, with essay plans and timelines on a shared whiteboard and a replay afterwards. From £37 an hour, no contract."
+faqs:
+  - q: "My child moved school and their new class studies different History topics. What now?"
+    a: "It's common and it can be fixed. The tutor builds the new topics quickly, with timelines and the key events, then moves on to practising the question types. Skills like analysing sources carry over between topics, so your child won't be starting entirely from scratch."
+  - q: "How can my child get better at source questions?"
+    a: "By judging the source rather than describing it. A tutor teaches your child to ask who made it, when and why, and how that affects how useful it is for the question. That's practised on real past paper sources every week."
+  - q: "Does GCSE History help with A-Level choices?"
+    a: "It's useful for A-Level History, English, Politics and Law, which all reward the same habit of building an argument. Sixth forms set their own grade requirements, so check the current ones for any school your child is considering."
+  - q: "How much do GCSE History lessons cost?"
+    a: "From £37 an hour, agreed before you book. That includes the lesson, marked practice and a recording. No contract or joining fee."
+reviews:
+  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. The website is easy to use and effective, I had no disappointment in scheduling lessons for my son. Tutors were polite and on time for their lessons."
+  - "Heidi|Parent|Emir, is simply amazing with our daughter. He 'gets' her totally, her sessions are helping her with her school work so much. We can't thank him enough ! Harry and Joe are always on hand should you need anything. Degreegap is an excellent company to work with, lots of excellent tutors avaliable to teach different subjects, great availability, very reasonably priced. Would highly recommend."
+  - "Eric|Parent|⭐⭐⭐⭐⭐ Excellent tutoring service. The team really takes the time to understand the student and find the right tutor rather than simply filling a slot. Professional, friendly, and genuinely focused on helping students succeed. Highly recommended!"
+  - "Matthew|Parent|The Degree Gap is an extremely well run tutoring business. They take the time to get to know your child and suggest the right tutors. It is great I got to try out as many tutors as I needed to before picking the right fit. We have been working with them for over a year now! No issues!"
+  - "Nazrul|Parent of GCSE Student|My daughter found the tutors were very helpful for her GCSE thank you"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

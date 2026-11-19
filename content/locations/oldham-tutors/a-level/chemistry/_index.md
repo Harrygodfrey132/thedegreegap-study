@@ -1,0 +1,53 @@
+---
+title: "Oldham A-Level Chemistry Tutors | The Degree Gap"
+nav_title: "Chemistry"
+description: "Are organic mechanisms and calculations costing your child marks? Online A-Level Chemistry tutoring for Oldham students, matched to the board. From £37."
+layout: "level-subject"
+location: "Oldham"
+level: "A-Level"
+subject: "Chemistry"
+hero_h1: "A-Level Chemistry Tutors for Oldham Students"
+hero_lead: "Your child chose Chemistry for medicine or pharmacy, and now the organic chemistry looks like a foreign language. Our A-Level Chemistry tutors for Oldham students make the patterns clear."
+angle_eyebrow: "THE SUBJECT BEHIND THE APPLICATION"
+angle_heading: "Why A-Level Chemistry Is the Grade Oldham Students Worry About Most"
+angle_body_1: "For a lot of Oldham students, Chemistry is the A-Level that a medicine, pharmacy or dentistry application depends on. It's also a big jump from GCSE. Calculations get longer and less guided. Organic chemistry brings mechanisms with curly arrows, which look like dozens of separate facts. Practical questions expect your child to explain errors and suggest improvements."
+angle_body_2: "The tutor teaches organic chemistry as a handful of patterns, so each new reaction feels familiar. Calculations are set out the same way every time, with units checked. Practical questions are practised from real papers. Applications for medicine and pharmacy, including at the Manchester universities, usually expect a strong Chemistry grade."
+angle_image: "/images/periodic-table-and-beaker.jpg"
+angle_image_alt: "A beaker in front of a periodic table, for A-Level Chemistry"
+angle_stat_from: "E"
+angle_stat_to: "B"
+angle_stat_detail: "From an E to a B: Keira, an A-Level Student, wrote on Google that the tutoring “definitely helped me increase my grades from an E to a B”. The subject isn't named."
+schools:
+  - "Oldham Sixth Form College"
+  - "The Blue Coat School"
+  - "Crompton House Church of England School"
+  - "North Chadderton School"
+  - "Oldham Hulme Grammar School"
+steps_heading: "Starting A-Level Chemistry lessons for an Oldham student"
+steps_lead: "If a mock or application deadline is close, let us know. Profiles usually arrive within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "About 30 minutes with Harry or Joe, free. We'll ask about the board, the year group, whether organic or physical chemistry is the bigger worry, and any course your child is aiming for."
+  - title: "Choose your tutor"
+    body: "Two or three Chemistry tutor profiles within 24 hours, matched to your child's specification. A free 15-minute video call with the one you choose comes before any payment."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, drawing mechanisms on a shared whiteboard, with a recording each time. From £37 an hour, no contract, and a new tutor if needed."
+faqs:
+  - q: "My child finds organic chemistry impossible to remember. Can a tutor help?"
+    a: "Usually, yes. Most students try to memorise each reaction separately. A tutor shows how a few mechanisms repeat, so there's far less to learn and more to understand."
+  - q: "Is A-Level Chemistry needed for medicine?"
+    a: "Most UK medical schools ask for it, but requirements vary. Check each university's course page for the current subjects and grades."
+  - q: "How do you choose your Chemistry tutors?"
+    a: "Harry or Joe interview every tutor, and about 3% of applicants are accepted. Each has at least two years' tutoring experience."
+  - q: "How much do A-Level Chemistry lessons cost?"
+    a: "From £37 an hour, agreed before booking, including a recording of each lesson. No contract."
+reviews:
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Leo|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

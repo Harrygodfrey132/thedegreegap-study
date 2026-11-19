@@ -1,0 +1,53 @@
+---
+title: "Oldham A-Level Physics Tutors | The Degree Gap"
+nav_title: "Physics"
+description: "Does your child follow the Physics but lose the calculation? Online A-Level Physics tutoring for Oldham students, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Oldham"
+level: "A-Level"
+subject: "Physics"
+hero_h1: "A-Level Physics Tutors for Oldham Students"
+hero_lead: "Your child follows the explanation in class and then can't get started on the calculation at home. Our A-Level Physics tutors for Oldham students practise the set-up until it becomes routine."
+angle_eyebrow: "UNDERSTANDING IT ISN'T THE SAME AS SOLVING IT"
+angle_heading: "Where Oldham Sixth Formers Lose the Most A-Level Physics Marks"
+angle_body_1: "A-Level Physics is as much a maths course as an ideas course. Mechanics needs vectors and resolved forces. Circuits and electric fields need confident rearranging. Waves and quantum topics are hard to picture. Many questions run over several steps, so one early slip costs every mark after it, and the student often can't see where it went wrong."
+angle_body_2: "The tutor starts every problem with a diagram and a list of what's known. Units are checked at each step. Past paper questions come in early, so your child gets used to the way they're worded. Physics leads to engineering, computing and science degrees at Manchester and beyond, and to degree apprenticeships across Greater Manchester."
+angle_image: "/images/physics-mechanics-force-diagram.jpg"
+angle_image_alt: "A force diagram for an A-Level Physics mechanics problem"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "From Cs to As: Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The review doesn't name the subjects."
+schools:
+  - "Oldham Sixth Form College"
+  - "The Blue Coat School"
+  - "Crompton House Church of England School"
+  - "North Chadderton School"
+  - "Oldham Hulme Grammar School"
+steps_heading: "Getting A-Level Physics lessons started in Oldham"
+steps_lead: "Mention any mock dates on the call. Profiles usually come within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask about the board, the year group, and which topics feel hardest."
+  - title: "Choose your tutor"
+    body: "Two or three Physics tutor profiles within 24 hours, matched to your child's specification. A free 15-minute video call with the one you choose comes before any payment."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, with diagrams and working on a shared whiteboard and a replay afterwards. From £37 an hour, no contract, and a new tutor if they don't get on."
+faqs:
+  - q: "Does my child need to take A-Level Maths alongside Physics?"
+    a: "It isn't always required, but it helps a great deal, and many engineering and physics degrees ask for both. Check the sixth form's guidance and the university course pages."
+  - q: "Why is my child doing well in Maths but struggling in Physics?"
+    a: "Physics asks them to choose the maths from a description of a situation. That's a different skill from solving a set-out equation, and it improves with practice."
+  - q: "How do you choose your Physics tutors?"
+    a: "Harry or Joe interview every tutor, and about 3% of applicants are accepted. Each has at least two years' tutoring."
+  - q: "How much do A-Level Physics lessons cost?"
+    a: "From £37 an hour, agreed in advance, with a recording of each lesson. No contract."
+reviews:
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

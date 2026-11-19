@@ -1,0 +1,52 @@
+---
+title: "Chelsea A-Level History Tutors | The Degree Gap"
+nav_title: "History"
+description: "A-Level History essays not reaching the top band? Online A-Level History tutoring for Chelsea sixth formers, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Chelsea"
+level: "A-Level"
+subject: "History"
+hero_h1: "A-Level History Tutors for Chelsea Students"
+hero_lead: "Your child knows the period inside out and still writes essays that tell the story. Our A-Level History tutors for Chelsea students teach them to argue from the first line."
+angle_eyebrow: "ARGUE, DON'T NARRATE"
+angle_heading: "Why Chelsea Students Who Know Their History Still Lose Marks at A-Level"
+angle_body_1: "A-Level History rewards argument. The essay questions ask how far, to what extent, how significant, and the top bands go to answers that take a position and sustain it. Students who know a lot often lose marks by including everything, in chronological order, with a judgement tacked on at the end. Then there are interpretation questions, which ask your child to assess historians' views, and the coursework, a long independent essay that needs a question narrow enough to answer well."
+angle_body_2: "The tutor teaches planning first: decide the answer, choose three or four factors, and rank them. Each paragraph then makes a point about the question, not the period. Your child practises with timed essays and interpretation extracts from past papers. For coursework, the tutor helps choose a manageable question and suggests reading, within the board's rules on help."
+angle_image: "/images/classical-library-books-and-busts.jpg"
+angle_image_alt: "Shelves of history books and classical busts in a library"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The review doesn't say which subjects."
+schools:
+  - "Chelsea Academy"
+  - "St Thomas More Language College"
+  - "The London Oratory School"
+  - "More House School"
+steps_heading: "Starting A-Level History tutoring for a Chelsea sixth former"
+steps_lead: "Tell us the board and the topics. Profiles usually arrive within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask about the board, the topics, the coursework title and recent essay marks."
+  - title: "Choose your tutor"
+    body: "Two or three History tutor profiles within 24 hours, matched to your child's course. Your child meets your favourite on a free 15-minute video call before anything is paid."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, planning essays together on a shared whiteboard, with a replay afterwards. From £37 an hour, no contract."
+faqs:
+  - q: "My child is dyslexic. Can A-Level History tutoring help?"
+    a: "Yes. Many students with dyslexia know a lot of History but find it hard to get it onto the page in time. A tutor can teach structured planning, set and mark regular essays, and work at your child's pace. Ask the school about any exam access arrangements too."
+  - q: "How does a tutor help with the coursework?"
+    a: "By helping your child choose a question that can be argued, suggesting reading and giving general feedback on structure. Boards limit the help allowed on final drafts, so the writing stays your child's own."
+  - q: "Is A-Level History useful for law or politics degrees?"
+    a: "It's widely respected for both, because it trains argument and the use of evidence. Check each university's current requirements, as few demand a specific subject for law."
+  - q: "How much does A-Level History tutoring cost?"
+    a: "From £37 an hour, agreed in advance. That covers the lesson, marked essays and a recording. No contract."
+reviews:
+  - "Alison|Parent of A-Level Student|My son has been receiving tutor lessons with Jacob Berry in A level History and subsequently A level Sociology since the beginning of this year.\nJacob has been such a tremendous support for my son, teaching him content as well as exam technique, with which, as a dyslexic, he really has needed additional support.\nJacob also sets him weekly essays as homework, marks and returns them which is just invaluable.\nHarry at The Degree Gap has also been outstanding - from day one when I first got in touch to now, when we are about to end our tutor sessions.  When I communicate his responses to me have always been immediate and highly supportive, plus credit to Harry for matching us with Jacob.\nI would not hesitate to recommend The Degree Gap and absolutely to recommend Jacob."
+  - "Raj|Parent of A-Level Student|Brilliant support and communication. We had the best tutor for history and sociology, Jacob, and this definitely influenced my son's amazing A level grades. Would not hesitate to recommend. Jacob also took account of and understood my son's struggles with dyslexia and how this affected his ability to study and get all the (vast) knowledge he has in his head into the paper. Such a struggle for these SEN children but they can achieve. We are so proud of our son and thank you Degree Gap for helping us!"
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

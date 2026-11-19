@@ -1,0 +1,53 @@
+---
+title: "Stanmore A-Level Chemistry Tutors | The Degree Gap"
+nav_title: "Chemistry"
+description: "Is A-Level Chemistry the grade standing between your child and an offer? Online A-Level Chemistry tutoring for Stanmore sixth formers. From £37 an hour."
+layout: "level-subject"
+location: "Stanmore"
+level: "A-Level"
+subject: "Chemistry"
+hero_h1: "A-Level Chemistry Tutors for Stanmore Students"
+hero_lead: "Your child chose Chemistry because medicine asks for it, and now it's the subject they dread. Our A-Level Chemistry tutors for Stanmore students go back to how electrons behave, so the rest starts to make sense."
+angle_eyebrow: "THE REQUIRED SUBJECT"
+angle_heading: "Why A-Level Chemistry Weighs So Heavily on Stanmore Sixth Formers"
+angle_body_1: "Chemistry is the subject that medicine, dentistry, veterinary science and pharmacy most often require, so many Stanmore students take it whether they love it or not. It is also one of the steepest climbs from GCSE. Organic mechanisms with curly arrows seem to need memorising one by one. Equilibrium, rates and buffer calculations stack several steps together. And the practical endorsement questions reappear in the written papers."
+angle_body_2: "The tutor starts with bonding and electron movement, because once your child sees why an arrow goes where it does, most mechanisms follow the same few patterns. Calculations are laid out the same way every time, with units carried through. Past paper questions come in every week. For a student whose offer depends on a Chemistry grade, a steady term of this usually matters more than late cramming."
+angle_image: "/images/chemistry-lab-glassware.jpg"
+angle_image_alt: "Glassware on a lab bench for an A-Level Chemistry practical"
+angle_stat_from: "E"
+angle_stat_to: "B"
+angle_stat_detail: "From an E to a B: Keira, an A-Level Student, wrote on Google that the tutoring “definitely helped me increase my grades from an E to a B”. The subject isn't named."
+schools:
+  - "North London Collegiate School"
+  - "Haberdashers' Elstree Schools"
+  - "St Dominic's Sixth Form College"
+  - "Park High School"
+  - "Avanti House Secondary School"
+steps_heading: "Getting A-Level Chemistry tutoring started in Stanmore"
+steps_lead: "If an offer depends on Chemistry, tell us the grade needed. Profiles normally arrive within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "Roughly half an hour with Harry or Joe, free. We'll ask about the board, the year, and whether organic, physical or inorganic is the weak area."
+  - title: "Choose your tutor"
+    body: "Two or three Chemistry tutor profiles within a day, matched to your child's specification. Your child meets one on a free 15-minute video call first."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, mechanisms drawn together on the whiteboard, every lesson recorded. From £37 an hour, no contract."
+faqs:
+  - q: "My child only took Chemistry for medicine and finds it hard. Is that unusual?"
+    a: "Not at all. Plenty of students take it as a requirement rather than a favourite. Understanding usually improves once the basics of bonding and moles are solid, and confidence follows."
+  - q: "How can my child stop memorising organic mechanisms?"
+    a: "By learning why electrons move. Most mechanisms then become variations on a few patterns, and a tutor practises them until your child can tackle one they haven't seen."
+  - q: "What experience do your Chemistry tutors have?"
+    a: "At least two years of tutoring each, and every one interviewed by Harry or Joe. About 3% of applicants are accepted."
+  - q: "Can we stop Chemistry tutoring once exams are over?"
+    a: "Yes. No contract, pay per lesson from £37 an hour, and give a day or two's notice."
+reviews:
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Leo|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

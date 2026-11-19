@@ -1,0 +1,53 @@
+---
+title: "Stanmore A-Level Physics Tutors | The Degree Gap"
+nav_title: "Physics"
+description: "Does your child follow the Physics but lose marks setting up calculations? Online A-Level Physics tutoring for Stanmore sixth formers. From £37 an hour."
+layout: "level-subject"
+location: "Stanmore"
+level: "A-Level"
+subject: "Physics"
+hero_h1: "A-Level Physics Tutors for Stanmore Students"
+hero_lead: "Your child can explain circular motion perfectly and then picks the wrong equation in the test. Our A-Level Physics tutors for Stanmore students teach them to set a problem up before they calculate anything."
+angle_eyebrow: "PICKING THE RIGHT EQUATION"
+angle_heading: "Where A-Level Physics Goes Wrong for Stanmore Students"
+angle_body_1: "Physics students often understand more than their marks show. The trouble is turning a paragraph of text into a set-up: which quantities are given, which equation links them, which direction counts as positive. Mechanics needs forces resolved. Fields and capacitors bring exponentials and logs. Long multi-step questions mean one early slip costs everything after it."
+angle_body_2: "The tutor makes your child sketch and label first, every time, and then pick the equation. Units are checked at each step. Practice papers come in early in Year 13. Physics leads to engineering, physics and computing degrees, and several of London's are easy to reach from Stanmore."
+angle_image: "/images/physics-mechanics-force-diagram.jpg"
+angle_image_alt: "A force diagram drawn for an A-Level Physics mechanics question"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "From Cs to As: Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The review doesn't name the subjects."
+schools:
+  - "Haberdashers' Elstree Schools"
+  - "North London Collegiate School"
+  - "St Dominic's Sixth Form College"
+  - "Canons High School"
+  - "Park High School"
+steps_heading: "Getting A-Level Physics lessons going in Stanmore"
+steps_lead: "Let us know when the next mock is. Profiles usually come within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask about the board, the year group, and the topics that feel hardest."
+  - title: "Choose your tutor"
+    body: "Two or three Physics tutor profiles within 24 hours. A free 15-minute video call with your choice comes before payment."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace with diagrams on a shared whiteboard, recorded each time. From £37 an hour, no contract."
+faqs:
+  - q: "Can an A-Level Physics tutor help my child towards engineering?"
+    a: "Yes, by working on the grade. Universities set their own requirements, often including Maths, so check those. The tutor focuses on whatever is costing marks."
+  - q: "Why does my child understand Physics but do badly in tests?"
+    a: "Usually the set-up. Knowing the idea isn't the same as choosing the right equation under time pressure. A tutor practises that step until it's routine."
+  - q: "Who are your Physics tutors?"
+    a: "Graduates and university students, interviewed by Harry or Joe, each with at least two years' tutoring. About 3% of applicants are accepted."
+  - q: "How much does A-Level Physics tutoring cost?"
+    a: "From £37 an hour, no contract, and you can stop any time."
+reviews:
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

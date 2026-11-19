@@ -1,0 +1,53 @@
+---
+title: "Wandsworth GCSE Chemistry Tutors | The Degree Gap"
+nav_title: "Chemistry"
+description: "Bonding and electrolysis not clicking? Online GCSE Chemistry tutoring for Wandsworth students, one-to-one and matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Wandsworth"
+level: "GCSE"
+subject: "Chemistry"
+hero_h1: "GCSE Chemistry Tutors for Wandsworth Students"
+hero_lead: "Your child can recite that ionic bonds involve electrons moving, then can't explain why salt has a high melting point. Our GCSE Chemistry tutors for Wandsworth students build the picture behind the words."
+angle_eyebrow: "WHAT'S HAPPENING TO THE ATOMS"
+angle_heading: "Why Bonding and Electrolysis Trip Up So Many Wandsworth Students in GCSE Chemistry"
+angle_body_1: "Bonding and structure are where GCSE Chemistry gets abstract. Ionic, covalent and metallic bonding, giant structures and simple molecules, and why each has the properties it does. Then electrolysis, with ions moving to electrodes and half equations to write. Students learn the key phrases but can't use them when a question asks about a substance they haven't seen. These topics come up on every paper in some form, and they feed straight into A-Level Chemistry."
+angle_body_2: "The tutor draws each type of bonding with your child, then asks them to predict properties from the structure before checking. Electrolysis is built up from what ions are, so the half equations follow logically rather than being learnt by rote. Each lesson ends with exam questions about unfamiliar substances, which is where the higher grades are decided."
+angle_image: "/images/periodic-table-and-beaker.jpg"
+angle_image_alt: "A beaker and periodic table, as used in GCSE Chemistry"
+angle_stat_from: "4-5"
+angle_stat_to: "8"
+angle_stat_detail: "These grades were in GCSE Physics, not Chemistry. Chamarika (Parent of GCSE Student) wrote on Trustpilot: “My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8”."
+schools:
+  - "Saint Cecilia's Church of England School"
+  - "Southfields Academy"
+  - "Ashcroft Technology Academy"
+  - "Graveney School"
+  - "Emanuel School"
+steps_heading: "Starting GCSE Chemistry tutoring for a Wandsworth student"
+steps_lead: "Any board, Triple or Combined. Profiles usually arrive within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About 30 minutes with Harry or Joe, free. We'll ask about the board, the tier and which Chemistry topics cost the most marks."
+  - title: "Choose your tutor"
+    body: "Two or three Chemistry tutor profiles within 24 hours. Your child meets the one you choose on a free 15-minute video call first."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, drawing structures and writing equations on a shared whiteboard, with a replay afterwards. From £37, no contract."
+faqs:
+  - q: "Why does my child find Chemistry harder than Biology?"
+    a: "Chemistry asks students to imagine things they can't see, like electrons and ions, and to do calculations. A tutor uses diagrams to make the invisible parts visible, which helps a lot of children."
+  - q: "What are half equations, and why are they hard?"
+    a: "They show what happens at each electrode in electrolysis, with electrons gained or lost. They're hard when students learn them as patterns without understanding ions. Once that's clear, they become much more manageable."
+  - q: "Do you tutor Combined Science Chemistry?"
+    a: "Yes. The tutor works from your child's specification, so the lessons match the content in their course."
+  - q: "Who are your Chemistry tutors?"
+    a: "Graduates and university students interviewed by Harry or Joe, with about 3% of applicants accepted and at least two years' tutoring each."
+reviews:
+  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. The tutors we have used are lovely.  The Degree Gap use an advanced online platform which enables interactive tuition. We also attended a free webinar from the Degree Gap which was very informative and added value. I highly recommend them."
+  - "Gilmoore|Parent of GCSE Student|Initially I was hesitant to enrol my son for online lessons. However, the company has well experienced, knowledgeable and helpful tutors. There is also flexibility around booking of lessons. At the end of the day, my son achieved the next top grade than what had been predicted in his mid-year school GCSE exams. I am forever indebted to The Degree Gap."
+  - "Dawn|Parent|The Degree Gap took time to understand my child’s worries. They paired me with Connor, who my daughter got on well with. Her confidence has skyrocketed since. Thanks again."
+  - "Maureen|Student|The Degree gap actually made tutoring approachable. It's the worst feeling when you are struggling, frustrated and feel helpless. I was matched with a great tutor who always made time for me. The software made it easy to navigate topics I found difficult. Having that reliable support was critical to my much improved grades. Thank you so much!"
+  - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

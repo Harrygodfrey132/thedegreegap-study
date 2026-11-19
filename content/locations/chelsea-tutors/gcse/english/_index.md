@@ -1,0 +1,53 @@
+---
+title: "Chelsea GCSE English Tutors | The Degree Gap"
+nav_title: "English"
+description: "Met a new set of GCSE English texts after a school move? Online GCSE English tutoring for Chelsea students, one-to-one. From £37 an hour, no contract."
+layout: "level-subject"
+location: "Chelsea"
+level: "GCSE"
+subject: "English"
+hero_h1: "GCSE English Tutors for Chelsea Students"
+hero_lead: "A new school can mean a new Shakespeare play, a new novel and a poetry anthology your child has never opened. Our GCSE English tutors for Chelsea students help them catch up on the texts and learn how the essays are marked."
+angle_eyebrow: "NEW TEXTS, NEW RULES"
+angle_heading: "Why GCSE English Is the Subject That Shows a Chelsea School Move Most"
+angle_body_1: "In English Literature, every school picks its own texts from the board's list. So a child who moves at 13, or arrives from abroad in Year 10, might join a class that's already read Macbeth and half an anthology. They're expected to quote from texts they've barely opened. And for children who've studied in French or an American system, the essay itself feels strange: a GCSE answer wants a clear argument about the writer's choices, built on short quotations, not a summary of the plot."
+angle_body_2: "The tutor starts with whichever text is coming up first in the exam or the next assessment, reads the key scenes with your child and builds a short bank of quotations they can actually remember. Then the lessons turn to writing: planning an answer in five minutes, opening with a clear point, and analysing a word or phrase rather than retelling the story. Language Paper practice runs alongside, with timed creative and persuasive writing marked against the board's criteria."
+angle_image: "/images/full-library-bookshelves.jpg"
+angle_image_alt: "Shelves of novels and plays like the set texts on a GCSE English Literature course"
+angle_stat_from: "5"
+angle_stat_to: "6/7"
+angle_stat_detail: "Omo (Parent of GCSE Student) wrote on Google that a son in Year 10 who “really struggled with English” has “improved from a grade 5 to a 6/7” after “six months of working with Malvina”."
+schools:
+  - "Chelsea Academy"
+  - "St Thomas More Language College"
+  - "More House School"
+  - "The London Oratory School"
+  - "Lycée Français Charles de Gaulle"
+steps_heading: "Starting GCSE English lessons for a Chelsea student"
+steps_lead: "Tell us the set texts if you know them. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "Half an hour or so with Harry or Joe, free. We'll ask about the board, the Literature texts, whether it's GCSE or IGCSE, and whether reading or writing is the bigger worry."
+  - title: "Choose your tutor"
+    body: "Two or three English tutor profiles within 24 hours, picked for your child's board and texts. A free 15-minute video call with the one you like comes before any payment."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, with essays planned and annotated on a shared whiteboard and a replay each time. From £37 an hour, no contract, and a different tutor if they don't click."
+faqs:
+  - q: "My child's first language isn't English. Can they still do well at GCSE English?"
+    a: "Yes. Plenty do. The exams reward clear analysis and controlled writing, which can be taught. A tutor works on the vocabulary for talking about a writer's methods, on sentence control in the writing tasks, and on building confidence with longer texts, at a pace that suits your child."
+  - q: "Can you help with texts my child's class has already finished?"
+    a: "Yes, and it's often the first job. The tutor reads the key scenes or chapters with your child, picks out the themes and characters questions usually ask about, and builds a short list of quotations. Then it's practice answers until the text feels familiar."
+  - q: "Do you cover English Language and Literature together?"
+    a: "Usually, yes, with some of each every week. They're different papers. Language rewards controlled writing and close reading of unseen extracts, and Literature wants an argument about texts your child knows. The tutor leans on whichever is costing more marks."
+  - q: "How are your English tutors chosen?"
+    a: "Harry or Joe interview each one, and about 3% of applicants are accepted. All have at least two years' tutoring. We look for people who can get a reluctant writer to put down a strong first paragraph."
+reviews:
+  - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
+  - "Jo|Parent of GCSE Student|We got in touch with The Degree Gap to help support our son to pass his English Language GCSE. Although we were close to the exam period when we started, his weekly tutor sessions made such a difference. He passed and has gained entrance to college without need for any re-sits. Thank you!"
+  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents.\n\nUPDATE: My daughter passed both English and Maths GCSE (4 and 5's). We are extremely grateful to your team especially Avery for the support she gave her in both subjects. Considering she missed a large chunk of the last 3 years at school due to a social anxiety illness, this is an amazing achievement for her."
+  - "Jessica|Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!"
+  - "Simone|Parent of GCSE Student|My son has just passed his English GCSE with a Grade 5 — he only needed a Grade 4, so we are absolutely over the moon and incredibly proud! 🎉👏 With all of my son SEN needs and the challenges he has faced throughout his education, there were times when we genuinely weren't sure he would get here. But today he has proved that anything is achievable with the right support, belief and determination. A huge thank you to Emir, Your encouragement and motivation has meant so much. We are so grateful for everything you have done. 🙏"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

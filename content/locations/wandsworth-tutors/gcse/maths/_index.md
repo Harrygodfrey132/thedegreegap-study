@@ -1,0 +1,53 @@
+---
+title: "Wandsworth GCSE Maths Tutors | The Degree Gap"
+nav_title: "Maths"
+description: "Is GCSE Maths a 6 when the sixth form wants a 7? Online GCSE Maths tutoring for Wandsworth students, matched to the board and tier. From £37 an hour."
+layout: "level-subject"
+location: "Wandsworth"
+level: "GCSE"
+subject: "Maths"
+hero_h1: "GCSE Maths Tutors for Wandsworth Students"
+hero_lead: "A 6 in Maths is a good grade, until the sixth form asks for a 7 to take A-Level Maths. Our GCSE Maths tutors for Wandsworth students find the Higher topics that make the difference."
+angle_eyebrow: "FROM A 6 TO A 7"
+angle_heading: "Why the Last Few Higher Topics Decide So Much for Wandsworth Students in GCSE Maths"
+angle_body_1: "Lots of Wandsworth sixth forms ask for a 7 or more in GCSE Maths before A-Level Maths or the sciences. The gap between a 6 and a 7 usually isn't the whole course. It's a set of Higher-only topics that come late in Year 11 and get rushed: algebraic proof, circle theorems, functions, vectors, the harder quadratics. They sit at the end of each paper, they're worth several marks, and a child who's never been shown how to start them leaves them blank."
+angle_body_2: "The tutor checks a recent paper first, then works through those topics one by one, with a worked example, then exam questions in rising difficulty. Alongside that, the lessons tidy up the easier marks a 6 student still drops, usually through rushed working. For a student on the Foundation tier, the plan is different: a secure 5, with the ratio, percentage and algebra questions that carry most of those marks."
+angle_image: "/images/maths-equations-close-up.jpg"
+angle_image_alt: "GCSE Maths working on a page, the kind of Higher-tier algebra a tutor goes through"
+angle_stat_from: "4-5"
+angle_stat_to: "8"
+angle_stat_detail: "These grades are from GCSE Physics, not Maths. Chamarika (Parent of GCSE Student) wrote on Trustpilot about a son with “a predicted 4-5 in Physics” who “made it an 8”."
+schools:
+  - "Saint Cecilia's Church of England School"
+  - "Southfields Academy"
+  - "Ark Bolingbroke Academy"
+  - "Graveney School"
+  - "Emanuel School"
+steps_heading: "Starting GCSE Maths tutoring for a Wandsworth student"
+steps_lead: "Tell us the grade the sixth form asks for. Profiles usually arrive within a day."
+steps:
+  - title: "A free call about your child"
+    body: "Around 30 minutes with Harry or Joe, free. We'll ask about the board, Higher or Foundation, the last mock and the grade your child needs next."
+  - title: "Choose your tutor"
+    body: "Two or three Maths tutor profiles within 24 hours. A free 15-minute video call with the one you like comes before you pay anything."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, with all the working on a shared whiteboard and a replay afterwards. From £37 an hour, no contract, and a new tutor if needed."
+faqs:
+  - q: "Should my child sit Higher or Foundation GCSE Maths?"
+    a: "The school usually decides, based on mocks. Foundation tops out at a 5, so Higher is needed for anything above that, including most A-Level Maths requirements. If your child is near the boundary, a tutor can help them feel secure on Higher before the decision is made."
+  - q: "What grade do Wandsworth sixth forms want for A-Level Maths?"
+    a: "It varies, and it often changes between years. Many ask for a 7, some for higher. Check the current prospectus of each sixth form your child is considering, then plan the tutoring around that number."
+  - q: "My child is good at Maths but careless. Can a tutor fix that?"
+    a: "Usually. Careless marks often come from working done in the head or crammed in a corner. The tutor gets your child to set out each step, watches it on the whiteboard, and shows how many marks it saves."
+  - q: "Who are your Maths tutors?"
+    a: "Graduates and university students, interviewed by Harry or Joe, with about 3% of applicants accepted and at least two years' tutoring each."
+reviews:
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. We opted for Avery and she was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back in her abilities and gave her the confidence to face Maths GCSE exams. Highly recommend Degree Gap and will be back again in September with my youngest embarking on her GCSEs"
+  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents.\n\nUPDATE: My daughter passed both English and Maths GCSE (4 and 5's). We are extremely grateful to your team especially Avery for the support she gave her in both subjects. Considering she missed a large chunk of the last 3 years at school due to a social anxiety illness, this is an amazing achievement for her."
+  - "Hermione|GCSE Student|Came here to search for a GCSE maths tutor and was recommended Rebecca Hanna by the very helpful Harry. Rebecca was nothing but helpful and comforting. I highly recommend her, especially since she helped me pass the GCSE! Thank you."
+  - "Nikola|iGCSE Student|The Degree Gap paired me with a great tutor for my igcse exams. Harry was eager and really knew his stuff about Maths. It was nice that i got a free trial call first, so i could see if it was a good match. Would highly recommend to a friend."
+  - "Isabel|Parent of iGCSE Student|Harry helped our son enormously with his maths and economics iGCSE prep. He was patient, fun and engaging - just what we needed. Highly recommended."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

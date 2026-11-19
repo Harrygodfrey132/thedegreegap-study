@@ -1,0 +1,52 @@
+---
+title: "Blackpool A-Level Maths Tutors | The Degree Gap"
+nav_title: "Maths"
+description: "Is A-Level Maths moving faster than your child can keep up? Online A-Level Maths tutoring for Blackpool sixth formers, matched to the board. From £37."
+layout: "level-subject"
+location: "Blackpool"
+level: "A-Level"
+subject: "Maths"
+hero_h1: "A-Level Maths Tutors for Blackpool Students"
+hero_lead: "Your child was one of the strongest in their GCSE Maths class and now gets stuck halfway through every long question. Our A-Level Maths tutors for Blackpool students find the algebra that's slowing them down and fix it first."
+angle_eyebrow: "WHEN THE ALGEBRA ISN'T AUTOMATIC"
+angle_heading: "Why Blackpool Students Find the Jump to A-Level Maths So Steep"
+angle_body_1: "A-Level Maths assumes the algebra from GCSE is fast and accurate. For a lot of students it isn't yet. Factorising, indices and rearranging take a moment's thought instead of none, and that hesitation adds up across a long question in calculus or trigonometry. Add Mechanics and Statistics, taught alongside Pure, and a student who changed to a new college at sixteen can be behind by Christmas without quite knowing why."
+angle_body_2: "The tutor goes through recent tests and spots where the errors begin, which is usually a line or two before the step that went wrong. Short daily drills make the algebra automatic, and weekly exam questions build the habit of setting work out cleanly. For students hoping to take Maths, Engineering or a science at Lancaster, UCLan or beyond, the Maths grade often carries the offer."
+angle_image: "/images/maths-equations-close-up.jpg"
+angle_image_alt: "Close-up of A-Level Maths working on calculus"
+angle_stat_from: "E/U"
+angle_stat_to: "C"
+angle_stat_detail: "From E and U to C: Joanna, Parent of A-Level Student, wrote on Google the tutoring helped “turn E and U grades into 3 C grades”. The subjects aren't named."
+schools:
+  - "Blackpool Sixth Form College"
+  - "Blackpool and The Fylde College"
+  - "AKS Lytham"
+  - "Baines School"
+steps_heading: "Starting A-Level Maths tutoring for a Blackpool sixth former"
+steps_lead: "Tell us when the next assessment is. Profiles normally arrive within a day."
+steps:
+  - title: "A free call about your child"
+    body: "Around 30 minutes with Harry or Joe, free. We'll ask about the board, Year 12 or 13, and whether Pure, Mechanics or Statistics is the weak spot."
+  - title: "Choose your tutor"
+    body: "Two or three Maths tutor profiles within 24 hours. Your child meets your choice on a free 15-minute video call before you commit."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, working together on a shared whiteboard, with a replay each time. From £37 an hour, no contract, and a new tutor if they don't get on."
+faqs:
+  - q: "My child got a 7 in GCSE Maths but is struggling at A-Level. Why?"
+    a: "Because A-Level needs the algebra to be quick and reliable, and a 7 can hide a few shaky areas. A tutor finds them and fixes them before they spread through the course."
+  - q: "Should my child take Further Maths?"
+    a: "It depends on the degree they're aiming for and whether their sixth form offers it. Check the university requirements first. A tutor can support either."
+  - q: "How are your Maths tutors chosen?"
+    a: "Harry or Joe interview every tutor. About 3% of applicants are accepted, and each has at least two years of tutoring."
+  - q: "What does A-Level Maths tutoring cost?"
+    a: "From £37 an hour, agreed before booking. No contract."
+reviews:
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "John|Parent of A-Level Student|Freddie really enjoyed his time with The Degree Gap. He got help with his three A levels (maths, computer science and business) and managed to get his number one choice attending Liverpool Uni to study a masters in Maths. The tutors were organised, supportive and spent time understanding where the knowledge gaps where to ensure best chance of success in exams! Highly recommended"
+  - "Abby|Parent of A-Level Student|Harry has tutored my son in both maths and economics A-levels and has been fantastic. Harry has been professional, approachable and engaging, he has explained things clearly and has fully supported my son through the last 2 years. We are absolutely delighted with the results. Thank you!"
+  - "Marfa|Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
+  - "Leo|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

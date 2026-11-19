@@ -1,0 +1,52 @@
+---
+title: "Blackpool A-Level Biology Tutors | The Degree Gap"
+nav_title: "Biology"
+description: "Is your child aiming for nursing, medicine or another health course? Online A-Level Biology tutoring for Blackpool sixth formers, by board. From £37 an hour."
+layout: "level-subject"
+location: "Blackpool"
+level: "A-Level"
+subject: "Biology"
+hero_h1: "A-Level Biology Tutors for Blackpool Students"
+hero_lead: "Your child can recite the stages of respiration and still runs out of time on the long answer. Our A-Level Biology tutors for Blackpool students teach them to use what they know when the question looks unfamiliar."
+angle_eyebrow: "FOR THE FUTURE NURSES, MIDWIVES AND DOCTORS"
+angle_heading: "Why A-Level Biology Weighs So Heavily for Blackpool Students Heading Into Healthcare"
+angle_body_1: "Plenty of Blackpool sixth formers taking Biology have a health course in mind, and the grade matters for almost all of them. The course is harder to revise than it looks. Long answers pull genetics, cells and ecology together. Photosynthesis and respiration are dense pathways that fall apart if they're only memorised. And practical questions ask for chi-squared or a t-test when your child least expects it."
+angle_body_2: "The tutor draws each pathway with your child, asking what goes in and what comes out at every stage, then sets questions that change one condition to check it's understood. Statistics get a short, regular slot. With Blackpool Victoria Hospital in town and nursing and health degrees at UCLan and Lancaster, healthcare is a realistic route from here, and those courses look closely at Biology."
+angle_image: "/images/fluorescent-cells-under-microscope.jpg"
+angle_image_alt: "Cells under a microscope, as in an A-Level Biology question on cell structure"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "From Cs to As: Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The review doesn't say which subjects."
+schools:
+  - "Blackpool Sixth Form College"
+  - "Blackpool and The Fylde College"
+  - "AKS Lytham"
+  - "Baines School"
+steps_heading: "Starting A-Level Biology lessons for a Blackpool sixth former"
+steps_lead: "If your child is applying for a health course, tell us the deadlines. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, about half an hour. We'll ask which board, which year, which topics feel shakiest, and whether there's a healthcare course in mind."
+  - title: "Choose your tutor"
+    body: "Two or three Biology tutor profiles within 24 hours, matched to your child's specification. A free 15-minute video call with your choice comes before any payment."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, drawing pathways on a shared whiteboard, with a replay each time. From £37 an hour, no contract, and a new tutor if they don't click."
+faqs:
+  - q: "Can A-Level Biology tutoring help my child towards a nursing or medicine degree?"
+    a: "It helps with the grades, which come first. Each university publishes its own requirements for subjects, grades and any admissions test, so check those for the course. A tutor then works on whatever is holding the Biology back, often the long answers and statistics."
+  - q: "Why is my child finding A-Level Biology hard after a good GCSE?"
+    a: "A-Level asks students to apply ideas, not just recall them. A question might describe an experiment they've never seen and ask what the results show. That takes practice, and a tutor gives it every week."
+  - q: "How do you choose your Biology tutors?"
+    a: "Harry or Joe interview every tutor, and about 3% of applicants are accepted. Each has at least two years' tutoring, and we check they can explain something like the Krebs cycle to someone who's lost."
+  - q: "How much do A-Level Biology lessons cost?"
+    a: "From £37 an hour, agreed in advance. That includes the lesson, practice set between lessons and a recording. No contract."
+reviews:
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Raj|Parent of A-Level Student|Brilliant support and communication. We had the best tutor for history and sociology, Jacob, and this definitely influenced my son's amazing A level grades. Would not hesitate to recommend. Jacob also took account of and understood my son's struggles with dyslexia and how this affected his ability to study and get all the (vast) knowledge he has in his head into the paper. Such a struggle for these SEN children but they can achieve. We are so proud of our son and thank you Degree Gap for helping us!"
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

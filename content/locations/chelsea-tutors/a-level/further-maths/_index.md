@@ -1,0 +1,52 @@
+---
+title: "Chelsea A-Level Further Maths Tutors | The Degree Gap"
+nav_title: "Further Maths"
+description: "Is Further Maths moving faster than your child can keep up? Online A-Level Further Maths tutoring for Chelsea students, one-to-one. From £37 an hour."
+layout: "level-subject"
+location: "Chelsea"
+level: "A-Level"
+subject: "Further Maths"
+hero_h1: "A-Level Further Maths Tutors for Chelsea Students"
+hero_lead: "Your child chose Further Maths because they love the subject, and now it's the one keeping them up at night. Our A-Level Further Maths tutors for Chelsea students help them keep pace with two Maths A-Levels at once."
+angle_eyebrow: "TWO A-LEVELS, ONE TIMETABLE"
+angle_heading: "Why Further Maths Is the A-Level Chelsea Students Most Often Fall Behind In Quietly"
+angle_body_1: "Further Maths is usually taught alongside A-Level Maths, sometimes in fewer lessons a week than a single subject gets, and often to a small group. It brings in material that's genuinely new: complex numbers, matrices, proof by induction, polar coordinates, differential equations. Each relies on the ordinary Maths course being solid. Students who choose it are usually strong, which is exactly why they don't say when they're lost. By the time it shows in a test, they're several topics behind."
+angle_body_2: "The tutor checks the Maths course first, because gaps there make Further Maths feel impossible. Then they work through the Further topics in your child's school order, with lots of proof practice, since writing a proof clearly is a skill most students have never been taught. Optional modules vary by school and board, so the tutor works from the exact papers your child will sit."
+angle_image: "/images/student-completing-maths-worksheet.jpg"
+angle_image_alt: "A student working through a page of A-Level Further Maths problems"
+angle_stat_from: "E/U"
+angle_stat_to: "C"
+angle_stat_detail: "These grades aren't from Further Maths. Joanna (Parent of A-Level Student) wrote on Google about a son “managing to turn E and U grades into 3 C grades”. The review doesn't say which subjects."
+schools:
+  - "The London Oratory School"
+  - "Chelsea Academy"
+  - "Queen's Gate School"
+  - "More House School"
+steps_heading: "Starting A-Level Further Maths tutoring for a Chelsea student"
+steps_lead: "Tell us which optional modules your child sits, if you know. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, around 30 minutes. We'll ask about the board, the optional papers, and how both Maths A-Levels are going."
+  - title: "Choose your tutor"
+    body: "Two or three Further Maths tutor profiles within 24 hours. Your child meets the one you like on a free 15-minute video call before anything is booked."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, with proofs and matrices worked on a shared whiteboard and a replay afterwards. From £37 an hour, no contract."
+faqs:
+  - q: "Should my child drop Further Maths if they're struggling?"
+    a: "Not straight away. Often the problem is a few topics from ordinary A-Level Maths, and once those are fixed Further Maths becomes manageable again. Talk to the school, and give focused help a term before deciding. Some university courses strongly prefer it, so check before dropping it."
+  - q: "Do your tutors know the optional modules?"
+    a: "We match on them. Further Maths options, such as further mechanics, statistics or decision maths, vary by board and school, so we ask which ones your child sits and choose a tutor who knows them."
+  - q: "Can a tutor help with STEP, MAT or TMUA preparation?"
+    a: "Some of our tutors can, and Further Maths is good preparation for all three. These tests need problem-solving beyond the A-Level syllabus, so start well before the test date. Check each university's current requirements."
+  - q: "How much does Further Maths tutoring cost?"
+    a: "From £37 an hour, agreed in advance. It includes the lesson, practice set between lessons and a recording. No contract."
+reviews:
+  - "Abby|Parent of A-Level Student|Harry has tutored my son in both maths and economics A-levels and has been fantastic. Harry has been professional, approachable and engaging, he has explained things clearly and has fully supported my son through the last 2 years. We are absolutely delighted with the results. Thank you!"
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Charlotte|Student|I cannot recommend Harry enough. He was helpful welcoming and helped me achieve a grade higher than I was expected!"
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

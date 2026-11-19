@@ -1,0 +1,53 @@
+---
+title: "Wandsworth GCSE Biology Tutors | The Degree Gap"
+nav_title: "Biology"
+description: "Genetics and inheritance not making sense? Online GCSE Biology tutoring for Wandsworth students, Triple or Combined, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Wandsworth"
+level: "GCSE"
+subject: "Biology"
+hero_h1: "GCSE Biology Tutors for Wandsworth Students"
+hero_lead: "Alleles, genotypes, phenotypes, and a Punnett square that never comes out right. Our GCSE Biology tutors for Wandsworth students untangle genetics so the inheritance questions become reliable marks."
+angle_eyebrow: "GENES, ALLELES AND PROBABILITY"
+angle_heading: "Why Genetics Is the GCSE Biology Topic Wandsworth Students Find Hardest to Pin Down"
+angle_body_1: "Genetics brings a lot of new words at once, and they sound alike. Gene, allele, chromosome, genotype, phenotype, homozygous, heterozygous. Mix two of them up and an answer falls apart. Then come the genetic crosses, where students have to draw a Punnett square, work out the offspring and give a probability or ratio. It's a small topic in the specification but a regular source of exam questions, and children who are otherwise confident in Biology often dread it."
+angle_body_2: "The tutor starts with the vocabulary, building each word from the one before with simple diagrams, until your child can explain them in their own words. Then come crosses, from simple examples to family trees and sex-linked questions where the board includes them. Probability gets practised with the maths written out. Once genetics is secure, lessons move on to whatever else is costing marks, often the six-mark answers on the body."
+angle_image: "/images/fluorescent-cells-under-microscope.jpg"
+angle_image_alt: "Cells under a microscope, like the material in a GCSE Biology lesson"
+angle_stat_from: "5"
+angle_stat_to: "6/7"
+angle_stat_detail: "These grades are from GCSE English, not Biology. Omo (Parent of GCSE Student) wrote on Google that a son in Year 10 “has improved from a grade 5 to a 6/7”."
+schools:
+  - "Saint Cecilia's Church of England School"
+  - "Southfields Academy"
+  - "Ashcroft Technology Academy"
+  - "Graveney School"
+  - "Emanuel School"
+steps_heading: "Starting GCSE Biology lessons for a Wandsworth student"
+steps_lead: "Triple or Combined, any board. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask about the board, Triple or Combined, and which topics come back with low marks."
+  - title: "Choose your tutor"
+    body: "Two or three Biology tutor profiles within 24 hours. A free 15-minute video call with the one you like comes before you pay."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, with diagrams and crosses drawn on a shared whiteboard and a replay each time. From £37 an hour, no contract."
+faqs:
+  - q: "Is GCSE Biology mostly memorising?"
+    a: "There's a lot to learn, but plenty of the marks are for applying it: explaining data, describing processes in order, and genetics questions. A tutor helps with both, using recall quizzes and exam practice."
+  - q: "My child wants to do A-Level Biology. What grade do they need?"
+    a: "It depends on the sixth form, and it can change. Many ask for a 6 or 7 in Biology, or in Combined Science. Check the current requirements of any school your child is considering."
+  - q: "Can lessons cover Combined Science Biology only?"
+    a: "Yes. The tutor works from your child's specification, so lessons cover only the Biology content in their course."
+  - q: "How much do GCSE Biology lessons cost?"
+    a: "From £37 an hour, agreed before booking. That includes the lesson, practice questions and a recording. No contract."
+reviews:
+  - "Sam|Parent of GCSE Student|Excellent experience. Founders are accessible, hands on, responsive and flexible. As are the tutors - quality all round. It was great to be able to trial a few to find the right fit, who my daughter felt most comfortable with. She got at least a grade higher in GCSEs because of the tuition which helped her get into a top school (grammar) for As."
+  - "Nazrul|Parent of GCSE Student|My daughter found the tutors were very helpful for her GCSE thank you"
+  - "Heidi|Parent|Emir, is simply amazing with our daughter. He 'gets' her totally, her sessions are helping her with her school work so much. We can't thank him enough ! Harry and Joe are always on hand should you need anything. Degreegap is an excellent company to work with, lots of excellent tutors avaliable to teach different subjects, great availability, very reasonably priced. Would highly recommend."
+  - "Eric|Parent|⭐⭐⭐⭐⭐ Excellent tutoring service. The team really takes the time to understand the student and find the right tutor rather than simply filling a slot. Professional, friendly, and genuinely focused on helping students succeed. Highly recommended!"
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

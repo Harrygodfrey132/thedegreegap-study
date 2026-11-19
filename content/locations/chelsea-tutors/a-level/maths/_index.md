@@ -1,0 +1,53 @@
+---
+title: "Chelsea A-Level Maths Tutors | The Degree Gap"
+nav_title: "Maths"
+description: "Finding A-Level Maths a big step up from GCSE or IGCSE? Online A-Level Maths tutoring for Chelsea sixth formers, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Chelsea"
+level: "A-Level"
+subject: "Maths"
+hero_h1: "A-Level Maths Tutors for Chelsea Students"
+hero_lead: "Your child got a top grade at GCSE, then the first A-Level test came back covered in red, mostly for algebra slips. Our A-Level Maths tutors for Chelsea students rebuild the foundations under the new content."
+angle_eyebrow: "THE ALGEBRA UNDERNEATH"
+angle_heading: "Why Strong GCSE Students in Chelsea Struggle in the First Term of A-Level Maths"
+angle_body_1: "A-Level Maths moves fast and assumes a lot. Differentiation, integration and trigonometric identities all rely on algebra being quick and accurate: factorising, indices, surds, rearranging. At GCSE a student could get a top grade with some of that shaky, because marks were spread across simpler questions. At A-Level one slip early in a ten-mark question costs the lot. Students who sat IGCSE Maths, or came from a different system, often meet some topics at a different depth too, and the first term exposes it."
+angle_body_2: "The tutor starts with a recent test and finds where the working breaks down, usually a handful of algebra habits rather than anything to do with calculus. Those get fixed first, with short daily practice. Then lessons follow the school's teaching order, with exam-style questions on each topic and regular practice on the statistics and mechanics papers, which often get less class time than pure."
+angle_image: "/images/maths-equations-close-up.jpg"
+angle_image_alt: "Handwritten A-Level Maths working, the kind of algebra a tutor checks line by line"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "From Cs to As: Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The review doesn't say which subjects."
+schools:
+  - "Chelsea Academy"
+  - "St Thomas More Language College"
+  - "The London Oratory School"
+  - "More House School"
+  - "Queen's Gate School"
+steps_heading: "Starting A-Level Maths tutoring for a Chelsea sixth former"
+steps_lead: "Year 12 or Year 13, any board. Profiles usually arrive within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About 30 minutes with Harry or Joe, free. We'll ask about the board, Year 12 or 13, recent test results, and whether Further Maths is in the picture."
+  - title: "Choose your tutor"
+    body: "Two or three Maths tutor profiles within 24 hours, matched to your child's specification. A free 15-minute video call with the one you like comes before any payment."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, with every line of working on a shared whiteboard and a replay each time. From £37 an hour, no contract."
+faqs:
+  - q: "My child got a 9 at GCSE Maths. Why are they struggling now?"
+    a: "It's very common. A-Level Maths needs fluent algebra all the time, and long questions where one early slip costs everything. A grade 9 says your child can do the work, but some habits that were good enough at GCSE won't be now. A tutor finds those and fixes them quickly."
+  - q: "Can you help with the statistics and mechanics parts?"
+    a: "Yes. Many students find these the hardest because they get less class time. The tutor works from your child's board, practising the large data set questions and the mechanics problems that need careful diagrams."
+  - q: "Do your tutors help with STEP or the TMUA?"
+    a: "Some do, and we can match for it. Those tests need problem-solving well beyond the A-Level course, so the tutor will need to know which universities and courses your child is aiming for. Check each university's current admissions test requirements."
+  - q: "How much does A-Level Maths tutoring cost?"
+    a: "From £37 an hour, agreed before anything's booked. That includes the lesson, practice between lessons and a recording. No contract."
+reviews:
+  - "Abby|Parent of A-Level Student|Harry has tutored my son in both maths and economics A-levels and has been fantastic. Harry has been professional, approachable and engaging, he has explained things clearly and has fully supported my son through the last 2 years. We are absolutely delighted with the results. Thank you!"
+  - "John|Parent of A-Level Student|Freddie really enjoyed his time with The Degree Gap. He got help with his three A levels (maths, computer science and business) and managed to get his number one choice attending Liverpool Uni to study a masters in Maths. The tutors were organised, supportive and spent time understanding where the knowledge gaps where to ensure best chance of success in exams! Highly recommended"
+  - "Leo|Student|The time I have spent with my tutor here has  really valuable.  He has helped so much with a range of topics across economics and maths. He explains things really clearly and makes the sessions enjoyable."
+  - "Marfa|Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

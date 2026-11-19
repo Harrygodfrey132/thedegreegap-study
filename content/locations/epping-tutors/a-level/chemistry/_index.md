@@ -1,0 +1,53 @@
+---
+title: "Epping A-Level Chemistry Tutors | The Degree Gap"
+nav_title: "Chemistry"
+description: "Are mole calculations and mechanisms costing your child marks? Online A-Level Chemistry tutoring for Epping sixth formers, by board. From £37 an hour."
+layout: "level-subject"
+location: "Epping"
+level: "A-Level"
+subject: "Chemistry"
+hero_h1: "A-Level Chemistry Tutors for Epping Students"
+hero_lead: "Your child's first A-Level Chemistry test came back with a grade they'd never had before. Our A-Level Chemistry tutors for Epping students go back to the ideas underneath and rebuild from there."
+angle_eyebrow: "THE FIRST TEST IN YEAR 12"
+angle_heading: "Why A-Level Chemistry Feels Like a Different Subject to Epping Students"
+angle_body_1: "Few subjects change as much between GCSE and A-Level as Chemistry. Mole calculations get longer, with less guidance on each step. Organic chemistry brings curly arrow mechanisms that seem to need memorising one by one. Equilibrium and rates chain several calculations together, so one early slip spoils the rest. Students who were comfortable at GCSE often hit their first low mark in the autumn of Year 12."
+angle_body_2: "The tutor starts from bonding and where the electrons are, so mechanisms become something your child can reason through. Calculations are set out the same way every time, with units kept. Past paper questions come in each week. Chemistry is required for medicine, pharmacy and many science degrees, so it's often the grade that matters most."
+angle_image: "/images/chemistry-lab-glassware.jpg"
+angle_image_alt: "Lab glassware for an A-Level Chemistry practical"
+angle_stat_from: "E"
+angle_stat_to: "B"
+angle_stat_detail: "From an E to a B: Keira, an A-Level Student, wrote on Google that the tutoring “definitely helped me increase my grades from an E to a B”. The subject isn't named."
+schools:
+  - "Epping St John's Church of England School"
+  - "Davenant Foundation School"
+  - "Roding Valley High School"
+  - "Chigwell School"
+  - "Bancroft's School"
+steps_heading: "Getting A-Level Chemistry tutoring started in Epping"
+steps_lead: "If mocks are close, mention it. Tutor profiles normally arrive within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "Roughly 30 minutes with Harry or Joe, free. We'll ask about the board, the year group, and whether organic, physical or inorganic is the weak point."
+  - title: "Choose your tutor"
+    body: "Two or three Chemistry tutor profiles within a day. Your child meets one on a free 15-minute video call before you commit."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, mechanisms drawn together on the whiteboard, every lesson recorded. From £37 an hour, no contract."
+faqs:
+  - q: "My child's first A-Level Chemistry test went badly. Should we worry?"
+    a: "Not yet. It's very common, and it's useful, because it shows exactly where the gaps are. A tutor goes through the marked test and starts on those topics."
+  - q: "How can my child get better at organic mechanisms?"
+    a: "By understanding why electrons move rather than memorising each mechanism. Most follow a few patterns, and a tutor practises them until new ones make sense."
+  - q: "What experience do your Chemistry tutors have?"
+    a: "At least two years of tutoring each, interviewed by Harry or Joe. About 3% of applicants are accepted."
+  - q: "Can we stop Chemistry tutoring after the exams?"
+    a: "Yes. No contract, pay per lesson from £37 an hour, with a day or two's notice."
+reviews:
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Leo|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

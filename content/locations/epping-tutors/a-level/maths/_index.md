@@ -1,0 +1,53 @@
+---
+title: "Epping A-Level Maths Tutors | The Degree Gap"
+nav_title: "Maths"
+description: "Is your child's A-Level Maths falling apart on the long questions? Online A-Level Maths tutoring for Epping sixth formers, by board. From £37, no contract."
+layout: "level-subject"
+location: "Epping"
+level: "A-Level"
+subject: "Maths"
+hero_h1: "A-Level Maths Tutors for Epping Students"
+hero_lead: "Your child starts a ten-mark question confidently and loses the thread halfway down the page. Our A-Level Maths tutors for Epping students make the working tidy enough that the second half holds together."
+angle_eyebrow: "HALFWAY DOWN THE PAGE"
+angle_heading: "Why Epping Students Lose Their Way in Long A-Level Maths Questions"
+angle_body_1: "A-Level Maths questions are much longer than anything at GCSE. A single question might need a substitution, an integral and a trig identity, one after another. When the working is messy, students lose track of where they are and drop marks in the second half. Statistics wants conclusions written carefully in context. Mechanics needs a clear model and diagram before any equation."
+angle_body_2: "The tutor sets out a way of laying out working that your child uses every time, one step per line. Weak algebra gets regular short practice. Each lesson ends with a full exam question under time pressure. A-Level Maths supports degrees from economics to engineering, whether in London down the Central line or further afield."
+angle_image: "/images/maths-equations-close-up.jpg"
+angle_image_alt: "A-Level Maths calculus working written out step by step"
+angle_stat_from: "E/U"
+angle_stat_to: "C"
+angle_stat_detail: "From E and U to C: Joanna, Parent of A-Level Student, wrote on Google that the tutoring helped “turn E and U grades into 3 C grades”. The subjects aren't named."
+schools:
+  - "Epping St John's Church of England School"
+  - "Davenant Foundation School"
+  - "Roding Valley High School"
+  - "Chigwell School"
+  - "Bancroft's School"
+steps_heading: "Starting A-Level Maths tutoring for an Epping sixth former"
+steps_lead: "Mention any mock dates. Profiles usually arrive within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask about the board, Year 12 or 13, and whether Pure, Statistics or Mechanics is the weak spot."
+  - title: "Choose your tutor"
+    body: "Two or three Maths tutor profiles within 24 hours. Your child meets one on a free 15-minute video call first."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, working on a shared whiteboard, with a replay each time. From £37 an hour, no contract."
+faqs:
+  - q: "Why is my child struggling with A-Level Maths after a good GCSE?"
+    a: "Usually because A-Level needs quick, accurate algebra and careful layout across long questions. A tutor finds the specific weakness and fixes it."
+  - q: "Should my child take Further Maths?"
+    a: "It depends on the degree and whether the sixth form offers it. Check university requirements first. A tutor can help either way."
+  - q: "How are Maths tutors chosen?"
+    a: "Harry or Joe interview every tutor, about 3% are accepted, and each has at least two years' tutoring."
+  - q: "What does A-Level Maths tutoring cost?"
+    a: "From £37 an hour, agreed before booking, no contract."
+reviews:
+  - "John|Parent of A-Level Student|Freddie really enjoyed his time with The Degree Gap. He got help with his three A levels (maths, computer science and business) and managed to get his number one choice attending Liverpool Uni to study a masters in Maths. The tutors were organised, supportive and spent time understanding where the knowledge gaps where to ensure best chance of success in exams! Highly recommended"
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Abby|Parent of A-Level Student|Harry has tutored my son in both maths and economics A-levels and has been fantastic. Harry has been professional, approachable and engaging, he has explained things clearly and has fully supported my son through the last 2 years. We are absolutely delighted with the results. Thank you!"
+  - "Marfa|Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

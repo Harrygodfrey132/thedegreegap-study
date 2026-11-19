@@ -1,0 +1,53 @@
+---
+title: "Wandsworth A-Level Further Maths Tutors | The Degree Gap"
+nav_title: "Further Maths"
+description: "Few Further Maths lessons on the timetable? Online A-Level Further Maths tutoring for Wandsworth students, one-to-one. From £37 an hour, no contract."
+layout: "level-subject"
+location: "Wandsworth"
+level: "A-Level"
+subject: "Further Maths"
+hero_h1: "A-Level Further Maths Tutors for Wandsworth Students"
+hero_lead: "Your child's sixth form can only fit in a few Further Maths lessons a week, and a lot is left to independent study. Our A-Level Further Maths tutors for Wandsworth students fill in the rest."
+angle_eyebrow: "WHEN THE TIMETABLE IS THIN"
+angle_heading: "Why Wandsworth Students Taking Further Maths Often Need More Teaching Time"
+angle_body_1: "Further Maths is a full A-Level, but not every sixth form can give it full teaching time. Groups are small, and some schools fit it into fewer lessons or combine year groups. Some students take it with very little class time at all. That leaves a lot of hard material, matrices, complex numbers, proof by induction, hyperbolic functions, to self-study. Strong students can manage for a while, but by Year 13 many are working through topics alone that they never really understood."
+angle_body_2: "The tutor works as a second teacher: going through new topics before or after class, checking proofs and working, and setting past paper questions on each. Optional modules vary by board and school, so lessons follow your child's exact papers. Gaps in ordinary A-Level Maths get fixed along the way, because Further Maths depends on them."
+angle_image: "/images/maths-equations-close-up.jpg"
+angle_image_alt: "Handwritten equations, like A-Level Further Maths working"
+angle_stat_from: "Mock"
+angle_stat_to: "+2"
+angle_stat_detail: "Not a Further Maths review. Daljit (Parent of A-Level Student) wrote on Google: “My son gained almost two grades higher than jis year 13 mock paper.” The review doesn't name the subject."
+schools:
+  - "Saint Cecilia's Church of England School"
+  - "Southfields Academy"
+  - "Graveney School"
+  - "Emanuel School"
+  - "Saint Francis Xavier Sixth Form College"
+steps_heading: "Starting A-Level Further Maths tutoring for a Wandsworth student"
+steps_lead: "Tell us the optional papers if you know them. Profiles usually arrive within a day."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, about half an hour. We'll ask about the board, the options, how much class time there is and how Maths is going."
+  - title: "Choose your tutor"
+    body: "Two or three Further Maths tutor profiles within 24 hours. Your child meets the one you like on a free 15-minute video call first."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, with proofs and working on a shared whiteboard and a replay afterwards. From £37 an hour, no contract."
+faqs:
+  - q: "My child's school doesn't offer Further Maths. Can they still take it?"
+    a: "Sometimes. Some students take it with outside support and sit the exams through their school or another exam centre. Talk to the school first about whether it can enter your child. A tutor can then teach the course."
+  - q: "Do universities want Further Maths?"
+    a: "Some maths, physics, engineering and computer science courses strongly prefer it, and a few require it. Check each university's current requirements."
+  - q: "Can a tutor help with STEP or the TMUA?"
+    a: "Some of our tutors can. These tests go beyond the A-Level syllabus, so start preparing well before the test dates."
+  - q: "How much does Further Maths tutoring cost?"
+    a: "From £37 an hour, agreed in advance. That includes the lesson, practice and a recording. No contract."
+reviews:
+  - "John|Parent of A-Level Student|Freddie really enjoyed his time with The Degree Gap. He got help with his three A levels (maths, computer science and business) and managed to get his number one choice attending Liverpool Uni to study a masters in Maths. The tutors were organised, supportive and spent time understanding where the knowledge gaps where to ensure best chance of success in exams! Highly recommended"
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Kasia|Parent|Harry is a great tutor. He's very helpful and knowledgeable. He's git goid understanding of student's needs as well as current situation when it comes to university education in the UK. His experience and expertise helped my son make some decisions about choosing A level subject and university course. I highly recommend Harry and Degree Gap."
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Leo|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

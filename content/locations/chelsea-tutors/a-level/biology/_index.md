@@ -1,0 +1,53 @@
+---
+title: "Chelsea A-Level Biology Tutors | The Degree Gap"
+nav_title: "Biology"
+description: "Aiming at medicine and finding A-Level Biology hard work? Online A-Level Biology tutoring for Chelsea sixth formers, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Chelsea"
+level: "A-Level"
+subject: "Biology"
+hero_h1: "A-Level Biology Tutors for Chelsea Students"
+hero_lead: "Your child has learnt the Krebs cycle three times and still can't explain it when a question changes one condition. Our A-Level Biology tutors for Chelsea students teach them to apply it, not just recall it."
+angle_eyebrow: "APPLYING, NOT REMEMBERING"
+angle_heading: "Why A-Level Biology Gets Harder for Chelsea Students Just When It Matters Most"
+angle_body_1: "Lots of Chelsea sixth formers taking Biology have medicine, dentistry or veterinary science in mind, so the grade carries a lot of weight. And the course changes character from GCSE. Questions describe an experiment your child has never seen and ask what the data shows. Respiration and photosynthesis need understanding at each stage, not a list of names. Statistics such as chi-squared and the t-test turn up inside practical questions. A student who did well at GCSE by learning facts can feel suddenly lost."
+angle_body_2: "The tutor draws each pathway with your child, asking what goes in and comes out at every step, then sets questions that change something: a poison, a temperature, a missing enzyme. Unfamiliar-context questions get regular practice, as do the statistics tests. Essays and synoptic questions, which pull the whole course together, come in from Year 12 so they never feel new in Year 13."
+angle_image: "/images/fluorescent-cells-under-microscope.jpg"
+angle_image_alt: "Cells under a microscope, as in an A-Level Biology question on cell structure"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The review doesn't say which subjects."
+schools:
+  - "Chelsea Academy"
+  - "St Thomas More Language College"
+  - "The London Oratory School"
+  - "More House School"
+  - "Queen's Gate School"
+steps_heading: "Starting A-Level Biology lessons for a Chelsea sixth former"
+steps_lead: "If medicine is the plan, tell us the admissions test dates. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask about the board, Year 12 or 13, the weakest topics, and any course your child is aiming for."
+  - title: "Choose your tutor"
+    body: "Two or three Biology tutor profiles within 24 hours. A free 15-minute video call with the one you like comes before any payment."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, with pathways and graphs drawn on a shared whiteboard and a replay each time. From £37 an hour, no contract."
+faqs:
+  - q: "Can A-Level Biology tutoring help with a medicine application?"
+    a: "It helps with the grade, which is the first hurdle. Medical schools also look at admissions tests, work experience and interviews, which are separate, and each publishes its own requirements. A tutor works on the Biology that's holding your child back, and on explaining scientific ideas clearly."
+  - q: "Why is my child struggling with A-Level Biology after a good GCSE?"
+    a: "Because A-Level asks students to apply ideas to new situations. That's a skill, and it improves with practice. A tutor gives your child plenty of unfamiliar questions and shows them how to break each one down."
+  - q: "How do you choose your Biology tutors?"
+    a: "Harry or Joe interview every tutor, and about 3% of applicants are accepted. Each has at least two years' tutoring. We check they can explain something like the Krebs cycle to a student who's lost."
+  - q: "How much do A-Level Biology lessons cost?"
+    a: "From £37 an hour, agreed in advance. That includes the lesson, practice questions and a recording. No contract."
+reviews:
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Charlotte|Student|I cannot recommend Harry enough. He was helpful welcoming and helped me achieve a grade higher than I was expected!"
+  - "Theresa|Parent|Harry and Joe were extremely helpful with a wealth of knowledge and contacts that helped my son to follow the right path."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

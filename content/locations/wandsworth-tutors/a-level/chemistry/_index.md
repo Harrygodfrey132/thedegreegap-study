@@ -1,0 +1,53 @@
+---
+title: "Wandsworth A-Level Chemistry Tutors | The Degree Gap"
+nav_title: "Chemistry"
+description: "Equilibria and pH calculations going wrong? Online A-Level Chemistry tutoring for Wandsworth sixth formers, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Wandsworth"
+level: "A-Level"
+subject: "Chemistry"
+hero_h1: "A-Level Chemistry Tutors for Wandsworth Students"
+hero_lead: "Kc, Kp, buffers and rate equations: your child follows the worked examples, then can't do one alone. Our A-Level Chemistry tutors for Wandsworth students make physical chemistry calculations reliable."
+angle_eyebrow: "THE CALCULATIONS"
+angle_heading: "Why Physical Chemistry Calculations Hold Back So Many Wandsworth Students at A-Level"
+angle_body_1: "Physical chemistry is where A-Level Chemistry turns most mathematical. Rate equations and orders of reaction, equilibrium constants, pH of strong and weak acids, buffers, enthalpy and entropy. Each calculation has several steps, units to track and assumptions to state, and a single slip ruins the answer. Year 13 builds on Year 12 here, so a weak start on moles or equilibria shows up again and again. For students aiming at medicine, pharmacy or chemical engineering, these marks matter."
+angle_body_2: "The tutor makes sure the basics are secure first, moles, concentrations and rearranging, then teaches each calculation as a sequence of steps your child writes out every time. Units are always included. Lessons end with exam questions that combine topics, since that's how the harder questions are set. Organic and inorganic topics get their share too, depending on where marks are being lost."
+angle_image: "/images/chemistry-lab-glassware.jpg"
+angle_image_alt: "Laboratory glassware used in A-Level Chemistry practicals"
+angle_stat_from: "E/U"
+angle_stat_to: "C"
+angle_stat_detail: "Joanna (Parent of A-Level Student) wrote on Google about a son “managing to turn E and U grades into 3 C grades”. The review doesn't say which subjects."
+schools:
+  - "Saint Cecilia's Church of England School"
+  - "Ashcroft Technology Academy"
+  - "Graveney School"
+  - "Emanuel School"
+  - "Saint Francis Xavier Sixth Form College"
+steps_heading: "Starting A-Level Chemistry tutoring for a Wandsworth sixth former"
+steps_lead: "Year 12 or 13, any board. Profiles usually arrive within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About 30 minutes with Harry or Joe, free. We'll ask about the board, the year, and whether physical, organic or inorganic chemistry is weakest."
+  - title: "Choose your tutor"
+    body: "Two or three Chemistry tutor profiles within 24 hours, matched to your child's specification. A free 15-minute video call with the one you like comes before you pay anything."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, working calculations on a shared whiteboard with a replay afterwards. From £37 an hour, no contract."
+faqs:
+  - q: "Why does my child find A-Level Chemistry calculations so hard?"
+    a: "Usually because each one has several steps, and a gap in an earlier topic, like moles, makes every later one harder. A tutor finds the gap, fixes it and builds up from there."
+  - q: "Do I need to know which board my child sits?"
+    a: "It helps, but we can find out together on the call. We match the tutor to the exact specification."
+  - q: "Is A-Level Chemistry needed for medicine?"
+    a: "Most medical schools require or strongly prefer it. Check the current requirements of each school your child is considering."
+  - q: "Who are your Chemistry tutors?"
+    a: "Graduates and university students interviewed by Harry or Joe, with about 3% of applicants accepted and at least two years' tutoring each."
+reviews:
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Charlotte|Student|I cannot recommend Harry enough. He was helpful welcoming and helped me achieve a grade higher than I was expected!"
+  - "Theresa|Parent|Harry and Joe were extremely helpful with a wealth of knowledge and contacts that helped my son to follow the right path."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

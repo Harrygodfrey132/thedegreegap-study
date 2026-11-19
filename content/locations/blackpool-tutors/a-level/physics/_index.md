@@ -1,0 +1,52 @@
+---
+title: "Blackpool A-Level Physics Tutors | The Degree Gap"
+nav_title: "Physics"
+description: "Does your child follow the Physics but lose marks on the maths? Online A-Level Physics tutoring for Blackpool sixth formers, matched to the board. From £37."
+layout: "level-subject"
+location: "Blackpool"
+level: "A-Level"
+subject: "Physics"
+hero_h1: "A-Level Physics Tutors for Blackpool Students"
+hero_lead: "Your child nods along in the lesson and then can't work out where to begin on the homework. Our A-Level Physics tutors for Blackpool students teach them to set up a problem before reaching for an equation."
+angle_eyebrow: "WHICH EQUATION, AND WHY"
+angle_heading: "Why Blackpool Students Lose A-Level Physics Marks Before the Calculation Starts"
+angle_body_1: "Most A-Level Physics marks go missing at the start of a question, not the end. Your child reads about a ball on a slope or a charge in a field and isn't sure which idea applies, so they reach for whichever equation has the right letters in it. Mechanics, electric circuits and fields each have their own traps, and the long explanation questions want reasoning in words, which a lot of strong mathematicians find harder than the sums."
+angle_body_2: "The tutor teaches a habit: sketch the situation, list what's known, say which principle applies, and only then write an equation. It's practised on exam questions every week until it happens without thinking. The maths underneath, from vectors to logarithms, gets drilled so it stops getting in the way. Physics opens the door to engineering, and with BAE Systems at Warton and Samlesbury not far from Blackpool, that's a route plenty of families here know well."
+angle_image: "/images/physics-mechanics-force-diagram.jpg"
+angle_image_alt: "A force diagram for an A-Level Physics mechanics problem"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "From Cs to As: Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The review doesn't name the subjects."
+schools:
+  - "Blackpool Sixth Form College"
+  - "Blackpool and The Fylde College"
+  - "AKS Lytham"
+  - "Baines School"
+steps_heading: "Getting A-Level Physics lessons started in Blackpool"
+steps_lead: "Mention any mock dates on the call. Profiles usually come within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask about the board, the year group, and which topics feel hardest."
+  - title: "Choose your tutor"
+    body: "Two or three Physics tutor profiles within a day. A free 15-minute video call with the tutor you choose comes before any payment."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace with diagrams on a shared whiteboard, recorded every time. From £37 an hour, no contract."
+faqs:
+  - q: "Can an A-Level Physics tutor help my child towards an engineering degree or apprenticeship?"
+    a: "Yes, with the grades. Each university and employer sets its own requirements, so check those. The tutor works on whatever is costing marks, often setting problems up and the maths."
+  - q: "My child is good at Maths but struggles with Physics. Why?"
+    a: "Usually because they aren't sure which principle a question is testing. A tutor teaches them to set the problem up first, with a diagram, before calculating."
+  - q: "Who are your Physics tutors?"
+    a: "Graduates and university students, interviewed by Harry or Joe, each with at least two years' tutoring. About 3% of applicants are accepted."
+  - q: "How much does A-Level Physics tutoring cost?"
+    a: "From £37 an hour. No contract, and you can stop any time."
+reviews:
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

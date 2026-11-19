@@ -1,0 +1,52 @@
+---
+title: "Chelsea A-Level Physics Tutors | The Degree Gap"
+nav_title: "Physics"
+description: "Is A-Level Physics turning into a maths problem? Online A-Level Physics tutoring for Chelsea sixth formers, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Chelsea"
+level: "A-Level"
+subject: "Physics"
+hero_h1: "A-Level Physics Tutors for Chelsea Students"
+hero_lead: "Your child follows every lesson, then can't get started on a long question about fields or circular motion. Our A-Level Physics tutors for Chelsea students teach them how to break a problem down."
+angle_eyebrow: "WHERE TO START"
+angle_heading: "Why Multi-Step Problems Are the Hardest Part of A-Level Physics for Chelsea Students"
+angle_body_1: "At A-Level, Physics questions stop telling students which equation to use. A question on a satellite might need circular motion, gravitational fields and energy in one go. Students who understand each topic separately freeze because they can't see the route. On top of that, the maths gets heavier, with logarithms, exponentials and vectors, and practical questions ask for uncertainty and graph analysis. Many Chelsea students taking Physics are aiming at engineering or physics at Imperial or elsewhere, where the grade matters."
+angle_body_2: "The tutor teaches a routine: sketch it, list what's known, write the physics principle, then the equation. Your child practises it on past paper problems every week, with the tutor watching the working on the whiteboard. The maths skills get separate short practice, and practical questions on uncertainty and graphs get regular attention."
+angle_image: "/images/physics-calculator-reflection-diagram.jpg"
+angle_image_alt: "A calculator and diagram for an A-Level Physics problem"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "These grades aren't from a Physics review. Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”, without naming the subjects."
+schools:
+  - "Chelsea Academy"
+  - "The London Oratory School"
+  - "St Thomas More Language College"
+  - "Queen's Gate School"
+steps_heading: "Starting A-Level Physics tutoring for a Chelsea sixth former"
+steps_lead: "If an engineering application is coming up, tell us the dates. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask about the board, the year, recent tests, and whether it's the physics or the maths that's slipping."
+  - title: "Choose your tutor"
+    body: "Two or three Physics tutor profiles within 24 hours. A free 15-minute video call with the one you like comes before you pay."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, with diagrams and working on a shared whiteboard and a replay each time. From £37 an hour, no contract."
+faqs:
+  - q: "Does my child need to take A-Level Maths alongside Physics?"
+    a: "It isn't always required, but it helps a lot, and many physics and engineering degrees ask for both. If your child isn't taking Maths, the tutor will make sure the maths inside the Physics course is secure."
+  - q: "Can a tutor help with a university admissions test for physics or engineering?"
+    a: "Some of our tutors can. These tests go beyond the A-Level syllabus in places, so they need separate preparation, started well before the test date. Check each university's current admissions test requirements before planning."
+  - q: "How do you choose your Physics tutors?"
+    a: "Harry or Joe interview every tutor, and about 3% of applicants are accepted. Each has at least two years' tutoring."
+  - q: "How much does A-Level Physics tutoring cost?"
+    a: "From £37 an hour, agreed before booking. That covers the lesson, practice and a recording. No contract."
+reviews:
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Leo|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
+  - "Charlotte|Student|I cannot recommend Harry enough. He was helpful welcoming and helped me achieve a grade higher than I was expected!"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

@@ -1,0 +1,51 @@
+---
+title: "Worthing A-Level Chemistry Tutors | The Degree Gap"
+nav_title: "Chemistry"
+description: "Is A-Level Chemistry the grade your child worries about most? Online A-Level Chemistry tutoring for Worthing students, matched to the board. From £37."
+layout: "level-subject"
+location: "Worthing"
+level: "A-Level"
+subject: "Chemistry"
+hero_h1: "A-Level Chemistry Tutors for Worthing Students"
+hero_lead: "Your child can follow a worked example, then gets lost when the calculation isn't set out step by step. Our A-Level Chemistry tutors for Worthing students teach a method that holds up in the exam."
+angle_eyebrow: "WHEN THE CALCULATIONS STOP BEING GUIDED"
+angle_heading: "Where Worthing Students Find A-Level Chemistry Hardest"
+angle_body_1: "The step up from GCSE Chemistry is steep. Mole calculations become longer and come with no prompts. Equilibrium, energetics and kinetics need careful algebra. Organic chemistry brings curly-arrow mechanisms that look like dozens of separate reactions. And practical questions expect your child to spot errors and suggest improvements, not just describe what they did."
+angle_body_2: "The tutor sets calculations out the same way every time, with units written in, so your child has a routine to follow under pressure. Organic chemistry is taught as a few patterns that repeat. Past paper questions come in early. Chemistry is asked for by medicine, pharmacy, veterinary and many science degrees, so a strong grade keeps options open."
+angle_image: "/images/periodic-table-and-beaker.jpg"
+angle_image_alt: "A beaker in front of a periodic table, for A-Level Chemistry"
+angle_stat_from: "E/U"
+angle_stat_to: "C"
+angle_stat_detail: "From E and U to C: Joanna, Parent of A-Level Student, wrote on Google the tutoring helped “turn E and U grades into 3 C grades”. The subjects aren't named."
+schools:
+  - "Worthing College"
+  - "Lancing College"
+  - "Steyning Grammar School"
+steps_heading: "Starting A-Level Chemistry lessons for a Worthing student"
+steps_lead: "If a mock or application deadline is close, tell us. Profiles usually arrive within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "About 30 minutes with Harry or Joe, free. We'll ask about the board, the year group, and whether organic, physical or practical questions are the bigger worry."
+  - title: "Choose your tutor"
+    body: "You'll get two or three Chemistry tutor profiles within a day, chosen for your child's board. Your child meets the one you prefer on a free 15-minute video call before anything is paid."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, working through calculations and mechanisms on a shared whiteboard, with a recording each time. From £37 an hour, no contract, and a new tutor if needed."
+faqs:
+  - q: "My child understands Chemistry in class but can't do the calculations alone. Why?"
+    a: "In class, calculations are usually set out step by step. In the exam, your child has to choose the steps. A tutor teaches a fixed routine and practises it until it's automatic."
+  - q: "Is A-Level Chemistry needed for medicine?"
+    a: "Most UK medical schools ask for it, but requirements vary, so check each university's course page for the current subjects and grades."
+  - q: "How do you choose your Chemistry tutors?"
+    a: "Harry or Joe interview every tutor, and about 3% of applicants are accepted. Each has at least two years' tutoring experience."
+  - q: "How much do A-Level Chemistry lessons cost?"
+    a: "From £37 an hour, agreed before booking, including a recording of each lesson. No contract."
+reviews:
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Leo|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

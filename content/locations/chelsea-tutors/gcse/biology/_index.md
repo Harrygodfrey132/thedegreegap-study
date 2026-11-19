@@ -1,0 +1,52 @@
+---
+title: "Chelsea GCSE Biology Tutors | The Degree Gap"
+nav_title: "Biology"
+description: "Knows the Biology facts but loses marks on long answers? Online GCSE Biology tutoring for Chelsea students, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Chelsea"
+level: "GCSE"
+subject: "Biology"
+hero_h1: "GCSE Biology Tutors for Chelsea Students"
+hero_lead: "Your child can label the heart and name every hormone, then writes three loose sentences for a six-mark question. Our GCSE Biology tutors for Chelsea students teach them to turn what they know into marks."
+angle_eyebrow: "THE SIX-MARK QUESTION"
+angle_heading: "Why Extended Answers Cost Chelsea Students So Many GCSE Biology Marks"
+angle_body_1: "GCSE Biology has a lot of content, and most of the children we see have learnt plenty of it. The trouble is the extended questions. Explain how the body responds to a rise in blood glucose. Describe how a vaccine protects against disease. These want a chain of linked steps in the right order, using the right terms, and a list of correct facts in a jumble doesn't score well. Bright students who are used to being right often find that frustrating, and start to think Biology is about memorising more."
+angle_body_2: "The tutor shows your child how a mark scheme for one of these questions is built, point by point, then has them plan an answer as a short numbered chain before writing a word. They practise on the processes that come up most: homeostasis, the immune response, inheritance, transport in plants. Content gaps get filled along the way, but the focus is on getting full marks for what your child already knows."
+angle_image: "/images/human-anatomy-model.jpg"
+angle_image_alt: "A model of the human body, like the systems covered in GCSE Biology"
+angle_stat_from: "5"
+angle_stat_to: "6/7"
+angle_stat_detail: "These grades are from GCSE English, not Biology. Omo (Parent of GCSE Student) wrote on Google that a son in Year 10 “has improved from a grade 5 to a 6/7”."
+schools:
+  - "Chelsea Academy"
+  - "St Thomas More Language College"
+  - "More House School"
+  - "Queen's Gate School"
+steps_heading: "Starting GCSE Biology tutoring for a Chelsea student"
+steps_lead: "Triple or Combined, any board. Profiles usually arrive within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About 30 minutes with Harry or Joe, free. We'll ask about the board, Triple or Combined, recent test marks, and which kinds of question go wrong."
+  - title: "Choose your tutor"
+    body: "Two or three Biology tutor profiles within 24 hours, chosen for your child's course. A free 15-minute video call with the one you like comes before you pay anything."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, with processes drawn as flow charts on a shared whiteboard, and a replay each time. From £37 an hour, no contract."
+faqs:
+  - q: "Is GCSE Biology tutoring only for Triple Science students?"
+    a: "No. Combined Science students sit Biology papers too, with a little less content. The tutor works from your child's exact specification, so they only cover what will be examined."
+  - q: "My child wants to study medicine. Does GCSE Biology matter?"
+    a: "It matters as a foundation. Medical schools look mostly at A-Level grades and admissions tests, but many also look at GCSEs, and sixth forms often ask for a high grade in Biology before taking it at A-Level. Check the requirements of any course or school your child is considering."
+  - q: "How can my child remember so much Biology content?"
+    a: "By practising recall, not rereading. The tutor uses short quizzes at the start of each lesson and exam questions on older topics, so content keeps coming back. That works better than long revision sessions just before a test."
+  - q: "What does GCSE Biology tutoring cost?"
+    a: "From £37 an hour, agreed before you book. That includes the lesson, practice set between lessons and a recording. No contract or joining fee."
+reviews:
+  - "Gilmoore|Parent of GCSE Student|Initially I was hesitant to enrol my son for online lessons. However, the company has well experienced, knowledgeable and helpful tutors. There is also flexibility around booking of lessons. At the end of the day, my son achieved the next top grade than what had been predicted in his mid-year school GCSE exams. I am forever indebted to The Degree Gap."
+  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. The tutors we have used are lovely.  The Degree Gap use an advanced online platform which enables interactive tuition. We also attended a free webinar from the Degree Gap which was very informative and added value. I highly recommend them."
+  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. The website is easy to use and effective, I had no disappointment in scheduling lessons for my son. Tutors were polite and on time for their lessons."
+  - "Dawn|Parent|The Degree Gap took time to understand my child’s worries. They paired me with Connor, who my daughter got on well with. Her confidence has skyrocketed since. Thanks again."
+  - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

@@ -1,0 +1,53 @@
+---
+title: "Stanmore A-Level Maths Tutors | The Degree Gap"
+nav_title: "Maths"
+description: "Is Year 12 Maths far harder than your child expected? Online A-Level Maths tutoring for Stanmore sixth formers, matched to the board. From £37, no contract."
+layout: "level-subject"
+location: "Stanmore"
+level: "A-Level"
+subject: "Maths"
+hero_h1: "A-Level Maths Tutors for Stanmore Students"
+hero_lead: "Your child was used to being one of the best at Maths, and now a single integration question takes an hour. Our A-Level Maths tutors for Stanmore students find the weak step underneath and make it dependable."
+angle_eyebrow: "WHEN MATHS STOPS BEING EASY"
+angle_heading: "Where Strong Stanmore Students Start Losing A-Level Maths Marks"
+angle_body_1: "Lots of Stanmore students arrive at A-Level Maths with an 8 or 9 at GCSE and a habit of doing questions in their head. That works until Year 12. Then the questions get long: a calculus problem that depends on a trig identity, which depends on tidy algebra. One skipped line and the whole thing collapses. Statistics asks for conclusions worded carefully in context, and Mechanics needs a model before any number appears. Students taking Further Maths alongside feel the squeeze most."
+angle_body_2: "The tutor asks your child to write every step, which feels slow at first and then saves marks. The weak spot, often algebraic manipulation or a trig identity, is practised until it's automatic. Every week mixes new content with full exam questions. A-Level Maths is the gateway to economics, engineering, computing and maths degrees, many of them a short Jubilee line ride away."
+angle_image: "/images/maths-equations-close-up.jpg"
+angle_image_alt: "A-Level Maths calculus working on paper"
+angle_stat_from: "E/U"
+angle_stat_to: "C"
+angle_stat_detail: "From E and U to C: Joanna, Parent of A-Level Student, wrote on Google that the tutoring helped “turn E and U grades into 3 C grades”. The subjects aren't named."
+schools:
+  - "North London Collegiate School"
+  - "Haberdashers' Elstree Schools"
+  - "St Dominic's Sixth Form College"
+  - "Park High School"
+  - "Canons High School"
+steps_heading: "Starting A-Level Maths tutoring for a Stanmore sixth former"
+steps_lead: "Tell us if Further Maths is involved. Profiles usually arrive within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About 30 minutes with Harry or Joe, free. We'll ask about the board, Year 12 or 13, Further Maths, and whether Pure, Statistics or Mechanics is the problem."
+  - title: "Choose your tutor"
+    body: "Two or three Maths tutor profiles within 24 hours. Your child meets your choice on a free 15-minute video call before anything is paid."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, working on a shared whiteboard, with a replay of every lesson. From £37 an hour, no contract."
+faqs:
+  - q: "My child got a 9 in GCSE Maths. Why are they struggling now?"
+    a: "Because A-Level rewards careful, written-out working, and many strong GCSE students have never needed it. Small algebra slips start costing whole questions. A tutor builds the habit and fixes the specific weak spots."
+  - q: "Can you help with Further Maths?"
+    a: "Yes. Tell us which board and which optional modules your child takes, and we'll match a tutor who teaches them."
+  - q: "How are Maths tutors chosen?"
+    a: "Harry or Joe interview each one, about 3% of applicants are accepted, and every tutor has at least two years' experience."
+  - q: "What does A-Level Maths tutoring cost?"
+    a: "From £37 an hour, agreed before booking, with no contract."
+reviews:
+  - "Abby|Parent of A-Level Student|Harry has tutored my son in both maths and economics A-levels and has been fantastic. Harry has been professional, approachable and engaging, he has explained things clearly and has fully supported my son through the last 2 years. We are absolutely delighted with the results. Thank you!"
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Marfa|Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
+  - "John|Parent of A-Level Student|Freddie really enjoyed his time with The Degree Gap. He got help with his three A levels (maths, computer science and business) and managed to get his number one choice attending Liverpool Uni to study a masters in Maths. The tutors were organised, supportive and spent time understanding where the knowledge gaps where to ensure best chance of success in exams! Highly recommended"
+  - "Leo|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

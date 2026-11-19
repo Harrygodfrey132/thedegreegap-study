@@ -1,0 +1,53 @@
+---
+title: "Stanmore A-Level Economics Tutors | The Degree Gap"
+nav_title: "Economics"
+description: "Are 25-mark Economics essays holding your child's grade back? Online A-Level Economics tutoring for Stanmore sixth formers, by board. From £37 an hour."
+layout: "level-subject"
+location: "Stanmore"
+level: "A-Level"
+subject: "Economics"
+hero_h1: "A-Level Economics Tutors for Stanmore Students"
+hero_lead: "Your child reads the financial news and has views on interest rates, and the essay still comes back marked 'lacks evaluation'. Our A-Level Economics tutors for Stanmore students turn opinions into judgements that score."
+angle_eyebrow: "VIEWS ARE NOT EVALUATION"
+angle_heading: "Why Well-Read Stanmore Students Still Lose Marks in A-Level Economics"
+angle_body_1: "Economics is popular with Stanmore sixth formers looking at finance, law or business, and plenty of them arrive already interested in the news. That helps, but it isn't what the long essays reward. Examiners want a chain of analysis linked to a diagram, then evaluation that asks what the answer depends on, then a judgement. Students with strong opinions tend to argue one side well and forget the other. Data questions catch out confident mathematicians who calculate and then don't comment."
+angle_body_2: "The tutor gets your child drawing every core diagram accurately from memory, then plans essays with them so each point ends in a 'but it depends on'. Feedback is against the real mark scheme. Economics is a natural route to finance and business degrees and to the London firms a short Jubilee line ride from Stanmore."
+angle_image: "/images/economics-equations-on-chalkboard.jpg"
+angle_image_alt: "Economics diagrams and equations on a chalkboard"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "From Cs to As: Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The subjects aren't named."
+schools:
+  - "North London Collegiate School"
+  - "Haberdashers' Elstree Schools"
+  - "St Dominic's Sixth Form College"
+  - "Avanti House Secondary School"
+  - "Bentley Wood High School"
+steps_heading: "Three steps to A-Level Economics tutoring for Stanmore families"
+steps_lead: "If an essay or mock is due soon, say so. Profiles normally follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About 30 minutes with Harry or Joe, free. We'll ask about the board, Year 12 or 13, and whether micro, macro or the essays are the trouble."
+  - title: "Choose your tutor"
+    body: "Two or three Economics tutor profiles within 24 hours, matched to the board. Your child meets your pick on a free 15-minute video call first."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, diagrams drawn together on a shared whiteboard, with a replay of each. From £37 an hour, no contract."
+faqs:
+  - q: "My child follows the news closely. Why aren't the Economics marks higher?"
+    a: "Because the essays reward structure more than knowledge: analysis tied to a diagram, then evaluation, then a decision. A tutor teaches that structure until it's second nature."
+  - q: "How does my child get better at evaluation?"
+    a: "By asking what each point depends on, such as time frame, the size of the change or how people respond. A tutor practises that every week and shows how to end with a clear judgement."
+  - q: "Who tutors A-Level Economics?"
+    a: "Harry, one of our founders, teaches Economics, alongside other tutors interviewed by Harry or Joe. About 3% of applicants are accepted, each with at least two years' tutoring."
+  - q: "How much does A-Level Economics tutoring cost?"
+    a: "From £37 an hour, agreed before booking. No contract, and you can pause with a day or two's notice."
+reviews:
+  - "Lucas|A-Level Student|I was having trouble with some areas of my economics a level course before getting in contact with Harry. He walked me through everything I needed help with, from content I was weak with to exam technique that I was lacking. His insight, examples and willingness to go the extra step really helped me to regain my confidence in economics, having achieved a predicted a* with his help."
+  - "Binh|A-Level Student|I was very fortunate enough to encounter Harry during my time taking A level economics. I really struggled a lot with long 30 marked essays as well as evaluation and learning the graphs as for at the time it was really hard and I didn’t understand. However the way how Harry taught me was super simple compared to other teachers from school. I really enjoyed my time when Harry taught me and I would highly recommend it to people!"
+  - "Sarom|Parent of A-Level Student|Harry has been very helpful in tutoring my son for his economics A Level. He has lots of patience, keeps lessons interesting and is a good motivator. Needless to say his subject matter is expertise is excellent."
+  - "Cat|Parent of A-Level Student|My 18 year old son had A-level Economics tutoring with Harry.  He was excellent, knew exactly what he needed to learn and was able to explain in terms which made it simple to understand.  The online platform was convenient and easy to use."
+  - "Mahir|A-Level Student|Harry was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics - I'd highly recommend for anyone looking to consistently perform at their best."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

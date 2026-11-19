@@ -1,0 +1,53 @@
+---
+title: "Chelsea GCSE Maths Tutors | The Degree Gap"
+nav_title: "Maths"
+description: "New school and the Maths class is ahead? Online GCSE Maths tutoring for Chelsea students, matched to the board and tier. From £37 an hour, no contract."
+layout: "level-subject"
+location: "Chelsea"
+level: "GCSE"
+subject: "Maths"
+hero_h1: "GCSE Maths Tutors for Chelsea Students"
+hero_lead: "Your child was doing fine in Maths until the move, and now the new class is on topics they've never seen. Our GCSE Maths tutors for Chelsea students map what was missed and teach it in the right order."
+angle_eyebrow: "WHEN THE NEW CLASS IS AHEAD"
+angle_heading: "Why Changing School Hits GCSE Maths Harder Than Most Subjects for Chelsea Students"
+angle_body_1: "Maths builds on itself more than any other GCSE. Schools teach the course in different orders, so a child who moves at 13 or partway through Year 10 can arrive to find the class finishing quadratics when they've never factorised one. Or they come from a system where calculators were used for everything and meet a GCSE non-calculator paper for the first time. They aren't weak at Maths. They're missing two or three foundations, and every new lesson leans on them."
+angle_body_2: "The first lesson goes through the new school's scheme of work and a recent test side by side. The tutor marks which topics your child has met, which they half know and which are completely new, and starts with the ones the rest depend on. Then it's mixed exam questions every week, with non-calculator practice built in, so the gaps close while the class keeps moving."
+angle_image: "/images/student-completing-maths-worksheet.jpg"
+angle_image_alt: "A student working through a GCSE Maths worksheet by hand"
+angle_stat_from: "4-5"
+angle_stat_to: "8"
+angle_stat_detail: "These grades are from GCSE Physics, not Maths. Chamarika (Parent of GCSE Student) wrote on Trustpilot: “My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8”."
+schools:
+  - "Chelsea Academy"
+  - "St Thomas More Language College"
+  - "More House School"
+  - "The London Oratory School"
+  - "Queen's Gate School"
+steps_heading: "Starting GCSE Maths tutoring for a Chelsea student"
+steps_lead: "If your child has just changed school, send us the new scheme of work if you have it. Profiles usually arrive within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask which school, which board, Foundation or Higher, GCSE or IGCSE, and where your child was taught before."
+  - title: "Choose your tutor"
+    body: "Two or three Maths tutor profiles within 24 hours, chosen for your child's board and tier. Your child meets the one you like on a free 15-minute video call before anything is paid."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, with every line of working on a shared whiteboard and a replay afterwards. From £37 an hour, no contract, and a new tutor if they don't get on."
+faqs:
+  - q: "My child's old school used calculators for everything. Will the non-calculator paper be a problem?"
+    a: "It can be at first, but it's very fixable. GCSE Maths boards set one non-calculator paper, and it rewards quick, reliable arithmetic with fractions, decimals and negative numbers. A tutor builds that in short, regular practice alongside the topics, so it stops being the paper your child dreads."
+  - q: "Is it GCSE or IGCSE Maths, and does it change the lessons?"
+    a: "It might. Some schools near Chelsea sit IGCSE Maths, others GCSE, and the paper format and a few topics differ. We check which one your child takes and match the tutor to it, so the practice papers are the right ones from the start."
+  - q: "Who are your Maths tutors?"
+    a: "Graduates and university students, each interviewed by Harry or Joe, with about 3% of applicants accepted and at least two years' tutoring behind them. We ask them to explain a topic like simultaneous equations to someone who finds it hard, because knowing the Maths isn't enough."
+  - q: "How quickly can a tutor close the gaps after a school move?"
+    a: "It depends on how many there are, but most children feel more settled within a few weeks once they know exactly what's missing. Topics that block everything else, like algebraic manipulation, come first. The rest follow in the order the new class needs them."
+reviews:
+  - "Hermione|GCSE Student|Came here to search for a GCSE maths tutor and was recommended Rebecca Hanna by the very helpful Harry. Rebecca was nothing but helpful and comforting. I highly recommend her, especially since she helped me pass the GCSE! Thank you."
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. We opted for Avery and she was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back in her abilities and gave her the confidence to face Maths GCSE exams. Highly recommend Degree Gap and will be back again in September with my youngest embarking on her GCSEs"
+  - "Isabel|Parent of iGCSE Student|Harry helped our son enormously with his maths and economics iGCSE prep. He was patient, fun and engaging - just what we needed. Highly recommended."
+  - "Jessica|Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!"
+  - "Nikola|iGCSE Student|The Degree Gap paired me with a great tutor for my igcse exams. Harry was eager and really knew his stuff about Maths. It was nice that i got a free trial call first, so i could see if it was a good match. Would highly recommend to a friend."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

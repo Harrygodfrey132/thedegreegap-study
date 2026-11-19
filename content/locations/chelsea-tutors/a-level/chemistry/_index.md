@@ -1,0 +1,52 @@
+---
+title: "Chelsea A-Level Chemistry Tutors | The Degree Gap"
+nav_title: "Chemistry"
+description: "Organic mechanisms not sticking? Online A-Level Chemistry tutoring for Chelsea sixth formers, one-to-one and matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Chelsea"
+level: "A-Level"
+subject: "Chemistry"
+hero_h1: "A-Level Chemistry Tutors for Chelsea Students"
+hero_lead: "Curly arrows, reagents and conditions: your child has a page of mechanisms to learn and none of them make sense yet. Our A-Level Chemistry tutors for Chelsea students teach organic chemistry as a set of patterns."
+angle_eyebrow: "ORGANIC WITHOUT THE PANIC"
+angle_heading: "Why Organic Chemistry Is Where Chelsea Students Most Often Lose Ground at A-Level"
+angle_body_1: "A-Level Chemistry is a big step up, and organic chemistry is usually where it shows. There are dozens of reactions, each with reagents, conditions and a mechanism. Students try to memorise them as separate facts and run out of room. Then come synthesis questions that chain several reactions together, and the calculations in physical chemistry, which are harder than anything at GCSE. Chemistry is required or strongly preferred for medicine and many science degrees, so the grade matters to many Chelsea families."
+angle_body_2: "The tutor teaches mechanisms as a few types, nucleophilic substitution, electrophilic addition and so on, so a new reaction becomes a variation rather than another fact. Your child builds a reaction map and uses it on synthesis questions every week. Physical chemistry calculations get the same step-by-step treatment, with units and significant figures checked every time."
+angle_image: "/images/chemistry-lab-glassware.jpg"
+angle_image_alt: "Laboratory glassware used in A-Level Chemistry practicals"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The review doesn't name the subjects."
+schools:
+  - "Chelsea Academy"
+  - "The London Oratory School"
+  - "More House School"
+  - "Queen's Gate School"
+steps_heading: "Starting A-Level Chemistry tutoring for a Chelsea sixth former"
+steps_lead: "Year 12 or 13, any board. Profiles usually arrive within a day."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, about 30 minutes. We'll ask about the board, the year, and whether organic, physical or inorganic is the problem."
+  - title: "Choose your tutor"
+    body: "Two or three Chemistry tutor profiles within 24 hours. Your child meets the one you choose on a free 15-minute video call before anything is booked."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, drawing mechanisms on a shared whiteboard, with a replay afterwards. From £37 an hour, no contract."
+faqs:
+  - q: "Is it normal for A-Level Chemistry to feel much harder than GCSE?"
+    a: "Yes. Many students say it's the biggest jump of any subject. The content is deeper and the questions expect more independent reasoning. Most catch up with steady practice, and a tutor helps that happen sooner."
+  - q: "How can my child learn all the organic reactions?"
+    a: "By grouping them. Once your child knows the main mechanism types and why each happens, most reactions fit a pattern. A reaction map, used weekly on synthesis questions, does the rest."
+  - q: "Can you help with the practical endorsement?"
+    a: "We can help your child understand the required practicals and answer exam questions on them. The endorsement itself is assessed by the school, through practical work done there."
+  - q: "Who are your Chemistry tutors?"
+    a: "Graduates and university students, interviewed by Harry or Joe, with about 3% of applicants accepted. All have at least two years' tutoring."
+reviews:
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Kasia|Parent|Harry is a great tutor. He's very helpful and knowledgeable. He's git goid understanding of student's needs as well as current situation when it comes to university education in the UK. His experience and expertise helped my son make some decisions about choosing A level subject and university course. I highly recommend Harry and Degree Gap."
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Leo|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

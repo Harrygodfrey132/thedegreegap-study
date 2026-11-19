@@ -1,0 +1,53 @@
+---
+title: "Wandsworth GCSE Science Tutors | The Degree Gap"
+nav_title: "Science"
+description: "Losing GCSE Science marks on graphs and calculations? Online GCSE Science tutoring for Wandsworth students, Combined or Triple. From £37 an hour."
+layout: "level-subject"
+location: "Wandsworth"
+level: "GCSE"
+subject: "Science"
+hero_h1: "GCSE Science Tutors for Wandsworth Students"
+hero_lead: "Your child knows the content, then drops marks drawing a line of best fit or calculating a rate. Our GCSE Science tutors for Wandsworth students practise the maths that runs through all three sciences."
+angle_eyebrow: "THE MATHS IN SCIENCE"
+angle_heading: "Why Graphs and Calculations Cost Wandsworth Students Marks Across GCSE Science"
+angle_body_1: "A good share of GCSE Science marks test maths skills: plotting graphs, drawing lines of best fit, calculating means and rates, rearranging equations and using standard form. They appear in Biology and Chemistry as well as Physics. Students who think of themselves as 'not maths people' tend to skip them, and students who are good at Maths lose marks on units and labelling. Either way, the marks go."
+angle_body_2: "The tutor teaches these skills separately and practises them on science questions from your child's board, so they're quick and reliable. Then the content lessons focus on whichever of Biology, Chemistry or Physics is weakest. Combined Science students cover all three with less depth, and Triple students get more on each, and the tutor works from your child's exact specification."
+angle_image: "/images/physics-calculator-reflection-diagram.jpg"
+angle_image_alt: "A calculator and diagram, like the maths skills used in GCSE Science"
+angle_stat_from: "4-5"
+angle_stat_to: "8"
+angle_stat_detail: "These grades were in GCSE Physics. Chamarika (Parent of GCSE Student) wrote on Trustpilot about a son with “a predicted 4-5 in Physics” who “made it an 8 within roughly two months of tutoring”."
+schools:
+  - "Saint Cecilia's Church of England School"
+  - "Southfields Academy"
+  - "Ark Bolingbroke Academy"
+  - "Graveney School"
+  - "Emanuel School"
+steps_heading: "Starting GCSE Science tutoring for a Wandsworth student"
+steps_lead: "Combined or Triple, any board. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, around 30 minutes. We'll ask about Combined or Triple, the board, and which science is the weakest."
+  - title: "Choose your tutor"
+    body: "Two or three Science tutor profiles within 24 hours. A free 15-minute video call with your favourite comes first."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, plotting graphs and working calculations on a shared whiteboard, with a replay afterwards. From £37, no contract."
+faqs:
+  - q: "How much of GCSE Science is maths?"
+    a: "A significant share of the marks, especially in Physics and Chemistry, test maths skills. They're some of the most reliable marks to gain with practice."
+  - q: "Can one tutor cover Biology, Chemistry and Physics?"
+    a: "Often, yes, especially for Combined Science. For Triple students who need a lot of help in one science, we may suggest a specialist for that subject."
+  - q: "Will Combined Science stop my child taking A-Level sciences?"
+    a: "Usually not. Most sixth forms accept Combined Science for A-Level sciences, though they set their own grade requirements. Check the current ones for any school your child is considering."
+  - q: "How do you choose your Science tutors?"
+    a: "Harry or Joe interview every tutor, and about 3% of applicants are accepted. Each has at least two years' tutoring."
+reviews:
+  - "Chamarika|Parent of GCSE Student|Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s. Thank you to all the 3x tutors."
+  - "Sam|Parent of GCSE Student|Excellent experience. Founders are accessible, hands on, responsive and flexible. As are the tutors - quality all round. It was great to be able to trial a few to find the right fit, who my daughter felt most comfortable with. She got at least a grade higher in GCSEs because of the tuition which helped her get into a top school (grammar) for As."
+  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. The website is easy to use and effective, I had no disappointment in scheduling lessons for my son. Tutors were polite and on time for their lessons."
+  - "Matthew|Parent|The Degree Gap is an extremely well run tutoring business. They take the time to get to know your child and suggest the right tutors. It is great I got to try out as many tutors as I needed to before picking the right fit. We have been working with them for over a year now! No issues!"
+  - "Joe|Student|Highly recommend the Degree Gap as a tutoring agency! Their platform is easy to use and having used tutors across a variety of subjects, they have all been consistently excellent."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

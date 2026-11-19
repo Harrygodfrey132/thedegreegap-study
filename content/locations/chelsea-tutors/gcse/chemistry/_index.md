@@ -1,0 +1,52 @@
+---
+title: "Chelsea GCSE Chemistry Tutors | The Degree Gap"
+nav_title: "Chemistry"
+description: "Stuck on moles and balancing equations? Online GCSE Chemistry tutoring for Chelsea students, one-to-one and matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Chelsea"
+level: "GCSE"
+subject: "Chemistry"
+hero_h1: "GCSE Chemistry Tutors for Chelsea Students"
+hero_lead: "Moles, concentrations and percentage yield all arrive at once, and your child copies the method from the board without seeing why it works. Our GCSE Chemistry tutors for Chelsea students slow it right down."
+angle_eyebrow: "WHERE THE NUMBERS COME IN"
+angle_heading: "Why Quantitative Chemistry Is Where Chelsea Students Lose Their Footing in GCSE Chemistry"
+angle_body_1: "For a lot of children, Chemistry is fine until it turns into calculations. Relative formula mass, moles, reacting masses, concentration, yield, atom economy: each builds on the one before, and if balancing equations never quite clicked, none of them will. In class there's rarely time to go back. Your child learns to follow a worked example, then meets an exam question set out differently and can't start it. It's often the topic that decides whether a strong student gets a 7 or a 9."
+angle_body_2: "The tutor goes back to balancing equations and ratio, makes sure they're secure, and then builds each calculation from there, explaining what a mole actually is rather than handing over a formula triangle. Every lesson ends with exam questions worded in different ways. Bonding and structure, the other abstract part of the course, gets the same treatment, with diagrams on the whiteboard until your child can draw and explain them without notes."
+angle_image: "/images/chemistry-lab-glassware.jpg"
+angle_image_alt: "Laboratory glassware of the kind used in GCSE Chemistry practicals"
+angle_stat_from: "4-5"
+angle_stat_to: "8"
+angle_stat_detail: "These grades were in GCSE Physics, not Chemistry. Chamarika (Parent of GCSE Student) wrote on Trustpilot about a son with “a predicted 4-5 in Physics” who “made it an 8”."
+schools:
+  - "Chelsea Academy"
+  - "St Thomas More Language College"
+  - "The London Oratory School"
+  - "Queen's Gate School"
+steps_heading: "Starting GCSE Chemistry lessons for a Chelsea student"
+steps_lead: "If a test on moles is coming up, say so on the call. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "Around half an hour with Harry or Joe, free. We'll ask about the board, Triple or Combined, and which topics keep coming back with low marks."
+  - title: "Choose your tutor"
+    body: "Two or three Chemistry tutor profiles within 24 hours. Your child meets the one you choose on a free 15-minute video call before anything is booked."
+  - title: "Weekly lessons"
+    body: "One hour a week on Lessonspace, working every calculation on a shared whiteboard with a replay afterwards. From £37 an hour, no contract, and a new tutor if needed."
+faqs:
+  - q: "Why does my child understand Chemistry in class but not in tests?"
+    a: "Usually because class examples are set out the same way each time and exam questions aren't. A tutor practises the same idea in lots of different wordings until your child can see what's being asked, which is the real skill the exam tests."
+  - q: "What GCSE Chemistry grade do sixth forms want for A-Level Chemistry?"
+    a: "It varies by school and changes from year to year, but it's often well above a pass. Check the current prospectus of each sixth form your child is considering. If they're a grade short, quantitative chemistry is often where the marks are."
+  - q: "Can you help with Combined Science Chemistry as well?"
+    a: "Yes. Combined Science includes most of the same Chemistry, with some topics left out. The tutor works from your child's specification so the lessons only cover what will be examined."
+  - q: "Who are your Chemistry tutors?"
+    a: "Graduates and university students, each interviewed by Harry or Joe, with about 3% of applicants accepted. All have at least two years' tutoring. We check they can explain moles to someone who's lost, not just solve the questions."
+reviews:
+  - "Sam|Parent of GCSE Student|Excellent experience. Founders are accessible, hands on, responsive and flexible. As are the tutors - quality all round. It was great to be able to trial a few to find the right fit, who my daughter felt most comfortable with. She got at least a grade higher in GCSEs because of the tuition which helped her get into a top school (grammar) for As."
+  - "Matthew|Parent|The Degree Gap is an extremely well run tutoring business. They take the time to get to know your child and suggest the right tutors. It is great I got to try out as many tutors as I needed to before picking the right fit. We have been working with them for over a year now! No issues!"
+  - "Heidi|Parent|Emir, is simply amazing with our daughter. He 'gets' her totally, her sessions are helping her with her school work so much. We can't thank him enough ! Harry and Joe are always on hand should you need anything. Degreegap is an excellent company to work with, lots of excellent tutors avaliable to teach different subjects, great availability, very reasonably priced. Would highly recommend."
+  - "Joe|Student|Highly recommend the Degree Gap as a tutoring agency! Their platform is easy to use and having used tutors across a variety of subjects, they have all been consistently excellent."
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

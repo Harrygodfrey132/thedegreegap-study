@@ -1,0 +1,53 @@
+---
+title: "Chelsea GCSE Science Tutors | The Degree Gap"
+nav_title: "Science"
+description: "Missed some required practicals after changing school? Online GCSE Science tutoring for Chelsea students, Combined or Triple. From £37 an hour, no contract."
+layout: "level-subject"
+location: "Chelsea"
+level: "GCSE"
+subject: "Science"
+hero_h1: "GCSE Science Tutors for Chelsea Students"
+hero_lead: "The exam asks about practicals your child may never have done, because they did them at a school they've since left. Our GCSE Science tutors for Chelsea students go back through every one."
+angle_eyebrow: "THE PRACTICALS THEY MISSED"
+angle_heading: "Why the Required Practicals Catch Out So Many Chelsea Students in GCSE Science"
+angle_body_1: "Every GCSE Science course has a list of required practicals, and the exam asks about them in detail: the method, the variables, the safety steps and what the results show. Schools run them at different points across Years 9 to 11. A child who changes school can easily skip several, or do the same one twice. Students from other systems may have done very little practical write-up at all. Then a six-mark question asks them to describe how to measure the rate of a reaction, and they're guessing."
+angle_body_2: "The tutor works through the full list for your child's board and marks which practicals they've done, which they half remember and which are new. Each one gets a short lesson with diagrams on the whiteboard, then the kind of exam question that goes with it. Alongside that, lessons cover whichever of Biology, Chemistry and Physics is losing the most marks, whether your child sits Combined or Triple."
+angle_image: "/images/periodic-table-and-beaker.jpg"
+angle_image_alt: "A beaker in front of a periodic table, like the equipment in a GCSE Science practical"
+angle_stat_from: "4-5"
+angle_stat_to: "8"
+angle_stat_detail: "These grades were in GCSE Physics. Chamarika (Parent of GCSE Student) wrote on Trustpilot: “My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8”."
+schools:
+  - "Chelsea Academy"
+  - "St Thomas More Language College"
+  - "More House School"
+  - "The London Oratory School"
+  - "Queen's Gate School"
+steps_heading: "Starting GCSE Science tutoring for a Chelsea student"
+steps_lead: "Combined or Triple, any board. Profiles usually arrive within a day of the call."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, around 30 minutes. We'll ask about Combined or Triple, the board, and which of the three sciences comes back with the lowest marks."
+  - title: "Choose your tutor"
+    body: "Two or three Science tutor profiles within 24 hours, matched to your child's course. Your child meets your favourite on a free 15-minute video call first."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, drawing apparatus and graphs on a shared whiteboard, with a replay afterwards. From £37, no contract, and a new tutor if they don't get on."
+faqs:
+  - q: "Can a tutor teach the required practicals online?"
+    a: "For the exam, yes. The questions test whether your child understands the method and can explain it, not whether they can hold a pipette. The tutor draws the set-up, talks through the variables and results, and uses real data from the practical so your child can practise analysing it."
+  - q: "Should my child do Combined or Triple Science?"
+    a: "That's usually the school's decision, often in Year 9. Triple gives three GCSEs and more content, and Combined gives two. Both lead to A-Level sciences at most sixth forms, though some ask for particular grades. Check the current requirements at any sixth form your child is considering."
+  - q: "My child is fine at Biology but lost in Physics. Can lessons focus on one?"
+    a: "Yes. Most children have one science that's costing them more marks. The tutor spends most of the time there and keeps the others ticking over with a few exam questions each week."
+  - q: "How do you pick your Science tutors?"
+    a: "Harry or Joe interview every one, and about 3% of applicants are accepted. Each has at least two years' tutoring. We check they can explain an idea like energy transfer simply, without just reciting the textbook."
+reviews:
+  - "Chamarika|Parent of GCSE Student|Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s. Thank you to all the 3x tutors."
+  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. The website is easy to use and effective, I had no disappointment in scheduling lessons for my son. Tutors were polite and on time for their lessons."
+  - "Gilmoore|Parent of GCSE Student|Initially I was hesitant to enrol my son for online lessons. However, the company has well experienced, knowledgeable and helpful tutors. There is also flexibility around booking of lessons. At the end of the day, my son achieved the next top grade than what had been predicted in his mid-year school GCSE exams. I am forever indebted to The Degree Gap."
+  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. The tutors we have used are lovely.  The Degree Gap use an advanced online platform which enables interactive tuition. We also attended a free webinar from the Degree Gap which was very informative and added value. I highly recommend them."
+  - "Nazrul|Parent of GCSE Student|My daughter found the tutors were very helpful for her GCSE thank you"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

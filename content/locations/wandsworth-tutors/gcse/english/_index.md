@@ -1,0 +1,53 @@
+---
+title: "Wandsworth GCSE English Tutors | The Degree Gap"
+nav_title: "English"
+description: "Running out of time on the GCSE English papers? Online GCSE English tutoring for Wandsworth students, Language and Literature. From £37 an hour, no contract."
+layout: "level-subject"
+location: "Wandsworth"
+level: "GCSE"
+subject: "English"
+hero_h1: "GCSE English Tutors for Wandsworth Students"
+hero_lead: "Your child reads the unseen poem twice, panics, and writes half a page. Our GCSE English tutors for Wandsworth students teach a calm way into texts they've never seen before."
+angle_eyebrow: "THE TEXT THEY'VE NEVER SEEN"
+angle_heading: "Why Unseen Texts and Timing Cost Wandsworth Students the Most GCSE English Marks"
+angle_body_1: "Much of GCSE English is about texts your child can't prepare for: the unseen poems in Literature, and the extracts on the Language papers. There's no quotation to learn, so children who rely on revision feel stuck. They read slowly, worry about missing the meaning, and run out of time on the questions worth the most marks. Many write well enough, but spend the first fifteen minutes on a four-mark question and rush the long answers at the end."
+angle_body_2: "The tutor teaches a short routine for any unseen text: what's it about, what's the mood, which three details stand out and why. Your child practises on new texts every week, so it stops feeling unfamiliar. Then the lessons work on timing, with each question given minutes in proportion to its marks. Set texts get attention too, but the unseen papers are where we usually see the quickest gains."
+angle_image: "/images/stack-of-school-textbooks.jpg"
+angle_image_alt: "A stack of school books, like the texts studied for GCSE English"
+angle_stat_from: "5"
+angle_stat_to: "6/7"
+angle_stat_detail: "Omo (Parent of GCSE Student) wrote on Google that a son in Year 10 “has improved from a grade 5 to a 6/7” after “six months of working with Malvina”."
+schools:
+  - "Saint Cecilia's Church of England School"
+  - "Southfields Academy"
+  - "Ark Bolingbroke Academy"
+  - "Graveney School"
+  - "Emanuel School"
+steps_heading: "Starting GCSE English lessons for a Wandsworth student"
+steps_lead: "Language, Literature or both. Profiles usually arrive within a day of the call."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask about the board, the set texts, and whether reading, writing or timing is the main worry."
+  - title: "Choose your tutor"
+    body: "Two or three English tutor profiles within 24 hours. Your child meets the one you like on a free 15-minute video call before anything is booked."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, annotating extracts on a shared whiteboard, with a replay each time. From £37 an hour, no contract."
+faqs:
+  - q: "How can my child prepare for unseen poetry?"
+    a: "By practising on lots of poems, briefly and often. The tutor uses new poems every week and a simple routine for reading them, so your child learns that any poem can be approached the same way."
+  - q: "My child needs a 4 in English to move on. Is tutoring worth it?"
+    a: "Often, yes. A 4 in English decides a lot after 16, including whether your child has to keep studying it. A tutor focuses on the questions where a few extra marks are easiest to find."
+  - q: "My son is autistic and finds English hard. Can a tutor help?"
+    a: "Yes. Tell us about his needs on the call and we'll suggest tutors with relevant experience. One-to-one, the tutor can make the structure of each answer very clear, keep tasks short and go at his pace."
+  - q: "How are your English tutors chosen?"
+    a: "Harry or Joe interview every one, and about 3% of applicants are accepted. Each has at least two years' tutoring."
+reviews:
+  - "Simone|Parent of GCSE Student|My son has just passed his English GCSE with a Grade 5 — he only needed a Grade 4, so we are absolutely over the moon and incredibly proud! 🎉👏 With all of my son SEN needs and the challenges he has faced throughout his education, there were times when we genuinely weren't sure he would get here. But today he has proved that anything is achievable with the right support, belief and determination. A huge thank you to Emir, Your encouragement and motivation has meant so much. We are so grateful for everything you have done. 🙏"
+  - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
+  - "Jo|Parent of GCSE Student|We got in touch with The Degree Gap to help support our son to pass his English Language GCSE. Although we were close to the exam period when we started, his weekly tutor sessions made such a difference. He passed and has gained entrance to college without need for any re-sits. Thank you!"
+  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents.\n\nUPDATE: My daughter passed both English and Maths GCSE (4 and 5's). We are extremely grateful to your team especially Avery for the support she gave her in both subjects. Considering she missed a large chunk of the last 3 years at school due to a social anxiety illness, this is an amazing achievement for her."
+  - "Jessica|Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

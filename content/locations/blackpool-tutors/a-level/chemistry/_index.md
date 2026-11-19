@@ -1,0 +1,52 @@
+---
+title: "Blackpool A-Level Chemistry Tutors | The Degree Gap"
+nav_title: "Chemistry"
+description: "Have curly arrows and moles calculations lost your child? Online A-Level Chemistry tutoring for Blackpool sixth formers, matched to the board. From £37."
+layout: "level-subject"
+location: "Blackpool"
+level: "A-Level"
+subject: "Chemistry"
+hero_h1: "A-Level Chemistry Tutors for Blackpool Students"
+hero_lead: "Your child enjoyed Chemistry at GCSE and now dreads the organic topics. Our A-Level Chemistry tutors for Blackpool students go back to why electrons move, so the mechanisms start to make sense on their own."
+angle_eyebrow: "THE STEP UP NOBODY WARNS YOU ABOUT"
+angle_heading: "Where Blackpool Students Get Lost in A-Level Chemistry"
+angle_body_1: "A-Level Chemistry is the subject Year 12s most often tell us has surprised them. The calculations arrive fast, with moles, concentrations and equilibrium constants stacked on top of each other. Organic chemistry brings mechanisms that look like dozens of separate things to memorise. And the practical endorsement means written questions about methods and errors that GCSE barely touched. A student who learnt GCSE Chemistry well by rote can feel lost by October half-term."
+angle_body_2: "The tutor rebuilds from the ideas underneath: what a mole really is, why a bond breaks one way and not another. Once those are secure, the mechanisms turn out to follow a few patterns, and calculations become a set of steps your child can check. Chemistry sits behind medicine, pharmacy and a lot of science and engineering degrees, so for many Blackpool sixth formers it's the grade an offer turns on."
+angle_image: "/images/chemistry-lab-glassware.jpg"
+angle_image_alt: "Glassware on a lab bench for an A-Level Chemistry practical"
+angle_stat_from: "E"
+angle_stat_to: "B"
+angle_stat_detail: "From an E to a B: Keira, an A-Level Student, wrote on Google that the tutoring “definitely helped me increase my grades from an E to a B”. The subject isn't named."
+schools:
+  - "Blackpool Sixth Form College"
+  - "Blackpool and The Fylde College"
+  - "AKS Lytham"
+  - "Baines School"
+steps_heading: "Getting A-Level Chemistry tutoring started in Blackpool"
+steps_lead: "If mocks are close, mention it on the call. Tutor profiles normally arrive within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "Roughly half an hour with Harry or Joe, free. We'll ask about the board, the year group, and whether organic, physical or inorganic chemistry is the weak point."
+  - title: "Choose your tutor"
+    body: "Within a day, two or three Chemistry tutor profiles matched to your child's specification. Your child meets one on a free 15-minute video call before you commit."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, mechanisms drawn together on the whiteboard, every lesson recorded. From £37 an hour, no contract, and a different tutor if needed."
+faqs:
+  - q: "My child is struggling with A-Level Chemistry after moving to a new college. Is that common?"
+    a: "Very. A new place, new teachers and sometimes a new board all at once is a lot, and Year 12 Chemistry moves quickly. A gap in moles or bonding can grow fast. A tutor finds it and fills it, usually within a few weeks."
+  - q: "How can my child get better at organic mechanisms?"
+    a: "By understanding why electrons move instead of memorising each mechanism. Once that clicks, most follow the same few patterns. A tutor practises them until your child can draw one they haven't seen before."
+  - q: "What experience do your Chemistry tutors have?"
+    a: "Each has at least two years of tutoring, and every one is interviewed by Harry or Joe. Only about 3% of applicants are accepted."
+  - q: "Can we stop after the exams?"
+    a: "Yes, whenever you like. There's no contract, you pay per lesson from £37 an hour, and a day or two's notice is enough."
+reviews:
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Leo|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---
