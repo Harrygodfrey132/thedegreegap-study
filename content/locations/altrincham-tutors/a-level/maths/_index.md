@@ -1,5 +1,5 @@
 ---
-title: "A-Level Maths Tutors Covering Altrincham | The Degree Gap"
+title: "Altrincham A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Year 12 Maths looks fine, but the harder half comes in Year 13. A-Level Maths tutors for Altrincham get your child ready, online and one-to-one. From £37."
 layout: "level-subject"

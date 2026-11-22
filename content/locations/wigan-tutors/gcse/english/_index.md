@@ -1,5 +1,5 @@
 ---
-title: "GCSE English Tutors Covering Wigan | The Degree Gap"
+title: "Wigan GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "Full of ideas about the book, but the essays don't show it? Our online GCSE English tutors help Wigan students turn them into marks. AQA or Edexcel, from £37."
 layout: "level-subject"

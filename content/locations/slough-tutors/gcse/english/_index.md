@@ -1,5 +1,5 @@
 ---
-title: "GCSE English Tutors Covering Slough | The Degree Gap"
+title: "Slough GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "Slough sixth forms don't always weigh the two English GCSEs the same way. Our online GCSE English tutors work on the grade that matters. From £37 an hour."
 layout: "level-subject"

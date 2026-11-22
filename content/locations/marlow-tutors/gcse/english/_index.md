@@ -1,5 +1,5 @@
 ---
-title: "GCSE English Tutors Covering Marlow | The Degree Gap"
+title: "Marlow GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "Essays coming home half finished? Our GCSE English tutors for Marlow work one-to-one online on planning, quotations and finishing in time. From £37."
 layout: "level-subject"

@@ -1,5 +1,5 @@
 ---
-title: "GCSE English Tutors Covering Plymouth | The Degree Gap"
+title: "Plymouth GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "Online GCSE English tutors for Plymouth, for Language and Literature, from the unseen poetry question to the timed essay. One-to-one from £37 an hour."
 layout: "level-subject"

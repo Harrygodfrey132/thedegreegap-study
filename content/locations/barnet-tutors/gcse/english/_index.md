@@ -1,5 +1,5 @@
 ---
-title: "GCSE English Tutors Covering Barnet | The Degree Gap"
+title: "Barnet GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "Families often get help with English last, yet sixth forms look at it first. GCSE English tutors for Barnet work online, one-to-one, with your child. From £37."
 layout: "level-subject"

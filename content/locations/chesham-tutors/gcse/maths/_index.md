@@ -1,5 +1,5 @@
 ---
-title: "GCSE Maths Tutors Covering Chesham | The Degree Gap"
+title: "Chesham GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "GCSE Maths tutors for Chesham families at Chesham Grammar, Dr Challoner's and the Chiltern upper schools. Online, matched to your child's exam board, from £37."
 layout: "level-subject"

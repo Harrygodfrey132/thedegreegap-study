@@ -1,5 +1,5 @@
 ---
-title: "GCSE English Tutors Covering Northampton | The Degree Gap"
+title: "Northampton GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "Online GCSE English tutors for Northampton families. If your child knows the texts but the grade won't budge, we start with the unseen papers. From £37."
 layout: "level-subject"

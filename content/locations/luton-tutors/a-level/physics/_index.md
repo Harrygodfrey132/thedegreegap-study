@@ -1,5 +1,5 @@
 ---
-title: "A-Level Physics Tutors Covering Luton | The Degree Gap"
+title: "Luton A-Level Physics Tutors | The Degree Gap"
 nav_title: "Physics"
 description: "Online A-Level Physics tutors for Luton sixth formers, from the AS exam at the end of Year 12 to fields and capacitors in Year 13. Matched on board, from £37."
 layout: "level-subject"

@@ -1,5 +1,5 @@
 ---
-title: "GCSE English Tutors Covering Maidstone | The Degree Gap"
+title: "Maidstone GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "English essays accurate but stuck on middling marks? Our online GCSE English tutors teach Maidstone students the step from retelling to arguing. From £37."
 layout: "level-subject"

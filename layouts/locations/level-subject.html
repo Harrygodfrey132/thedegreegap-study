@@ -195,7 +195,7 @@
                 allowfullscreen></iframe>
         <span class="lvls-angle__map-tag">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-7.58-7-12a7 7 0 0 1 14 0c0 4.42-7 12-7 12z"/><circle cx="12" cy="9" r="2.5"/></svg>
-          Covering {{ $loc }} &amp; nearby
+          For {{ $loc }} students, online
         </span>
         <button type="button" data-reviews-open class="lvls-gpill lvls-gpill--mapcorner" aria-label="Read our {{ site.Params.googleReviewCount }} Google reviews" aria-controls="bc-reviews-drawer" aria-expanded="false">
           <span class="lvls-gpill__g" aria-hidden="true">
@@ -582,7 +582,7 @@
     </div>
     {{ end }}
     {{ with $nearby }}
-    <p class="lvls-deeper__label">{{ $level }} {{ $subject }} tutors covering other areas</p>
+    <p class="lvls-deeper__label">{{ $level }} {{ $subject }} tutors for students in other areas</p>
     <div class="lvls-deeper__grid">
       {{ range first 4 . }}<a class="lvls-deeper__pill" href="{{ .RelPermalink }}">{{ .Params.location }}</a>{{ end }}
     </div>

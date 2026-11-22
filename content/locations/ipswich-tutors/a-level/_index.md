@@ -1,5 +1,5 @@
 ---
-title: "A-Level Tutors Covering Ipswich | The Degree Gap"
+title: "Ipswich A-Level Tutors | The Degree Gap"
 description: "Online Ipswich A-Level tutors for students weighing UCAS against a degree apprenticeship deadline. One-to-one over Lessonspace, matched on spec, from £37 an hour."
 layout: "subject"
 location: "Ipswich"

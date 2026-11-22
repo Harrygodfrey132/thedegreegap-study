@@ -8,7 +8,7 @@ banner_description: "Our tutors for Oxford families find the questions where you
 content_angle: ambition / competitive sixth form entry / university shadow pressure
 intro_1: "Maybe it's the talk over dinner about which sixth form, or a mock that came back a grade lower than your child hoped. In Oxford, that grade carries more weight than you'd think. There are no grammar schools here, and every state secondary is a comprehensive. So the sorting other counties do at 11 happens at 16, through GCSE results alone. And with the university sitting in the middle of the city, it's easy for \"good\" to feel like a moving target."
 intro_2: "This is what we help Oxford families with. Our tutors don't reteach the whole course. They sit down with your child and a past paper, and find the places where the understanding is there but the exam answer isn't. For some families that means a GCSE tutor ahead of a sixth form application. For others it's A-Level tuition to steady a shaky prediction or lift a B towards an A. Either way, what you'll usually notice first is a change in how your child goes about the work."
-about_heading: GCSE and A-Level Tutors Covering Oxford
+about_heading: GCSE and A-Level Tutors for Oxford Families
 about_image: /images/university-lecture-hall.jpg
 schools_intro: "If your child is at The Cherwell School, Cheney School or Oxford Spires Academy, their GCSE results are what a sixth form place will lean on. We also work with families from Magdalen College School, d'Overbroeck's and St Edward's School. Whichever school it is, we'll ask which exam boards your child is sitting and match on that. Alongside one-to-one lessons, we run revision and exam preparation workshops that any Oxford pupil can join."
 schools:

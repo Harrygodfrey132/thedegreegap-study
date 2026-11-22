@@ -1,5 +1,5 @@
 ---
-title: "GCSE Tutors Covering Altrincham | The Degree Gap"
+title: "Altrincham GCSE Tutors | The Degree Gap"
 description: "One subject a grade or two behind the rest? Our GCSE tutors for Altrincham find it on a marked paper and work on it with your child online. From £37 an hour."
 layout: "subject"
 location: "Altrincham"

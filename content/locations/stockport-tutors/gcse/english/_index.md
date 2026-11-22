@@ -1,5 +1,5 @@
 ---
-title: "GCSE English Tutors Covering Stockport | The Degree Gap"
+title: "Stockport GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "English prediction dropped a grade? Our online GCSE English tutors help Stockport families find the essay behind it and fix the habit. From £37, no contract."
 layout: "level-subject"

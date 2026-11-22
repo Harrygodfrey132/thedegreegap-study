@@ -1,5 +1,5 @@
 ---
-title: "GCSE Maths Tutors Covering London | The Degree Gap"
+title: "London GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "One-to-one GCSE Maths tutors across every London borough, online. For a Year 10 new to higher tier or a Year 11 chasing a sixth form place. From £37."
 layout: "level-subject"

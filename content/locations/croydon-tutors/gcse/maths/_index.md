@@ -1,5 +1,5 @@
 ---
-title: "GCSE Maths Tutors Covering Croydon | The Degree Gap"
+title: "Croydon GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "One shaky algebra method from Year 8 can cost your child marks on foundation or higher. Our GCSE Maths tutors for Croydon find it and rebuild it online."
 layout: "level-subject"

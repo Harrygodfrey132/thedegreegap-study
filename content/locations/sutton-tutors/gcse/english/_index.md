@@ -1,5 +1,5 @@
 ---
-title: "GCSE English Tutors Covering Sutton | The Degree Gap"
+title: "Sutton GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "Maths and Science fine, but English two grades down in the mock? Our GCSE English tutors for Sutton work online on essay structure and timing. From £37 an hour."
 layout: "level-subject"

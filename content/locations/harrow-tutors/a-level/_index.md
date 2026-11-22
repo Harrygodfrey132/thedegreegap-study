@@ -1,5 +1,5 @@
 ---
-title: "A-Level Tutors Covering Harrow | The Degree Gap"
+title: "Harrow A-Level Tutors | The Degree Gap"
 description: "Did Year 12 turn out much steeper than GCSE for your child? A-Level tutors for Harrow, one-to-one online with a replay of every lesson. From £37, no contract."
 layout: "subject"
 location: "Harrow"

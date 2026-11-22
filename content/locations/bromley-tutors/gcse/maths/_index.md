@@ -1,5 +1,5 @@
 ---
-title: "GCSE Maths Tutors Covering Bromley | The Degree Gap"
+title: "Bromley GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Right answer, half the marks. Our GCSE Maths tutors for Bromley help quick thinkers write down the working the mark scheme pays for. Online, from £37."
 layout: "level-subject"

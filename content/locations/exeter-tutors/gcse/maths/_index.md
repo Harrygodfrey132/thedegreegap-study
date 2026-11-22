@@ -1,5 +1,5 @@
 ---
-title: "GCSE Maths Tutors Covering Exeter | The Degree Gap"
+title: "Exeter GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "GCSE Maths tutors for Exeter, for a college course grade or a place at Exeter Mathematics School. Matched to your child's exam board, online, from £37 an hour."
 layout: "level-subject"

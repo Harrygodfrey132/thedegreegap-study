@@ -1,5 +1,5 @@
 ---
-title: "A-Level Maths Tutors Covering Didcot | The Degree Gap"
+title: "Didcot A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Taking Maths alongside Physics or Chemistry in sixth form? Our A-Level Maths tutors for Didcot help your child with pure, mechanics and statistics online,"
 layout: "level-subject"

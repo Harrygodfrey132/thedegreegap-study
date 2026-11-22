@@ -1,5 +1,5 @@
 ---
-title: "GCSE English Tutors Covering Woking | The Degree Gap"
+title: "Woking GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "GCSE English tutors for Woking, for when your child's essays keep running out of time. Matched to the board and set texts, one-to-one online, from £37 an hour."
 layout: "level-subject"

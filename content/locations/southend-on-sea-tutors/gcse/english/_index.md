@@ -1,5 +1,5 @@
 ---
-title: "GCSE English Tutors Covering Southend-on-Sea | The Degree Gap"
+title: "Southend-on-Sea GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "Online GCSE English tutors for Southend-on-Sea, matched on exam board and set texts, across Language and Literature. One-to-one, from £37 an hour."
 layout: "level-subject"

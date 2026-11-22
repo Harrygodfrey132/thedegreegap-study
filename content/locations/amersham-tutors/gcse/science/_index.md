@@ -1,5 +1,5 @@
 ---
-title: "GCSE Science Tutors Covering Amersham | The Degree Gap"
+title: "Amersham GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
 description: "GCSE Science tutors for Amersham, for your child, from half-life graphs to titrations and circuits. Triple or combined, one-to-one online lessons from £37."
 layout: "level-subject"

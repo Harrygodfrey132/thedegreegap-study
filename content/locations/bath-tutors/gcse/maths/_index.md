@@ -1,5 +1,5 @@
 ---
-title: "GCSE Maths Tutors Covering Bath | The Degree Gap"
+title: "Bath GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Is your child losing the proof and circle theorem marks on the higher paper? Our GCSE Maths tutors for Bath teach them to write the reasons. Online, from £37."
 layout: "level-subject"

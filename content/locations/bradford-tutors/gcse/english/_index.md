@@ -1,5 +1,5 @@
 ---
-title: "GCSE English Tutors Covering Bradford | The Degree Gap"
+title: "Bradford GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "Online GCSE English tutors for Bradford students, working on Language and Literature separately because they lose marks for different reasons. From £37."
 layout: "level-subject"

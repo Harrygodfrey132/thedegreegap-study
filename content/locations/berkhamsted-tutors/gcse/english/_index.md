@@ -1,5 +1,5 @@
 ---
-title: "GCSE English Tutors Covering Berkhamsted | The Degree Gap"
+title: "Berkhamsted GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "Is your child's best point turning up in the last paragraph? Our Berkhamsted GCSE and iGCSE English tutors help them lead with it. Online, from £37."
 layout: "level-subject"

@@ -1,5 +1,5 @@
 ---
-title: "GCSE Science Tutors Covering Bicester | The Degree Gap"
+title: "Bicester GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
 description: "Practicals missed after a change of school or a spell off ill still come up in the exam. Our GCSE Science tutors for Bicester go through them online. From £37."
 layout: "level-subject"

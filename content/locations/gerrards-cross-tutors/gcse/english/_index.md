@@ -1,5 +1,5 @@
 ---
-title: "GCSE English Tutors Covering Gerrards Cross | The Degree Gap"
+title: "Gerrards Cross GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "Schools pick their own GCSE English books, so our tutors for Gerrards Cross are matched to your child's set texts and exam board. One-to-one, online, from £37."
 layout: "level-subject"

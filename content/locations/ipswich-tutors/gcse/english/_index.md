@@ -1,5 +1,5 @@
 ---
-title: "GCSE English Tutors Covering Ipswich | The Degree Gap"
+title: "Ipswich GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "Online GCSE English tutors for Ipswich, for Language and Literature, built around unseen poetry and the comparison question. From £37 an hour."
 layout: "level-subject"

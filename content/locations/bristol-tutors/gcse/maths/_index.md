@@ -1,5 +1,5 @@
 ---
-title: "GCSE Maths Tutors Covering Bristol | The Degree Gap"
+title: "Bristol GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "GCSE Maths tutors for Bristol matched to your child's exam board and to the part of the higher paper that's costing marks. Online, one-to-one, from £37 an hour."
 layout: "level-subject"

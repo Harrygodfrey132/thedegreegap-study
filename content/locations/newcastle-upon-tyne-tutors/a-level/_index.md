@@ -1,5 +1,5 @@
 ---
-title: "A-Level Tutors Covering Newcastle upon Tyne | The Degree Gap"
+title: "Newcastle upon Tyne A-Level Tutors | The Degree Gap"
 description: "Good GCSEs don't always carry into Year 12. A-Level tutors for Newcastle upon Tyne find out why your child's first report dipped, online. From £37."
 layout: "subject"
 location: "Newcastle upon Tyne"

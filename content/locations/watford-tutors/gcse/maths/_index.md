@@ -1,5 +1,5 @@
 ---
-title: "GCSE Maths Tutors Covering Watford | The Degree Gap"
+title: "Watford GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "GCSE Maths tutors for Watford, for the child chasing a 9 and the child rebuilding the basics. One-to-one lessons online, matched to their exam board, from £37."
 layout: "level-subject"

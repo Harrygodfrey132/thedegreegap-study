@@ -1,5 +1,5 @@
 ---
-title: "GCSE English Tutors Covering Leeds | The Degree Gap"
+title: "Leeds GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "Online GCSE English tutors for Leeds families. If your child knows the texts but the essays stall at a 5, we work on the structure and timing that move it on."
 layout: "level-subject"

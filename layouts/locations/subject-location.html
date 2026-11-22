@@ -9,7 +9,7 @@
 {{ $schools := .Params.schools | default (slice "Whitgift School" "Trinity School" "Old Palace of John Whitgift School" "Croydon High School" "Archbishop Tenison's CE High School" "Wallington County Grammar School") }}
 {{ $areaLinks := .Params.area_links | default (slice "Croydon Tutors|/locations/croydon-tutors/" "Purley Tutors|/locations/purley-tutors/" "Addington Tutors|/locations/addington-tutors/" "Mitcham Tutors|/locations/mitcham-tutors/" "Bromley Tutors|/locations/bromley-tutors/" "Thornton Heath Tutors|/locations/thornton-heath-tutors/" "Tooting Tutors|/locations/tooting-tutors/" "Balham Tutors|/locations/balham-tutors/" "Streatham Tutors|/locations/streatham-tutors/") }}
 {{ $bannerHeading := .Params.banner_heading | default "Struggling to Achieve the Grades You Want? Our Online Tutors Can Help" }}
-{{ $bannerLead := .Params.banner_lead | default (printf "We'll connect you with an expert %s tutor covering the %s area who can help you achieve it with a clear plan, proven strategies, and personalised support at every step." $subject $loc) }}
+{{ $bannerLead := .Params.banner_lead | default (printf "We'll connect you with an expert %s tutor for %s students who can help you achieve it with a clear plan, proven strategies, and personalised support at every step." $subject $loc) }}
 {{ $onlineHeading := .Params.online_heading | default (printf "How Online Tuition Can Support Students in the %s Area" $loc) }}
 {{ $online1 := .Params.online_1 | default (printf "%s requires consistent practice and clear explanations, something that's not always possible in a busy classroom." $subject) }}
 {{ $online2 := .Params.online_2 | default "Whether your child needs regular weekly sessions or intensive revision ahead of exams, the tutors in our network adapt to fit around school schedules and commitments." }}
@@ -353,7 +353,7 @@
       <div class="loc-contact-faq__form-bg" aria-hidden="true"></div>
       <div class="loc-contact-faq__form-card">
         <h2>Get In Touch &amp; FAQs</h2>
-        <p>Looking for a {{ $subject }} tutor covering the {{ $loc }} area? Get in touch today and we'll help you find the right tutor for your child. Our team is here to answer your questions, understand your child's needs, and introduce you to an experienced tutor who can help.</p>
+        <p>Looking for a {{ $subject }} tutor for your child in {{ $loc }}? Get in touch today and we'll help you find the right tutor for your child. Our team is here to answer your questions, understand your child's needs, and introduce you to an experienced tutor who can help.</p>
         <form action="{{ .Site.Params.formspreeEndpoint }}" method="POST" novalidate>
           <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
           <div aria-hidden="true" style="position:absolute;left:-9999px;top:-9999px;width:0;height:0;overflow:hidden;opacity:0"><input type="text" name="address_url" data-bait="1" tabindex="-1" autocomplete="off"><input type="email" name="company_website" data-bait="1" tabindex="-1" autocomplete="off"></div>

@@ -1,5 +1,5 @@
 ---
-title: "GCSE English Tutors Covering Bolton | The Degree Gap"
+title: "Bolton GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "Online GCSE English tutors for Bolton, for Language and Literature, working the questions where the marks actually leave the paper. From £37 an hour."
 layout: "level-subject"

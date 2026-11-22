@@ -1,5 +1,5 @@
 ---
-title: "GCSE Maths Tutors Covering Reigate | The Degree Gap"
+title: "Reigate GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Does your child need a 6 in Maths for a science at Reigate College? Our GCSE Maths tutors find where the marks go and win them back. Online, from £37."
 layout: "level-subject"

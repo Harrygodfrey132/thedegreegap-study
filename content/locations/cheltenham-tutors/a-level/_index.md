@@ -1,5 +1,5 @@
 ---
-title: "A-Level Tutors Covering Cheltenham | The Degree Gap"
+title: "Cheltenham A-Level Tutors | The Degree Gap"
 description: "Strong GCSEs, then a tough Year 12? Our A-Level tutors for Cheltenham work online with your child before their predicted grades go off to UCAS. From £37."
 layout: "subject"
 location: "Cheltenham"

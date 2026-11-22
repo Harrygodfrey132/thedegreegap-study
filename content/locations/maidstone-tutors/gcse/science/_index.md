@@ -1,5 +1,5 @@
 ---
-title: "GCSE Science Tutors Covering Maidstone | The Degree Gap"
+title: "Maidstone GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
 description: "Your child revises Biology and puts off Chemistry? Very common. Our GCSE Science tutors for Maidstone check where the marks really go, online from £37 an hour."
 layout: "level-subject"

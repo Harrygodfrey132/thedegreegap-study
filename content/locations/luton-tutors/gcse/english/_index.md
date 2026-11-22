@@ -1,5 +1,5 @@
 ---
-title: "GCSE English Tutors Covering Luton | The Degree Gap"
+title: "Luton GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "GCSE English tutors for Luton students, turning what they can argue out loud into marks on the page, in Language and Literature. Online, from £37."
 layout: "level-subject"
