@@ -11801,3 +11801,23 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .cbp__scrim, .cbp__card, .cbp__code { transition: none; }
   .cbp__card { transform: none; }
 }
+
+/* ── Town pages: tutor faces under the hero (partials/loc-faces.html) ── */
+.loc-faces { padding: 44px 0 40px; background: var(--cream); border-bottom: 1px solid var(--border); }
+.loc-faces__head { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 0.25rem 1.5rem; margin-bottom: 1.5rem; }
+.loc-faces__title { font-size: clamp(1.15rem, 2.2vw, 1.45rem); line-height: 1.25; margin: 0; }
+.loc-faces__sub { margin: 0; color: var(--text-muted); font-size: 0.9rem; }
+.loc-faces__list { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(8, minmax(0, 1fr)); gap: 1rem; }
+.loc-face { display: flex; flex-direction: column; align-items: center; text-align: center; gap: 0.2rem; }
+.loc-face img { width: 100%; max-width: 112px; aspect-ratio: 1; object-fit: cover; border-radius: 50%; border: 3px solid #fff; box-shadow: 0 4px 14px rgba(35, 23, 17, 0.1); margin-bottom: 0.4rem; }
+.loc-face__name { font-weight: 600; font-size: 0.95rem; color: var(--text); }
+.loc-face__qual { font-size: 0.78rem; line-height: 1.35; color: var(--text-muted); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.loc-faces__cta { margin: 1.4rem 0 0; text-align: center; font-size: 0.95rem; }
+.loc-faces__cta a { color: var(--burgundy); font-weight: 600; text-decoration: none; }
+.loc-faces__cta a:hover { text-decoration: underline; }
+@media (max-width: 900px) { .loc-faces__list { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+@media (max-width: 520px) {
+  .loc-faces { padding: 32px 0; }
+  .loc-faces__list { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; gap: 0.75rem; padding-bottom: 0.5rem; margin: 0 -16px; padding-inline: 16px; }
+  .loc-face { flex: 0 0 31%; scroll-snap-align: start; }
+}

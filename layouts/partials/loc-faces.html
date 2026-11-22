@@ -1,0 +1,44 @@
+{{/* Faces near the top of a town page: six tutors from data/tutors.yaml.
+     The pick is fixed per town (FNV hash of the town name), so it doesn't
+     reshuffle on every build, and neighbouring towns show different faces.
+     Founders are left out (they have their own section), as are tutors
+     whose only listed qualification is school-level (A-Levels, GCSEs). Only the first clause of
+     the qualification is shown, with bracketed dates removed. */}}
+{{ $loc := .Params.location | default "your area" }}
+{{ $pool := slice }}
+{{ range site.Data.tutors }}
+  {{ $q := .qualifications | default "" }}
+  {{ if and (not (in (slice "Harry Godfrey" "Joe Clark") .name)) $q (not (findRE `(?i)^(A[- ]*Levels?|GCSEs?|Secondary Education|CV)\b` $q)) }}
+    {{ $pool = $pool | append . }}
+  {{ end }}
+{{ end }}
+{{ $n := len $pool }}
+{{ $start := mod (hash.FNV32a $loc) $n }}
+{{ $picked := slice }}
+{{ range $i := seq 0 7 }}
+  {{ $picked = $picked | append (index $pool (mod (add $start (mul $i 7)) $n)) }}
+{{ end }}
+<section class="loc-faces" aria-labelledby="loc-faces-title">
+  <div class="container">
+    <div class="loc-faces__head">
+      <h2 id="loc-faces-title" class="loc-faces__title">Some of the tutors working with {{ $loc }} students</h2>
+      <p class="loc-faces__sub">Every tutor is interviewed by Harry or Joe. About 3% of applicants are accepted.</p>
+    </div>
+    <ul class="loc-faces__list">
+      {{ range $picked }}
+      {{ $q := index (split .qualifications ";") 0 }}
+      {{ $studying := strings.Contains $q "(in progress)" }}
+      {{ $q = replaceRE `\s*\(([^)]*\d{4}[^)]*|in progress)\)` "" $q }}
+      {{ if $studying }}{{ $q = printf "Studying %s" $q }}{{ end }}
+      {{ $first := index (split .name " ") 0 }}
+      <li class="loc-face">
+        <img src="{{ partial "url.html" .image }}" alt="{{ .name }}, tutor" width="160" height="160" loading="lazy" decoding="async"
+             onerror="this.closest('.loc-face').remove()">
+        <span class="loc-face__name">{{ $first }}</span>
+        <span class="loc-face__qual">{{ trim $q " " }}</span>
+      </li>
+      {{ end }}
+    </ul>
+    <p class="loc-faces__cta"><a href="#get-help">Tell us about your child and we'll suggest two or three tutors &rarr;</a></p>
+  </div>
+</section>

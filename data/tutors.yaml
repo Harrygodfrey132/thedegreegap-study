@@ -1157,3 +1157,320 @@
   online: true
   qualifications: PGCE Mathematics, Oxford University; BA Philosophy, Politics and Economics, Oxford University; International
     Baccalaureate graduate
+
+# Added 22 Nov 2026 from thedegreegap.com/teachers/search (profiles live that day).
+- name: "Jane Lee"
+  slug: 105052196298357127527
+  teaches: "GCSE English, Personal Statement / Admissions, University - French, GCSE - French , GCSE - German, A level French , A level German, 2-1 English tutoring, Student Coaching, IB French"
+  image: /images/tutors/jane-lee.jpg
+  url: https://thedegreegap.com/teachers/view/105052196298357127527
+  online: true
+  qualifications: "DPhil, French, University of Oxford"
+- name: "Mariam Fadiga"
+  slug: 111916860740340760543
+  teaches: "GCSE Maths, 2-1 English tutoring, 11+ Maths, 11+ English , Revision Techniques, Student Coaching"
+  image: /images/tutors/mariam-fadiga.jpg
+  url: https://thedegreegap.com/teachers/view/111916860740340760543
+  online: true
+  qualifications: "BSc Biological and Chemical Sciences, Coventry"
+- name: "Abiir Muktar"
+  slug: Abiirr
+  teaches: "GCSE Biology, GCSE Physics, GCSE Chemistry, GCSE Psychology, GCSE Maths, GCSE Geography, A level Psychology, A level Biology, Revision Techniques, GCSE Religious Studies, Student Coaching"
+  image: /images/tutors/abiir-muktar.jpg
+  url: https://thedegreegap.com/teachers/view/Abiirr
+  online: true
+  qualifications: "A- Level, The Charter School"
+- name: "Alex Smith"
+  slug: AlexSmith
+  teaches: "GCSE Biology, GCSE Physics, GCSE Chemistry, GCSE Maths"
+  image: /images/tutors/alex-smith.jpg
+  url: https://thedegreegap.com/teachers/view/AlexSmith
+  online: true
+- name: "Alex Grimmer"
+  slug: Alex_Grimmer
+  teaches: "GCSE Economics, GCSE Business, A level Business, A level Economics, IB Economics"
+  image: /images/tutors/alex-grimmer.jpg
+  url: https://thedegreegap.com/teachers/view/Alex_Grimmer
+  online: true
+  qualifications: "PGCSE, University of Brighton"
+- name: "Alex Postings"
+  slug: Alex_Postings
+  teaches: "GCSE English, A level English, 11+ English , Student Coaching"
+  image: /images/tutors/alex-postings.jpg
+  url: https://thedegreegap.com/teachers/view/Alex_Postings
+  online: true
+  qualifications: "Bachelors Degree for the Arts, UCA Farnham"
+- name: "Annie Kemp"
+  slug: AnnieKemp
+  teaches: "GCSE Biology, GCSE Chemistry, A level Chemistry"
+  image: /images/tutors/annie-kemp.jpg
+  url: https://thedegreegap.com/teachers/view/AnnieKemp
+  online: true
+  qualifications: "BSc Chemistry with Scientific Computing, University of Bristol"
+- name: "Arijit Saha"
+  slug: ArijitS
+  teaches: "GCSE Biology, GCSE Physics, GCSE Chemistry, GCSE Maths, A level Maths, A level Physics, A level Further Maths, GCSE Further Maths"
+  image: /images/tutors/arijit-saha.jpg
+  url: https://thedegreegap.com/teachers/view/ArijitS
+  online: true
+  qualifications: "A Levels, Barnhill Community High"
+- name: "Charles Dobbie"
+  slug: CharlesDobbie
+  teaches: "GCSE Physics, University - Maths, GCSE Maths, A level Maths, A level Physics, University - Physics, A level Further Maths, IB Maths, IB Physics"
+  image: /images/tutors/charles-dobbie.jpg
+  url: https://thedegreegap.com/teachers/view/CharlesDobbie
+  online: true
+  qualifications: "BSc Mathematics and Physics, Durham University"
+- name: "Diya Odedra"
+  slug: Diya_Odedra
+  teaches: "GCSE Maths, A level Maths, A level Further Maths, GCSE Further Maths"
+  image: /images/tutors/diya-odedra.jpg
+  url: https://thedegreegap.com/teachers/view/Diya_Odedra
+  online: true
+  qualifications: "A-Levels, Aylesbury High School"
+- name: "Georgina Lobo"
+  slug: GeorginaLobo
+  teaches: "GCSE English, A level English, 2-1 English tutoring, 11+ English"
+  image: /images/tutors/georgina-lobo.jpg
+  url: https://thedegreegap.com/teachers/view/GeorginaLobo
+  online: true
+  qualifications: "B.A English, Goldsmiths, University of London"
+- name: "Gianluca Padovan"
+  slug: Gianlucapadovan
+  teaches: "GCSE Economics, GCSE Business, A level Economics"
+  image: /images/tutors/gianluca-padovan.jpg
+  url: https://thedegreegap.com/teachers/view/Gianlucapadovan
+  online: true
+  qualifications: "Masters (MSc) in Economics, Surrey University"
+- name: "Hannah Davies"
+  slug: HannahDavies
+  teaches: "GCSE English, GCSE History, GCSE Psychology, A level English, A level Psychology, A level History, A level Sociology, Personal Statement / Admissions, University - English, A level Politics, GCSE - Media, 2-1 English tutoring, A level Law"
+  image: /images/tutors/hannah-davies.jpg
+  url: https://thedegreegap.com/teachers/view/HannahDavies
+  online: true
+  qualifications: "BA in American Studies and English, Upper Second-Class Division (2:1), Sussex University"
+- name: "Haydar Hussain"
+  slug: Haydar
+  teaches: "GCSE Physics, GCSE Maths, A level Maths, A level Physics, A level Further Maths, GCSE Further Maths"
+  image: /images/tutors/haydar-hussain.jpg
+  url: https://thedegreegap.com/teachers/view/Haydar
+  online: true
+- name: "Hugh Carr"
+  slug: HughCarr
+  teaches: "University - Maths, GCSE Maths, A level Maths, Personal Statement / Admissions, A level Further Maths, GCSE - French , GCSE - Spanish, A level French , A level Spanish, 11+ Maths, 11+ English , GCSE Further Maths"
+  image: /images/tutors/hugh-carr.jpg
+  url: https://thedegreegap.com/teachers/view/HughCarr
+  online: true
+  qualifications: "BA Mathematics and English, University College Dublin"
+- name: "Iona Fernandes"
+  slug: Iona_Fernandes
+  teaches: "GCSE Economics, GCSE Maths, A level Economics, 11+ Maths, GCSE Further Maths, IB Economics"
+  image: /images/tutors/iona-fernandes.jpg
+  url: https://thedegreegap.com/teachers/view/Iona_Fernandes
+  online: true
+- name: "Ismat Ahmed"
+  slug: IsmatAhmed
+  teaches: "GCSE English, GCSE History, A level English, A level History"
+  image: /images/tutors/ismat-ahmed.jpg
+  url: https://thedegreegap.com/teachers/view/IsmatAhmed
+  online: true
+  qualifications: "English Literature BA, University of Warwick"
+- name: "Kauthar Nur"
+  slug: Kauthar
+  teaches: "GCSE Biology, GCSE Chemistry"
+  image: /images/tutors/kauthar-nur.jpg
+  url: https://thedegreegap.com/teachers/view/Kauthar
+  online: true
+  qualifications: "Dentistry, Queen Mary University of London"
+- name: "Khadijah Salamut"
+  slug: Khadijah
+  teaches: "GCSE English, A level English, A level Sociology, A level Politics"
+  image: /images/tutors/khadijah-salamut.jpg
+  url: https://thedegreegap.com/teachers/view/Khadijah
+  online: true
+  qualifications: "BA in Languages and Cultures, SOAS University"
+- name: "Laryssa Bonazza"
+  slug: Laryssa
+  teaches: "GCSE English, GCSE Psychology, A level English, University- Education, GCSE - French , GCSE - Spanish, A level French , A level Spanish, University - English, GCSE Italian, A level Philosophy , IB English, IB Psychology, IB Philosophy, IB Spanish, IB French, GCSE Portuguese, A-level Portuguese"
+  image: /images/tutors/laryssa-bonazza.jpg
+  url: https://thedegreegap.com/teachers/view/Laryssa
+  online: true
+  qualifications: "PhD in English, University of Huddersfield"
+- name: "Lauren Akinluyi"
+  slug: Lauren
+  teaches: "GCSE English, A level English, Personal Statement / Admissions, University - English, 2-1 English tutoring, 11+ Verbal Reasoning, 11+ English , Revision Techniques, Student Coaching"
+  image: /images/tutors/lauren-akinluyi.jpg
+  url: https://thedegreegap.com/teachers/view/Lauren
+  online: true
+  qualifications: "A level results in English Literature, Religious Studies, Drama and Theatre Studies and History, Downe House School"
+- name: "Liiban Mohamud"
+  slug: Liiban
+  teaches: "University - Maths, GCSE Maths, A level Maths, A level Further Maths, 11+ Maths, IB Maths"
+  image: /images/tutors/liiban-mohamud.jpg
+  url: https://thedegreegap.com/teachers/view/Liiban
+  online: true
+  qualifications: "MSci Mathematics, Imperial College London"
+- name: "Mark Bonnor-Moris"
+  slug: MarkBonnor_Moris
+  teaches: "University - Business, GCSE Business, A level Business, IB Business Management"
+  image: /images/tutors/mark-bonnor-moris.jpg
+  url: https://thedegreegap.com/teachers/view/MarkBonnor_Moris
+  online: true
+  qualifications: "QTS with PGCE, University of Reading"
+- name: "Nick Dale"
+  slug: NickDale
+  teaches: "Personal Statement / Admissions, University - English, 2-1 English tutoring, 11+ Non-Verbal Reasoining, 11+ Verbal Reasoning, 11+ Maths, 11+ English , Revision Techniques, IB Maths, IB English"
+  image: /images/tutors/nick-dale.jpg
+  url: https://thedegreegap.com/teachers/view/NickDale
+  online: true
+- name: "Nihar Tanna"
+  slug: NiharTanna
+  teaches: "GCSE Maths, A level Economics, Personal Statement / Admissions, 11+ Maths"
+  image: /images/tutors/nihar-tanna.jpg
+  url: https://thedegreegap.com/teachers/view/NiharTanna
+  online: true
+  qualifications: "BSc Management, London School of Economics and Political Science (LSE)"
+- name: "Ryan Perry"
+  slug: RPerry
+  teaches: "University - Psychology, GCSE Psychology, A level Psychology"
+  image: /images/tutors/ryan-perry.jpg
+  url: https://thedegreegap.com/teachers/view/RPerry
+  online: true
+  qualifications: "BSc (Hons) Psychology, University of Wolverhampton"
+- name: "Rheanna Dove"
+  slug: Rheanna_Dove
+  teaches: "GCSE English, GCSE History, A level English, A level History"
+  image: /images/tutors/rheanna-dove.jpg
+  url: https://thedegreegap.com/teachers/view/Rheanna_Dove
+  online: true
+  qualifications: "GCSE English Literature and Language, The Dukeries Academy"
+- name: "Shihab Mallick"
+  slug: Shihab
+  teaches: "GCSE Maths, GCSE Business, A level Maths, A level Business"
+  image: /images/tutors/shihab-mallick.jpg
+  url: https://thedegreegap.com/teachers/view/Shihab
+  online: true
+  qualifications: "B.A Hons Business Studies, Staffordshire University"
+- name: "Shubang Nagalotimath"
+  slug: Shubang
+  teaches: "GCSE Biology, GCSE Physics, GCSE Chemistry, GCSE Maths, A level Maths, A level Biology, A level Chemistry, University - Medicine, Personal Statement / Admissions, GCSE Physical Education"
+  image: /images/tutors/shubang-nagalotimath.jpg
+  url: https://thedegreegap.com/teachers/view/Shubang
+  online: true
+  qualifications: "BA, Cambridge University"
+- name: "Sian Coughlin"
+  slug: SianCoughlin
+  teaches: "GCSE English, A level English, 11+ English , IB English"
+  image: /images/tutors/sian-coughlin.jpg
+  url: https://thedegreegap.com/teachers/view/SianCoughlin
+  online: true
+  qualifications: "B.A English Literature, Cardiff University"
+- name: "Sophie Cantley"
+  slug: Sophie
+  teaches: "GCSE English, GCSE Biology, GCSE Physics, GCSE Chemistry, GCSE Maths, A level Biology, A level Chemistry, Personal Statement / Admissions, GCSE - French , Revision Techniques, GCSE Religious Studies"
+  image: /images/tutors/sophie-cantley.jpg
+  url: https://thedegreegap.com/teachers/view/Sophie
+  online: true
+  qualifications: "Secondary Education, Queen Elizabeth Grammar School"
+- name: "Sophie Khan"
+  slug: SophieKhan
+  teaches: "GCSE English, A level English"
+  image: /images/tutors/sophie-khan.jpg
+  url: https://thedegreegap.com/teachers/view/SophieKhan
+  online: true
+  qualifications: "B.A. English Literature, Coventry University"
+- name: "Stephanie Andrews"
+  slug: StephanieA
+  teaches: "GCSE English, GCSE Biology, GCSE Physics, GCSE Chemistry, GCSE Maths, A level Maths"
+  image: /images/tutors/stephanie-andrews.jpg
+  url: https://thedegreegap.com/teachers/view/StephanieA
+  online: true
+  qualifications: "BA Mathematics, Occidental College"
+- name: "Anika Singh"
+  slug: anikasingh
+  teaches: "GCSE English, GCSE Biology, GCSE Physics, GCSE Chemistry, GCSE Maths, A level Biology, A level Chemistry, University - Medicine, Personal Statement / Admissions, 11+ Non-Verbal Reasoining, 11+ Verbal Reasoning, 11+ Maths, 11+ English , Revision Techniques, Student Coaching"
+  image: /images/tutors/anika-singh.jpg
+  url: https://thedegreegap.com/teachers/view/anikasingh
+  online: true
+  qualifications: "GCSEs, South Wilts Grammar School"
+- name: "Daisy Gambles"
+  slug: daisygambles
+  teaches: "GCSE English, University - Arts, GCSE Psychology, A level English, A level Psychology, Personal Statement / Admissions, Revision Techniques, Student Coaching, IB English, IB Psychology, A level Film Studies"
+  image: /images/tutors/daisy-gambles.jpg
+  url: https://thedegreegap.com/teachers/view/daisygambles
+  online: true
+  qualifications: "B.A Drama and Theatre Studies, Trinity College Dublin"
+- name: "Esha Vadher"
+  slug: eshavadher
+  teaches: "GCSE Biology, GCSE Physics, GCSE Chemistry, GCSE Maths, A level Biology, Personal Statement / Admissions, 11+ Non-Verbal Reasoining, 11+ Verbal Reasoning, 11+ Maths, 11+ English , GCSE Physical Education"
+  image: /images/tutors/esha-vadher.jpg
+  url: https://thedegreegap.com/teachers/view/eshavadher
+  online: true
+- name: "Georgia Palfrey"
+  slug: georgiapalfrey
+  teaches: "GCSE English, GCSE History, University - Law, A level English, A level History, Personal Statement / Admissions, GCSE - German, A level Politics, 2-1 English tutoring, A level Law, 11+ Non-Verbal Reasoining, 11+ Verbal Reasoning, 11+ English , Revision Techniques, A level Religious Studies, GCSE Religious Studies, Student Coaching, IB English, IB History, IB Global Politics"
+  image: /images/tutors/georgia-palfrey.jpg
+  url: https://thedegreegap.com/teachers/view/georgiapalfrey
+  online: true
+  qualifications: "Law, Cardiff University"
+- name: "Hajane Anbukumar"
+  slug: hajane
+  teaches: "GCSE Biology, GCSE Chemistry, GCSE Maths"
+  image: /images/tutors/hajane-anbukumar.jpg
+  url: https://thedegreegap.com/teachers/view/hajane
+  online: true
+  qualifications: "MD, Plovdiv Medical University"
+- name: "Jasmin Kalar"
+  slug: jasminkalar
+  teaches: "A level Psychology"
+  image: /images/tutors/jasmin-kalar.jpg
+  url: https://thedegreegap.com/teachers/view/jasminkalar
+  online: true
+  qualifications: "A Level Psychology, Burnham Grammar School"
+- name: "Joseph Shewfelt"
+  slug: josephshewfelt
+  teaches: "GCSE Chemistry, University - Computer Science, GCSE Maths, A level Maths, A level Chemistry, GCSE Computer Science, Personal Statement / Admissions, A level Computer Science, A level Further Maths, 11+ Maths, GCSE Further Maths"
+  image: /images/tutors/joseph-shewfelt.jpg
+  url: https://thedegreegap.com/teachers/view/josephshewfelt
+  online: true
+- name: "Mital Kinderkhedia"
+  slug: mitalk
+  teaches: "GCSE Biology, GCSE Physics, University - Maths, University - Computer Science, University - Economics, University - Finance, GCSE Economics, GCSE Maths, A level Maths, A level Economics, GCSE Computer Science, A level Physics, Personal Statement / Admissions, University- Statistics, A level Computer Science, A level Further Maths, University - Research Advising, 11+ Non-Verbal Reasoining, 11+ Maths, Revision Techniques, GCSE Further Maths, Student Coaching"
+  image: /images/tutors/mital-kinderkhedia.jpg
+  url: https://thedegreegap.com/teachers/view/mitalk
+  online: true
+- name: "Megan Mann"
+  slug: mmann98
+  teaches: "GCSE English, University - Geography, GCSE Geography, A level Geography, Personal Statement / Admissions, University- Education, A level Politics, A level Philosophy , IB Geography"
+  image: /images/tutors/megan-mann.jpg
+  url: https://thedegreegap.com/teachers/view/mmann98
+  online: true
+  qualifications: "PGCE, University of East Anglia"
+- name: "Molly McCreadie"
+  slug: mollymccreadie
+  teaches: "GCSE Biology, GCSE Physics, GCSE Chemistry, GCSE Maths, A level Maths, A level Physics, 11+ Maths"
+  image: /images/tutors/molly-mccreadie.jpg
+  url: https://thedegreegap.com/teachers/view/mollymccreadie
+  online: true
+  qualifications: "BSc Physics, University of Aberdeen"
+- name: "Ryleigh DuPont"
+  slug: ryleighdupont
+  teaches: "GCSE English"
+  image: /images/tutors/ryleigh-dupont.jpg
+  url: https://thedegreegap.com/teachers/view/ryleighdupont
+  online: true
+  qualifications: "Bachelor's of Education and Bachelor's of English, St. Mary's University and University of Calgary"
+- name: "Farakh"
+  slug: ss2005
+  teaches: "GCSE Biology, GCSE Physics, GCSE Chemistry, GCSE Maths, A level Maths, A level Biology, A level Chemistry, A level Physics, 11+ Maths, Revision Techniques, GCSE Further Maths, IB Maths, IB Chemistry, IB Physics, IB Biology"
+  image: /images/tutors/farakh.jpg
+  url: https://thedegreegap.com/teachers/view/ss2005
+  online: true
+  qualifications: "MB Bchir Medicine, Cambridge University"
+- name: "Zaber Rivu"
+  slug: zabermamunrivu
+  teaches: "GCSE Biology, GCSE Physics, GCSE Chemistry, University - Engineering, GCSE Economics, GCSE Maths, A level Maths, A level Economics, A level Physics"
+  image: /images/tutors/zaber-rivu.jpg
+  url: https://thedegreegap.com/teachers/view/zabermamunrivu
+  online: true
+  qualifications: "Mechanical Engineering with a year in Industry, Swansea University"
