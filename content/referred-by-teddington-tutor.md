@@ -8,6 +8,9 @@ layout: "teddington-tutor"
 # label and the enquiry email's subject line, so this is the one place to
 # correct it (plus the title and description above).
 partner_name: "Teddington Tutor"
+# Dr Bluett asked (23 Nov 2026) for his name on the badge instead of the
+# company logo. Remove this line to bring the logo back.
+partner_person: "Dr Victor Bluett"
 partner_url: "https://www.teddingtontutor.com/"
 
 # Attribution defaults for this partner's form. utm_source matches the

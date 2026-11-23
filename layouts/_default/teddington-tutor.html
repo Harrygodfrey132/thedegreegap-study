@@ -31,12 +31,14 @@
 
       <div class="book-call__main">
         {{ if $partnerURL }}
-        <a href="{{ $partnerURL }}" target="_blank" rel="noopener" class="book-call__endorsement" aria-label="In partnership with {{ $partner }}">
+        <a href="{{ $partnerURL }}" target="_blank" rel="noopener" class="book-call__endorsement" aria-label="In partnership with {{ $.Params.partner_person | default $partner }}">
         {{ else }}
-        <span class="book-call__endorsement" role="img" aria-label="In partnership with {{ $partner }}">
+        <span class="book-call__endorsement" role="img" aria-label="In partnership with {{ $.Params.partner_person | default $partner }}">
         {{ end }}
           <span class="book-call__endorsement-label">In partnership with</span>
-          {{ if $logoPath }}
+          {{ if $.Params.partner_person }}
+            <span class="book-call__endorsement-person">{{ $.Params.partner_person }}</span>
+          {{ else if $logoPath }}
             <img src="{{ $logoPath | relURL }}" alt="{{ $partner }}" height="30" loading="lazy">
           {{ else }}
             <span class="book-call__endorsement-wordmark">{{ $partner }}</span>
