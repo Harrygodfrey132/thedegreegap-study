@@ -11825,3 +11825,60 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 /* Partner badge showing a person's name instead of a logo (Teddington Tutor) */
 .book-call__endorsement-person { color: #fff; font-weight: 600; font-size: 1.05rem; white-space: nowrap; }
 @media (max-width: 540px) { .book-call__endorsement-person { font-size: 0.9rem; } }
+
+/* Science by Mir referral page (sciencebymir.com). Navy #102B45 and gold
+   #C99D5A from their site; the logo is navy on white, so the badge is white
+   with a navy edge and a gold label. */
+.book-call--science-by-mir .book-call__form-tag {
+  background: #F7F1E6;
+  color: #102B45;
+  border: 1.5px solid #C99D5A;
+  padding: 5px 12px;
+  font-weight: 800;
+}
+.book-call--science-by-mir .book-call__reviews-brand {
+  color: #102B45;
+}
+.book-call--science-by-mir .book-call__endorsement {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  padding: 11px 22px;
+  background: #FFFFFF;
+  border: 1.5px solid #102B45;
+  border-radius: 999px;
+  box-shadow: 0 2px 14px rgba(15, 31, 37, 0.3);
+  text-decoration: none;
+  color: #102B45;
+  transition: background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+  max-width: max-content;
+}
+.book-call--science-by-mir .book-call__endorsement:hover {
+  background: #F3F6F9;
+  box-shadow: 0 4px 18px rgba(15, 31, 37, 0.4);
+  transform: translateY(-1px);
+  text-decoration: none;
+  color: #102B45;
+}
+.book-call--science-by-mir .book-call__endorsement-label {
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #C99D5A;
+  white-space: nowrap;
+  padding-right: 12px;
+  border-right: 1px solid rgba(201, 157, 90, 0.5);
+}
+.book-call--science-by-mir .book-call__endorsement img { height: 40px; width: auto; display: block; }
+@media (max-width: 540px) {
+  .book-call--science-by-mir .book-call__endorsement { padding: 9px 16px; gap: 10px; }
+  .book-call--science-by-mir .book-call__endorsement-label { padding-right: 10px; font-size: 0.62rem; }
+  .book-call--science-by-mir .book-call__endorsement img { height: 22px; }
+}
+
+.book-call--science-by-mir .book-call__endorsement img { height: 52px; }
+.book-call--science-by-mir .book-call__endorsement { padding-top: 6px; padding-bottom: 6px; }
+.book-call--science-by-mir .book-call__submit { background: #102B45; border-color: #102B45; }
+.book-call--science-by-mir .book-call__submit:hover { background: #1C4166; border-color: #1C4166; }
+@media (max-width: 540px) { .book-call--science-by-mir .book-call__endorsement img { height: 40px; } }
