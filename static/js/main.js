@@ -499,7 +499,7 @@ document.addEventListener('submit', function(e){
 })();
 
 /* ---------------------------------------------------------------------------
-   Callback modal (currently the November 2026 offer, NOV75).
+   Callback modal (currently the November 2026 offer, NOV30).
 
    Opens the offer dialog on the locations and blog pages, once per visitor
    (never again after they close it or claim the code), on whichever comes

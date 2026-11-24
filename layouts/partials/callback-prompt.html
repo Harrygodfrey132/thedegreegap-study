@@ -1,6 +1,6 @@
 {{/*
   November 2026 offer modal for the locations, subjects and blog pages
-  (October's was OCT50, 50% off; November's is NOV75, 75% off the first
+  (October's was OCT50, 50% off; November's is NOV30, 30% off the first
   lesson for new families, ending 30 November 2026).
 
   Shown by the callback-prompt block in static/js/main.js once per visitor
@@ -20,7 +20,7 @@
 
   Renders hidden, so with JavaScript off nothing appears and nothing shifts.
 */}}
-<div class="cbp" id="cbp" hidden data-cbp data-cbp-ends="2026-12-01T00:00:00Z" data-cbp-source="November 2026 Discount" data-cbp-offer="NOV75 (75% off the first lesson, new families only)" data-cbp-endpoint="{{ site.Params.formspreeEndpoint }}">
+<div class="cbp" id="cbp" hidden data-cbp data-cbp-ends="2026-12-01T00:00:00Z" data-cbp-source="November 2026 Discount" data-cbp-offer="NOV30 (30% off the first lesson, new families only)" data-cbp-endpoint="{{ site.Params.formspreeEndpoint }}">
   <div class="cbp__scrim" data-cbp-close></div>
   <div class="cbp__card" role="dialog" aria-modal="true" aria-labelledby="cbp-title" aria-describedby="cbp-lead" tabindex="-1">
     <button type="button" class="cbp__close" data-cbp-close aria-label="Close">
@@ -42,8 +42,8 @@
       {{/* Step 1: the offer. */}}
       <div class="cbp__step" data-cbp-step="offer">
         <p class="cbp__eyebrow">November 2026 Discount</p>
-        <h2 class="cbp__title" id="cbp-title">Back from half term? <em>75% off</em> your first lesson</h2>
-        <p class="cbp__lead" id="cbp-lead">Mocks are around the corner. This November, new families get 75% off their first lesson with a Degree Gap tutor. Pop in your name and number and your code appears straight away.</p>
+        <h2 class="cbp__title" id="cbp-title">Back from half term? <em>30% off</em> your first lesson</h2>
+        <p class="cbp__lead" id="cbp-lead">Mocks are around the corner. This November, new families get 30% off their first lesson with a Degree Gap tutor. Pop in your name and number and your code appears straight away.</p>
 
         <p class="cbp__note"><strong>New families only</strong><span>Ends 30 November</span> <span><span aria-hidden="true">&middot;</span> <span class="cbp__stars" aria-hidden="true">★★★★★</span> 5.0 on Google</span></p>
 
@@ -55,7 +55,7 @@
       <form class="cbp__step cbp__form" data-cbp-step="details" data-cbp-form hidden novalidate>
         <p class="cbp__eyebrow">November 2026 Discount</p>
         <h2 class="cbp__title" id="cbp-title-details">Put your name and number in</h2>
-        <p class="cbp__lead">Fill these in and your 75% off code appears straight away.</p>
+        <p class="cbp__lead">Fill these in and your 30% off code appears straight away.</p>
 
         <label class="cbp__label" for="cbp-name">Name</label>
         <input class="cbp__input" id="cbp-name" name="name" type="text"
@@ -71,10 +71,10 @@
       {{/* Step 3: the code drops down. */}}
       <div class="cbp__step" data-cbp-step="code" hidden>
         <p class="cbp__eyebrow">November 2026 Discount</p>
-        <h2 class="cbp__title" id="cbp-title-code" tabindex="-1">Here is your <em>75% off</em> code</h2>
+        <h2 class="cbp__title" id="cbp-title-code" tabindex="-1">Here is your <em>30% off</em> code</h2>
 
         <div class="cbp__code" data-cbp-code>
-          <span class="cbp__code-value">NOV75</span>
+          <span class="cbp__code-value">NOV30</span>
           <button type="button" class="cbp__code-copy" data-cbp-copy>Copy</button>
         </div>
 
