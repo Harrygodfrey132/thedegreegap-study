@@ -1,0 +1,53 @@
+---
+title: "Chigwell A-Level Physics Tutors | The Degree Gap"
+nav_title: "Physics"
+description: "Is your child stuck on the wordy A-Level Physics explain questions? Online A-Level Physics tutoring for Chigwell sixth formers, by board. From £37 an hour."
+layout: "level-subject"
+location: "Chigwell"
+level: "A-Level"
+subject: "Physics"
+hero_h1: "A-Level Physics Tutors for Chigwell Students"
+hero_lead: "Your child can do the calculations, then a question asks them to explain why something happens and they write three vague lines. Our A-Level Physics tutors for Chigwell students teach the explanations as carefully as the maths."
+angle_eyebrow: "WHEN IT SAYS 'EXPLAIN'"
+angle_heading: "Why the Written Answers Cost Chigwell Students So Many A-Level Physics Marks"
+angle_body_1: "Physics students tend to think of themselves as numbers people, and plenty are. But a surprising share of the marks on an A-Level Physics paper go to written answers: explaining a result, describing a practical, or reasoning through a longer question step by step. Answers that are roughly right but loosely worded lose marks against a precise mark scheme. Fields, waves and quantum topics are where this shows most."
+angle_body_2: "The tutor pairs each calculation topic with the explanations examiners expect, using real questions and mark schemes from your child's board. Your child learns the key phrases that earn credit and practises writing short, exact answers. The maths underneath, from rearranging to logarithms, is kept sharp at the same time. For a Chigwell student heading towards engineering or physics at university, both halves matter."
+angle_image: "/images/physics-mechanics-force-diagram.jpg"
+angle_image_alt: "A force diagram for an A-Level Physics mechanics problem"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "From Cs to As: Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The review doesn't name the subjects."
+schools:
+  - "Chigwell School"
+  - "West Hatch High School"
+  - "Bancroft's School"
+  - "Woodford County High School"
+  - "Ilford County High School"
+steps_heading: "Starting A-Level Physics lessons for a Chigwell sixth former"
+steps_lead: "Tell us the board and the topics that feel shakiest. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, about 30 minutes. We'll ask which board, Year 12 or 13, which topics went worst, and whether your child also takes A-Level Maths."
+  - title: "Choose your tutor"
+    body: "Two or three Physics tutor profiles within 24 hours, matched to your child's specification. A free 15-minute video call with the one you choose comes before any payment."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, with diagrams and working on a shared whiteboard and a replay each time. From £37 an hour, no contract."
+faqs:
+  - q: "Does my child need A-Level Maths to do well in Physics?"
+    a: "It helps, but it isn't essential. The maths in A-Level Physics is a defined set of skills, and a tutor can make sure they're secure whether or not your child takes Maths alongside it."
+  - q: "Can a tutor help with the practical endorsement?"
+    a: "The practical endorsement is assessed in school, but the written exams ask about practical work too. A tutor can go through those questions so methods, uncertainties and graphs are second nature."
+  - q: "How do you choose your Physics tutors?"
+    a: "Harry or Joe interview every tutor, and about 3% of applicants are accepted. Each has at least two years' tutoring. We check they can explain a tricky idea, such as electric fields, in plain words."
+  - q: "How much do A-Level Physics lessons cost?"
+    a: "From £37 an hour, agreed in advance. That includes the lesson, practice questions between lessons and a recording. No contract."
+reviews:
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Abby|Parent of A-Level Student|Harry has tutored my son in both maths and economics A-levels and has been fantastic. Harry has been professional, approachable and engaging, he has explained things clearly and has fully supported my son through the last 2 years. We are absolutely delighted with the results. Thank you!"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

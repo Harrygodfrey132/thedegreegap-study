@@ -1,0 +1,53 @@
+---
+title: "Canvey Island A-Level Physics Tutors | The Degree Gap"
+nav_title: "Physics"
+description: "Does one early slip cost your child a whole Physics question? Online A-Level Physics tutoring for Canvey Island sixth formers, by board. From £37 an hour."
+layout: "level-subject"
+location: "Canvey Island"
+level: "A-Level"
+subject: "Physics"
+hero_h1: "A-Level Physics Tutors for Canvey Island Students"
+hero_lead: "Your child gets the first part of a long Physics question wrong, and every part after it goes too. Our A-Level Physics tutors for Canvey Island students build habits that catch the slip before it spreads."
+angle_eyebrow: "ONE WRONG START"
+angle_heading: "Why Multi-Step Questions Cost Canvey Island Students So Much in A-Level Physics"
+angle_body_1: "A-Level Physics is as much maths as ideas. Mechanics needs vectors and resolved forces. Circuits and fields need confident rearranging and powers of ten. Waves and quantum topics are hard to picture. Most of the big questions run over several parts, so a wrong unit or a lost minus sign in the first line costs every mark after it."
+angle_body_2: "The tutor practises the maths inside Physics, with units and orders of magnitude checked at every step. Diagrams come first. Past papers come in early. Physics opens engineering and science degrees, and engineering apprenticeships with the ports and energy firms along the Thames."
+angle_image: "/images/physics-mechanics-force-diagram.jpg"
+angle_image_alt: "A force diagram for an A-Level Physics mechanics problem"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "From Cs to As: Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The review doesn't name the subjects."
+schools:
+  - "SEEVIC College"
+  - "The King John School"
+  - "The Appleton School"
+  - "Westcliff High School for Boys"
+  - "Southend High School for Boys"
+steps_heading: "Getting A-Level Physics lessons started for Canvey Island students"
+steps_lead: "Mention any mock dates on the call. Profiles usually come within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask about the board, the year group, and which topics feel hardest."
+  - title: "Choose your tutor"
+    body: "Two or three Physics tutor profiles within a day. A free 15-minute video call with the tutor you choose comes before payment."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace with diagrams on a shared whiteboard, recorded every time. From £37 an hour, no contract."
+faqs:
+  - q: "Can an A-Level Physics tutor help my child towards engineering?"
+    a: "Yes, with the grades. Each university and degree apprenticeship sets its own requirements, so check them. The tutor works on whatever is costing marks, often the maths."
+  - q: "My child is good at Maths but bad at Physics. Why?"
+    a: "Usually because they don't know which equation to use. A tutor teaches them to set up the problem first, with a diagram."
+  - q: "Who are your Physics tutors?"
+    a: "Graduates and university students, interviewed by Harry or Joe, with at least two years' tutoring each. About 3% of applicants are accepted."
+  - q: "How much does A-Level Physics tutoring cost?"
+    a: "From £37 an hour. No contract, and you can stop any time."
+reviews:
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

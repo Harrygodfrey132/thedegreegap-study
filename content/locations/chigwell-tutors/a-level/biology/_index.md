@@ -1,0 +1,53 @@
+---
+title: "Chigwell A-Level Biology Tutors | The Degree Gap"
+nav_title: "Biology"
+description: "Is your child losing A-Level Biology marks on the unfamiliar experiments? Online A-Level Biology tutoring for Chigwell sixth formers. From £37 an hour."
+layout: "level-subject"
+location: "Chigwell"
+level: "A-Level"
+subject: "Biology"
+hero_h1: "A-Level Biology Tutors for Chigwell Students"
+hero_lead: "Your child can recite the stages of the Krebs cycle, then a question describes an experiment they've never seen and asks what the graph shows. Our A-Level Biology tutors for Chigwell students teach them to apply what they know."
+angle_eyebrow: "THE EXPERIMENT THEY'VE NEVER SEEN"
+angle_heading: "Why Application Questions Cost Chigwell Students the Most A-Level Biology Marks"
+angle_body_1: "A-Level Biology has a lot to learn, and plenty of Chigwell sixth formers learn it very well. The marks slip away elsewhere: questions that describe a new experiment and ask what the results show, data that has to be interpreted rather than recalled, and statistics tests that turn up when they're least expected. Add the long synoptic answers that pull genetics, cells and ecology together, and it's easy to know everything and still miss the top grade."
+angle_body_2: "The tutor works through application questions from your child's board each week, asking them to say what the experiment is testing before they look at a single number. Pathways like respiration and photosynthesis are drawn out together until your child can explain what changes if one condition does. Many students taking Biology here have medicine, dentistry or another health course in mind, and those courses look hard at this grade."
+angle_image: "/images/fluorescent-cells-under-microscope.jpg"
+angle_image_alt: "Cells under a microscope, as in an A-Level Biology question on cell structure"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "From Cs to As: Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The review doesn't say which subjects."
+schools:
+  - "Chigwell School"
+  - "West Hatch High School"
+  - "Bancroft's School"
+  - "Woodford County High School"
+  - "Ilford County High School"
+steps_heading: "Starting A-Level Biology lessons for a Chigwell sixth former"
+steps_lead: "If a medicine or dentistry application is coming, tell us the deadlines. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, about 30 minutes. We'll ask which board, Year 12 or 13, which topics feel shakiest, and whether a healthcare course is in mind."
+  - title: "Choose your tutor"
+    body: "Two or three Biology tutor profiles within 24 hours, matched to your child's specification. A free 15-minute video call with the one you choose comes before any payment."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, drawing pathways on a shared whiteboard, with a replay each time. From £37 an hour, no contract, and a new tutor if they don't click."
+faqs:
+  - q: "Why does my child do well on Biology tests in class but not in mocks?"
+    a: "Class tests often check recall of the topic just taught. Mocks mix topics and lean on application and data questions. A tutor practises exactly those, with questions your child hasn't seen before."
+  - q: "Can A-Level Biology tutoring help with a medicine application?"
+    a: "It can help with the grade, which is the first hurdle. Medical schools publish their own requirements for subjects, grades and admissions tests, so check those first. A tutor can then work on whatever's holding your child's Biology back."
+  - q: "How do you choose your Biology tutors?"
+    a: "Harry or Joe interview every tutor, and about 3% of applicants are accepted. Each has at least two years' tutoring. We check they can explain something like the Krebs cycle to someone who's lost."
+  - q: "How much do A-Level Biology lessons cost?"
+    a: "From £37 an hour, agreed in advance. That includes the lesson, practice questions between lessons and a recording. No contract."
+reviews:
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Nick|Parent of A-Level Student|Sandra Sabu has been tutoring our son for Psychology A Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades."
+  - "Leo|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

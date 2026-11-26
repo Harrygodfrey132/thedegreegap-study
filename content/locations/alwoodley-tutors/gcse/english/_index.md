@@ -1,0 +1,52 @@
+---
+title: "Alwoodley GCSE English Tutors | The Degree Gap"
+nav_title: "English"
+description: "Are your child's English essays all quotes and no argument? Online GCSE English tutoring for Alwoodley students, Language and Literature. From £37 an hour."
+layout: "level-subject"
+location: "Alwoodley"
+level: "GCSE"
+subject: "English"
+hero_h1: "GCSE English Tutors for Alwoodley Students"
+hero_lead: "Your child has read the book and learnt the quotes, but the essay still comes back with a 5 and a comment about analysis. Our GCSE English tutors for Alwoodley students show them what the examiner means."
+angle_eyebrow: "WHEN THE ESSAY RETELLS THE PLOT"
+angle_heading: "Why Analysis Is Where Alwoodley Students Lose GCSE English Marks"
+angle_body_1: "Most capable students reach Year 10 able to write fluently and find a quotation. What holds the grade back is what comes after the quotation. They explain what happens, not why the writer chose those words or what the choice does to a reader. It's the difference between a 5 and a 7, and it's rarely taught one-to-one in a class of thirty."
+angle_body_2: "The tutor starts with one of your child's marked essays and rewrites a single paragraph with them, live on the whiteboard, until the analysis is doing the work. Then the same habit is practised on unseen extracts for Language and set texts for Literature, a little of each every week."
+angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"
+angle_image_alt: "Highlighted handwritten English notes, the kind of quotation analysis a GCSE tutor works through"
+angle_stat_from: "4"
+angle_stat_to: "5"
+angle_stat_detail: "A grade 5 against a needed 4: Simone, Parent of GCSE Student, wrote on Trustpilot that a son “has just passed his English GCSE with a Grade 5” when “he only needed a Grade 4”."
+schools:
+  - "Allerton Grange School"
+  - "Allerton High School"
+  - "The Grammar School at Leeds"
+  - "Roundhay School"
+steps_heading: "Getting GCSE English lessons started in Alwoodley"
+steps_lead: "Send a recent marked essay if you have one. Profiles usually arrive within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About 30 minutes with Harry or Joe, at no cost. We'll ask about the board, the set texts, and whether Language or Literature is costing more marks."
+  - title: "Choose your tutor"
+    body: "Within 24 hours, two or three English tutor profiles matched to the board and texts. Your child meets your choice on a free 15-minute video call first."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, drafting on a shared whiteboard, with every lesson recorded. From £37 an hour, no contract."
+faqs:
+  - q: "Can a tutor help with both English Language and English Literature?"
+    a: "Yes, though they reward different things. Language is about controlled writing and reading unseen texts under time pressure. Literature needs quotations remembered and an argument built round them. Most tutors split the hour and lean towards whichever is weaker."
+  - q: "My child hates reading. Will tutoring help?"
+    a: "It can. A tutor won't try to turn them into a bookworm, but they can make the set texts manageable, with short extracts, key scenes and a handful of quotations that do a lot of work. Confidence tends to follow once the essays start landing."
+  - q: "Will the tutor know my child's set texts?"
+    a: "We check on the call and match accordingly. Schools choose different texts within the same board, so we ask exactly which ones your child is studying."
+  - q: "How much does GCSE English tutoring cost?"
+    a: "From £37 an hour, agreed before booking. There's no contract and you can pause or stop with a day or two's notice."
+reviews:
+  - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
+  - "Simone|Parent of GCSE Student|My son has just passed his English GCSE with a Grade 5 — he only needed a Grade 4, so we are absolutely over the moon and incredibly proud! 🎉👏 With all of my son SEN needs and the challenges he has faced throughout his education, there were times when we genuinely weren't sure he would get here. But today he has proved that anything is achievable with the right support, belief and determination. A huge thank you to Emir, Your encouragement and motivation has meant so much. We are so grateful for everything you have done. 🙏"
+  - "Jo|Parent of GCSE Student|We got in touch with The Degree Gap to help support our son to pass his English Language GCSE. Although we were close to the exam period when we started, his weekly tutor sessions made such a difference. He passed and has gained entrance to college without need for any re-sits. Thank you!"
+  - "A|Parent of GCSE Student|Ben has just received his exam results, and we couldn't be more thrilled! Thanks to the incredible support from Ella, Ben has passed all his exams, achieving an amazing result in English. Thank you Ella! Your energy and expertise made a significant difference."
+  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents.\n\nUPDATE: My daughter passed both English and Maths GCSE (4 and 5's). We are extremely grateful to your team especially Avery for the support she gave her in both subjects. Considering she missed a large chunk of the last 3 years at school due to a social anxiety illness, this is an amazing achievement for her."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

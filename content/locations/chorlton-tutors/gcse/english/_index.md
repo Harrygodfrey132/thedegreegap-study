@@ -1,0 +1,52 @@
+---
+title: "Chorlton GCSE English Tutors | The Degree Gap"
+nav_title: "English"
+description: "Does your child read widely but still lose marks in GCSE English? Online GCSE English tutoring for Chorlton students, Language and Literature. From £37."
+layout: "level-subject"
+location: "Chorlton"
+level: "GCSE"
+subject: "English"
+hero_h1: "GCSE English Tutors for Chorlton Students"
+hero_lead: "Your child has plenty to say, and it all pours out unplanned in the first ten minutes. Our GCSE English tutors for Chorlton students teach them to shape it into answers that score."
+angle_eyebrow: "WHEN THERE'S TOO MUCH TO SAY"
+angle_heading: "Why Timing and Structure Cost Chorlton Students GCSE English Marks"
+angle_body_1: "Some students struggle to write enough. Others write too much on the first question and run out of time for the one worth the most. In Language, the creative writing task gets ten rushed minutes. In Literature, a strong essay on one text leaves a thin one on the next. The ideas are there. The timing and the plan aren't."
+angle_body_2: "The tutor looks at a full mock paper and maps where the minutes went against where the marks are. Then each week includes timed practice on one section, with a quick plan before writing. By the spring, your child should know how long each question deserves and what a finished answer looks like."
+angle_image: "/images/stack-of-school-textbooks.jpg"
+angle_image_alt: "A stack of school textbooks, for GCSE English set texts and revision"
+angle_stat_from: "4"
+angle_stat_to: "5"
+angle_stat_detail: "A grade 5 when a 4 was needed: Simone, Parent of GCSE Student, wrote on Trustpilot that a son “has just passed his English GCSE with a Grade 5” and that “he only needed a Grade 4”."
+schools:
+  - "Chorlton High School"
+  - "Whalley Range 11-18 High School"
+  - "St Bede's College"
+  - "Stretford Grammar School"
+steps_heading: "Getting GCSE English lessons started in Chorlton"
+steps_lead: "A recent mock paper is the most useful thing to share. Profiles usually come within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About 30 minutes with Harry or Joe, at no cost. We'll ask about the board, the set texts, and whether Language or Literature is weaker."
+  - title: "Choose your tutor"
+    body: "Two or three English tutor profiles within 24 hours, matched to the board and texts. A free 15-minute video call with your choice comes first."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, with drafting on a shared whiteboard and every lesson recorded. From £37 an hour, no contract."
+faqs:
+  - q: "Does my child need a particular English grade for college?"
+    a: "Usually, yes. Most colleges ask for a grade 4 or above in English, and higher for English-based A-Levels. Check the current requirements for each one your child is considering."
+  - q: "My child is a strong reader. Why are the grades only average?"
+    a: "Reading well and writing exam answers are different skills. A tutor works on turning what your child notices into analysis that fits the mark scheme, and on getting it done in time."
+  - q: "Will the tutor know my child's set texts?"
+    a: "We ask on the call which texts and which board, and match tutors who know them."
+  - q: "How much does GCSE English tutoring cost?"
+    a: "From £37 an hour, agreed before booking. No contract, and you can stop with a day or two's notice."
+reviews:
+  - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
+  - "Jo|Parent of GCSE Student|We got in touch with The Degree Gap to help support our son to pass his English Language GCSE. Although we were close to the exam period when we started, his weekly tutor sessions made such a difference. He passed and has gained entrance to college without need for any re-sits. Thank you!"
+  - "Simone|Parent of GCSE Student|My son has just passed his English GCSE with a Grade 5 — he only needed a Grade 4, so we are absolutely over the moon and incredibly proud! 🎉👏 With all of my son SEN needs and the challenges he has faced throughout his education, there were times when we genuinely weren't sure he would get here. But today he has proved that anything is achievable with the right support, belief and determination. A huge thank you to Emir, Your encouragement and motivation has meant so much. We are so grateful for everything you have done. 🙏"
+  - "A|Parent of GCSE Student|Ben has just received his exam results, and we couldn't be more thrilled! Thanks to the incredible support from Ella, Ben has passed all his exams, achieving an amazing result in English. Thank you Ella! Your energy and expertise made a significant difference."
+  - "Jessica|Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

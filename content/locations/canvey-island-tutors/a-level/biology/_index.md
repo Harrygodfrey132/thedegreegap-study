@@ -1,0 +1,53 @@
+---
+title: "Canvey Island A-Level Biology Tutors | The Degree Gap"
+nav_title: "Biology"
+description: "Is your child aiming for nursing or medicine? Online A-Level Biology tutoring for Canvey Island sixth formers, matched to their board. From £37 an hour."
+layout: "level-subject"
+location: "Canvey Island"
+level: "A-Level"
+subject: "Biology"
+hero_h1: "A-Level Biology Tutors for Canvey Island Students"
+hero_lead: "Your child has colour-coded notes on every topic and still runs out of time on the long answers. Our A-Level Biology tutors for Canvey Island students teach them to use what they know under exam conditions."
+angle_eyebrow: "NOTES ARE NOT ENOUGH"
+angle_heading: "Why A-Level Biology Matters to Canvey Island Students Aiming at Healthcare"
+angle_body_1: "Plenty of sixth formers taking Biology have nursing, midwifery, paramedic science or medicine in mind, and the course doesn't make it easy. The long synoptic answers pull genetics, cells and ecology together. Respiration and photosynthesis are dense pathways that can't just be memorised. Practical questions ask for statistics, chi-squared or a t-test, often when least expected. Students learn the facts well and still lose marks on how they use them."
+angle_body_2: "The tutor draws each pathway with your child, asking what goes in and comes out at every stage, then sets exam questions that change one condition. Statistics get short, regular practice. With hospitals in Southend and Basildon and health courses at the University of Essex and Anglia Ruskin, healthcare is a realistic route from Canvey, and those courses look hard at the Biology grade."
+angle_image: "/images/fluorescent-cells-under-microscope.jpg"
+angle_image_alt: "Cells under a microscope, as in an A-Level Biology question on cell structure"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "From Cs to As: Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The review doesn't say which subjects."
+schools:
+  - "SEEVIC College"
+  - "The King John School"
+  - "The Appleton School"
+  - "Westcliff High School for Girls"
+  - "Southend High School for Boys"
+steps_heading: "Starting A-Level Biology lessons for a Canvey Island sixth former"
+steps_lead: "If your child is applying for medicine or nursing, tell us the deadlines. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, about 30 minutes. We'll ask which board, Year 12 or 13, which topics feel shakiest, and whether there's a healthcare course in mind."
+  - title: "Choose your tutor"
+    body: "Two or three Biology tutor profiles within 24 hours, matched to your child's specification. A free 15-minute video call with the one you choose comes before any payment."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, drawing pathways on a shared whiteboard, with a replay each time. From £37 an hour, no contract, and a new tutor if they don't click."
+faqs:
+  - q: "Can A-Level Biology tutoring help my child towards nursing or medicine?"
+    a: "It can help with the grades, which is the first step. Each university publishes its own requirements for subjects, grades and any admissions test, so check those first. A tutor then works on whatever's holding your child's Biology back, often the long answers and statistics."
+  - q: "Why is my child struggling with A-Level Biology after doing well at GCSE?"
+    a: "Because A-Level asks your child to apply ideas, not just recall them. A question might describe an experiment they've never seen and ask what the results show. That needs practice, and a tutor gives it every week."
+  - q: "How do you choose your Biology tutors?"
+    a: "Harry or Joe interview every tutor, and about 3% of applicants are accepted. Each has at least two years' tutoring. We check they can explain something like the Krebs cycle to someone who's lost."
+  - q: "How much do A-Level Biology lessons cost?"
+    a: "From £37 an hour, agreed in advance. That includes the lesson, practice questions set between lessons and a recording. No contract."
+reviews:
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Raj|Parent of A-Level Student|Brilliant support and communication. We had the best tutor for history and sociology, Jacob, and this definitely influenced my son's amazing A level grades. Would not hesitate to recommend. Jacob also took account of and understood my son's struggles with dyslexia and how this affected his ability to study and get all the (vast) knowledge he has in his head into the paper. Such a struggle for these SEN children but they can achieve. We are so proud of our son and thank you Degree Gap for helping us!"
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

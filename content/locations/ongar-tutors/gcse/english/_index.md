@@ -1,0 +1,53 @@
+---
+title: "Ongar GCSE English Tutors | The Degree Gap"
+nav_title: "English"
+description: "Does your child know the texts but run out of time? Online GCSE English tutoring for Ongar students, Language and Literature, by board. From £37 an hour."
+layout: "level-subject"
+location: "Ongar"
+level: "GCSE"
+subject: "English"
+hero_h1: "GCSE English Tutors for Ongar Students"
+hero_lead: "Your child has read the book, watched the play and still only gets halfway through the essay before time is up. Our GCSE English tutors for Ongar students teach them to plan fast and write what earns the marks."
+angle_eyebrow: "HALF AN ESSAY WHEN TIME RUNS OUT"
+angle_heading: "Where Ongar Students Lose GCSE English Marks Against the Clock"
+angle_body_1: "GCSE English papers are tight on time, and that's where many capable students come unstuck. They spend too long on the early reading questions of Language Paper 1 and rush the creative writing that carries the most marks. In Literature they write a long, careful opening paragraph about Macbeth or A Christmas Carol and run out of time before they reach the ending. The unseen poem gets a few hurried lines at the end."
+angle_body_2: "A tutor works on timing directly. Your child learns roughly how long each question deserves, practises short timed answers, and gets them marked straight away against the mark scheme. For Literature, a small set of flexible quotations is learned and linked to themes, so planning takes a minute rather than ten. English Language is one of the GCSEs every sixth form and college looks at, so a secure grade keeps all the options near Ongar open."
+angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"
+angle_image_alt: "GCSE English notes with quotations highlighted for a timed Literature essay"
+angle_stat_from: "5"
+angle_stat_to: "6/7"
+angle_stat_detail: "From a grade 5 to a 6/7 in English: Omo, Parent of GCSE Student, wrote on Google that a son who “really struggled with English” improved “after six months of working with Malvina”."
+schools:
+  - "Ongar Academy"
+  - "Epping St John's Church of England School"
+  - "Shenfield High School"
+  - "Brentwood County High School"
+  - "Davenant Foundation School"
+steps_heading: "Getting GCSE English lessons going for your Ongar teenager"
+steps_lead: "Bring along a recent essay if you can. Profiles normally follow within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, around 30 minutes. We'll ask which set texts your child is studying, the board, and whether Language or Literature is the bigger worry."
+  - title: "Choose your tutor"
+    body: "Two or three English tutor profiles within a day, chosen for your child's texts and board. Your child has a free 15-minute video call with the one you prefer before you pay anything."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, writing straight onto a shared page so the tutor can comment as it happens, with a recording afterwards. From £37 an hour, no contract, and a change of tutor if needed."
+faqs:
+  - q: "My child always runs out of time in English exams. Can tutoring fix that?"
+    a: "Usually, yes. Running out of time is mostly about planning and knowing what each question needs. A tutor practises timed answers every week until your child has a feel for how long to spend, and the essays start reaching a conclusion."
+  - q: "What's the difference between GCSE English Language and English Literature?"
+    a: "Language tests reading unseen texts and writing your own, with no set books. Literature is about the set texts your child has studied, such as a Shakespeare play, a nineteenth-century novel and a poetry anthology. They're usually two separate GCSEs, and a tutor treats them separately."
+  - q: "How do you check a tutor can actually teach English?"
+    a: "Harry or Joe interview every tutor, and only about 3% of applicants are taken on. They need at least two years of tutoring and have to show they can mark a piece of writing and explain clearly how to improve it."
+  - q: "Is it too late to start English tutoring in Year 11?"
+    a: "No. Even a term can help, especially on timing and the writing tasks. We'll be clear on the call about what's realistic."
+reviews:
+  - "Jo|Parent of GCSE Student|We got in touch with The Degree Gap to help support our son to pass his English Language GCSE. Although we were close to the exam period when we started, his weekly tutor sessions made such a difference. He passed and has gained entrance to college without need for any re-sits. Thank you!"
+  - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
+  - "Simone|Parent of GCSE Student|My son has just passed his English GCSE with a Grade 5 — he only needed a Grade 4, so we are absolutely over the moon and incredibly proud! 🎉👏 With all of my son SEN needs and the challenges he has faced throughout his education, there were times when we genuinely weren't sure he would get here. But today he has proved that anything is achievable with the right support, belief and determination. A huge thank you to Emir, Your encouragement and motivation has meant so much. We are so grateful for everything you have done. 🙏"
+  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents.\n\nUPDATE: My daughter passed both English and Maths GCSE (4 and 5's). We are extremely grateful to your team especially Avery for the support she gave her in both subjects. Considering she missed a large chunk of the last 3 years at school due to a social anxiety illness, this is an amazing achievement for her."
+  - "Jessica|Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

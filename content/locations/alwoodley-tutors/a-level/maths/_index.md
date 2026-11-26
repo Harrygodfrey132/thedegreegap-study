@@ -1,0 +1,53 @@
+---
+title: "Alwoodley A-Level Maths Tutors | The Degree Gap"
+nav_title: "Maths"
+description: "Is A-Level Maths moving faster than your child can follow? Online A-Level Maths tutoring for Alwoodley sixth formers, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Alwoodley"
+level: "A-Level"
+subject: "Maths"
+hero_h1: "A-Level Maths Tutors for Alwoodley Students"
+hero_lead: "A 7 or 8 at GCSE, and suddenly the first A-Level test comes back half marks. Our A-Level Maths tutors for Alwoodley students find what isn't secure and rebuild it before Year 13."
+angle_eyebrow: "THE ALGEBRA UNDERNEATH"
+angle_heading: "Why Algebraic Fluency Decides A-Level Maths Grades for Alwoodley Students"
+angle_body_1: "A-Level Maths assumes GCSE algebra is automatic. Indices, surds, factorising and rearranging all have to happen without thought, because the new material, calculus, trigonometry, logs, sits on top. A student who is slightly slow or error-prone on the basics loses marks across every paper, often on questions where they understood the idea perfectly well."
+angle_body_2: "The tutor looks at a recent test and separates conceptual mistakes from slips in the algebra. Then each lesson mixes the current topic with a short burst of the skills underneath, and finishes on a full exam question. Mechanics and statistics get the same treatment, so the applied paper isn't left to chance."
+angle_image: "/images/maths-equations-close-up.jpg"
+angle_image_alt: "Close-up of handwritten A-Level Maths equations, the kind of working a tutor checks line by line"
+angle_stat_from: "E/U"
+angle_stat_to: "C"
+angle_stat_detail: "From E and U to C: Joanna, Parent of A-Level Student, wrote on Google that the tutoring helped “turn E and U grades into 3 C grades”. The review doesn't name the subjects."
+schools:
+  - "Allerton Grange School"
+  - "Allerton High School"
+  - "The Grammar School at Leeds"
+  - "Roundhay School"
+  - "Notre Dame Catholic Sixth Form College"
+steps_heading: "Getting A-Level Maths lessons started in Alwoodley"
+steps_lead: "Mention any test dates on the call. Profiles usually come within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask about the board, the year group, and whether pure, mechanics or statistics is the weak spot."
+  - title: "Choose your tutor"
+    body: "Two or three Maths tutor profiles within a day. Your child meets your choice on a free 15-minute video call before you pay anything."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace with working on a shared whiteboard, recorded every time. From £37 an hour, no contract."
+faqs:
+  - q: "Can a tutor help with Further Maths too?"
+    a: "Yes, we have tutors who teach Further Maths. Tell us which modules or options your child takes on the call."
+  - q: "My child wants to study Maths, Economics or Engineering at university. Where should we start?"
+    a: "With the entry requirements for the courses they're considering, as some ask for Further Maths or admissions tests. A tutor can then work on the A-Level grade and, where needed, the problem-solving those tests reward."
+  - q: "Who are your Maths tutors?"
+    a: "Graduates and university students, interviewed by Harry or Joe, with at least two years' tutoring each. About 3% of applicants are accepted."
+  - q: "How much does A-Level Maths tutoring cost?"
+    a: "From £37 an hour. No contract, and you can stop any time."
+reviews:
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Abby|Parent of A-Level Student|Harry has tutored my son in both maths and economics A-levels and has been fantastic. Harry has been professional, approachable and engaging, he has explained things clearly and has fully supported my son through the last 2 years. We are absolutely delighted with the results. Thank you!"
+  - "John|Parent of A-Level Student|Freddie really enjoyed his time with The Degree Gap. He got help with his three A levels (maths, computer science and business) and managed to get his number one choice attending Liverpool Uni to study a masters in Maths. The tutors were organised, supportive and spent time understanding where the knowledge gaps where to ensure best chance of success in exams! Highly recommended"
+  - "Marfa|Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
+  - "Mahir|A-Level Student|Harry was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics - I'd highly recommend for anyone looking to consistently perform at their best."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

@@ -1,0 +1,53 @@
+---
+title: "Wendover A-Level Physics Tutors | The Degree Gap"
+nav_title: "Physics"
+description: "Is the maths in A-Level Physics holding your child back? Online A-Level Physics tutoring for Wendover sixth formers, matched to the board. From £37."
+layout: "level-subject"
+location: "Wendover"
+level: "A-Level"
+subject: "Physics"
+hero_h1: "A-Level Physics Tutors for Wendover Students"
+hero_lead: "Your child understands the Physics in the lesson and then stares at a test question not knowing which equation to use. Our A-Level Physics tutors for Wendover students teach them to set up the problem first."
+angle_eyebrow: "WHICH EQUATION?"
+angle_heading: "Why A-Level Physics Problems Stump So Many Wendover Sixth Formers"
+angle_body_1: "A-Level Physics questions rarely say which idea they're testing. Wendover students who did well at GCSE are often used to recognising a question and applying the matching formula. At A-Level, a single question can combine mechanics with energy, or circuits with fields, and the hard part is deciding where to start. Students who get stuck there often decide they're bad at Physics, when the problem is really one of approach."
+angle_body_2: "A tutor teaches a routine: sketch a diagram, list what's known and what's wanted, choose the principle, and only then pick the equation. It's practised every week with past paper questions on the shared whiteboard, so the tutor can see each decision. The maths that Physics depends on, from rearranging to vectors, is kept sharp alongside it."
+angle_image: "/images/physics-mechanics-force-diagram.jpg"
+angle_image_alt: "A force diagram for an A-Level Physics mechanics problem"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "From Cs to As: Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The review doesn't name the subjects."
+schools:
+  - "The John Colet School"
+  - "Aylesbury Grammar School"
+  - "Aylesbury High School"
+  - "Sir Henry Floyd Grammar School"
+  - "Dr Challoner's High School"
+steps_heading: "Getting A-Level Physics lessons started in Wendover"
+steps_lead: "Mention any mock dates on the call. Profiles usually come within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask about the board, the year group, and which topics feel hardest."
+  - title: "Choose your tutor"
+    body: "Two or three Physics tutor profiles within a day. A free 15-minute video call with the tutor you choose comes before payment."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace with diagrams on a shared whiteboard, recorded every time. From £37 an hour, no contract, and a new tutor if they don't get on."
+faqs:
+  - q: "Can an A-Level Physics tutor help my child aim for engineering?"
+    a: "Yes, with the grades. Each university sets its own requirements, so check them. The tutor works on whatever is costing marks, often the problem-solving and the maths."
+  - q: "My child is good at Maths but struggles with Physics. Why?"
+    a: "Usually because they don't know which principle a question is testing. A tutor teaches them to set up the problem first, with a diagram."
+  - q: "Who are your Physics tutors?"
+    a: "Graduates and university students, interviewed by Harry or Joe, with at least two years' tutoring each. About 3% of applicants are accepted."
+  - q: "How much does A-Level Physics tutoring cost?"
+    a: "From £37 an hour. No contract, and you can stop any time."
+reviews:
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Theresa|Parent|Harry and Joe were extremely helpful with a wealth of knowledge and contacts that helped my son to follow the right path."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

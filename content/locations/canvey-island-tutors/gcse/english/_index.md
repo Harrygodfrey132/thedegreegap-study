@@ -1,0 +1,53 @@
+---
+title: "Canvey Island GCSE English Tutors | The Degree Gap"
+nav_title: "English"
+description: "Does your child freeze at the creative writing task? Online GCSE English tutoring for Canvey Island students, Language and Literature, by board. From £37."
+layout: "level-subject"
+location: "Canvey Island"
+level: "GCSE"
+subject: "English"
+hero_h1: "GCSE English Tutors for Canvey Island Students"
+hero_lead: "Your child is asked to describe a stormy beach and writes two flat sentences, despite living a few minutes from the sea wall. Our GCSE English tutors for Canvey Island students show them how to build a description that earns marks."
+angle_eyebrow: "THE BLANK PAGE"
+angle_heading: "Where Canvey Island Students Lose GCSE English Marks on the Writing Tasks"
+angle_body_1: "The writing questions on GCSE English Language carry a big share of the marks, and they're where many students freeze. Asked for a description or a story, they either write very little or write a lot without any shape. On the Literature papers, they know the plot of An Inspector Calls or Romeo and Juliet but can't recall a quotation to support a point. The unseen poetry question then asks for something sensible about a poem they've never met."
+angle_body_2: "A tutor starts with short, timed pieces, ten minutes of writing, marked straight away against the mark scheme. Your child learns a few dependable openings, how to vary sentences, and how to plan a paragraph in a minute. For Literature, a small set of quotations that work for many questions is learned and linked. English Language is one of the GCSEs every sixth form and college asks about, from SEEVIC to South Essex College, so a secure grade keeps every door open."
+angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"
+angle_image_alt: "GCSE English revision notes with quotations highlighted for a Literature essay"
+angle_stat_from: "5"
+angle_stat_to: "6/7"
+angle_stat_detail: "From a grade 5 to a 6/7 in English: Omo, Parent of GCSE Student, wrote on Google that a son who “really struggled with English” improved “after six months of working with Malvina”."
+schools:
+  - "Castle View School"
+  - "Cornelius Vermuyden School"
+  - "The King John School"
+  - "The Appleton School"
+  - "The Deanes School"
+steps_heading: "Getting GCSE English lessons going for your Canvey Island teenager"
+steps_lead: "Bring along a recent essay if you can. Profiles normally follow within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, around 30 minutes. We'll ask which set texts your child is studying, the board, and whether Language or Literature is the bigger worry."
+  - title: "Choose your tutor"
+    body: "Two or three English tutor profiles within a day, chosen for your child's texts and board. Your child has a free 15-minute video call with the one you prefer before you pay anything."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, writing straight onto a shared page so the tutor can comment as it happens, with a recording afterwards. From £37 an hour, no contract, and a change of tutor if needed."
+faqs:
+  - q: "My child hates writing. Can GCSE English tutoring help?"
+    a: "Usually, yes. A lot of children who hate writing are really scared of the blank page. A tutor gives them a structure to lean on, short timed tasks and quick feedback, so writing becomes something they can do rather than something they dread."
+  - q: "What's the difference between GCSE English Language and English Literature?"
+    a: "Language tests reading unseen texts and writing your own, with no set books. Literature is about the set texts your child has studied, such as a Shakespeare play and a modern drama or novel, and a poetry anthology. They're usually two separate GCSEs, and a tutor treats them separately."
+  - q: "How do you check a tutor can actually teach English?"
+    a: "Harry or Joe interview every tutor, and only about 3% of applicants are taken on. They need at least two years of tutoring and have to show they can mark a piece of writing and explain clearly how to improve it."
+  - q: "My child needs a grade 4 in English to get onto a college course. Is a term enough?"
+    a: "It can be, especially if the gap is in the writing tasks or timing. We'll be honest on the call about what's realistic in the time left."
+reviews:
+  - "Simone|Parent of GCSE Student|My son has just passed his English GCSE with a Grade 5 — he only needed a Grade 4, so we are absolutely over the moon and incredibly proud! 🎉👏 With all of my son SEN needs and the challenges he has faced throughout his education, there were times when we genuinely weren't sure he would get here. But today he has proved that anything is achievable with the right support, belief and determination. A huge thank you to Emir, Your encouragement and motivation has meant so much. We are so grateful for everything you have done. 🙏"
+  - "Jo|Parent of GCSE Student|We got in touch with The Degree Gap to help support our son to pass his English Language GCSE. Although we were close to the exam period when we started, his weekly tutor sessions made such a difference. He passed and has gained entrance to college without need for any re-sits. Thank you!"
+  - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
+  - "Jessica|Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!"
+  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents.\n\nUPDATE: My daughter passed both English and Maths GCSE (4 and 5's). We are extremely grateful to your team especially Avery for the support she gave her in both subjects. Considering she missed a large chunk of the last 3 years at school due to a social anxiety illness, this is an amazing achievement for her."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

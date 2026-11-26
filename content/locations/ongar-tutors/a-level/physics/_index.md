@@ -1,0 +1,53 @@
+---
+title: "Ongar A-Level Physics Tutors | The Degree Gap"
+nav_title: "Physics"
+description: "Is your child unsure which equation a Physics question needs? Online A-Level Physics tutoring for Ongar sixth formers, matched to the board. From £37."
+layout: "level-subject"
+location: "Ongar"
+level: "A-Level"
+subject: "Physics"
+hero_h1: "A-Level Physics Tutors for Ongar Students"
+hero_lead: "Your child follows the Physics in class, then stares at a long question unsure where to begin. Our A-Level Physics tutors for Ongar students teach them to set the problem up before reaching for an equation."
+angle_eyebrow: "WHERE DO I EVEN START?"
+angle_heading: "Why Setting Up the Problem Matters Most in A-Level Physics"
+angle_body_1: "A-Level Physics questions rarely say which idea they're testing. A mechanics problem needs forces resolved before anything else. A circuits question hides a potential divider. Fields, waves and quantum topics bring ideas that are hard to picture. Many questions run over several steps, so a wrong start costs every mark after it, even when the maths is fine."
+angle_body_2: "The tutor teaches a routine: sketch, label what's known, write what's wanted, then choose the equation. Units are checked at every step. Past papers come in early. Physics opens engineering and science degrees, and from Ongar plenty of them are within reach in Essex and London."
+angle_image: "/images/physics-mechanics-force-diagram.jpg"
+angle_image_alt: "A force diagram for an A-Level Physics mechanics problem"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "From Cs to As: Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The review doesn't name the subjects."
+schools:
+  - "Epping St John's Church of England School"
+  - "Shenfield High School"
+  - "Davenant Foundation School"
+  - "Brentwood County High School"
+  - "Brentwood School"
+steps_heading: "Getting A-Level Physics lessons started for Ongar students"
+steps_lead: "Mention any mock dates on the call. Profiles usually come within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask about the board, the year group, and which topics feel hardest."
+  - title: "Choose your tutor"
+    body: "Two or three Physics tutor profiles within a day. A free 15-minute video call with the tutor you choose comes before payment."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace with diagrams on a shared whiteboard, recorded every time. From £37 an hour, no contract."
+faqs:
+  - q: "Can an A-Level Physics tutor help my child aim for an engineering degree?"
+    a: "Yes, with the grades. Each university sets its own requirements, so check them. The tutor works on whatever is costing marks, often setting up the problem."
+  - q: "My child is good at Maths but bad at Physics. Why?"
+    a: "Usually because they don't know which equation to use. A tutor teaches them to set up the problem first, with a diagram."
+  - q: "Who are your Physics tutors?"
+    a: "Graduates and university students, interviewed by Harry or Joe, with at least two years' tutoring each. About 3% of applicants are accepted."
+  - q: "How much does A-Level Physics tutoring cost?"
+    a: "From £37 an hour. No contract, and you can stop any time."
+reviews:
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

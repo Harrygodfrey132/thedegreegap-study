@@ -1,0 +1,53 @@
+---
+title: "Canvey Island A-Level Maths Tutors | The Degree Gap"
+nav_title: "Maths"
+description: "Is A-Level Maths a much bigger step than GCSE? Online A-Level Maths tutoring for Canvey Island sixth formers, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Canvey Island"
+level: "A-Level"
+subject: "Maths"
+hero_h1: "A-Level Maths Tutors for Canvey Island Students"
+hero_lead: "Your child got a 7 or 8 at GCSE and now loses half the marks on every calculus question. Our A-Level Maths tutors for Canvey Island students find the algebra step that keeps breaking and make it solid."
+angle_eyebrow: "THE ALGEBRA UNDERNEATH"
+angle_heading: "What Catches Out Canvey Island Students in A-Level Maths"
+angle_body_1: "GCSE Maths rewards knowing a method. A-Level Maths expects your child to string several together without prompting. Pure Maths leans hard on algebra, so a shaky grasp of indices, surds or factorising breaks long questions in differentiation and integration. Mechanics needs a model and a diagram first. Statistics brings hypothesis tests where the wording of the conclusion earns marks. The first term of Year 12 is usually where the gap opens."
+angle_body_2: "The tutor finds where the marks are going, usually one or two algebra habits, and practises them until they're reliable. Each week mixes new content with real exam questions. Mechanics problems start with a clear diagram. A-Level Maths opens engineering, computing, economics and finance, in Essex, London and further afield."
+angle_image: "/images/maths-equations-close-up.jpg"
+angle_image_alt: "Close-up of A-Level Maths working on calculus"
+angle_stat_from: "E/U"
+angle_stat_to: "C"
+angle_stat_detail: "From E and U to C: Joanna, Parent of A-Level Student, wrote on Google the tutoring helped “turn E and U grades into 3 C grades”. The subjects aren't named."
+schools:
+  - "SEEVIC College"
+  - "The King John School"
+  - "The Appleton School"
+  - "Westcliff High School for Boys"
+  - "Southend High School for Girls"
+steps_heading: "Starting A-Level Maths tutoring for a Canvey Island sixth former"
+steps_lead: "Tell us when the next mock is. Profiles normally arrive within a day."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, around 30 minutes. We'll ask about the board, Year 12 or 13, and whether Pure, Mechanics or Statistics is the weak point."
+  - title: "Choose your tutor"
+    body: "Two or three Maths tutor profiles within 24 hours. Your child meets one on a free 15-minute video call first."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, working on a shared whiteboard, with a replay each time. From £37 an hour, no contract, and a new tutor if they don't click."
+faqs:
+  - q: "My child did well at GCSE Maths but is struggling now. Why?"
+    a: "A-Level Maths expects algebra to be fast and accurate, and it often isn't yet. A tutor finds the specific weakness and fixes it before it spreads."
+  - q: "Should my child take Further Maths too?"
+    a: "It depends on the degree they want and whether their sixth form offers it. Check university requirements first. A tutor can help either way."
+  - q: "How are Maths tutors chosen?"
+    a: "Harry or Joe interview every tutor, with about 3% of applicants accepted and at least two years' tutoring each."
+  - q: "What does A-Level Maths tutoring cost?"
+    a: "From £37 an hour, agreed before booking. No contract."
+reviews:
+  - "John|Parent of A-Level Student|Freddie really enjoyed his time with The Degree Gap. He got help with his three A levels (maths, computer science and business) and managed to get his number one choice attending Liverpool Uni to study a masters in Maths. The tutors were organised, supportive and spent time understanding where the knowledge gaps where to ensure best chance of success in exams! Highly recommended"
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Abby|Parent of A-Level Student|Harry has tutored my son in both maths and economics A-levels and has been fantastic. Harry has been professional, approachable and engaging, he has explained things clearly and has fully supported my son through the last 2 years. We are absolutely delighted with the results. Thank you!"
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Marfa|Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

@@ -1,0 +1,53 @@
+---
+title: "Loughton A-Level Biology Tutors | The Degree Gap"
+nav_title: "Biology"
+description: "Are the long A-Level Biology answers costing your child marks? Online A-Level Biology tutoring for Loughton sixth formers, by board. From £37 an hour."
+layout: "level-subject"
+location: "Loughton"
+level: "A-Level"
+subject: "Biology"
+hero_h1: "A-Level Biology Tutors for Loughton Students"
+hero_lead: "Your child spends hours making revision cards, and the essay question still comes back with half marks. Our A-Level Biology tutors for Loughton students teach them to connect topics, not just learn them."
+angle_eyebrow: "MORE THAN THE REVISION CARDS"
+angle_heading: "Why the Synoptic Questions Cost Loughton Students the Most A-Level Biology Marks"
+angle_body_1: "A-Level Biology has a huge amount of content, and hardworking students learn it topic by topic. But the hardest questions pull topics together: a long answer linking genetics to evolution, or cell biology to the immune system, or a data question that needs ideas from three different units. Revision cards rarely prepare your child for that. Neither do the statistics tests in practical questions, which appear when they're least expected."
+angle_body_2: "The tutor uses past questions from your child's board to practise linking topics, sketching connections on the shared whiteboard before any writing starts. Pathways such as respiration and photosynthesis are drawn out step by step, and statistics get short, regular practice. Many Loughton students taking Biology are thinking about nursing, medicine or another health course, and those courses look closely at this grade."
+angle_image: "/images/human-anatomy-model.jpg"
+angle_image_alt: "A human anatomy model, as used in A-Level Biology lessons"
+angle_stat_from: "E/U"
+angle_stat_to: "C"
+angle_stat_detail: "From E and U to C: Joanna, Parent of A-Level Student, wrote on Google that the tutoring helped her son “turn E and U grades into 3 C grades”. The subjects aren't named."
+schools:
+  - "Davenant Foundation School"
+  - "West Hatch High School"
+  - "Chigwell School"
+  - "Bancroft's School"
+  - "Woodford County High School"
+steps_heading: "Starting A-Level Biology lessons for a Loughton sixth former"
+steps_lead: "If a healthcare application is coming, tell us the deadlines. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, about 30 minutes. We'll ask which board, Year 12 or 13, which topics feel shakiest, and whether there's a healthcare course in mind."
+  - title: "Choose your tutor"
+    body: "Two or three Biology tutor profiles within 24 hours, matched to your child's specification. A free 15-minute video call with the one you choose comes before any payment."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, with pathways and diagrams on a shared whiteboard and a replay each time. From £37 an hour, no contract."
+faqs:
+  - q: "How should my child revise for A-Level Biology?"
+    a: "Learning the content matters, but so does practising exam questions, especially ones that mix topics. A tutor can show your child how to turn revision notes into answers that score, and how to spot what a question is really asking."
+  - q: "Can A-Level Biology tutoring help with a nursing or medicine application?"
+    a: "It can help with the grade, which is the first hurdle. Universities publish their own requirements for subjects, grades and any admissions tests, so check those first."
+  - q: "How do you choose your Biology tutors?"
+    a: "Harry or Joe interview every tutor, and about 3% of applicants are accepted. Each has at least two years' tutoring. We check they can explain a complicated process in plain language."
+  - q: "How much do A-Level Biology lessons cost?"
+    a: "From £37 an hour, agreed in advance. That includes the lesson, practice questions between lessons and a recording. No contract."
+reviews:
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Alison|Parent of A-Level Student|My son has been receiving tutor lessons with Jacob Berry in A level History and subsequently A level Sociology since the beginning of this year.\nJacob has been such a tremendous support for my son, teaching him content as well as exam technique, with which, as a dyslexic, he really has needed additional support.\nJacob also sets him weekly essays as homework, marks and returns them which is just invaluable.\nHarry at The Degree Gap has also been outstanding - from day one when I first got in touch to now, when we are about to end our tutor sessions.  When I communicate his responses to me have always been immediate and highly supportive, plus credit to Harry for matching us with Jacob.\nI would not hesitate to recommend The Degree Gap and absolutely to recommend Jacob."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

@@ -1,0 +1,52 @@
+---
+title: "Chorlton GCSE Science Tutors | The Degree Gap"
+nav_title: "Science"
+description: "Are the GCSE Science calculations costing your child marks? Online GCSE Science tutoring for Chorlton students, Combined or Triple, by board. From £37 an hour."
+layout: "level-subject"
+location: "Chorlton"
+level: "GCSE"
+subject: "Science"
+hero_h1: "GCSE Science Tutors for Chorlton Students"
+hero_lead: "Your child understands the science, then loses whole questions on a unit conversion or a rearranged equation. Our GCSE Science tutors for Chorlton students make the maths in Science routine."
+angle_eyebrow: "WHEN THE NUMBERS GET IN THE WAY"
+angle_heading: "Why Calculations Cost Chorlton Students GCSE Science Marks"
+angle_body_1: "A good chunk of GCSE Science marks need some maths: rearranging an equation in Physics, working out moles in Chemistry, reading a graph or calculating a rate in Biology. Students who are comfortable with the ideas still lose marks here, often by skipping a step, forgetting a unit, or leaving the question blank because the numbers look awkward."
+angle_body_2: "The tutor finds every calculation your child dropped on a recent paper and groups them by the skill underneath. Then each lesson includes short, regular practice on that skill alongside the science content. Whether your child takes Combined or separate sciences, it's often the quickest way to move a grade."
+angle_image: "/images/physics-calculator-reflection-diagram.jpg"
+angle_image_alt: "A calculator beside a Physics diagram, the kind of GCSE Science calculation a tutor practises"
+angle_stat_from: "4-5"
+angle_stat_to: "8"
+angle_stat_detail: "From a predicted 4-5 to an 8 in Physics: Chamarika, Parent of GCSE Student, wrote on Trustpilot that their son “managed to turn this around” within “roughly two months of tutoring”."
+schools:
+  - "Chorlton High School"
+  - "Whalley Range 11-18 High School"
+  - "St Bede's College"
+  - "Stretford Grammar School"
+steps_heading: "Three steps to GCSE Science tutoring in Chorlton"
+steps_lead: "Tell us if it's Combined or Triple. Profiles usually arrive within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask whether your child takes Combined or separate sciences, which board, and which science is weakest."
+  - title: "Choose your tutor"
+    body: "Two or three Science tutor profiles within 24 hours, matched to board and tier. Your child meets your choice on a free 15-minute video call first."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, with diagrams and calculations on a shared whiteboard and every lesson recorded. From £37 an hour, no contract."
+faqs:
+  - q: "What Science grades do colleges ask for to study sciences at A-Level?"
+    a: "Each college sets its own, often higher for the science it's for. Loreto, Xaverian and Whalley Range publish theirs, so check the current prospectus."
+  - q: "Is Combined Science enough for A-Level sciences?"
+    a: "Usually, yes, though grade requirements vary. Check with the sixth form or college your child is considering."
+  - q: "Will one tutor cover all three sciences?"
+    a: "Often, for Combined Science. If one science is much weaker, we may suggest a specialist for that one."
+  - q: "What does GCSE Science tutoring cost?"
+    a: "From £37 an hour, agreed before anything is booked. No contract and no joining fee."
+reviews:
+  - "Chamarika|Parent of GCSE Student|Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s. Thank you to all the 3x tutors."
+  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. The website is easy to use and effective, I had no disappointment in scheduling lessons for my son. Tutors were polite and on time for their lessons."
+  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. The tutors we have used are lovely.  The Degree Gap use an advanced online platform which enables interactive tuition. We also attended a free webinar from the Degree Gap which was very informative and added value. I highly recommend them."
+  - "Sam|Parent of GCSE Student|Excellent experience. Founders are accessible, hands on, responsive and flexible. As are the tutors - quality all round. It was great to be able to trial a few to find the right fit, who my daughter felt most comfortable with. She got at least a grade higher in GCSEs because of the tuition which helped her get into a top school (grammar) for As."
+  - "Etienne|Parent of GCSE Student|Great session on how to support our boy with his up & coming GCSE's exams. Very informative webinar with practical tips & techniques to use - by child & parent."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

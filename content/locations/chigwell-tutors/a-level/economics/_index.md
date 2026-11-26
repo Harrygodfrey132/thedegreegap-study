@@ -1,0 +1,53 @@
+---
+title: "Chigwell A-Level Economics Tutors | The Degree Gap"
+nav_title: "Economics"
+description: "Is evaluation holding back your child's Economics essays? Online A-Level Economics tutoring for Chigwell sixth formers, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Chigwell"
+level: "A-Level"
+subject: "Economics"
+hero_h1: "A-Level Economics Tutors for Chigwell Students"
+hero_lead: "Your child knows the theory and draws neat diagrams, then the essay comes back marked down for 'limited evaluation'. Our A-Level Economics tutors for Chigwell students teach them to weigh an argument, not just make one."
+angle_eyebrow: "THE WORD 'EVALUATE'"
+angle_heading: "Why Evaluation Costs Chigwell Students the Most A-Level Economics Marks"
+angle_body_1: "The long essays carry the biggest marks in A-Level Economics, and the top levels go to students who evaluate: who say how far something is true, for whom, and in what circumstances. Most students make a one-sided case, add a 'however' at the end, and wonder why the mark is stuck. The diagrams cause their own trouble, drawn from memory but not used to support the argument. Economics is new to most students in Year 12, so these habits form quickly, good or bad."
+angle_body_2: "The tutor starts with a marked essay and shows your child where the evaluation marks were available and missed. Then they practise a structure for each paragraph, with the diagram doing real work in the argument, using questions from your child's board. Plenty of Chigwell students take Economics with an eye on finance, business or law, often in London, and those courses look closely at this grade."
+angle_image: "/images/economics-equations-on-chalkboard.jpg"
+angle_image_alt: "Economics diagrams and equations on a chalkboard"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "From Cs to As: Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The subjects aren't named."
+schools:
+  - "Chigwell School"
+  - "West Hatch High School"
+  - "Bancroft's School"
+  - "Woodford County High School"
+  - "Ilford County High School"
+steps_heading: "Starting A-Level Economics lessons for a Chigwell sixth former"
+steps_lead: "Tell us the board and send a marked essay if you have one. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, about 30 minutes. We'll ask which board, Year 12 or 13, whether micro or macro feels weaker, and how the essays are being marked."
+  - title: "Choose your tutor"
+    body: "Two or three Economics tutor profiles within 24 hours, matched to your child's specification. A free 15-minute video call with the one you choose comes before any payment."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, with diagrams and essay plans on a shared whiteboard and a replay each time. From £37 an hour, no contract."
+faqs:
+  - q: "My child didn't take GCSE Economics. Are they at a disadvantage?"
+    a: "Not really. Very few schools offer it at GCSE, so most A-Level students start from scratch. The challenge is building good essay habits early, which is where a tutor helps most."
+  - q: "Does my child need to be good at Maths for A-Level Economics?"
+    a: "A little. There are calculations and data questions, but nothing beyond GCSE Maths. Writing a clear, balanced argument matters much more."
+  - q: "Who are your Economics tutors?"
+    a: "Graduates and university students interviewed by Harry or Joe, with about 3% of applicants accepted and at least two years' tutoring each. Harry, our co-founder, tutors Economics himself."
+  - q: "How much do A-Level Economics lessons cost?"
+    a: "From £37 an hour, agreed in advance. That includes the lesson, essay feedback between lessons and a recording. No contract."
+reviews:
+  - "Cat|Parent of A-Level Student|My 18 year old son had A-level Economics tutoring with Harry.  He was excellent, knew exactly what he needed to learn and was able to explain in terms which made it simple to understand.  The online platform was convenient and easy to use."
+  - "Binh|A-Level Student|I was very fortunate enough to encounter Harry during my time taking A level economics. I really struggled a lot with long 30 marked essays as well as evaluation and learning the graphs as for at the time it was really hard and I didn’t understand. However the way how Harry taught me was super simple compared to other teachers from school. I really enjoyed my time when Harry taught me and I would highly recommend it to people!"
+  - "Sarom|Parent of A-Level Student|Harry has been very helpful in tutoring my son for his economics A Level. He has lots of patience, keeps lessons interesting and is a good motivator. Needless to say his subject matter is expertise is excellent."
+  - "Lucas|A-Level Student|I was having trouble with some areas of my economics a level course before getting in contact with Harry. He walked me through everything I needed help with, from content I was weak with to exam technique that I was lacking. His insight, examples and willingness to go the extra step really helped me to regain my confidence in economics, having achieved a predicted a* with his help."
+  - "J.O|A-Level Student|I was put into contact with Harry from a friend of mine who did economics in the year above me. And at first I was hesitant on getting a Tutor as I wasn’t sure if they were effective especially for the price they demand, but this wasn’t the case with Harry. He’s helped me massively with my essays, topics I didn’t understand beforehand and overall confidence with the subject. I highly recommend!"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

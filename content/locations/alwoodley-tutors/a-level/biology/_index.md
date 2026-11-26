@@ -1,0 +1,53 @@
+---
+title: "Alwoodley A-Level Biology Tutors | The Degree Gap"
+nav_title: "Biology"
+description: "Is A-Level Biology the grade standing between your child and a medicine offer? Online Biology tutoring for Alwoodley sixth formers. From £37 an hour."
+layout: "level-subject"
+location: "Alwoodley"
+level: "A-Level"
+subject: "Biology"
+hero_h1: "A-Level Biology Tutors for Alwoodley Students"
+hero_lead: "Your child has pages of notes and still loses marks on the data questions. Our A-Level Biology tutors for Alwoodley students teach them to apply what they know to an experiment they've never seen."
+angle_eyebrow: "WHEN THE NOTES DON'T TURN INTO MARKS"
+angle_heading: "Why Application Questions Cost Alwoodley Students A-Level Biology Marks"
+angle_body_1: "A-Level Biology has a lot to learn, and most students put their effort there. But a large share of marks go to questions that give unfamiliar data, a graph or an experiment, and ask what it shows. A student who has memorised respiration perfectly can still freeze when it's presented in a context they haven't revised."
+angle_body_2: "The tutor uses past paper questions from the start, working through how to read the stem, pick out what's being tested, and link it to the content. Statistics and practical skills are built in each week. For students aiming at medicine, dentistry or biomedical science, the top grades depend on exactly this."
+angle_image: "/images/fluorescent-cells-under-microscope.jpg"
+angle_image_alt: "Fluorescent cells under a microscope, the kind of image A-Level Biology data questions are built around"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "From Cs to As: Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The review doesn't say which subjects."
+schools:
+  - "Allerton Grange School"
+  - "Allerton High School"
+  - "The Grammar School at Leeds"
+  - "Roundhay School"
+  - "Notre Dame Catholic Sixth Form College"
+steps_heading: "Starting A-Level Biology tutoring for an Alwoodley student"
+steps_lead: "Tell us about any upcoming tests. Profiles usually arrive within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About 30 minutes with Harry or Joe, at no cost. We'll ask about the board, the year group and which topics or question types cost the most marks."
+  - title: "Choose your tutor"
+    body: "Two or three Biology tutor profiles within 24 hours. Your child meets your choice on a free 15-minute video call first."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, with diagrams on a shared whiteboard and a recording of every lesson. From £37 an hour, no contract."
+faqs:
+  - q: "Can a Biology tutor help with a medicine application?"
+    a: "With the grade, yes, and with explaining science clearly. Each medical school sets its own requirements and admissions test, so check those directly. The application itself is your child's."
+  - q: "Should my child take Chemistry alongside Biology?"
+    a: "Many medicine and biosciences courses require Chemistry, so check the requirements for the courses your child is interested in before choosing."
+  - q: "Who are your Biology tutors?"
+    a: "Graduates and university students, interviewed by Harry or Joe, with at least two years' tutoring each. About 3% of applicants are accepted."
+  - q: "How much does A-Level Biology tutoring cost?"
+    a: "From £37 an hour, agreed before booking. No contract."
+reviews:
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Charlotte|Student|I cannot recommend Harry enough. He was helpful welcoming and helped me achieve a grade higher than I was expected!"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

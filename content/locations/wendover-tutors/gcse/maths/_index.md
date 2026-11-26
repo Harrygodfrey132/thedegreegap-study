@@ -1,0 +1,53 @@
+---
+title: "Wendover GCSE Maths Tutors | The Degree Gap"
+nav_title: "Maths"
+description: "Is GCSE Maths fine in class but falling apart in timed papers? Online GCSE Maths tutoring for Wendover students, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Wendover"
+level: "GCSE"
+subject: "Maths"
+hero_h1: "GCSE Maths Tutors for Wendover Students"
+hero_lead: "Your child gets the homework right, then runs out of time and leaves the last page of the paper blank. Our GCSE Maths tutors for Wendover students work on speed and on knowing where to start."
+angle_eyebrow: "THE BLANK LAST PAGE"
+angle_heading: "Why Timing Costs Wendover Students So Many GCSE Maths Marks"
+angle_body_1: "The marks we see Wendover students lose are often not the ones they can't do. They're the ones they never reach. Six minutes go on a two-mark question, panic sets in, and the multi-step problems at the back of the paper, often worth four or five marks each, get a hurried line or nothing. In class there's no clock, so nobody notices how slow the routine questions have become."
+angle_body_2: "The first lesson is a timed section of a real paper, with the tutor watching where the minutes go on the shared whiteboard. Then the routine questions are practised until they're quick, which frees up time for the harder ones, and your child learns when to leave a question and come back. Whether the aim is a secure 4 or a 7 for A-Level Maths at John Colet or a grammar sixth form, these are the marks that move the grade."
+angle_image: "/images/maths-equations-close-up.jpg"
+angle_image_alt: "GCSE Maths working on paper, the kind of timed question a tutor goes through line by line"
+angle_stat_from: "4-5"
+angle_stat_to: "8"
+angle_stat_detail: "These grades are from GCSE Physics, not Maths. Chamarika (Parent of GCSE Student) wrote on Trustpilot that a son “had a predicted 4-5 in Physics” and “made it an 8 within roughly two months of tutoring”."
+schools:
+  - "The John Colet School"
+  - "Aylesbury Grammar School"
+  - "Aylesbury High School"
+  - "Sir Henry Floyd Grammar School"
+  - "Dr Challoner's High School"
+steps_heading: "Starting GCSE Maths tutoring for a Wendover student"
+steps_lead: "If mocks are close, tell us the date. Profiles usually arrive within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask which school, which board, Foundation or Higher, and how the last mock went. If your child runs out of time, say so."
+  - title: "Choose your tutor"
+    body: "You'll get two or three Maths tutor profiles within 24 hours, chosen for your child's board and tier. Your child meets the one you like on a free 15-minute video call before anything is paid."
+  - title: "Weekly lessons"
+    body: "One hour a week on Lessonspace, with every line of working on a shared whiteboard and a replay afterwards. From £37 an hour, no contract, and a new tutor if they don't get on."
+faqs:
+  - q: "What GCSE Maths grade does a sixth form want for A-Level Maths?"
+    a: "Usually more than a pass, and it varies. John Colet and the Buckinghamshire grammars publish subject requirements in their sixth form prospectuses, and these can change each year, so check the current version. If your child is a grade or so short, a focused term of Maths lessons can often close the gap."
+  - q: "My child knows the methods. Why do they run out of time?"
+    a: "Usually because the easier questions take too long, not because the hard ones are impossible. Hesitating over which method to use, or checking every line twice, adds up across a paper. A tutor times the routine questions and practises them until they're automatic."
+  - q: "Who are your Maths tutors?"
+    a: "Graduates and university students, every one interviewed by Harry or Joe, with about 3% of applicants accepted and at least two years' tutoring each. We ask candidates to explain something like simultaneous equations to someone who finds it hard, because knowing the Maths isn't enough."
+  - q: "Is Foundation or Higher the right tier for my child?"
+    a: "That's the school's decision, and it usually follows the mocks. A tutor can help either way: on Foundation, by making the grade 4 and 5 questions secure; on Higher, by making sure the early questions are banked quickly so there's time for the hard ones."
+reviews:
+  - "Hermione|GCSE Student|Came here to search for a GCSE maths tutor and was recommended Rebecca Hanna by the very helpful Harry. Rebecca was nothing but helpful and comforting. I highly recommend her, especially since she helped me pass the GCSE! Thank you."
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. We opted for Avery and she was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back in her abilities and gave her the confidence to face Maths GCSE exams. Highly recommend Degree Gap and will be back again in September with my youngest embarking on her GCSEs"
+  - "Jessica|Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!"
+  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents.\n\nUPDATE: My daughter passed both English and Maths GCSE (4 and 5's). We are extremely grateful to your team especially Avery for the support she gave her in both subjects. Considering she missed a large chunk of the last 3 years at school due to a social anxiety illness, this is an amazing achievement for her."
+  - "Nikola|iGCSE Student|The Degree Gap paired me with a great tutor for my igcse exams. Harry was eager and really knew his stuff about Maths. It was nice that i got a free trial call first, so i could see if it was a good match. Would highly recommend to a friend."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

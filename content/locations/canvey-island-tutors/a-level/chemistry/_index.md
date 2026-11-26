@@ -1,0 +1,53 @@
+---
+title: "Canvey Island A-Level Chemistry Tutors | The Degree Gap"
+nav_title: "Chemistry"
+description: "Is A-Level Chemistry far harder than GCSE was? Online A-Level Chemistry tutoring for Canvey Island sixth formers, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Canvey Island"
+level: "A-Level"
+subject: "Chemistry"
+hero_h1: "A-Level Chemistry Tutors for Canvey Island Students"
+hero_lead: "Your child learnt every mechanism for the last test and can't draw a new one for this week's. Our A-Level Chemistry tutors for Canvey Island students teach the pattern underneath, so the mechanisms stop needing to be memorised."
+angle_eyebrow: "MEMORISED, THEN FORGOTTEN"
+angle_heading: "Where A-Level Chemistry Gets Hard for Canvey Island Sixth Formers"
+angle_body_1: "Chemistry has one of the biggest jumps from GCSE. Mole calculations get longer and less guided. Organic chemistry brings curly arrow mechanisms, which students try to learn one at a time, then forget under pressure. Physical chemistry links equilibrium, rates and energetics into long calculation chains where one early slip costs everything after it. Starting at a new college at sixteen, the pace can come as a shock."
+angle_body_2: "The tutor goes back to electrons first, where they are and why they move, so mechanisms become something your child can work out. Calculations get one layout, used every time. Past paper questions come in each week. A-Level Chemistry is asked for by medicine, pharmacy, chemical engineering and many science degrees, and the energy and process industries along the Thames estuary need chemists too."
+angle_image: "/images/chemistry-lab-glassware.jpg"
+angle_image_alt: "Glassware on a lab bench for an A-Level Chemistry practical"
+angle_stat_from: "E"
+angle_stat_to: "B"
+angle_stat_detail: "From an E to a B: Keira, an A-Level Student, wrote on Google that the tutoring “definitely helped me increase my grades from an E to a B”. The subject isn't named."
+schools:
+  - "SEEVIC College"
+  - "The King John School"
+  - "The Appleton School"
+  - "Westcliff High School for Boys"
+  - "Southend High School for Girls"
+steps_heading: "Getting A-Level Chemistry tutoring started for Canvey Island students"
+steps_lead: "If Year 13 mocks are close, mention it on the call. Tutor profiles normally arrive within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "Roughly half an hour with Harry or Joe, free. We'll ask about the board, the year group, and whether organic, physical or inorganic chemistry is the weak spot."
+  - title: "Choose your tutor"
+    body: "Within a day, two or three Chemistry tutor profiles matched to your child's specification. Your child meets one on a free 15-minute video call before you commit."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, mechanisms drawn together on the whiteboard, every lesson recorded. From £37 an hour, no contract, and a different tutor if needed."
+faqs:
+  - q: "My child started A-Level Chemistry at a new college and is already behind. Is that common?"
+    a: "Yes. A new place, new teachers and sometimes a new board all at once is a lot. The first months of A-Level Chemistry go quickly, and a gap in moles or bonding can grow fast. A tutor finds the gap and fills it, usually within a few weeks."
+  - q: "How can my child get better at organic mechanisms?"
+    a: "By understanding why electrons move, rather than memorising each mechanism. Once that clicks, most mechanisms follow the same few patterns. A tutor practises them until your child can draw one they haven't seen before."
+  - q: "What experience do your Chemistry tutors have?"
+    a: "Each has at least two years of tutoring, and every one is interviewed by Harry or Joe. Only about 3% of applicants are accepted."
+  - q: "Can we stop A-Level Chemistry tutoring after the exams?"
+    a: "Yes, any time. There's no contract, you pay per lesson from £37 an hour, and you just need to give a day or two's notice."
+reviews:
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Leo|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

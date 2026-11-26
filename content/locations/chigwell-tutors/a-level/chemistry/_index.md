@@ -1,0 +1,53 @@
+---
+title: "Chigwell A-Level Chemistry Tutors | The Degree Gap"
+nav_title: "Chemistry"
+description: "Is A-Level Chemistry slipping on the calculations? Online A-Level Chemistry tutoring for Chigwell sixth formers, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Chigwell"
+level: "A-Level"
+subject: "Chemistry"
+hero_h1: "A-Level Chemistry Tutors for Chigwell Students"
+hero_lead: "Your child understands the ideas in lessons, then a five-step calculation on equilibrium or energetics falls apart halfway through. Our A-Level Chemistry tutors for Chigwell students build the calculations into habits."
+angle_eyebrow: "THE FIVE-STEP CALCULATIONS"
+angle_heading: "Why Calculations Cost Chigwell Students So Many A-Level Chemistry Marks"
+angle_body_1: "A-Level Chemistry asks for far more maths than GCSE did. Equilibrium constants, enthalpy cycles, pH and rates questions run over several steps, and one slip in units or significant figures early on carries through to the end. Organic chemistry brings its own pressure, with mechanisms and synthesis routes that have to be remembered precisely. Students who coped well at GCSE often don't realise how much the calculations matter until the first Year 12 test."
+angle_body_2: "The tutor takes one calculation type at a time and writes out each step on the shared whiteboard, then sets mixed questions from your child's board so they practise recognising which method a question needs. Organic mechanisms are learnt as a few repeating patterns rather than dozens of separate reactions. Chemistry is often required for medicine, dentistry and pharmacy, so for many Chigwell students this grade matters well beyond the subject itself."
+angle_image: "/images/chemistry-lab-glassware.jpg"
+angle_image_alt: "Glassware on a lab bench for an A-Level Chemistry practical"
+angle_stat_from: "E"
+angle_stat_to: "B"
+angle_stat_detail: "From an E to a B: Keira, an A-Level Student, wrote on Google that the tutoring “definitely helped me increase my grades from an E to a B”. The subject isn't named."
+schools:
+  - "Chigwell School"
+  - "West Hatch High School"
+  - "Bancroft's School"
+  - "Woodford County High School"
+  - "Ilford County High School"
+steps_heading: "Starting A-Level Chemistry lessons for a Chigwell sixth former"
+steps_lead: "Tell us the board and the topics that went worst in the last test. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, about 30 minutes. We'll ask which board, Year 12 or 13, whether physical, organic or inorganic feels weakest, and what your child hopes to study next."
+  - title: "Choose your tutor"
+    body: "Two or three Chemistry tutor profiles within 24 hours, matched to your child's specification. A free 15-minute video call with the one you choose comes before any payment."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, calculations and mechanisms worked through on a shared whiteboard, with a replay each time. From £37 an hour, no contract."
+faqs:
+  - q: "My child got a 9 in GCSE Chemistry. Why are they struggling now?"
+    a: "The jump is real. A-Level Chemistry needs much more mathematical confidence and far more precise recall of mechanisms. Many strong GCSE students find the first term hard, and a tutor can steady things before it affects predicted grades."
+  - q: "Can a tutor help with the required practicals?"
+    a: "Yes, with the written side of them. Exams ask about methods, results and errors from the practicals, and a tutor can go through those questions regularly so the details stay fresh."
+  - q: "How do you choose your Chemistry tutors?"
+    a: "Harry or Joe interview every tutor, and about 3% of applicants are accepted. Each has at least two years' tutoring. We check they can explain a mechanism clearly to a student who's confused."
+  - q: "How much do A-Level Chemistry lessons cost?"
+    a: "From £37 an hour, agreed in advance. That includes the lesson, practice questions between lessons and a recording. No contract."
+reviews:
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Leo|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
+  - "John|Parent of A-Level Student|Freddie really enjoyed his time with The Degree Gap. He got help with his three A levels (maths, computer science and business) and managed to get his number one choice attending Liverpool Uni to study a masters in Maths. The tutors were organised, supportive and spent time understanding where the knowledge gaps where to ensure best chance of success in exams! Highly recommended"
+  - "Matthew|A-Level Student|My tutor was very helpful leading to the result that I wanted, giving helpful tips and techniques to get the most out of my Economics. I used Sayyeda-Zainab Rajabali for A Level Economics and she was always very helpful and taught at a high level."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

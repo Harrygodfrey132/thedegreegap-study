@@ -1,0 +1,52 @@
+---
+title: "Alwoodley GCSE Maths Tutors | The Degree Gap"
+nav_title: "Maths"
+description: "Does your child drop marks on the long GCSE Maths questions? Online GCSE Maths tutoring for Alwoodley students, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Alwoodley"
+level: "GCSE"
+subject: "Maths"
+hero_h1: "GCSE Maths Tutors for Alwoodley Students"
+hero_lead: "Your child gets full marks on a page of one topic, then loses their way on the paper where topics are mixed. Our GCSE Maths tutors for Alwoodley students teach them to spot which method a question wants."
+angle_eyebrow: "WHEN THE CLASS MOVES FASTER THAN THE CHILD"
+angle_heading: "Why Algebra Gaps Cost Alwoodley Students the Most GCSE Maths Marks"
+angle_body_1: "In a busy Higher set, algebra is where things tend to go quiet. Rearranging formulae, expanding brackets, solving a quadratic: each one builds on the last, and a child who half-understood one step in Year 9 finds every later topic harder. By Year 11 it shows up everywhere, in graphs, in geometry proofs, in the final questions on each paper."
+angle_body_2: "The first lesson goes through a recent test and sorts the lost marks into ones your child couldn't start and ones they started and dropped. Then the tutor goes back to the algebra underneath, fixes it, and practises it inside mixed exam questions every week. For a student hoping to take A-Level Maths, these are the skills a sixth form will be looking for."
+angle_image: "/images/student-completing-maths-worksheet.jpg"
+angle_image_alt: "A student working through a GCSE Maths worksheet, the kind of algebra a tutor rebuilds step by step"
+angle_stat_from: "4-5"
+angle_stat_to: "8"
+angle_stat_detail: "These grades are from GCSE Physics, not Maths. Chamarika (Parent of GCSE Student) wrote on Trustpilot that a son with “a predicted 4-5 in Physics” made it “an 8 within roughly two months of tutoring”."
+schools:
+  - "Allerton Grange School"
+  - "Allerton High School"
+  - "The Grammar School at Leeds"
+  - "Roundhay School"
+steps_heading: "Starting GCSE Maths tutoring for an Alwoodley student"
+steps_lead: "If the mocks are close, tell us the date. Profiles usually arrive within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask about your child's school, board, tier and last test, and which kind of question makes them go quiet."
+  - title: "Choose your tutor"
+    body: "Two or three Maths tutor profiles within 24 hours, matched to the board and tier. Your child meets your choice on a free 15-minute video call before anything is paid."
+  - title: "Weekly lessons"
+    body: "One hour a week on Lessonspace, with every line of working on a shared whiteboard and a replay afterwards. From £37 an hour, no contract."
+faqs:
+  - q: "Will my Alwoodley child need a particular GCSE Maths grade for A-Level Maths?"
+    a: "Almost certainly, and it's usually well above a pass. Each sixth form publishes its own requirement, and they change, so check the current prospectus. If your child is a grade short, Maths is a subject where a focused term can make a real difference."
+  - q: "My child is in the Foundation tier. Is that a problem?"
+    a: "Not in itself. Foundation caps the grade at 5, so the question is whether a 5 is enough for what comes next. If your child is close to Higher, a tutor can help them and their teacher decide, and work on the topics Higher adds."
+  - q: "Who are your Maths tutors?"
+    a: "Graduates and university students, each one interviewed by Harry or Joe, with about 3% of applicants accepted and at least two years' tutoring each. We ask candidates to explain a topic to someone who finds it hard, because knowing the Maths isn't enough."
+  - q: "How much does GCSE Maths tutoring cost?"
+    a: "From £37 an hour, agreed before you book. No contract, no joining fee, and you can stop or pause with a day or two's notice."
+reviews:
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. We opted for Avery and she was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back in her abilities and gave her the confidence to face Maths GCSE exams. Highly recommend Degree Gap and will be back again in September with my youngest embarking on her GCSEs"
+  - "Hermione|GCSE Student|Came here to search for a GCSE maths tutor and was recommended Rebecca Hanna by the very helpful Harry. Rebecca was nothing but helpful and comforting. I highly recommend her, especially since she helped me pass the GCSE! Thank you."
+  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents.\n\nUPDATE: My daughter passed both English and Maths GCSE (4 and 5's). We are extremely grateful to your team especially Avery for the support she gave her in both subjects. Considering she missed a large chunk of the last 3 years at school due to a social anxiety illness, this is an amazing achievement for her."
+  - "Nikola|iGCSE Student|The Degree Gap paired me with a great tutor for my igcse exams. Harry was eager and really knew his stuff about Maths. It was nice that i got a free trial call first, so i could see if it was a good match. Would highly recommend to a friend."
+  - "Jessica|Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

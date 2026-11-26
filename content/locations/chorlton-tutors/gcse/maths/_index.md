@@ -1,0 +1,52 @@
+---
+title: "Chorlton GCSE Maths Tutors | The Degree Gap"
+nav_title: "Maths"
+description: "Is GCSE Maths the grade holding back your child's college plans? Online GCSE Maths tutoring for Chorlton students, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Chorlton"
+level: "GCSE"
+subject: "Maths"
+hero_h1: "GCSE Maths Tutors for Chorlton Students"
+hero_lead: "Your child has decided they're 'not a maths person', and the college they want still asks for a 5 or 6. Our GCSE Maths tutors for Chorlton students rebuild the confidence one topic at a time."
+angle_eyebrow: "WHEN A CHILD DECIDES THEY CAN'T DO MATHS"
+angle_heading: "Why Confidence Costs Chorlton Students the Most GCSE Maths Marks"
+angle_body_1: "Plenty of capable students reach Year 10 convinced Maths isn't for them. Often it traces back to a few topics that never clicked, fractions, negative numbers, simple equations, and every new topic since has felt like proof. In the exam they skip questions they could do, because they've stopped expecting to get them right."
+angle_body_2: "The tutor starts with a recent test and shows your child which lost marks were within reach. Then lessons go back to the topics underneath, one at a time, with plenty of questions they can get right before harder ones. For a student who needs a particular grade for a college course, that steady rebuild usually moves the mark further than cramming."
+angle_image: "/images/student-completing-maths-worksheet.jpg"
+angle_image_alt: "A student working through a GCSE Maths worksheet, the kind of topic-by-topic practice a tutor builds"
+angle_stat_from: "4-5"
+angle_stat_to: "8"
+angle_stat_detail: "These grades come from GCSE Physics rather than Maths. Chamarika (Parent of GCSE Student) wrote on Trustpilot that a son with “a predicted 4-5 in Physics” went on to make it “an 8 within roughly two months of tutoring”."
+schools:
+  - "Chorlton High School"
+  - "Whalley Range 11-18 High School"
+  - "St Bede's College"
+  - "Stretford Grammar School"
+steps_heading: "Starting GCSE Maths tutoring for a Chorlton student"
+steps_lead: "If a college application is coming up, tell us the grade it asks for. Profiles usually arrive within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask about the school, board, tier and last test, and how your child feels about Maths."
+  - title: "Choose your tutor"
+    body: "Two or three Maths tutor profiles within 24 hours, matched to board and tier. Your child meets your choice on a free 15-minute video call before anything is paid."
+  - title: "Weekly lessons"
+    body: "One hour a week on Lessonspace, with working on a shared whiteboard and a replay afterwards. From £37 an hour, no contract."
+faqs:
+  - q: "What GCSE Maths grade will my child need for college?"
+    a: "It depends on the college and the course. Loreto, Xaverian and the other sixth forms publish their own requirements, often higher for A-Level Maths and sciences, so check the current versions."
+  - q: "My child has given up on Maths. Is tutoring worth it?"
+    a: "Often it's where tutoring helps most. A child who has given up usually has a handful of gaps, not a lack of ability. Fixing those and getting some right answers early changes how they approach the rest."
+  - q: "Who are your Maths tutors?"
+    a: "Graduates and university students, each interviewed by Harry or Joe, with about 3% of applicants accepted and at least two years' tutoring each."
+  - q: "How much does GCSE Maths tutoring cost?"
+    a: "From £37 an hour, agreed before booking. No contract, no joining fee, and you can pause with a day or two's notice."
+reviews:
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. We opted for Avery and she was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back in her abilities and gave her the confidence to face Maths GCSE exams. Highly recommend Degree Gap and will be back again in September with my youngest embarking on her GCSEs"
+  - "Hermione|GCSE Student|Came here to search for a GCSE maths tutor and was recommended Rebecca Hanna by the very helpful Harry. Rebecca was nothing but helpful and comforting. I highly recommend her, especially since she helped me pass the GCSE! Thank you."
+  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents.\n\nUPDATE: My daughter passed both English and Maths GCSE (4 and 5's). We are extremely grateful to your team especially Avery for the support she gave her in both subjects. Considering she missed a large chunk of the last 3 years at school due to a social anxiety illness, this is an amazing achievement for her."
+  - "Isabel|Parent of iGCSE Student|Harry helped our son enormously with his maths and economics iGCSE prep. He was patient, fun and engaging - just what we needed. Highly recommended."
+  - "Anders|iGCSE Student|I reached out to The Degree Gap to get some help to prepare for my iGCSE exams and was very impressed by their tutors and professionalism!"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

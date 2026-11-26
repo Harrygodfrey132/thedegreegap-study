@@ -1,0 +1,53 @@
+---
+title: "Loughton A-Level Chemistry Tutors | The Degree Gap"
+nav_title: "Chemistry"
+description: "Are organic mechanisms losing your child A-Level Chemistry marks? Online A-Level Chemistry tutoring for Loughton sixth formers, by board. From £37 an hour."
+layout: "level-subject"
+location: "Loughton"
+level: "A-Level"
+subject: "Chemistry"
+hero_h1: "A-Level Chemistry Tutors for Loughton Students"
+hero_lead: "Your child has pages of organic reactions in their folder and can't see how any of them connect. Our A-Level Chemistry tutors for Loughton students turn the reactions into a handful of patterns."
+angle_eyebrow: "TOO MANY REACTIONS TO REMEMBER"
+angle_heading: "Why Organic Chemistry Costs Loughton Students So Many A-Level Marks"
+angle_body_1: "Organic chemistry is where a lot of A-Level Chemistry students start to feel swamped. There are dozens of reactions, each with conditions, reagents and a mechanism drawn with curly arrows, and synthesis questions ask your child to chain several together. Students who learn each reaction separately find it impossible to hold them all at once. The physical chemistry calculations add their own pressure, with several steps where one slip carries through."
+angle_body_2: "The tutor groups reactions by mechanism so your child learns a few patterns instead of a long list, then practises synthesis routes on the shared whiteboard. Calculations are taken one type at a time, with questions from your child's board each week. Chemistry is required for many medicine, dentistry, pharmacy and veterinary courses, so for plenty of Loughton students this grade matters well beyond the subject."
+angle_image: "/images/chemistry-lab-glassware.jpg"
+angle_image_alt: "Glassware on a lab bench for an A-Level Chemistry practical"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "From Cs to As: Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The review doesn't say which subjects."
+schools:
+  - "Davenant Foundation School"
+  - "West Hatch High School"
+  - "Chigwell School"
+  - "Bancroft's School"
+  - "Woodford County High School"
+steps_heading: "Starting A-Level Chemistry lessons for a Loughton sixth former"
+steps_lead: "Tell us the board and which topics went worst in the last test. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, about 30 minutes. We'll ask which board, Year 12 or 13, whether organic, physical or inorganic feels weakest, and what your child hopes to study next."
+  - title: "Choose your tutor"
+    body: "Two or three Chemistry tutor profiles within 24 hours, matched to your child's specification. A free 15-minute video call with the one you choose comes before any payment."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, with mechanisms and calculations on a shared whiteboard and a replay each time. From £37 an hour, no contract."
+faqs:
+  - q: "How can my child remember all the organic reactions?"
+    a: "By learning fewer things more deeply. Most reactions follow a small number of mechanisms, and once your child understands those, the details are much easier to recall. A tutor practises them with synthesis questions until they stick."
+  - q: "Is A-Level Chemistry needed for medicine?"
+    a: "For most UK medical schools, yes, though requirements vary. Check each university's own entry requirements, as they change and differ between courses."
+  - q: "How do you choose your Chemistry tutors?"
+    a: "Harry or Joe interview every tutor, and about 3% of applicants are accepted. Each has at least two years' tutoring. We check they can explain a mechanism clearly to a student who's confused."
+  - q: "How much do A-Level Chemistry lessons cost?"
+    a: "From £37 an hour, agreed in advance. That includes the lesson, practice questions between lessons and a recording. No contract."
+reviews:
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Leo|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

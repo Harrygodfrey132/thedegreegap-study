@@ -1,0 +1,53 @@
+---
+title: "Canvey Island A-Level Economics Tutors | The Degree Gap"
+nav_title: "Economics"
+description: "Do your child's Economics essays never reach a judgement? Online A-Level Economics tutoring for Canvey Island sixth formers, by board. From £37 an hour."
+layout: "level-subject"
+location: "Canvey Island"
+level: "A-Level"
+subject: "Economics"
+hero_h1: "A-Level Economics Tutors for Canvey Island Students"
+hero_lead: "Your child can explain inflation over dinner and still writes a 25-mark essay that never decides anything. Our A-Level Economics tutors for Canvey Island students teach them to argue on paper and finish with a judgement."
+angle_eyebrow: "NO JUDGEMENT, NO TOP MARKS"
+angle_heading: "Why A-Level Economics Essays Catch Out So Many Canvey Island Students"
+angle_body_1: "Very few students have studied Economics before Year 12, so everyone starts from scratch. The diagrams come quickly: supply and demand, market failure, then aggregate demand and supply. The long essays need evaluation, weighing both sides and reaching a decision, and most students describe one side well and stop. Data questions ask for a calculation and a comment, and the comment gets forgotten."
+angle_body_2: "The tutor gets your child drawing diagrams accurately from memory, then using them in an argument. Essays are planned together, with a clear judgement at the end. Feedback comes against the real mark scheme. Economics leads to plenty of routes, from degrees in Essex and London to finance apprenticeships in the City, a c2c ride from Benfleet."
+angle_image: "/images/economics-equations-on-chalkboard.jpg"
+angle_image_alt: "Economics diagrams and equations on a chalkboard"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "From Cs to As: Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The subjects aren't named."
+schools:
+  - "SEEVIC College"
+  - "The King John School"
+  - "The Appleton School"
+  - "Westcliff High School for Boys"
+  - "Southend High School for Girls"
+steps_heading: "Three steps to A-Level Economics tutoring for Canvey Island families"
+steps_lead: "If an essay deadline is coming, let us know. Profiles normally follow within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "A free call of about 30 minutes with Harry or Joe. We'll ask about the board, Year 12 or 13, and whether micro, macro or the essays are the problem."
+  - title: "Choose your tutor"
+    body: "Two or three Economics tutor profiles within a day, matched to your child's board. A free 15-minute video call with your pick comes first."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, diagrams drawn together on a shared whiteboard, with a replay of each. From £37 an hour, no contract."
+faqs:
+  - q: "My child is starting A-Level Economics with no background. Will they be behind?"
+    a: "Probably not, since most of the class is new too. What catches students out is the writing, essays that weigh both sides. A tutor builds that habit from the first term."
+  - q: "How do you get better at evaluation in Economics essays?"
+    a: "By asking 'it depends on what?' after every point. A tutor practises that until your child does it without thinking, then shows how to end with a clear judgement."
+  - q: "Who tutors A-Level Economics?"
+    a: "Harry, one of our founders, teaches Economics, along with other tutors interviewed by Harry or Joe. About 3% of applicants are accepted, each with at least two years' tutoring."
+  - q: "How much does A-Level Economics tutoring cost?"
+    a: "From £37 an hour, agreed before booking. No contract, and you can pause any time with a day or two's notice."
+reviews:
+  - "Binh|A-Level Student|I was very fortunate enough to encounter Harry during my time taking A level economics. I really struggled a lot with long 30 marked essays as well as evaluation and learning the graphs as for at the time it was really hard and I didn’t understand. However the way how Harry taught me was super simple compared to other teachers from school. I really enjoyed my time when Harry taught me and I would highly recommend it to people!"
+  - "Cat|Parent of A-Level Student|My 18 year old son had A-level Economics tutoring with Harry.  He was excellent, knew exactly what he needed to learn and was able to explain in terms which made it simple to understand.  The online platform was convenient and easy to use."
+  - "Lucas|A-Level Student|I was having trouble with some areas of my economics a level course before getting in contact with Harry. He walked me through everything I needed help with, from content I was weak with to exam technique that I was lacking. His insight, examples and willingness to go the extra step really helped me to regain my confidence in economics, having achieved a predicted a* with his help."
+  - "Matthew|A-Level Student|My tutor was very helpful leading to the result that I wanted, giving helpful tips and techniques to get the most out of my Economics. I used Sayyeda-Zainab Rajabali for A Level Economics and she was always very helpful and taught at a high level."
+  - "Sarom|Parent of A-Level Student|Harry has been very helpful in tutoring my son for his economics A Level. He has lots of patience, keeps lessons interesting and is a good motivator. Needless to say his subject matter is expertise is excellent."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

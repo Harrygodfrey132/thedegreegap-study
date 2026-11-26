@@ -1,0 +1,53 @@
+---
+title: "Loughton A-Level Maths Tutors | The Degree Gap"
+nav_title: "Maths"
+description: "Is A-Level Maths falling apart on the long questions? Online A-Level Maths tutoring for Loughton sixth formers, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Loughton"
+level: "A-Level"
+subject: "Maths"
+hero_h1: "A-Level Maths Tutors for Loughton Students"
+hero_lead: "Your child got a 7 or an 8 at GCSE and assumed A-Level Maths would feel the same. Then came the first integration test. Our A-Level Maths tutors for Loughton students rebuild the foundations the course takes for granted."
+angle_eyebrow: "THE GAP AFTER GCSE"
+angle_heading: "Why the Jump From GCSE Catches Out So Many Loughton Students in A-Level Maths"
+angle_body_1: "A-Level Maths assumes that GCSE algebra is completely secure: factorising, indices, surds, rearranging, completing the square. For a lot of students it's mostly secure, which isn't the same thing. Each small weakness turns up inside bigger questions on calculus, trigonometry and logarithms, and costs marks far from where it started. Statistics and Mechanics then add long, wordy contexts that need turning into equations."
+angle_body_2: "The tutor uses your child's marked tests to find which GCSE skills are leaking, and fixes those early, often in the first few weeks of Year 12. Then each lesson mixes new content with past questions from your child's board, so methods stay sharp. For students thinking about engineering, economics or computing degrees, a strong Maths grade is often the one universities look at first."
+angle_image: "/images/maths-equations-close-up.jpg"
+angle_image_alt: "Close-up of A-Level Maths working on an integration problem"
+angle_stat_from: "E"
+angle_stat_to: "B"
+angle_stat_detail: "From an E to a B: Keira, an A-Level Student, wrote on Google that the tutoring “definitely helped me increase my grades from an E to a B”. The subject isn't named."
+schools:
+  - "Davenant Foundation School"
+  - "West Hatch High School"
+  - "Chigwell School"
+  - "Bancroft's School"
+  - "Woodford County High School"
+steps_heading: "Starting A-Level Maths lessons for a Loughton sixth former"
+steps_lead: "Tell us the board and how the last test went. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, about 30 minutes. We'll ask which board, Year 12 or 13, which of Pure, Statistics and Mechanics feels weakest, and whether Further Maths is involved."
+  - title: "Choose your tutor"
+    body: "Two or three Maths tutor profiles within 24 hours, matched to your child's specification. A free 15-minute video call with the one you choose comes before any payment."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, working on a shared whiteboard, with a replay each time. From £37 an hour, no contract, and a new tutor if they don't get on."
+faqs:
+  - q: "My child did well in GCSE Maths. Why are they struggling now?"
+    a: "Because A-Level leans hard on algebra that GCSE only tested now and then. Small gaps that didn't matter before now appear in almost every question. A tutor finds and fixes them early."
+  - q: "Is it worth starting tutoring in Year 12, or should we wait until Year 13?"
+    a: "Year 12 is usually better. Predicted grades for university applications are often based on Year 12 work, and fixing gaps early makes Year 13 much less stressful."
+  - q: "How do you choose your Maths tutors?"
+    a: "Harry or Joe interview every tutor, and about 3% of applicants are accepted. Each has at least two years' tutoring. We check they can explain a proof or a tricky integral to someone who's stuck."
+  - q: "How much do A-Level Maths lessons cost?"
+    a: "From £37 an hour, agreed in advance. That includes the lesson, practice questions between lessons and a recording. No contract."
+reviews:
+  - "Abby|Parent of A-Level Student|Harry has tutored my son in both maths and economics A-levels and has been fantastic. Harry has been professional, approachable and engaging, he has explained things clearly and has fully supported my son through the last 2 years. We are absolutely delighted with the results. Thank you!"
+  - "John|Parent of A-Level Student|Freddie really enjoyed his time with The Degree Gap. He got help with his three A levels (maths, computer science and business) and managed to get his number one choice attending Liverpool Uni to study a masters in Maths. The tutors were organised, supportive and spent time understanding where the knowledge gaps where to ensure best chance of success in exams! Highly recommended"
+  - "Charlotte|Student|I cannot recommend Harry enough. He was helpful welcoming and helped me achieve a grade higher than I was expected!"
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

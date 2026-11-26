@@ -1,0 +1,53 @@
+---
+title: "Loughton A-Level Physics Tutors | The Degree Gap"
+nav_title: "Physics"
+description: "Is A-Level Physics mechanics leaving your child stuck? Online A-Level Physics tutoring for Loughton sixth formers, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Loughton"
+level: "A-Level"
+subject: "Physics"
+hero_h1: "A-Level Physics Tutors for Loughton Students"
+hero_lead: "Your child stares at a mechanics question for five minutes, not sure whether to resolve forces, use energy or reach for an equation of motion. Our A-Level Physics tutors for Loughton students teach them how to choose."
+angle_eyebrow: "WHICH METHOD DO I USE?"
+angle_heading: "Why Choosing the Method Costs Loughton Students So Many A-Level Physics Marks"
+angle_body_1: "A-Level Physics questions rarely tell your child which idea to use. A problem about a ball on a slope might need forces, energy or the equations of motion, and the wrong choice can waste ten minutes. The same thing happens with circuits, fields and momentum. Students who've practised one topic at a time can do each method perfectly and still freeze when the question doesn't say which it wants."
+angle_body_2: "The tutor works through mixed questions from your child's board, asking them to name the physics before writing any numbers. Diagrams go on the shared whiteboard first, then the maths, which is kept sharp alongside. The written explanations get the same care, because precise wording earns marks too. For a Loughton student thinking about engineering or physics at university, it's the habit that matters most."
+angle_image: "/images/physics-calculator-reflection-diagram.jpg"
+angle_image_alt: "A calculator beside a physics diagram for an A-Level problem"
+angle_stat_from: "E"
+angle_stat_to: "B"
+angle_stat_detail: "From an E to a B: Keira, an A-Level Student, wrote on Google that the tutoring “definitely helped me increase my grades from an E to a B”. The review doesn't name the subject."
+schools:
+  - "Davenant Foundation School"
+  - "West Hatch High School"
+  - "Chigwell School"
+  - "Bancroft's School"
+  - "Woodford County High School"
+steps_heading: "Starting A-Level Physics lessons for a Loughton sixth former"
+steps_lead: "Tell us the board and which topics feel weakest. Profiles usually follow within a day."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, about 30 minutes. We'll ask which board, Year 12 or 13, which topics went worst, and whether your child also takes A-Level Maths."
+  - title: "Choose your tutor"
+    body: "Two or three Physics tutor profiles within 24 hours, matched to your child's specification. A free 15-minute video call with the one you choose comes before any payment."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, diagrams and working on a shared whiteboard, with a replay each time. From £37 an hour, no contract."
+faqs:
+  - q: "Why does my child understand Physics in lessons but struggle in tests?"
+    a: "Lessons usually cover one topic at a time, and tests mix them. Choosing the right method is a separate skill, and it needs practice with mixed questions. That's a large part of what a tutor does."
+  - q: "Does my child need to take A-Level Maths as well?"
+    a: "It helps but isn't essential. A tutor can make sure the maths used in Physics is secure either way."
+  - q: "How do you choose your Physics tutors?"
+    a: "Harry or Joe interview every tutor, and about 3% of applicants are accepted. Each has at least two years' tutoring. We check they can explain an idea like momentum in plain words."
+  - q: "How much do A-Level Physics lessons cost?"
+    a: "From £37 an hour, agreed in advance. That includes the lesson, practice questions between lessons and a recording. No contract."
+reviews:
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Matthew|A-Level Student|My tutor was very helpful leading to the result that I wanted, giving helpful tips and techniques to get the most out of my Economics. I used Sayyeda-Zainab Rajabali for A Level Economics and she was always very helpful and taught at a high level."
+  - "John|Parent of A-Level Student|Freddie really enjoyed his time with The Degree Gap. He got help with his three A levels (maths, computer science and business) and managed to get his number one choice attending Liverpool Uni to study a masters in Maths. The tutors were organised, supportive and spent time understanding where the knowledge gaps where to ensure best chance of success in exams! Highly recommended"
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

@@ -1,0 +1,53 @@
+---
+title: "Wendover GCSE Science Tutors | The Degree Gap"
+nav_title: "Science"
+description: "Are the required practicals costing your child GCSE Science marks? Online GCSE Science tutoring for Wendover students, Combined or Triple, by board."
+layout: "level-subject"
+location: "Wendover"
+level: "GCSE"
+subject: "Science"
+hero_h1: "GCSE Science Tutors for Wendover Students"
+hero_lead: "Your child did the practical in Year 10, and now can't remember what was measured or why. Our GCSE Science tutors for Wendover students go back over the methods until they can be described clearly."
+angle_eyebrow: "THE PRACTICAL FROM YEAR 10"
+angle_heading: "Why Required Practicals Catch Out So Many Wendover Students in GCSE Science"
+angle_body_1: "Every GCSE Science paper asks about the required practicals, and many Wendover students lose marks there without realising. They did the experiment once, months ago, in a group, and someone else wrote it up. Now the exam asks them to name the variables, explain how to make it fairer, or spot why a result looks wrong. It's a different skill from knowing the content, and it's rarely practised before the mocks."
+angle_body_2: "A tutor goes through the practicals for your child's board one at a time on the shared whiteboard: what was changed, what was measured, what was kept the same, and what usually goes wrong. Then the six-mark questions are planned point by point, in the order the mark scheme wants. Combined or Triple, at John Colet or a grammar, the method is the same."
+angle_image: "/images/chemistry-lab-glassware.jpg"
+angle_image_alt: "Glassware set up for a GCSE Chemistry required practical"
+angle_stat_from: "4-5"
+angle_stat_to: "8"
+angle_stat_detail: "From a predicted 4-5 to an 8 in Physics: Chamarika, Parent of GCSE Student, wrote on Trustpilot that their son “managed to turn this around and made it an 8 within roughly two months of tutoring”."
+schools:
+  - "The John Colet School"
+  - "Aylesbury Grammar School"
+  - "Aylesbury High School"
+  - "Sir Henry Floyd Grammar School"
+  - "Dr Challoner's High School"
+steps_heading: "Three steps to GCSE Science tutoring in Wendover"
+steps_lead: "Tell us whether it's Combined or Triple Science. Profiles usually land within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask about the board, Combined or Triple, and which of Biology, Chemistry and Physics is the worry."
+  - title: "Choose your tutor"
+    body: "Two or three Science tutor profiles within 24 hours. Your child meets your first choice on a free 15-minute video call before anything is paid."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, with diagrams and calculations on a shared whiteboard and a replay afterwards. From £37 an hour, no contract, and a new tutor if they don't get on."
+faqs:
+  - q: "Can one tutor cover Biology, Chemistry and Physics?"
+    a: "Often, yes, especially for Combined Science. For Triple, or if one science is much weaker, we may suggest a specialist for that subject. We'll talk it through on the call."
+  - q: "What's the difference between Combined and Triple Science?"
+    a: "Combined Science covers all three sciences and gives two GCSEs. Triple gives three separate GCSEs and goes into more depth. Schools decide who takes which, and a tutor works to whichever your child is sitting."
+  - q: "Who are your Science tutors?"
+    a: "Graduates and university students, interviewed by Harry or Joe, with at least two years' tutoring each. About 3% of applicants are accepted."
+  - q: "My child wants to do sciences at A-Level. What GCSE grades are needed?"
+    a: "Usually a 6 or above in the relevant science, sometimes a 7, and often a strong Maths grade too. Requirements differ between sixth forms and change from year to year, so check the current prospectus."
+reviews:
+  - "Chamarika|Parent of GCSE Student|Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s. Thank you to all the 3x tutors."
+  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. The website is easy to use and effective, I had no disappointment in scheduling lessons for my son. Tutors were polite and on time for their lessons."
+  - "Gilmoore|Parent of GCSE Student|Initially I was hesitant to enrol my son for online lessons. However, the company has well experienced, knowledgeable and helpful tutors. There is also flexibility around booking of lessons. At the end of the day, my son achieved the next top grade than what had been predicted in his mid-year school GCSE exams. I am forever indebted to The Degree Gap."
+  - "Nazrul|Parent of GCSE Student|My daughter found the tutors were very helpful for her GCSE thank you"
+  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. The tutors we have used are lovely.  The Degree Gap use an advanced online platform which enables interactive tuition. We also attended a free webinar from the Degree Gap which was very informative and added value. I highly recommend them."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

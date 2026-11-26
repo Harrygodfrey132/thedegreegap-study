@@ -1,0 +1,53 @@
+---
+title: "Alwoodley A-Level Physics Tutors | The Degree Gap"
+nav_title: "Physics"
+description: "Is the maths in A-Level Physics slowing your child down? Online A-Level Physics tutoring for Alwoodley sixth formers, matched to the board. From £37 an hour."
+layout: "level-subject"
+location: "Alwoodley"
+level: "A-Level"
+subject: "Physics"
+hero_h1: "A-Level Physics Tutors for Alwoodley Students"
+hero_lead: "Your child understands the lesson, then stares at a long question unsure which equation to reach for. Our A-Level Physics tutors for Alwoodley students teach them to set problems up before solving them."
+angle_eyebrow: "WHEN THE PHYSICS IS FINE AND THE SETUP ISN'T"
+angle_heading: "Why Problem Setup Costs Alwoodley Students A-Level Physics Marks"
+angle_body_1: "A-Level Physics questions rarely say which idea they're testing. A student has to read a situation, draw it, decide which principle applies and only then calculate. Many lose marks before the maths even starts, by choosing the wrong approach or by skipping the diagram that would have shown them the way."
+angle_body_2: "The tutor works through a recent paper and marks where each answer first went wrong. Then every lesson practises the same routine: sketch, list the knowns, pick the principle, then calculate. Mechanics, electricity and fields all get the treatment, and the maths underneath is tightened as it comes up."
+angle_image: "/images/physics-mechanics-force-diagram.jpg"
+angle_image_alt: "A mechanics force diagram, the kind of sketch that sets up an A-Level Physics problem"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "From Cs to As: Alexander, a Parent, wrote on Google that “Degree Gap helped my kid go from Cs to As”. The review doesn't say which subjects."
+schools:
+  - "Allerton Grange School"
+  - "Allerton High School"
+  - "The Grammar School at Leeds"
+  - "Roundhay School"
+  - "Notre Dame Catholic Sixth Form College"
+steps_heading: "Getting A-Level Physics lessons started in Alwoodley"
+steps_lead: "Tell us about any tests coming up. Profiles usually arrive within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask about the board, the year group and the topics that feel hardest."
+  - title: "Choose your tutor"
+    body: "Two or three Physics tutor profiles within a day. Your child meets your choice on a free 15-minute video call before payment."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace with diagrams on a shared whiteboard, recorded every time. From £37 an hour, no contract."
+faqs:
+  - q: "Does my child need A-Level Maths to do well in Physics?"
+    a: "It helps, but it isn't essential. A tutor can cover the maths skills Physics needs, such as rearranging, trigonometry and graphs, as they come up."
+  - q: "Can a Physics tutor help with an engineering application?"
+    a: "With the grade, yes. Universities set their own requirements and some ask for admissions tests, so check those first."
+  - q: "Who are your Physics tutors?"
+    a: "Graduates and university students, interviewed by Harry or Joe, with at least two years' tutoring each. About 3% of applicants are accepted."
+  - q: "How much does A-Level Physics tutoring cost?"
+    a: "From £37 an hour. No contract, and you can stop any time."
+reviews:
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Charlotte|Student|I cannot recommend Harry enough. He was helpful welcoming and helped me achieve a grade higher than I was expected!"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

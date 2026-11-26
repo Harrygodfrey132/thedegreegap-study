@@ -1,0 +1,53 @@
+---
+title: "Alwoodley A-Level Chemistry Tutors | The Degree Gap"
+nav_title: "Chemistry"
+description: "Are calculations and organic mechanisms costing your child marks? Online A-Level Chemistry tutoring for Alwoodley sixth formers, by board. From £37 an hour."
+layout: "level-subject"
+location: "Alwoodley"
+level: "A-Level"
+subject: "Chemistry"
+hero_h1: "A-Level Chemistry Tutors for Alwoodley Students"
+hero_lead: "The jump from GCSE to A-Level is steeper in Chemistry than almost anywhere. Our A-Level Chemistry tutors for Alwoodley students catch the calculations and mechanisms before they snowball."
+angle_eyebrow: "THE STEEPEST JUMP FROM GCSE"
+angle_heading: "Why Calculations Catch Out Alwoodley Students in A-Level Chemistry"
+angle_body_1: "Moles, concentrations, equilibrium constants and enthalpy all turn up early in Year 12, and they keep coming back. A student who is shaky on rearranging or units loses marks across physical, organic and inorganic chemistry alike. Meanwhile organic mechanisms pile up and get learnt as separate facts rather than patterns."
+angle_body_2: "The tutor checks the calculations first, with short, regular practice until they're routine. Then mechanisms are taught as a handful of patterns your child can apply to molecules they've never met. Each lesson ends on an exam question, so the method is practised under real conditions."
+angle_image: "/images/chemistry-lab-glassware.jpg"
+angle_image_alt: "Chemistry glassware in a laboratory, for A-Level practical and calculation work"
+angle_stat_from: "E"
+angle_stat_to: "B"
+angle_stat_detail: "From an E to a B: Keira, an A-Level Student, wrote on Google that the tutoring “definitely helped me increase my grades from an E to a B”. The review doesn't name the subject."
+schools:
+  - "Allerton Grange School"
+  - "Allerton High School"
+  - "The Grammar School at Leeds"
+  - "Roundhay School"
+  - "Notre Dame Catholic Sixth Form College"
+steps_heading: "Three steps to A-Level Chemistry tutoring in Alwoodley"
+steps_lead: "Mention mock dates on the call. Profiles usually come within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask about the board, the year group and whether physical, organic or inorganic chemistry is the problem."
+  - title: "Choose your tutor"
+    body: "Two or three Chemistry tutor profiles within 24 hours. A free 15-minute video call with your choice comes before payment."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace with mechanisms and calculations on a shared whiteboard, recorded every time. From £37 an hour, no contract."
+faqs:
+  - q: "My child got a 9 in GCSE Chemistry but is struggling now. Why?"
+    a: "A-Level Chemistry moves much faster and leans more on maths. Students who relied on memory at GCSE often need to change how they study. A tutor helps them make that switch early."
+  - q: "Can a tutor help with the practical endorsement?"
+    a: "A tutor can help your child understand the required practicals and answer questions about them in the exam. The endorsement itself is assessed by the school."
+  - q: "Who are your Chemistry tutors?"
+    a: "Graduates and university students, interviewed by Harry or Joe, with at least two years' tutoring each. About 3% of applicants are accepted."
+  - q: "How much does A-Level Chemistry tutoring cost?"
+    a: "From £37 an hour. No contract, and you can stop with a day or two's notice."
+reviews:
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Leo|Student|The time I have spent with my tutor here has  really valuable.  He has helped so much with a range of topics across economics and maths. He explains things really clearly and makes the sessions enjoyable."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

@@ -1,0 +1,53 @@
+---
+title: "Wendover A-Level Chemistry Tutors | The Degree Gap"
+nav_title: "Chemistry"
+description: "Are A-Level Chemistry calculations losing your child marks? Online A-Level Chemistry tutoring for Wendover sixth formers, matched to the board."
+layout: "level-subject"
+location: "Wendover"
+level: "A-Level"
+subject: "Chemistry"
+hero_h1: "A-Level Chemistry Tutors for Wendover Students"
+hero_lead: "Your child did well in GCSE Chemistry and now gets lost halfway through an equilibrium calculation. Our A-Level Chemistry tutors for Wendover students take the maths and the mechanisms one step at a time."
+angle_eyebrow: "THE CALCULATIONS"
+angle_heading: "Where A-Level Chemistry Gets Hard for Wendover Sixth Formers"
+angle_body_1: "A-Level Chemistry asks for a lot more maths than most Wendover students expect. Moles, equilibrium constants, pH and enthalpy calculations all appear in Year 12, and a mistake early in a long calculation can cost all the marks after it. Alongside that, organic chemistry brings mechanisms that need to be understood, not just memorised. Students who were confident at GCSE can lose that confidence very quickly."
+angle_body_2: "A tutor sorts out the calculations first, using a clear layout for each type until your child can do them reliably. Then organic mechanisms are taught as patterns, so a new reaction looks familiar rather than random. Every week includes past paper questions on the shared whiteboard, and the recording means your child can revisit any method before a test."
+angle_image: "/images/chemistry-lab-glassware.jpg"
+angle_image_alt: "Glassware on a lab bench for an A-Level Chemistry practical"
+angle_stat_from: "E/U"
+angle_stat_to: "C"
+angle_stat_detail: "From E and U grades to Cs: Joanna, Parent of A-Level Student, wrote on Google that the tutoring helped “turn E and U grades into 3 C grades”. The review doesn't say which subjects."
+schools:
+  - "The John Colet School"
+  - "Aylesbury Grammar School"
+  - "Aylesbury High School"
+  - "Sir Henry Floyd Grammar School"
+  - "Dr Challoner's High School"
+steps_heading: "Getting A-Level Chemistry tutoring started in Wendover"
+steps_lead: "If Year 13 mocks are close, mention it on the call. Tutor profiles normally arrive within 24 hours."
+steps:
+  - title: "A free call about your child"
+    body: "About half an hour with Harry or Joe, free. We'll ask about the board, the year group, and whether it's the calculations or the organic chemistry that's the problem."
+  - title: "Choose your tutor"
+    body: "Two or three Chemistry tutor profiles within a day. Your child meets your first choice on a free 15-minute video call before you pay."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, with mechanisms and calculations on a shared whiteboard and a replay afterwards. From £37 an hour, no contract, and a new tutor if they don't get on."
+faqs:
+  - q: "Does my child need A-Level Maths to do well in Chemistry?"
+    a: "No, but they need the GCSE maths to be secure. A tutor checks rearranging, standard form and logarithms early, because these come up constantly."
+  - q: "Can a tutor help with the practical endorsement?"
+    a: "A tutor can help your child understand the required practicals and answer questions on them in the exam. The endorsement itself is assessed by the school."
+  - q: "Who are your Chemistry tutors?"
+    a: "Graduates and university students, interviewed by Harry or Joe, with at least two years' tutoring each. About 3% of applicants are accepted."
+  - q: "How much does A-Level Chemistry tutoring cost?"
+    a: "From £37 an hour. No contract, and you can pause or stop with a day or two's notice."
+reviews:
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Maureen|Student|The Degree gap actually made tutoring approachable. It's the worst feeling when you are struggling, frustrated and feel helpless. I was matched with a great tutor who always made time for me. The software made it easy to navigate topics I found difficult. Having that reliable support was critical to my much improved grades. Thank you so much!"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

@@ -1,0 +1,53 @@
+---
+title: "Canvey Island GCSE Science Tutors | The Degree Gap"
+nav_title: "Science"
+description: "Is your child losing Science marks on the calculations? Online GCSE Science tutoring for Canvey Island students, Combined or Triple, by board. From £37."
+layout: "level-subject"
+location: "Canvey Island"
+level: "GCSE"
+subject: "Science"
+hero_h1: "GCSE Science Tutors for Canvey Island Students"
+hero_lead: "Your child knows the Physics equation and still gets the answer wrong, because the rearranging went astray halfway down. Our GCSE Science tutors for Canvey Island students take the maths in Science one line at a time."
+angle_eyebrow: "THE MATHS INSIDE SCIENCE"
+angle_heading: "Why the Calculations Cost Canvey Island Students So Many GCSE Science Marks"
+angle_body_1: "A surprising share of GCSE Science marks are maths. Physics asks your child to pick an equation, rearrange it and handle units. Chemistry brings moles, concentrations and percentage yield. Biology has magnification and rates from graphs. Children who are unsure of Maths tend to skip these questions altogether, and they're often the same children who know the science well. Then the six-mark answers and the required practical questions take more marks on top."
+angle_body_2: "The tutor sets calculations out the same way every time: write the equation, substitute, rearrange, check the units. It's practised on past questions until it's routine. Long answers get a simple point-by-point plan, and each practical is gone back over as a short method. Science grades matter at sixteen, whether your child wants sciences at A-Level or a health or engineering course at college."
+angle_image: "/images/chemistry-lab-glassware.jpg"
+angle_image_alt: "Glassware set up for a GCSE Chemistry required practical"
+angle_stat_from: "4-5"
+angle_stat_to: "8"
+angle_stat_detail: "From a predicted 4-5 to an 8 in Physics: Chamarika, Parent of GCSE Student, wrote on Trustpilot that their son “managed to turn this around” within “roughly two months of tutoring”."
+schools:
+  - "Castle View School"
+  - "Cornelius Vermuyden School"
+  - "The King John School"
+  - "The Appleton School"
+  - "The Deanes School"
+steps_heading: "Three steps to GCSE Science tutoring for Canvey Island families"
+steps_lead: "Tell us whether it's Combined or Triple Science. Profiles usually land within a day."
+steps:
+  - title: "A free call about your child"
+    body: "About 30 minutes with Harry or Joe, at no cost. We'll ask whether your child sits Combined or separate sciences, on which board, and which of Biology, Chemistry or Physics feels weakest."
+  - title: "Choose your tutor"
+    body: "Within 24 hours, two or three Science tutor profiles to look at, matched to the board and tier. Your child meets your choice on a free 15-minute video call first."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, with diagrams and calculations on a shared whiteboard and every lesson recorded. From £37 an hour, no contract, and we'll swap tutors if needed."
+faqs:
+  - q: "My child is good at Science but weak at Maths. Will that hold their grade back?"
+    a: "It can, because a fair share of the marks are calculations. The good news is that the maths in GCSE Science is a fairly small, predictable set of skills. A tutor practises those until your child stops skipping the questions."
+  - q: "Is Combined Science easier than Triple?"
+    a: "Not easier, just less content. Combined Science covers all three sciences and gives two grades. Triple covers more topics and gives three. Both can lead to A-Level sciences, though sixth forms set their own requirements, so check the current prospectus."
+  - q: "Will one tutor cover Biology, Chemistry and Physics?"
+    a: "Often, for Combined Science. If your child takes separate sciences and one is much weaker, we may suggest a tutor who's strongest in that one."
+  - q: "What does GCSE Science tutoring cost?"
+    a: "From £37 an hour, agreed before anything is booked. There's no contract and no joining fee, and you can stop with a day or two's notice."
+reviews:
+  - "Chamarika|Parent of GCSE Student|Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s. Thank you to all the 3x tutors."
+  - "Gilmoore|Parent of GCSE Student|Initially I was hesitant to enrol my son for online lessons. However, the company has well experienced, knowledgeable and helpful tutors. There is also flexibility around booking of lessons. At the end of the day, my son achieved the next top grade than what had been predicted in his mid-year school GCSE exams. I am forever indebted to The Degree Gap."
+  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. The website is easy to use and effective, I had no disappointment in scheduling lessons for my son. Tutors were polite and on time for their lessons."
+  - "Sam|Parent of GCSE Student|Excellent experience. Founders are accessible, hands on, responsive and flexible. As are the tutors - quality all round. It was great to be able to trial a few to find the right fit, who my daughter felt most comfortable with. She got at least a grade higher in GCSEs because of the tuition which helped her get into a top school (grammar) for As."
+  - "Nazrul|Parent of GCSE Student|My daughter found the tutors were very helpful for her GCSE thank you"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---
